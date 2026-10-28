@@ -1,6 +1,6 @@
 // The game: rounds, timer, guesses, saving and the finish.
 import { CONFIG } from './config.js';
-import { buildIndex, canAutoAccept } from './matcher.js';
+import { buildIndex, typedState, toKey, continues } from './matcher.js';
 import { dateKey, dayNumber, promptsForDate, practicePrompts } from './daily.js';
 import { roundMetres, totalMetres, milestoneAt, nextMilestone, titleFor, formatMetres, temperatureAt, EVEREST } from './scoring.js';
 import { load, save } from './store.js';
@@ -283,7 +283,7 @@ function stopClock() {
   if (!clock) return;
   cancelAnimationFrame(clock.raf);
   clearInterval(clock.interval);
-  clearTimeout(clock.auto);
+  cancelPending();
   clock = null;
 }
 
@@ -298,24 +298,18 @@ const settings = Object.assign({ vibrate: true }, load('settings', {}));
 const reducedMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 let combo = { level: 0, lastAt: null };
 
-function addChip(label, id, from) {
+// The chip goes in at once, in place, at full strength; a short pop runs on the compositor.
+function addChip(label, id) {
   const li = document.createElement('li');
   li.textContent = label;
   li.dataset.id = String(id);
   $('found-list').prepend(li);
-  // The typed word flies from the rope into the list.
-  if (from && !reducedMotion() && li.animate) {
-    const to = li.getBoundingClientRect();
-    const dx = from.left - to.left;
-    const dy = from.top - to.top;
-    li.animate([
-      { transform: `translate(${dx}px, ${dy}px) scale(0.9)`, opacity: 0.4 },
-      { transform: 'translate(0, -6px) scale(1.04)', opacity: 1, offset: 0.75 },
-      { transform: 'none', opacity: 1 },
-    ], { duration: 420, easing: 'cubic-bezier(.3,.7,.3,1)' });
-  }
+  if (!reducedMotion() && li.animate) li.animate([{ transform: 'scale(1.12)' }, { transform: 'none' }], { duration: 160, easing: 'ease-out' });
   return li;
 }
+
+// Work the player does not need to see this frame runs after the chip is painted.
+const afterPaint = (fn) => requestAnimationFrame(() => setTimeout(fn, 0));
 
 function setFeedback(kind, parts = []) {
   const f = $('feedback');
@@ -323,10 +317,9 @@ function setFeedback(kind, parts = []) {
   f.replaceChildren(...parts);
   const field = $('rope-field');
   field.classList.remove('is-wrong', 'is-already', 'is-clip');
-  void field.offsetWidth; // restart the animation
-  if (kind === 'wrong' || kind === 'ambiguous') field.classList.add('is-wrong');
-  if (kind === 'already' || kind === 'outside') field.classList.add('is-already');
-  if (kind === 'accepted' || kind === 'autocorrected') field.classList.add('is-clip');
+  // Restart the field animation next frame instead of forcing a layout now.
+  const cls = kind === 'wrong' || kind === 'ambiguous' ? 'is-wrong' : kind === 'already' || kind === 'outside' ? 'is-already' : kind === 'accepted' || kind === 'autocorrected' ? 'is-clip' : null;
+  if (cls) requestAnimationFrame(() => field.classList.add(cls));
 }
 
 const span = (text, className) => Object.assign(document.createElement('span'), { textContent: text, className: className || '' });
@@ -345,68 +338,110 @@ function buzz() {
   }
 }
 
-function submitGuess() {
+// The answer path: match, update the box and the chip, all in this frame. No awaits,
+// no network, no timers; saving, the climb and announcements follow after paint.
+function submitGuess(pre = null) {
   const r = current();
   if (!r || r.status !== 'playing' || $('guess').disabled) return;
   const input = $('guess');
   const text = input.value;
-  clearTimeout(clock && clock.auto);
+  cancelPending();
   const p = currentPrompt();
-  const before = altitude(game.current) + metresFor(game.current);
-  const g = classifyGuess(indexes[game.current], text, new Set(r.found), outsideIndexes[game.current]);
+  const g = pre || classifyGuess(indexes[game.current], text, new Set(r.found), outsideIndexes[game.current]);
   if (g.state === 'empty') return;
+  input.value = '';
   const now = Date.now();
   combo.level = nextCombo(combo.level, g.state, now, combo.lastAt);
   if (g.state === 'accepted' || g.state === 'autocorrected') {
-    const from = input.getBoundingClientRect();
+    const before = altitude(game.current) + metresFor(game.current);
     r.found.push(g.index);
     if (!r.times) r.times = [];
     r.times.push(Math.max(0, now - r.startedAt));
     if (g.state === 'autocorrected') r.fixed = (r.fixed || 0) + 1;
     combo.lastAt = now;
     const label = p.answers[g.index].label;
-    addChip(label, g.index, { left: from.left + 36, top: from.top + 8 });
+    // If the player was still typing the full name, the rest is absorbed quietly.
+    tail = { answer: g.index, typed: toKey(text), raw: '', at: performance.now() };
+    addChip(label, g.index);
     updateCount();
     if (g.state === 'autocorrected') {
       const word = span('', 'fixed-word');
       word.append(...diffMarks(text, label).map((run) => (run.changed ? Object.assign(document.createElement('mark'), { textContent: run.text }) : document.createTextNode(run.text))));
       setFeedback('autocorrected', [span('Autocorrected', 'pill'), word]);
-      announce(`Autocorrected to ${label}. ${r.found.length} found.`);
     } else {
       setFeedback('accepted', []);
-      announce(`${label}. ${r.found.length} found.`);
     }
-    buzz();
-    persist();
     const after = altitude(game.current) + metresFor(game.current);
-    emit('climb', { from: before, to: after, gained: after - before, label });
+    const n = r.found.length;
+    afterPaint(() => {
+      announce(g.state === 'autocorrected' ? `Autocorrected to ${label}. ${n} found.` : `${label}. ${n} found.`);
+      buzz();
+      persist();
+      showCombo();
+      emit('climb', { from: before, to: after, gained: after - before, label });
+    });
   } else if (g.state === 'duplicate') {
     setFeedback('already', [span('Already clipped in')]);
     const chip = $('found-list').querySelector(`li[data-id="${g.index}"]`);
-    if (chip) { chip.classList.remove('is-pulse'); void chip.offsetWidth; chip.classList.add('is-pulse'); }
-    announce('Already clipped in: ' + p.answers[g.index].label);
+    if (chip && chip.animate && !reducedMotion()) chip.animate([{ transform: 'scale(1)' }, { transform: 'scale(1.12)' }, { transform: 'scale(1)' }], { duration: 500 });
+    afterPaint(() => { announce('Already clipped in: ' + p.answers[g.index].label); showCombo(); });
   } else if (g.state === 'outside') {
     setFeedback('outside', [span(outsideLine(p))]);
-    announce(`${g.label}: ${outsideLine(p)}. No penalty.`);
+    afterPaint(() => announce(`${g.label}: ${outsideLine(p)}. No penalty.`));
   } else if (g.state === 'ambiguous') {
     if (r.wrong.length < 50) r.wrong.push(text.trim());
     setFeedback('ambiguous', [span('Too close to call, be more specific')]);
-    announce('Too close to call, be more specific');
+    afterPaint(() => { announce('Too close to call, be more specific'); showCombo(); });
   } else {
     if (r.wrong.length < 50) r.wrong.push(text.trim());
     setFeedback('wrong', [span(WRONG_LINES[Math.floor(Math.random() * WRONG_LINES.length)])]);
+    afterPaint(showCombo);
   }
-  showCombo();
-  input.value = '';
-  input.focus();
+  if (document.activeElement !== input) input.focus();
 }
+
+// Every keystroke: an exact answer that nothing longer starts with is taken at once.
+// Only when a longer answer is still possible (Niger, Nigeria) does it wait a moment,
+// and a likely typo is corrected after a short pause in typing, or on Enter.
+const WAIT_FOR_LONGER_MS = 250;
+const TYPO_IDLE_MS = 300;
+let pending = null;
+function cancelPending() { if (pending) { clearTimeout(pending); pending = null; } }
+
+let tail = null;
 
 function onInput() {
   if (!clock) return;
-  clearTimeout(clock.auto);
+  cancelPending();
   const value = $('guess').value;
-  if (canAutoAccept(indexes[game.current], value)) {
-    clock.auto = setTimeout(() => { if ($('guess').value === value) submitGuess(); }, CONFIG.autoAcceptMs);
+  const index = indexes[game.current];
+  if (!index) return;
+  // The rest of a name just accepted ("Stardew" then " Valley") is absorbed, but only if it
+  // starts with a space or follows at once; anything that turns out different is put back.
+  if (tail) {
+    const fresh = !tail.raw && (value.startsWith(' ') || performance.now() - tail.at < 300);
+    const joined = tail.typed + toKey(tail.raw + value);
+    if ((tail.raw || fresh) && (continues(index, tail.answer, joined) || index.exact.get(joined)?.includes(tail.answer))) {
+      tail.raw += value;
+      $('guess').value = '';
+      if (!continues(index, tail.answer, joined)) tail = null;
+      return;
+    }
+    if (tail.raw) { $('guess').value = (tail.raw + value).trimStart(); }
+    tail = null;
+    return onInput();
+  }
+  const state = typedState(index, value);
+  if (state === 'now') { submitGuess(); return; }
+  const later = (ms, fn) => { pending = setTimeout(() => { pending = null; if ($('guess').value === value) fn(); }, ms); };
+  if (state === 'wait') { later(WAIT_FOR_LONGER_MS, () => submitGuess()); return; }
+  if (toKey(value).length >= 5) {
+    later(TYPO_IDLE_MS, () => {
+      const r = current();
+      const g = classifyGuess(index, value, new Set(r.found), outsideIndexes[game.current]);
+      // A pause only ever accepts a clear correction; misses wait for Enter.
+      if (g.state === 'autocorrected') submitGuess(g);
+    });
   }
 }
 

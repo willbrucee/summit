@@ -165,3 +165,36 @@ test('Damerau-Levenshtein distance counts a swap as one step', () => {
   assert.equal(allowedTypos(7), 1);
   assert.equal(allowedTypos(8), 2);
 });
+
+// The candidate index must never change an answer: compare with a scan over every alias.
+test('indexed typo lookup gives the same results as a full scan', () => {
+  const brute = (index, text, found) => {
+    const key = toKey(text);
+    if (index.exact.has(key)) return 'exact';
+    const near = new Set();
+    for (const { key: alias, i } of index.entries) {
+      const limit = allowedTypos(Math.min(key.length, alias.length));
+      if (limit === 0 || key.replace(/\D/g, '') !== alias.replace(/\D/g, '')) continue;
+      if (editDistance(key, alias, limit) <= limit) near.add(i);
+    }
+    return near.size === 1 ? [...near][0] : near.size > 1 ? 'ambiguous' : 'wrong';
+  };
+  let seed = 7;
+  const rand = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+  let checked = 0;
+  for (const p of data.prompts.slice(0, 40)) {
+    const index = ix(p.id);
+    for (const a of p.answers.slice(0, 12)) {
+      const s = a.label;
+      const k = Math.floor(rand() * s.length);
+      const typo = rand() < 0.5 ? s.slice(0, k) + s.slice(k + 1) : s.slice(0, k) + 'x' + s.slice(k);
+      const r = match(index, typo, new Set());
+      const fast = r.result === 'correct' ? (r.corrected ? r.index : 'exact') : r.ambiguous ? 'ambiguous' : 'wrong';
+      const slow = brute(index, typo);
+      if (fast === 'exact' || slow === 'exact') continue;
+      assert.equal(fast, slow, `${p.id}: "${typo}"`);
+      checked++;
+    }
+  }
+  assert.ok(checked > 300);
+});

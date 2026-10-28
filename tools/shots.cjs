@@ -12,7 +12,7 @@ require('fs').mkdirSync(OUT, { recursive: true });
     const page = await ctx.newPage();
     page.on('console', (m) => { if (['error', 'warning'].includes(m.type())) problems.push(`${vp.name}: ${m.text()}`); });
     page.on('pageerror', (e) => problems.push(`${vp.name}: ${e.message}`));
-    await page.addInitScript(() => { try { localStorage.setItem('summit:seen-help', 'true'); } catch {} });
+    await page.addInitScript(() => { try { localStorage.setItem('summit:seen-help', 'true'); } catch { /* storage blocked */ } });
     await page.goto(BASE + 'index.html');
     await page.waitForSelector('#ready:not([hidden])');
     await page.evaluate(() => document.fonts.ready);

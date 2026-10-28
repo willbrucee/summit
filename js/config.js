@@ -5,5 +5,4 @@ export const CONFIG = {
   repo: 'willbrucee/summit',
   roundSeconds: 30,
   countdownSeconds: 3,
-  autoAcceptMs: 350,
 };

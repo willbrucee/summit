@@ -217,7 +217,6 @@ function applyOverrides(id, answers, log) {
 
 // ---------- build ----------
 
-const slug = (s) => toKey(s).slice(0, 40) || 'x';
 const fallbackGroups = [];
 const EXTRA = existsSync(join(ROOT, 'data/raw/wd-extra.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/raw/wd-extra.json'), 'utf8')) : {};
 const ALIASES = existsSync(join(ROOT, 'data/aliases.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/aliases.json'), 'utf8')) : {};
@@ -334,7 +333,7 @@ for (const def of PROMPTS) {
   // Suspicious entries for a human to look at.
   const suspicious = [];
   for (const a of merged) {
-    if (/[()\[\]]/.test(a.label)) suspicious.push(`${a.label}: has brackets`);
+    if (/[()[\]]/.test(a.label)) suspicious.push(`${a.label}: has brackets`);
     if (a.label.length > 45) suspicious.push(`${a.label}: very long`);
     if (!toKey(a.label)) suspicious.push(`${a.label}: nothing left after normalising`);
     if (toKey(a.label).length <= 2 && def.wikidata !== 'element_symbols' && def.id !== 'file-extensions') suspicious.push(`${a.label}: very short`);
@@ -430,7 +429,9 @@ const indexEntry = (p, extra = {}) => ({ id: p.key, category: TOPICS.includes(p.
 const index = out.map((p) => indexEntry(p));
 writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ prompts: [...index, ...retired.map((p) => indexEntry(p, { retired: true }))] }));
 writeFileSync(join(ROOT, 'data/qa-report.json'), JSON.stringify({ errors, prompts: report, retired: retired.map((p) => p.id) }, null, 1));
-if (existing) existing.queue = existing.queue.filter((k) => liveKeys.has(k));
+// Future days are dealt afresh from a seeded queue, so they depend only on the published days
+// and the bank, and a rebuild with nothing changed gives the same schedule.
+if (existing) { existing.queue = []; existing.cycle = 0; }
 const schedule = buildSchedule(index, existing, 730);
 writeFileSync(schedPath, JSON.stringify(schedule));
 

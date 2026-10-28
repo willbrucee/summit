@@ -40,7 +40,6 @@ export const COMMON_WORDS = new Set(('a an as at be by do go he if in is it me m
   'used user vary vast very view vote wage wait wake walk wall want warm wash wave weak wear week well went were west what when ' +
   'whom wide wife wild will wind wine wing wire wise wish with wolf wood word wore work yard yeah year your zero zone').split(' '));
 
-const isLatin = (s) => !/[^\p{Script=Latin}\p{N}\s'’.&+:!?\-/]/u.test(s);
 
 // Spelling, Roman numeral and number-word variants of a curated name.
 export function variants(text) {

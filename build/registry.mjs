@@ -3,7 +3,6 @@ import * as A from './curated/animals.mjs';
 import * as N from './curated/nature.mjs';
 import * as G from './curated/geography.mjs';
 import * as S from './curated/science.mjs';
-import * as SP from './curated/space.mjs';
 import * as F from './curated/food.mjs';
 import * as M from './curated/music.mjs';
 import * as FI from './curated/film.mjs';

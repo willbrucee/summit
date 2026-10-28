@@ -70,7 +70,17 @@ export function allowedTypos(length) {
   return 2;
 }
 
-// Build a lookup for one prompt. answers: [{ id, label, aliases: [] }]
+// Letter pairs of a key, used to find typo candidates without scanning every answer.
+function bigrams(key) {
+  const out = new Set();
+  for (let i = 0; i < key.length - 1; i++) out.add(key.slice(i, i + 2));
+  if (key.length === 1) out.add(key);
+  return out;
+}
+
+// Build a lookup for one prompt, once, when the round's data arrives. answers: [{ id, label, aliases: [] }]
+// exact: key -> answer indexes. longer: keys that a longer key starts with, so typing them
+// waits a moment. grams: letter pair -> entry numbers, for typo candidates.
 export function buildIndex(answers) {
   const exact = new Map();
   const entries = [];
@@ -80,10 +90,45 @@ export function buildIndex(answers) {
       if (!exact.has(key)) exact.set(key, []);
       const owners = exact.get(key);
       if (!owners.includes(i)) owners.push(i);
-      entries.push({ key, i });
+      entries.push({ key, i, digits: digitsOf(key) });
     }
   });
-  return { answers, exact, entries };
+  // Sorted keys put every key just before the keys it is a prefix of.
+  const sorted = [...exact.keys()].sort();
+  const longer = new Set();
+  for (let k = 0; k < sorted.length; k++) {
+    const key = sorted[k];
+    // Any longer key counts, even the same answer's full name ("Stardew" then "Stardew Valley"),
+    // so a short form waits a moment instead of cutting the player off mid-word.
+    if (k + 1 < sorted.length && sorted[k + 1].startsWith(key)) longer.add(key);
+  }
+  const grams = new Map();
+  entries.forEach((e, n) => {
+    for (const g of bigrams(e.key)) {
+      if (!grams.has(g)) grams.set(g, []);
+      grams.get(g).push(n);
+    }
+  });
+  return { answers, exact, entries, longer, grams };
+}
+
+// Entries close enough in length and letters to be worth a full typo check.
+function candidates(index, key, maxEdits) {
+  const counts = new Map();
+  for (const g of bigrams(key)) {
+    const list = index.grams.get(g);
+    if (!list) continue;
+    for (const n of list) counts.set(n, (counts.get(n) || 0) + 1);
+  }
+  const out = [];
+  for (const [n, shared] of counts) {
+    const e = index.entries[n];
+    if (Math.abs(e.key.length - key.length) > maxEdits) continue;
+    // Each edit can break at most three letter pairs.
+    if (shared < Math.min(key.length, e.key.length) - 1 - 3 * maxEdits) continue;
+    out.push(e);
+  }
+  return out;
 }
 
 function pickOwner(owners, found) {
@@ -113,10 +158,11 @@ export function match(index, input, found = new Set()) {
   // Typo tolerance: exactly one answer may be within reach.
   const tries = [key, ...singulars(key)];
   const near = new Map();
-  for (const { key: alias, i } of index.entries) {
-    for (const t of tries) {
+  for (const t of tries) {
+    const digits = digitsOf(t);
+    for (const { key: alias, i, digits: d2 } of candidates(index, t, 2)) {
       const limit = allowedTypos(Math.min(t.length, alias.length));
-      if (limit === 0 || digitsOf(t) !== digitsOf(alias)) continue;
+      if (limit === 0 || digits !== d2) continue;
       const d = editDistance(t, alias, limit);
       if (d <= limit && (!near.has(i) || d < near.get(i))) near.set(i, d);
     }
@@ -128,14 +174,22 @@ export function match(index, input, found = new Set()) {
   return { result: 'wrong', ambiguous: near.size > 1 };
 }
 
-// True when the typed text is an exact answer and no longer answer begins with it,
-// so the game can accept it after a short pause without waiting for Enter.
-export function canAutoAccept(index, input) {
+// What typing so far means, checked on every keystroke in constant time:
+// 'now' an exact answer nothing longer starts with, so accept at once;
+// 'wait' an exact answer that a longer answer also starts with (Niger, Nigeria);
+// 'none' not an exact answer yet.
+export function typedState(index, input) {
   const key = toKey(input);
-  if (!key || !index.exact.has(key)) return false;
-  const owners = index.exact.get(key);
-  for (const { key: alias, i } of index.entries) {
-    if (alias.length > key.length && alias.startsWith(key) && !owners.includes(i)) return false;
-  }
-  return true;
+  if (!key || !index.exact.has(key)) return 'none';
+  return index.longer.has(key) ? 'wait' : 'now';
+}
+
+// True when the typed text is an exact answer and no longer answer begins with it.
+export function canAutoAccept(index, input) {
+  return typedState(index, input) === 'now';
+}
+
+// True when key could still grow into one of this answer's keys (the rest of "Stardew Valley").
+export function continues(index, answer, key) {
+  return !!key && index.entries.some((e) => e.i === answer && e.key.length > key.length && e.key.startsWith(key));
 }

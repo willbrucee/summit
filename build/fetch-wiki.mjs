@@ -1,7 +1,7 @@
 // Downloads the raw wikitext of the Wikipedia list pages that ranked prompts are built from,
 // into data/raw/wiki/<title>.wiki. Follows #REDIRECT, retries politely when rate limited.
 // Run: node build/fetch-wiki.mjs [title ...]   (no titles: every page in build/lists.mjs that is missing)
-import { existsSync, writeFileSync, readFileSync, mkdirSync } from 'node:fs';
+import { existsSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { spawnSync } from 'node:child_process';
