@@ -2,19 +2,35 @@
 
 export const EVEREST = 8849;
 export const ROUNDS = 5;
-export const EXPONENT = 0.85;
+// Curve chosen by tools/simulate.mjs: ^0.8 puts the median casual, good and expert climbs in
+// the target bands (3,000 to 4,000 m, 5,500 to 7,000 m, 7,500 to 8,800 m); ^0.7 overshot casual.
+export const EXPONENT = 0.8;
 const TARGET_CAP = 22;
 const DIFFICULTY_FACTOR = { 1: 1, 2: 0.85, 3: 0.7 };
+// Targets sit 30% below what a top player could reach, so a full share is within reach.
+export const TARGET_SCALE = 0.7;
+// Every answer past the target adds a little more, up to a small cap per round.
+export const OVERFLOW_PER_ANSWER = 0.03;
+export const OVERFLOW_CAP = 0.15;
+const ROUND_SHARE = EVEREST / ROUNDS;
 
-// What a top player could reach in 30 seconds.
+// The number of answers that earns a round's full share of Everest.
 export function targetFor(size, difficulty) {
   const base = Math.min(TARGET_CAP, Math.round(size * 0.6));
-  return Math.max(6, Math.round(base * (DIFFICULTY_FACTOR[difficulty] || 1)));
+  return Math.max(4, Math.round(base * (DIFFICULTY_FACTOR[difficulty] || 1) * TARGET_SCALE));
 }
 
+// Metres for one round: a generous curve up to the target, then a small overflow bonus.
 export function roundMetres(found, target, exponent = EXPONENT) {
   if (!found || !target) return 0;
-  return (EVEREST / ROUNDS) * Math.pow(Math.min(1, found / target), exponent);
+  const climb = ROUND_SHARE * Math.pow(Math.min(1, found / target), exponent);
+  const extra = ROUND_SHARE * Math.min(OVERFLOW_CAP, Math.max(0, found - target) * OVERFLOW_PER_ANSWER);
+  return climb + extra;
+}
+
+// The whole climb, which never goes past the top of Everest.
+export function totalMetres(rounds) {
+  return Math.min(EVEREST, rounds.reduce((sum, m) => sum + m, 0));
 }
 
 // Heights are the current official figures. Wikidata (P2044) values are kept for the QA page.
@@ -34,8 +50,8 @@ export const MILESTONES = [
   { name: 'Denali', height: 6190, wikidata: 6190, title: 'High camp climber' },
   { name: 'Aconcagua', height: 6961, wikidata: 6962, title: 'Summit pusher' },
   { name: 'Cho Oyu', height: 8188, wikidata: 8188, title: 'Death zone climber' },
-  { name: 'K2', height: 8611, wikidata: 8611, title: 'Death zone climber' },
-  { name: 'Mount Everest', height: EVEREST, wikidata: 8848.86, title: 'Summiteer' },
+  { name: 'K2', height: 8611, wikidata: 8611, title: 'K2 conqueror' },
+  { name: 'Mount Everest', height: EVEREST, wikidata: 8848.86, title: 'Everest summiteer' },
 ];
 
 // The highest milestone at or below this altitude (allowing for rounding).

@@ -1,84 +1,68 @@
-// Calibration: simulate casual, good and expert players on real scheduled days.
+// Calibration: simulate players on real scheduled days and report where their climbs end.
+// Skill is the share of each round's target a player finds (with round-to-round wobble);
+// the list-assisted typist instead enters about 20 answers every round.
 // Run: node tools/simulate.mjs
 import { readFileSync } from 'node:fs';
-import { EVEREST, MILESTONES, milestoneAt } from '../js/scoring.js';
+import { EVEREST, MILESTONES, milestoneAt, roundMetres, totalMetres } from '../js/scoring.js';
 import { seededRandom } from '../js/daily.js';
 
 const data = JSON.parse(readFileSync(new URL('../data/prompts.json', import.meta.url), 'utf8'));
 const schedule = JSON.parse(readFileSync(new URL('../data/schedule.json', import.meta.url), 'utf8'));
-const byId = new Map(data.prompts.map((p) => [p.id, p]));
-const days = schedule.days.map((d) => d.prompts.map((id) => byId.get(id)));
+const byKey = new Map(data.prompts.map((p) => [p.key, p]));
+// Days from tomorrow onwards use the current bank.
+const days = schedule.days.map((d) => d.prompts.map((k) => byKey.get(k))).filter((d) => d.every(Boolean));
 
 const GAMES = 5000;
-const PLAYERS = {
-  casual: { min: 0.35, max: 0.45 },
-  good: { min: 0.65, max: 0.75 },
-  expert: { min: 0.9, max: 1.0 },
+export const PLAYERS = {
+  'casual (35%)': { skill: 0.35 },
+  'good (65%)': { skill: 0.65 },
+  'expert (90%)': { skill: 0.9 },
+  'typist (20 a round)': { perRound: 20 },
 };
-
-// Altitude curves: share of a round's 1/5 of Everest for a found/target ratio r (capped at 1).
-const CURVES = {
-  'Spec: r^0.85': (r) => Math.pow(r, 0.85),
-  'Power: r^1.15': (r) => Math.pow(r, 1.15),
-  'S-curve: r^1.5 / (r^1.5 + (1-r)^1.5)': (r) => {
-    const a = Math.pow(r, 1.5);
-    return a / (a + Math.pow(1 - r, 1.5));
-  },
-};
+const exponent = Number(process.env.EXP || 0) || undefined;
 
 function gaussian(rand) {
   return Math.sqrt(-2 * Math.log(rand() || 1e-9)) * Math.cos(2 * Math.PI * rand());
 }
 
-function simulate(curve, player, seed) {
+function simulate(player, seed) {
   const rand = seededRandom(seed);
   const results = [];
   for (let g = 0; g < GAMES; g++) {
     const day = days[Math.floor(rand() * days.length)];
-    // Skill for the day, then round-to-round wobble because some prompts suit you better.
-    const skill = player.min + rand() * (player.max - player.min);
-    let altitude = 0;
-    for (const p of day) {
-      const ratio = Math.max(0, skill * (1 + 0.12 * gaussian(rand)));
-      const found = Math.min(p.size, Math.round(ratio * p.target));
-      altitude += (EVEREST / 5) * curve(Math.min(1, found / p.target));
-    }
-    results.push(altitude);
+    // Some days suit you, and some prompts suit you better than others.
+    const dayForm = 1 + 0.1 * gaussian(rand);
+    const metres = day.map((p) => {
+      const wobble = dayForm * (1 + 0.15 * gaussian(rand));
+      const want = player.perRound ? player.perRound * (1 + 0.15 * gaussian(rand)) : player.skill * p.target * wobble;
+      const found = Math.max(0, Math.min(p.size, Math.round(want)));
+      return roundMetres(found, p.target, exponent);
+    });
+    results.push(totalMetres(metres));
   }
   return results.sort((a, b) => a - b);
 }
 
 const pct = (arr, q) => arr[Math.floor(q * (arr.length - 1))];
 const m = (x) => Math.round(x).toLocaleString('en-GB');
+const runs = Object.fromEntries(Object.entries(PLAYERS).map(([name, p]) => [name, simulate(p, 'sim:' + name)]));
 
-for (const [name, curve] of Object.entries(CURVES)) {
-  console.log(`\n### ${name}\n`);
-  console.log('| Player | 10th pct | Median | 90th pct | Most common mountain reached | Reach K2 | Reach Everest |');
-  console.log('|---|---|---|---|---|---|---|');
-  for (const [pname, player] of Object.entries(PLAYERS)) {
-    const r = simulate(curve, player, name + pname);
-    const counts = {};
-    for (const a of r) { const n = milestoneAt(a).name; counts[n] = (counts[n] || 0) + 1; }
-    const top = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 2)
-      .map(([n, c]) => `${n} (${Math.round((100 * c) / GAMES)}%)`).join(', ');
-    const k2 = r.filter((a) => a + 0.5 >= 8611).length / GAMES;
-    const ev = r.filter((a) => a + 0.5 >= EVEREST).length / GAMES;
-    console.log(`| ${pname} | ${m(pct(r, 0.1))} m | ${m(pct(r, 0.5))} m | ${m(pct(r, 0.9))} m | ${top} | ${(100 * k2).toFixed(1)}% | ${(100 * ev).toFixed(1)}% |`);
-  }
+console.log(`${days.length} scheduled days, ${GAMES} games per player${exponent ? `, exponent ${exponent}` : ''}\n`);
+console.log('| Player | 10th pct | Median | 90th pct | Pass K2 | Reach Everest |');
+console.log('|---|---|---|---|---|---|');
+for (const [name, r] of Object.entries(runs)) {
+  const k2 = r.filter((a) => a + 0.5 >= 8611).length / GAMES;
+  const ev = r.filter((a) => a + 0.5 >= EVEREST).length / GAMES;
+  console.log(`| ${name} | ${m(pct(r, 0.1))} m | ${m(pct(r, 0.5))} m | ${m(pct(r, 0.9))} m | ${(100 * k2).toFixed(1)}% | ${(100 * ev).toFixed(1)}% |`);
 }
-// Share of games ending at each mountain (the highest one passed).
-for (const [name, curve] of Object.entries(CURVES)) {
-  console.log(`\n#### Where games end: ${name}\n`);
-  console.log('| Highest mountain passed | ' + Object.keys(PLAYERS).join(' | ') + ' |');
-  console.log('|---|' + Object.keys(PLAYERS).map(() => '---').join('|') + '|');
-  const dist = Object.entries(PLAYERS).map(([pname, player]) => {
-    const counts = {};
-    for (const a of simulate(curve, player, name + pname)) { const n = milestoneAt(a).name; counts[n] = (counts[n] || 0) + 1; }
-    return counts;
-  });
-  for (const ms of MILESTONES) {
-    const cells = dist.map((c) => (c[ms.name] ? `${((100 * c[ms.name]) / GAMES).toFixed(1)}%` : ''));
-    if (cells.some(Boolean)) console.log(`| ${ms.name} (${m(ms.height)} m) | ${cells.join(' | ')} |`);
-  }
+console.log('\n| Highest mountain passed | ' + Object.keys(runs).join(' | ') + ' |');
+console.log('|---|' + Object.keys(runs).map(() => '---').join('|') + '|');
+const dist = Object.values(runs).map((r) => {
+  const counts = {};
+  for (const a of r) { const n = milestoneAt(a).name; counts[n] = (counts[n] || 0) + 1; }
+  return counts;
+});
+for (const ms of MILESTONES) {
+  const cells = dist.map((c) => (c[ms.name] ? `${((100 * c[ms.name]) / GAMES).toFixed(1)}%` : '-'));
+  if (dist.some((c) => c[ms.name])) console.log(`| ${ms.name} (${m(ms.height)} m) | ${cells.join(' | ')} |`);
 }
-console.log('\nMilestones: ' + MILESTONES.map((x) => `${x.name} ${m(x.height)}`).join(', '));

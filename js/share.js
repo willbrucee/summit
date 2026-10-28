@@ -4,13 +4,13 @@ import { EVEREST, ROUNDS, formatMetres, milestoneAt } from './scoring.js';
 const BLOCKS = 5;
 
 export function roundBar(metres) {
-  const filled = Math.round((metres / (EVEREST / ROUNDS)) * BLOCKS);
+  const filled = Math.min(BLOCKS, Math.round((metres / (EVEREST / ROUNDS)) * BLOCKS));
   return '▲'.repeat(filled) + '△'.repeat(BLOCKS - filled);
 }
 
 export function shareText({ day, altitude, rounds, url }) {
   const m = milestoneAt(altitude);
-  const where = altitude + 0.5 >= EVEREST ? 'Summited Everest' : m.height === 0 ? 'Still on the beach' : `Past ${m.name}`;
+  const where = altitude + 0.5 >= EVEREST ? 'Summited Everest' : m.name === 'K2' ? 'Past K2, the savage mountain' : m.height === 0 ? 'Still on the beach' : `Past ${m.name}`;
   const lines = [
     `Summit #${day}: ${formatMetres(altitude)}`,
     where,

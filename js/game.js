@@ -2,7 +2,7 @@
 import { CONFIG } from './config.js';
 import { buildIndex, canAutoAccept } from './matcher.js';
 import { dateKey, dayNumber, promptsForDate, practicePrompts } from './daily.js';
-import { roundMetres, milestoneAt, nextMilestone, titleFor, formatMetres, temperatureAt, EVEREST } from './scoring.js';
+import { roundMetres, totalMetres, milestoneAt, nextMilestone, titleFor, formatMetres, temperatureAt, EVEREST } from './scoring.js';
 import { load, save } from './store.js';
 import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
@@ -73,9 +73,7 @@ const currentPrompt = () => prompts[game.current];
 const metresFor = (i) => roundMetres(game.rounds[i].found.length, metas[i].target);
 
 function altitude(upTo = game.rounds.length) {
-  let total = 0;
-  for (let i = 0; i < upTo; i++) total += metresFor(i);
-  return total;
+  return totalMetres(game.rounds.slice(0, upTo).map((_, i) => metresFor(i)));
 }
 
 async function getJSON(path) {
