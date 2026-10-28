@@ -1,12 +1,13 @@
 // The game: rounds, timer, guesses, saving and the finish.
 import { CONFIG } from './config.js';
-import { buildIndex, match, canAutoAccept } from './matcher.js';
+import { buildIndex, canAutoAccept } from './matcher.js';
 import { dateKey, dayNumber, promptsForDate, practicePrompts } from './daily.js';
 import { roundMetres, milestoneAt, nextMilestone, titleFor, formatMetres, temperatureAt, EVEREST } from './scoring.js';
 import { load, save } from './store.js';
 import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
 import { createScene } from './scene.js';
+import { classifyGuess, diffMarks, nextCombo, bestBurst, WRONG_LINES, COMBO_MAX } from './feedback.js';
 
 const $ = (id) => document.getElementById(id);
 // Modes come from the hash: #practice, or #test-<prompt id> from the QA page.
@@ -101,7 +102,7 @@ async function init() {
       day: dayNumber(today),
       ids,
       current: 0,
-      rounds: ids.map((id) => ({ id, status: 'ready', startedAt: null, found: [], wrong: [] })),
+      rounds: ids.map((id) => ({ id, status: 'ready', startedAt: null, found: [], times: [], fixed: 0, wrong: [] })),
       done: false,
     };
     prompts = await Promise.all(ids.map((id) => getJSON(`data/p/${id}.json`)));
@@ -170,7 +171,9 @@ function runRound() {
   $('play-note').textContent = p.note;
   $('play-note').hidden = !p.note;
   $('found-list').replaceChildren();
-  for (const id of [...r.found].reverse()) addChip(p.answers[id].label, false);
+  for (const id of [...r.found].reverse()) addChip(p.answers[id].label, id);
+  combo = { level: 0, lastAt: null };
+  showCombo();
   updateCount();
   $('feedback').textContent = '';
   show('play');
@@ -241,50 +244,109 @@ function updateCount() {
   $('found-count').textContent = p.finite ? `${n} of ${p.size}` : `${n} found`;
 }
 
-function addChip(label, fresh = true) {
+// Settings kept on this device.
+const settings = Object.assign({ vibrate: true }, load('settings', {}));
+const reducedMotion = () => window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+let combo = { level: 0, lastAt: null };
+
+function addChip(label, id, from) {
   const li = document.createElement('li');
   li.textContent = label;
-  if (fresh) li.className = 'is-new';
+  li.dataset.id = String(id);
   $('found-list').prepend(li);
+  // The typed word flies from the rope into the list.
+  if (from && !reducedMotion() && li.animate) {
+    const to = li.getBoundingClientRect();
+    const dx = from.left - to.left;
+    const dy = from.top - to.top;
+    li.animate([
+      { transform: `translate(${dx}px, ${dy}px) scale(0.9)`, opacity: 0.4 },
+      { transform: 'translate(0, -6px) scale(1.04)', opacity: 1, offset: 0.75 },
+      { transform: 'none', opacity: 1 },
+    ], { duration: 420, easing: 'cubic-bezier(.3,.7,.3,1)' });
+  }
+  return li;
 }
 
-function setFeedback(text, kind) {
+function setFeedback(kind, parts = []) {
   const f = $('feedback');
-  f.textContent = text;
-  f.dataset.kind = kind || '';
-  const input = $('guess');
-  input.classList.remove('is-wrong', 'is-already');
-  void input.offsetWidth; // restart the animation
-  if (kind === 'wrong' || kind === 'already') input.classList.add('is-' + kind);
+  f.dataset.kind = kind;
+  f.replaceChildren(...parts);
+  const field = $('rope-field');
+  field.classList.remove('is-wrong', 'is-already', 'is-clip');
+  void field.offsetWidth; // restart the animation
+  if (kind === 'wrong' || kind === 'ambiguous') field.classList.add('is-wrong');
+  if (kind === 'already') field.classList.add('is-already');
+  if (kind === 'accepted' || kind === 'autocorrected') field.classList.add('is-clip');
+}
+
+const span = (text, className) => Object.assign(document.createElement('span'), { textContent: text, className: className || '' });
+
+function showCombo() {
+  const level = Math.min(COMBO_MAX, combo.level);
+  $('combo').dataset.level = String(level);
+  $('combo-label').textContent = level >= COMBO_MAX ? 'On a roll' : level >= 3 ? 'Good rhythm' : '';
+  // A hot streak quickens the climber's step. Looks only, the metres are the same.
+  document.documentElement.style.setProperty('--climb-dur', `${(0.7 - level * 0.05).toFixed(2)}s`);
+}
+
+function buzz() {
+  if (settings.vibrate && !reducedMotion() && navigator.vibrate) {
+    try { navigator.vibrate(12); } catch { /* not supported */ }
+  }
 }
 
 function submitGuess() {
   const r = current();
   if (!r || r.status !== 'playing' || $('guess').disabled) return;
-  const text = $('guess').value;
+  const input = $('guess');
+  const text = input.value;
   clearTimeout(clock && clock.auto);
   const p = currentPrompt();
   const before = altitude(game.current) + metresFor(game.current);
-  const res = match(indexes[game.current], text, new Set(r.found));
-  if (res.result === 'empty') return;
-  if (res.result === 'correct') {
-    r.found.push(res.index);
-    const label = p.answers[res.index].label;
-    addChip(label);
+  const g = classifyGuess(indexes[game.current], text, new Set(r.found));
+  if (g.state === 'empty') return;
+  const now = Date.now();
+  combo.level = nextCombo(combo.level, g.state, now, combo.lastAt);
+  if (g.state === 'accepted' || g.state === 'autocorrected') {
+    const from = input.getBoundingClientRect();
+    r.found.push(g.index);
+    if (!r.times) r.times = [];
+    r.times.push(Math.max(0, now - r.startedAt));
+    if (g.state === 'autocorrected') r.fixed = (r.fixed || 0) + 1;
+    combo.lastAt = now;
+    const label = p.answers[g.index].label;
+    addChip(label, g.index, { left: from.left + 36, top: from.top + 8 });
     updateCount();
-    setFeedback(res.corrected ? label : '', res.corrected ? 'corrected' : 'correct');
-    announce(`${label}. ${current().found.length} found.`);
+    if (g.state === 'autocorrected') {
+      const word = span('', 'fixed-word');
+      word.append(...diffMarks(text, label).map((run) => (run.changed ? Object.assign(document.createElement('mark'), { textContent: run.text }) : document.createTextNode(run.text))));
+      setFeedback('autocorrected', [span('Autocorrected', 'pill'), word]);
+      announce(`Autocorrected to ${label}. ${r.found.length} found.`);
+    } else {
+      setFeedback('accepted', []);
+      announce(`${label}. ${r.found.length} found.`);
+    }
+    buzz();
     persist();
     const after = altitude(game.current) + metresFor(game.current);
     emit('climb', { from: before, to: after, gained: after - before, label });
-  } else if (res.result === 'already') {
-    setFeedback('Already got it', 'already');
-    announce('Already got ' + p.answers[res.index].label);
+  } else if (g.state === 'duplicate') {
+    setFeedback('already', [span('Already clipped in')]);
+    const chip = $('found-list').querySelector(`li[data-id="${g.index}"]`);
+    if (chip) { chip.classList.remove('is-pulse'); void chip.offsetWidth; chip.classList.add('is-pulse'); }
+    announce('Already clipped in: ' + p.answers[g.index].label);
+  } else if (g.state === 'ambiguous') {
+    if (r.wrong.length < 50) r.wrong.push(text.trim());
+    setFeedback('ambiguous', [span('Too close to call, be more specific')]);
+    announce('Too close to call, be more specific');
   } else {
     if (r.wrong.length < 50) r.wrong.push(text.trim());
-    setFeedback('', 'wrong');
+    setFeedback('wrong', [span(WRONG_LINES[Math.floor(Math.random() * WRONG_LINES.length)])]);
   }
-  $('guess').value = '';
+  showCombo();
+  input.value = '';
+  input.focus();
 }
 
 function onInput() {
@@ -318,6 +380,12 @@ function showResult() {
   $('result-prompt').textContent = p.text;
   $('result-found').textContent = p.finite ? `You found ${r.found.length} of ${p.size}.` : `You found ${r.found.length}.`;
   $('result-metres').textContent = `+${formatMetres(metres)} this round. ${formatMetres(altitude(i + 1))} so far.`;
+  const recap = [];
+  if (r.fixed) recap.push(`Autocorrect saved ${r.fixed} answer${r.fixed === 1 ? '' : 's'}`);
+  const burst = bestBurst(r.times || []);
+  if (burst.count >= 3) recap.push(`Fastest burst: ${burst.count} in ${burst.seconds} seconds`);
+  $('result-recap').replaceChildren(...recap.map((t) => Object.assign(document.createElement('li'), { textContent: t })));
+  $('result-recap').hidden = !recap.length;
   const missed = p.answers.filter((a) => !r.found.includes(a.id)).map((a) => a.label).sort((a, b) => a.localeCompare(b));
   $('missed-summary').textContent = `Answers you missed (${missed.length})`;
   $('missed-list').replaceChildren(...missed.map((m) => Object.assign(document.createElement('li'), { textContent: m })));
@@ -459,6 +527,9 @@ if (window.visualViewport) {
   window.visualViewport.addEventListener('scroll', fitViewport);
 }
 fitViewport();
+
+$('setting-vibrate').checked = settings.vibrate;
+$('setting-vibrate').addEventListener('change', (e) => { settings.vibrate = e.target.checked; save('settings', settings); });
 
 const help = $('help');
 $('help-open').addEventListener('click', () => help.showModal());

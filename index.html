@@ -53,7 +53,7 @@
             <div class="timer-bar"><div class="timer-fill" id="timer-fill"></div></div>
             <span class="timer-number" id="timer-number">30</span>
           </div>
-          <div class="count-line"><span class="found-count" id="found-count"></span><span class="feedback" id="feedback" aria-hidden="true"></span></div>
+          <div class="count-line"><span class="found-count" id="found-count"></span><span class="combo" id="combo" aria-hidden="true" data-level="0"><i></i><i></i><i></i><i></i><i></i><i></i><b id="combo-label"></b></span></div>
           <ul class="found-list" id="found-list" aria-label="Answers found"></ul>
         </div>
 
@@ -61,6 +61,7 @@
           <p class="eyebrow"><span class="tag">Camp</span><span id="result-prompt"></span></p>
           <p class="result-big" id="result-found"></p>
           <p class="result-metres" id="result-metres"></p>
+          <ul class="recap" id="result-recap"></ul>
           <details class="missed">
             <summary id="missed-summary">Answers you missed</summary>
             <ul id="missed-list"></ul>
@@ -102,10 +103,15 @@
       </main>
 
       <div class="guess-bar" id="guess-bar" hidden>
+        <p class="feedback" id="feedback" aria-hidden="true"></p>
         <form class="guess-form" id="guess-form" autocomplete="off">
-          <label for="guess" class="visually-hidden">Your answer</label>
-          <input class="guess" id="guess" type="text" inputmode="text" enterkeyhint="send" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Type an answer">
-          <button type="submit" class="btn guess-send" id="guess-send">Add</button>
+          <div class="rope-field" id="rope-field">
+            <svg class="biner" viewBox="0 0 24 36" aria-hidden="true"><path d="M8 4 h8 a6 6 0 0 1 6 6 v16 a6 6 0 0 1 -6 6 h-8 a6 6 0 0 1 -6 -6 v-16 a6 6 0 0 1 6 -6 z" fill="none" stroke="var(--ink)" stroke-width="3.2"/><path class="gate" d="M19 10 v12" stroke="var(--rope)" stroke-width="3.2" stroke-linecap="round"/></svg>
+            <label for="guess" class="visually-hidden">Your answer</label>
+            <input class="guess" id="guess" type="text" inputmode="text" enterkeyhint="send" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" placeholder="Type an answer">
+            <span class="rope" aria-hidden="true"></span>
+          </div>
+          <button type="submit" class="btn clip-btn" id="guess-send">Clip in</button>
         </form>
       </div>
     </section>
@@ -119,10 +125,11 @@
     <h2 id="help-title">How to play</h2>
     <ol>
       <li>Five prompts a day, 30 seconds each.</li>
-      <li>Type answers and press Enter. Small typos are fine.</li>
+      <li>Type an answer and clip in with Enter. Small typos are fine.</li>
       <li>Every right answer is a step up the mountain.</li>
       <li>Hit the target on all five to stand on Everest.</li>
     </ol>
+    <label class="setting"><input type="checkbox" id="setting-vibrate"> Buzz gently on a right answer (phones)</label>
     <button type="button" class="btn" id="help-close">Let's climb</button>
   </dialog>
 
