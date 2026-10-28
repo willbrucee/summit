@@ -1,0 +1,689 @@
+{{Short description|none}}
+{{Use dmy dates|date=July 2022}}
+[[File:Johnson's household book of nature (7268642682).jpg|thumb|upright=1.36|Selection of different dog breeds]]
+This '''list of dog breeds''' includes both [[Neontology#Extant taxa versus extinct taxa|extant and extinct]] [[dog breed]]s, [[Designer breed|varieties]] and [[dog type|types]]. A research article on dog [[genomics]] published in [[Science/AAAS]] defines modern dog breeds as "a recent invention defined by conformation to a physical ideal and purity of lineage".<ref name="Morrill Hekman Li McClure p. ">{{cite journal | last1=Morrill | first1=Kathleen | last2=Hekman | first2=Jessica | last3=Li | first3=Xue | last4=McClure | first4=Jesse | last5=Logan | first5=Brittney | last6=Goodman | first6=Linda | last7=Gao | first7=Mingshi | last8=Dong | first8=Yinan | last9=Alonso | first9=Marjie | last10=Carmichael | first10=Elena | last11=Snyder-Mackler | first11=Noah | last12=Alonso | first12=Jacob | last13=Noh | first13=Hyun Ji | last14=Johnson | first14=Jeremy | last15=Koltookian | first15=Michele | last16=Lieu | first16=Charlie | last17=Megquier | first17=Kate | last18=Swofford | first18=Ross | last19=Turner-Maier | first19=Jason | last20=White | first20=Michelle E. | last21=Weng | first21=Zhiping | last22=Colubri | first22=Andrés | last23=Genereux | first23=Diane P. | last24=Lord | first24=Kathryn A. | last25=Karlsson | first25=Elinor K. | display-authors=6 | title=Ancestry-inclusive dog genomics challenges popular breed stereotypes | journal=Science | publisher=American Association for the Advancement of Science (AAAS) | volume=376 | issue=6592 | date=2022-04-29 | article-number=eabk0639 | issn=0036-8075 | doi=10.1126/science.abk0639 | pmid=35482869 | pmc=9675396 | s2cid=248430592 }}</ref>
+
+According to [[BigThink]], over 40% of the world's dog breeds come from the [[United Kingdom]], [[France]] and [[Germany]]. It states: "[[Great Britain]] and France are the ground zero of dog fancying, with 57 registered breeds each. Germany is not far behind, with 47 breeds. These three countries alone represent more than 40% of all dog breeds recognized by the [[Fédération Cynologique Internationale]]."<ref>{{cite web|title= Over 40% of the world's dog breeds come from these 3 countries| website=bigthink| date=2023-09-26 | url=https://bigthink.com/strange-maps/is-this-world-map-of-dog-breeds-too-eurocentric/ | access-date=2023-09-26}}</ref> There are more than 400 extant modern dog breeds.<ref>{{cite journal |last1=Cui |first1=Ying |last2=Tang |first2=Bixia |last3=Wu |first3=Gangao |last4=Lun |first4=Li |last5=Zhang |first5=Xin |last6=Du |first6=Zhenglin |last7=Zhao |first7=Wenming |title=Classification of Dog Breeds Using Convolutional Neural Network Models and Support Vector Machine |journal=Bioengineering |volume=11 |issue=11 |pages=1157 |year=2024 |doi=10.3390/bioengineering11111157 |doi-access=free |pmid=39593817 |pmc=11591900 }}</ref>
+
+== Extant breeds, varieties and types ==
+=== A–C ===
+{{columns-list|colwidth=20em|
+* [[Affenpinscher]]{{sfnp|Fogle|2009|p=277}}
+* [[Afghan Hound]]{{sfnp|Fogle|2009|p=107}}
+* [[Africanis]]{{sfnp|Morris|2001|p=685}}
+* [[Aidi]]{{sfnp|Fogle|2009|p=353}}
+* [[Airedale Terrier]]{{sfnp|Fogle|2009|p=256}}
+* [[Akbash]]{{sfnp|Fogle|2009|p=351}}
+* [[Akita (dog)|Akita]]{{sfnp|Fogle|2009|p=136}}
+* [[Aksaray Malaklisi]] 
+* [[Alano Español]]{{sfnp|Hancock|2014b|p=173}}
+* [[Alapaha Blue Blood Bulldog]]{{sfnp|Morris|2001|p=359}}
+* [[Alaskan Husky]]{{sfnp|Morris|2001|p=649}}
+* [[Alaskan Klee Kai]]{{sfnp|Fogle|2009|pp=146-147}}
+* [[Alaskan Malamute]]{{sfnp|Fogle|2009|p=122}}
+* [[Alopekis]]
+* [[Alpine Dachsbracke]]{{sfnp|Fogle|2009|p=190}}
+* [[American Bulldog]]{{sfnp|Fogle|2009|p=381}}
+* [[American Bully]]
+* [[American Cocker Spaniel]]{{sfnp|Fogle|2009|p=224}}
+* [[American English Coonhound]]{{sfnp|Hancock|2014b|p=159}}
+* [[American Eskimo Dog]]{{sfnp|Fogle|2009|pp=148-9}}
+* [[American Foxhound]]{{sfnp|Fogle|2009|p=178}}
+* [[American Hairless Terrier]]{{sfnp|Fogle|2009|p=292}}
+* [[American Leopard Hound]]
+* [[American Pit Bull Terrier]]{{sfnp|Fogle|2009|p=274}}
+* [[American Staffordshire Terrier]]{{sfnp|Fogle|2009|p=274}}
+* [[American Water Spaniel]]{{sfnp|Hancock|2013|p=33}}
+* [[Andalusian Terrier]]
+* [[Anglo-Français de Petite Vénerie]]{{sfnp|Fogle|2009|p=166}}
+* [[Appenzeller Sennenhund]]{{sfnp|Fogle|2009|p=320}}
+* [[Ariège Pointer]]
+* [[Ariégeois]]{{sfnp|Fogle|2009|p=164}}
+* [[Argentine Pila]]
+* [[Armant (dog)|Armant]]{{sfnp|Hancock|2014a|pp=87-88}}
+* [[Armenian Gampr]]
+* [[Artois Hound]]{{sfnp|Hancock|2014b|p=153}}
+* [[Askal]]
+* [[Australian Cattle Dog]]{{sfnp|Fogle|2009|p=312}}
+* [[Australian Kelpie]]{{sfnp|Fogle|2009|p=312}}
+* [[Australian Shepherd]]{{sfnp|Fogle|2009|p=313}}
+* [[Australian Silky Terrier]]{{sfnp|Fogle|2009|p=273}}
+* [[Australian Stumpy Tail Cattle Dog]]{{sfnp|Hancock|2014a|pp=126-128}}
+* [[Australian Terrier]]{{sfnp|Fogle|2009|p=273}}
+* [[Austrian Black and Tan Hound]]{{sfnp|Hancock|2014b|p=167}}
+* [[Austrian Pinscher]]{{sfnp|Fogle|2009|p=276}}
+* [[Azawakh]]{{sfnp|Fogle|2009|p=109}}
+* [[Bắc Hà dog|Bắc Hà]]
+* [[Bakharwal dog|Bakharwal]]
+* [[Banjara Hound]]{{sfnp|Hancock|2012|p=110}}
+* [[Bankhar Dog]]
+* [[Barak hound]]
+* [[Barbado da Terceira]]{{sfnp|Hancock|2014a|p=87}}
+* [[Barbet (dog)|Barbet]]{{sfnp|Fogle|2009|p=208}}
+* [[Basenji]]{{sfnp|Fogle|2009|p=90}}
+* [[Basque Shepherd Dog]]{{sfnp|Hancock|2014a|p=130}}
+* [[Basset Artésien Normand]]{{sfnp|Fogle|2009|p=165}}
+* [[Basset Bleu de Gascogne]]{{sfnp|Fogle|2009|p=163}}
+* [[Basset Fauve de Bretagne]]{{sfnp|Fogle|2009|p=167}}
+* [[Basset Hound]]{{sfnp|Fogle|2009|p=171}}
+* [[Bavarian Mountain Hound]]{{sfnp|Fogle|2009|p=194}}
+* [[Beagle]]{{sfnp|Fogle|2009|p=171}}
+* [[Beagle-Harrier]]{{sfnp|Fogle|2009|p=182}}
+* [[Bearded Collie]]{{sfnp|Fogle|2009|p=310}}
+* [[Beauceron]]{{sfnp|Fogle|2009|p=328}}
+* [[Bedlington Terrier]]{{sfnp|Fogle|2009|p=283}}
+* [[Belgian Shepherd]]{{sfnp|Fogle|2009|pp=306-307}}
+* [[Bergamasco Shepherd Dog]]{{sfnp|Fogle|2009|p=332}}
+* [[Berger Picard]]{{sfnp|Fogle|2009|p=329}}
+* [[Bernese Mountain Dog]]{{sfnp|Fogle|2009|p=320}}
+* [[Bichon Frisé]]{{sfnp|Fogle|2009|p=366}}
+* [[Biewer Terrier]]
+* [[Billy (dog breed)|Billy]]{{sfnp|Fogle|2009|p=196}}
+* [[Black and Tan Coonhound]]{{sfnp|Fogle|2009|p=180}}
+* [[Black Norwegian Elkhound]]{{sfnp|Morris|2001|p=99}}
+* [[Black Russian Terrier]]{{sfnp|Hancock|2011|p=9}}
+* [[Black Mouth Cur]]{{sfnp|Alderton|2000|p=133}}
+* [[Bloodhound]]{{sfnp|Fogle|2009|p=158}}
+* [[Blue Lacy]]{{sfnp|Hancock|2014b|p=141}}
+* [[Blue Picardy Spaniel]]{{sfnp|Fogle|2009|p=230}}
+* [[Bluetick Coonhound]]{{sfnp|Fogle|2009|p=180}}
+* [[Boerboel]]{{sfnp|Morris|2001|p=618}}
+* [[Bohemian Shepherd]]{{sfnp|Hancock|2014a|p=14}}
+* [[Bohemian Spotted Dog]]
+* [[Bolognese dog|Bolognese]]{{sfnp|Fogle|2009|p=367}}
+* [[Bolonka]]
+* [[Border Collie]]{{sfnp|Fogle|2009|p=308}}
+* [[Border Terrier]]{{sfnp|Fogle|2009|p=258}}
+* [[Borzoi]]{{sfnp|Fogle|2009|p=106}}
+* [[Boston Terrier]]{{sfnp|Fogle|2009|p=275}}
+* [[Bouvier des Ardennes]]{{sfnp|Fogle|2009|p=358}}
+* [[Bouvier des Flandres]]{{sfnp|Fogle|2009|p=352}}
+* [[Boxer (dog)|Boxer]]{{sfnp|Fogle|2009|p=340}}
+* [[Boykin Spaniel]]{{sfnp|Fogle|2009|p=183}}
+* [[Bracco Italiano]]{{sfnp|Fogle|2009|p=243}}
+* [[Braque d'Auvergne]]{{sfnp|Fogle|2009|p=247}}
+* [[Braque du Bourbonnais]]{{sfnp|Fogle|2009|p=245}}
+* [[Braque Français]]{{sfnp|Fogle|2009|p=244}}
+* [[Braque Saint-Germain]]{{sfnp|Fogle|2009|p=245}}
+* [[Brazilian Terrier]]{{sfnp|Fogle|2009|p=293}}
+* [[Briard]]{{sfnp|Fogle|2009|p=328}}
+* [[Briquet de Provence]]
+* [[Briquet Griffon Vendéen]]{{sfnp|Fogle|2009|p=168}}
+* [[Brittany (dog)|Brittany]]{{sfnp|Fogle|2009|p=230}}
+* [[Broholmer]]{{sfnp|Fogle|2009|p=83}}
+* [[Bruno Jura Hound]]{{sfnp|Fogle|2009|p=191}}
+* [[Bucovina Shepherd Dog]]{{sfnp|Hancock|2014b|p=32}}
+* [[Bulgarian Hound]]
+* [[Bulgarian Scenthound]]
+* [[Bull Arab]]
+* [[Bull Terrier]]{{sfnp|Fogle|2009|p=286}}
+* [[Bulldog]]{{sfnp|Fogle|2009|p=336}}
+* [[Bullmastiff]]{{sfnp|Fogle|2009|p=336}}
+* [[Bully Kutta]]
+* [[Burgos Pointer]]{{sfnp|Hancock|2013|p=78}}
+* [[Ca Mè Mallorquí]]<ref>{{cite book |last=Payeras Capella |first=Llorenç |chapter=Ca Mè Mallorquí|title={{harvnb|Guía de campo de las razas autóctonas españolas}}|pages=514–517}}</ref>
+* [[Ca de Bou]]{{sfnp|Fogle|2009|p=322}}
+* [[Ca de Conills]]
+* [[Ca Rater Mallorquí]]
+* [[Cairn Terrier]]{{sfnp|Fogle|2009|p=266}}
+* [[Calupoh]]
+* [[Campeiro Bulldog]]
+* [[Can de Chira]]
+* [[Can de Palleiro]]
+* [[Canaan Dog]]{{sfnp|Fogle|2009|p=89}}
+* [[Canadian Eskimo Dog]]{{sfnp|Fogle|2009|p=122}}
+* [[Cane Corso]]{{sfnp|Fogle|2009|p=353}}
+* [[Cane di Oropa]]
+* [[Cane Paratore]]
+* [[Cantabrian Water Dog]]
+* [[Cão de Gado Transmontano]]{{sfnp|Hancock|2014b|p=14}}
+* [[Cardigan Welsh Corgi]]{{sfnp|Fogle|2009|p=311}}
+* [[Carea Leonés]]
+* [[Carolina Dog]]{{sfnp|Fogle|2009|p=92}}
+* [[Carpathian Shepherd Dog]]{{sfnp|Hancock|2014a|p=13}}
+* [[Castro Laboreiro Dog]]{{sfnp|Fogle|2009|p=324}}
+* [[Catahoula Leopard Dog]]{{sfnp|Alderton|2000|pp=131-132}}
+* [[Catalan Sheepdog]]{{sfnp|Hancock|2014a|pp=94-95}}
+* [[Caucasian Shepherd Dog]]{{sfnp|Fogle|2009|p=350}}
+* [[Cavalier King Charles Spaniel]]{{sfnp|Fogle|2009|p=375}}
+* [[Central Asian Shepherd Dog]]{{sfnp|Fogle|2009|p=349}}
+* [[Český Fousek]]{{sfnp|Fogle|2009|p=240}}
+* [[Cesky Terrier]]{{sfnp|Fogle|2009|p=262}}
+* [[Chesapeake Bay Retriever]]{{sfnp|Fogle|2009|p=210}}
+* [[Chien Français Blanc et Noir]]{{sfnp|Fogle|2009|p=161}}
+* [[Chien Français Blanc et Orange]]{{sfnp|Fogle|2009|p=193}}
+* [[Chien Français Tricolore]]{{sfnp|Fogle|2009|p=161}}
+* [[Chihuahua (dog breed)|Chihuahua]]{{sfnp|Fogle|2009|p=368}}
+* [[Chilean Terrier]]
+* [[Chinese Crested Dog]]{{sfnp|Fogle|2009|p=377}}
+* [[Chinook (dog)|Chinook]]{{sfnp|Fogle|2009|p=142}}
+* [[Chippiparai]]{{sfnp|Soman|1962|pp=93-94}}
+* [[Chongqing dog|Chongqing]]
+* [[Chortai]]{{sfnp|Morris|2001|p=41}}
+* [[Chow Chow]]{{sfnp|Fogle|2009|p=141}}
+* [[Chukotka sled dog]]
+* [[Cimarrón Uruguayo]]
+* [[Cirneco dell'Etna]]{{sfnp|Fogle|2009|p=95}}
+* [[Clumber Spaniel]]{{sfnp|Fogle|2009|p=223}}
+* [[Colombian Fino Hound]]
+* [[Continental bulldog]]
+* [[Continental Toy Spaniel]]{{sfnp|Fogle|2009|p=125}}
+* [[Corsican Dog]]{{sfnp|Hancock|2014a|p=14}}
+* [[Coton de Tulear]]{{sfnp|Fogle|2009|p=369}}
+* [[Cretan Hound]]{{sfnp|Hancock|2012|p=94}}
+* [[Croatian Sheepdog]]{{sfnp|Hancock|2014a|p=13}}
+* [[Curly-coated Retriever]]{{sfnp|Fogle|2009|p=210}}
+* [[Czechoslovakian Wolfdog]]{{sfnp|Fogle|2009|p=330}}
+}}
+
+=== D–K ===
+{{columns-list|colwidth=20em|
+* [[Dachshund]]{{sfnp|Fogle|2009|pp=288-91}}
+* [[Dalmatian (dog)|Dalmatian]]{{sfnp|Fogle|2009|p=383}}
+* [[Dandie Dinmont Terrier]]{{sfnp|Fogle|2009|p=269}}
+* [[Danish Spitz]]
+* [[Danish–Swedish Farmdog]]{{sfnp|Fogle|2009|p=386}}
+* [[Denmark Feist]]{{sfnp|Mehus-Roe|2005|p=349}}
+* [[Dikkulak]]<ref name="gate">{{Cite journal|date=2019-09-22|title=The domestic livestock resources of Turkey: breed descriptions and status of guard and hunting dogs|url=https://www.researchgate.net/publication/282005963|access-date=2023-07-27|website=ResearchGate|language=en}}</ref>
+* [[Dingo]]{{Refn|group=note|Debate exists about the classification of the [[dingo]], it is sometimes considered a form of the domestic dog and sometimes a separate species.{{sfnp|Jackson|Groves|2015|pp=287–290}}}}
+* [[Dobermann]]{{sfnp|Fogle|2009|p=194}}
+* [[Dogo Argentino]]{{sfnp|Fogle|2009|p=334}}
+* [[Dogo Sardesco]]
+* [[Dogue Brasileiro]]{{sfnp|Fogle|2009|p=334}}
+* [[Dogue de Bordeaux]]{{sfnp|Fogle|2009|p=337}}
+* [[Donggyeongi]]
+* [[Drentse Patrijshond]]{{sfnp|Fogle|2009|p=229}}
+* [[Drever]]{{sfnp|Fogle|2009|p=177}}
+* [[Dunker]]{{sfnp|Fogle|2009|p=172}}
+* [[Dutch Shepherd]]{{sfnp|Fogle|2009|p=331}}
+* [[Dutch Smoushond]]{{sfnp|Fogle|2009|p=287}}
+* [[East Siberian Laika]]{{sfnp|Fogle|2009|p=126}}
+* [[East European Shepherd]]{{sfnp|Hancock|2014a|pp=14-15}}
+* [[Ecuadorian Hairless Dog]]{{sfnp|Morris|2001|p=582}}
+* [[English Cocker Spaniel]]{{sfnp|Fogle|2009|p=225}}
+* [[English Foxhound]]{{sfnp|Fogle|2009|p=170}}
+* [[English Mastiff]]{{sfnp|Fogle|2009|p=337}}
+* [[English Setter]]{{sfnp|Fogle|2009|p=234}}
+* [[English Shepherd]]{{sfnp|Hancock|2014a|pp=138-141}}
+* [[English Springer Spaniel]]{{sfnp|Fogle|2009|p=221}}
+* [[English Toy Terrier (Black & Tan)]]{{sfnp|Fogle|2009|p=260}}
+* [[Entlebucher Mountain Dog]]{{sfnp|Fogle|2009|p=321}}
+* [[Erbi Txakur]]
+* [[Estonian Hound]]{{sfnp|Alderton|2000|p=118}}
+* [[Estrela Mountain Dog]]{{sfnp|Fogle|2009|p=324}}
+* [[Eurasier]]{{sfnp|Fogle|2009|p=141}}
+* [[Field Spaniel]]{{sfnp|Fogle|2009|p=222}}
+* [[Fila Brasileiro]]{{sfnp|Fogle|2009|p=334}}
+* [[Finnish Hound]]{{sfnp|Fogle|2009|p=173}}
+* [[Finnish Lapphund]]{{sfnp|Fogle|2009|p=129}}
+* [[Finnish Spitz]]{{sfnp|Fogle|2009|p=128}}
+* [[Flat-coated Retriever]]{{sfnp|Fogle|2009|p=216}}
+* [[Black Mouth Cur#Florida counterpart|Florida Brown Dog a/k/a Florida Cracker Cur]]<ref>{{cite news |url=https://www.heraldtribune.com/story/news/2008/06/25/what-is-florida-brown-dog-syndrome/28637493007/ |date=June 25, 2008 |title=What is Florida brown dog syndrome? |author=Staff Writer |newspaper=[[Sarasota Herald-Tribune]] |access-date=April 28, 2024}}{{subscription required}}</ref><ref>{{cite book |title=Florida Cracker Cur Training Guide |quote=Book Features: Florida Cracker Cur Housetraining, Obedience Training, Agility Training, Behavioral Training, Tricks and More |first1=Stewart|last1=Hudson |publisher=[[CreateSpace Independent Publishing Platform]] |date=January 29, 2017}}</ref><ref name="GDC">{{cite web |url= https://gundogcentral.com/hunting-dog-breeds/Florida-Cracker-Cur |title=Florida Cracker Cur |publisher=Gun dog central |access-date=April 30, 2024}}</ref><ref name="DBC">{{cite web |url=https://www.101dogbreeds.com/florida-cracker-cur.asp |title=Florida Cracker Cur |quote=These dogs get their name from the Florida cowboys, originally colonial British settlers. Due to the sound of their whips, they are also called "Crackers" and used to drive cattle across expansive plains. |website=101dogbreeds |date=10 November 2023 |access-date=April 30, 2024 |publisher=dogbreeds.com}}</ref><ref name="Drew">{{cite web |title=What is a Florida cracker cur dog? |date=August 18, 2022 |first1=Hubert |last1=Drew |work=temporary |url=https://thefaithfuldog.com/what-is-a-florida-cracker-cur-dog/ |access-date=April 30, 2024}}</ref>
+* [[French Bulldog]]{{sfnp|Fogle|2009|p=380}}
+* [[French Spaniel]]{{sfnp|Fogle|2009|p=231}}
+* [[Galgo Español]]{{sfnp|Fogle|2009|p=108}}
+* [[Gascon Saintongeois]]{{sfnp|Fogle|2009|p=166}}
+* [[Gaucho sheepdog]]
+* [[Georgian Shepherd]]
+* [[German Hound]]
+* [[German Longhaired Pointer]]{{sfnp|Fogle|2009|pp=236-7}}
+* [[German Pinscher]]{{sfnp|Fogle|2009|p=277}}
+* [[German Roughhaired Pointer]]{{sfnp|Hancock|2013|p=18}}
+* [[German Shepherd]]{{sfnp|Fogle|2009|pp=304-5}}
+* [[German Shorthaired Pointer]]{{sfnp|Fogle|2009|pp=236-7}}
+* [[German Spaniel]]{{sfnp|Fogle|2009|p=223}}
+* [[German Spitz]]{{sfnp|Fogle|2009|p=135}}
+* [[German Wirehaired Pointer]]{{sfnp|Fogle|2009|pp=236-7}}
+* [[Giant Schnauzer]]{{sfnp|Fogle|2009|p=318}}
+* [[Glen of Imaal Terrier]]{{sfnp|Fogle|2009|p=282}}
+* [[Golden Retriever]]{{sfnp|Fogle|2009|p=217}}
+* [[Gończy Polski]]{{sfnp|Alderton|2000|p=114}}
+* [[Gordon Setter]]{{sfnp|Fogle|2009|p=234}}
+* [[Grand Anglo-Français Blanc et Noir]]{{sfnp|Fogle|2009|p=160}}
+* [[Grand Anglo-Français Blanc et Orange]]{{sfnp|Fogle|2009|p=160}}
+* [[Grand Anglo-Français Tricolore]]{{sfnp|Fogle|2009|p=160}}
+* [[Grand Basset Griffon Vendéen]]{{sfnp|Fogle|2009|p=169}}
+* [[Grand Bleu de Gascogne]]{{sfnp|Fogle|2009|p=162}}
+* [[Grand Griffon Vendéen]]{{sfnp|Fogle|2009|p=168}}
+* [[Great Dane]]{{sfnp|Fogle|2009|p=341}}
+* [[Greater Swiss Mountain Dog]]{{sfnp|Fogle|2009|p=321}}
+* [[Greek Harehound]]{{sfnp|Fogle|2009|p=198}}
+* [[Greek Shepherd]]{{sfnp|Fogle|2009|p=356}}
+* [[Greenland Dog]]{{sfnp|Fogle|2009|p=123}}
+* [[Greyhound]]{{sfnp|Fogle|2009|p=106}}
+* [[Griffon Bleu de Gascogne]]{{sfnp|Fogle|2009|p=163}}
+* [[Griffon Bruxellois]]{{sfnp|Fogle|2009|p=278}}
+* [[Griffon Fauve de Bretagne]]{{sfnp|Fogle|2009|p=167}}
+* [[Griffon Nivernais]]{{sfnp|Fogle|2009|p=165}}
+* [[Gull Dong]]
+* [[Gull Terrier]]
+* [[Hällefors Elkhound]]
+* [[Halden Hound]]
+* [[Hamiltonstövare]]{{sfnp|Fogle|2009|p=176}}
+* [[Hanover Hound]]{{sfnp|Fogle|2009|p=195}}
+* [[Harrier (dog)|Harrier]]{{sfnp|Fogle|2009|p=156}}
+* [[Havanese dog|Havanese]]{{sfnp|Fogle|2009|p=367}}
+* [[Himalayan Sheepdog]]{{sfnp|Hancock|2014a|p=32}}
+* [[Hmong bobtail dog]]
+* [[Hokkaido (dog)|Hokkaido]]{{sfnp|Fogle|2009|p=136}}
+* [[Hovawart]]{{sfnp|Fogle|2009|p=344}}
+* [[Huntaway]]{{sfnp|Hancock|2014a|pp=132-4}}
+* [[Hygen Hound]]{{sfnp|Fogle|2009|p=173}}
+* [[Ibizan Hound]]{{sfnp|Fogle|2009|p=95}}
+* [[Icelandic Sheepdog]]{{sfnp|Fogle|2009|p=144}}
+* [[Indian pariah dog]]
+* [[Indian Spitz]]
+* [[Irish Red and White Setter]]{{sfnp|Fogle|2009|p=235}}
+* [[Irish Setter]]{{sfnp|Fogle|2009|p=235}}
+* [[Irish Terrier]]{{sfnp|Fogle|2009|p=256}}
+* [[Irish Water Spaniel]]{{sfnp|Fogle|2009|p=207}}
+* [[Irish Wolfhound]]{{sfnp|Fogle|2009|p=110}}
+* [[Istrian Coarse-haired Hound]]{{sfnp|Fogle|2009|p=187}}
+* [[Istrian Shorthaired Hound]]{{sfnp|Fogle|2009|p=186}}
+* [[Italian Greyhound]]{{sfnp|Fogle|2009|p=113}}
+* [[Jack Russell Terrier]]{{sfnp|Fogle|2009|p=284}}
+* [[Jagdterrier]]{{sfnp|Fogle|2009|p=262}}
+* [[Jämthund]]{{sfnp|Fogle|2009|p=133}}
+* [[Japanese Chin]]{{sfnp|Fogle|2009|p=374}}
+* [[Japanese Spitz]]{{sfnp|Fogle|2009|p=140}}
+* [[Japanese Terrier]]{{sfnp|Fogle|2009|p=263}}
+* [[Jeju dog|Jeju]]
+* [[Korean Jindo|Jindo]]{{sfnp|Fogle|2009|p=137}}
+* [[Jonangi]]
+* [[Kai Ken]]
+* [[Kaikadi (dog)|Kaikadi]]{{sfnp|Soman|1962|p=90}}
+* [[Kamchatka Sled Dog]]
+* [[Kangal Shepherd Dog]]{{sfnp|Fogle|2009|p=351}}
+* [[Kanni]]{{sfnp|Hancock|2012|p=110}}
+* [[Karakachan dog|Karakachan]]
+* [[Karelian Bear Dog]]{{sfnp|Fogle|2009|p=127}}
+* [[Karelo-Finnish Laika]]
+* [[Kars dog|Kars]]{{sfnp|Morris|2001|p=396}}
+* [[Karst Shepherd]]{{sfnp|Fogle|2009|p=333}}
+* [[Kazakh Tazy]]
+* [[Keeshond]]{{sfnp|Fogle|2009|p=134}}
+* [[Kerry Beagle]]{{sfnp|Fogle|2009|p=182}}
+* [[Kerry Blue Terrier]]{{sfnp|Fogle|2009|p=257}}
+* [[Khala (dog breed)|Khala]]{{sfnp|Morris|2001|p=596}}
+* [[King Charles Spaniel]]{{sfnp|Fogle|2009|p=374}}
+* [[King Shepherd]]{{sfnp|Fogle|2009|p=358}}
+* [[Kintamani (dog)|Kintamani]]
+* [[Kishu]]{{sfnp|Fogle|2009|p=62}}
+* [[Kokoni]]
+* [[Kombai dog|Kombai]]{{sfnp|Soman|1962|p=91}}
+* [[Komondor]]{{sfnp|Fogle|2009|p=316}}
+* [[Kooikerhondje]]{{sfnp|Fogle|2009|p=220}}
+* [[Koolie]]
+* [[Kromfohrländer]]{{sfnp|Fogle|2009|p=263}}
+* [[Kuchi dog|Kuchi]]{{sfnp|Hancock|2014a|p=33}}
+* [[Kunma Dog|Kunma]]
+* [[Kunming dog|Kunming]]
+* [[Kurdish Mastiff]]
+* [[Kuvasz]]{{sfnp|Fogle|2009|p=317}}
+}}
+
+=== L–R ===
+{{columns-list|colwidth=20em|
+* [[Labrador Retriever]]{{sfnp|Fogle|2009|p=215}}
+* [[Lagotto Romagnolo]]{{sfnp|Fogle|2009|p=248}}
+* [[Lài dog|Lài]]
+* [[Laizhou Hong]]
+* [[Lakeland Terrier]]{{sfnp|Fogle|2009|p=258}}
+* [[Lancashire Heeler]]{{sfnp|Fogle|2009|p=313}}
+* [[Landseer dog|Landseer]]{{sfnp|Fogle|2009|p=345}}
+* [[Langqing Quan|Langqing]]
+* [[Lapponian Herder]]{{sfnp|Fogle|2009|p=128}}
+* [[Large Münsterländer]]{{sfnp|Fogle|2009|p=228}}
+* [[Leonberger]]{{sfnp|Fogle|2009|p=334}}
+* [[Levriero Sardo]]
+* [[Lhasa Apso]]
+* [[Liangshan Dog]]{{sfnp|Fogle|2009|p=370}}
+* [[Lithuanian Hound]]{{sfnp|Alderton|2000|p=118}}
+* [[Lobito Herreño]]
+* [[Löwchen]]{{sfnp|Fogle|2009|p=369}}
+* [[Lucas Terrier]]
+* [[Lupo Italiano]]
+* [[Macedonian Shepherd Dog]]{{sfnp|FCI |loc=[https://fci.be/Nomenclature/Standards/378g02-en.pdf "FCI-Standard N° 378"]}}
+* [[Mackenzie River Husky]]
+* [[Magyar Agár]]{{sfnp|Fogle|2009|p=111}}
+* [[Mahratta Hound]]{{sfnp|Fogle|2009|p=102}}
+* [[Majorca Shepherd Dog]]
+* [[Maltese dog|Maltese]]{{sfnp|Fogle|2009|p=366}}
+* [[Manchester Terrier]]{{sfnp|Fogle|2009|p=260}}
+* [[Maneto]]<ref>{{cite book |last1=Barba |first1=Cecilio |last2=García de Tena |first2=Agustín |last3=Esperanza Camacho |first3=María |chapter=Maneto|title={{harvnb|Guía de campo de las razas autóctonas españolas}}|pages=548–551}}</ref>
+* [[Mantiqueira Shepherd]]
+* [[Markiesje]]
+* [[Maremmano-Abruzzese Sheepdog]]{{sfnp|Fogle|2009|p=332}}
+* [[McNab dog|McNab]]
+* [[Mi-Ki]]
+* [[Miniature American Shepherd]]
+* [[Miniature Bull Terrier]]{{sfnp|Fogle|2009|p=286}}
+* [[Miniature Fox Terrier]]
+* [[Miniature Pinscher]]{{sfnp|Fogle|2009|p=276}}
+* [[Miniature Schnauzer]]{{sfnp|Fogle|2009|p=279}}
+* [[Mojee]]
+* [[Molossus of Epirus]]
+* [[Mongrel]]
+* [[Montenegrin Mountain Hound]]{{sfnp|Alderton|2000|p=113}}
+* [[Moscow Watchdog]]
+* [[Mountain Cur]]{{sfnp|Fogle|2009|p=198}}
+* [[Mountain Feist]]{{sfnp|Mehus-Roe|2005|p=349}}
+* [[Mudhol Hound]]{{sfnp|Fogle|2009|p=103}}
+* [[Mudi]]<ref name="SL 2022">{{cite web | title=Meet the American Kennel Club's Newest Recognized Dog Breeds | website=Southern Living | date=2022-01-05 | url=https://www.southernliving.com/culture/pets/meet-akc-new-dog-breeds | access-date=2022-06-26 | archive-date=28 June 2022 | archive-url=https://web.archive.org/web/20220628083935/https://www.southernliving.com/culture/pets/meet-akc-new-dog-breeds }}</ref>
+* [[Neapolitan Mastiff]]{{sfnp|Fogle|2009|p=335}}
+* [[Nenets Herding Laika]]
+* [[New Guinea singing dog]]
+* [[New Zealand Heading Dog]]
+* [[Newfoundland dog|Newfoundland]]{{sfnp|Fogle|2009|p=346}}
+* [[Norfolk Terrier]]{{sfnp|Fogle|2009|p=266}}
+* [[Norrbottenspets]]{{sfnp|Fogle|2009|p=145}}
+* [[Northern Inuit Dog]]
+* [[Norwegian Buhund]]{{sfnp|Fogle|2009|p=144}}
+* [[Norwegian Elkhound]]{{sfnp|Fogle|2009|p=131}}
+* [[Norwegian Lundehund]]{{sfnp|Hancock|2014b|p=181}}
+* [[Norwich Terrier]]{{sfnp|Fogle|2009|p=267}}
+* [[Nova Scotia Duck Tolling Retriever]]{{sfnp|Fogle|2009|p=220}}
+* [[Nureongi]]
+* [[Old Danish Pointer]]{{sfnp|Fogle|2009|p=246}}
+* [[Old English Sheepdog]]{{sfnp|Fogle|2009|p=180}}
+* [[Olde English Bulldogge]]{{sfnp|Fogle|2009|p=381}}
+* [[Otterhound]]{{sfnp|Fogle|2009|p=170}}
+* [[Pachón Navarro]]
+* [[Pampas Deerhound]]
+* [[Parson Russell Terrier]]{{sfnp|Fogle|2009|p=294}}
+* [[Pastor Garafiano]]{{sfnp|Hancock|2014a|pp=119-120}}
+* [[Pastore della Lessinia e del Lagorai]]
+* [[Patagonian Sheepdog]]
+* [[Patterdale Terrier]]{{sfnp|Fogle|2009|p=261}}
+* [[Pekingese]]{{sfnp|Fogle|2009|p=371}}
+* [[Pembroke Welsh Corgi]]{{sfnp|Fogle|2009|p=311}}
+* [[Perdigueiro Galego]]
+* [[Perro Majorero]]
+* [[Peruvian Hairless Dog]]{{sfnp|Fogle|2009|p=91}}
+* [[Petit Basset Griffon Vendéen]]{{sfnp|Fogle|2009|p=169}}
+* [[Petit Bleu de Gascogne]]{{sfnp|Fogle|2009|p=162}}
+* [[Pharaoh Hound]]{{sfnp|Fogle|2009|p=94}}
+* [[Philippine forest dog]]<ref>{{Cite web |date=2023-01-14 |title=NATIONAL BREED |url=https://www.manilatimes.net/2023/01/14/photos/national-breed/1874275 |access-date=2024-01-30 |website=The Manila Times |language=en}}</ref>
+* [[Phu Quoc Ridgeback]]
+* [[Picardy Spaniel]]{{sfnp|Fogle|2009|p=231}}
+* [[Plummer Terrier]]{{sfnp|Fogle|2009|p=261}}
+* [[Plott Hound]]{{sfnp|Fogle|2009|p=179}}
+* [[Podenco Andaluz]]
+* [[Podenco Canario]]{{sfnp|Fogle|2009|p=89}}
+* [[Podenco Valenciano]]
+* [[Pointer (dog breed)|Pointer]]{{sfnp|Fogle|2009|p=216}}
+* [[Poitevin hound|Poitevin]]{{sfnp|Fogle|2009|p=187}}
+* [[Polish Greyhound]]{{sfnp|Fogle|2009|p=114}}
+* [[Polish Hound]]{{sfnp|Fogle|2009|p=185}}
+* [[Polish Lowland Sheepdog]]{{sfnp|Fogle|2009|p=348}}
+* [[Pomeranian dog|Pomeranian]]{{sfnp|Fogle|2009|p=124}}
+* [[Pont-Audemer Spaniel]]{{sfnp|Fogle|2009|p=209}}
+* [[Poodle]]{{sfnp|Fogle|2009|p=382}}
+* [[Porcelaine]]{{sfnp|Fogle|2009|p=196}}
+* [[Portuguese Podengo]]{{sfnp|Fogle|2009|p=96}}
+* [[Portuguese Pointer]]{{sfnp|Fogle|2009|p=242}}
+* [[Portuguese Sheepdog]]{{sfnp|Fogle|2009|p=325}}
+* [[Portuguese Water Dog]]{{sfnp|Fogle|2009|p=206}}
+* [[Posavac Hound]]{{sfnp|Fogle|2009|p=188}}
+* [[Pražský Krysařík]]{{sfnp|Fogle|2009|p=387}}
+* [[Presa Canario]]{{sfnp|Fogle|2009|p=323}}
+* [[Pudelpointer]]{{sfnp|Fogle|2009|p=246}}
+* [[Pug]]{{sfnp|Fogle|2009|p=380}}
+* [[Puli dog|Puli]]{{sfnp|Fogle|2009|p=206}}
+* [[Pumi dog|Pumi]]{{sfnp|Fogle|2009|p=316}}
+* [[Pungsan dog|Pungsan]]
+* [[Pyrenean Mastiff]]{{sfnp|Fogle|2009|p=347}}
+* [[Pyrenean Mountain Dog]]{{sfnp|Fogle|2009|p=347}}
+* [[Pyrenean Sheepdog]]{{sfnp|Fogle|2009|p=346}}
+* [[Rafeiro do Alentejo]]{{sfnp|Hancock|2014a|pp=34-35}}
+* [[Rajapalayam dog|Rajapalayam]]{{sfnp|Hancock|2012|p=111}}
+* [[Rampur Greyhound]]{{sfnp|Fogle|2009|p=313}}
+* [[Rastreador Brasileiro]]
+* [[Rat Terrier]]{{sfnp|Fogle|2009|p=293}}
+* [[Ratonero Murciano]]
+* [[Redbone Coonhound]]{{sfnp|Fogle|2009|p=181}}
+* [[Rhodesian Ridgeback]]{{sfnp|Fogle|2009|p=195}}
+* [[Rize Koyun]]
+* [[Romanian Mioritic Shepherd Dog]]{{sfnp|Hancock|2014a|p=13}}
+* [[Romanian Raven Shepherd Dog]]{{sfnp|Hancock|2014a|p=13}}
+* [[Rottweiler]]{{sfnp|Fogle|2009|p=341}}
+* [[Rough Collie]]{{sfnp|Fogle|2009|p=308}}
+* [[Russian Spaniel]]
+* [[Russkiy Toy]]<ref name="SL 2022" /><ref name="USAToday-2022">{{cite web | last=Gleeson | first=Scott | title=Two new dog breeds officially recognized by the American Kennel Club | website=USA TODAY | date=2022-01-05 | url=https://www.usatoday.com/story/news/nation/2022/01/05/new-dog-breeds-russian-toy-mudi/9101492002/ | access-date=2022-06-26}}</ref>
+* [[Russo-European Laika]]{{sfnp|Fogle|2009|p=126}}
+* [[Ryukyu dog|Ryukyu]]
+}}
+
+=== S–Z ===
+{{columns-list|colwidth=20em|
+* [[Saarloos Wolfdog]]{{sfnp|Fogle|2009|p=330}}
+* [[Sabueso Español]]{{sfnp|Fogle|2009|p=184}}
+* [[Saint Miguel Cattle Dog]]{{sfnp|Fogle|2009|p=357}}
+* [[Saint-Usuge Spaniel]]
+* [[Saluki]]{{sfnp|Fogle|2009|p=108}}
+* [[Samoyed dog|Samoyed]]{{sfnp|Fogle|2009|p=140}}
+* [[Sapsali]]
+* [[Sarabi dog|Sarabi]]{{sfnp|Taefehshokr|Key|Maleki|2014|p=15}}
+* [[Sarail Hound]]
+* [[Sardinian Shepherd Dog]]
+* [[Šarplaninac]]{{sfnp|Hancock|2014a|p=13}}
+* [[Schapendoes]]{{sfnp|Fogle|2009|p=329}}
+* [[Schillerstövare]]{{sfnp|Fogle|2009|p=177}}
+* [[Schipperke]]{{sfnp|Fogle|2009|p=147}}
+* [[Schnauzer]]{{sfnp|Fogle|2009|p=200}}
+* [[Schweizer Laufhund]]{{sfnp|Fogle|2009|p=193}}
+* [[Schweizerischer Niederlaufhund]]{{sfnp|Fogle|2009|p=197}}
+* [[Scottish Deerhound]]{{sfnp|Fogle|2009|p=110}}
+* [[Scottish Terrier]]{{sfnp|Fogle|2009|p=268}}
+* [[Sealyham Terrier]]{{sfnp|Fogle|2009|p=269}}
+* [[Segugio dell'Appennino]]
+* [[Segugio Italiano a Pelo Forte]]
+* [[Segugio Italiano a Pelo Raso]]{{sfnp|Fogle|2009|p=184}}
+* [[Segugio Maremmano]]
+* [[Serbian Hound]]{{sfnp|Alderton|2000|pp=113-114}}
+* [[Serbian Tricolour Hound]]{{sfnp|Alderton|2000|p=113}}
+* [[Serrano Bulldog]]
+* [[Shar Pei]]
+* [[Shetland Sheepdog]]{{sfnp|Fogle|2009|p=309}}
+* [[Shiba Inu]]{{sfnp|Fogle|2009|p=143}}
+* [[Shih Tzu]]{{sfnp|Fogle|2009|p=370}}
+* [[Shikoku dog|Shikoku]]{{sfnp|Fogle|2009|p=142}}
+* [[Shiloh Shepherd]]{{sfnp|Fogle|2009|p=387}}
+* [[Siberian Husky]]{{sfnp|Fogle|2009|p=123}}
+* [[Silken Windhound]]
+* [[Sinhala Hound]]
+* [[Skye Terrier]]{{sfnp|Fogle|2009|p=268}}
+* [[Sloughi]]{{sfnp|Fogle|2009|p=109}}
+* [[Slovak Rough-haired Pointer]]{{sfnp|Hancock|2013|p=18}}
+* [[Slovak Cuvac]]{{sfnp|Fogle|2009|p=317}}
+* [[Slovenský kopov]]{{sfnp|Fogle|2009|p=185}}
+* [[Smaland Hound]]{{sfnp|Alderton|2000|p=114}}
+* [[Small Međimurje Dog]]
+* [[Small Münsterländer]]{{sfnp|Fogle|2009|p=228}}
+* [[Smithfield (dog)|Smithfield]]
+* [[Smooth Collie]]{{sfnp|Fogle|2009|p=309}}
+* [[Smooth Fox Terrier]]{{sfnp|Fogle|2009|p=259}}
+* [[Soft-coated Wheaten Terrier]]{{sfnp|Fogle|2009|p=282}}
+* [[South Russian Ovcharka]]{{sfnp|Fogle|2009|p=354}}
+* [[Spanish Mastiff]]{{sfnp|Fogle|2009|p=335}}
+* [[Spanish Water Dog]]{{sfnp|Fogle|2009|p=207}}
+* [[Spino degli Iblei]]
+* [[Spinone Italiano]]{{sfnp|Fogle|2009|p=243}}
+* [[Sporting Lucas Terrier]]{{sfnp|Fogle|2009|p=386}}
+* [[St. Bernard (dog)|St. Bernard]]{{sfnp|Fogle|2009|p=345}}
+* [[St. Hubert Jura Hound]]{{sfnp|Fogle|2009|p=191}}
+* [[Stabyhoun]]{{sfnp|Fogle|2009|p=229}}
+* [[Staffordshire Bull Terrier]]{{sfnp|Fogle|2009|p=285}}
+* [[Standard Schnauzer]]{{sfnp|Fogle|2009|p=318}}
+* [[Stephens Stock]]{{sfnp|Morris|2001|p=235}}
+* [[Styrian Coarse-haired Hound]]{{sfnp|Fogle|2009|p=190}}
+* [[Sussex Spaniel]]{{sfnp|Fogle|2009|p=222}}
+* [[Swedish Lapphund]]{{sfnp|Fogle|2009|p=133}}
+* [[Swedish Vallhund]]{{sfnp|Fogle|2009|p=352}}
+* [[Taigan]]{{sfnp|Fogle|2009|p=102}}
+* [[Taiwan Dog]]
+* [[Tamaskan Dog]]
+* [[Tang Dog]]
+* [[Tarsus çatalburun]]
+* [[Tatranský durič]]{{sfnp|FCI |loc=[https://www.fci.be/Nomenclature/Standards/377g06-en.pdf "FCI-Standard N° 377"]}}
+* [[Tatra Shepherd Dog]]{{sfnp|Hancock|2014a|pp=34-36}}
+* [[Teddy Roosevelt Terrier]]
+* [[Telomian]]
+* [[Tenterfield Terrier]]
+* [[Thai Bangkaew Dog]]
+* [[Thai Ridgeback]]{{sfnp|Fogle|2009|p=385}}
+* [[Tibetan Kyi Apso]] 
+* [[Tibetan Mastiff]]{{sfnp|Fogle|2009|p=343}}
+* [[Tibetan spaniel]]{{sfnp|Fogle|2009|p=376}}
+* [[Tibetan Terrier]]{{sfnp|Fogle|2009|p=376}}
+* [[Tonya Finosu]]
+* [[Tornjak]]{{sfnp|Hancock|2014a|p=32}}
+* [[Tosa (dog)|Tosa]]{{sfnp|Fogle|2009|p=342}}
+* [[Toy Fox Terrier]]{{sfnp|Fogle|2009|p=275}}
+* [[Toy Manchester Terrier]]{{sfnp|Fogle|2009|p=260}}
+* [[Transylvanian Hound]]{{sfnp|Fogle|2009|p=192}}
+* [[Treeing Cur]]
+* [[Treeing Feist]]{{sfnp|Mehus-Roe|2005|p=350}}
+* [[Treeing Tennessee Brindle]]
+* [[Treeing Walker Coonhound]]{{sfnp|Fogle|2009|p=179}}
+* [[Trigg Hound]]{{sfnp|Hancock|2014b|pp=156-157}}
+* [[Tyrolean Hound]]{{sfnp|Alderton|2000|p=109}}
+* [[Valdueza]]
+* [[Valencian Terrier]]
+* [[Vikhan]]{{sfnp|Soman|1962|pp=66-67}}
+* [[Villano de Las Encartaciones]]
+* [[Villanuco de Las Encartaciones]]
+* [[Vizsla]]{{sfnp|Fogle|2009|p=214}}
+* [[Volkosob]]
+* [[Volpino Italiano]]{{sfnp|Fogle|2009|p=124}}
+* [[Weimaraner]]{{sfnp|Fogle|2009|p=241}}
+* [[Welsh Hound]]
+* [[Welsh Sheepdog]]
+* [[Welsh Springer Spaniel]]{{sfnp|Fogle|2009|p=221}}
+* [[Welsh Terrier]]{{sfnp|Fogle|2009|p=257}}
+* [[West Country Harrier]]{{sfnp|Alderton|2000|p=84}}
+* [[West Highland White Terrier]]{{sfnp|Fogle|2009|p=267}}
+* [[West Siberian Laika]]{{sfnp|Fogle|2009|p=127}}
+* [[Westphalian Dachsbracke]]{{sfnp|Fogle|2009|p=177}}
+* [[Wetterhoun]]{{sfnp|Fogle|2009|p=209}}
+* [[Whippet]]{{sfnp|Fogle|2009|p=111}}
+* [[White Shepherd]]
+* [[White Swiss Shepherd Dog]]{{sfnp|Hancock|2014a|p=14}}
+* [[Wire Fox Terrier]]{{sfnp|Fogle|2009|p=259}}
+* [[Wirehaired Pointing Griffon]]{{sfnp|Hancock|2013|pp=89}}
+* [[Wirehaired Vizsla]]
+* [[Xiasi Dog]]
+* [[Xigou]]
+* [[Xoloitzcuintle]]{{sfnp|Fogle|2009|pp=92-3}}
+* [[Yakutian Laika]]
+* [[Yorkshire Terrier]]{{sfnp|Fogle|2009|p=272}}
+* [[Zerdava]]
+}}
+
+== Extinct and critically endangered breeds, varieties and types ==
+{{columns-list|colwidth=20em|
+* [[Abyssinian sand terrier]]
+* [[Alaunt]]{{sfnp|Morris|2001|p=607}}
+* [[Alpine Mastiff]]{{sfnp|Morris|2001|p=609}}
+* [[Argentine polar dog|Argentine Polar Dog]]
+* [[Assyrian Mastiff]] 
+* [[Belgian Mastiff]]{{sfnp|Morris|2001|p=666}}
+* [[Black and Tan Terrier]]{{sfnp|Hancock|1984|p=13}}
+* [[Braque Dupuy]]{{sfnp|Morris|2001|p=225}}
+* [[Buckhound]]
+* [[Bullenbeisser]]{{sfnp|Morris|2001|p=314}}
+* [[Chien-gris]]{{sfnp|Morris|2001|p=87}}
+* [[Chiribaya Dog]]
+* [[Córdoba fighting dog]]
+* [[Cumberland Sheepdog]]
+* [[Cur]]{{sfnp|Hancock|1984|p=21}}
+* [[Dalbo dog|Dalbo]]{{sfnp|Morris|2001|p=382}}
+* [[Dogo Cubano]]{{sfnp|Morris|2001|p=369}}
+* [[Dumfriesshire hound]]
+* [[English Water Spaniel]]
+* [[English White Terrier]]{{sfnp|Hancock|1984|p=13}}
+* [[Fu Quan]]
+* [[Fuegian dog|Fuegian]]
+* [[Grand Fauve de Bretagne]]{{sfnp|Fogle|2009|p=167}}
+* [[Halls Heeler]]{{sfnp|Hancock|2014a|p=129}}
+* [[Hare Indian Dog]]
+* [[Hawaiian Poi Dog]]
+* [[King's White Hound]]
+* [[Kurī]]{{sfnp|Fogle|2009|p=85}}
+* [[Laconian (dog)|Laconian]]
+* [[Lapponian Shepherd]]
+* [[Limer]]
+* [[Marquesan Dog]]
+* [[Molossus (dog)|Molossus]]
+* [[Moscow Water Dog]]
+* [[Norfolk Spaniel]]
+* [[Norman Hound]]
+* [[North Country Beagle]]
+* [[Old Croatian Sighthound]]
+* [[Old English Bulldog]]
+* [[Old Spanish Pointer]]
+* [[Old Welsh Grey Sheepdog]]
+* [[Paisley Terrier]]
+* [[Polynesian Dog]]
+* [[Rache]]
+* [[Rastreador Brasileiro]]{{sfnp|Hancock|2014b|p=169}}
+* [[Red Decoy Dog]]{{sfnp|Hancock|2013|p=44}}
+* [[Sakhalin Husky]]
+* [[Salish Wool Dog]]
+* [[Sleuth hound]]
+* [[Southern Hound]]{{sfnp|Fogle|2009|p=244}}
+* [[St. John's water dog]]
+* [[Staghound]]
+* [[Tahitian Dog]]
+* [[Tahltan Bear Dog]]{{sfnp|Fogle|2009|p=84}}
+* [[Talbot (dog)|Talbot]]{{sfnp|Fogle|2009|p=180}}
+* [[Techichi]]
+* [[Terceira Mastiff]]
+* [[Tesem]]
+* [[Toy Bulldog]]
+* [[Toy Trawler Spaniel]]
+* [[Turnspit dog|Turnspit]]
+* [[Tweed Water Spaniel]]{{sfnp|Hancock|1984|p=27}}
+* [[Welsh Hillman]]{{sfnp|Hancock|2014a|p=11}}
+}}
+
+==See also==
+* [[Dog type]]
+* [[List of dog crossbreeds]]
+* [[List of Italian dog breeds]]
+* [[List of dog breeds from India]]
+* [[List of Tibetan dog breeds]]
+* [[List of dog breeds originating from England]]
+* [[List of dog breeds originating from Scotland]]
+
+==Notes==
+{{reflist|group=note}}
+
+== References ==
+=== Citations ===
+{{reflist|20em}}
+
+=== Bibliography ===
+* {{cite book |last=Alderton |first=David |author-link=David Alderton |date=2000 |title=Hounds of the World |location=Shrewsbury |publisher=Swan Hill Press |isbn=1-85310-912-6}}
+* {{citation |author=Fédération Cynologique Internationale | author-link=Fédération Cynologique Internationale |date= |title=www.fci.be |url=https://www.fci.be/en/ |location=Thuin, Belgium. |ref={{SfnRef|FCI}}}}
+* {{cite book |editor1-last=Fernández Rodríguez |editor1-first=Miguel |editor2-last=Gómez Fernández |editor2-first=Mariano |editor3-last=Delgado Bermejo |editor3-first=Juan Vicente |editor4-last=Adán Belmonte |editor4-first=Silvia |editor5-last=Jiménez Cabras |editor5-first=Miguel |date=2009 |title=Guía de campo de las razas autóctonas españolas |trans-title=Field guide to native Spanish breeds |url=https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/1.1%20Gu%C3%ADa%20de%20campo%20de%20las%20razas%20aut%C3%B3ctonas%20espa%C3%B1olas._tcm30-120392.pdf |archive-url=https://web.archive.org/web/20190722175348/https://www.mapa.gob.es/es/ganaderia/temas/zootecnia/1.1%2520Gu%25C3%25ADa%2520de%2520campo%2520de%2520las%2520razas%2520aut%25C3%25B3ctonas%2520espa%25C3%25B1olas._tcm30-120392.pdf |archive-date=2019-07-22 |url-status=live |language=es |location=Madrid |publisher=Ministerio de Medio Ambiente y Medio Rural y Marino |isbn=978-84-491-0946-1|ref={{harvid|Guía de campo de las razas autóctonas españolas}}}}
+* {{cite book |last=Fogle |first=Bruce |author-link=Bruce Fogle|date=2009 |title=The Encyclopedia of the Dog |location=New York |publisher=DK Publishing |isbn=978-0-7566-6004-8| url=https://archive.org/details/encyclopediaofdo0000fogl/mode/1up }}
+* {{cite book |last=Hancock|first=David |date=2014a |title=Dogs of the Shepherds: A Review of the Pastoral Breeds |location=Ramsbury, Wiltshire |publisher=The Crowood Press Ltd |isbn=978-1-84797-808-0 }}
+* {{cite book |last=Hancock |first=David |date=2013 |title=Gundogs: Their Past, their Performance and their Prospects |location=Ramsbury, Marlborough |publisher=The Crowood Press Ltd |isbn=978-1-84797-492-1 }}
+* {{cite book |last=Hancock |first=David |date=2014b |title=Hounds: Hunting by Scent |location=Ramsbury, Marlborough |publisher=The Crowood Press Ltd |isbn=978-1-84797-601-7 }}
+* {{cite book |last=Hancock |first=David |date=1984 |title=Old Working Dogs |location=Botley, Oxfordshire |publisher=Shire Publications Ltd |isbn=0-85263-678-4 }}
+* {{cite book |last=Hancock |first=David |date=2012 |title=Sighthounds: Their Form, their Function and their Future |location=Ramsbury, Marlborough |publisher=The Crowood Press Ltd |isbn=978-1-84797-392-4 }}
+* {{cite book |last=Hancock |first=David |date=2011 |title=Sporting Terriers: Their Form, their Function and their Future |location=Ramsbury, Marlborough |publisher=The Crowood Press Ltd |isbn=978-1-84797-303-0 }}
+* {{cite book|last1=Jackson|first1=Stephen|last2=Groves|first2=Colin|title=Taxonomy of Australian Mammals|publisher=CSIRO Publishing, Clayton, Victoria, Australia|year=2015|url=https://books.google.com/books?id=RPznCQAAQBAJ&pg=PA288|isbn=978-1-4863-0013-6}}
+* {{cite book |last=Mehus-Roe |first=Kristin |date=2005 |title=The Original Dog Bible: The Definitive Source for All Things Dog |location=Irvine, CA |publisher=Bow Tie Press |isbn=1-931993-34-3}}
+* {{cite book |last=Morris |first=Desmond |author-link=Desmond Morris |date=2001 |title=Dogs: The Ultimate Dictionary of over 1,000 Dog Breeds |location=North Pomfret, VT|publisher=Trafalgar Square Publishing |isbn=1-57076-219-8 }}
+* {{cite book |last=Soman |first= W.V. |date=1962 |title= The Indian Dog |location= Mumbai |publisher= Popular Prakashan }}
+* {{cite journal |last1=Taefehshokr |first1=Sina  |last2=Key |first2=Yashar |last3=Maleki |first3=Mehrdad |date=2014 |title=Survey on Iran's breeds of dogs |url=https://www.researchgate.net/publication/307601614 |language=fa |journal=Journal of Veterinary Medicine |location=Tabriz |institution=Faculty of Veterinary Medicine, [[Islamic Azad University]] |issue=21 |access-date=20 May 2020}}
+
+{{Domestic dog}}
+{{Breed}}
+
+{{DEFAULTSORT:List Of Dog Breeds}}
+[[Category:Dog breeds|*]]
+[[Category:Lists of dogs|Breeds]]
+[[Category:Lists of breeds|D]]

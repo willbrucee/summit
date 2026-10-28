@@ -1,0 +1,859 @@
+{{Short description|none}}
+{{Redirect|Largest city in the world|a timeline|List of largest cities throughout history}}
+{{about-distinguish|the most populous cities|List of largest cities by area}}
+{{protection padlock|reason=restore indef semi|small=yes}}
+{{Use dmy dates|date=October 2020}}
+{{World city population tables}}
+
+The [[United Nations]] uses three definitions for what constitutes a city, as not all cities in all jurisdictions are classified using the same criteria. Cities may be defined as the [[city proper|cities proper]], their [[metropolitan area|metropolitan regions]], or the extent of their [[urban area]]. A complicating factor is that many large cities in the world have not only homeless or the unhoused, but also vast [[slum]] communities. This leads to official census data being less accurate in representing the actual number of residents in a given area.
+
+==Definitions==
+=== City proper (administrative unit) ===
+{{Main|City proper}}
+{{maplink|frame=yes|type=shape|stroke-width=2|id=Q11725|title=Chongqing|stroke-color=#000000|zoom=6|frame-lat=29.558|frame-long=107.50|frame-width=300|frame-height=240|frame-coordinates={{Coord|30|00|30|N|107|34|00|E|region:CN-50|display=it}}|type2=shape|stroke-width2=2|id2=Q40|title2=Austria|text=The municipality of [[Chongqing]], China, whose administrative jurisdictional area is approximately the size of [[Austria]], has the largest population of any [[city proper]]; however around 30% of its residents live in [[rural area]]s.}}
+A city can be defined by its administrative boundaries, otherwise known as [[city proper]]. [[UNICEF]] defines city proper as, "the population living within the administrative boundaries of a city or controlled directly from the city by a single authority." A city proper is a locality defined according to legal or political boundaries and an administratively recognised urban status that is usually characterised by some form of [[local government]].<ref name=wup2007>{{cite web|url=http://esa.un.org/unup/index.asp?panel=6 |title=World Urbanization Prospects: The 2007 Revision Population Database |publisher=United Nations |access-date=26 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20100822053414/http://esa.un.org/unup/index.asp?panel=6 |archive-date=22 August 2010}}</ref><ref>{{cite web |url=http://millenniumindicators.un.org/unsd/demographic/sconcerns/densurb/densurbanNotes.htm |title=United Nations Statistics Division – Demographic and Social Statistics |publisher=United Nations |access-date=26 July 2010 |url-status=live |archive-url=https://web.archive.org/web/20110623192351/http://millenniumindicators.un.org/unsd/demographic/sconcerns/densurb/densurbanNotes.htm |archive-date=23 June 2011  }}</ref><ref>{{cite book |title=Demographic Yearbook 2005, Volume 57 |year=2008 |publisher=United Nations |isbn=978-92-1-051099-8 |page=241 |url = https://books.google.com/books?id=OwfGJtkpCbwC&pg=PA241 |url-status=live |archive-url=https://web.archive.org/web/20160502022103/https://books.google.com/books?id=OwfGJtkpCbwC&pg=PA241 |archive-date=2 May 2016  }}</ref> Cities proper and their boundaries and population data may not include suburbs.<ref name=wup2003>{{cite book |title=World Urbanization Prospects: The 2003 Revision |year=2004 |publisher=United Nations |isbn=92-1-151396-0 <!-- This is the correct ISBN. The number on the copyright page of the book is invalid. --> |url=https://books.google.com/books?id=oxOAckK2stYC |access-date=13 February 2016 |archive-date=3 February 2020 |archive-url=https://web.archive.org/web/20200203051502/https://books.google.com/books?id=oxOAckK2stYC |url-status=live }}</ref>
+
+The use of city proper as defined by administrative boundaries may not include suburban areas where an important proportion of the population working or studying in the city lives.<ref name=wup2003 /> Because of this definition, the city proper population figure may differ greatly from the urban area population figure, as many cities are amalgamations of smaller municipalities, and conversely, many Chinese cities govern territories that extend well beyond the core urban area into suburban and rural areas.<ref>{{cite web |last1=Alexander|first1=Ruth|title=The world's biggest cities: How do you measure them? |url = https://www.bbc.com/news/magazine-16761784|date=29 January 2012|work=BBC News|access-date=16 March 2015|url-status=live|archive-url=https://web.archive.org/web/20150302023557/http://www.bbc.com/news/magazine-16761784|archive-date=2 March 2015  }}</ref> The Chinese municipality of [[Chongqing]], which is the largest city proper in the world by population, comprises a huge administrative area of 82,403&nbsp;km<sup>2</sup>, around the size of [[Austria]]. However, around 30% of its 30-million population are agricultural workers living in a [[rural area|rural setting]].<ref>{{cite news|url=https://www.bbc.com/news/magazine-16761784|title=Which is the world's biggest city?|first=Ruth|last=Alexander|work=BBC News|date=29 January 2012|access-date=21 July 2018|archive-date=2 March 2015|archive-url=https://web.archive.org/web/20150302023557/http://www.bbc.com/news/magazine-16761784|url-status=live}}</ref><ref>{{cite book|url=https://books.google.com/books?id=vuQRDAAAQBAJ&pg=PA83|title=China Dreams: 20 Visions of the Future|first=William A.|last=Callahan|date=12 April 2015|publisher=Oxford University Press|isbn=9780190235239|via=Google Books|access-date=21 September 2020|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085517/https://books.google.com/books?id=vuQRDAAAQBAJ&pg=PA83|url-status=live}}</ref><ref>{{cite web |title=2021年重庆市国民经济和社会发展统计公报 |url=https://tjj.cq.gov.cn/zwgk_233/fdzdgknr/tjxx/sjzl_55471/tjgb_55472/202203/t20220318_10522726_wap.html |website=重庆市统计局 |access-date=2026-07-13}}</ref>
+
+=== Metropolitan area ===
+{{Main|Metropolitan area}}
+[[File:Night in the Greater Tokyo Area ISS054.jpg|thumb|[[Greater Tokyo Area|Tokyo]], the world's third-largest city by metropolitan population.]]
+A city can be defined by the inhabitants of its [[demography|demographic]] population, as by [[metropolitan area]], or [[labour economics|labour market]] area. UNICEF defines metropolitan area as follows:
+
+{{blockquote|A formal local government area comprising the urban area as a whole and its primary commuter areas, typically formed around a city with a large concentration of people (i.e., a population of at least 100,000). In addition to the city proper, a metropolitan area includes both the surrounding territory with urban levels of residential [[population density|density]] and some additional lower-density areas that are adjacent to and linked to the city (e.g., through frequent transport, road linkages or commuting facilities).}}
+
+In many countries, metropolitan areas are established either as a local administrative organisation or only for statistical purposes. In the [[United States]], [[metropolitan statistical area]] (MSA) is defined by the [[United States Office of Management and Budget|U.S. Office of Management and Budget]] (OMB).<ref>{{cite web |url=https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/bulletins/fy2009/09-01.pdf |last=Nussle |first=Jim |title=Update of Statistical Area Definitions and Guidance on Their Uses |publisher=Office of Management and Budget |date=Nov 20, 2008 |pages=1–2 |url-status=live |archive-url=https://web.archive.org/web/20170121004705/https://obamawhitehouse.archives.gov/sites/default/files/omb/assets/omb/bulletins/fy2009/09-01.pdf |archive-date=2017-01-21 }}</ref> In the [[Philippines]], metropolitan areas have an official agency, such as [[Metropolitan Manila Development Authority]] (MMDA), which manages [[Metro Manila|Manila metropolitan area]].<ref>{{Cite web|title=Home|url=https://mmda.gov.ph/|access-date=2021-06-16|website=mmda.gov.ph|archive-date=10 June 2021|archive-url=https://web.archive.org/web/20210610035522/https://mmda.gov.ph/|url-status=live}}</ref> Similar agencies exist in [[Indonesia]], such as Jabodetabekjur Development Cooperation Agency for [[Jakarta metropolitan area]].<ref>{{Cite web|url=https://metro.tempo.co/read/1152868/3-masalah-utama-bksp-jabodetabekjur-yang-dipimpin-anies-baswedan|title=3 Masalah Utama BKSP Jabodetabekjur yang Dipimpin Anies Baswedan|first=Untung|last=Widyanto|date=6 December 2018|website=Tempo|access-date=11 April 2020|archive-date=9 March 2021|archive-url=https://web.archive.org/web/20210309045755/https://metro.tempo.co/read/1152868/3-masalah-utama-bksp-jabodetabekjur-yang-dipimpin-anies-baswedan|url-status=live}}</ref>
+
+=== Urban area ===
+
+{{Main|Urban area}}
+A city can be defined as a conditionally [[Geographic contiguity|contiguous]] [[urban area]], with relatively less regard to territorial or administrative boundaries. [[UNICEF]] defines urban area as follows:
+
+{{blockquote|The definition of "urban" varies from country to country, and, with periodic reclassification, can also vary within one country over time, making direct comparisons difficult. An urban area can be defined by one or more of the following: administrative criteria or political boundaries (e.g., area within the jurisdiction of a municipality or town committee), a threshold population size (where the minimum for an urban settlement is typically in the region of 2,000 people, although this varies globally between 200 and 50,000), population density, economic function (e.g., where a significant majority of the population is not primarily engaged in agriculture, or where there is surplus employment) or the presence of urban characteristics (e.g., paved streets, electric lighting, sewerage).}}
+
+According to [[Demographia]], an urban area is a continuously built up land mass of urban development that is within a labor market (metropolitan area or metropolitan region) and contains no [[rural area|rural land]].
+
+== List ==
+{{For|more variety of estimates|Megacity#List of megacities}}
+
+There are 85 cities in the world with a population exceeding 5 million people, according to 2025 estimates by the [[United Nations]].<ref name=UNpopulation>{{Cite web |url=https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2025_wup2025_summary_of_results.pdf |year=2025 |work=United Nations |location=New York |title=World Urbanization Prospects 2025 |access-date=20 November 2025 }}</ref>
+
+{{Static row numbers}}{{valign}}{{sticky header}}{{sort under}}
+{| class="static-row-numbers plainrowheaders vertical-align-top sticky-header-multi sort-under sortable wikitable"
+|- class="static-row-header" style="text-align:center;vertical-align:bottom;"
+! scope=col rowspan=2 | City{{efn|For urban/metropolitan areas that have more than one [[core city]], the figure for their city proper should use either the most populous one (e.g. [[Dallas]] for [[Dallas–Fort Worth metroplex]]) or the best-known one (e.g. [[Manila]] for [[Metro Manila]], instead of [[Quezon City]]).}}
+! scope=col rowspan=2 | Country
+! scope=col rowspan=2 style=max-width:4em | UN 2025 population estimates<ref name=UNpopulation/>
+! scope=col colspan=4 | [[City proper]]{{efn|Figures taken from official census when possible}}
+! scope=col colspan=3 | [[Urban area]]<ref name=Demographia>{{cite web|title=Demographia World Urban Areas, 18th Annual Edition|url=http://www.demographia.com/db-worldua.pdf|publisher=[[Demographia]]|date=July 2022|access-date=2023-01-30}}</ref>
+! scope=col colspan=3 | [[Metropolitan area]]{{efn|Figures taken from official census when possible}}
+|- class="static-row-header" style="text-align:center;vertical-align:bottom;"
+! scope=col | Definition
+! scope=col style=max-width:4em | Population
+! scope=col style=max-width:2em | Area<br/>{{small|{{nobold|(km{{sup|2}})}}}}
+! scope=col style=max-width:4em | Density<br/>{{small|{{nobold|(/km{{sup|2}})}}}}
+! scope=col style=max-width:4em | Population
+! scope=col style=max-width:2em | Area<br/>{{small|{{nobold|(km{{sup|2}})}}}}
+! scope=col style=max-width:4em | Density<br/>{{small|{{nobold|(/km{{sup|2}})}}}}
+! scope=col style=max-width:4em | Population
+! scope=col style=max-width:2em | Area<br/>{{small|{{nobold|(km{{sup|2}})}}}}
+! scope=col style=max-width:4em | Density<br/>{{small|{{nobold|(/km{{sup|2}})}}}}
+|-id=Jakarta
+! scope=row | [[Jakarta]]
+| {{flagicon|IDN}} Indonesia
+| {{right}} 41,913,860
+| [[Provinces of Indonesia|Special region]]
+| {{density|disp=table|10,154,134|664}}<br/><ref name=Indonesia>{{cite web |last1=Indonesia: Administrative Division |title=Regencies, Cities and Districts – Population Statistics, Charts and Map |url=https://www.citypopulation.de/php/indonesia-admin.php |website=City Population |access-date=14 January 2016 |archive-date=31 December 2015 |archive-url=https://web.archive.org/web/20151231210257/http://www.citypopulation.de/php/indonesia-admin.php |url-status=live }}</ref>
+| {{density|disp=table|33,756,000|3,546}}<br/>{{efn|Includes [[Tangerang]], [[South Tangerang]], [[Bogor]], [[Bekasi]] and [[Karawang]].|name=|group=}}
+| {{density|disp=table|33,430,285|7,063}}<br/><ref name=JakartaMetro>{{cite web |url=http://perkotaan.bpiw.pu.go.id/v2/metropolitan/3 |title=Jabodetabekpunjur |website=perkotaan.bpiw.pu.go.id |publisher=Ministry of Public Works and People's Housing |access-date=22 February 2020 |archive-date=6 February 2020 |archive-url=https://web.archive.org/web/20200206220012/http://perkotaan.bpiw.pu.go.id/v2/metropolitan/3 |url-status=live }}</ref>
+|-id=Dhaka
+! scope=row | [[Dhaka]]
+| {{Flag icon|Bangladesh}} Bangladesh
+| {{right}} 36,585,479
+| [[Capital city]]
+| {{density|disp=table|10,295,407|338}}<br/><ref name=dhakapop1>{{cite web|url=http://www.bbs.gov.bd/WebTestApplication/userfiles/Image/National%20Reports/Union%20Statistics.pdf |title=Population & Housing Census-2011 |publisher=[[Bangladesh Bureau of Statistics]] |page=41 |access-date=15 December 2015 |url-status=dead |archive-url=https://web.archive.org/web/20151208044832/http://www.bbs.gov.bd/WebTestApplication/userfiles/Image/National%20Reports/Union%20Statistics.pdf |archive-date=8 December 2015 |df=dmy }}</ref><ref name=dhaka>{{cite web|url=http://www.citypopulation.de/Bangladesh-Mun.html?cityid="717|title=Bangladesh: Districts and Cities|last=Brinkhoff|first=Thomas|publisher=CityPopulation|access-date=20 October 2015|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085520/https://www.citypopulation.de/en/bangladesh/cities/|url-status=live}}</ref>
+| {{density|disp=table|19,134,000|619}}
+| {{density|disp=table|36,585,479|2,570}} <ref name=bangladesh1>{{cite web|url=https://www.citypopulation.de/php/bangladesh-dhaka.php|title=Dhaka (Bangladesh): City Districts and Subdistricts - Population Statistics, Charts and Map|website=City Population|access-date=18 June 2017|archive-date=30 July 2017|archive-url=https://web.archive.org/web/20170730145817/https://www.citypopulation.de/php/bangladesh-dhaka.php|url-status=live}}</ref>
+|-id=Tokyo
+! scope=row | [[Tokyo]]
+| {{flagicon|JPN}} Japan
+| {{right}} 33,412,512
+| [[Prefectures of Japan|Metropolis prefecture]]
+| {{density|disp=table|13,515,271|2,191}}<br/><ref name=japan1>{{cite web |url=http://citypopulation.de/Japan-Cities.html |title=Japan: Prefectures and Major Cities - Population Statistics, Maps, Charts, Weather and Web Information |access-date=4 March 2020 |archive-date=21 January 2019 |archive-url=https://web.archive.org/web/20190121135719/http://citypopulation.de/Japan-Cities.html | url-status=live }}</ref>
+| {{density|disp=table|37,785,000|8,231}}<br/>{{efn|Includes large areas [[Tokyo]], [[Kanagawa Prefecture|Kanagawa]], [[Chiba Prefecture|Chiba]] and [[Saitama Prefecture|Saitama]] prefectures and smaller areas of [[Gunma Prefecture|Gunma]], [[Tochigi Prefecture|Tochigi]] and [[Ibaraki Prefecture|Ibaraki]] prefectures.}}
+| {{density|disp=table|37,274,000|13,452}}<br/><ref name=japan2>{{cite web |url=http://www.stat.go.jp/english/data/handbook/pdf/2019all.pdf |title=Table 2.10 Population of Three Major Metropolitan Areas |publisher=Statistics Bureau of Japan |page=21 |access-date=26 November 2013 |archive-date=4 November 2019 |archive-url=https://web.archive.org/web/20191104134020/http://www.stat.go.jp/english/data/handbook/pdf/2019all.pdf |url-status=live }}</ref>
+|-id=Delhi
+! scope=row | [[Delhi]]
+| {{flagicon|IND}} India
+| {{right}} 30,222,405
+| [[Union territory|National Capital Territory]]
+| {{density|disp=table|16,753,235|1,484}}<br/><ref name="Census of India 2011">{{cite web |url=http://censusindia.gov.in/2011-prov-results/data_files/delhi/3_PDFC-Paper-1-tables_60_81.pdf |publisher=[[Ministry of Statistics and Programme Implementation]] |title=Provisional Population Totals |date=2011 |access-date=4 February 2020 |archive-date=25 February 2021 |archive-url=https://web.archive.org/web/20210225061408/https://censusindia.gov.in/2011-prov-results/data_files/delhi/3_PDFC-Paper-1-tables_60_81.pdf |url-status=live }}</ref>
+| {{density|disp=table|32,226,000|2,344}}<br/>{{efn|Includes [[Faridabad]], [[Ghaziabad]], [[Noida]], [[Gurgaon]] and [[Bahadurgarh]] urban areas and [[New Delhi]].}}
+| {{density|disp=table|29,000,000|3,483}}<br/><ref name="delhi metro">{{cite news|url=https://economictimes.indiatimes.com/news/politics-and-nation/delhi-could-be-the-worlds-most-populous-city-by-2028-but-is-it-really-prepared/articleshow/68027790.cms|title=Delhi could be the world's most populous city by 2028. But is it really prepared?|first=Shantanu Nandan|last=Sharma|date=17 February 2019|newspaper=The Economic Times|access-date=4 March 2020|archive-date=6 December 2020|archive-url=https://web.archive.org/web/20201206045658/https://economictimes.indiatimes.com/news/politics-and-nation/delhi-could-be-the-worlds-most-populous-city-by-2028-but-is-it-really-prepared/articleshow/68027790.cms|url-status=live}}</ref>
+|-id=Shanghai
+! scope=row | [[Shanghai]]
+| {{flagicon|CHN}} China
+| {{right}} 29,558,908
+| [[Direct-administered municipalities of China|Municipality]]
+| {{density|disp=table|24,870,895|6,341}}<br/><ref name=China>{{cite web |url=https://www.citypopulation.de/en/china/admin/|title=China: Administrative Division (Provinces and Prefectures) - Population Statistics, Charts and Map |website=City Population |access-date=4 March 2020|archive-date=20 January 2019|archive-url=https://web.archive.org/web/20190120024111/http://www.citypopulation.de/php/china-admin.php?adm2id=6531 |url-status=live}}</ref><ref name=auto>{{Cite web |url=http://www.stats.gov.cn/tjsj/zxfb/202105/t20210510_1817179.html |title=第七次全国人口普查公报（第三号）|website=www.stats.gov.cn }}</ref>
+| {{density|disp=table|24,073,000|4,333}}<br/>{{Efn|Includes [[Taicang]] |name=|group=}}
+| {{density|disp=table|31,050,000|14,922.7}}
+|-id=Guangzhou
+! scope=row | [[Guangzhou]]
+| {{flagicon|CHN}} China
+| {{right}} 27,563,372
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|18,676,605|7,434}}<br/><ref name=China />
+| {{density|disp=table|26,940,000|4,535}}<br/>{{efn|Includes the city of [[Foshan]].}}
+| {{density|disp=table|32,623,413|4,194.49}}
+|-id=Cairo
+! scope=row | [[Cairo]]
+| {{flagicon|EGY}} Egypt
+| {{right}} 25,566,102
+| [[Governorates of Egypt|Urban governorate]]
+| {{density|disp=table|10,044,894|3,085}}<br/><ref>{{Cite web |title=Al-Qāhirah (Governorate, Egypt) - Population Statistics, Charts, Map and Location |url=https://www.citypopulation.de/en/egypt/admin/01__al_q%C4%81hirah/ |access-date=2024-01-16 |website=www.citypopulation.de}}</ref> <br />
+| {{density|disp=table|20,296,000|2,010}}
+| {{density|disp=table|22,183,000|2,734 }}
+|-id=Manila
+! scope=row | [[Manila]]
+| {{flagicon|PHI}} Philippines
+| {{right}} 24,735,305
+| [[Cities of the Philippines|National Capital Region]]
+| {{density|disp=table|15,531,900|636}}<br/>{{PH census|2015|13}}
+| {{density|disp=table|24,922,000|1,911}}<br/>{{efn|The continuous urbanization of Manila extends outward its [[Metro Manila]] into other neighbouring provinces such as [[Bulacan]], [[Cavite]], [[Laguna (province)|Laguna]], [[Rizal (province)|Rizal]], [[Pampanga]] and [[Batangas]] provinces.}}
+| {{density|disp=table|30,785,176|7,967}}<br/>{{PH census|2015|13}}
+|-id=Kolkata
+! scope=row | [[Kolkata]]
+| {{flagicon|IND}} India
+| {{right}} 22,549,738
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|4496694|206}}<br/><ref>{{cite web|url=http://www.citypopulation.de/php/india-westbengal.php?cityid="1941701000|publisher=Citypopulation.de|title=Kolkata (West Bengal, India) - Population Statistics and Location in Maps and Charts - City Population|access-date=19 July 2016|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085509/https://www.citypopulation.de/en/india/westbengal/|url-status=live}}</ref>
+| {{density|disp=table|21,747,000|1,352}}
+| {{density|disp=table|15,333,000|1,887}}<br/><ref>{{cite web |url=https://www.justice.gov/eoir/page/file/1084246/download |title=Responses to Information Requests - Immigration and Refugee Board of Canada |publisher=www.justice.gov |access-date=2020-03-12 |archive-date=1 March 2020 |archive-url=https://web.archive.org/web/20200301034822/https://www.justice.gov/eoir/page/file/1084246/download |url-status=live }}</ref>
+|-id=Seoul
+! scope=row | [[Seoul]]
+| {{flagicon|KOR}} South Korea
+| {{right}} 22,490,482
+| [[List of provincial-level cities of South Korea|Special city]]
+| {{density|disp=table|10,013,781|605}}<br/><ref name=auto1>{{Cite web|date=2011-03-03|title=2016년 5월 행정자치부 주민등록 인구통계|url=http://rcps.egov.go.kr:8081/jsp/stat/ppl_stat_jf.jsp|url-status=live|access-date=2021-08-04|archive-url=https://web.archive.org/web/20110303195830/http://rcps.egov.go.kr:8081/jsp/stat/ppl_stat_jf.jsp|archive-date=3 March 2011}}</ref>
+| {{density|disp=table|23,016,000|2,769}}
+| {{density|disp=table|25,514,000|11,704}}<br/><ref name=auto1/>
+|-id=Karachi
+! scope=row | [[Karachi]]
+| {{flagicon|PAK}} Pakistan
+| {{right}} 21,422,590
+| [[Karachi Metropolitan Corporation|Metropolitan city]]
+| {{density|disp=table|15,738,000|591}}<br/><ref name=pbscensus1>{{cite news|url=http://www.pbscensus.gov.pk/sites/default/files/population_of_major_cities_census_2017%20_0.pdf|title=Population of Major Cities - Census 2017|last1=Pakistan Bureau of Statistics|archive-url=https://web.archive.org/web/20170829162305/http://www.pbscensus.gov.pk/sites/default/files/population_of_major_cities_census_2017%20_0.pdf|archive-date=2017-08-29|url-status=dead}}</ref><ref>{{Cite web|url=https://www.thenews.com.pk/latest/1098032-karachis-population-stands-at-203-million-in-7th-census|title=Karachi's population stands at 20.3 million in 7th census|date=27 September 2023|website=The News International|access-date=27 September 2023}}</ref>
+| {{density|disp=table|20,249,000|1,124}}
+| {{density|disp=table|20,249,000|1,124}}<br/><ref name="DISTRICT WISE CENSUS RESULTS CENSUS 2017">{{cite web|url=http://www.pbscensus.gov.pk/sites/default/files/DISTRICT_WISE_CENSUS_RESULTS_CENSUS_2017.pdf|title=District wise census results census 2017|publisher=www.pbscensus.gov.pk|access-date=2017-09-03|archive-url=https://web.archive.org/web/20170829164748/http://www.pbscensus.gov.pk/sites/default/files/DISTRICT_WISE_CENSUS_RESULTS_CENSUS_2017.pdf|archive-date=2017-08-29|url-status=dead}}</ref><ref>{{Cite web |date=2023-08-08 |title=Karachi Population in Digital Census rises above 20 mln |url=https://arynews.tv/karachi-population-digital-census-rises-20-mln/ |access-date=2023-08-12 |website=ARY NEWS |language=en-US}}</ref>
+|-id=Mumbai
+! scope=row | [[Mumbai]]
+| {{flagicon|IND}} India
+| {{right}} 20,203,056
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|12,478,447|603}}<br/><ref>{{cite web|url=http://www.citypopulation.de/php/india-maharashtra.php|title=Maharashtra (India): Districts, Cities, Towns and Outgrowth Wards – Population Statistics in Maps and Charts|url-status=live|archive-url=https://web.archive.org/web/20141006153720/http://www.citypopulation.de/php/india-maharashtra.php|archive-date=6 October 2014}}</ref>
+| {{density|disp=table|24,973,000|976}}<br/>{{efn|Includes [[Kalyan]] and urban areas of [[Panvel]], [[Bhiwandi]] and [[Vasai-Virar]].|name=|group=}}
+| {{density|disp=table|23,598,000|6,328}}<br/><ref>{{cite web |url=https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Roads%20and%20Traffic/Docs/CMP%20for%20Greater%20Mumbai/Executive%20Summary/Executive%20Summary.pdf |title=Comprehensive Mobility Plan (CMP) for Greater Mumbai |publisher=portal.mcgm.gov.in |access-date=2020-03-12 |archive-date=8 June 2020 |archive-url=https://web.archive.org/web/20200608074532/https://portal.mcgm.gov.in/irj/go/km/docs/documents/MCGM%20Department%20List/Roads%20and%20Traffic/Docs/CMP%20for%20Greater%20Mumbai/Executive%20Summary/Executive%20Summary.pdf |url-status=live }}</ref>
+|-id="São Paulo"
+! scope=row | [[São Paulo]]
+| {{flagicon|BRA}} Brazil
+| {{right}} 18,949,790
+| [[Municipalities of Brazil|Municipality]]
+| {{density|disp=table|12,252,023|1,521}}<br/><ref name=brazil1>{{cite web |url=https://agenciadenoticias.ibge.gov.br/en/agencia-press-room/2185-news-agency/releases-en/25283-ibge-divulga-as-estimativas-da-populacao-dos-municipios-para-2020 |title=IBGE discloses municipal population estimates for 2019 |date=28 August 2019 |publisher=[[Brazilian Institute of Geography and Statistics|IBGE]] |language=pt |access-date=6 November 2019 |archive-date=28 August 2019 |archive-url=https://web.archive.org/web/20190828174558/https://agenciadenoticias.ibge.gov.br/en/agencia-press-room/2185-news-agency/releases-en/25283-ibge-divulga-as-estimativas-da-populacao-dos-municipios-para-2020 |url-status=live }}</ref>
+| {{density|disp=table|23,086,000|3,649}}<br/>{{Efn|Includes [[Francisco Morato]] |name=|group=}}
+| {{density|disp=table|21,734,682|7,947}}<br/><ref>{{cite web |url=https://www.citypopulation.de/en/brazil/metro/s%C3%A3o_paulo/RM0007__s%C3%A3o_paulo/ |title=São Paulo (Metropolitan Area, Metropolitan Areas, Brazil) - Population Statistics, Charts, Map and Location |website=City Population |access-date=4 March 2020 |archive-date=29 February 2020 |archive-url=https://web.archive.org/web/20200229182607/https://www.citypopulation.de/en/brazil/metro/s%25C3%25A3o_paulo/RM0007__s%25C3%25A3o_paulo/ |url-status=live }}</ref>
+|-id=Bangkok
+! scope=row | [[Bangkok]]
+| {{flagicon|THA}} Thailand
+| {{right}} 18,180,280
+| [[Special administrative area (Thailand)|Special administrative area]]
+| {{density|disp=table|8,305,218|1,569}}<br/><ref name="2010 census 1">{{cite web|title=Table 1 Population by sex, household type and household by type, average size of private household by region and area: 2010|url=http://service.nso.go.th/nso/nso_center/project/table/files/C-pop/2553/000/00_C-pop_2553_000_010000_00100.xls|publisher=National Statistics Office|work=Statistic tables, NSO website|access-date=18 September 2012|url-status=dead|archive-url=https://web.archive.org/web/20130523063634/http://service.nso.go.th/nso/nso_center/project/table/files/C-pop/2553/000/00_C-pop_2553_000_010000_00100.xls|archive-date=23 May 2013|df=dmy-all}}</ref>
+| {{density|disp=table|18,007,000|3,199}}
+| {{density|disp=table|16,255,900|7,762}}<br/><ref>{{cite web|url=https://www.citypopulation.de/php/thailand-prov-admin.php|title=Thailand: Division (Planning Regions and Provinces) - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=4 March 2020|archive-date=6 February 2019|archive-url=https://web.archive.org/web/20190206042643/http://citypopulation.de/php/thailand-prov-admin.php|url-status=live}}</ref>
+|-id="Mexico City"
+! scope=row | [[Mexico City]]
+| {{flagicon|MEX}} Mexico
+| {{right}} 17,734,212
+| [[List of states of Mexico|City-state]]
+| {{density|disp=table|9,209,944|1,485}}<br/><ref name=mexicocensus2020>{{cite web |url=https://www.inegi.org.mx/app/scitel/Default?ev=9 |title=Censo de Población y Vivienda 2020 - SCITEL |language=es |publisher=INEGI |access-date=26 January 2021 |archive-date=26 January 2021 |archive-url=https://web.archive.org/web/20210126164521/https://www.inegi.org.mx/app/scitel/Default?ev=9 |url-status=live }}</ref>
+| {{density|disp=table|21,804,000|2,530}}
+| {{density|disp=table|21,804,515|7,866}}<br/><ref name=conapo>{{cite web |url=https://www.gob.mx/conapo/documentos/delimitacion-de-las-zonas-metropolitanas-de-mexico-2015|title=Delimitation of Mexico's Metropolitan Areas 2015 |publisher=CONAPO |language=es |access-date=29 December 2020 |archive-date=24 February 2021 |archive-url=https://web.archive.org/web/20210224123549/https://www.gob.mx/conapo/documentos/delimitacion-de-las-zonas-metropolitanas-de-mexico-2015 |url-status=live }}</ref>
+|-id=Beijing
+! scope=row | [[Beijing]]
+| {{flagicon|CHN}} China
+| {{right}} 17,013,303
+| [[Direct-administered municipalities of China|Municipality]]
+| {{density|disp=table|21,893,095|16,411}}<br/><ref name=China /><ref name=auto/>
+| {{density|disp=table|18,522,000|4,284}}
+| {{density|disp=table|22,366,547|1,334.087}}
+|-id=Lahore
+! scope=row | [[Lahore]]
+| {{flagicon|PAK}} Pakistan
+| {{right}} 15,156,430
+| [[List of cities in Pakistan|Metropolitan city]]
+| {{density|disp=table|13,004,135|1,772}}<br/><ref>{{Cite web |title=Lahore (District, Pakistan) - Population Statistics, Charts, Map and Location |url=https://www.citypopulation.de/en/pakistan/admin/punjab/716__lahore/ |access-date=2024-01-11 |website=www.citypopulation.de}}</ref>
+| {{density|disp=table|12,306,000|945}}
+| {{density|disp=table|13,004,135|1,772}}
+|-id=Istanbul
+! scope=row | [[Istanbul]]
+| {{flagicon|TUR}} Turkey
+| 15,014,763
+| [[Istanbul Metropolitan Municipality|Metropolitan municipality]]
+| {{density|disp=table|15,519,267|5,196}}<br/><ref name="Population of Turkey">{{cite web|url=http://www.turkstat.gov.tr/PreHaberBultenleri.do?id="27587|publisher=[[Turkish Statistical Institute]]|title=The Results of Address Based Population Registration System, 2017|date=1 February 2018|access-date=1 February 2018|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085531/https://www.tuik.gov.tr/Home/Index|url-status=live}}</ref>
+| {{density|disp=table|14,441,000|1,471}}
+| {{density|disp=table|15,701,602|5,343}}
+|-id=Moscow
+! scope=row | [[Moscow]]
+| {{flagicon|RUS}} Russia
+| {{right}} 14,524,753
+| [[Federal cities of Russia|Federal city]]
+| {{density|disp=table|13,200,000|2,511}}<br/><ref>{{Cite web|url=http://www.gks.ru/free_doc/new_site/population/demo/Popul2017.xls|title=RUSSIA: Moscow|access-date=4 March 2020|archive-date=5 June 2019|archive-url=https://web.archive.org/web/20190605235655/http://www.gks.ru/free_doc/new_site/population/demo/Popul2017.xls|url-status=live}}</ref><ref name=RusArea2009>{{cite web|url=http://www.rosreestr.ru/upload/www/files/gos_doclad_2008.pdf|title=Ministry of Economic Development of the Russian Federation. Federal Registration, Cadastre&Cartography Service. Russia Landuse National Report 2008, p.187-188 (in Russian)|access-date=5 October 2014|archive-date=10 October 2014|archive-url=https://web.archive.org/web/20141010021939/https://rosreestr.ru/upload/www/files/gos_doclad_2008.pdf|url-status=live}}</ref>
+| {{density|disp=table|17,332,000|6,154}}
+| {{right}} 20,004,462<br/><ref name=moscow_metro>{{cite journal | last1=Krums | first1=L. M. | last2=Bykova | first2=S. V. | last3=Sabelnikova | first3=E. A. | last4=Aminova | first4=Ts V. | last5=Poleva | first5=N. I. | last6=Gudkov | first6=R. B. | last7=Turaeva | first7=M. B. | last8=Parfenov | first8=A. I. | title=Reproductive disorders, osteoporosis and secondary hyperparathyroidism with celiac disease | journal=Terapevticheskii Arkhiv | volume=90 | issue=10 | date=2018-11-22 |pmid=30701802 | doi=10.26442/terarkh2018901089-93 | doi-access=free | pages=89–93| doi-broken-date=12 July 2025 |issn=2309-5342}}</ref>
+| {{n/a}}
+| {{n/a}}
+|-id="Ho Chi Minh City"
+! scope=row | [[Ho Chi Minh City]]
+| {{flagicon|VNM}} Vietnam
+| {{right}} 14,052,713
+| [[Municipalities of Vietnam|Municipality]]
+| {{density|disp=table|7,431,000|2,061}}<br/><ref name="vietnam1">[http://www.gso.gov.vn/default.aspx?tabid=512&idmid=5&ItemID=14277 Statistical Handbook of Vietnam 2014] {{webarchive|url=https://web.archive.org/web/20150706154400/http://www.gso.gov.vn/default.aspx?tabid=512&idmid=5&ItemID=14277 |date=6 July 2015 }}, General Statistics Office Of Vietnam</ref>
+| {{density|disp=table|15,136,000|2,165}}
+| {{density|disp=table|21,281,639|30,595}}
+|-id="Buenos Aires"
+! scope=row | [[Buenos Aires]]
+| {{flagicon|ARG}} Argentina
+| {{right}} 14,017,736
+| [[Autonomous city]]
+| {{density|disp=table|3,054,300|203}}<br/><ref>{{cite web|title=Argentina: Provinces and Agglomerations|url=http://www.citypopulation.de/Argentina-Cities.html|website=citypopulation.de|access-date=20 October 2015|archive-date=25 October 2015|archive-url=https://web.archive.org/web/20151025034342/http://citypopulation.de/Argentina-Cities.html|url-status=live}}</ref>
+| {{density|disp=table|16,710,000|3,437}}
+| {{density|disp=table|16,710,000|3,437}} <ref>{{cite web|url=https://www.indec.gob.ar/ftp/cuadros/poblacion/pueblos_originarios_Metropolitana.pdf|title=Región Metropolitana|publisher=[[National Institute of Statistics and Census of Argentina]]|date=2015|access-date=11 April 2020|archive-date=11 April 2020|archive-url=https://web.archive.org/web/20200411174601/https://www.indec.gob.ar/ftp/cuadros/poblacion/pueblos_originarios_Metropolitana.pdf|url-status=live}}</ref>
+|-id="New York"
+! scope=row | [[New York City]]
+| {{flagicon|USA}} United States
+| {{right}} 13,920,148
+| [[List of cities in New York (state)|City]]
+| {{density|disp=table|8,804,190|778}}<br/><ref name=USA>{{cite web|url=https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2018/PEPANNRSIP.US12A|title=Annual Estimates of the Resident Population for Incorporated Places of 50,000 or More, Ranked by 1 July 2018 Population: 1 April 2010 to 1 July 2018|publisher=[[United States Census Bureau]], Population Division|access-date=23 May 2019|archive-url=https://archive.today/20200213005358/https://factfinder.census.gov/bkmk/table/1.0/en/PEP/2018/PEPANNRSIP.US12A|archive-date=13 February 2020|url-status=dead}}</ref>
+| {{density|disp=table|21,509,000|13,318}}<br/>{{Efn|Includes [[Bridgeport, Connecticut|Bridgeport]], [[New Haven, Connecticut|New Haven]], [[Trenton, New Jersey|Trenton]], [[Danbury, Connecticut|Danbury]], [[Waterbury, Connecticut|Waterbury]] and [[Twin Rivers, New Jersey|Twin Rivers]] urban areas.|name=|group=}}
+|{{right}} 23,143,097<ref>{{cite web |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |title=2020 Population and Housing State Data |publisher=[[United States Census Bureau]], Population Division |date=August 12, 2021 |access-date=August 14, 2021}}</ref>
+| 12,093
+| 1,665
+|-id=Shenzhen
+! scope=row | [[Shenzhen]]
+| {{flagicon|CHN}} China
+| {{right}} 13,878,396
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|17,494,398|2,050}}<br/><ref name=China />
+| {{density|disp=table|17,619,000|1,803}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Bangalore
+! scope=row | [[Bengaluru]]
+| {{flagicon|IND}} India
+| {{right}} 13,187,098
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|8,443,675|709}}<br/><ref name=Bangalore>{{cite web | url=http://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf|title=Provisional Population Totals, Census of India 2011; Cities having population 1 lakh and above | publisher=Office of the Registrar General & Census Commissioner, India | archive-url=https://web.archive.org/web/20120507135928/http://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf | url-status=dead | archive-date=7 May 2012 | access-date=26 March 2012}}</ref>
+| {{density|disp=table|8,443,675|741}}
+| {{density|disp=table|10,456,000|8,005}}
+|-id=Osaka
+! scope=row | [[Osaka]]
+| {{flagicon|JPN}} Japan
+| {{right}} 12,964,145
+| [[Cities designated by government ordinance of Japan|Designated city]]
+| {{density|disp=table|2,725,006|225}}<br/><ref name=japan1 />
+| {{density|disp=table|15,126,000|3,020}}<br/>{{efn|Includes major cities of [[Kobe]] and [[Kyoto]], collectively also known as [[Keihanshin]] area.}}
+| {{density|disp=table|19,303,000|13,228}}<br/><ref name=japan2 />
+|-id=Lagos
+! scope=row | [[Lagos]]
+| {{flagicon|NGA}} Nigeria
+| {{right}} 12,791,699
+| [[Lagos Metropolitan Area|Metropolitan city]]
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{density|disp=table|16,637,000|1,966}}
+| {{density|disp=table|21,000,000|1,171}}<br/><ref name=MetroLagos>{{cite web|url=http://www.citypopulation.de/php/nigeria-metrolagos.php|title=Metro Lagos (Nigeria): Local Government Areas - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=12 October 2019|archive-date=7 May 2016|archive-url=https://web.archive.org/web/20160507193524/http://www.citypopulation.de/php/nigeria-metrolagos.php|url-status=live}}</ref>
+|-id="Los Angeles"
+! scope=row | [[Los Angeles]]
+| {{flagicon|USA}} United States
+| {{right}} 12,740,420
+| [[List of cities and towns in California|City]]
+| {{density|disp=table|3,990,456|1,214}}<br/><ref name=USA />
+| {{density|disp=table|15,204,000|6,351}}
+| {{right}} 18,372,485<br/><ref>{{cite web|url=https://www.citypopulation.de/en/usa/metro/31080__los_angeles_long_beach_/|title=Los Angeles - Long Beach - Anaheim (Metropolitan Statistical Area, Metropolitan Areas, USA) - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=4 March 2020|archive-date=29 February 2020|archive-url=https://web.archive.org/web/20200229182607/https://www.citypopulation.de/en/usa/metro/31080__los_angeles_long_beach_/|url-status=live}}</ref>
+|12,559
+|1,058
+|-id=Chennai
+! scope=row | [[Chennai]]
+| {{flagicon|IND}} India
+| {{right}} 11,153,205
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|6,727,000|426}}<br/><ref>{{cite web|url=http://www.smartcitieschallege.in|archive-url=https://web.archive.org/web/20230506174157/https://smartcitieschallege.in/|url-status=dead|archive-date=6 May 2023|title=Chennai: India Smart Cities Challenge|work=Official website of Smart Cities Challenge, India|access-date=2016-07-19}}</ref><ref>{{cite news|title=Expanded Chennai Corporationto be divided into 3 regions|url=https://www.thehindu.com/news/cities/chennai/expanded-chennai-corporationto-be-divided-into-3-regions/article2658830.ece|work=The Hindu|date=25 November 2011|access-date=22 March 2014|archive-date=16 October 2015|archive-url=https://web.archive.org/web/20151016071724/http://www.thehindu.com/news/cities/Chennai/article2658830.ece|url-status=live}}</ref>
+| {{density|disp=table|12,395,000|1,085}}
+| {{density|disp=table|11,564,000|2,280}}<br/><ref name=ChennaiExpands>{{cite web |url=https://indianexpress.com/article/cities/chennai/chennai-city-expansion-new-villages-added-8230199/ |title=Chennai Metropolitan Authority orders expansion of city; 1225 villages to be added |date=October 27, 2022 |website=The Indian Express }}</ref>
+|-id=Kinshasa
+! scope=row | [[Kinshasa]]
+| {{flagicon|COD}} DR Congo
+| {{right}} 10,943,641
+| [[Provinces of the Democratic Republic of the Congo|City-province]]
+| {{density|disp=table|17,071,000|9,965}}<br/><ref>{{Cite web |title=DR Congo - Population Statistics, Charts, Map and Location |url=https://www.citypopulation.de/en/drcongo/cities/ |access-date=2024-01-11 |website=www.citypopulation.de}}</ref>
+| {{density|disp=table|12,836,000|474}}
+| {{density|disp=table|17,778,500|9,965}}
+|-id=Bogotá
+! scope=row | [[Bogotá]]
+| {{flagicon|COL}} Colombia
+| {{right}} 10,624,315
+| [[Capital districts and territories#Colombia|Capital District]]
+| {{density|disp=table|7,963,000|1,587}}<br/><ref>{{cite web|url=http://www.dane.gov.co/index.php/poblacion-y-demografia/proyecciones-de-poblacion|title=Estimaciones y proyecciones de hogares y viviendas|publisher=DANE (2014)|url-status=dead|archive-url=https://web.archive.org/web/20160202154631/http://www.dane.gov.co/index.php/poblacion-y-demografia/proyecciones-de-poblacion|archive-date=2 February 2016}}</ref>
+| {{density|disp=table|10,085,000|562}}
+| {{density|disp=table|12,545,272|5,934}}<br/><ref>{{Cite web |url=https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion |title=Proyecciones de población |access-date=25 May 2020 |archive-date=22 March 2019 |archive-url=https://web.archive.org/web/20190322235136/https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion |url-status=live }}</ref>
+|-id=Lima
+! scope=row | [[Lima]]
+| {{flagicon|PER}} Peru
+| {{right}} 10,580,241
+| [[Metropolitan Municipality of Lima|Metropolitan municipality]]
+| {{density|disp=table|8,894,000|2,672}}<br/><ref>{{cite web|url=http://www.larepublica.pe/17-01-2014/inei-lima-tiene-8-millones-693-mil-387-habitantes|title=PERU: Lima population|date=4 August 2012|publisher=La Republica|access-date=13 February 2016|archive-date=3 March 2016|archive-url=https://web.archive.org/web/20160303174151/http://larepublica.pe/17-01-2014/inei-lima-tiene-8-millones-693-mil-387-habitantes|url-status=live}}</ref>
+| {{density|disp=table|10,320,000|891}}
+| {{density|disp=table|9,569,468|2,819}}<br/><ref>{{cite web|url=https://www.citypopulation.de/php/peru-limametro.php|title=Lima Metropolitan Area (Peru): Municipal Districts - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=4 March 2020|archive-date=19 March 2020|archive-url=https://web.archive.org/web/20200319110238/http://www.citypopulation.de/php/peru-limametro.php|url-status=live}}</ref>
+|-id=London
+! scope=row | [[London]]
+| {{flagicon|GBR}} United Kingdom
+| {{right}} 10,416,420
+| [[Subdivisions of England#Administrative|Administrative area]]{{efn|[[Greater London]] is defined by the [[London Government Act 1963]] as an "administrative area",<ref>{{multiref|
+ {{cite web |url=https://www.legislation.gov.uk/ukpga/1963/33/section/2 |title=London Government Act 1963 s. 2(1) |date=31 July 1963 |website=[[legislation.gov.uk]] }}|
+ {{cite web |title=Census population data by London Ward |publisher=Office for National Statistics |date=13 October 2023 |id=FOI-2023-1446 |access-date=2 September 2025 |url=https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/censuspopulationdatabylondonward }}
+ }}</ref> and administered since 2000 by the [[Greater London Authority]]. Greater London is coterminous with the London [[Regions of England|region]] (a non-administrative area) and divided into the [[City of London]] and 32 [[London boroughs]], each a separate [[Local government in England#Local authorities now|local government area]]. See [[subdivisions of England]].
+}}
+| {{density|disp=table|8,825,001|1,572}}<br/><ref>{{cite web|url=https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland|title=Population Estimates for UK, England and Wales, Scotland and Northern Ireland|date=28 June 2018|publisher=Office for National Statistics|access-date=16 August 2018|archive-date=15 October 2015|archive-url=https://web.archive.org/web/20151015222212/http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do|url-status=live}}</ref>
+| {{density|disp=table|11,262,000|1,738}}
+| {{right}} 14,372,596<br/><ref name=eurostat>{{cite web |url=http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_pjanaggr3&lang=en |title=Metropolitan Area Populations |publisher=Eurostat |date=18 June 2019 |access-date=4 December 2019 |archive-date=1 November 2016 |archive-url=https://web.archive.org/web/20161101073405/http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_pjanaggr3&lang=en |url-status=live }}</ref>
+| {{right}} 8,382
+| {{right}} 1,715
+|-id="Rio de Janeiro"
+! scope=row | [[Rio de Janeiro]]
+| {{flagicon|BRA}} Brazil
+| {{right}} 9,500,336
+| [[Municipalities of Brazil|Municipality]]
+| {{density|disp=table|6,520,000|1,221}}<br/><ref name=brazil2>{{cite web|url=http://saladeimprensa.ibge.gov.br/noticias?view=noticia&id="1&busca=1&idnoticia=3244|title=IBGE divulga as estimativas populacionais dos municípios em 2016|publisher=[[Instituto Brasileiro de Geografia e Estatística|IBGE]]|language=pt|access-date=12 December 2016|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085538/https://agenciadenoticias.ibge.gov.br/|url-status=live}}</ref>
+| {{density|disp=table|12,592,000|2,020}}
+| {{density|disp=table|12,644,321|5,327}}<br/><ref>{{cite web|url=https://www.citypopulation.de/en/brazil/metro/RM0006__rio_de_janeiro/|title=Rio de Janeiro (Metropolitan Area, Metropolitan Areas, Brazil) - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=4 March 2020|archive-date=29 February 2020|archive-url=https://web.archive.org/web/20200229182609/https://www.citypopulation.de/en/brazil/metro/RM0006__rio_de_janeiro/|url-status=live}}</ref>
+|-id=Paris
+! scope=row | [[Paris]]
+| {{flagicon|FRA}} France
+| {{right}} 9,381,921
+| [[Communes of France|Commune]]
+| {{density|disp=table|2,148,271|105}}<br/><ref name=Paris>{{cite web|url=https://www.insee.fr/fr/statistiques/fichier/1893198/estim-pop-dep-sexe-gca-1975-2020.xls|title=INSEE official estimated population by department and region as of 1 January 2019|date=22 January 2019|access-date=4 April 2017|archive-url=https://web.archive.org/web/20170421215403/http://www.insee.fr/fr/statistiques/1893198|archive-date=21 April 2017|url-status=live}}</ref>
+| {{density|disp=table|11,060,000|2,853}}
+| {{density|disp=table|12,244,807|18,940.7}}
+|-id=Hyderabad
+! scope=row | [[Hyderabad]]
+| {{flagicon|IND}} India
+| {{right}} 9,190,795
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|6,993,262|650}}<br/><ref>{{cite web|url=http://www.citypopulation.de/php/india-andhrapradesh.php?cityid="2840501000|publisher=Citypopulation.de|title=Hyderabad (Andhra Pradesh, India) - Population Statistics and Location in Maps and Charts - City Population|access-date=19 July 2016|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085511/https://www.citypopulation.de/en/india/andhrapradesh/|url-status=live}}</ref><ref name=Hyd1>{{cite web|url=http://www.ghmc.gov.in/greaterhyd.asp|title=Greater Hyderabad Municipal corporation 2010|publisher=GHMC|access-date=4 December 2010|url-status=dead|archive-url=https://web.archive.org/web/20160101224338/http://www.ghmc.gov.in/greaterhyd.asp|archive-date=1 January 2016|df=dmy-all}}</ref>
+| {{density|disp=table|10,494,000|1,404}}
+| {{density|disp=table|10,494,000|7,257}}
+|- id="Tehran"
+! scope="row" | [[Tehran]]
+| {{flagicon|IRN}} Iran
+| {{right}} 9,174,964
+| [[Local councils of Iran|Capital city]]
+| {{density|disp=table|9,033,003|751}}<br/><ref>{{cite web|url=http://www.citypopulation.de/php/iran-tehrancity.php|title=IRAN: Tehran City (Census 2016-09-24)|publisher=CITY POPULATION.DE|access-date=25 February 2014|archive-date=9 July 2014|archive-url=https://web.archive.org/web/20140709135033/http://citypopulation.de/php/iran-tehrancity.php|url-status=live}}</ref><ref>{{cite web|title=About Teheran|url=http://en.tehran.ir/Default.aspx?tabid="104|publisher=Tehran Municipality|access-date=25 February 2014|archive-url=https://web.archive.org/web/20140219204318/http://en.tehran.ir/Default.aspx?tabid=104|archive-date=19 February 2014|url-status=dead}}</ref>
+| {{density|disp=table|14,148,000|1,704}}
+| {{density|disp=table|14,557,000|2,235}}
+|- id="Taipei"
+! scope="row" | [[Taipei]]
+| {{flagicon|TWN}} Taiwan
+| {{right}} 9,137,000
+| [[Special municipality (Taiwan)|Special municipality]]
+| {{density|disp=table|2,594,581|272}}<br/><ref>{{cite web |title=Taibei Shi – Special Municipality in Taiwan |url=https://www.citypopulation.de/en/taiwan/admin/63__taibei_shi/ |website=City Population |access-date=5 August 2026}}</ref>
+| {{density|disp=table|9,866,000|1,090}}
+| {{density|disp=table|7,034,084|2,457}}
+|-id=Luanda
+! scope=row | [[Luanda]]
+| {{flagicon|AGO}} Angola
+| {{right}} 9,051,000
+| [[List of municipalities of Angola|Municipality]]
+| {{density|disp=table|2,165,867|116}}<br/><ref name=Luanda>{{cite web|url=https://www.citypopulation.de/en/angola/admin/04__luanda/|title=Luanda (Province, Angola) - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=4 March 2020|archive-date=1 February 2020|archive-url=https://web.archive.org/web/20200201093230/http://citypopulation.de/en/angola/admin/04__luanda/|url-status=live}}</ref>
+| {{density|disp=table|9,051,000|1,005}}
+| {{density|disp=table|11,370,000|1,876}}
+|-id=Bandung
+! scope=row | [[Bandung]]
+| {{flagicon|INA}} Indonesia
+| {{right}} 8,909,104
+| [[City]] 
+| {{density|disp=table|2,528,160|166.59}}
+| {{density|disp=table|7,203,000|487}}
+| {{density|disp=table|9,143,808|3,457.83}}
+|-id="Kuala Lumpur"
+! scope=row | [[Kuala Lumpur]]
+| {{flagicon|MYS}} Malaysia
+| {{right}} 8,443,731
+| [[List of local governments in Malaysia#City council|Capital city]] ([[Federal territories of Malaysia|Federal territory]])
+| {{density|disp=table|1,768,000|243}}<br/><ref>{{cite web|url=http://pmr.penerangan.gov.my/index.php/info-terkini/19463-unjuran-populasi-penduduk-2015.html|title=Population by States and Ethnic Group|publisher=Department of Information, Ministry of Communications and Multimedia, Malaysia|year=2015|access-date=12 February 2015|archive-url=https://web.archive.org/web/20160212125740/http://pmr.penerangan.gov.my/index.php/info-terkini/19463-unjuran-populasi-penduduk-2015.html|archive-date=12 February 2016 |url-status=dead}}</ref>
+| {{density|disp=table|8,911,000|2,163}}
+| {{density|disp=table|7,200,000|2,793}}<br/><ref name=KlangValley>{{cite web|url=http://focusmalaysia.my/Assets/KL%20on%20track%20to%20megacity%20status|title=KL on track to megacity status|publisher=Focus Malaysia|access-date=30 April 2015|archive-url=https://web.archive.org/web/20141219134216/http://focusmalaysia.my/Assets/KL%20on%20track%20to%20megacity%20status|archive-date=19 December 2014}}</ref>
+|-id="Dar es Salaam"
+! scope=row | [[Dar es Salaam]]
+| {{flagicon|TZA}} Tanzania
+| {{right}} 7,795,114
+| style=text-align:left |[[City]]
+| {{density|disp=table|5,383,728|1,393}}<br/><ref>{{Cite web |title=Dar es Salam - Population Statistics, Charts, Map and Location |url=https://www.citypopulation.de/en/tanzania/admin/07__dar_es_salaam/ |access-date=2024-01-11 |website=www.citypopulation.de}}</ref>
+| {{density|disp=table|7,962,000|961}}
+| {{density|disp=table|10,599,999|1,599}}
+|-id=Suzhou
+! scope=row | [[Suzhou, Jiangsu|Suzhou]]
+| {{flagicon|CHN}} China
+| {{right}} 7,731,101
+| [[Prefecture-level city]]
+| {{density|disp=table|12,748,262|8488.42}}<br/><ref name=China />
+| {{density|disp=table|6,031,000|1,386}}
+| {{density|disp=table|12,748,252|12,493}}
+|-id=Ahmedabad
+! scope=row | [[Ahmedabad]]
+| {{flagicon|IND}} India
+| {{right}} 7,632,408
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|5,570,585|464}}<br/><ref name=2011city>{{cite web|title=Cities having population 1 lakh and above|url=http://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf|work=censusindia|publisher=The Registrar General & Census Commissioner, India|access-date=18 October 2011|archive-date=7 May 2012|archive-url=https://web.archive.org/web/20120507135928/http://www.censusindia.gov.in/2011-prov-results/paper2/data_files/India2/Table_2_PR_Cities_1Lakh_and_Above.pdf|url-status=live}}</ref>
+| {{density|disp=table|8,009,000|404}}
+| {{right}} 6,300,000<br/><ref>{{cite web|url=https://pib.gov.in/newsite/PrintRelease.aspx?relid="110686|title=Approval for Ahmedabad Metro Rail Project Phase-1|publisher=[[Press Information Bureau]]|date=18 October 2014|access-date=11 April 2020|archive-date=16 June 2021|archive-url=https://web.archive.org/web/20210616085520/https://pib.gov.in/ErrorPage.html?aspxerrorpath=/newsite/mainpage.aspx|url-status=live}}</ref>
+| {{n/a}}
+| {{n/a}}
+|-id=Hangzhou
+! scope=row | [[Hangzhou]]
+| {{flagicon|CHN}} China
+| {{right}} 7,500,208
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|11,936,010|16,596}}<br/><ref name=China />
+| {{density|disp=table|9,523,000|1,344}}
+| {{density|disp=table|13,035,329|16,821}}
+|-id=Wuhan
+! scope=row | [[Wuhan]]
+| {{flagicon|CHN}} China
+| {{right}} 7,363,548
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|12,447,718|8,494}}<br/><ref name=China />
+| {{density|disp=table|12,447,718|1,722}}
+| {{density|disp=table|13,739,000|8,494}}
+|-id=Tianjin
+! scope=row | [[Tianjin]]
+| {{flagicon|CHN}} China
+| {{right}} 7,285,342
+| [[Direct-administered municipalities of China|Municipality]]
+| {{density|disp=table|13,866,009|11,920}}<br/><ref name=China /><ref name=auto/>
+| {{density|disp=table|10,368,000|2,813}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Alexandria
+! scope=row | [[Alexandria]]
+| {{flagicon|EGY}} Egypt
+| {{right}} 7,266,957
+| [[Governorates of Egypt|Urban governorate]]
+| {{right}} 5,441,866
+| {{right}} 2,300
+| {{right}} 2,366<ref>{{cite web|url=https://www.citypopulation.de/en/egypt/admin/02__al_iskandariyah/|title=Al-Iskandariyah - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=10 January 2024}}</ref>
+| {{density|disp=table|4,712,000|293}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Nagoya
+! scope=row | [[Nagoya]]
+| {{flagicon|JPN}} Japan
+| {{right}} 7,146,160
+| [[Cities designated by government ordinance of Japan|Designated city]]
+| {{density|disp=table|2,320,361|326}}<br/><ref name=japan1 />
+| {{density|disp=table|9,197,000|3,704}}
+| {{density|disp=table|9,363,000|7,271}}<br/><ref name=japan2 />
+|-id=Johannesburg
+! scope=row | [[Johannesburg]]
+| {{flagicon|ZAF}} South Africa
+| {{right}} 7,077,175
+| [[Metropolitan municipality (South Africa)|Metropolitan municipality]]
+| {{right}} 4,803,262
+| {{right}} 1,643
+| {{right}} 2,924<ref>{{cite web|url=https://www.citypopulation.de/en/southafrica/admin/gauteng/JHB__city_of_johannesburg/|title=City of Johannesburg- Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=10 January 2024}}</ref>
+| {{density|disp=table|14,586,000|4,040}}<br/>{{efn|Includes Pretoria}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Chongqing
+! scope=row | [[Chongqing]]
+| {{flagicon|CHN}} China
+| {{right}} 7,071,073
+| [[Direct-administered municipalities of China|Municipality]]
+| {{density|disp=table|32,054,159|82,403}}<br/><ref name=cqnews>{{cite web
+ |url = http://cq.cqnews.net/html/2016-01/28/content_36292655.htm
+ |script-title = zh:2015年重庆常住人口3016.55万人 继续保持增长态势
+ |trans-title = In 2015, Chongqing's resident population of 30,165,500 people continued to grow
+ |publisher = Chongqing News
+ |language = zh
+ |date = 28 January 2016
+ |access-date = 2016-02-13
+ |archive-url = https://web.archive.org/web/20160129083111/http://cq.cqnews.net/html/2016-01/28/content_36292655.htm
+ |archive-date = 29 January 2016
+ |url-status = dead
+ |df = dmy-all
+}}</ref><ref name=auto/>
+| {{density|disp=table|12,135,000|1,580}}
+| {{density|disp=table|32,054,159|82,403}}
+|-id=Riyadh
+! scope=row | [[Riyadh]]
+| {{flagicon|SAU}} Saudi Arabia
+| {{right}} 6,916,417
+| [[Municipality]]
+| {{density|disp=table|6,694,000|1,913}}<br/><ref>{{cite web|title=Composition of Population (2012)|url=http://www.arriyadh.com/openshare/Eng/ADA/Content/ADA-Public/Investment_Arriyadh_2013.pdf|work=Arriyadh Development Authority|access-date=4 March 2014|url-status=dead|archive-url=https://web.archive.org/web/20130823065650/http://www.arriyadh.com/openshare/Eng/ADA/Content/ADA-Public/Investment_Arriyadh_2013.pdf|archive-date=23 August 2013|df=dmy-all}}</ref>
+| {{density|disp=table|7,237,000|1,673}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Surat
+! scope=row | [[Surat]]
+| {{flagicon|IND}} India
+| {{right}} 6,908,925
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|4,466,826|327}}<br/><ref name=SuratMunicipal>{{cite web|title=Statistics for Surat Municipal Corporation|url=https://www.suratmunicipal.gov.in/TheCity/Demographics.aspx?SrNo=905005305406 |website=Official website of Surat Municipal Corporation|access-date=4 June 2015 |archive-url=https://web.archive.org/web/20150915032546/https://www.suratmunicipal.gov.in/TheCity/Demographics.aspx?SrNo=905005305406 |archive-date=15 September 2015}}</ref>
+| {{density|disp=table|6,538,000|238}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Surabaya
+! scope=row | [[Surabaya]]
+| {{flagicon|INA}} Indonesia
+| {{right}} 6,843,503
+| [[City]] 
+| {{density|disp=table|3,018,022|335.93}}
+| {{density|disp=table|6,556,000|912}}
+| {{density|disp=table|10,081,343|6,309.34}}
+|-id=Pune
+! scope=row | [[Pune]]
+| {{flagicon|IND}} India
+| {{right}} 6,817,951
+| [[Municipal corporation (India)|Municipal corporation]]
+| {{density|disp=table|3,124,458|484.61}}<br/><ref>{{cite web|url=https://www.citypopulation.de/php/india-maharashtra.php|title=Maharashtra (India): Districts, Cities and Towns - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=4 March 2020|archive-date=22 February 2020|archive-url=https://web.archive.org/web/20200222051712/http://citypopulation.de/php/india-maharashtra.php|url-status=live}}</ref>
+| {{density|disp=table|8,231,000|650}}
+| {{density|disp=table|7,276,000|7,256}}<br/><ref name=pmrda1>{{cite web|url=http://www.pmrda.gov.in/background.html|title=Pune Metropolitan Region Development Authority – PMRDA|website=www.pmrda.gov.in|access-date=25 April 2018|archive-url=https://web.archive.org/web/20180426144158/http://www.pmrda.gov.in/background.html|archive-date=26 April 2018|url-status=live}}</ref>
+|-id=Khartoum
+! scope=row | [[Khartoum]]
+| {{flagicon|SDN}} Sudan
+| {{right}} 6,809,355
+| {{n/a}}
+| {{right}} 1,410,858<br/><ref>{{cite web|url=https://www.citypopulation.de/en/sudan/|title=Sudan: States and cities}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{density|disp=table|7,869,000|1,031}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Nanjing
+! scope=row | [[Nanjing]]
+| {{flagicon|CHN}} China
+| {{right}} 6,800,676
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|9,314,685|6,582}}<br/><ref name=China />
+| {{density|disp=table|8,422,000|1,614}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Santiago
+! scope=row | [[Santiago]]
+| {{flagicon|CHL}} Chile
+| {{right}} 6,726,045
+| [[Santiago (commune)|City]] ([[Communes of Chile|commune]])
+| {{density|disp=table|236,453|22}}<br/><ref name=SantiagoCommune>{{cite web|url=https://www.citypopulation.de/php/chile-admin.php|title=Chile: Administrative Division (Provinces and Municipalities) - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=4 March 2020|archive-date=30 January 2020|archive-url=https://web.archive.org/web/20200130204953/http://citypopulation.de/php/chile-admin.php|url-status=live}}</ref>
+| {{density|disp=table|7,171,000|1,147}}
+| {{density|disp=table|7,112,808|15,403}}<br/><ref name=SantiagoMetro>{{cite web|url=https://www.citypopulation.de/php/chile-metropolitansantiago.php|title=Región Metropolitana de Santiago (Chile): Provinces & Places - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=4 March 2020|archive-date=26 January 2020|archive-url=https://web.archive.org/web/20200126193135/http://www.citypopulation.de/php/chile-metropolitansantiago.php|url-status=live}}</ref>
+|-id=Chicago
+! scope=row | [[Chicago]]
+| {{flagicon|USA}} United States
+| {{right}} 8,864,000
+| [[List of municipalities in Illinois|City]]
+| {{density|disp=table|2,746,388|589}}<br/><ref name=USA />
+| {{density|disp=table|9,057,000|7,006}}
+| {{right}} 9,806,184<ref>{{cite web   |title=2020 Population and Housing State Data |url=https://www.census.gov/library/visualizations/interactive/2020-population-and-housing-state-data.html |website=The United States Census Bureau |access-date=29 August 2021 |language=EN-US}}</ref>
+|18,640
+|516
+|-id=Chengdu
+! scope=row | [[Chengdu]]
+| {{flagicon|CHN}} China
+| {{right}} 8,813,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|20,937,757|14,378}}<br/><ref name=China />
+| {{density|disp=table|20,937,757|1,935}}
+| {{density|disp=table|20,937,757|14,378}}
+|-id=Xi'an
+! scope=row | [[Xi'an]]
+| {{flagicon|CHN}} China
+| {{right}} 7,444,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|12,183,280|10,135}}<br/><ref name=China />
+| {{density|disp=table|12,328,000|1,826}}
+| {{density|disp=table|12,328,000|10,762}}
+|-id="Hong Kong"
+! scope=row | [[Hong Kong]]
+| {{flagicon|HKG}} Hong Kong SAR
+| {{right}} 7,429,000
+| City
+| {{density|disp=table|7,298,600|1,104}}<br/><ref>{{cite web|url=http://www.censtatd.gov.hk/hkstat/sub/bbs.jsp|title=Hong Kong Statistics|publisher=Census and Statistics Department. The Government of the Hong Kong Special Administrative Region|access-date=4 December 2015|archive-date=20 January 2017|archive-url=https://web.archive.org/web/20170120143913/http://www.censtatd.gov.hk/hkstat/sub/bbs.jsp|url-status=live}}</ref><ref>{{cite web|url=http://www.landsd.gov.hk/mapping/en/publications/hk_geographic_data_sheet.pdf|title=Hong Kong Geographic|publisher=The Government of the Hong Kong Special Administration Region|access-date=10 March 2014|archive-date=5 March 2012|archive-url=https://web.archive.org/web/20120305072223/http://www.landsd.gov.hk/mapping/en/publications/hk_geographic_data_sheet.pdf|url-status=live}}</ref>
+| {{density|disp=table|7,450,000|290}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Dongguan
+! scope=row | [[Dongguan]]
+| {{flagicon|CHN}} China
+| {{right}} 7,360,000
+| [[Prefecture-level city]]
+| {{density|disp=table|10,466,625|2,465}}<br/><ref name=China />
+| {{density|disp=table|10,646,000|1,759}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Foshan
+! scope=row | [[Foshan]]
+| {{flagicon|CHN}} China
+| {{right}} 7,236,000
+| [[Prefecture-level city]]
+| {{density|disp=table|9,498,863|3,848}}<br/><ref name=China />
+| {{n/a}}<br/>{{efn|Included in Guangzhou}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Shenyang
+! scope=row | [[Shenyang]]
+| {{flagicon|CHN}} China
+| {{right}} 6,921,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|8,294,000|12,980}}<br/><ref name=China />
+| {{density|disp=table|7,964,000|1,551}}<br/>{{efn|Includes the city of [[Fushun]].}}
+| {{density|disp=table|8,294,000|12,980}}
+|-id=Baghdad
+! scope=row | [[Baghdad]]
+| {{flagicon|IRQ}} Iraq
+| {{right}} 6,812,000
+| [[Baghdad Governorate|Urban governorate]]
+| {{density|disp=table|8,126,755|5,200}}<br/><ref name=Baghdad>{{cite web|url=https://www.citypopulation.de/Iraq-Cities.html|title=Iraq: Governorates, Major Cities & Urban Centers - Population Statistics, Maps, Charts, Weather and Web Information|website=www.citypopulation.de|access-date=4 March 2020|archive-date=22 April 2018|archive-url=https://web.archive.org/web/20180422012816/http://citypopulation.de/Iraq-Cities.html|url-status=live}}</ref>
+| {{density|disp=table|6,183,000|694}}
+| {{density|disp=table|8,141,000|12,869}}
+|- id="Addis Ababa"
+! scope="row" | [[Addis Ababa]]
+| {{flagicon|ETH}} Ethiopia
+| {{right}} 6,706,000
+| [[Capital city]]
+| {{density|disp=table|3,859,999|527}}<br/><ref>{{cite web |title=Adis Abeba Chartered City in Ethiopia |url=https://www.citypopulation.de/en/ethiopia/admin/ET14__adis_abeba/ |website=City Population |access-date=16 August 2026}}</ref>
+| {{density|disp=table|7,922,000|673}}
+| {{density|disp=table|5,956,680|810}}
+|-id=Madrid
+! scope=row | [[Madrid]]
+| {{flagicon|ESP}} Spain
+| {{right}} 6,497,000
+| [[Municipalities of Spain|Municipality]]
+| {{density|disp=table|3,266,126|606}}<br/><ref>{{cite web|url=https://www.citypopulation.de/en/spain/madrid/|title=Madrid (Spain): Province & Municipalities - Population Statistics, Charts and Map|website=www.citypopulation.de|access-date=4 March 2020|archive-date=3 August 2020|archive-url=https://web.archive.org/web/20200803093621/https://www.citypopulation.de/en/spain/madrid/|url-status=live}}</ref>
+| {{density|disp=table|6,211,000|1,365}}
+| {{right}} 6,641,649
+| {{n/a}}
+| {{n/a}}
+|-id=Harbin
+! scope=row | [[Harbin]]
+| {{flagicon|CHN}} China
+| {{right}} 6,115,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|10,635,971|53,068}}<br/><ref name=China />
+| {{density|disp=table|3,830,000|671}}
+| {{density|disp=table|10,009,854|53,068}}
+|-id=Houston
+! scope=row | [[Houston]]
+| {{flagicon|USA}} United States
+| {{right}} 6,115,000
+| [[Administrative divisions of Texas|City]]
+| {{density|disp=table|2,325,502|1,553}}<br/><ref name=USA />
+| {{density|disp=table|6,500,000|4,931}}
+| {{density|disp=table|7,765,149|21,395}}<br/><ref name=HoustonMetro>{{cite web|url=https://www.citypopulation.de/en/usa/metro/26420__houston_the_woodlands_/|title=Houston - The Woodlands - Sugar Land (Metropolitan Statistical Area, Metropolitan Areas, USA) - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=4 March 2020|archive-date=3 February 2020|archive-url=https://web.archive.org/web/20200203133519/http://www.citypopulation.de/en/usa/metro/26420__houston_the_woodlands_/|url-status=live}}</ref>
+|-id=Dallas
+! scope=row | [[Dallas]]
+| {{flagicon|USA}} United States
+| {{right}} 6,099,000
+| [[Administrative divisions of Texas|City]]
+| {{density|disp=table|1,345,047|882}}<br/><ref name=USA/>
+| {{density|disp=table|6,950,000|5,278}}<br/>{{efn|Includes the city of [[Fort Worth]], collectively known as [[Dallas–Fort Worth metroplex]].}}
+| {{density|disp=table|9,021,108|22,463}}<br/><ref name=DFW>{{cite web|url=https://www.citypopulation.de/en/usa/metro/19100__dallas_fort_worth_arl/|title=Dallas - Fort Worth - Arlington (Metropolitan Statistical Area, Metropolitan Areas, USA) - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=4 March 2020|archive-date=3 February 2020|archive-url=https://web.archive.org/web/20200203150333/http://www.citypopulation.de/en/usa/metro/19100__dallas_fort_worth_arl/|url-status=live}}</ref>
+|-id=Toronto
+! scope=row | [[Toronto]]
+| {{flagicon|CAN}} Canada
+| {{right}} 6,082,000
+| [[List of municipalities in Ontario|City]]
+| {{density|disp=table|2,731,571|630}}<br/><ref>{{cite web |title=Census Profile, 2016 Census |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/Page.cfm?Lang=E&Geo1=CSD&Code1=3520005&Geo2=PR&Data=Count&B1=All |website=www12.statcan.gc.ca | date=8 February 2017 |publisher=Statistics Canada |access-date=30 March 2020 |archive-date=20 March 2019 |archive-url=https://web.archive.org/web/20190320044145/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/Page.cfm?Lang=E&Geo1=CSD&Code1=3520005&Geo2=PR&Data=Count&B1=All |url-status=live }}</ref><ref name=TorontoCity>{{cite web|url=http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D|title=Population and dwelling counts, for Canada and census subdivisions (municipalities), 2011 and 2006 censuses|publisher=[[Statistics Canada]]|date=8 February 2012|access-date=2012-02-08|archive-date=7 January 2019|archive-url=https://web.archive.org/web/20190107044920/https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/Table-Tableau.cfm?LANG=Eng&T=301&S=3&O=D|url-status=live}}</ref>
+| {{density|disp=table|6,771,000|2,344}}
+| {{density|disp=table|5,928,040|5,906}}<br/><ref name=TorontoMetro>{{cite web |url=https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=201&S=3&O=D |title=Population and dwelling counts, for census metropolitan areas and census agglomerations, 2016 and 2011 censuses (table). 2016 Census. |date=8 February 2017 |publisher=[[Statistics Canada]] |access-date=19 February 2017 |archive-date=5 October 2019 |archive-url=https://web.archive.org/web/20191005160403/https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Table.cfm?Lang=Eng&T=201&S=3&O=D |url-status=live }}</ref>
+|-id=Miami
+! scope=row | [[Miami]]
+| {{flagicon|USA}} United States
+| {{right}} 6,036,000
+| style=text-align:left |[[City]]
+| {{density|disp=table|470,914|92.9}}<br/><ref name=USA/>
+| {{density|disp=table|6,058,000|3,313}}
+| {{density|disp=table|6,158,824|15,890}}
+|-id="Belo Horizonte"
+! scope=row | [[Belo Horizonte]]
+| {{flagicon|BRA}} Brazil
+| {{right}} 5,972,000
+| style=text-align:left |[[City]]
+| {{density|disp=table|2,502,557|330.9}}
+| {{density|disp=table|5,328,000|1,287}}
+| {{density|disp=table|5156,217|9459.1}}
+|-id=Singapore
+! scope=row | [[Singapore]]
+| {{flagicon|SGP}} Singapore
+| {{right}} 5,792,000
+| [[Country]]
+| {{density|disp=table|5,638,700|725.7}}
+| {{density|disp=table|5,983,000|523}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Philadelphia
+! scope=row | [[Philadelphia]]
+| {{flagicon|USA}} United States
+| {{right}} 5,695,000
+| [[Consolidated city-county]]
+| {{density|disp=table|1,526,006|369.59}}
+| {{density|disp=table|5,799,000|5,429}}
+| {{right}}  7,381,187
+| {{n/a}}
+| {{n/a}}
+|-id=Atlanta
+! scope=row | [[Atlanta]]
+| {{flagicon|USA}} United States
+| {{right}} 5,572,000
+| style=text-align:left |[[City]]
+| {{density|disp=table|498,715|354.22}}
+| {{density|disp=table|5,478,000|7,400}}
+| {{density|disp=table|6,976,171|21,690}}
+|-id=Fukuoka
+! scope=row | [[Fukuoka]]
+| {{flagicon|JPN}} Japan
+| {{right}} 5,551,000
+| [[Cities designated by government ordinance of Japan|Designated city]]
+| {{density|disp=table|1,588,924|343.39}}
+| {{density|disp=table|2,286,000|505}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Barcelona
+! scope=row | [[Barcelona]]
+| {{flagicon|ESP}} Spain
+| {{right}} 5,494,000
+| [[Municipalities of Catalonia|Municipality]]
+| {{density|disp=table|1,620,343|101.4}}<br/><ref>{{Cite journal|last=Zax|first=Jeffrey|date=October 1985|title=Municipal Employment, Municipal Unions, and Demand for Municipal Services|location=Cambridge, MA|journal=Industrial Relations|volume=82|number=1|pages=21–31|doi=10.3386/w1728|s2cid=166619232|doi-access=free}}</ref>
+| {{density|disp=table|4,800,000|1,072}}
+| {{right}} 5,474,482<br/><ref name=eurostat2>[http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_pjanaggr3&lang=en Population on 1 January by broad age group, sex and metropolitan regions] {{Webarchive|url=https://web.archive.org/web/20160822103143/http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=met_pjanaggr3&lang=en |date=22 August 2016 }} - [[Eurostat]], 2017</ref>
+| {{n/a}}
+| {{n/a}}
+|-id="Saint Petersburg"
+! scope=row | [[Saint Petersburg]]
+| {{flagicon|RUS}} Russia
+| {{right}} 5,383,000
+| [[Federal cities of Russia|Federal city]]
+| {{right}} 5,601,911
+| {{right}} 1,400
+| {{right}} 4,001<ref>{{cite web|url=https://www.citypopulation.de/en/russia/cities/|title=Russia: Federal Districts and Major Cities|website=www.citypopulation.de|access-date=2024-01-16}}</ref>
+| {{density|disp=table|5,445,000|1,510}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Qingdao
+! scope=row | [[Qingdao]]
+| {{flagicon|CHN}} China
+| {{right}} 5,381,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{right}} 10,071,722
+| {{right}} 11,229
+| {{right}} 897<ref>{{cite web|url=https://www.citypopulation.de/en/china/admin/sh%C4%81nd%C5%8Dng_sh%C4%95ng/3702__q%C4%ABngd%C4%83o_sh%C3%AC/|title=Qīngdăo shi - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=10 January 2024}}</ref>
+| {{density|disp=table|6,229,000|1,759}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Dalian
+! scope=row | [[Dalian]]
+| {{flagicon|CHN}} China
+| {{right}} 5,300,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+|  {{right}} 7,450,785
+|  {{right}} 13,742
+|  {{right}} 542<ref>{{cite web|url=https://www.citypopulation.de/en/china/admin/li%C3%A1on%C3%ADng_sh%C4%95ng/2102__d%C3%A0li%C3%A1n_sh%C3%AC/|title=Dalian shi - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=10 January 2024}}</ref>
+| {{density|disp=table|4,135,000|1,044}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id="Washington, D.C."
+! scope=row | [[Washington, D.C.]]
+| {{flagicon|USA}} United States
+| {{right}} 5,207,000
+| [[Federal district]]
+| {{density|disp=table|702,455|177}}<br/><ref name=USA/>
+| {{density|disp=table|7,631,000|5,501}}<br/>{{efn|Includes the city of [[Baltimore]].}}
+| {{density|disp=table|10,237,545|17,009}}<br/><ref>{{cite web|url=https://www.citypopulation.de/en/usa/metro/47900__washington_arlington_/|title=Washington - Arlington - Alexandria (Metropolitan Statistical Area, Metropolitan Areas, USA) - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=4 March 2020|archive-date=29 February 2020|archive-url=https://web.archive.org/web/20200229182610/https://www.citypopulation.de/en/usa/metro/47900__washington_arlington_/|url-status=live}}</ref>
+|-id=Yangon
+! scope=row | [[Yangon]]
+| {{flagicon|MMR}} Myanmar
+| {{right}} 5,157,000
+| [[List of cities and largest towns in Myanmar|City]]
+| {{right}} 4,728,524<ref>{{cite web|url=https://www.citypopulation.de/en/myanmar/cities/|title=Myanmar - Population Statistics, Charts, Map and Location|website=www.citypopulation.de|access-date=2014-01-16}}</ref>
+| {{n/a}}
+| {{n/a}}
+| {{density|disp=table|6,874,000|666}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Jinan
+! scope=row | [[Jinan]]
+| {{flagicon|CHN}} China
+| {{right}} 5,052,000
+| [[Prefecture-level city|City]] ([[Sub-provincial division#Sub-provincial municipalities|sub-provincial]])
+| {{density|disp=table|9,202,432|10,244}}<br/><ref name=China /><ref name=auto/>
+| {{density|disp=table|4,017,000|932}}
+| {{n/a}}
+| {{n/a}}
+| {{n/a}}
+|-id=Guadalajara
+! scope=row | [[Guadalajara]]
+| {{flagicon|MEX}} Mexico
+| {{right}} 5,023,000
+| [[Municipalities of Mexico|Municipality]]
+| {{density|disp=table|1,385,621|151}}<br/><ref name=mexicocensus2020 />
+| {{density|disp=table|5,525,000|816}}
+| {{density|disp=table|5,286,642|3,560}}
+|}
+
+==See also==
+{{portal|Cities|Geography|Lists|World}}
+* [[Historical urban community sizes]]
+* [[List of largest cities throughout history]]
+* [[List of cities with over 1 million inhabitants]]
+* [[List of towns and cities with 100,000 or more inhabitants]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://data.un.org/Data.aspx?d=POP&f=tableCode%3A240 UNSD Demographics Statistics – City population by sex, city and city type]
+* [https://nordpil.com/resources/world-database-of-large-cities/ Nordpil World Database of Large Urban Areas, 1950–2050]
+
+{{World's largest cities}}
+{{Cities}}
+{{Population}}
+{{Structural extremes}}
+
+{{authority control}}
+
+{{DEFAULTSORT:Largest cities}}
+[[Category:Cities-related lists of superlatives]]
+[[Category:Largest things]]
+[[Category:Lists of cities (worldwide) by population| ]]
+[[Category:Urban geography]]

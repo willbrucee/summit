@@ -8,11 +8,12 @@ const HUMAN = ['Q5'];
 const ANATOMY = ['Q112826905', 'Q112826975', 'Q103812529', 'Q1620186', 'Q25513701'];
 
 export const WD_CLASSES = {
-  'countries-africa': ['Q6256', 'Q3624078'], 'countries-europe': ['Q6256', 'Q3624078'], 'countries-asia': ['Q6256', 'Q3624078'],
-  'countries-americas': ['Q6256', 'Q3624078'], 'countries-world': ['Q6256', 'Q3624078'], 'countries-landlocked': ['Q6256', 'Q3624078'],
+  'countries-africa': ['Q6256', 'Q3624078', ...CITY], 'countries-europe': ['Q6256', 'Q3624078', ...CITY], 'countries-asia': ['Q6256', 'Q3624078', ...CITY],
+  'countries-americas': ['Q6256', 'Q3624078', ...CITY], leaders: HUMAN,
+  'us-teams': ['Q13393265', 'Q17156793', 'Q13027888', 'Q4498974'], 'countries-world': ['Q6256', 'Q3624078'], 'countries-landlocked': ['Q6256', 'Q3624078'],
   'countries-mediterranean': ['Q6256', 'Q3624078'], 'countries-eu': ['Q6256', 'Q3624078'],
   'capitals-world': CITY, 'capitals-europe': CITY, 'capitals-asia': CITY, 'capitals-africa': CITY, 'olympic-hosts': CITY,
-  'us-states': ['Q35657'], 'us-state-capitals': ['Q1093829', 'Q62049', 'Q515', 'Q1549591'], 'australian-cities': ['Q515', 'Q3957', 'Q1549591'],
+  'us-states': ['Q35657', 'Q1093829', 'Q62049', 'Q515', 'Q1549591'], 'us-state-capitals': ['Q1093829', 'Q62049', 'Q515', 'Q1549591'], 'australian-cities': ['Q515', 'Q3957', 'Q1549591'],
   rivers: ['Q4022'], 'seas-oceans': ['Q165', 'Q204894', 'Q39594', 'Q9430', 'Q1322134', 'Q23397'], islands: ['Q23442', 'Q33837'],
   animals: TAXON, mammals: TAXON, 'ocean-mammals': TAXON, birds: TAXON, insects: TAXON, reptiles: TAXON, fish: TAXON, 'sea-creatures': TAXON,
   dinosaurs: ['Q23038290', 'Q16521'], 'dog-breeds': ['Q39367'], 'cat-breeds': ['Q43577'], 'horse-breeds': ['Q1160573'],

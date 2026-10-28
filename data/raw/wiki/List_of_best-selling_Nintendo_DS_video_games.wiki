@@ -1,0 +1,521 @@
+{{Short description|none}}
+{{Video games}}
+{{Dynamic list}}
+{{srn}}
+[[File:Nintendo-DS-Fat-Blue.png|thumb|Nintendo DS]]
+This is a list of video games for the [[Nintendo DS]] [[video game console]] that have sold or shipped at least one million copies. The best-selling game on the Nintendo DS is ''[[New Super Mario Bros.]]'' First released in North America on May 15, 2006, it went on to sell nearly 31 million units worldwide.
+
+There are a total of 76 Nintendo DS games on this list which are confirmed to have sold or shipped at least one million units. Of these, 18 were developed by internal Nintendo development divisions. Of the 76 games on this list, 51 were published in one or more regions by Nintendo.
+
+By September 30, 2022, over 948.76{{nbsp}}million total copies of games had been sold for the Nintendo DS.<ref name="nintendosales">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |title=IR Information : Sales Data - Dedicated Video Games Sales Unit |access-date=May 7, 2020 |date=September 30, 2022 |publisher=Nintendo |archive-date=June 21, 2017 |archive-url=https://web.archive.org/web/20170621033554/https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |url-status=live }}</ref> As of March 31, 2025, there are a total of 139 Nintendo DS games that have sold at least one million units.<ref name=110425e>{{cite web|url=https://www.nintendo.co.jp/ir/pdf/2011/110425e.pdf|title=Consolidated Financial Statements|date=2011-04-26|access-date=2011-04-26|publisher=[[Nintendo]]|pages=16|archive-date=2019-04-11|archive-url=https://web.archive.org/web/20190411081050/https://www.nintendo.co.jp/ir/pdf/2011/110425e.pdf|url-status=live}}</ref>
+
+{{clear}}
+
+==List==
+{{sticky-header}}
+{{srn}}
+{| class="wikitable plainrowheaders sticky-header sortable static-row-numbers"
+|-
+!scope="col" | Game
+!scope="col" | Copies sold
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Developer(s)
+!scope="col" | Publisher(s)
+|-
+| ''[[New Super Mario Bros.]]'' 
+| {{nts|30.80}}{{nbsp}}million<ref name="dssales">{{cite web|url=https://www.nintendo.co.jp/ir/en/sales/software/ds.html|title=Sales Data - Top Selling Software Sales Units - Nintendo DS Software|publisher=[[Nintendo]]|date=2020-09-30|access-date=2020-11-17|archive-date=2016-04-27|archive-url=https://web.archive.org/web/20160427092514/https://www.nintendo.co.jp/ir/en/sales/software/ds.html|url-status=dead}}</ref>
+| {{dts|May 15, 2006}}<ref>{{cite web |url=https://www.gamespot.com/articles/new-super-mario-brothers-dated-in-japan/1100-6147476/ |title=New Super Mario Brothers dated in Japan |work=[[GameSpot]] |last=Tochen |first=Da |date=April 11, 2016 |accessdate=November 24, 2024}}</ref>
+| [[Nintendo Entertainment Analysis & Development|Nintendo EAD]] (Group&nbsp;4)<ref name="EAD Group 4">{{cite web |url=https://www.nintendoworldreport.com/feature/39687/know-your-nintendo-developers-ead-group-4 |title=Know Your Nintendo Developers: EAD Group 4 |work=Nintendo World Report |last=Rairdin |first=John |last2=Ronaghan |first2=Neal |date=February 25, 2016 |accessdate=November 25, 2024}}</ref>
+| [[Nintendo]]
+|-
+| ''[[Nintendogs]]'' <small>(all versions)</small>
+| {{nts|23.96}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|April 21, 2005}}
+| [[Nintendo EAD]] (Group&nbsp;1)<ref name="EAD Group 1">{{cite web |url=http://www.nintendoworldreport.com/feature/39518/know-your-nintendo-developers-ead-group-1 |title=Know Your Nintendo Developers: EAD Group 1 |work=Nintendo World Report |last=Rairdin |first=John |last2=Ronaghan |first2=Neal |date=February 4, 2015 |accessdate=November 25, 2024}}</ref>
+| [[Nintendo]]
+|-
+| ''[[Mario Kart DS]]''
+| {{nts|23.60}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|November 14, 2005}}
+| [[Nintendo EAD]] (Group&nbsp;1)<ref name="EAD Group 1"/>
+| [[Nintendo]]
+|-
+| ''[[Brain Age: Train Your Brain in Minutes a Day!]]''
+| {{nts|19.01}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|May 19, 2005}}
+| [[Nintendo Software Planning & Development|Nintendo SPD]]
+| [[Nintendo]]
+|-
+| [[Pokémon Diamond and Pearl|''Pokémon Diamond'' and ''Pearl'']]
+| {{nts|17.67}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|September 28, 2006}}
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| [[Pokémon Black and White|''Pokémon Black'' and ''White'']]
+| {{nts|15.64}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|September 18, 2010}}
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Brain Age 2: More Training in Minutes a Day!]]''
+| {{nts|14.88}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|December 29, 2005}}
+| [[Nintendo Software Planning & Development|Nintendo SPD]]
+| [[Nintendo]]
+|-
+| [[Pokémon HeartGold and SoulSilver|''Pokémon HeartGold'' and ''SoulSilver'']]
+| {{nts|12.72}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|September 12, 2009}}
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]||[[Nintendo]]}}
+|-
+| ''[[Animal Crossing: Wild World]]''
+| {{nts|11.75}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|November 23, 2005}}
+| [[Nintendo EAD]] (Group&nbsp;2)
+| [[Nintendo]]
+|-
+| ''[[Super Mario 64 DS]]''
+| {{nts|11.06}}{{nbsp}}million<ref name="dssales"/>
+| {{dts|November 21, 2004}}
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[Mario Party DS]]''
+| {{nts|9.31}}{{nbsp}}million<ref name="supermariotitles">{{cite web |url=http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |title=30 Best-Selling Super Mario Games of All Time on the Plumber's 30th Birthday |last=O'Malley |first=James |work=[[Gizmodo]] |publisher=[[Univision Communications]] |date=September 11, 2015 |access-date=April 24, 2017 |archive-date=September 8, 2020 |archive-url=https://web.archive.org/web/20200908004707/http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |url-status=live }}</ref>
+| {{dts|November 8, 2007}}
+| [[Hudson Soft]]
+| [[Nintendo]]
+|-
+| [[Pokémon Black 2 and White 2|''Pokémon Black 2'' and ''White 2'']]
+| {{nts|8.52}}{{nbsp}}million<ref name="whitepaper">{{cite book |title=2020CESAゲーム白書 (2020 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2020|isbn=978-4-902346-42-8}}</ref>
+| {{dts|June 23, 2012}}
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Pokémon Platinum]]''
+| {{nts|7.60}}{{nbsp}}million<ref name=":0" />
+| {{dts|September 13, 2008}}
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Big Brain Academy (video game)|Big Brain Academy]]''
+| {{nts|6.15}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|June 30, 2005}}
+| [[Nintendo EAD]] (Group&nbsp;4)<ref name="EAD Group 4"/>
+| [[Nintendo]]
+|-
+| ''[[Dragon Quest IX|Dragon Quest IX: Sentinels of the Starry Skies]]''
+| {{nts|5.5}}{{nbsp}}million<ref name=":0" />
+| {{dts|July 11, 2009}}<ref name="DQIX">{{cite web |url=https://www.nintendolife.com/reviews/2010/07/dragon_quest_ix_sentinels_of_the_starry_skies_ds |title=Dragon Quest IX: Sentinels of the Starry Skies Review (DS) |work=[[Nintendo Life]] |last=Dillard |first=Corbie |date=July 10, 2010 |accessdate=November 24, 2024}}</ref>
+| [[Level-5 (company)|Level-5]]<ref name="DQIX"/>
+| {{vgrelease|JP|[[Square Enix]]|WW|[[Nintendo]]<ref name="DQIX"/>}}
+|-
+| [[Pokémon Mystery Dungeon: Explorers of Time and Explorers of Darkness|''Pokémon Mystery Dungeon: Explorers of Time'' and ''Explorers of Darkness'']]
+| {{nts|4.88}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|September 13, 2007}}
+| [[Chunsoft]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Lego Star Wars: The Complete Saga]]''
+| {{nts|4.76}}{{nbsp}}million<ref>{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref><ref>{{cite book |title=Guinness World Records Gamer's Edition 2016 |date=September 1, 2015 |publisher=[[Guinness World Records]] |page=85 |isbn=978-1-910-56109-6 |url=https://archive.org/details/guinnessworldrec0000unse_s1m3}}</ref>
+| {{dts|November 6, 2007}}
+| [[Traveller's Tales]]
+| [[LucasArts]]
+|-
+| ''[[The Legend of Zelda: Phantom Hourglass]]''
+| {{nts|4.76}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|June 23, 2007}}
+| [[Nintendo EAD]] (Group&nbsp;3)<ref name="EAD Group 3">{{cite web |url=https://www.nintendoworldreport.com/feature/39656/know-your-nintendo-developers-ead-group-3 |title=Know Your Nintendo Developers: EAD Group 3 |work=Nintendo World Report |last=Rairdin |first=John |last2=Ronaghan |first2=Neal |date=February 18, 2015 |accessdate=November 25, 2024}}</ref>
+| [[Nintendo]]
+|-
+| ''[[Mario & Luigi: Bowser's Inside Story]]''
+| {{nts|4.56}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|February 11, 2009}}
+| [[AlphaDream]]
+| [[Nintendo]]
+|-
+| ''[[Professor Layton and the Curious Village]]''
+| {{nts|4.49}}{{nbsp}}million<ref name=":0" />
+| {{dts|February 15, 2007}}
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Mario & Sonic at the Olympic Games]]''
+| {{nts|4.22}}{{nbsp}}million<ref>{{cite web|url=http://gamersblog.guinnessworldrecords.com/_The-Godfather-of-Gaming-is-Back/BLOG/2348305/4121.html |title=Guinness World Records, Gamers Edition: The Godfather of Gaming is Back! |publisher=[[Guinness World Records]] |date=2010-05-17 |access-date=2017-05-05 |url-status=live |archive-url=https://web.archive.org/web/20100525110600/http://gamersblog.guinnessworldrecords.com/_The-Godfather-of-Gaming-is-Back/BLOG/2348305/4121.html |archive-date=2010-05-25 }}</ref>
+| {{dts|January 17, 2008}}
+| [[Sega Sports R&D]]
+| {{vgrelease|JP|[[Nintendo]]|WW|[[Sega]]}}
+|-
+| ''English Training: Have Fun Improving Your Skills!''
+| {{nts|3.91}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|January 26, 2006}}
+| [[Nintendo SPD]]
+| [[Nintendo]]
+|-
+| ''[[Professor Layton and the Diabolical Box]]''
+| {{nts|3.88}}{{nbsp}}million<ref name=":0" />
+| {{dts|November 29, 2007}}
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Tomodachi Collection]]''
+| {{nts|3.76}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|June 18, 2009}}
+| [[Nintendo SPD]] (Group&nbsp;1)
+| [[Nintendo]]
+|-
+| ''[[Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team|Pokémon Mystery Dungeon: Blue Rescue Team]]''
+| {{nts|3.49}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 17, 2005}}
+| [[Chunsoft]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Yoshi's Island DS]]''
+| {{nts|3.36}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 13, 2006}}
+| [[Artoon]]
+| [[Nintendo]]
+|-
+| ''[[Flash Focus: Vision Training in Minutes a Day]]''
+| {{nts|3.23}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|May 31, 2007}}
+| {{hlist|[[Nintendo SPD]]|[[Namco Bandai]]}}
+| [[Nintendo]]
+|-
+| ''[[Rhythm Heaven]]''
+| {{nts|3.04}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|July 31, 2008}}
+| {{hlist|[[Nintendo SPD]]|TNX Music Recordings}}
+| [[Nintendo]]
+|-
+| ''[[Professor Layton and the Unwound Future]]''
+| {{nts|3.02}}{{nbsp}}million<ref name=":0" />
+| {{dts|November 27, 2008}}
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Professor Kageyama's Maths Training: The Hundred Cell Calculation Method]]''
+| {{nts|3}}{{nbsp}}million<ref>{{cite web |url=http://www.jupiter.co.jp/product/game/ds/hyakumasu.php |title=DS陰山メソッド電脳反復 ます×ます百ます計算 |website=[[Jupiter Corporation]] |access-date=September 13, 2020 |language=ja |archive-date=August 4, 2020 |archive-url=https://web.archive.org/web/20200804213007/http://www.jupiter.co.jp/product/game/ds/hyakumasu.php |url-status=live }}</ref>
+| {{dts|December 7, 2006}}
+| [[Jupiter Corporation|Jupiter]]
+| {{vgrelease|JP|[[Shogakukan]]|WW|[[Nintendo]]}}
+|-
+| ''[[Kirby Super Star Ultra]]''
+| {{nts|2.99}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|September 29, 2008}}
+| [[HAL Laboratory]]
+| [[Nintendo]]
+|-
+| ''[[Mario vs. Donkey Kong: Mini-Land Mayhem!]]''
+| {{nts|2.98}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 14, 2010}}
+| [[Nintendo Software Technology]]
+| [[Nintendo]]
+|-
+| ''[[Style Savvy]]''
+| {{nts|2.98}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|October 23, 2008}}
+| [[Syn Sophia]]
+| [[Nintendo]]
+|-
+| ''[[The Legend of Zelda: Spirit Tracks]]''
+| {{nts|2.96}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|December 7, 2009}}
+| [[Nintendo EAD]] (Group&nbsp;3)<ref name="EAD Group 3"/>
+| [[Nintendo]]
+|-
+| ''[[Pokémon Ranger]]''
+| {{nts|2.93}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|March 23, 2006}}
+| {{hlist|[[HAL Laboratory]]|
+[[Creatures Inc.]]}}
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Tetris DS]]''
+| {{nts|2.74}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|March 20, 2006}}
+| [[Nintendo SPD]] (Group&nbsp;2)
+| [[Nintendo]]
+|-
+| ''[[Clubhouse Games]]''
+| {{nts|2.57}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 3, 2005}}
+| Agenda
+| [[Nintendo]]
+|-
+| ''[[WarioWare: Touched!]]''
+| {{nts|2.47}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|December 2, 2004}}
+| {{hlist|[[Nintendo SPD]] (Group&nbsp;1)|[[Intelligent Systems]]}}
+| [[Nintendo]]
+|-
+| ''[[Pokémon Ranger: Shadows of Almia]]''
+| {{nts|2.35}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|March 20, 2008}}
+| [[Creatures Inc.]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Art Academy (video game)|Art Academy]]''
+| {{nts|2.33}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|June 19, 2010}}
+| {{hlist|[[Headstrong Games]]|[[Nintendo SPD]]}}
+| [[Nintendo]]
+|-
+| ''[[Final Fantasy III (2006 video game)|Final Fantasy III]]''
+| {{nts|2.3}}{{nbsp}}million<ref name=":0" />
+| {{dts|August 24, 2006}}
+| [[Matrix Software]]
+| [[Square Enix]]
+|-
+| ''[[Kirby: Squeak Squad]]''
+| {{nts|2.27}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 2, 2006}}
+| {{hlist|[[HAL Laboratory]]|[[Flagship (company)|Flagship]]}}
+| [[Nintendo]]
+|-
+| ''[[Cooking Mama (video game)|Cooking Mama]]''
+| {{nts|2.26}}{{nbsp}}million{{efn|''Cooking Mama'' sales breakdown:
+* Europe {{ndash}} 1{{nbsp}}million<ref>{{cite news |last1=James |first1=Orry |title=Cooking Mama tops a million in Europe |url=https://www.videogamer.com/news/cooking-mama-tops-a-million-in-europe/ |access-date=12 June 2023 |work=Video Gamer |publisher=Raptive |date=6 December 2007}}</ref>
+* Japan {{ndash}} 62,000<ref name="japangc">{{cite web|url=http://www.japan-gamecharts.com/ds.php |title=Nintendo DS Japanese Ranking |publisher=Japan Game Charts |date=2008-05-14 |access-date=2008-05-24 |url-status=usurped |archive-url=https://web.archive.org/web/20080808100144/http://www.japan-gamecharts.com/ds.php |archive-date=2008-08-08 }}</ref>
+* United States {{ndash}} 1.2{{nbsp}}million<ref name="pachter"/>}}
+| {{dts|March 23, 2006}}
+| [[Cooking Mama Limited|Office Create]]
+| {{vgrelease|JP|[[Taito Corporation|Taito]]|NA|[[Majesco]]|PAL|[[505 Games]]}}
+|-
+| ''[[Cooking Guide: Can't Decide What to Eat?]]''
+| {{nts|2.17}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|June 20, 2008}}
+| {{hlist|[[indieszero]]|[[Nintendo Network Business & Development|Nintendo NSD]]}}
+| [[Nintendo]]
+|-
+| ''[[Professor Layton and the Last Specter]]''
+| {{nts|2.06}}{{nbsp}}million<ref name=":0" />
+| {{dts|November 26, 2009}}
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Mario Hoops 3-on-3]]''
+| {{nts|2.03}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|July 27, 2006}}
+| [[Square Enix]]
+| [[Nintendo]]
+|-
+| ''[[Dragon Quest Monsters: Joker 2]]''
+| {{nts|2}}{{nbsp}}million<ref name=":0" />
+| {{dts|April 28, 2010}}
+| [[Tose (company)|Tose]]
+| {{vgrelease|JP|[[Square Enix]]|WW|[[Nintendo]]}}
+|-
+| ''[[Dragon Quest Monsters: Joker]]''
+| {{nts|1.9}}{{nbsp}}million<ref name=":0" />
+| {{dts|December 28, 2006}}
+| [[Tose (company)|Tose]]
+| [[Square Enix]]
+|-
+| ''[[Mario & Luigi: Partners in Time]]''
+| {{nts|1.73}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 28, 2005}}
+| [[AlphaDream]]
+| [[Nintendo]]
+|-
+| ''[[Super Princess Peach]]''
+| {{nts|1.7}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|October 20, 2005}}
+| [[Tose (company)|Tose]]
+| [[Nintendo]]
+|-
+| ''[[Dragon Quest V|Dragon Quest V: Hand of the Heavenly Bride]]''
+| {{nts|1.7}}{{nbsp}}million<ref name=":0" />
+| {{dts|July 17, 2008}}
+| [[ArtePiazza]]
+| [[Square Enix]]
+|-
+| ''[[Dragon Quest VI|Dragon Quest VI: Realms of Revelation]]''
+| {{nts|1.7}}{{nbsp}}million<ref name=":0" />
+| {{dts|January 28, 2010}}
+| [[ArtePiazza]]
+| [[Nintendo]]
+|-
+| ''[[Kingdom Hearts 358/2 Days]]''
+| {{nts|1.7}}{{nbsp}}million<ref name=":0" />
+| {{dts|May 30, 2009}}
+| [[h.a.n.d.]]
+| [[Square Enix]]
+|-
+| ''[[List of Touch! Generations titles|Common Sense Training]]''
+| {{nts|1.68}}{{nbsp}}million<ref name=":0">{{Cite book |title=2023CESAゲーム白書 (2023 CESA Games White Papers) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|October 26, 2006}}
+| [[HAL Laboratory]]
+| [[Nintendo]]
+|-
+| ''[[Dragon Quest IV|Dragon Quest IV: Chapters of the Chosen]]''
+| {{nts|1.6}}{{nbsp}}million<ref name=":0" />
+| {{dts|November 22, 2007}}
+| [[ChunSoft]]
+| [[Enix]]
+|-
+| ''[[Sonic Rush]]''
+| {{nts|1.6}}{{nbsp}}million<ref>{{Cite book |title=2008CESAゲーム白書 (2008 CESA Games White Papers) |publisher=[[Computer Entertainment Supplier's Association]] |year=2008 |isbn=978-4902346176}}</ref>
+| {{dts|November 15, 2005}}
+| {{hlist|[[Dimps]]|[[Sonic Team]]}}
+| [[Sega]]
+|-
+| ''[[Diddy Kong Racing DS]]''
+| {{nts|1.59}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|February 5, 2007}}
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+|-
+| ''[[Pokémon Ranger: Guardian Signs]]''
+| {{nts|1.53}}{{nbsp}}million<ref name=":0" />
+| {{dts|March 6, 2010}}
+| [[Creatures Inc.]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Mario vs. Donkey Kong 2: March of the Minis]]''
+| {{nts|1.52}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|September 25, 2006}}
+| [[Nintendo Software Technology]]
+| [[Nintendo]]
+|-
+| ''[[Pokémon Mystery Dungeon: Explorers of Sky]]''
+| {{nts|1.49}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|April 18, 2009}}
+| [[Chunsoft]]
+| [[Nintendo]]
+|-
+| ''[[Tamagotchi Connection: Corner Shop]]''
+| {{nts|1.48}}{{nbsp}}million<ref name="magicboxjapan">{{cite web|url=http://www.the-magicbox.com/topten2.htm |title=Japan Platinum Game Chart |publisher=The Magic Box |access-date=2008-05-22 |url-status=dead |archive-url=https://web.archive.org/web/20220131225255/http://www.the-magicbox.com/Chart-JPPlatinum.shtml |archive-date=2022-01-31 }}</ref><ref name=":0" />
+| {{dts|September 15, 2005}}
+| [[NanaOn-Sha]]
+| [[Bandai]]
+|-
+| ''[[Guitar Hero: On Tour (series)|Guitar Hero: On Tour]]''
+| {{nts|1.4}}{{nbsp}}million{{efn|''Guitar Hero: On Tour'' sales breakdown:
+* France {{ndash}} 100,000<ref>{{Cite web|url=http://www.jeuxvideo.com/news/2009/00032404-600-000-guitar-hero-en-france.htm|language=fr|title=600 000 Guitar Hero en France|publisher=JeuxVideo.com|date=2009-03-03|access-date=2009-08-01|archive-date=2016-09-23|archive-url=https://web.archive.org/web/20160923135858/http://www.jeuxvideo.com/news/2009/00032404-600-000-guitar-hero-en-france.htm|url-status=live}}</ref>
+* United Kingdom {{ndash}} 200,000<ref name="elspag">{{cite web|url=http://www.elspa.com/?i=3943 |access-date=2009-08-01 |publisher=[[Entertainment and Leisure Software Publishers Association]] |title=ELSPA Sales Awards: Gold |url-status=dead |archive-url=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3943 |archive-date=2010-06-17 }}</ref>
+* United States {{ndash}} 1.1{{nbsp}}million<ref name="pachter"/>
+}}
+| {{dts|June 22, 2008}}
+| [[Activision]]
+| [[Activision]]
+|-
+| ''[[Hannah Montana video games#2006 game|Hannah Montana]]''
+| {{nts|1.3}}{{nbsp}}million<ref name="pachter">{{cite web|title=How Long are GTA's Legs?|url=http://www.next-gen.biz/features/how-long-are-gtas-legs|archive-url=https://archive.today/20130115041421/http://www.next-gen.biz/features/how-long-are-gtas-legs|url-status=dead|archive-date=2013-01-15|publisher=[[Edge (magazine)|Edge]]|access-date=2009-01-05|date=2008-12-23}}</ref>
+| {{dts|October 10, 2006}}
+| [[DC Studios (video game developer)|DC Studios]]
+| [[Buena Vista Games]]
+|- 
+| ''[[MySims]]''
+| {{nts|1.3}}{{nbsp}}million{{efn|''MySims'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspag"/>
+* United States {{ndash}} 1{{nbsp}}million<ref name="pachter"/>
+}}
+| {{dts|September 18, 2007}}
+| [[Tose (company)|Tose]]
+| [[Electronic Arts]]
+|-
+| ''[[Kirby Mass Attack]]''
+| {{nts|1.22}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|August 4, 2011}}
+| [[HAL Laboratory]]
+| [[Nintendo]]
+|-
+| ''[[High School Musical: Makin' the Cut!]]''
+| {{nts|1.2}}{{nbsp}}million<ref>{{cite web|url=http://www.next-gen.biz/features/top-100-selling-games-last-12-months|title=The Top 100 Selling Games of the Last 12 Months|publisher=[[Next Generation Magazine|Next-Gen.biz]]|date=2008-04-09|access-date=2008-04-10|pages=7|url-status=dead|archive-url=https://web.archive.org/web/20120418225219/http://www.edge-online.com/features/top-100-games-21st-century|archive-date=2012-04-18}}</ref>
+| {{dts|August 14, 2007}}
+| [[Artificial Mind and Movement|A2M]]
+| [[Buena Vista Games]]
+|-
+| ''[[Final Fantasy IV (2007 video game)|Final Fantasy IV]]''
+| {{nts|1.2}}{{nbsp}}million<ref name=":0" />
+| {{dts|December 20, 2007}}
+| [[Matrix Software]]
+| [[Square Enix]]
+|-
+| [[Inazuma Eleven 2|''Inazuma Eleven 2: Firestorm'' and ''Blizzard'']]
+| {{nts|1.18}}{{nbsp}}million<ref name="magicboxjapan"/>
+| {{dts|October 1, 2009}}
+| [[Level-5 (company)|Level-5]]
+| [[Nintendo]]
+|-
+| ''[[Love and Berry: Dress Up and Dance!|Love and Berry DS Collection]]''
+| {{nts|1.12}}{{nbsp}}million<ref>{{cite web|url=http://www.segasammy.co.jp/english/ir/library/pdf/200703_4qe_pre.pdf#page=14|title=Fiscal Year Ended March 2007 Full Year Results|date=2007-05-14|pages=14–15|access-date=2008-01-08|publisher=[[Sega Sammy Holdings]]|format=PDF}} {{Dead link|date=November 2010|bot=H3llBot}}</ref>
+| {{dts|November 22, 2006}}
+| [[Sega]]
+| [[Sega]]
+|-
+| ''[[Chrono Trigger]]''
+| {{nts|1.10}}{{nbsp}}million<ref name="cesa-2018">{{cite book |title=2018CESAゲーム白書 (2018 CESA Games White Paper)|publisher=[[Computer Entertainment Supplier's Association]]|year=2018|isbn=978-4-902346-38-1}}</ref>
+| {{dts|November 20, 2008}}
+| [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[Tamagotchi Connection: Corner Shop 2]]''
+| {{nts|1.09}}{{nbsp}}million<ref name=":0" />
+| {{dts|July 27, 2006}}
+| [[Dimps]]
+|[[Namco Bandai Games]]
+|-
+| ''[[Metroid Prime Hunters]]''
+| {{nts|1.08}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|June 1, 2006}}
+| [[Nintendo Software Technology]]
+| [[Nintendo]]
+|-
+| ''[[Final Fantasy XII: Revenant Wings]]''
+| {{nts|1.04}}{{nbsp}}million{{efn|''Final Fantasy XII: Revenant Wings'' sales breakdown:
+* Europe {{ndash}} 280,000<ref name="20080523en">{{cite web|url=http://www.square-enix.com/jp/ir/e/data/financial/download/20080523en_34.pdf#page=3|title=Consolidated Financial Results for Fiscal Year Ended March 31, 2008|date=2008-05-23|publisher=[[Square Enix]]|format=PDF|pages=3|access-date=2008-05-24|archive-date=2008-11-14|archive-url=https://web.archive.org/web/20081114090703/http://www.square-enix.com/jp/ir/e/data/financial/download/20080523en_34.pdf#page=3|url-status=live}}</ref>
+* Japan {{ndash}} 540,000<ref name="20080523en"/>
+* North America {{ndash}} 220,000<ref name="20080523en"/>
+}}
+| {{dts|April 26, 2007}}
+| [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[Drawn to Life]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web|url=http://omgnintendo.blogfaction.com/article/103117/5th-cells-jeremiah-slaczka-on-drawn-to-life-sales-upcoming-5th-cell-titles/ |title=Jeremiah Slaczka on Drawn to Life Sales |date=2008-10-03 |access-date=2009-02-22 |publisher=OMGNintendo |author=Alicia Ashby |url-status=dead |archive-url=https://web.archive.org/web/20090304030117/http://omgnintendo.blogfaction.com/article/103117/5th-cells-jeremiah-slaczka-on-drawn-to-life-sales-upcoming-5th-cell-titles/ |archive-date=2009-03-04 }}</ref>
+| {{dts|September 10, 2007}}
+| [[5th Cell]]
+| [[THQ]]
+|-
+| ''[[Scribblenauts (video game)|Scribblenauts]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web|url=http://www.gamasutra.com/view/news/27085/5th_Cells_Scribblenauts_Sells_In_1_Million_Units_Worldwide.php|title=5th Cell's Scribblenauts Sells In 1 Million Units Worldwide|date=2010-02-03|access-date=2010-02-03|author=Kris Graft|publisher=[[Gamasutra]]|archive-date=2019-02-03|archive-url=https://web.archive.org/web/20190203053249/http://www.gamasutra.com/view/news/27085/5th_Cells_Scribblenauts_Sells_In_1_Million_Units_Worldwide.php|url-status=dead}}</ref>
+| {{dts|September 15, 2009}}<ref name="Scribblenauts"/>
+| [[5th Cell]]<ref name="Scribblenauts"/>
+| [[Warner Bros. Interactive Entertainment]]<ref name="Scribblenauts">{{cite web |url=https://www.ign.com/articles/2009/05/01/scribblenauts-gets-a-publisher |title=Scribblenauts Gets a Publisher |work=[[IGN]] |last=Bozon |first=Mark |date=May 1, 2009 |accessdate=November 24, 2024}}</ref>
+|-
+| ''[[Spectrobes (video game)|Spectrobes]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web|url=http://www.gamasutra.com/php-bin/news_index.php?story=17928|title=Disney Announces Spectrobes DS Sequel|date=2008-03-19|access-date=2008-03-19|publisher=[[Gamasutra]]|first=David|last=Jenkins|archive-date=2019-02-03|archive-url=https://web.archive.org/web/20190203054451/http://www.gamasutra.com/php-bin/news_index.php?story=17928|url-status=dead}}</ref>
+| {{dts|March 6, 2007}}<ref name="Spectrobes">{{cite web |url=https://www.nintendolife.com/games/ds/spectrobes |title=Spectrobes |work=[[Nintendo Life]] |accessdate=November 24, 2024}}</ref>
+| [[Jupiter Corporation]]<ref name="Spectrobes"/>
+| [[Disney Interactive Studios]]<ref name="Spectrobes"/>
+|-
+| ''[[Pony Friends]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |url=https://www.gamedeveloper.com/business/australian-developer-tantalus-turns-twenty |title=Australian Developer Tantalus Turns Twenty |website=[[Game Developer (website)|Game Developer]] |last=Crago |first=Tom |date=October 22, 2014 |access-date=June 6, 2025 |archive-url=https://archive.today/20250606201414/https://www.gamedeveloper.com/business/australian-developer-tantalus-turns-twenty |archive-date=June 6, 2025}}</ref>
+| {{dts|May 18, 2007}}
+| [[Tantalus Media]]
+| [[Eidos Interactive]]
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nintendo.co.jp/ir/en/finance/software/ds.html Nintendo IR Information - Nintendo DS Software]
+
+{{vgbestsellers}}
+{{Nintendo DS}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Nintendo DS video games}}
+[[Category:Lists of Nintendo DS games|Best-selling]]
+[[Category:Lists of best-selling Nintendo video games|Nintendo DS]]

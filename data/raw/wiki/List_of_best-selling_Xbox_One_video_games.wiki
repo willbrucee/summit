@@ -1,0 +1,273 @@
+{{Short description|None}}
+{{Video games}}
+{{Dynamic list}}
+[[File:Microsoft-Xbox-One-X-Console-Set.jpg|thumb|[[Xbox One X]] console with [[Xbox Wireless Controller|its controller]]]]
+
+This is a list of video games for the [[Xbox One]] [[video game console]] that have sold or shipped at least one million copies worldwide.
+{{clear}}
+
+==List==
+{{srn}}
+<!-- DO NOT ADD NUMBERS FROM VGCHARTZ OR STATISTA. THEY ARE ESTIMATES NOT TO BE USED HERE.-->
+{| class="wikitable plainrowheaders sortable static-row-numbers"
+|+ List of best-selling Xbox One video games
+!scope="col" | Game
+!scope="col" | Copies sold
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Genre(s)
+!scope="col" | Developer(s)
+!scope="col" | Publisher(s)
+|-
+|''[[Grand Theft Auto V]]''
+| {{nts|10.98}}{{nbsp}}million{{efn|Of the 90 million total units sold by April 2018, 12.2% of that total were for the Xbox One version.<ref>{{Cite web |last=Cherney |first=Max A. |title=This violent videogame has made more money than any movie ever |url=https://www.marketwatch.com/story/this-violent-videogame-has-made-more-money-than-any-movie-ever-2018-04-06 |access-date=2022-06-14 |website=[[MarketWatch]] |language=EN-US |archive-date=2018-04-07 |archive-url=https://web.archive.org/web/20180407133735/https://www.marketwatch.com/story/this-violent-videogame-has-made-more-money-than-any-movie-ever-2018-04-06 |url-status=live }}</ref>}}
+| {{dts|November 18, 2014}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North]]
+| [[Rockstar Games]]
+|-
+| ''[[Forza Horizon 4]]''
+| {{nts|10}}{{nbsp}}million<ref>{{cite web |last1=Rardin |first1=Devin |title=Xbox One: The 10 Fast-Selling Exclusives (& How Much They Sold |date=July 19, 2020 |url=https://www.thegamer.com/xbox-one-fastest-selling-exclusives-sales/ |website=The Gamer |publisher=www.thegeamer.com |access-date=20 July 2021}}</ref>{{efn|Combined sales on Xbox One and PC.}}
+| {{dts|October 2, 2018}}
+| [[Racing]]
+| [[Playground Games]]
+| [[Xbox Game Studios]]
+|-
+|''[[PUBG: Battlegrounds]]''
+| {{nts|9}}{{nbsp}}million<ref>{{Cite web |last=Gordon |first=Rob |date=2018-07-04 |title=PUBG Has Sold 8 Million Copies on Xbox One |url=https://screenrant.com/pubg-8-million-copies-xbox-one/ |access-date=2022-12-08 |website=ScreenRant |language=en-US |archive-date=2020-09-23 |archive-url=https://web.archive.org/web/20200923084851/https://screenrant.com/pubg-8-million-copies-xbox-one/ |url-status=live }}</ref>
+| {{dts|September 4, 2018}}
+|[[Battle royale game|Battle royale]]
+|[[PUBG Studios]]
+|[[Krafton]]
+|-
+| ''[[Call of Duty: Black Ops III]]''
+| {{nts|7.37}}{{nbsp}}million<ref name="thegamer">{{Cite web | title=Black Ops III Was The Best-Selling Call Of Duty On Consoles | url=https://www.thegamer.com/call-of-duty-black-ops-iii-best-selling/ | archive-url=https://web.archive.org/web/20220620182708/https://www.thegamer.com/call-of-duty-black-ops-iii-best-selling/ | access-date=2026-08-03 | archive-date=2022-06-20}}</ref>
+| {{dts|November 6, 2015}}
+| [[First-person shooter]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Call of Duty: WWII]]''
+| {{nts|6.23}}{{nbsp}}million<ref name="thegamer" />
+| {{dts|November 3, 2017}}
+| [[First-person shooter]]
+| [[Sledgehammer Games]]
+| [[Activision]]
+|-
+| ''[[Call of Duty: Advanced Warfare]]''
+| {{nts|5.22}}{{nbsp}}million<ref name="thegamer" />
+| {{dts|November 4, 2014}}
+| [[First-person shooter]]
+| [[Sledgehammer Games]]
+| [[Activision]]
+|-
+| ''[[Halo 5: Guardians]]''
+| {{nts|5}}{{nbsp}}million<ref>{{Cite web |title=Halo 5 Sold Five Million Copies in Three Months |url=https://gamingbolt.com/halo-5-sold-five-million-copies-in-three-months |access-date=2023-01-11 |website=GamingBolt |language=en-US |archive-date=2019-05-11 |archive-url=https://web.archive.org/web/20190511005156/https://gamingbolt.com/halo-5-sold-five-million-copies-in-three-months |url-status=live }}</ref>
+| {{dts|October 27, 2015}}
+| [[First-person shooter]]
+| [[343 Industries]]
+| [[Xbox Game Studios]]
+|-
+| ''[[Call of Duty: Infinite Warfare]]''
+| {{nts|4.79}}{{nbsp}}million<ref name="thegamer" />
+| {{dts|November 4, 2016}}
+| [[First-person shooter]]
+| [[Infinity Ward]]
+| [[Activision]]
+|-
+| ''[[The Witcher 3: Wild Hunt]]''
+| {{nts|4.3}}{{nbsp}}million<ref>{{Cite web|date=April 17, 2020|title=Witcher 3's Sales By System--How The Game Has Sold On PC, PS4, Xbox One, And Switch|url=https://www.gamespot.com/articles/witcher-3s-sales-by-system-how-the-game-has-sold-o/1100-6475832/|website=[[GameSpot]]|access-date=October 18, 2020|archive-date=September 23, 2020|archive-url=https://web.archive.org/web/20200923110415/https://www.gamespot.com/articles/witcher-3s-sales-by-system-how-the-game-has-sold-o/1100-6475832/|url-status=live}}</ref>
+| {{dts|May 19, 2015}}
+| [[Action role-playing game|Action role-playing]]
+| [[CD Projekt Red]]
+| [[CD Projekt]]
+|-
+| ''[[Dead Rising 3]]''
+| {{nts|4.1}}{{nbsp}}million<ref name="CapcomPlat">{{Cite web |date=2024-12-31 |title=Platinum Titles {{!}}Product Data {{!}} CAPCOM |url=https://www.capcom.co.jp/ir/english/business/million.html#tab2 |access-date=2025-05-09 |website=www.capcom.co.jp |language=en-US}}</ref>
+| {{dts|November 22, 2013}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[survival horror]]}}
+| [[Capcom Vancouver]]
+| [[Xbox Game Studios]]
+|-
+| ''[[Minecraft Legacy console editions|Minecraft: Xbox One Edition]]'' 
+| {{nts|3.72}}{{nbsp}}million<ref>{{Cite web |title=MineCraft for Xbox One |url=https://www.vgchartz.com/games/report.php?id=73065&commentid=461168 |archive-url=https://web.archive.org/web/20251203001450/https://www.vgchartz.com/games/report.php?id=73065&commentid=461168 |archive-date=2025-12-03 |access-date=2026-09-11 |website=VGChartz |language=en-US}}</ref>
+| {{dts|November 18, 2014}}
+| {{hlist|[[Sandbox game|Sandbox]]|[[Survival game|survival]]}}
+| [[4J Studios]]
+| [[Xbox Game Studios]]
+|-
+| ''[[Star Wars Battlefront (2015 video game)|Star Wars Battlefront]]'' 
+| {{nts|3.66}}{{nbsp}}million<ref>{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref>
+| {{dts|November 17, 2015}}
+| {{hlist|[[First-person shooter]]|[[third-person shooter]]}}
+| [[EA DICE]]
+| [[Electronic Arts]]
+|-
+|''[[Cyberpunk 2077]]''
+| {{nts|3.2}}{{nbsp}}million<ref>{{Cite web |date=2022-04-26 |title=Cyberpunk 2077 game sales updated by CD Projekt RED |url=https://www.tweaktown.com/news/85831/cyberpunk-2077-game-sales-updated-by-cd-projekt-red/index.html |access-date=2025-05-09 |website=TweakTown |language=en-US}}</ref> 
+|December 10, 2020
+|[[Action role-playing game|Action role-playing]]
+|[[CD Projekt RED|CD Projekt Red]]
+|[[CD Projekt]]
+|-
+| ''[[Cuphead]]''
+| {{nts|3.00}}{{nbsp}}million<ref>{{cite web|url=http://studiomdhr.com/cuphead-goes-triple-platinum/|title=Cuphead Goes Triple Platinum!|date=2018-08-09|website=Studio MDHR|language=en-US|access-date=2019-09-06|archive-date=2020-12-25|archive-url=https://web.archive.org/web/20201225011547/http://studiomdhr.com/cuphead-goes-triple-platinum/|url-status=live}}</ref>{{efn|Combined sales on Xbox One and PC.}}
+| {{dts|September 29, 2017}}
+| [[Shoot 'em up#Run and gun|Run and gun]]
+| StudioMDHR
+| StudioMDHR
+|-
+| ''[[Forza Horizon 3]]''
+| {{nts|2.5}}{{nbsp}}million<ref>{{Cite web|url=https://www.polygon.com/2017/2/13/14599082/forza-horizon-3-sales|title=Forza Horizon 3 hits 2.5M copies sold, pushing Forza series above $1B (update)|date=2017-02-13|website=Polygon|access-date=2017-05-15}}</ref>{{efn|Combined sales on Xbox One and PC.}}
+| {{dts|27 September 2016}}
+| [[Racing video game|Racing]]
+| [[Playground Games]]
+| [[Microsoft Studios]]
+|-
+| ''[[Dragon Ball Xenoverse 2]]''
+| {{nts|2.06}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|October 25, 2016}}
+| [[Fighting game|Fighting]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Forza Motorsport 5]]''
+| {{nts|2}}{{nbsp}}million<ref name="GTPlanet">{{cite news|url=https://www.gtplanet.net/forza-motorsport-6-sells-over-1-million-copies-2/|title=Forza Motorsport 6 Sells Over 1 Million Copies|date=2016-01-05|work=GTPlanet|access-date=2018-08-02|language=en-US|archive-date=2020-11-29|archive-url=https://web.archive.org/web/20201129202646/https://www.gtplanet.net/forza-motorsport-6-sells-over-1-million-copies-2/|url-status=live}}</ref>
+| {{dts|November 22, 2013}}
+| [[Racing video game|Racing]]
+| [[Turn 10 Studios]]
+| [[Xbox Game Studios]]
+|-
+| ''[[Dark Souls III]]''
+| {{nts|1.9}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|March 24, 2016}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[Sunset Overdrive]]''
+| {{nts|1.9}}{{nbsp}}million<ref>{{Cite web | title=Insomniac Games Has Made Just $567 off Sunset Overdrive | url=https://gamingbolt.com/insomniac-games-has-made-just-567-off-sunset-overdrive | access-date=2026-08-03 | website=gamingbolt.com}}</ref>
+| {{dts|October 28, 2014}}
+| [[Action-adventure game|Action-adventure]]
+| [[Insomniac Games]]
+| [[Xbox Game Studios]]
+|-
+|[[Monster Hunter: World|''Monster Hunter World'']]
+| {{nts|1.78}}{{nbsp}}million<ref>{{Cite web|last=Parijat|first=Shubhankar|date=30 November 2020|title=Monster Hunter World on PC Outselling the PS4 Version Outside of Japan, as Per Leaked Sales Figures|url=https://gamingbolt.com/monster-hunter-world-on-pc-outselling-the-ps4-version-outside-of-japan-as-per-leaked-sales-figures|access-date=30 May 2021|website=GamingBolt|archive-date=27 February 2021|archive-url=https://web.archive.org/web/20210227122642/https://gamingbolt.com/monster-hunter-world-on-pc-outselling-the-ps4-version-outside-of-japan-as-per-leaked-sales-figures|url-status=live}}</ref>
+| {{dts|January 26, 2018}}
+|[[Action role-playing game|Action role-playing]]
+|[[Capcom]]
+|[[Capcom]]
+|-
+|''[[Dead Rising 4]]''
+| {{nts|1.7}}{{nbsp}}million<ref>{{Cite web |date=2024-12-31 |title=Platinum Titles {{!}}Product Data {{!}} CAPCOM |url=https://www.capcom.co.jp/ir/english/business/million.html#tab5 |access-date=2025-05-09 |website=www.capcom.co.jp |language=en-US}}</ref>{{Efn|Combined sales on Xbox One and PC.}}
+| {{dts|December 6, 2016}}
+|[[Action-adventure game|Action-adventure]] · [[hack and slash]] 
+|[[Capcom Vancouver]]
+|[[Microsoft Game Studios]]
+|-
+| ''[[Dragon Ball FighterZ]]''
+| {{nts|1.56}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|January 26, 2018}}
+| [[Fighting game|Fighting]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Ark: Survival Evolved]]''
+| {{nts|1.5}}{{nbsp}}million<ref>{{cite news |url=https://venturebeat.com/2017/02/16/ark-survival-evolved-hits-1-million-copies-sold-on-ps4-7-million-on-all-platforms/ |title=Ark: Survival Evolved hits 1 million copies sold on PS4; 7 million on all platforms |date=February 17, 2017 |work=[[VentureBeat]] |access-date=August 2, 2018 |language=en-US |archive-date=March 2, 2021 |archive-url=https://web.archive.org/web/20210302021930/https://venturebeat.com/2017/02/16/ark-survival-evolved-hits-1-million-copies-sold-on-ps4-7-million-on-all-platforms/ |url-status=live }}</ref>
+| {{dts|August 29, 2017}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[survival game|survival]]}}
+| [[Studio Wildcard]]
+| [[Studio Wildcard]]
+|-
+| ''[[Jump Force]]''
+| {{nts|1.27}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|February 14, 2019}}
+| [[Fighting game|Fighting]]
+| [[Spike Chunsoft]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Dark Souls II: Scholar of the First Sin]]''
+| {{nts|1.25}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|April 2, 2015}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[Dragon Ball Z: Kakarot]]'' 
+| {{nts|1.17}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|January 16, 2020}}
+| {{hlist|[[Action role-playing]]|[[Fighting game|Fighting]]}}
+| [[CyberConnect2]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Tekken 7]]''
+| {{nts|1.13}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|June 2, 2017}}
+| [[Fighting game|Fighting]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+|''[[Ryse: Son of Rome]]''
+| {{nts|1.28}}{{nbsp}}million<ref>{{Cite web|last=Khan|first=Haider|date=January 9, 2016|title=Xbox One Vs. PS4 – Comparing Exclusives That Have Sold Over 1 Million Copies So Far|url=https://segmentnext.com/xbox-one-vs-ps4-comparing-exclusives-that-have-sold-over-1-million-copies-so-far/|url-status=live|access-date=November 3, 2021|website=SegmentNext|archive-date=April 12, 2022|archive-url=https://web.archive.org/web/20220412004023/https://segmentnext.com/xbox-one-vs-ps4-comparing-exclusives-that-have-sold-over-1-million-copies-so-far/}}</ref> 
+| {{dts|November 22, 2013}}
+|[[Action-adventure game|Action-adventure]] · [[hack and slash]] 
+|[[Crytek]]
+|[[Xbox Game Studios]]
+|-
+| ''[[Dragon Ball Xenoverse]]''
+| {{nts|1.11}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|February 5, 2015}}
+| [[Fighting game|Fighting]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Naruto to Boruto: Shinobi Striker]]''
+| {{nts|1.05}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|August 31, 2018}}
+| {{hlist|[[Action game|Action]]|[[Fighting game|Fighting]]}}
+| Soliel Ltd.
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[FIFA 16]]''
+| {{nts|1.}}{{nbsp}}million<ref name="gamesindustry">{{Cite web | title=Here is every boxed game to sell over 1m copies in the UK {{!}} GamesIndustry.biz | url=https://www.gamesindustry.biz/every-game-to-sell-over-1m-copies-in-the-uk | access-date=2026-08-03 | website=www.gamesindustry.biz}}</ref>
+| {{dts|September 22, 2015}}
+| [[Sports game|Sports]]
+| [[Electronic Arts]]
+| [[Electronic Arts]]
+|-
+| ''[[FIFA 17]]''
+| {{nts|1.}}{{nbsp}}million<ref name="gamesindustry" />
+| {{dts|September 27, 2016}}
+| [[Sports game|Sports]]
+| [[Electronic Arts]]
+| [[Electronic Arts]]
+|-
+| ''[[Forza Motorsport 6]]''
+| {{nts|1}}{{nbsp}}million<ref name="GTPlanet" />
+| {{dts|September 15, 2015}}
+| [[Racing video game|Racing]]
+| [[Turn 10 Studios]]
+| [[Microsoft Studios]]
+|-
+| ''[[Rise of the Tomb Raider]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite news |url=https://gamerant.com/rise-of-the-tomb-raider-xbox-one-sales-1-million/ |title=Rise of the Tomb Raider Sells Over 1 Million Copies |last=Sledge |first=Kyle |work=Game Rant |date=January 4, 2016 |access-date=August 2, 2018 |language=en-US |archive-date=May 11, 2019 |archive-url=https://web.archive.org/web/20190511005148/https://gamerant.com/rise-of-the-tomb-raider-xbox-one-sales-1-million/ |url-status=live }}</ref>
+| {{dts|November 10, 2015}}
+| [[Action-adventure game|Action-adventure]]
+| [[Crystal Dynamics]]
+| [[Xbox Game Studios]]
+|}
+
+==Notes==
+{{noteslist}}
+
+==References==
+{{reflist}}
+
+{{vgbestsellers}}
+{{Xbox}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Xbox One video games}}
+[[Category:Xbox One games| ]]
+[[Category:Lists of best-selling video games|Xbox One]]
+[[Category:Lists of Xbox games]]

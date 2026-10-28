@@ -38,6 +38,9 @@ const check = (ok, what) => { if (!ok) fail.push(what); console.log(`${ok ? 'pas
   const { promptsForDate, dateKey } = await import('../js/daily.js');
   const schedule = await (await page.request.get(BASE + 'data/schedule.json')).json();
   const ids = promptsForDate(dateKey(), schedule, index).map((x) => x.id);
+  // Today may use prompts retired from the bank since it was published; their files stay.
+  for (const k of ids) if (!all.some((x) => x.key === k)) all.push(await (await page.request.get(BASE + `data/p/${k}.json`)).json());
+  requested.length = 0;
 
   // The detector itself must notice a leak, or the passes below mean nothing.
   check(leaks(`intro <h1>${all[0].text}</h1>`.toLowerCase(), all[0]), 'leak detector spots a prompt placed in the page');

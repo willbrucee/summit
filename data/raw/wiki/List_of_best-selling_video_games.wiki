@@ -1,0 +1,556 @@
+{{Short description|none}}
+{{pp-move}}
+{{protection padlock|small=yes}}
+{{Use mdy dates|date=September 2026}}
+{{Dynamic list}}
+{{Video games}}
+{{Multiple image
+| total_width       = 295
+| image1            = Alexey Pajitnov January 2008 cropped.jpg
+| image2            = GDC 2016 awards 16-20 42 56-01-7D2 0739 (cropped).jpg
+| footer            = [[Alexey Pajitnov]] (left) and [[Markus Persson]] (right), creators of ''[[Tetris]]'' and ''[[Minecraft]]'', respectively. Critics have debated which of these games should be classified as the best-selling video game, mainly due to definitional disputes surrounding ''Tetris''.<ref>{{cite web |url=https://www.pcgamer.com/minecraft-has-sold-176-million-copies-may-be-the-best-selling-game-ever/ |title=''Minecraft'' has sold 176 million copies, may be the best-selling game ever |first=Jody |last=Macgregor |website=[[PC Gamer]] |date=May 19, 2019 |access-date=November 8, 2019 |archive-date=August 16, 2025 |archive-url=https://web.archive.org/web/20250816200135/https://www.pcgamer.com/minecraft-has-sold-176-million-copies-may-be-the-best-selling-game-ever/ |url-status=live}}</ref><ref name="thebbc" /><ref name="gwr" />}}
+
+This is a list of the best-selling [[video games]] worldwide, ranked up to 50th place by reported [[software]] unit sales. Reliable sources are split as to whether the title of best-selling video game should belong to ''[[Tetris]]'', a 1988 multi-platform [[puzzle video game]] created by [[Alexey Pajitnov]], or to ''[[Minecraft]]'', a 2011 multi-platform [[sandbox game]] created by [[Markus Persson]] and developed by [[Mojang Studios]]. Some sources consider ''Tetris'' to be the best-selling video game by combining the sales of all of its different versions, totaling 520 million as of 2022, while others consider the best-selling video game to be ''Minecraft'', which has sold over 425 million copies as of 2026, rejecting the aggregation of each ''Tetris'' release.{{Efn|name=Dispute|''Tetris'' is considered the best-selling video game by ''[[Encyclopædia Britannica]]'',<ref>{{Cite news |title=''Minecraft'' {{!}} Popularity, Game Modes, & Creator |url=https://www.britannica.com/topic/Minecraft-electronic-game |archive-url=https://web.archive.org/web/20251004185037/https://www.britannica.com/topic/Minecraft-electronic-game |archive-date=October 4, 2025 |date=February 16, 2026 |access-date=December 5, 2025 |work=[[Encyclopedia Britannica]] |language=en |url-status=live }}</ref> ''[[Forbes]]'',<ref>{{Cite news |last=Nguyen |first=Britney |title=''Minecraft'' Just Surpassed 300 Million Sales—Here's The Only Video Game Still Beating It |url=https://www.forbes.com/sites/britneynguyen/2023/10/16/minecraft-just-surpassed-300-million-sales-heres-the-only-video-game-still-beating-it/ |date=October 16, 2023 |access-date=December 5, 2025 |work=[[Forbes]] |language=en |archive-date=August 26, 2024 |archive-url=https://web.archive.org/web/20240826003655/https://www.forbes.com/sites/britneynguyen/2023/10/16/minecraft-just-surpassed-300-million-sales-heres-the-only-video-game-still-beating-it/ |url-status=live}}</ref> ''[[GameSpot]]'',<ref>{{cite web|last=Makuch|first=Eddie|date=May 22, 2026|title=Top 10 Best-Selling Video Games Of All Time|url=https://www.gamespot.com/gallery/top-10-best-selling-video-games-of-all-time/2900-4814/|archive-url=https://web.archive.org/web/20260509020917/https://www.gamespot.com/gallery/top-10-best-selling-video-games-of-all-time/2900-4814/|archive-date=May 9, 2026|website=[[GameSpot]]|access-date=May 25, 2026}}</ref> ''[[IGN]]'',<ref>{{Cite news |last=Sirani |first=Jordan |date=February 18, 2025 |title=The 10 Best-Selling Video Games of All Time|url=https://www.ign.com/articles/best-selling-video-games-of-all-time-grand-theft-auto-minecraft-tetris |archive-url=https://web.archive.org/web/20250724195624/https://www.ign.com/articles/best-selling-video-games-of-all-time-grand-theft-auto-minecraft-tetris |archive-date=July 24, 2025 |url-status=live |access-date=December 5, 2025 |work=[[IGN]] |language=en}}</ref> and ''[[Kotaku]]''.<ref>{{cite web|last=Valentine|first=Rebekah|date=May 21, 2026|title=''Judas'' And New ''BioShock'' Still MIA As ''Red Dead Redemption 2'' Has Its Best Year Since Launch|url=https://kotaku.com/dont-expect-judas-new-bioshock-4-this-year-2000698372|archive-url=https://web.archive.org/web/20260521212627/https://kotaku.com/dont-expect-judas-new-bioshock-4-this-year-2000698372|archive-date=May 21, 2026|website=[[Kotaku]]|access-date=May 25, 2026}}</ref>{{pb}}''Minecraft'' is considered the best-selling video game by the [[BBC]],<ref name="thebbc">{{Cite web |last=Gerken |first=Tom |date=October 16, 2023 |title=''Minecraft'' becomes first video game to hit 300&nbsp;m sales |url=https://www.bbc.com/news/technology-67105983 |access-date=December 5, 2025 |website=[[BBC]] |language=en-GB |archive-date=August 23, 2024 |archive-url=https://web.archive.org/web/20240823203213/https://www.bbc.com/news/technology-67105983 |url-status=live}}</ref> ''[[GamesRadar+]]'',<ref>{{Cite web |last=Fillari |first=Alessandro |date=October 16, 2023 |title=''Minecraft'' is now the first video game to sell over 300 million copies |url=https://www.gamesradar.com/minecraft-is-now-the-first-video-game-to-sell-over-300-million-copies/ |access-date=December 5, 2025 |website=[[GamesRadar+]] |language=en |archive-date=January 12, 2026 |archive-url=https://web.archive.org/web/20260112110957/https://www.gamesradar.com/minecraft-is-now-the-first-video-game-to-sell-over-300-million-copies/ |url-status=live}}</ref> ''[[Gamereactor]]'',<ref>{{cite web|last=Mäki|first=Jonas|title=''Red Dead Redemption 2'' is now the third best selling video game of all-time|date=May 22, 2026|url=https://www.gamereactor.eu/red-dead-redemption-2-is-now-the-third-best-selling-video-game-of-all-time-1722413/|archive-url=https://web.archive.org/web/20260525225051/https://www.gamereactor.eu/red-dead-redemption-2-is-now-the-third-best-selling-video-game-of-all-time-1722413/|archive-date=May 25, 2026|access-date=May 25, 2026|website=[[Gamereactor]]}}</ref> and ''[[Guinness World Records]]''.<ref name="gwr">{{Cite web |title=Best-selling videogame |url=https://www.guinnessworldrecords.com/world-records/best-selling-video-game |archive-url=https://web.archive.org/web/20250115140544/https://www.guinnessworldrecords.com/world-records/best-selling-video-game |archive-date=January 15, 2025 |url-status=live |date=April 2025 |access-date=December 5, 2025 |website=[[Guinness World Records]] |language=en-GB}}</ref>{{pb}}Due to the split among reliable sources, both games are listed in the number-one spot on this list.}} The closest competitor to either is ''[[Grand Theft Auto V]]'', which has sold 230&nbsp;million copies. The best-selling single-platform game is ''[[Wii Sports]]'', with nearly 83&nbsp;million sales for the [[Wii]] console.{{Efn|name=WiiSports}}
+
+==Criteria==
+The 1998 game ''[[Snake (1998 video game)|Snake]]'' is estimated to have shipped on over 400&nbsp;million devices,<ref>{{cite web |url=https://www.pocketgamer.biz/a-brief-history-of-mobile-games-in-the-beginning-there-was-snake/ |title=A Brief History of Mobile Games: In the beginning, there was Snake |first=Chris |last=Wright |website=[[Pocket Gamer]] |date=March 14, 2016 |access-date=April 26, 2025 |archive-date=June 28, 2024 |archive-url=https://web.archive.org/web/20240628210958/https://www.pocketgamer.biz/a-brief-history-of-mobile-games-in-the-beginning-there-was-snake/ |url-status=live}}</ref> but is not listed as it was preinstalled and freely accessible on [[Nokia]] mobile phones.
+
+For this list, standard re-releases, [[remaster#Video games|remasters]] and enhanced versions of games are considered iterative updates to the original, thus their sales are combined. In contrast, [[video game remake|remakes]] generally contain significant deviations from the original and are considered separate products.<ref>{{cite web |url=https://www.techradar.com/news/game-remakes-vs-remasters-whats-the-difference |title=Game remakes vs remasters: what's the difference? |first=Phil |last=Hayton |website=[[TechRadar]] |date=January 24, 2020 |access-date=May 10, 2025 |archive-date=January 25, 2020 |archive-url=https://web.archive.org/web/20200125165741/https://www.techradar.com/news/game-remakes-vs-remasters-whats-the-difference |url-status=live}}</ref> Likewise, [[expansion pack]]s are not combined with the base game to avoid inflating sales figures. Additionally, titles with unique release structures are classified based on their specific publishing context. Other metrics, such as "players" or "installs", typically refer to active users engaging with the game rather than sales, thus are not listed; even for paid games, these metrics could include free trials or other free promotions and cannot reliably be substituted for sales figures.<ref>{{cite web |url=https://www.gamekult.com/actualite/34-millions-de-pirates-pour-assassin-s-creed-iv-blag-flag-3050856813.html |title=34 millions de pirates pour Assassin's Creed IV : Black Flag |author=Kyujilo |website=Gamekult |language=French |date=October 30, 2023 |access-date=April 26, 2025 |archive-date=October 30, 2023 |archive-url=https://web.archive.org/web/20231030183102/https://www.gamekult.com/actualite/34-millions-de-pirates-pour-assassin-s-creed-iv-blag-flag-3050856813.html |url-status=live}}</ref><ref>{{cite web |url=https://www.gamereactor.eu/dead-by-daylight-hits-mega-60-million-players-milestone-1332753/ |title=Dead by Daylight hits mega 60 million players milestone |first=Ben |last=Lyons |website=[[Gamereactor]] |date=November 29, 2023 |access-date=April 26, 2025 |archive-date=November 29, 2023 |archive-url=https://web.archive.org/web/20231129203717/https://www.gamereactor.eu/dead-by-daylight-hits-mega-60-million-players-milestone-1332753/ |url-status=live}}</ref> Paid bundled titles are also included in this list; their sales often benefit from being packaged with other products, typically at a discounted price.<ref>{{cite web |url=https://www.gamedeveloper.com/business/the-pros-and-cons-of-the-bundle-promotion |title=The Pros and Cons of the Bundle Promotion |website=[[Game Developer (website)|Game Developer]] |first=Ulyana |last=Chernyak |date=November 3, 2014 |access-date=November 11, 2025 |archive-url=https://web.archive.org/web/20210827202619/https://www.gamedeveloper.com/business/the-pros-and-cons-of-the-bundle-promotion |archive-date=August 27, 2021 |url-status=live}}</ref>
+
+==List of best-selling games==
+
+The listed developers and publishers correspond to each game's original release, and release years refer only to the first full public launch, excluding any prerelease stages. Rankings serve solely for numbering purposes and are not meant to be precise, reflecting the list's limited scope because there is no credible, comprehensive sales-tracking source for the video game industry,<ref>{{cite news |url=https://www.theguardian.com/games/2024/apr/03/pushing-buttons-video-game-console-sales |title=Pushing Buttons: When we don't know the true sales figures for consoles, players lose out |first=Keza |last=MacDonald |newspaper=[[The Guardian]] |date=April 3, 2024 |access-date=November 1, 2025 |archive-date=April 3, 2024 |archive-url=https://web.archive.org/web/20240403164334/https://www.theguardian.com/games/2024/apr/03/pushing-buttons-video-game-console-sales |url-status=live}}</ref> unlike for [[list of highest-grossing films|films]], which have box office tracking sites such as ''[[Box Office Mojo]]'' and ''[[The Numbers (website)|The Numbers]]''. Tied ranks are resolved using the [[Ranking#Standard competition ranking ("1224" ranking)|standard competition ranking]] method, in which entries with equal figures share the same rank and following ranks are increased based on the number of tied entries.
+
+{{Sticky header}}
+{|class="wikitable sticky-header sortable plainrowheaders"
+|+{{sronly|Overview of best-selling video games}}
+! scope="col" |Rank
+! scope="col" |Title
+! scope="col" |Sales<br />(millions)
+! scope="col" |Series
+! scope="col" |Platform(s)
+! scope="col" |Release<br />year
+! scope="col" |Developer(s)
+! scope="col" |Publisher(s)
+! scope="col" class="unsortable" |{{Refh}}
+|-
+| rowspan="2" style="text-align: center;" |1{{Efn|name=Dispute}}
+! scope="row" |''[[Tetris]]''
+| style="text-align: center;" |520
+|None
+|Multi-platform
+|1988{{Efn|The release date of the first ''Tetris'' games sold commercially. Earlier games were given out for free.}}
+|Various
+|Various
+| style="text-align: center;" |<ref name=":2">{{Cite web |title=About Tetris® |url=https://tetris.com/about-us |archive-url=https://web.archive.org/web/20221124031912/https://tetris.com/about-us |archive-date=November 24, 2022 |access-date=February 28, 2026 |website=Tetris |language=en}}</ref>
+|-
+! scope="row" |''[[Minecraft]]''
+| style="text-align:center;" |425
+|''[[Minecraft (franchise)|Minecraft]]''
+|Multi-platform
+|2011{{efn|Although ''Minecraft'' was first publicly available on May 17, 2009,<ref>{{cite web |url=http://notch.tumblr.com/post/109000107/minecraft-0-0-11a-for-public-consumption |title=Minecraft 0.0.11a for public consumption : The Word of Notch |last=Persson |first=Markus |author-link=Markus Persson |date=May 17, 2009 |website=[[Tumblr]] |access-date=April 1, 2018 |archive-url=https://web.archive.org/web/20150716115516/http://notch.tumblr.com/post/109000107/minecraft-0-0-11a-for-public-consumption |archive-date=July 16, 2015 |url-status=dead}}</ref> and fully released on November 18, 2011, the game first accepted pre-orders on June 13, 2009, so it started accumulating sales at that time.<ref>{{cite web |last1=Persson |first1=Markus |author-link=Markus Persson |title=Pre-orders are open! |url=https://notch.tumblr.com/post/122648869/pre-orders-are-open |website=The Word of Notch |publisher=[[Tumblr]] |access-date=December 10, 2019 |date=June 13, 2009 |archive-date=December 10, 2019 |archive-url=https://web.archive.org/web/20191210045148/https://notch.tumblr.com/post/122648869/pre-orders-are-open |url-status=dead}}</ref>}}
+|[[Mojang Studios]]
+|[[Mojang Studios]]
+| style="text-align:center;" |<ref>{{Cite web |last=Serin |first=Kaan |date=September 27, 2026 |title=As ''Minecraft'' sells over 425 million copies and attracts 300,000 new players a day, the evergreen sandbox game is getting its first dimension in 14 years |url=https://www.gamesradar.com/games/minecraft/as-minecraft-sells-over-425-million-copies-and-attracts-300-000-new-players-a-day-the-evergreen-sandbox-game-is-getting-its-first-dimension-in-14-years/ |access-date=September 27, 2026 |website=[[GamesRadar+]] |language=en}}</ref>
+|-
+| style="text-align:center;" |2
+!scope=row|''[[Grand Theft Auto V]]''
+| style="text-align:center;" |230
+|''[[Grand Theft Auto]]''
+|Multi-platform
+|2013
+|[[Rockstar North]]
+|[[Rockstar Games]]
+| style="text-align:center;"|<ref name="Take-Two Earnings">{{Cite web |date=August 7, 2026 |title=Investor Presentation – August 2026 |url=https://ir.take2games.com/static-files/bb209a20-c845-4444-86ae-b5330f69dbeb |publisher=[[Take-Two Interactive]] |access-date=August 7, 2026 |format=PDF}}</ref>
+|-
+| style="text-align:center;" |3
+!scope=row|''[[Red Dead Redemption&nbsp;2]]''
+| style="text-align:center;" |87
+|''[[Red Dead]]''
+|Multi-platform
+|2018
+|[[Rockstar Games]]
+|[[Rockstar Games]]
+| style="text-align:center;" |<ref name="Take-Two Earnings" />
+|-
+| style="text-align:center;" |4
+!scope=row|''[[Wii Sports]]''{{hsp}}{{efn|name=WiiSports|''[[Wii Sports]]'' was [[Product bundling|bundled]] with the [[Wii]] console in all regions except Japan.<ref name="WiiSportsBundled">{{cite web |url=http://www.gamespot.com/news/6185358.html |title=Q&A: Nintendo's Satoru Iwata |last=Ogawa |first=Yohei |author2=Randolph Ramsay |author3=Tor Thorsen |publisher=[[GameSpot]] |date=February 5, 2008|access-date=February 5, 2008|archive-date=October 12, 2008|archive-url=https://web.archive.org/web/20081012133858/http://www.gamespot.com/news/6185358.html|url-status=live}}</ref> Nintendo includes those bundles in the overall sales figure.<ref name="WiiSportsBundledSales">{{cite web |last=Whitehead |first=Thomas |url=https://www.nintendolife.com/news/2022/05/reggie-had-to-fight-for-wii-sports-as-a-pack-in-and-miyamoto-wasnt-happy |title=Reggie Had To Fight For Wii Sports As A Pack-In, And Miyamoto Wasn't Happy |date=May 3, 2022|archive-url=https://web.archive.org/web/20220505013557/https://www.nintendolife.com/news/2022/05/reggie-had-to-fight-for-wii-sports-as-a-pack-in-and-miyamoto-wasnt-happy|archive-date=May 5, 2022|url-status=live|access-date=August 17, 2025 |website=[[Nintendo Life]]}}</ref>}}
+| style="text-align:center;" |82.9
+|''[[Wii (video game series)|Wii]]''
+|[[Wii]]
+|2006
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;"|<ref name="nintendowii">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/software/wii.html |title=IR Information: Sales Data – Top Selling Title Sales Units – Wii Software |website=[[Nintendo]] |date=March 31, 2024 |access-date=August 17, 2025 |archive-url=https://web.archive.org/web/20250726160931/https://www.nintendo.co.jp/ir/en/finance/software/wii.html |archive-date=July 26, 2025 |url-status=dead}}</ref>
+|-
+| style="text-align:center;" |5
+! scope="row" |''[[Mario Kart 8]]'' / ''[[Mario Kart 8 Deluxe|Deluxe]]''
+| style="text-align:center;" |79.99
+|''[[Mario Kart]]''
+|[[Wii U]] / [[Nintendo Switch|Switch]]
+|2014
+|[[Nintendo EAD]] / [[Nintendo EPD]] (''Deluxe'')
+|[[Nintendo]]
+| style="text-align:center;" |{{efn|''[[Mario Kart 8]]'' sold {{nowrap|8.46 million}} units<ref name="nintendowiiu">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/software/wiiu.html |title=IR Information: Financial Data – Top Selling Title Sales Units – Wii U Software |website=[[Nintendo]] |date=March 31, 2026 |access-date=May 22, 2026 |url-status=live |archive-date=May 22, 2026 |archive-url=https://web.archive.org/web/20260522122950/https://www.nintendo.co.jp/ir/en/finance/software/wiiu.html}}</ref> and ''[[Mario Kart 8 Deluxe]]'' sold {{nowrap|71.53 million}} units.<ref name="nintendoswitch">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/software/switch.html |title=IR Information: Financial Data – Top Selling Title Sales Units – Nintendo Switch Software |website=[[Nintendo]] |date=June 30, 2026 |access-date=August 6, 2026 |url-status=live |archive-date=August 6, 2026 |archive-url=https://web.archive.org/web/20260806065651/https://www.nintendo.co.jp/ir/en/finance/software/switch.html}}</ref>}}
+|-
+| style="text-align:center;" |6
+!scope=row|''[[PUBG: Battlegrounds]]''
+| style="text-align:center;" |75
+|''[[PUBG Universe]]''
+|Multi-platform
+|2017
+|[[PUBG Studios]]
+|[[Krafton]]
+| style="text-align:center;"|<ref>{{cite web |last=Peters |first=Jay |date=December 9, 2021 |title=The original PUBG is going free-to-play |url=https://www.theverge.com/2021/12/9/22821220/pubg-playerunknowns-battlegrounds-free-to-play-release-date|access-date=February 1, 2022 |website=[[The Verge]] |language=en|archive-date=February 1, 2022|archive-url=https://web.archive.org/web/20220201120543/https://www.theverge.com/2021/12/9/22821220/pubg-playerunknowns-battlegrounds-free-to-play-release-date|url-status=live}}</ref>
+|-
+| style="text-align:center;" |7
+!scope=row|''[[Terraria]]''
+| style="text-align:center;" |70
+| None
+|Multi-platform
+|2011
+|[[Re-Logic]]
+|[[Re-Logic]] / [[505 Games]]
+| style="text-align:center;"|<ref>{{cite web|last=Franzese|first=Tomas|date=May 17, 2026|title=''Terraria'' has become one of the best-selling games of all time|url=https://www.polygon.com/terraria-70-million-copies-sold/|archive-url=https://web.archive.org/web/20260517190547/https://www.polygon.com/terraria-70-million-copies-sold/|archive-date=May 17, 2026|url-status=live|website=[[Polygon (website)|Polygon]]|access-date=June 19, 2026}}</ref>
+|-
+| rowspan="2" style="text-align:center;" |8
+!scope=row|{{sort|Elder Scrolls 5|''[[The Elder Scrolls V: Skyrim]]''}}
+| style="text-align:center;" |65
+|{{sort|Elder Scrolls|''[[The Elder Scrolls]]''}}
+|Multi-platform
+|2011
+|[[Bethesda Game Studios]]
+|[[Bethesda Softworks]]
+| style="text-align:center;"|<ref name="Bethesda July 2026">{{cite magazine |last=Maas |first=Jennifer |url=https://variety.com/2026/digital/news/fallout-5-elder-scrolls-6-game-updates-bethesda-todd-howard-1236814611/ |title=''Fallout 5'' in Preproduction, ''Elder Scrolls 6'' Is Bethesda's "Primary Development Focus" Following Xbox Layoffs, Studio Chief Says  |magazine=[[Variety (magazine)|Variety]] |archive-url=https://web.archive.org/web/20260717143542/https://variety.com/2026/digital/news/fallout-5-elder-scrolls-6-game-updates-bethesda-todd-howard-1236814611/ |archive-date=July 17, 2026 |url-status=live |date=July 17, 2026 |access-date=July 17, 2026}}</ref>
+|-
+!scope=row|{{sort|Witcher 3|''[[The Witcher 3: Wild Hunt]]''}}
+| style="text-align:center;" |65
+|{{sort|Witcher|''[[The Witcher (video game series)|The Witcher]]''}}
+|Multi-platform
+|2015
+|[[CD Projekt Red]]
+|[[CD Projekt]]
+| style="text-align:center;" |<ref name="TW3">{{cite web |date=May 28, 2026 |website=[[Shacknews]] |first=TJ |last=Denzer |title=''The Witcher 3'' has sold more than 65 million copies |url=https://www.shacknews.com/article/149339/the-witcher-3-65-million-copies-sold|access-date=May 28, 2026|archive-date=May 28, 2026|archive-url=https://web.archive.org/web/20260528200518/https://www.shacknews.com/article/149339/the-witcher-3-65-million-copies-sold|url-status=live}}</ref>
+|-
+| rowspan="2" style="text-align:center;" |10
+!scope=row|''[[Super Mario Bros.]]''{{hsp}}
+| style="text-align:center;" |58
+|''[[Super Mario]]''
+|Multi-platform
+|1985
+|[[Nintendo R&D4]]
+|[[Nintendo]]
+| style="text-align:center;"|<ref>{{cite web |url=https://www.gamesradar.com/games/survival/survival-juggernaut-terraria-has-officially-outsold-super-mario-bros-and-its-devs-waited-2-years-just-to-flex-its-latest-sales-milestone/ |title=Survival juggernaut ''Terraria'' has officially outsold ''Super Mario Bros'' – and its devs waited 2 years just to flex its latest sales milestone |first=Ali |last=Jones |website=[[GamesRadar+]] |date=July 10, 2024 |access-date=April 30, 2025 |archive-date=July 10, 2024 |archive-url=https://web.archive.org/web/20240710164128/https://www.gamesradar.com/games/survival/survival-juggernaut-terraria-has-officially-outsold-super-mario-bros-and-its-devs-waited-2-years-just-to-flex-its-latest-sales-milestone/ |url-status=live}}</ref>
+|-
+!scope=row|''[[Human: Fall Flat]]''
+| style="text-align:center;" |58
+| None
+|Multi-platform
+|2016
+|[[No Brakes Games]]
+|[[Curve Digital]]
+| style="text-align:center;" |<ref>{{cite web |date=March 19, 2026 |url=https://curvegames.com/news/human-fall-flat-lands-is-out-now-on-nintendo-switch-2/ |title=''Human Fall Flat'' Lands On New Platform: Nintendo Switch 2 Version Out Now! |archive-url=https://web.archive.org/web/20260722153103/https://curvegames.com/news/human-fall-flat-lands-is-out-now-on-nintendo-switch-2/ |archive-date=July 22, 2026 |url-status=live |website=[[Curve Games]] |access-date=July 22, 2026}}</ref>
+|-
+| style="text-align:center;" |12
+!scope=row|''[[Animal Crossing: New Horizons]]''
+| style="text-align:center;" |50.29
+|''[[Animal Crossing]]''
+|[[Nintendo Switch]]
+|2020
+|[[Nintendo EPD]]
+|[[Nintendo]]
+| style="text-align:center;" |<ref name="nintendoswitch" />
+|-
+| rowspan="3" style="text-align:center;" |13
+!scope=row|{{sort|Sims|''[[The Sims (video game)|The Sims]]''}}
+| style="text-align:center;" |50
+|{{sort|Sims|''[[The Sims]]''}}
+|Multi-platform
+|2000
+|[[Maxis]]
+|[[Electronic Arts]]
+| style="text-align:center;" |<ref>{{cite web |url=https://www.eurogamer.net/the-history-of-the-sims-article |title=The History of The Sims |first=Dan |last=Whitehead |website=[[Eurogamer]] |date=February 5, 2010 |access-date=August 22, 2025 |archive-date=June 26, 2025 |archive-url=https://web.archive.org/web/20250626202736/https://www.eurogamer.net/the-history-of-the-sims-article |url-status=live}}</ref>
+|-
+! scope="row" |''[[Stardew Valley]]''
+| style="text-align:center;" |50
+|None
+|Multi-platform
+|2016
+|[[ConcernedApe]]
+|[[Chucklefish]] / [[ConcernedApe]]
+| style="text-align:center;" |<ref>{{Cite web |url=https://www.ign.com/articles/stardew-valley-turns-10-the-big-concernedape-interview |title=''Stardew Valley'' Turns 10: The Big ConcernedApe Interview |first=Rebekah |last=Valentine |date=February 3, 2026 |website=[[IGN]]|access-date=February 3, 2026}}</ref>
+|-
+!scope=row|''[[Overwatch (2016 video game)|Overwatch]]''
+| style="text-align:center;" |50
+|''[[Overwatch]]''
+|Multi-platform
+|2016
+|[[Blizzard Entertainment]]
+|[[Blizzard Entertainment]]
+| style="text-align:center;" |<ref>{{cite news |url=https://www.bloomberg.com/news/newsletters/2022-04-29/activision-blizzard-s-overwatch-2-game-is-a-lot-like-the-original-review |title=Activision's Overwatch 2 Is Redefining the Sequel |first=Cecilia |last=D'Anastasio |website=[[Bloomberg News]] |date=April 29, 2022|access-date=June 5, 2023|archive-date=April 29, 2022|archive-url=https://web.archive.org/web/20220429215753/https://www.bloomberg.com/news/newsletters/2022-04-29/activision-blizzard-s-overwatch-2-game-is-a-lot-like-the-original-review|url-status=live}}</ref>
+|-
+| style="text-align:center;" |16
+!scope=row|[[Pokémon Red, Blue, and Yellow|''Pokémon Red'' / ''Blue'' / ''Yellow'']]
+| style="text-align:center;" |47.44
+|''[[Pokemon (video game series)|Pokémon]]''
+|Multi-platform
+|1996
+|[[Game Freak]]
+|[[Nintendo]]
+| style="text-align:center;"| {{efn|[[Pokémon Red and Blue|''Red and Blue'']] versions sold 31.3{{nbsp}}million units,<ref name="PokemonGamepur">{{cite web |last=Duran |first=Misael |date=August 3, 2022 |title=The most popular Pokémon games of all time, ranked by sales |url=https://www.gamepur.com/guides/the-most-popular-pokemon-games-of-all-time-ranked-by-sales |url-status=live |archive-url=https://web.archive.org/web/20231215150931/https://www.gamepur.com/guides/the-most-popular-pokemon-games-of-all-time-ranked-by-sales |archive-date=December 15, 2023 |accessdate=August 17, 2025 |website=Gamepur}}</ref> the ''[[Pokémon Yellow|Yellow]]'' version sold 14.64{{nbsp}}million units on [[Game Boy]],<ref name="pokemon2">{{cite book |date=October 6, 2016 |title=Top 10 of Everything 2017 |url=https://books.google.com/books?id=Vu-pCwAAQBAJ&pg=PT115 |first=Paul |last=Terry |location=London, England |publisher=[[Hachette Book Group|Hachette UK]] |page=115 |isbn=978-0-600-63374-7 |access-date=April 25, 2017 |archive-url=https://web.archive.org/web/20170426062609/https://books.google.co.uk/books?id=Vu-pCwAAQBAJ&pg=PT115&lpg=PT115 |archive-date=April 26, 2017 |url-status=live}}</ref><ref name="PokemonGamepur" /> and all versions sold a combined 1.5{{nbsp}}million units on [[Nintendo 3DS Virtual Console]].<ref>{{cite news |title=Financial Results Briefing for Fiscal Year Ended March 2016 |url=https://www.nintendo.co.jp/ir/en/events/160428/03.html |access-date=January 27, 2019 |publisher=[[Nintendo]] |date=April 28, 2016 |archive-url=https://web.archive.org/web/20171031123226/https://www.nintendo.co.jp/ir/en/events/160428/03.html |archive-date=October 31, 2017 |url-status=live}}</ref>}}
+|-
+| style="text-align:center;" |17
+!scope=row|''[[Wii Fit]]'' / ''[[Wii Fit Plus|Plus]]''{{hsp}}
+| style="text-align:center;" |43.8
+|''[[Wii (video game series)|Wii]]''
+|Wii
+|2007
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;"|{{efn|''[[Wii Fit]]'' sold 22.67 million units and ''[[Wii Fit Plus]]'' sold 21.13 million units.<ref name="nintendowii" />}}
+|-
+| style="text-align:center;" |18
+!scope=row|''[[Call of Duty: Black Ops III]]''
+| style="text-align:center;" |43
+|''[[Call of Duty]]''
+|Multi-platform
+|2015
+|[[Treyarch]]
+|[[Activision]]
+| style="text-align:center;"|<ref name=":0" />
+|-
+| style="text-align:center;" |19
+!scope="row" |''[[Call of Duty: Modern Warfare (2019 video game)|Call of Duty: Modern Warfare]]''
+| style="text-align:center;" |41
+|''[[Call of Duty]]''
+|Multi-platform
+|2019
+|[[Infinity Ward]]
+|[[Activision]]
+| style="text-align:center;"|<ref name=":0">{{Cite web |last=Totilo |first=Stephen |title=Call of Duty's massive development budgets revealed: $700 million for Black Ops Cold War |url=https://www.gamefile.news/p/call-of-duty-budgets-development-costs-black-ops-modern-warfare |date=January 6, 2025 |access-date=January 7, 2025 |website=Game File |language=en |archive-date=January 11, 2025 |archive-url=https://web.archive.org/web/20250111043043/https://www.gamefile.news/p/call-of-duty-budgets-development-costs-black-ops-modern-warfare |url-status=live}}</ref>
+|-
+| rowspan="4" style="text-align:center;" |20
+!scope=row|''[[Sonic the Hedgehog (1991 video game)|Sonic the Hedgehog]]''{{hsp}}
+| style="text-align:center;" |40
+|''[[Sonic the Hedgehog]]''
+|Multi-platform
+|1991
+|[[Sonic Team]]
+|[[Sega]]
+| style="text-align:center;"|<ref>{{cite news |last=Power |first=Ed |date=June 23, 2021 |title=How Sega conquered the video games industry with Sonic the Hedgehog – and then threw it all away |url=https://www.independent.co.uk/games/sonic-hedgehog-video-game-sgea-b1871090.html |url-status=live |archive-url=https://web.archive.org/web/20241216071155/https://www.independent.co.uk/games/sonic-hedgehog-video-game-sgea-b1871090.html |archive-date=December 16, 2024 |access-date=February 26, 2025 |work=[[The Independent]]}}</ref>
+|-
+!scope="row" | ''[[Payday 2]]''
+| style="text-align:center;" |40
+|''[[Payday (video game series)|Payday]]''
+|Multi-platform
+|2013
+|[[Overkill Software]]
+|[[505 Games]]
+| style="text-align:center;"|<ref>{{Cite web |date=June 8, 2023 |first=Tom |last=Ivan |title=Payday 2 is free on Epic Games Store, Guacamelee games offered next week |url=https://www.videogameschronicle.com/news/payday-2-is-free-on-epic-games-store-guacamelee-games-offered-next-week/ |access-date=May 20, 2025 |website=[[Video Games Chronicle]] |archive-date=December 9, 2024 |archive-url=https://web.archive.org/web/20241209143439/https://www.videogameschronicle.com/news/payday-2-is-free-on-epic-games-store-guacamelee-games-offered-next-week/ |url-status=live}}</ref>
+|-
+! scope="row" | ''[[Cyberpunk 2077]]''
+| style="text-align:center;" | 40
+|''[[Cyberpunk (role-playing game)|Cyberpunk]]''
+|Multi-platform
+|2020
+|[[CD Projekt|CD Projekt Red]]
+|[[CD Projekt]]
+| align="center" |<ref>{{cite web |url=https://www.ign.com/articles/a-great-foundation-for-our-upcoming-projects-in-this-universe-cd-projekt-hails-cyberpunk-2077-as-it-hits-an-incredible-40-million-copies-sold | title= 'A Great Foundation for Our Upcoming Projects in This Universe' — CD Projekt Hails ''Cyberpunk 2077'' as It Hits an Incredible 40 Million Copies Sold | first=Wesley | last = Yin-Poole | date = July 3, 2026 | accessdate = July 3, 2026 | work = [[IGN]] }}</ref>
+|-
+! scope="row" |''[[Hogwarts Legacy]]''
+| style="text-align:center;" |40
+|''[[Harry Potter video games|Wizarding World]]''
+|Multi-platform
+|2023
+|[[Avalanche Software]]
+|[[Warner Bros. Games]]
+| style="text-align:center;" |<ref>{{Cite web |last=Romano |first=Sal |date=December 17, 2025 |title=''Hogwarts Legacy'' sales top 40 million |url=https://www.gematsu.com/2025/12/hogwarts-legacy-sales-top-40-million |access-date=December 17, 2025 |website=Gematsu |archive-date=December 17, 2025 |archive-url=https://web.archive.org/web/20251217173129/https://www.gematsu.com/2025/12/hogwarts-legacy-sales-top-40-million |url-status=live}}</ref>
+|-
+| style="text-align:center;" |24
+!scope=row|''[[Super Smash Bros. Ultimate]]''
+| style="text-align:center;" |38.14
+|''[[Super Smash Bros.]]''
+|Nintendo Switch
+|2018
+|[[Bandai Namco Studios]] / [[Sora Ltd.]]
+|[[Nintendo]]
+| style="text-align:center;" |<ref name="nintendoswitch" />
+|-
+| style="text-align:center;" |25
+!scope=row|''[[Mario Kart Wii]]''{{hsp}}
+| style="text-align:center;" |37.38
+|''[[Mario Kart]]''
+|Wii
+|2008
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;"|<ref name="nintendowii" />
+|-
+| style="text-align:center;" |26
+!scope=row|{{sort|Legend of Zelda|''[[The Legend of Zelda: Breath of the Wild]]''}}
+| style="text-align:center;" |35.76
+|{{sort|Legend of Zelda|''[[The Legend of Zelda]]''}}
+|Multi-platform
+|2017
+|[[Nintendo EPD]]
+|[[Nintendo]]
+| style="text-align:center;" | {{efn|''[[The Legend of Zelda: Breath of the Wild]]'' sold {{nowrap|34.06 million}} units on [[Nintendo Switch]],<ref name="nintendoswitch" /> and {{nowrap|1.70 million}} units on [[Wii U]].<ref>{{cite book |title=2021CESAゲーム白書 (2021 CESA Games White Papers) |publisher=[[Computer Entertainment Supplier's Association]] |year=2021 |isbn=978-4-902346-43-5}}</ref>}}
+|-
+| style="text-align:center;" |27
+!scope=row| ''[[Fallout 4]]''
+| style="text-align:center;" |35
+|''[[Fallout (franchise)|Fallout]]''
+|Multi-platform
+|2015
+|[[Bethesda Game Studios]]
+|[[Bethesda Softworks]]
+| style="text-align:center;"|<ref name="Bethesda July 2026" />
+|-
+| style="text-align:center;" |28
+! scope="row" |''[[Wii Sports Resort]]''{{hsp}}
+| style="text-align:center;" |33.14
+|''[[Wii (video game series)|Wii]]''
+|Wii
+|2009
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;" |<ref name="nintendowii" />
+|-
+| style="text-align:center;" |29
+!scope=row|''[[Borderlands 2]]''
+| style="text-align:center;" |31
+|''[[Borderlands (series)|Borderlands]]''
+|Multi-platform
+|2012
+|[[Gearbox Software]]
+|[[2K Games]]
+| style="text-align:center;" |<ref name="Take-Two Earnings" />
+|-
+| rowspan="2" style="text-align:center;" |30
+! scope="row" |''[[New Super Mario Bros.]]''
+| style="text-align:center;" |30.8
+|''[[Super Mario]]''
+|[[Nintendo DS]]
+|2006
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;" |<ref name="nintendods">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/software/ds.html |title=Sales Data – Top Selling Title Sales Units – Nintendo DS Software |website=[[Nintendo]] |date=March 31, 2024 |access-date=August 17, 2025 |archive-url=https://web.archive.org/web/20250727054316/https://www.nintendo.co.jp/ir/en/finance/software/ds.html |archive-date=July 27, 2025 |url-status=dead}}</ref>
+|-
+! scope="row" |''[[Super Mario Odyssey]]''
+| style="text-align:center;" |30.8
+|''[[Super Mario]]''
+|Nintendo Switch
+|2017
+|[[Nintendo EPD]]
+|[[Nintendo]]
+| style="text-align:center;" |<ref name="nintendoswitch" />
+|-
+| style="text-align:center;" |32
+! scope="row" |''[[Monster Hunter: World]]''
+| style="text-align:center;" |30.4
+|''[[Monster Hunter]]''
+|Multi-platform
+|2018
+|[[Capcom]]
+|[[Capcom]]
+| style="text-align:center;" |{{Efn|''[[Monster Hunter: World]]'' sold 22.4{{nbsp}}million units, while the ''Iceborne Master Edition''—which includes both the base game and its [[expansion pack]], ''[[Iceborne]]''—helped total sales reach 30.4{{nbsp}}million units.<ref>{{Cite web |date=June 30, 2026 |title=Platinum Titles |url=https://www.capcom.co.jp/ir/english/business/million.html |access-date=August 23, 2026 |website=[[Capcom]] |archive-date=August 22, 2026 |archive-url=https://web.archive.org/web/20260822221900/https://www.capcom.co.jp/ir/english/business/million.html |url-status=live}}</ref>}}
+|-
+| style="text-align:center;" |33
+! scope="row" |''[[New Super Mario Bros. Wii]]''
+| style="text-align:center;" |30.32
+|''[[Super Mario]]''
+|Wii
+|2009
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;" |<ref name="nintendowii" />
+|-
+| style="text-align:center;" |34
+! scope="row" |[[Pokémon Gold and Silver|''Pokémon Gold'' / ''Silver'']] / ''[[Pokémon Crystal|Crystal]]''
+| style="text-align:center;" |30.12
+|''[[Pokémon (video game series)|Pokémon]]''
+|[[Game Boy Color]]
+|1999
+|[[Game Freak]]
+|[[Nintendo]]
+| style="text-align:center;" | {{efn|[[Pokémon Gold and Silver|''Gold'' and ''Silver'']] versions sold 23.73{{nbsp}}million units<ref>{{cite web |url=https://www.ign.com/articles/pokemon-sword-shield-20m-copies-sold |title=Pokémon Sword & Shield Is the Best Selling Pokémon Since Gold & Silver |first=Matt |last=Purslow |website=[[IGN]] |date=February 1, 2021 |access-date=February 26, 2025 |archive-date=November 17, 2024 |archive-url=https://web.archive.org/web/20241117162659/https://www.ign.com/articles/pokemon-sword-shield-20m-copies-sold |url-status=live}}</ref> and the ''[[Pokémon Crystal|Crystal]]'' version sold 6.39{{nbsp}}million units.<ref>{{cite web |title=Pokémon Platinum released 11 years ago today in North America |url=https://dotesports.com/pokemon/news/pokemon-platinum-released-11-years-ago-today-in-north-america |access-date=February 25, 2025 |first=Cale |last=Michael |website=Dot Esports |date=March 22, 2020 |archive-url=https://web.archive.org/web/20221022042331/https://dotesports.com/pokemon/news/pokemon-platinum-released-11-years-ago-today-in-north-america |archive-date=October 22, 2022 |url-status=live}}</ref>}}
+|-
+| rowspan="4" style="text-align:center;" |35
+! scope="row" |''[[Phasmophobia (video game)|Phasmophobia]]''
+| style="text-align: center;" |30
+|None
+|Multi-platform
+|2020{{efn|Phasmophobia entered [[early access]] in September 2020 on PC through [[Steam (service)|Steam]], with console versions releasing in early access in 2024. As of 2026, the game remains in early access.<ref>{{cite web |url=https://www.thesixthaxis.com/2024/10/28/phasmophobia-early-access-console-review-ps5-xbox-series-x/ |title=''Phasmophobia'' Early Access console review (PS5, Xbox Series X & S) |website=TheSixthAxis |date=October 28, 2024 |access-date=May 5, 2026}}</ref>}} 
+|Kinetic Games
+|Kinetic Games
+| style="text-align: center;" |<ref>{{Cite web |last=Wilson |first=Mike |date=October 9, 2026 |title="Crimson Eye" Event Returns to ''Phasmophobia'', Now Stands at 30 Million Sold |url=https://bloody-disgusting.com/video-games/3971179/crimson-eye-event-returns-to-phasmophobia-now-stands-at-30-million-sold/ |archive-url=https://web.archive.org/web/20261009164423/https://bloody-disgusting.com/video-games/3971179/crimson-eye-event-returns-to-phasmophobia-now-stands-at-30-million-sold/ |archive-date=October 9, 2026 |url-status=live |access-date=October 9, 2026 |website=[[Bloody Disgusting]] |language=en}}</ref>
+|-
+!scope="row" |''[[Call of Duty: Black Ops Cold War]]''
+| style="text-align:center;" |30
+|''[[Call of Duty]]''
+|Multi-platform
+|2020
+|[[Treyarch]] / [[Raven Software]]
+|[[Activision]]
+| style="text-align:center;"|<ref name=":0" />
+|-
+! scope="row" |''[[It Takes Two (video game)|It Takes Two]]''
+| style="text-align:center;" |30
+|None
+|Multi-platform
+|2021
+|[[Hazelight Studios]]
+|[[Electronic Arts]]
+| style="text-align:center;" |<ref>{{cite web |last=Ruiz |first=Fran |url=https://www.eurogamer.net/split-fiction-developer-hazelight-celebrates-50-million-units-sold |title=''Split Fiction'' developer Hazelight celebrates 50 million games sales, but it's not its newest game that dominates the pie chart |archive-url=https://web.archive.org/web/20260408172910/https://www.eurogamer.net/split-fiction-developer-hazelight-celebrates-50-million-units-sold |archive-date=April 8, 2026 |url-status=live |website=[[Eurogamer]] |date=April 8, 2026 |access-date=April 18, 2026}}</ref>
+|-
+! scope="row" |''[[Elden Ring]]''
+| style="text-align:center;" |30
+|''Elden Ring''
+|Multi-platform
+|2022
+|[[FromSoftware]]
+|[[Bandai Namco]]
+| align="center" |<ref>{{Cite web |last=Romano |first=Sal |date=April 28, 2025 |title=''Elden Ring'' shipments and digital sales top 30 million |url=https://www.gematsu.com/2025/04/elden-ring-shipments-and-digital-sales-top-30-million |url-status=live |archive-url=https://web.archive.org/web/20250428142443/https://www.gematsu.com/2025/04/elden-ring-shipments-and-digital-sales-top-30-million |archive-date=April 28, 2025 |access-date=April 28, 2025 |website=Gematsu |language=en}}</ref>
+|-
+| style="text-align:center;" |39
+! scope="row" |[[Pokémon Scarlet and Violet|''Pokémon Scarlet'' / ''Violet'']]
+| style="text-align:center;" |28.46
+|''[[Pokémon (video game series)|Pokémon]]''
+|Nintendo Switch
+|2022
+|[[Game Freak]]
+|[[Nintendo]] / [[The Pokémon Company]]
+| style="text-align:center;" | <ref name="nintendoswitch" />
+|-
+| style="text-align:center;" |40
+!scope=row|''[[Duck Hunt]]''{{hsp}}
+| style="text-align:center;" |28.3
+|None
+|Famicom / NES
+|1984
+|[[Nintendo R&D1]]
+|[[Nintendo]]
+| style="text-align:center;"|<ref name="duckhunt">{{cite web |url=http://www.complex.com/pop-culture/2013/04/the-best-video-games-to-come-out-every-year-since-the-atari-2600/duck-hunt |title=1984: Duck Hunt – The Best Selling Video Game Of Every Year Since 1977 |last=Welch |first=Hanuman |website=[[Complex (magazine)|Complex]] |date=April 23, 2013 |access-date=April 26, 2017 |archive-url=https://web.archive.org/web/20170424174120/http://www.complex.com/pop-culture/2013/04/the-best-video-games-to-come-out-every-year-since-the-atari-2600/duck-hunt |archive-date=April 24, 2017 |url-status=live}}</ref>
+|-
+| style="text-align:center;" |41
+!scope=row|''[[Wii Play]]''{{hsp}}
+| style="text-align:center;" |28.02
+|''[[Wii (video game series)|Wii]]''
+|Wii
+|2006
+|[[Nintendo EAD]]
+|[[Nintendo]]
+| style="text-align:center;"|<ref name="nintendowii" />
+|-
+| style="text-align:center;" |42
+!scope=row|''[[Black Myth: Wukong]]''
+| style="text-align:center;" |28
+|''Black Myth''
+|Multi-platform
+|2024
+|[[Game Science]]
+|[[Game Science]]
+| style="text-align:center;" |<ref>{{cite magazine |url=https://variety.com/2025/film/markets-festivals/journey-to-the-west-animated-film-trilogy-stars-collective-1236335011/ |title='Journey to the West' Animated Film Trilogy Set at Stars Collective (EXCLUSIVE) |first=Naman |last=Ramachandran |magazine=[[Variety (magazine)|Variety]] |date=March 16, 2025 |access-date=August 27, 2025 |archive-date=March 17, 2025 |archive-url=https://web.archive.org/web/20250317011137/https://variety.com/2025/film/markets-festivals/journey-to-the-west-animated-film-trilogy-stars-collective-1236335011/ |url-status=live}}</ref>
+|-
+| style="text-align:center;" |43
+!scope=row|''[[Grand Theft Auto: San Andreas]]''
+| style="text-align:center;" |27.5
+|''[[Grand Theft Auto]]''
+|Multi-platform
+|2004
+|[[Rockstar North]]
+|[[Rockstar Games]]
+| style="text-align:center;"|<ref>{{cite web |url=https://kotaku.com/gta-iv-overtakes-san-andreas-in-lifetime-sales-correct-5840484 |title=''GTA IV'' Overtakes ''San Andreas'' in Lifetime Sales [Correction] |last=Good |first=Owen |work=[[Kotaku]] |publisher=[[Gawker Media]] |date=September 15, 2011 |accessdate=January 9, 2024 |archiveurl=https://web.archive.org/web/20190203100919/https://kotaku.com/gta-iv-overtakes-san-andreas-in-lifetime-sales-correct-5840484 |archivedate=February 3, 2019 |url-status=live}}</ref>
+|-
+| style="text-align:center;" |44
+! scope="row" |[[Pokémon Sword and Shield|''Pokémon Sword'' / ''Shield'']]
+| style="text-align:center;" |27.26
+|''[[Pokémon (video game series)|Pokémon]]''
+|Nintendo Switch
+|2019
+|[[Game Freak]]
+|[[Nintendo]] / [[The Pokémon Company]]
+| style="text-align:center;" |<ref name="nintendoswitch" />
+|-
+| style="text-align:center;" |45
+! scope="row" |''[[Call of Duty: Modern Warfare 3]]''
+| style="text-align:center;" |26.5
+|''[[Call of Duty]]''
+|Multi-platform
+|2011
+|[[Infinity Ward]] / [[Sledgehammer Games|Sledgehammer]]
+|[[Activision]]
+| style="text-align:center;" |<ref name="callofduty">{{cite web |url=http://microsites.ign.com/call-of-duty-a-short-history/ |title=''Call of Duty'': A Short History |website=[[IGN]] |access-date=April 26, 2017 |archive-url=https://web.archive.org/web/20160303172825/http://microsites.ign.com/call-of-duty-a-short-history/ |archive-date=March 3, 2016 |url-status=live}}</ref>
+|-
+| style="text-align:center;" |46
+!scope=row|''[[Call of Duty: Black Ops]]''
+| style="text-align:center;" |26.2
+|''[[Call of Duty]]''
+|Multi-platform
+|2010
+|[[Treyarch]]
+|[[Activision]]
+| style="text-align:center;"|<ref name="callofduty" />
+|-
+| style="text-align:center;" |47
+!scope=row|[[Pokémon Sun and Moon|''Pokémon Sun'' / ''Moon'']] / [[Pokémon Ultra Sun and Ultra Moon|''Ultra Sun'' / ''Ultra Moon'']]
+| style="text-align:center;" |25.62
+|''[[Pokémon (video game series)|Pokémon]]''
+|[[Nintendo 3DS]]
+|2016
+|[[Game Freak]]
+|[[Nintendo]] / [[The Pokémon Company]]
+| style="text-align:center;" | {{efn|[[Pokémon Sun and Moon|''Sun'' and ''Moon'']] sold 16.34{{nbsp}}million units and ''[[Ultra Sun and Ultra Moon]]'' sold 9.28{{nbsp}}million units.<ref name="nintendo3ds">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/software/3ds.html |title=Sales Data – Top Selling Title Sales Units – Nintendo 3DS Software |website=[[Nintendo]] |date=March 31, 2026 |access-date=May 8, 2026 |archive-url=https://web.archive.org/web/20250719200304/https://www.nintendo.co.jp/ir/en/finance/software/3ds.html |archive-date=July 19, 2025 |url-status=live}}</ref>}}
+|-
+| style="text-align:center;" |48
+!scope=row|''[[Garry's Mod]]''
+| style="text-align:center;" |25.56
+|None
+|[[Personal computer|PC]]
+|2006
+|[[Facepunch Studios]]
+|[[Valve Corporation|Valve]]
+| style="text-align:center;" |<ref>{{Cite web |last=Yin-Poole |first=Wesley |date=November 29, 2024 |title=Garry's Mod Has Sold an Incredible 25.4 Million Copies, Is the Best-Selling PC Exclusive of All-Time |url=https://www.ign.com/articles/garrys-mod-has-sold-an-incredible-254-million-copies-is-the-best-selling-pc-exclusive-of-all-time |access-date=August 21, 2025 |website=[[IGN]] |language=en |archive-date=November 29, 2024 |archive-url=https://web.archive.org/web/20241129214724/https://www.ign.com/articles/garrys-mod-has-sold-an-incredible-254-million-copies-is-the-best-selling-pc-exclusive-of-all-time |url-status=live}}</ref>
+|-
+| style="text-align:center;" |49
+!scope=row|[[Pokémon Diamond and Pearl|''Pokémon Diamond'' / ''Pearl'']] / ''[[Pokémon Platinum|Platinum]]''
+| style="text-align:center;" |25.5
+|''[[Pokémon (video game series)|Pokémon]]''
+|Nintendo DS
+|2006
+|[[Game Freak]]
+|[[Nintendo]] / [[The Pokémon Company]]
+| style="text-align:center;" |{{efn|''[[Diamond and Pearl]]'' sold 17.6 million units and ''[[Pokémon Platinum|Platinum]]'' sold 7.9 million units.<ref name="PokemonGamepur" />}}
+|-
+| style="text-align: center;" |50
+!scope=row|''[[Grand Theft Auto IV]]''
+| style="text-align:center;" |25
+|''[[Grand Theft Auto]]''
+|Multi-platform
+|2008
+|[[Rockstar North]]
+|[[Rockstar Games]]
+| style="text-align:center;" |<ref>{{cite news |url=https://www.independent.co.uk/life-style/gadgets-and-tech/gaming/gta-5-has-already-beaten-gta-4s-lifetime-sales-8863784.html |title=GTA 5 has already beaten GTA 4's lifetime sales |last=Vincent |first=James |website=[[The Independent]] |date=October 7, 2013 |access-date=September 30, 2025 |archive-url=https://web.archive.org/web/20170426152753/http://www.independent.co.uk/life-style/gadgets-and-tech/gaming/gta-5-has-already-beaten-gta-4s-lifetime-sales-8863784.html |archive-date=April 26, 2017 |url-status=live }}</ref>
+|}
+
+== See also ==
+* [[List of best-selling video game franchises]]
+* [[List of best-selling video games in the United States by year]]
+* [[Lists of best-selling video games by platform]]
+* [[List of best-selling Nintendo video games]]
+* [[List of best-selling game consoles]]
+* [[List of most-played mobile games by player count]]
+* [[List of highest-grossing arcade games]]
+* [[List of highest-grossing media franchises]]
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{reflist}}
+
+{{Vgbestsellers|state=expanded}}
+{{Authority control}}
+
+{{DEFAULTSORT:Best-selling video games}}
+[[Category:Lists of best-selling video games| ]]

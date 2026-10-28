@@ -1,0 +1,832 @@
+{{Short description|none}}
+{{Use mdy dates|date=March 2019}}
+
+{{hatnote group|{{For-multi|the equivalent list of Nintendo Switch 2 games|List of best-selling Nintendo Switch 2 games}}
+}}[[File:Nintendo-Switch-Console-Docked-wJoyConRB.jpg|thumb|A [[Nintendo Switch]] console with [[Joy-Con]]]]
+{{Video games}}
+This is a list of the best selling video games for the [[Nintendo Switch]] that have sold or shipped at least one million copies. As [[Nintendo]] shares the sales of their video games every quarter while most other publishers do not share sales figures per console, this list consists mostly of Nintendo-published titles.
+
+Nintendo Switch, a hybrid home console and handheld device, launched worldwide on March 3, 2017. By the end of 2017, it had outsold the lifetime sales of [[Wii U]], its home console predecessor.<ref name=2017sales>{{cite web |title=The Nintendo Switch has already outsold the Wii U |url=https://www.theverge.com/2018/1/31/16954212/nintendo-switch-sales-earnings-q3-2017 |website=The Verge |date=January 31, 2018 |access-date=February 10, 2021 |archive-date=January 30, 2021 |archive-url=https://web.archive.org/web/20210130200628/https://www.theverge.com/2018/1/31/16954212/nintendo-switch-sales-earnings-q3-2017 |url-status=live }}</ref> In September 2019, Nintendo launched the Nintendo Switch Lite, a handheld-only version of the system. By the end of 2020, total Nintendo Switch family units had outsold the lifetime sales of the [[Nintendo 3DS]], its handheld console predecessor, by selling nearly 80 million units.<ref name=Dec2020ConsoleSales>{{cite web |title=IR Information : Financial Data – Dedicated Video Game Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |website=Nintendo |access-date=November 4, 2021|archive-url=https://web.archive.org/web/20210201132918/https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html|archive-date= February 1, 2021|url-status=dead}}</ref> As of June 30, 2026, 156.59 million Nintendo Switch consoles had been shipped, with over 1.5 billion copies of games having been shipped for the platform.<ref name="ConsoleSales">{{cite web |title=IR Information : Financial Data – Dedicated Video Game Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |access-date=August 6, 2026 |website=Nintendo |archive-date=August 6, 2026 |archive-url=https://web.archive.org/web/20260806064641/https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |url-status=live }}</ref> The three best-selling games on the platform have been ''[[Mario Kart 8 Deluxe]]'' at 71.53 million units sold, ''[[Animal Crossing: New Horizons]]'' at 50.29 million units, and ''[[Super Smash Bros. Ultimate]]'' at 38.14 million units.<ref name="titlesales">{{cite web |title=IR Information : Financial Data – Top Selling Title Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/software/switch.html |access-date=August 6, 2026 |website=Nintendo |archive-date=August 6, 2026 |archive-url=https://web.archive.org/web/20260806065651/https://www.nintendo.co.jp/ir/en/finance/software/switch.html |url-status=live }}</ref> The three best-selling franchises on the platform have been ''[[Mario (franchise)|Mario]]'' at 278.84 million units sold, ''[[Pokémon (video game series)|Pokémon]]'' at 119.8 million units, and ''[[The Legend of Zelda]]'' at 75.47 million units. Other major selling franchises include ''[[Splatoon]]'', which sold 25.56 million units, and ''[[Kirby (series)|Kirby]]'', which sold 13.36 million units.
+
+==List==
+<!--- Please DO NOT add sources from VGChartz or Statista as it is not considered a reliable source. And Make Sure Any Sales Numbers Added DO NOT Include Another Console's SKU, An Example Being Pokemon Legends Z-A'S 5.8 million Figure Which Includes Nintendo Switch 2 --->
+<!--- Please DO NOT add sources from ResetEra's Nintendo Sales threads as it is not considered a reliable source. Also DO NOT add sources from MyNintendoNews or other sources that link back to such threads as their citation. --->
+<!--- Please DO NOT update worldwide sales based on international sales data. ONLY add sources according to Nintendo or other reliable sources. --->
+<!--- Please DO NOT add Fire Emblem Warriors to the list, sales are Switch and 3DS combined. --->
+{{sticky-header}}
+{{srn}}
+{| class="wikitable plainrowheaders sticky-header sortable static-row-numbers"
+|+ List of best-selling Nintendo Switch video games
+! scope="col" | Title
+! scope="col" | Copies sold
+! scope="col" | As of
+! scope="col" | Release date{{Efn|Only the initial release date on this platform is listed.}}
+! scope="col" | Genre(s)
+! scope="col" | Developer(s)
+! scope="col" | Publisher(s)
+|-
+! scope="row" | ''[[Mario Kart 8 Deluxe]]''
+| {{nts|71.53}}{{nbsp}}million<ref name="titlesales"/>
+| rowspan="10" | {{dts|June 30, 2026}}
+| {{dts|April 28, 2017}}
+| [[Kart racing game|Kart racing]]
+| rowspan="2" | [[Nintendo EPD]]
+| rowspan="5" | [[Nintendo]]
+|-
+! scope="row" | ''[[Animal Crossing: New Horizons]]''
+| {{nts|50.29}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|March 20, 2020}}
+| [[Social simulation game|Social simulation]]
+|-
+! scope="row" | ''[[Super Smash Bros. Ultimate]]''
+| {{nts|38.14}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|December 7, 2018}}
+| [[Fighting game|Fighting]]
+| {{hlist|[[Bandai Namco Studios]]|[[Sora Ltd.]]}}
+|-
+! scope="row" | ''[[The Legend of Zelda: Breath of the Wild]]''
+| {{nts|34.06}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|March 3, 2017}}
+| [[Action-adventure]]
+| rowspan="2" | [[Nintendo EPD]]
+|-
+! scope="row" | ''[[Super Mario Odyssey]]''
+| {{nts|30.80}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|October 27, 2017}}
+| [[Platformer]]
+|-
+! scope="row" | [[Pokémon Scarlet and Violet|''Pokémon Scarlet'' and ''Violet'']]
+| {{nts|28.46}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|November 18, 2022}}
+| rowspan="2" | [[Role-playing]]
+| rowspan="2" | [[Game Freak]]
+| rowspan="2" | {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+! scope="row" | [[Pokémon Sword and Shield|''Pokémon Sword'' and ''Shield'']]
+| {{nts|27.26}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|November 15, 2019}}
+|-
+! scope="row" | ''[[The Legend of Zelda: Tears of the Kingdom]]''
+| {{nts|22.71}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|May 12, 2023}}
+| [[Action-adventure]]
+| [[Nintendo EPD]]
+| rowspan="6" | [[Nintendo]]
+|-
+! scope="row" | ''[[Super Mario Party]]''
+| {{nts|21.36}}{{nbsp}}million<ref name=titlesales/>
+| {{dts|October 5, 2018}}
+| [[Party video game|Party]]
+| [[NDcube]]
+|-
+! scope="row" | ''[[New Super Mario Bros. U Deluxe]]''
+| {{nts|19.10}}{{nbsp}}million<ref name="titlesales" />
+| {{dts|January 11, 2019}}
+| [[Platformer]]
+| rowspan="4" | [[Nintendo EPD]]
+|-
+! scope="row" | ''[[Nintendo Switch Sports]]''
+| {{nts|18.32}}{{nbsp}}million<ref name=":1">{{Cite web |date=February 3, 2026 |title=Financial Results Explanatory Material Fiscal Year Ending March 2026 |url=https://www.nintendo.co.jp/ir/pdf/2026/260508_4e.pdf |access-date=May 8, 2026 |website=Nintendo}}</ref>
+| rowspan="2" | {{dts|March 31, 2026}}
+|{{dts|April 29, 2022}}
+| [[Sports video game|Sports]]
+|-
+! scope="row" | ''[[Super Mario Bros. Wonder]]''
+| {{nts|17.44}}{{nbsp}}million<ref name=":1" />
+|{{dts|October 20, 2023}}
+| [[Platformer]]
+|-
+! scope="row" | ''[[Ring Fit Adventure]]''
+| {{nts|15.38}}{{nbsp}}million<ref name="March2023">{{cite web |title=Financial Results Explanatory Material |url=https://www.nintendo.co.jp/ir/pdf/2023/230509_3e.pdf |website=Nintendo |access-date=9 May 2023 |archive-date=May 9, 2023 |archive-url=https://web.archive.org/web/20230509154008/https://www.nintendo.co.jp/ir/pdf/2023/230509_3e.pdf |url-status=live }}</ref>
+| rowspan="1" | {{dts|March 31, 2023}}
+| {{dts|October 18, 2019}}
+| {{hlist|[[Exergame]]|[[role-playing video game|role-playing]]}}
+|-
+! scope="row" | [[Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!|''Pokémon: Let's Go, Pikachu!'' and ''Let's Go, Eevee!'']]
+| {{nts|15.07}}{{nbsp}}million<ref name="titlesalesFebruary2023">{{cite web |title=IR Information : Financial Data – Top Selling Title Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/software/index.html |website=Nintendo |access-date=6 August 2023 |archive-url=https://web.archive.org/web/20230209002921/https://www.nintendo.co.jp/ir/en/finance/software/index.html |archive-date=February 9, 2023}}</ref>
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|November 16, 2018}}
+| rowspan="2" | [[Role-playing video game|Role-playing]]
+| [[Game Freak]]
+| rowspan="3" | {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+! scope="row" | [[Pokémon Brilliant Diamond and Shining Pearl|''Pokémon Brilliant Diamond'' and ''Shining Pearl'']]
+| {{nts|15.06}}{{nbsp}}million<ref name="CESA2023">{{cite book |title=2023CESAゲーム白書 (2023 CESA Games White Papers) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|November 19, 2021}}
+| [[ILCA (company)|ILCA]]
+|-
+! scope="row" | ''[[Pokémon Legends: Arceus]]''
+| {{nts|14.83}}{{nbsp}}million<ref name="March2023" />
+| {{dts|March 31, 2023}}
+| {{dts|January 28, 2022}}
+| [[Action role-playing]]
+| [[Game Freak]]
+|-
+! scope="row" | ''[[Luigi's Mansion 3]]''
+| {{nts|14.25}}{{nbsp}}million<ref name=":0">{{Cite web |date=May 7, 2024 |title=Financial Results Explanatory Material 4th Quarter of Fiscal Year Ending March 2024 |url=https://www.nintendo.co.jp/ir/pdf/2024/240507_3e.pdf |access-date=May 7, 2024 |website=Nintendo}}</ref>
+| {{dts|March 31, 2024}}
+| {{dts|October 31, 2019}}
+| [[Action-adventure]]
+| [[Next Level Games]]
+| rowspan="6" | [[Nintendo]]
+|-
+! scope="row" | ''[[Mario Party Superstars]]''
+| {{nts|14.00}}{{nbsp}}million<ref name=":2">{{Cite web |date=May 8, 2025 |title=Financial Results Explanatory Material Fiscal Year Ended March 2025 |url=https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf |access-date=February 4, 2026 |website=Nintendo}}</ref>
+| {{dts|March 31, 2025}}
+| {{dts|October 29, 2021}}
+| [[Party video game|Party]]
+| [[NDcube]]
+|-
+! scope="row" | ''[[Splatoon 2]]''
+| {{nts|13.60}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|July 21, 2017}}
+| [[Third-person shooter]]
+| rowspan="4" | [[Nintendo EPD]]
+|-
+! scope="row" | ''[[Super Mario 3D World + Bowser's Fury]]''
+| {{nts|13.47}}{{nbsp}}million<ref name=":0" />
+| rowspan="2" | {{dts|March 31, 2024}}
+| {{dts|February 12, 2021}}
+| [[Platformer]]
+|-
+! scope="row" | ''[[Splatoon 3]]''
+| {{nts|11.96}}{{nbsp}}million<ref name=":0" />
+| {{dts|September 9, 2022}}
+| [[Third-person shooter]]
+|-
+! scope="row" | ''[[Super Mario Party Jamboree]]''
+| {{nts|10.37}}{{nbsp}}million<ref>{{Cite web |date=September 19, 2026 |title=IR Information: Financial Data – Top Selling Title Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/software/index.html |access-date=September 19, 2026 |website=[[Nintendo]]}}</ref>
+| {{dts|June 30, 2026}}
+| {{dts|October 17, 2024}}
+|[[Party video game|Party]]
+|-
+! scope="row" | ''[[Pokémon Legends: Z-A]]''
+| {{nts|9.10}}{{nbsp}}million<ref name=":1" />
+| {{dts|June 30, 2026}}
+| {{dts|October 16, 2025}}
+|[[Action role-playing game|Action role-playing]]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Super Mario 3D All-Stars]]''
+| {{nts| 9.07}}{{nbsp}}million<ref name="CESA2022">{{cite book |title=2022CESAゲーム白書 (2022 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2022|isbn=978-4-902346-45-9}}</ref>
+| {{dts|December 31, 2021}}
+| {{dts|September 18, 2020}}
+| {{hlist|[[Platformer]]|[[Video game compilation|compilation]]}}
+| rowspan="2" | [[Nintendo EPD]]
+| rowspan="2" | [[Nintendo]]
+|-
+! scope="row" | ''[[Super Mario Maker 2]]''
+| {{nts|8.42}}{{nbsp}}million<ref name=CESA2023/>
+| {{dts|December 31, 2022}}
+| {{dts|June 28, 2019}}
+| {{hlist|[[Platformer]]|[[Level editor]]}}
+|-
+! scope="row" | ''[[Monster Hunter Rise]]''
+| {{nts|8.09}}{{nbsp}}million{{efn|''Monster Hunter Rise'' sales breakdown:
+*Worldwide until December 31, 2021 {{ndash}} 7.70{{nbsp}}million<ref>{{Cite web |date=2022-02-01 |title=Platinum Titles {{!}}Product Data {{!}} CAPCOM |url=https://www.capcom.co.jp/ir/english/business/million.html |access-date=2022-08-27 |archive-date=February 1, 2022 |archive-url=https://web.archive.org/web/20220201123229/https://www.capcom.co.jp/ir/english/business/million.html |url-status=bot: unknown }}</ref>
+*Japan physical Monster Hunter Rise + Sunbreak Set {{ndash}} 0.326 million<ref>{{Cite web |date=May 21, 2023 |title=Famitsu Sales: 5/15/23 – 5/21/23 [Update] |url=https://www.gematsu.com/2023/05/famitsu-sales-5-15-23-5-21-23 |access-date=May 14, 2024 |website=Gematsu}}</ref> 
+*Japan physical Monster Hunter Rise + Sunbreak Set Best Price {{ndash}} 0.068 million<ref>
+{{Cite web |date=February 27, 2025
+|title=Famitsu Sales: 2/17/25 – 2/23/25 [Update]
+|url=https://www.gematsu.com/2025/02/famitsu-sales-2-17-25-2-23-25 |access-date=February 28, 2025 |website=Gematsu}}
+</ref>|name=|group=}}
+| {{dts|February 27, 2025}}
+| {{dts|March 26, 2021}}
+| [[Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+! scope="row" | ''[[Tomodachi Life: Living the Dream]]''
+| {{nts|8}}{{nbsp}}million<ref>{{cite web |title=Financial Results Explanatory Material  1st Quarter of Fiscal Year Ending March 2027 |url=https://www.nintendo.co.jp/ir/pdf/2026/260806_2e.pdf |website=Nintendo |access-date=6 August 2026}}</ref>
+| {{dts|August 5, 2026}}
+| {{dts|April 16, 2026}}
+| [[Social simulation game|Social Simulation]]
+| [[Nintendo EPD]]
+| [[Nintendo]]
+|-
+! scope="row" | ''[[Stardew Valley]]''
+| {{nts|7.90}}{{nbsp}}million<ref>{{Cite web|url=https://www.stardewvalley.net/press/|title=Stardew Valley - Press}}</ref>
+| {{dts|December 29, 2024}}
+| {{dts|October 5, 2017}}
+| {{hlist|[[Farm life sim]]|[[Role-playing video game|role-playing]]}}
+| [[ConcernedApe]]
+| [[ConcernedApe]]{{efn|Published by [[Chucklefish]] between 2016–2018}}
+|-
+! scope="row" | ''[[Kirby and the Forgotten Land]]''
+| {{nts|7.52}}{{nbsp}}million<ref name=":0" />
+| {{dts|March 31, 2024}}
+| {{dts|March 25, 2022}}
+| [[Platformer]]
+| [[HAL Laboratory]]
+| [[Nintendo]]
+|-
+! scope="row" | ''[[Suika Game]]''
+| {{nts|7.40}}{{nbsp}}million<ref>{{Cite web |date=April 11, 2024 |title=人氣益智遊戲《西瓜遊戲》正式推出 Android 版 Switch 與 iOS 版累計下載突破 890 萬次 |url=https://m.gamer.com.tw/gnn/detail.php?sn=266244 |access-date=April 11, 2024 |website=GNN新聞 |language=chinese}}</ref>
+| {{dts|April 11, 2024}}
+| {{dts|December 9, 2021}}
+| [[Puzzle video game|Puzzle]]
+| Aladdin X
+| Aladdin X
+|-
+! scope="row" | ''[[Minecraft]]''
+| {{nts|6.77}}{{nbsp}}million{{efn|''Minecraft'' physical sales breakdown:
+* France {{ndash}} 1.92{{nbsp}}million<ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/sell_essentiel_du_jeu_video_2019_0.pdf|title=Top 20 des jeux 2018|language=fr|website=sell.fr|access-date=6 September 2023|archive-date=November 13, 2023|archive-url=https://web.archive.org/web/20231113021233/https://www.sell.fr/sites/default/files/essentiel-jeu-video/sell_essentiel_du_jeu_video_2019_0.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/sell_-_essentiel_du_jeu_video_-_fevrier_2020.pdf|title=Top 20 des jeux 2019|language=fr|website=sell.fr|access-date=6 September 2023|archive-date=November 13, 2023|archive-url=https://web.archive.org/web/20231113023251/https://www.sell.fr/sites/default/files/essentiel-jeu-video/sell_-_essentiel_du_jeu_video_-_fevrier_2020.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_mars_21_def_web_.pdf|title=Top 20 des jeux 2020|language=fr|website=sell.fr|access-date=4 September 2023|archive-date=August 1, 2023|archive-url=https://web.archive.org/web/20230801092419/https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_mars_21_def_web_.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/essentiel_du_jeu_video_mars_2022_sell.pdf|title=Top 20 des jeux 2021|language=fr|website=sell.fr|access-date=4 September 2023|archive-date=February 21, 2023|archive-url=https://web.archive.org/web/20230221030909/https://www.sell.fr/sites/default/files/essentiel-jeu-video/essentiel_du_jeu_video_mars_2022_sell.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/lessentiel_du_jeu_video_bilan_marche_2022_sell_1.pdf|title=Top 20 des jeux 2022|language=fr|website=sell.fr|access-date=4 September 2023|archive-date=July 9, 2023|archive-url=https://web.archive.org/web/20230709222331/https://www.sell.fr/sites/default/files/essentiel-jeu-video/lessentiel_du_jeu_video_bilan_marche_2022_sell_1.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_mars_2024.pdf|title=Top 20 des jeux 2023|language=fr|website=sell.fr|access-date=22 March 2024|archive-date=March 21, 2024|archive-url=https://web.archive.org/web/20240321173124/https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_mars_2024.pdf|url-status=live}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/def_ejv_mars_2025_0.pdf|title=Top 20 des jeux 2024|language=fr|website=sell.fr|access-date=27 March 2025}}</ref><ref>{{cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_avril_2026_final_.pdf|title=Top 20 des jeux 2025|language=fr|website=sell.fr|access-date=25 May 2026}}</ref>
+* Japan {{ndash}} 4.20{{nbsp}}million<ref>{{cite web |title=Famitsu Sales: 5/11/26 – 5/17/26 [Update] |url=https://www.gematsu.com/2026/05/famitsu-sales-5-11-26-5-17-26 |website=Gematsu |access-date=25 May 2026}}</ref>
+* Spain {{ndash}} 0.65{{nbsp}}million<ref>{{cite web |date=May 9, 2024 |title= Ventas España: Nintendo recibe las comuniones como agua de mayo |url=https://www.gamereactor.es/ventas-espana-nintendo-recibe-las-comuniones-como-agua-de-mayo-1161413/|website=Gamereactor |language=es |access-date=May 10, 2024}}</ref>
+|name=|group=}}
+| {{dts|May 17, 2026}}
+| {{dts|May 11, 2017}}
+| {{hlist|[[Sandbox game|Sandbox]]|[[survival game|survival]]}}
+| [[Mojang]]
+| {{vgrelease|JP|[[Xbox Game Studios]]|NA/PAL|[[Mojang]]}}
+|-
+! scope="row" | ''[[The Legend of Zelda: Link's Awakening (2019 video game)|The Legend of Zelda: Link's Awakening]]''
+| {{nts|6.46}}{{nbsp}}million<ref name=CESA2023/>
+| rowspan="7" | {{dts|December 31, 2022}}
+| {{dts|September 20, 2019}}
+| [[Action-adventure]]
+| [[Grezzo]]
+| rowspan="8" | [[Nintendo]]
+|-
+! scope="row" | ''[[Clubhouse Games: 51 Worldwide Classics]]''
+| {{nts|4.64}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|June 5, 2020}}
+| [[Tabletop game]]
+| [[NDcube]]
+|-
+! scope="row" | ''[[Donkey Kong Country: Tropical Freeze]]''
+| {{nts|4.62}}{{nbsp}}million<ref name="CESA2023"/>
+| {{dts|May 4, 2018}}
+| [[Platformer]]
+| [[Retro Studios]]
+|-
+! scope="row" | ''[[Mario Tennis Aces]]''
+| {{nts|4.50}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|June 22, 2018}}
+| [[Sports game|Sports]]
+| [[Camelot Software Planning]]
+|-
+! scope="row" | ''[[Kirby Star Allies]]''
+| {{nts|4.38}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|March 16, 2018}}
+| [[Platformer]]
+| [[HAL Laboratory]]
+|-
+! scope="row" | ''[[The Legend of Zelda: Skyward Sword HD]]''
+| {{nts|4.15}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|July 16, 2021}}
+| [[Action-adventure]]
+| [[Tantalus Media]]
+|-
+! scope="row" | ''[[Fire Emblem: Three Houses]]''
+| {{nts|4.12}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|July 26, 2019}}
+| [[Tactical role-playing]]
+| {{hlist|[[Intelligent Systems]]|[[Koei Tecmo]]}}
+|-
+! scope="row" | ''[[The Legend of Zelda: Echoes of Wisdom]]''
+| {{nts|4.09}}{{nbsp}}million<ref name=":2" />
+| {{dts|March 31, 2025}}
+| {{dts|September 26, 2024}}
+| [[Action-adventure]]
+| {{hlist|[[Nintendo EPD]]|[[Grezzo]]}}
+|-
+! scope="row" | ''[[Hyrule Warriors: Age of Calamity]]''
+| {{nts|4}}{{nbsp}}million<ref>{{Cite web|date=4 Jan 2022|title=『#ゼルダ無双 厄災の黙示録』の全世界累計出荷本数が400万本を突破しました。プレイしていただいた皆さま、誠にありがとうございます。|url=https://twitter.com/zelda_musou/status/1478539711203676161|url-status=live|access-date=4 Jan 2022|website=Twitter|archive-date=January 5, 2022|archive-url=https://web.archive.org/web/20220105014310/https://twitter.com/zelda_musou/status/1478539711203676161}}</ref>
+| {{dts|January 4, 2022}}
+| {{dts|November 20, 2020}}
+| [[Hack and slash]]
+| [[Omega Force]]
+| {{vgrelease|JP|[[Koei Tecmo]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Momotaro Dentetsu: Showa, Heisei, Reiwa Mo Teiban!]]''
+| {{nts|4}}{{nbsp}}million<ref>{{cite web |date=July 19, 2023 |title=Momotaro Dentetsu: Showa, Heisei, Reiwa mo Teiban! shipments and digital sales top four million |url=https://www.gematsu.com/2023/07/momotaro-dentetsu-showa-heisei-reiwa-mo-teiban-shipments-and-digital-sales-top-four-million |archive-url=https://web.archive.org/web/20230720094126/https://www.gematsu.com/2023/07/momotaro-dentetsu-showa-heisei-reiwa-mo-teiban-shipments-and-digital-sales-top-four-million |archive-date=July 20, 2023 |access-date=20 July 2023 |website=Gematsu |url-status=live }}</ref>
+| {{dts|July 19, 2023}}
+| {{dts|November 19, 2020}}
+| [[Board game]]
+| [[Konami]]
+| {{vgrelease|JP|[[Konami]]}}
+|-
+! scope="row" | [[Pokémon FireRed and LeafGreen|''Pokémon FireRed'' and ''LeafGreen'']]
+| {{nts|4}}{{nbsp}}million<ref name=":1" />
+| {{dts|April 10, 2026}}
+| {{dts|February 27, 2026}}
+| [[Role-playing]]
+| [[Game Freak]]
+| {{vgrelease|JP|[[The Pokémon Company]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | ''[[1-2-Switch]]''
+| {{nts|3.74}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|March 3, 2017}}
+| [[Party video game|Party]]
+| rowspan="2" | [[Nintendo EPD]]
+| rowspan="5" | [[Nintendo]]
+|-
+! scope="row" | ''[[Pikmin 4]]''
+| {{nts|3.48}}{{nbsp}}million<ref name=":0" />
+| {{dts|March 31, 2024}}
+| {{dts|July 21, 2023}}
+|[[Real-time strategy]]
+|-
+! scope="row" | ''[[Paper Mario: The Origami King]]''
+| {{nts|3.47}}{{nbsp}}million<ref name="CESA2023" />
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|July 17, 2020}}
+| {{hlist|[[Role-playing video game|Role-playing]]|[[action-adventure]]}}
+| [[Intelligent Systems]]
+|-
+! scope="row" | ''[[Yoshi's Crafted World]]''
+| {{nts|3.35}}{{nbsp}}million<ref name="CESA2023"/>
+| {{dts|March 29, 2019}}
+| [[Platformer]]
+| [[Good-Feel]]
+|-
+! scope="row" | ''[[Super Mario RPG#Remake|Super Mario RPG]]''
+| {{nts|3.31}}{{nbsp}}million<ref name=":0" />
+| {{dts|March 31, 2024}}
+| {{dts|November 17, 2023}}
+| {{hlist|[[Role-playing video game|Role-playing]]}}
+| [[ArtePiazza]]
+|-
+
+! scope="row" | ''[[Among Us]]''
+| {{nts|3.20}}{{nbsp}}million<ref>{{cite web|title=Worldwide digital games market: December 2020|url=https://www.superdataresearch.com/blog/worldwide-digital-games-market/|website=SuperData Research|access-date=January 22, 2021|date=January 22, 2021|archive-date=January 22, 2021|archive-url=https://web.archive.org/web/20210122193846/https://www.superdataresearch.com/blog/worldwide-digital-games-market/|url-status=usurped}}</ref>
+| {{dts|December 31, 2020}}
+| {{dts|December 15, 2020}}
+| {{hlist|[[Party video game|Party]]|[[Social deduction game|social deduction]]}}
+| [[Innersloth]]
+| [[Innersloth]]
+|-
+! scope="row" | ''[[Metroid Dread]]''
+| {{nts|3.07}}{{nbsp}}million<ref name="CESA2023"/>
+| {{dts|December 31, 2022}}
+| {{dts|October 8, 2021}}
+| [[Action-adventure]]
+| {{hlist|[[MercurySteam]]|[[Nintendo EPD]]}}
+| [[Nintendo]]
+|-
+! scope="row" | ''[[Mario + Rabbids Sparks of Hope]]''
+| {{nts|3}}{{nbsp}}million<ref>{{Cite web |date=January 15, 2024 |title=A year after being branded a flop, Mario + Rabbids' sequel is steadily selling |url=https://www.videogameschronicle.com/news/a-year-after-being-branded-a-flop-mario-rabbids-sequel-is-steadily-selling/ |access-date=January 15, 2024 |website=Videogames Chronicle |archive-date=January 15, 2024 |archive-url=https://web.archive.org/web/20240115153337/https://www.videogameschronicle.com/news/a-year-after-being-branded-a-flop-mario-rabbids-sequel-is-steadily-selling/ |url-status=live }}</ref>
+| {{dts|January 15, 2024}}
+| {{dts|October 20, 2022}}
+| [[Tactical role-playing]]
+| {{hlist|[[Ubisoft Paris]]|[[Ubisoft Milan]]}}
+| {{vgrelease|NA/PAL|[[Ubisoft]]|JP|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Super Mario Galaxy 2]]''
+| {{nts|2.76}}{{nbsp}}million<ref name=":1" />
+| {{dts|March 31, 2026}}
+| {{dts|October 2, 2025}}
+| [[Platformer]]
+| [[Nintendo Software Technologies]]
+| [[Nintendo]]
+|-
+! scope="row" | ''[[New Pokémon Snap]]''
+| {{nts|2.74}}{{nbsp}}million{{efn|''New Pokémon Snap'' sales breakdown:
+* Worldwide {{ndash}} 2.40 million<ref name="may2022">{{cite web |title=Financial Results Explanatory Material Fiscal Year Ended March 2022 |url=https://www.nintendo.co.jp/ir/pdf/2022/220510_6e.pdf |website=Nintendo |access-date=May 10, 2022 |archive-date=May 10, 2022 |archive-url=https://web.archive.org/web/20220510071000/https://www.nintendo.co.jp/ir/pdf/2022/220510_6e.pdf |url-status=live }}</ref>
+* Japan {{ndash}} 0.34{{nbsp}}million (physical)<ref name="Famitsu">{{citation |date=May 9, 2024 |title=Famitsu Sales: 4/22/24 – 5/5/24 [Update 2] |url=https://www.gematsu.com/2024/05/famitsu-sales-4-22-24-5-5-24# |website=Gematsu |language=en-US |access-date=May 10, 2024 }}</ref>
+|name=|group=}}
+| {{dts|May 15, 2022}}
+| {{dts|April 30, 2021}}
+| [[Photography game|Photography]]
+| [[Bandai Namco Studios]]
+| {{vgrelease|JP|[[The Pokémon Company]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Arms (video game)|Arms]]''
+| {{nts|2.72}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|June 16, 2017}}
+| [[Fighting game|Fighting]]
+| [[Nintendo EPD]]
+| rowspan="5" | [[Nintendo]]
+|-
+! scope="row" | ''[[Xenoblade Chronicles 2]]''
+| {{nts|2.70}}{{nbsp}}million<ref name=CESA2023/>
+| {{dts|December 1, 2017}}
+| [[Action role-playing]]
+| [[Monolith Soft]]
+|-
+! scope="row" | ''[[Super Mario Galaxy]]''
+| {{nts|2.60}}{{nbsp}}million<ref name=":1" />
+| {{dts|March 31, 2026}}
+| {{dts|October 2, 2025}}
+| [[Platformer]]
+| [[Nintendo Software Technologies]]
+|-
+! scope="row" | ''[[Mario Strikers: Battle League]]''
+| {{nts|2.54}}{{nbsp}}million<ref name="March2023"/>
+| {{dts|March 31, 2023}}
+| {{dts|June 10, 2022}}
+| rowspan="2" | [[Sports video game|Sports]]
+| [[Next Level Games]]
+|-
+! scope="row" | ''[[Mario Golf: Super Rush]]''
+| {{nts|2.48}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|June 25, 2021}}
+| [[Camelot Software Planning]]
+|-
+! scope="row" | ''[[Dragon Ball FighterZ]]''
+| {{nts|2.43}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|September 27, 2018}}
+| [[Fighting game|Fighting]]
+| [[Arc System Works]]
+| [[Bandai Namco Entertainment]]
+|-
+! scope="row" | ''[[Pikmin 3 Deluxe]]''
+| {{nts|2.40}}{{nbsp}}million<ref name=CESA2023/>
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|October 30, 2020}}
+| [[Real-time strategy]]
+| [[Eighting]]
+| rowspan="2" | [[Nintendo]]
+|-
+! scope="row" | ''[[Captain Toad: Treasure Tracker]]''
+| {{nts|2.35}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|July 13, 2018}}
+| [[Puzzle-platform]]
+| [[Nintendo EPD]]
+|-
+! scope="row" | ''[[Taiko no Tatsujin: Drum 'n' Fun!]]''
+| {{nts|2.24}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|July 19, 2018}}
+| [[Rhythm game|Rhythm]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+! scope="row" | ''[[Octopath Traveler]]''
+| {{nts|2.16}}{{nbsp}}million{{efn|Octopath Traveler sales breakdown:
+* Worldwide {{ndash}} 1.9 million<ref name="CESA2021">{{cite book |title=2021CESAゲーム白書 (2021 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2021|isbn=978-4-902346-43-5}}</ref>
+* Japan {{ndash}} 0.26{{nbsp}}million (physical)<ref name="CESA2022" />
+|name=|group=}}
+| {{dts|January 2, 2022}}
+| {{dts|July 13, 2018}}
+| rowspan="2" | [[Role-playing video game|Role-playing]]
+| {{hlist|[[Square Enix]]|[[Acquire (company)|Acquire]]}}
+| {{vgrelease|JP|[[Square Enix]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Paper Mario: The Thousand-Year Door#Remake|Paper Mario: The Thousand-Year Door]]''
+| {{nts|2.10}}{{nbsp}}million<ref name=":2" />
+| {{dts|March 31, 2025}}
+| {{dts|May 23, 2024}}
+| [[Intelligent Systems]]
+| [[Nintendo]]
+|-
+! scope="row" | ''[[Human: Fall Flat]]''
+| {{nts|2}}{{nbsp}}million{{efn|Japan only|name=|group=}}<ref>{{Cite web |date=May 2, 2024 |title=CURVE GAMES MARKS NINTENDO SWITCH CHINA DEBUT WITH NO 1 SMASH HIT |url=https://curvegames.com/news/human-fall-flat-hits-no1-in-china/ |access-date=May 8, 2024 |website=Curvegames}}</ref>
+| {{dts|May 2, 2024}}
+| {{dts|December 7, 2017}}
+| [[Puzzle-platform]]
+| [[No Brakes Games]]
+| {{vgrelease|JP|[[Teyon]] Japan|NA/PAL|[[Curve Digital]]}}
+|-
+! scope="row" | ''[[Mario + Rabbids Kingdom Battle]]''<!-- Do not replace it with 10 or 7.5 million players figures; "number of players" and "copies sold" are not interchangeable. -->
+| {{nts|2}}{{nbsp}}million<ref name="RabbidsNL">{{cite web |last1=Doolan |first1=Liam |title=Mario + Rabbids On Nintendo Switch Has Sold More Than 2 Million Copies |url=http://www.nintendolife.com/news/2018/09/mario_plus_rabbids_on_nintendo_switch_has_sold_more_than_two_million_copies |website=Nintendo Life |date=September 2, 2018 |access-date=September 2, 2018 |archive-date=June 9, 2019 |archive-url=https://web.archive.org/web/20190609152033/http://www.nintendolife.com/news/2018/09/mario_plus_rabbids_on_nintendo_switch_has_sold_more_than_two_million_copies |url-status=live }}</ref>
+| {{dts|September 2, 2018}}
+| {{dts|August 29, 2017}}
+| [[Tactical role-playing]]
+| {{hlist|[[Ubisoft Paris]]|[[Ubisoft Milan]]}}
+| {{vgrelease|NA/PAL|[[Ubisoft]]|JP/KOR|[[Nintendo]]<ref name="Rabbids-asia">{{cite news |last1=Varanini |first1=Giancarlo |title=NINTENDO PUBLISHING MARIO + RABBIDS IN JAPAN AND KOREA |url=https://news.ubisoft.com/en-us/article/73s4WdZTmoXqoxTjOuQwmj/nintendo-publishing-mario-rabbids-in-japan-and-korea |website=Ubisoft |date=September 22, 2017 |access-date=February 3, 2019 |archive-date=January 23, 2021 |archive-url=https://web.archive.org/web/20210123144654/https://news.ubisoft.com/en-us/article/73s4WdZTmoXqoxTjOuQwmj/nintendo-publishing-mario-rabbids-in-japan-and-korea |url-status=live }}</ref>}}
+|-
+! scope="row" | ''[[Pokémon Mystery Dungeon: Rescue Team DX]]''
+| {{nts|1.99}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|March 6, 2020}}
+| [[Roguelike]]
+| [[Spike Chunsoft]]
+| rowspan="6" | [[Nintendo]]
+|-
+! scope="row" | ''[[Mario & Luigi: Brothership]]''
+| {{nts|1.97}}{{nbsp}}million<ref name=":2" />
+| {{dts|March 31, 2025}}
+| {{dts|November 7, 2024}}
+|[[Role-playing video game|Role-playing]]
+|[[Acquire (company)|Acquire]]
+|-
+! scope="row" | ''[[Big Brain Academy: Brain vs. Brain]]''
+| {{nts|1.94}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|December 3, 2021}}
+| [[Puzzle video game|Puzzle]]
+| [[Nintendo EPD]], [[indieszero]]
+|-
+! scope="row" |''[[Luigi's Mansion 2 HD]]''
+| {{nts|1.88}}{{nbsp}}million<ref name=":2" />
+| {{dts|March 31, 2025}}
+| {{dts|June 27, 2024}}
+| {{hlist|[[Action-Adventure]]}}
+| [[Tantalus Media]]
+|-
+! scope="row" | ''[[Xenoblade Chronicles: Definitive Edition]]''
+| {{nts|1.88}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|May 29, 2020}}
+| rowspan="2" | [[Action role-playing]]
+| rowspan="2" | [[Monolith Soft]]
+|-
+! scope="row" | ''[[Xenoblade Chronicles 3]]''
+| {{nts|1.86}}{{nbsp}}million<ref name="March2023"/>
+| {{dts|March 31, 2023}}
+| {{dts|July 29, 2022}}
+|-
+! scope="row" | ''[[Dragon Ball Xenoverse 2]]''
+| {{nts|1.82}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="4" | {{dts|December 31, 2022}}
+| {{dts|September 7, 2017}}
+| [[Fighting game|Fighting]]
+| [[Dimps]]
+| [[Bandai Namco Entertainment]]
+|-
+! scope="row" | ''[[Miitopia]]''
+| {{nts|1.79}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|May 21, 2021}}
+| [[Role-playing video game|Role-playing]]
+| [[Grezzo]]
+| rowspan="2" | [[Nintendo]]
+|-
+! scope="row" | ''[[Mario Kart Live: Home Circuit]]''
+| {{nts|1.73}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|October 16, 2020}}
+| {{hlist|[[Kart racing game|Kart racing]]|[[augmented reality]]}}
+| [[Velan Studios]]
+|-
+! scope="row" | ''[[Naruto: Ultimate Ninja#Naruto Shippudden: Ultimate Ninja Warrior Trilogy/Legacy|Naruto Shippudden: Ultimate Ninja Storm Trilogy]]''
+| {{nts|1.73}}{{nbsp}}million<ref name="CESA2023"/>
+| {{dts|July 27, 2017}}
+| [[Fighting game|Fighting]]
+| [[CyberConnect2]]
+| [[Bandai Namco Entertainment]]
+|-
+! scope="row" | ''[[Resident Evil: Revelations|Resident Evil: Revelations Collection]]''
+| {{nts|1.70}}{{nbsp}}million<ref name="Platinum Titles">{{cite web | url=https://www.capcom.co.jp/ir/english/business/million.html | title=Platinum Titles &#124;Product Data &#124; CAPCOM | access-date=February 1, 2022 | archive-date=July 14, 2008 | archive-url=https://web.archive.org/web/20080714022921/http://ir.capcom.co.jp/english/data/million.html | url-status=live }}</ref>
+| {{dts|June 30, 2026}}
+| {{dts|November 27, 2017}}
+| [[Survival horror]]
+| [[Capcom]]
+|[[Capcom]]
+|-
+! scope="row" | ''[[Fire Emblem Engage]]''
+| {{nts|1.61}}{{nbsp}}million<ref name="March2023"/>
+| {{dts|March 31, 2023}}
+| {{dts|January 20, 2023}}
+| [[Tactical role-playing]]
+| [[Intelligent Systems]]
+| rowspan="2" | [[Nintendo]]
+|-
+! scope="row" | ''[[Marvel Ultimate Alliance 3: The Black Order]]''
+| {{nts|1.60}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|July 19, 2019}}
+| [[Action role-playing]]
+| [[Team Ninja]]
+|-
+! scope="row" | ''[[Pokkén Tournament DX]]''
+| {{nts|1.54}}{{nbsp}}million{{efn|''Pokkén Tournament DX'' sales breakdown:
+*Worldwide &ndash; 1.16 million<ref>{{Cite web|last1=McFerran|first1=Damien|title=Super Mario Odyssey Passes The 10 Million Sold Marker|url=http://www.nintendolife.com/news/2018/04/super_mario_odyssey_passes_the_10_million_sold_marker|website=Nintendo Life|date=April 26, 2018|access-date=April 27, 2018|archive-date=April 27, 2018|archive-url=https://web.archive.org/web/20180427120531/http://www.nintendolife.com/news/2018/04/super_mario_odyssey_passes_the_10_million_sold_marker|url-status=live}}</ref>
+*Japan &ndash; 0.38 million (physical)<ref name="CESA2022" />
+|name=|group=}}
+| {{dts|January 2, 2022}}
+| {{dts|September 22, 2017}}
+| [[Fighting game|Fighting]]
+| [[Bandai Namco Studios]]
+| {{vgrelease|JP|[[The Pokémon Company]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Momotaro Dentetsu|Momotaro Dentetsu World: Chikyuu wa Kibou de Mawatteru!]]''
+|{{nts|1.50}}{{nbsp}}million<ref>{{Cite web |date=December 25, 2024 |title=Momotaro Dentetsu World: Chikyuu wa Kibou de Mawatteru! shipments and digital sales top 1.5 million |url=https://www.gematsu.com/2024/12/momotaro-dentetsu-world-chikyuu-wa-kibou-de-mawatteru-shipments-and-digital-sales-top-1-5-million |access-date=December 26, 2024 |website=Gematsu}}</ref>
+|{{dts|December 25, 2024}}
+|{{dts|November 16, 2023}}
+|[[Board game]]
+|[[Konami]]
+|{{vgrelease|JP|[[Konami]]}}
+|-
+! scope="row" | ''[[Kirby's Return to Dream Land Deluxe]]''
+| {{nts|1.46}}{{nbsp}}million<ref name="March2023"/>
+| {{dts|March 31, 2023}}
+| {{dts|February 24, 2023}}
+| [[Platformer]]
+| [[HAL Laboratory]]
+| rowspan="4" | [[Nintendo]]
+|-
+! scope="row" | ''[[Nintendo Labo Toy-Con 01: Variety Kit]]''
+| {{nts|1.42}}{{nbsp}}million<ref name="CESA2021" />
+| {{dts|December 31, 2020}}
+| {{dts|April 20, 2018}}
+| [[Construction kit]]
+| [[Nintendo EPD]]
+|-
+! scope="row" | ''[[WarioWare: Get It Together!]]''
+| {{nts|1.34}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|September 10, 2021}}
+| [[Party game|Party]]
+| {{hlist||[[Intelligent Systems]]}}
+|-
+! scope="row" | ''[[Astral Chain]]''
+| {{nts|1.33}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|August 30, 2019}}
+| {{hlist|[[Action-adventure]]|[[hack and slash]]}}
+| [[PlatinumGames]]
+|-
+! scope="row" | ''[[Dragon's Dogma: Dark Arisen]]''
+| {{nts|1.30}}{{nbsp}}million<ref name="Platinum Titles" />
+| {{dts|June 30, 2025}}
+| {{dts|April 23, 2019}}
+|[[Role-playing video game|Role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+! scope="row" |''[[Princess Peach: Showtime!]]''
+| {{nts|1.30}}{{nbsp}}million<ref name="June2024">{{cite web |date=August 2, 2024 |title=Financial Result Explanatory Material 1st Quarter of Fiscal Year Ending March 2025 |url=https://www.nintendo.co.jp/ir/pdf/2024/240802_2e.pdf |access-date=2 August 2024 |website=Nintendo}}</ref>
+| {{dts|June 30, 2024}}
+| {{dts|March 22, 2024}}
+| {{hlist|[[Action-adventure]]}}
+| [[Good-Feel]]
+| [[Nintendo]]
+|-
+! scope="row" | ''[[Resident Evil 6]]''
+| {{nts|1.30}}{{nbsp}}million<ref name="Platinum Titles" />
+| {{dts|June 30, 2026}}
+| {{dts|October 29, 2019}}
+| [[Survival horror]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+! scope="row" | ''[[Donkey Kong Country Returns|Donkey Kong Country Returns HD]]''
+| {{nts|1.27}}{{nbsp}}million<ref name=":2" />
+| {{dts|March 31, 2025}}
+| {{dts|January 16, 2025}}
+| [[Platformer]]
+| Forever Entertainment
+| rowspan="4" | [[Nintendo]]
+|-
+! scope="row" | ''[[Dr Kawashima's Brain Training for Nintendo Switch]]''
+| {{nts|1.27}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="3" | {{dts|December 31, 2022}}
+| {{dts|December 27, 2019}}
+| [[Puzzle video game|Puzzle]]
+| [[Nintendo EPD]], [[indieszero]]
+|-
+! scope="row" |''[[Bayonetta (video game)|Bayonetta]]''
+| {{nts|1.24}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="2" | {{dts|February 16, 2018}}
+| rowspan="2" | {{hlist|[[Action-adventure]]|[[hack and slash]]}}
+| rowspan="2" | [[PlatinumGames]]
+|-
+! scope="row" |''[[Bayonetta 2]]''
+| {{nts|1.23}}{{nbsp}}million<ref name="CESA2023"/>
+|-
+! scope="row" | ''[[Resident Evil 4]]''
+| {{nts|1.20}}{{nbsp}}million<ref name="Platinum Titles" />
+| {{dts|June 30, 2026}}
+| {{dts|May 21, 2019}}
+| [[Survival horror]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+! scope="row" |''[[Dark Souls (video game)|Dark Souls Remastered]]''
+| {{nts|1.15}}{{nbsp}}million<ref name="CESA2023"/>
+| rowspan="2" | {{dts|December 31, 2022}}
+| {{dts|October 19, 2018}}
+| {{hlist|[[Action role-playing game]]}}
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]
+|-
+! scope="row" | ''[[Game Builder Garage]]''
+| {{nts|1.15}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|June 11, 2021}}
+| [[Programming game|Programming]]
+| [[Nintendo EPD]]
+| rowspan="2" | [[Nintendo]]
+|-
+! scope="row" |''[[Mario vs. Donkey Kong#Remake|Mario vs. Donkey Kong]]''
+| {{nts|1.12}}{{nbsp}}million<ref name=":0" />
+| {{dts|March 31, 2024}}
+| {{dts|February 16, 2024}}
+| {{hlist|[[Puzzle-platform]]}}
+| [[Nintendo Software Technology]]
+|-
+! scope="row" | ''[[Shin Megami Tensei V]]''
+|{{nts|1.10}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|December 31, 2022}}
+| {{dts|November 11, 2021}}
+|[[Role-playing video game|Role-playing]]
+|[[Atlus]]
+|{{vgrelease|JP|[[Atlus]]|NA|[[Sega]]|PAL|[[Nintendo]]}}
+|-
+! scope="row" |''[[Metroid Prime Remastered]]''
+| {{nts|1.09}}{{nbsp}}million<ref name="March2023"/>
+| rowspan="2" | {{dts|March 31, 2023}}
+| {{dts|February 8, 2023}}
+| [[Action-adventure]]
+| [[Retro Studios]]
+| rowspan="2" | [[Nintendo]]
+|-
+! scope="row" |''[[Bayonetta 3]]''
+| {{nts|1.07}}{{nbsp}}million<ref name="March2023"/>
+| {{dts|October 28, 2022}}
+| {{hlist|[[Action-adventure]]|[[hack and slash]]}}
+| [[PlatinumGames]]
+|-
+! scope="row" |''[[Mario & Sonic at the Olympic Games Tokyo 2020]]''
+| {{nts|1.02}}{{nbsp}}million{{efn|Mario & Sonic sales breakdown:
+* Worldwide as of March 31, 2020 {{ndash}} 0.9 million<ref>{{Cite web |date=April 16, 2021 |title=Sega Europe Limited Annual Financial Statements for the Year Ended 31 March 2020 |url=https://find-and-update.company-information.service.gov.uk/company/01669057/filing-history/MzI5NzU3MDE2NGFkaXF6a2N4/document?format=pdf&download=0 |access-date=January 18, 2024 |website=Sega Europe Limited |archive-date=April 5, 2024 |archive-url=https://web.archive.org/web/20240405224059/https://find-and-update.company-information.service.gov.uk/company/01669057/filing-history/MzI5NzU3MDE2NGFkaXF6a2N4/document?format=pdf&download=0 |url-status=live }}</ref>
+* Japan physical afterwards from April 5, 2020 up until March 3, 2022 {{ndash}} 0.126{{nbsp}}million<ref>{{Cite web |date=April 8, 2020 |title=Famitsu Sales: 3/30/20 – 4/5/20 [Update] |url=https://www.gematsu.com/2020/04/famitsu-sales-3-30-20-4-5-20 |access-date=January 18, 2024 |website=Gematsu |archive-date=January 21, 2024 |archive-url=https://web.archive.org/web/20240121091718/https://www.gematsu.com/2020/04/famitsu-sales-3-30-20-4-5-20 |url-status=live }}</ref><ref>{{Cite web |date=March 13, 2022 |title=Best-selling games on Switch in Japan after five years |url=https://nintendoeverything.com/best-selling-games-on-switch-in-japan-after-five-years/ |access-date=January 18, 2024 |website=Nintendo Everything |archive-date=October 17, 2023 |archive-url=https://web.archive.org/web/20231017142401/https://nintendoeverything.com/best-selling-games-on-switch-in-japan-after-five-years/ |url-status=live }}</ref>|name=|group=}}
+| {{dts|March 3, 2022}}
+| {{dts|November 1, 2019}}
+|[[Sports video game|Sports]]
+|[[Sega]]
+|[[Sega]]
+|-
+! scope="row" |''[[Dragon Quest III HD-2D Remake]]''
+|{{nts|1}}{{nbsp}}million{{efn|Japan only retail|name=|group=}}<ref>{{cite web |title=Famitsu Sales: 3/10/25 – 3/16/25 |url=https://www.gematsu.com/2025/03/famitsu-sales-3-10-25-3-16-25 |website=Gematsu |access-date=22 March 2025}}</ref>
+|{{dts|March 16, 2025}}
+|{{dts|November 14, 2024}}
+| rowspan="2" |[[Role-playing video game|Role-playing]]
+|{{hlist|[[Square Enix]]|[[Artdink]]}}
+| rowspan="2" |[[Square Enix]]
+|-
+! scope="row" | ''[[Dragon Quest Monsters: The Dark Prince]]''
+| {{nts|1}}{{nbsp}}million<ref>{{Cite web |date=January 17, 2024 |title=Dragon Quest Monsters: The Dark Prince shipments and digital sales top one million |url=https://www.gematsu.com/2024/01/dragon-quest-monsters-the-dark-prince-shipments-and-digital-sales-top-one-million |access-date=January 18, 2024 |website=Gematsu |archive-date=January 17, 2024 |archive-url=https://web.archive.org/web/20240117224306/https://www.gematsu.com/2024/01/dragon-quest-monsters-the-dark-prince-shipments-and-digital-sales-top-one-million |url-status=live }}</ref>
+| {{dts|January 17, 2024}}
+| {{dts|December 1, 2023}}
+|[[Tose (company)|Tose]]
+|-
+! scope="row" | ''[[Enter the Gungeon]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |last1=Swalley |first1=Kirstin |title=Enter the Gungeon Sells 1 Million on Switch with Physical Edition on the way |url=https://www.hardcoregamer.com/2019/03/03/enter-the-gungeon-sells-1-million-on-switch-with-physical-edition-on-the-way/326203/ |website=Hardcore Gamer |date=March 3, 2019 |access-date=March 4, 2019 |archive-date=July 31, 2019 |archive-url=https://web.archive.org/web/20190731065658/https://www.hardcoregamer.com/2019/03/03/enter-the-gungeon-sells-1-million-on-switch-with-physical-edition-on-the-way/326203/ |url-status=live }}</ref>
+| {{dts|March 3, 2019}}
+| {{dts|December 14, 2017}}
+| [[Bullet hell]]
+| Dodge Roll
+| [[Devolver Digital]]
+|-
+! scope="row" | ''[[Fire Emblem Warriors: Three Hopes]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web|title=【世界累計出荷100万本突破】『#FE無双風花雪月』の世界累計出荷本数が100万本を突破しました。ご購入いただいた皆さま、誠にありがとうございます！ 現在体験版も配信中ですので、購入を検討されている方はぜひお試しください。 体験版、ご購入はこちら|url=https://twitter.com/FireEmblemMusou/status/1559812281835347968|website=Twitter|publisher=[[Koei Tecmo|Gamecity]]|access-date=17 August 2021|archive-date=August 17, 2022|archive-url=https://web.archive.org/web/20220817093213/https://twitter.com/fireemblemmusou/status/1559812281835347968|url-status=live}}</ref>
+| {{dts|August 17, 2022}}
+| {{dts|June 24, 2022}}
+| {{hlist|[[Hack and slash]]|[[Role-playing]]}}
+| [[Omega Force]]
+| {{vgrelease|JP|[[Koei Tecmo]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | ''[[Fitness Boxing]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |title=Nintendo Switch software "Fit Boxing" and "Fitness Boxing" (overseas version) Announcement of worldwide cumulative shipment of 1 million units |url=https://www.imagineer.co.jp/news/news.php?id=1506 |website=Imagineer |date=September 8, 2020 |access-date=September 8, 2020 |archive-date=October 29, 2020 |archive-url=https://web.archive.org/web/20201029080059/https://www.imagineer.co.jp/news/news.php?id=1506 |url-status=live }}</ref>
+| {{dts|September 8, 2020}}
+| {{dts|December 20, 2018}}
+| {{hlist|[[Exergame]]|[[Rhythm game|rhythm]]}}
+| rowspan="2" | [[Imagineer (Japanese company)|Imagineer]]
+| rowspan="2" | {{vgrelease|JP|[[Imagineer (Japanese company)|Imagineer]]|NA/PAL|[[Nintendo]]}}
+|-
+! scope="row" | [[Fitness Boxing|''Fitness Boxing 2: Rhythm and Exercise'']]
+|{{nts|1}}{{nbsp}}million<ref>{{Cite web|title=イマジニア、Switch用ソフト『Fit Boxing 2』の全世界での累計出荷販売本数が100万本を突破！ {{!}} gamebiz|url=https://gamebiz.jp/news/338934|access-date=2021-12-09|website=gamebiz【ゲームビズ】|language=ja|archive-date=December 9, 2021|archive-url=https://web.archive.org/web/20211209151746/https://gamebiz.jp/news/338934|url-status=live}}</ref>
+| {{dts|December 9, 2021}}
+| {{dts|December 4, 2020}}
+|{{hlist|[[Exergame]]|[[Rhythm game|rhythm]]}}
+|-
+! scope="row" | ''[[Rhythm Heaven Groove]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite news |last=Reynolds |first=Ollie |title=Japanese Charts: Rhythm Heaven Groove Surpasses 1 Million Boxed Units Sold |url=https://www.nintendolife.com/news/2026/09/japanese-charts-rhythm-heaven-groove-surpasses-1-million-boxed-units-sold |access-date=September 17, 2026 |work=Nintendo Life |date=September 17, 2026}}</ref>
+| {{dts|September 13, 2026}}
+| {{dts|July 2, 2026}}
+| [[Rhythm game|Rhythm]], [[Music video game|Music]]
+| [[Nintendo EPD]]
+| [[Nintendo]]
+|-
+! scope="row" |''[[Story of Seasons: Pioneers of Olive Town]]''
+|{{nts|1}}{{nbsp}}million<ref name="Marvelous">{{cite web |date=November 18, 2021 |title=STORY OF SEASONS: Pioneers of Olive Town Free Content Update Revealed with New Series Sales Milestone |url=https://www.xseedgames.com/2021/11/18/story-of-seasons-pioneers-of-olive-town-free-content-update-revealed-with-new-series-sales-milestone/ |url-status=live |archive-url=https://web.archive.org/web/20211130191517/https://www.xseedgames.com/2021/11/18/story-of-seasons-pioneers-of-olive-town-free-content-update-revealed-with-new-series-sales-milestone/ |archive-date=November 30, 2021 |access-date=25 November 2021 |website=XSEED Games}}</ref>
+|{{dts|November 18, 2021}}
+|{{dts|February 25, 2021}}
+|{{hlist|[[Simulation]]|[[Role-playing video game|role-playing]]}}
+|[[Marvelous Entertainment|Marvelous]]
+|[[Xseed Games]]
+|-
+! scope="row" | ''[[Thief Simulator]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |title=Have you seen the robber? Thief Simulator - our first game with 1 000 000 copies sold on #NintendoSwitch! |url=https://twitter.com/ForeverEntert/status/1415931294438068224 |website=Twitter |publisher=Forever Entertainment |access-date=16 July 2021 |archive-date=August 5, 2021 |archive-url=https://web.archive.org/web/20210805030018/https://twitter.com/foreverentert/status/1415931294438068224 |url-status=live }}</ref>
+| {{dts|July 16, 2021}}
+| {{dts|May 19, 2019}}
+| [[Stealth game|Stealth]]
+| Noble Muffins
+| Forever Entertainment
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Duplicated citations|reason=DuplicateReferences script detected:
+* https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html (refs: 2, 3)
+|date=October 2026}}
+
+{{reflist}}
+
+{{vgbestsellers}}
+{{Nintendo Switch}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Nintendo Switch video games}}
+[[Category:Lists of Nintendo Switch games|Best-selling]]
+[[Category:Lists of best-selling Nintendo video games|Nintendo Switch]]

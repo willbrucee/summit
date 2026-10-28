@@ -65,6 +65,8 @@ function renderPrompt(p) {
   const meta = el('dl', { className: 'qa-meta' },
     el('dt', { textContent: 'Size' }), el('dd', { textContent: `${p.size}${p.finite ? ' (closed set, count shown)' : ' (open set)'}` }),
     el('dt', { textContent: 'Target' }), el('dd', { textContent: String(p.target) }),
+    el('dt', { textContent: 'Widely known' }), el('dd', { textContent: `${f.known} answers (25+ Wikidata sitelinks, or a common English word)` }),
+    p.outside ? el('dt', { textContent: 'Outside pool' }) : null, p.outside ? el('dd', { textContent: `${p.outside.length} real ones not on the list: "${p.outsideLine}"` }) : null,
     el('dt', { textContent: 'Difficulty' }), el('dd', { textContent: String(p.difficulty) }),
     el('dt', { textContent: 'Source' }), el('dd', { textContent: p.source }),
     p.note ? el('dt', { textContent: 'Note' }) : null, p.note ? el('dd', { textContent: p.note }) : null);
@@ -82,7 +84,7 @@ function renderPrompt(p) {
     el('summary', {},
       el('span', { className: 'qa-name', textContent: p.text }),
       el('span', { className: 'qa-tag', textContent: data.categories[p.category] }),
-      el('span', { className: 'qa-tag', textContent: `${p.size} answers` }),
+      el('span', { className: 'qa-tag', textContent: `${p.size} answers, ${f.known} known` }),
       n ? el('span', { className: 'qa-tag qa-tag-flag', textContent: `${n} to check` }) : null),
     el('div', { className: 'qa-body' },
       meta,

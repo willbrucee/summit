@@ -10,6 +10,8 @@
     "smoke": "node tools/smoke.cjs screenshots",
     "contrast": "node tools/contrast.mjs",
     "shots": "node tools/shots.cjs screenshots",
-    "e2e": "node tests/e2e-no-preview.cjs && node tools/smoke.cjs screenshots"
+    "e2e": "node tests/e2e-no-preview.cjs && node tools/smoke.cjs screenshots",
+    "knowability": "node tools/knowability.mjs",
+    "fetch-lists": "node build/fetch-wiki.mjs && node build/fetch-wiki-items.mjs"
   }
 }

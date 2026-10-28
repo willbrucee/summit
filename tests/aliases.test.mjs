@@ -43,7 +43,7 @@ const real = (id) => {
   return { index: buildIndex(p.answers), answers: p.answers };
 };
 const countries = real('countries-world');
-const nba = real('nba-teams');
+const nba = real('us-teams');
 
 const cases = [
   [games, 'R6', "Tom Clancy's Rainbow Six Siege"],

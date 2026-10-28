@@ -1,0 +1,638 @@
+{{Short description|None}}
+{{Dynamic list}}
+{{Video games}}
+[[File:PS4-Console-wDS4.jpg|thumb|right|PlayStation 4 with [[DualShock 4]] controller]]
+
+This is a list of video games for the [[PlayStation 4]] [[video game console]] that have sold or shipped at least one million copies.
+{{clear}}
+
+==List==
+{{srn}}
+<!-- DO NOT ADD NUMBERS FROM VGCHARTZ. THEY ARE ESTIMATES NOT TO BE USED HERE. AND MAKE SURE ANY SALES NUMBERS ADDED DO NOT INCLUDE ANOTHER CONSOLE'S SKU, AN EXAMPLE BEING FINAL FANTASY XV'S 6 MILLION FIGURE WHICH INCLUDES XBOX ONE -->
+{| class="wikitable plainrowheaders sortable static-row-numbers"
+|+ List of best-selling PlayStation 4 video games
+! scope="col" | Game
+! scope="col" | Copies sold
+! scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+! scope="col" | Genre(s)
+! scope="col" | Developer(s)
+! scope="col" | Publisher(s)
+|-
+| ''[[Grand Theft Auto V]]''
+| {{nts|29.52}}{{nbsp}}million{{efn|Of the 90 million total units sold by April 2018, 27.4% of that total were for the PlayStation 4 version.<ref>{{Cite web |last=Cherney |first=Max A. |title=This violent videogame has made more money than any movie ever |url=https://www.marketwatch.com/story/this-violent-videogame-has-made-more-money-than-any-movie-ever-2018-04-06 |access-date=2022-06-14 |website=[[MarketWatch]] |language=EN-US |archive-date=2018-04-07 |archive-url=https://web.archive.org/web/20180407133735/https://www.marketwatch.com/story/this-violent-videogame-has-made-more-money-than-any-movie-ever-2018-04-06 |url-status=live }}</ref>}}{{efn|''Grand Theft Auto V'' sales breakdown:
+* Asia {{ndash}} over 1,000,000<ref name="PlayStation Awards 2017">{{cite web|url=http://www.siliconera.com/2017/11/30/playstation-awards-2017-winners/|title=Here Are Your PlayStation Awards 2017 Winners|last=Sato|work=Siliconera|date=November 30, 2017|access-date=December 1, 2017|archive-date=December 1, 2017|archive-url=https://web.archive.org/web/20171201182711/http://www.siliconera.com/2017/11/30/playstation-awards-2017-winners/|url-status=live}}</ref>
+** Japan {{ndash}} 578,165 (retail)<ref name="GTAVLowpriceSku">{{cite web|url=http://gematsu.com/2017/08/media-create-sales-73117-8617|title=Media Create Sales: 7/31/17 – 8/6/17|last=Romano|first=Sal|work=Gematsu|date=August 9, 2017|access-date=August 20, 2017|archive-date=June 12, 2020|archive-url=https://web.archive.org/web/20200612000707/https://www.gematsu.com/2017/08/media-create-sales-73117-8617|url-status=live}}</ref><ref name="GTAVPS41stSku">{{cite web|url=http://nintendoeverything.com/japans-top-1000-best-selling-games-of-2015/|title=Japan's top 1,000 best-selling games of 2015|last=Brian|work=Nintendo Everything|date=September 11, 2016|access-date=August 20, 2017|archive-date=August 20, 2017|archive-url=https://web.archive.org/web/20170820120137/http://nintendoeverything.com/japans-top-1000-best-selling-games-of-2015/|url-status=live}}</ref>{{efn|Combined Japanese sales of the original ''Grand Theft Auto V'' PlayStation 4 SKU and the lower price SKU.}}
+* France {{ndash}} 993,545<ref name="France 2016" /><ref name="France2017" /><ref name = "SELL 2020"/><ref name = "SELL 2021"/>
+* Germany {{ndash}} 500,000<ref name="2016 Germany" />
+}}
+| {{dts|November 18, 2014}}
+| Action-adventure
+| [[Rockstar North]]
+| [[Rockstar Games]]
+|-
+| ''[[Marvel's Spider-Man (video game)|Marvel's Spider-Man]]''
+| {{nts|22.68}}{{nbsp}}million<ref>{{Cite web |first=Sherif |last=Saed |date=2020-11-18 |title=Spider-Man PS4 has sold over 20 million units |url=https://www.vg247.com/spider-man-ps4-20-million-sales |access-date=2023-09-17 |website=VG247 |language=en}}</ref><ref name=":0">{{cite web | title=Data on sales of Sony games on PlayStation leaked to the network | website=app2top.com | date=2023-12-20 | url=https://app2top.com/news/data-on-sales-of-sony-games-on-playstation-leaked-to-the-network-261149.html | language=en| access-date=2025-08-20}}</ref><ref name=":1">{{cite web | title=PlayStation first-party game sales: Bloodborne at 7.5 million as of early 2022 | date=19 December 2023 | url=https://www.tweaktown.com/news/95061/playstation-first-party-game-sales-bloodborne-at-7-5-million-as-of-early-2022/index.html }}</ref>{{efn|''Marvel's Spider-Man'' sales breakdown:
+* Japan {{ndash}} 125,154 (retail)<ref name="SpidermanJapan">{{cite web|url=https://gematsu.com/2018/09/media-create-sales-9-3-18-9-9-18|title=Media Create Sales: 9/3/18 – 9/9/18|work=Gematsu|date=September 12, 2018|access-date=September 20, 2018|archive-date=September 20, 2018|archive-url=https://web.archive.org/web/20180920195723/https://gematsu.com/2018/09/media-create-sales-9-3-18-9-9-18|url-status=live}}</ref>
+}}
+| {{dts|September 7, 2018}}
+| Action-adventure
+| [[Insomniac Games]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[God of War (2018 video game)|God of War]]''
+| {{nts|21.02}}{{nbsp}}million<ref>{{cite web |last1=Ramsey |first1=Robert |title=God of War Sales Hit a Staggering 19.5 Million Copies on PS4 |url=https://www.pushsquare.com/news/2021/10/god-of-war-sales-hit-a-staggering-19-5-million-copies-on-ps4 |website=Push Square |access-date=6 December 2022 |date=20 October 2021 |archive-date=25 September 2022 |archive-url=https://web.archive.org/web/20220925140833/https://www.pushsquare.com/news/2021/10/god-of-war-sales-hit-a-staggering-19-5-million-copies-on-ps4 |url-status=live }}</ref><ref name=":0" /><ref name=":1" />
+| {{dts|April 20, 2018}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Santa Monica Studio]]
+| Sony Interactive Entertainment
+|-
+| ''[[Horizon Zero Dawn]]''
+| {{nts|19.29}}{{nbsp}}million<ref name=":0" /><ref name=":1" />{{efn|''Horizon Zero Dawn'' sales breakdown:
+* Germany {{ndash}} 200,000<ref name="HZDGermansales">{{cite web|url=https://www.biu-online.de/blog/2017/04/13/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-maerz-2017/|title=BIU Sales Awards: Die erfolgreichsten Computer- und Videospiele im März 2017|date=April 13, 2017|access-date=September 21, 2017|website=Federal Association of Interactive Entertainment Software|archive-date=September 23, 2017|archive-url=https://web.archive.org/web/20170923003106/https://www.biu-online.de/blog/2017/04/13/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-maerz-2017/}}</ref>
+* Japan {{ndash}} 204,517 (retail)<ref name="Media CreateHorizon">{{cite web|url=http://gematsu.com/2017/04/media-create-sales-41717-42317|title=Media Create Sales: 4/17/17 – 4/23/17|last=Romano|first=Sal|work=Gematsu|date=April 26, 2017|access-date=June 6, 2017|archive-date=June 8, 2017|archive-url=https://web.archive.org/web/20170608053321/http://gematsu.com/2017/04/media-create-sales-41717-42317|url-status=live}}</ref>
+* United Kingdom {{ndash}} 286,538 (retail)<ref>{{cite web|url=http://www.eurogamer.net/articles/2017-07-26-gta-5-tops-uk-physical-game-sales-chart-for-first-half-of-2017|title=GTA 5 tops UK physical game sales chart for first half of 2017|date=July 26, 2017|access-date=September 21, 2017|last=Yin-Poole|first=Wesley|work=[[Eurogamer]]|archive-date=September 23, 2017|archive-url=https://web.archive.org/web/20170923002242/http://www.eurogamer.net/articles/2017-07-26-gta-5-tops-uk-physical-game-sales-chart-for-first-half-of-2017|url-status=live}}</ref>
+* Worldwide {{ndash}} 915,000 (digital sales)<ref name="HorizonsalesasofApril30">{{cite web|url=https://www.polygon.com/2017/6/5/15728406/ps4-sales-stats|title=Sony: PS4 owners spend about 50,000 years a week gaming|publisher=Polygon|date=June 5, 2017|access-date=June 5, 2017|first=Brian|last=Crecente|archive-date=June 10, 2017|archive-url=https://web.archive.org/web/20170610175814/https://www.polygon.com/2017/6/5/15728406/ps4-sales-stats|url-status=live}}</ref>
+}}
+| {{dts|February 28, 2017}}
+| Action role-playing
+| [[Guerrilla Games]]
+| Sony Interactive Entertainment
+|-
+| ''[[Uncharted 4: A Thief's End]]''
+| {{nts|18.65}}{{nbsp}}million<ref>{{cite web|url=https://gameworldobserver.com/2019/10/14/niko-partners-uncharted-4-sold/|title=Niko Partners: Uncharted 4 sold 16 million copies, The Last of Us – 20 million|website=Game World Observer|date=14 October 2019|access-date=9 June 2020|archive-date=15 January 2021|archive-url=https://web.archive.org/web/20210115153136/https://gameworldobserver.com/2019/10/14/niko-partners-uncharted-4-sold/|url-status=live}}</ref><ref name=":0" /><ref name=":1" />{{efn|''Uncharted 4: A Thief's End'' sales breakdown:
+* Germany {{ndash}} 500,000<ref name="November2016Germany">{{cite web|url=https://www.biu-online.de/blog/2016/12/19/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-november-2016/|title=BIU Sales Awards: Die erfolgreichsten Computer- und Videospiele im November 2016|date=December 19, 2016|access-date=September 24, 2017|website=Federal Association of Interactive Entertainment Software|archive-date=September 24, 2017|archive-url=https://web.archive.org/web/20170924141609/https://www.biu-online.de/blog/2016/12/19/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-november-2016/}}</ref>
+* Japan {{ndash}} 190,230 (retail)<ref name="Media Create 2016">{{cite web|url=http://www.perfectly-nintendo.com/japan-cy-2016-sales-media-create/|title=Japan: CY 2016 sales (Media Create)|publisher=Perfectly Nintendo|date=September 8, 2017|access-date=September 9, 2017|archive-date=September 12, 2017|archive-url=https://web.archive.org/web/20170912131713/http://www.perfectly-nintendo.com/japan-cy-2016-sales-media-create/|url-status=live}}</ref>{{Unreliable source?|date=November 2025|certain=y|reason=Listed as unreliable in WP:VG/S}}
+* United States {{ndash}} 879,000 (retail)<ref>{{cite web|url=https://www.gamekult.com/actualite/charts-usa-uncharted-4-evidemment-164493.html|title=Charts USA: Uncharted 4, évidemment|publisher=Gamekult|last=Jarod|date=June 10, 2016|access-date=September 24, 2017|archive-date=September 24, 2017|archive-url=https://web.archive.org/web/20170924140725/https://www.gamekult.com/actualite/charts-usa-uncharted-4-evidemment-164493.html|url-status=live}}</ref>{{efn|79,000 of the 879,000 were sold as part of a bundle.}}
+}}
+| {{dts|May 10, 2016}}
+| Action-adventure
+| [[Naughty Dog]]
+| Sony Interactive Entertainment
+|-
+|''[[The Last of Us Remastered]]''
+| {{nts|18.63}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+|{{dts|July 29, 2014}}
+|Action-adventure Survival horror
+|[[Naughty Dog]]
+|[[Sony Computer Entertainment]]
+|-
+|''[[Minecraft: PlayStation 4 Edition]]''
+| {{nts|17}}{{nbsp}}million<ref>{{cite web | title=4J Studios (@4JStudios) on X | work=X (formerly Twitter) | url=https://x.com/4JStudios/status/1204435693315010562 }}</ref>
+| {{dts|September 4, 2014}}
+|{{hlist|[[Sandbox game|Sandbox]]|[[survival game|survival]]}}
+|[[4J Studios]]
+|[[Sony Computer Entertainment]]
+|-
+| ''[[Call of Duty: Black Ops III]]''
+| {{nts|15}}{{nbsp}}million<ref name="thegamer">{{cite web | title=Black Ops III Was the Best-Selling Call of Duty on Consoles | date=19 March 2020 | url=https://www.thegamer.com/call-of-duty-black-ops-iii-best-selling/ }}</ref>
+| {{dts|November 6, 2015}}
+| [[First-person shooter]]
+| [[Sledgehammer Games]]
+| [[Activision]]
+|-
+| ''[[Call of Duty: WWII]]''
+| {{nts|13.4}}{{nbsp}}million<ref name="thegamer" />
+| {{dts|November 3, 2017}}
+| [[First-person shooter]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Gran Turismo Sport]]''
+| {{nts|12.97}}{{nbsp}}million<ref name="strongersony">{{cite web |title=GT Sport sold 12.72 million copies generating 355 million in revenue |url= https://www.gtplanet.net/data-leak-reveals-gt-sport-sold-12-7-million-copies-generating-355m-in-revenue/#:~:text=According%20to%20the%20leak%2C%20GT,represents%20copies%20sold%20to%20customers. |date=December 19, 2023|access-date=January 16, 2024}}</ref>
+| {{dts|October 17, 2017}}
+| Racing
+| [[Polyphony Digital]]
+| Sony Interactive Entertainment
+|-
+| ''[[The Witcher 3: Wild Hunt]]''
+| {{nts|12.40}}{{nbsp}}million<ref>{{Cite web|url=https://www.gamespot.com/articles/witcher-3s-sales-by-system-how-the-game-has-sold-o/1100-6475832/|title=Witcher 3's Sales By System--How The Game Has Sold On PC, PS4, Xbox One, And Switch|date=2020-04-17|website=gamespot.com|language=en-US|access-date=2020-04-17|archive-date=2020-09-23|archive-url=https://web.archive.org/web/20200923110415/https://www.gamespot.com/articles/witcher-3s-sales-by-system-how-the-game-has-sold-o/1100-6475832/|url-status=live}}</ref>
+| {{dts|May 18, 2015}}
+| [[Action role-playing game|Action role-playing]]
+| [[CD Projekt Red]]
+| [[CD Projekt]]
+|-
+| ''[[The Last of Us Part II]]''
+| {{nts|10.30}}{{nbsp}}million<ref name="PS Blog Future">{{cite web |url=https://blog.playstation.com/2022/06/09/the-growing-future-of-the-last-of-us/ |title=The Growing Future of ''The Last of Us'' |last=Snyder |first=Rochelle |work=[[PlayStation Blog]] |publisher=[[Sony Interactive Entertainment]] |date=June 9, 2022 |accessdate=June 9, 2022 |archiveurl=https://web.archive.org/web/20220609231633/https://blog.playstation.com/2022/06/09/the-growing-future-of-the-last-of-us/ |archivedate=June 9, 2022 |url-status=live }}</ref>{{efn|''The Last of Us Part II'' sales breakdown:
+* United Kingdom {{ndash}} 543,218<ref name="UK2020Sales">{{cite web|url=https://www.gamesindustry.biz/articles/2021-03-04-ps5-and-xbox-series-sold-800-000-consoles-in-the-uk-last-year|title=PS5 and Xbox Series sold 800,000 consoles in the UK last year|date=March 4, 2021|access-date=March 4, 2021|language=en|website=gamesindustry.biz|archive-date=March 4, 2021|archive-url=https://web.archive.org/web/20210304230604/https://www.gamesindustry.biz/articles/2021-01-08-43-million-games-sold-in-the-uk-in-2020-uk-annual-report|url-status=live}}</ref>
+* Germany {{ndash}} 200,000<ref>{{cite web|url=https://www.game.de/marktdaten/game-sales-awards-juni-2020-2/|title=game Sales Awards Juni 2020|date=July 9, 2020|access-date=July 23, 2020|language=de|website=game.de|archive-date=July 23, 2020|archive-url=https://web.archive.org/web/20200723193233/https://www.game.de/marktdaten/game-sales-awards-juni-2020-2/|url-status=live}}</ref>
+* Japan {{ndash}} 178,696 (retail)<ref>{{cite web|url=https://www.gematsu.com/2020/06/famitsu-sales-6-15-20-6-21-20|title=Famitsu Sales: 6/15/20 – 6/21/20 [Update]|access-date=July 2, 2020|website=Gematsu|date=25 June 2020|archive-date=25 June 2020|archive-url=https://web.archive.org/web/20200625141752/https://www.gematsu.com/2020/06/famitsu-sales-6-15-20-6-21-20|url-status=live}}</ref>
+}}
+| {{dts|June 19, 2020}}
+| {{hlist|Action-adventure|survival horror}}
+| [[Naughty Dog]]
+| Sony Interactive Entertainment
+|-
+|''[[Uncharted: The Nathan Drake Collection]]''
+| {{nts|9.98}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|October 7, 2015}}
+|Action-adventure, third person shooter
+|[[Bluepoint Games]]
+|Sony Computer Entertainment
+|-
+| ''[[Ghost of Tsushima]]''
+| {{nts|9.73}}{{nbsp}}million<ref>{{Cite web |date=2022-07-15 |title=Ghost of Tsushima sales top 9.73 million |url=https://www.gematsu.com/2022/07/ghost-of-tsushima-sales-top-9-73-million |access-date=2022-12-23 |website=Gematsu |language=en-US |archive-date=2022-12-23 |archive-url=https://web.archive.org/web/20221223134230/https://www.gematsu.com/2022/07/ghost-of-tsushima-sales-top-9-73-million |url-status=live }}</ref>
+| {{dts|July 17, 2020}}
+| {{hlist|Action-adventure|[[stealth game|stealth]]}}
+| [[Sucker Punch Productions]]
+| Sony Interactive Entertainment
+|-
+| ''[[Bloodborne]]''
+| {{nts|9.3}}{{nbsp}}million<ref>{{Cite web |url=https://alineaanalytics.substack.com/p/our-most-requested-estimates-and |title=Our most requested estimates (and info on Alinea Analyctics' margin of error) |last=Elliott |first=Rhys |publisher=alineaanalyctics.com |date=November 28, 2025 |access-date=November 28, 2025}}</ref>
+| {{dts|March 24, 2015}}
+| Action role-playing
+| [[FromSoftware]]
+| Sony Computer Entertainment
+|-
+| ''[[Call of Duty: Infinite Warfare]]''
+| {{nts|8.48}}{{nbsp}}million<ref name="thegamer" />
+| {{dts|November 4, 2016}}
+| [[First-person shooter]]
+| [[Infinity Ward]]
+| [[Activision]]
+|-
+| ''[[Star Wars Battlefront (2015 video game)|Star Wars Battlefront]]'' 
+| {{nts|8.42}}{{nbsp}}million<ref>{{cite book |title=Guinness World Records 2018: Gamer's Edition |date=September 18, 2017 |publisher=[[Guinness World Records]] |page=62 |isbn=978-1-912286-22-5}}</ref>
+| {{dts|November 17, 2015}}
+| {{hlist|[[First-person shooter]]|[[third-person shooter]]}}
+| [[EA DICE]]
+| [[Electronic Arts]]
+|-
+|''[[Days Gone]]''
+| {{nts|7.32}}{{nbsp}}million<ref>{{Cite web |title=Days Gone Sales |url=https://gameworldobserver.com/2023/12/20/playstation-game-sales-bloodborne-days-gone-7-million |access-date=2024-06-02 |website=Game World Observer|date=20 December 2023 }}</ref>
+| {{dts|April 26, 2019}}
+|Action-adventure
+|[[Bend Studio]]
+|[[Sony Interactive Entertainment]]
+|-
+|''[[Ratchet & Clank (2016 video game)|Ratchet & Clank]]''
+| {{nts|7.05}}{{nbsp}}million<ref>{{cite web |url=https://in.ign.com/god-of-war-ragnarok/199731/news/sony-playstation-leaked-information-reveal-sales-for-franchises-like-god-of-war-the-last-of-us-more| title=Sony PlayStation: Leaked Information Reveal Sales for Franchises Like God of War, The Last of Us and More |date=December 21, 2023 |last=Saksena |first=Sanchay |website=[[IGN India]] |access-date=June 28, 2024 |archive-url=https://web.archive.org/web/20240628220109/https://in.ign.com/god-of-war-ragnarok/199731/news/sony-playstation-leaked-information-reveal-sales-for-franchises-like-god-of-war-the-last-of-us-more |archive-date=June 28, 2024}}</ref>
+| {{dts|April 12, 2016}}
+| [[Third-person shooter]], [[Platformer]]
+| [[Insomniac Games]]
+| Sony Interactive Entertainment
+|-
+| ''[[Tekken 7]]''
+| {{nts|6.23}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|June 2, 2017}}
+| [[Fighting game|Fighting]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Naruto Shippuden: Ultimate Ninja Storm 4]]''
+| {{nts|6.22}}{{nbsp}}million<ref name="CESA2023" />{{efn|''Naruto Shippuden: Ultimate Ninja Storm 4'' sales breakdown:
+* The game itself {{ndash}} 4,300,00<ref name="CESA2023" />
+*Road to Boruto expansion pack {{ndash}} 1,920,00<ref name="CESA2023" />}}
+| {{dts|February 4, 2016}}
+| [[Fighting game|Fighting]]
+| [[CyberConnect2]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Call of Duty: Advanced Warfare]]''
+| {{nts|6.03}}{{nbsp}}million<ref name="thegamer" />
+| {{dts|November 4, 2014}}
+| [[First-person shooter]]
+| [[Sledgehammer Games]]
+| [[Activision]]
+|-
+| ''[[Infamous Second Son]]''
+| {{nts|6}}{{nbsp}}million<ref name=strongersony/>{{efn|''Infamous Second Son'' sales breakdown:
+* Japan {{ndash}} 47,396 (retail)<ref name="Media CreateSecondSon">{{cite web|url=http://gematsu.com/2014/06/media-create-sales-6214-6814|title=Media Create Sales: 6/2/14 – 6/8/14|last=Romano|first=Sal|work=Gematsu|date=June 11, 2014|access-date=June 6, 2017|archive-date=September 30, 2017|archive-url=https://web.archive.org/web/20170930222552/http://gematsu.com/2014/06/media-create-sales-6214-6814|url-status=live}}</ref>
+}}
+| {{dts|March 21, 2014}}
+| Action-adventure
+| Sucker Punch Productions
+| Sony Computer Entertainment
+|-
+|''[[God of War III Remastered]]''
+| {{nts|5.6}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|July 14, 2015}}
+|Action-adventure
+|Wholesale Algorithms
+|Sony Computer Entertainment
+|-
+| ''[[Detroit: Become Human]]''
+| {{nts|5.5}}{{nbsp}}million<ref>{{Cite web |date=2023-01-19 |title=Detroit: Become Human dépasse les 8 millions de ventes |url=https://www.gamekult.com/actualite/detroit-become-human-depasse-les-8-millions-de-ventes-3050854819.html |access-date=2023-01-19 |website=www.gamekult.com |language=fr |archive-date=2023-01-19 |archive-url=https://web.archive.org/web/20230119161512/https://www.gamekult.com/actualite/detroit-become-human-depasse-les-8-millions-de-ventes-3050854819.html |url-status=live }}</ref>{{efn|''Detroit: Become Human'' sales breakdown:
+* Japan {{ndash}} 67,415 (retail)<ref>{{cite web|url=https://gematsu.com/2018/06/media-create-sales-6-4-18-6-10-18|title=Media Create Sales: 6/4/18 – 6/10/18|last=Romano|first=Sal|website=Gematsu|date=June 13, 2018|access-date=June 20, 2018|archive-date=October 8, 2021|archive-url=https://web.archive.org/web/20211008040142/https://www.gematsu.com/2018/06/media-create-sales-6-4-18-6-10-18|url-status=live}}</ref>
+}}
+| {{dts|May 25, 2018}}
+| [[Adventure game|Adventure]]
+| [[Quantic Dream]]
+| Sony Interactive Entertainment
+|-
+|''[[LittleBigPlanet 3]]''
+| {{nts|5.5}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|November 18, 2014}}
+|[[Sandbox game|Sandbox]]
+|[[Sumo Digital]]
+|Sony Computer Entertainment
+|-
+|''[[Uncharted: The Lost Legacy]]''
+| {{nts|5.34}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|August 22, 2017}}
+|Action-adventure
+|[[Naughty Dog]]
+|Sony Interactive Entertainment
+|-
+| ''[[Final Fantasy VII Remake]]''
+| {{nts|5}}{{nbsp}}million<ref>{{cite web|url=https://twinfinite.net/2020/08/final-fantasy-7-remake-has-sold-over-5-million-copies/|title=Final Fantasy 7 Remake Has Sold Over 5 Million Copies|publisher=Twinfinite|date=August 7, 2020|access-date=August 7, 2020|first=Alex|last=Gibson|archive-date=March 6, 2021|archive-url=https://web.archive.org/web/20210306015756/https://twinfinite.net/2020/08/final-fantasy-7-remake-has-sold-over-5-million-copies/|url-status=live}}</ref>{{efn|''Final Fantasy VII Remake'' sales breakdown:
+* Germany {{ndash}} 100,000<ref>{{cite web|url=https://www.game.de/marktdaten/game-sales-awards-april-2020-2/|title=game Sales Awards April 2020|date=May 14, 2020|access-date=July 23, 2020|language=de|website=game.de|archive-date=October 17, 2020|archive-url=https://web.archive.org/web/20201017145307/https://www.game.de/marktdaten/game-sales-awards-april-2020-2/|url-status=live}}</ref>
+* Japan {{ndash}} 702,853 (retail)<ref>{{cite web|url=https://www.gematsu.com/2020/04/famitsu-sales-4-6-20-4-12-20|title=Famitsu Sales: 4/6/20 – 4/12/20 [Update]|access-date=July 2, 2020|website=Gematsu|date=16 April 2020|archive-date=16 April 2020|archive-url=https://web.archive.org/web/20200416215334/https://www.gematsu.com/2020/04/famitsu-sales-4-6-20-4-12-20|url-status=live}}</ref>
+}}
+| {{dts|April 10, 2020}}
+| Action role-playing
+| [[Square Enix]]
+| Square Enix
+|-
+|''[[Driveclub]]''
+| {{nts|4.97}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|October 7, 2014}}
+|[[Racing video game|Racing]]
+|[[Evolution Studios]]
+|Sony Computer Entertainment
+|-
+| ''[[Dragon Ball Xenoverse 2]]''
+| {{nts|4.47}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|October 25, 2016}}
+| {{hlist|[[Fighting game|Fighting]]|[[role-playing video game|role-playing]]}}
+| [[Dimps]]
+| [[Bandai Namco Entertainment]]
+|-
+|''[[Death Stranding]]''
+| {{nts|4.38}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|November 8, 2019}}
+|Action
+|[[Kojima Productions]]
+|Sony Interactive Entertainment
+|-
+| ''[[Dragon Ball FighterZ]]''
+| {{nts|4.31}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|January 26, 2018}}
+| [[Fighting game|Fighting]]
+| {{hlist|[[Bandai Namco Studios]]|[[Arc System Works]]}}
+| [[Bandai Namco Entertainment]]
+|-
+|''[[Until Dawn]]''
+| {{nts|4.03}}{{nbsp}}million<ref name=":0" /><ref name=":1" />
+| {{dts|August 25, 2015}}
+|[[Survival horror|Survival Horror]]
+|[[Supermassive Games]]
+|Sony Computer Entertainment
+|-
+| ''[[Monster Hunter: World]]''
+| {{nts|4}}{{nbsp}}million<ref name="PS2018" /><ref>{{Cite web|url=https://www.gematsu.com/2019/07/monster-hunter-world-shipments-and-digital-sales-top-13-million|title=Monster Hunter: World shipments and digital sales top 13 million|date=July 18, 2019|access-date=May 5, 2020|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308133343/https://www.gematsu.com/2019/07/monster-hunter-world-shipments-and-digital-sales-top-13-million|url-status=live}}</ref>{{efn|''Monster Hunter: World'' sales breakdown:
+* Asia {{ndash}} 4,000,000<ref name="PS2018">[https://www.4gamer.net/games/384/G038421/20181203078/ 4Gamer.net] {{Webarchive|url=https://web.archive.org/web/20181210063433/https://www.4gamer.net/games/384/G038421/20181203078/ |date=2018-12-10 }} 12/03/2018</ref>
+** Japan {{ndash}} 3,200,000<ref name="MonsterHunterWorldWW">{{cite web|url=https://www.vg247.com/2018/05/09/monster-hunter-world-8-million-shipped/|title=Monster Hunter World has shipped 8 million units worldwide|last=Nunneley|first=Stephany|work=[[VG247]]|date=May 9, 2018|access-date=December 9, 2018|archive-date=July 24, 2018|archive-url=https://web.archive.org/web/20180724003614/https://www.vg247.com/2018/05/09/monster-hunter-world-8-million-shipped/|url-status=live}}</ref><ref name="MonsterHunterWorldDomesticsales">{{cite web|url=http://www.capcom.co.jp/ir/kojin/seminar.html|title=個人投資家向け会社説明会|publisher=Capcom|date=April 18, 2018|access-date=December 9, 2018|last=Capcom|archive-date=December 6, 2018|archive-url=https://web.archive.org/web/20181206121015/http://www.capcom.co.jp/ir/kojin/seminar.html|url-status=live}}</ref> (2,006,158 (retail)<ref>{{cite web|url=https://gematsu.com/2018/04/media-create-sales-4-16-18-4-22-18|title=Media Create Sales: 4/16/18 – 4/22/18|last=Romano|first=Sal|work=Gematsu|date=April 25, 2018|access-date=May 10, 2018|archive-date=April 25, 2018|archive-url=https://web.archive.org/web/20180425194023/https://gematsu.com/2018/04/media-create-sales-4-16-18-4-22-18|url-status=live}}</ref>)
+}}
+| {{dts|January 26, 2018}}
+| Action role-playing
+| [[Capcom]]
+| Capcom
+|-
+| ''[[Dark Souls III]]''
+| {{nts|3.91}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|March 24, 2016}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[Jump Force]]''
+| {{nts|3.85}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|February 14, 2019}}
+| [[Fighting game|Fighting]]
+| [[Spike Chunsoft]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Cyberpunk 2077]]''
+| {{nts|3.83}}{{nbsp}}million{{efn|Of the 13.7 million total units sold by April 2021, 28% were for the PlayStation 4 version.<ref>{{cite web |url=https://www.gamesindustry.biz/articles/2021-04-22-cd-projekt-refunded-around-30-000-cyberpunk-2077-copies |title=CD Projekt refunded around 30,000 Cyberpunk 2077 copies |last=Sinclair |first=Brendan |work=[[Gamesindustry.biz]] |publisher=[[Gamer Network]] |date=April 22, 2021 |access-date=November 11, 2021 |archive-url=https://web.archive.org/web/20210422175910/https://www.gamesindustry.biz/articles/2021-04-22-cd-projekt-refunded-around-30-000-cyberpunk-2077-copies |archive-date=April 22, 2021 |url-status=live}}</ref>
+}}
+| {{dts|December 10, 2020}}
+| Action role-playing
+| CD Projekt Red
+| CD Projekt
+|-
+| ''[[Metal Gear Solid V: The Phantom Pain]]''
+| {{nts|3.41}}{{nbsp}}million<ref name="Top10">{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref><ref name="Metal Gear Solid V US">{{cite web|url=https://twitter.com/ZhugeEX/status/813766388074549249|title=September 2015 NPD Report: PlayStation 4 hits nine million units in the US|date=October 20, 2015|access-date=September 24, 2017|first=Daniel|last=Ahmad|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308062204/https://twitter.com/ZhugeEX/status/813766388074549249|url-status=live}}</ref><ref name="Media Create 2016" /><ref name="MGSGermany">{{cite web|url=https://www.biu-online.de/blog/2015/11/17/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-oktober/|title=BIU Sales Awards: Die erfolgreichsten Computer- und Videospiele im Oktober|date=November 17, 2015|access-date=September 24, 2017|website=Federal Association of Interactive Entertainment Software|archive-date=September 24, 2017|archive-url=https://web.archive.org/web/20170924182548/https://www.biu-online.de/blog/2015/11/17/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-oktober/}}</ref>{{efn|''Metal Gear Solid V: The Phantom Pain'' sales breakdown:
+* Germany {{ndash}} 100,000<ref name="MGSGermany" />
+* Japan {{ndash}} 467,698 (retail)<ref name="Media Create 2016" />
+* United States {{ndash}} 550,000 (retail)<ref name="Metal Gear Solid V US" />
+}}
+| {{dts|September 1, 2015}}
+| {{hlist|Action-adventure|stealth}}
+| [[Kojima Productions]]
+| [[Konami]]
+|-
+| ''[[Dragon Ball Z: Kakarot]]'' 
+| {{nts|3.22}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|January 16, 2020}}
+| {{hlist|[[Action role-playing]]|[[Fighting game|Fighting]]}}
+| [[CyberConnect2]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[FIFA 17]]''
+| {{nts|3.11}}{{nbsp}}million<ref name="FIFA17Germansales">{{cite web|url=https://www.biu-online.de/blog/2017/06/12/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-mai-2017/|title=BIU Sales Awards: The most successful computer and video games in May 2017|date=June 12, 2017|access-date=July 31, 2017|website=Federal Association of Interactive Entertainment Software|archive-date=July 31, 2017|archive-url=https://web.archive.org/web/20170731154325/https://www.biu-online.de/blog/2017/06/12/biu-sales-awards-die-erfolgreichsten-computer-und-videospiele-im-mai-2017/}}</ref><ref name="France 2016" /><ref name="France2017">{{cite web|url=http://www.gameblog.fr/news/73724-ventes-de-jeux-en-france-en-2017-fifa-18-remporte-la-coupe-t|title=Ventes de jeux en France en 2017: FIFA 18 remporte la coupe, tous les chiffres|last=Molinaro|first=Gianni|work=Gameblog|date=February 26, 2018|access-date=March 4, 2018|archive-date=March 4, 2018|archive-url=https://web.archive.org/web/20180304173858/http://www.gameblog.fr/news/73724-ventes-de-jeux-en-france-en-2017-fifa-18-remporte-la-coupe-t|url-status=live}}</ref><ref name="PlayStation Awards 2017" />{{efn|''FIFA 17'' sales breakdown:
+* Asia {{ndash}} Over 500,000<ref name="PlayStation Awards 2017" />
+** Japan {{ndash}} 98,861 (retail)<ref name="Media Create 2016" />
+* France {{ndash}} 1,118,149 (retail)<ref name="France 2016" /><ref name="France2017" />
+* Germany {{ndash}} 1,500,000<ref name="FIFA17Germansales" />
+}}
+| {{dts|September 27, 2016}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+| ''[[Elden Ring]]''
+| {{nts|2.67}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|February 25, 2022}}
+| [[Action role-playing game|Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[Nioh]]''
+| {{nts|2.67}}{{nbsp}}million<ref name="CESA2023" />{{efn|''Nioh'' sales breakdown:
+* Asia {{ndash}} 500,000<ref name="NiohAsia">{{cite magazine|url=https://www.famitsu.com/news/201707/27138560.html|title=コーエーテクモゲームスの早矢仕洋介氏がボツとなった資料を交え語る "『仁王』先輩"はいかにしてアジアでヒット作となるに至ったか【ChinaJoy 2017】|last=[[Famitsu]]|magazine=Famitsu|date=July 27, 2017|access-date=July 28, 2017|archive-date=July 28, 2017|archive-url=https://web.archive.org/web/20170728125111/https://www.famitsu.com/news/201707/27138560.html|url-status=live}}</ref>
+** Japan {{ndash}} 133,401 (retail)<ref name="Media Create Nioh">{{cite web|url=http://gematsu.com/2017/03/media-create-sales-3617-31217|title=Media Create Sales: 3/6/17 – 3/12/17|last=Romano|first=Sal|work=Gematsu|date=March 15, 2017|access-date=April 21, 2017|archive-date=June 25, 2018|archive-url=https://web.archive.org/web/20180625213621/https://gematsu.com/2017/03/media-create-sales-3617-31217|url-status=live}}</ref>
+}}
+| {{dts|February 7, 2017}}
+| Action role-playing
+| Team Ninja
+| {{vgrelease|WW|Sony Interactive Entertainment|JP|Koei Tecmo}}
+|-
+| ''[[Nier: Automata]]''
+| {{nts|2.6}}{{nbsp}}million<ref name=CESA2023>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>{{efn|''Nier: Automata'' sales breakdown:
+* Japan {{ndash}} 352,096 (retail)<ref name="Media Create Automata">{{cite web|url=http://gematsu.com/2017/07/media-create-sales-7317-7917|title=Media Create Sales: 7/3/17 – 7/9/17|last=Romano|first=Sal|work=Gematsu|date=July 12, 2017|access-date=July 12, 2017|archive-date=July 15, 2017|archive-url=https://web.archive.org/web/20170715080854/http://gematsu.com/2017/07/media-create-sales-7317-7917|url-status=live}}</ref>
+}}
+| {{dts|February 23, 2017}}
+| Action role-playing
+| [[PlatinumGames]]
+| Square Enix
+|-
+| ''[[Final Fantasy XV]]''
+| {{nts|2.57}}{{nbsp}}million<ref name="ZhugeEX">{{cite web|url=https://twitter.com/ZhugeEX/status/813766388074549249|title=According to SIEJA. Japan is the #1 region for FF15 sales with 1.1m. China is the #2 region for sales, more than any other country in Asia.|publisher=SIEJA|date=December 27, 2016|access-date=January 8, 2017|first=Daniel|last=Ahmad|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308062204/https://twitter.com/ZhugeEX/status/813766388074549249|url-status=live}}</ref><ref name="2016 Germany" /><ref name="France 2016" /><ref name="XV US">{{cite web|url=https://www.gamekult.com/actualite/charts-usa-en-2016-le-duel-se-resserre-172611.html|title=Charts USA: en 2016, le duel se resserre|publisher=Gamekult|last=Jarod|date=January 23, 2017|access-date=September 24, 2017|archive-date=May 1, 2021|archive-url=https://web.archive.org/web/20210501204701/https://www.gamekult.com/actualite/charts-usa-en-2016-le-duel-se-resserre-172611.html|url-status=live}}</ref>{{efn|''Final Fantasy XV'' sales breakdown:
+* France {{ndash}} 167,774 (retail)<ref name="France 2016"/>
+* Germany {{ndash}} 200,000<ref name="2016 Germany"/>
+* Japan {{ndash}} 1,100,000<ref name="ZhugeEX"/>
+* United States {{ndash}} over 1,119,000<ref name="XV US"/>{{efn|Over 70% of ''Final Fantasy XV'' sales in the United States were for PlayStation 4.}}
+}}
+| {{dts|November 29, 2016}}
+| Action role-playing
+| [[Square Enix|Square Enix Business Division 2]]
+| Square Enix
+|-
+| ''[[Dragon Ball: Xenoverse]]''
+| {{nts|2.52}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|February 5, 2015}}
+| {{hlist|[[Action role-playing]]|[[Fighting game|Fighting]]}}
+| [[Dimps]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Crash Bandicoot N. Sane Trilogy]]''
+| {{nts|2.5}}{{nbsp}}million<ref>{{cite web|url=http://www.playstationlifestyle.net/2017/09/23/crash-bandicoot-ps4-sales-top-2-5-million-units/|title=Crash Bandicoot N. Sane Trilogy Sales Pass 2.5 Million Units Worldwide|publisher=PlaystationLifeStyle|date=September 23, 2017|access-date=September 23, 2017|last=Treese|first=Tyler|archive-date=February 24, 2021|archive-url=https://web.archive.org/web/20210224195637/https://www.playstationlifestyle.net/2017/09/23/crash-bandicoot-ps4-sales-top-2-5-million-units/|url-status=live}}</ref>{{efn|''Crash Bandicoot N. Sane Trilogy'' sales breakdown:
+* France {{ndash}} 301,285 (retail)<ref name="France2017"/>
+* Germany {{ndash}} 100,000<ref>{{cite web|url=https://www.biu-online.de/blog/2017/08/09/biu-sales-awards-juli-2017-die-erfolgreichsten-computer-und-videospiele-in-deutschland/|title=BIU Sales Awards Juli 2017: Die erfolgreichsten Computer- und Videospiele in Deutschland|date=August 9, 2017|access-date=September 24, 2017|website=Federal Association of Interactive Entertainment Software|archive-date=September 24, 2017|archive-url=https://web.archive.org/web/20170924141750/https://www.biu-online.de/blog/2017/08/09/biu-sales-awards-juli-2017-die-erfolgreichsten-computer-und-videospiele-in-deutschland/}}</ref>
+* Japan {{ndash}} 46,237 (retail)<ref>{{cite web|url=http://www.perfectly-nintendo.com/japan-sales-data-week-36-2017-media-create-dengeki-famitsu/|title=Japan: more sales data for Week 36 2017, Dragon Ball Xenoverse 2 (Media Create, Dengeki, Famitsu)|publisher=Perfectly Nintendo|date=September 15, 2017|access-date=September 23, 2017|archive-date=October 4, 2017|archive-url=https://web.archive.org/web/20171004164554/http://www.perfectly-nintendo.com/japan-sales-data-week-36-2017-media-create-dengeki-famitsu/|url-status=live}}</ref>
+* United Kingdom {{ndash}} 651,354<ref name="UK2017">{{cite web |url=http://www.pushsquare.com/news/2018/03/three_ps4_exclusives_feature_in_uks_best_selling_games_of_2017 |title=Three PS4 Exclusives Feature in UK's Best Selling Games of 2017 |last=Barker |first=Sammy |work=Push Square |date=March 2, 2018 |access-date=March 4, 2018 |archive-date=March 3, 2018 |archive-url=https://web.archive.org/web/20180303194300/http://www.pushsquare.com/news/2018/03/three_ps4_exclusives_feature_in_uks_best_selling_games_of_2017 |url-status=live }}</ref>
+* United States {{ndash}} 400,000<ref>{{cite web|url=https://www.gamekult.com/actualite/charts-usa-un-mois-de-juin-en-or-pour-la-ps4-3050797131.html|title=Charts USA: un mois de juin en or pour la PS4|publisher=Gamekult|last=Jarod|date=July 21, 2017|access-date=September 24, 2017|archive-date=September 24, 2017|archive-url=https://web.archive.org/web/20170924182434/https://www.gamekult.com/actualite/charts-usa-un-mois-de-juin-en-or-pour-la-ps4-3050797131.html|url-status=live}}</ref>
+}}
+| {{dts|June 30, 2017}}
+| [[Platform game|Platform]]
+| [[Vicarious Visions]]
+| [[Activision]]
+|-
+| ''[[FIFA 18]]''
+| {{nts|2.47}}{{nbsp}}million{{efn|''FIFA 18'' sales breakdown:
+* Asia {{ndash}} Over 500,000<ref name="PlayStation Awards 2017" />
+* France {{ndash}} 971,885 (retail)<ref name="France2017" />
+* Germany {{ndash}} 1,000,000<ref>{{cite web | url=https://www.game.de/blog/2017/11/20/biu-sales-awards-oktober-2017-die-erfolgreichsten-computer-und-videospiele-in-deutschland/ | archive-url=https://web.archive.org/web/20180627005327/https://www.game.de/blog/2017/11/20/biu-sales-awards-oktober-2017-die-erfolgreichsten-computer-und-videospiele-in-deutschland/ | archive-date=2018-06-27 | title=BIU Sales Awards Oktober 2017: Die erfolgreichsten Computer- und Videospiele in Deutschland - game | work=game | date=20 November 2017 }}</ref>
+}}
+| {{dts|September 29, 2017}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+| ''[[Persona 5 Royal]]''
+| {{nts|2.3}}{{nbsp}}million<ref name="P5RSalesNov2022">{{cite web |last1=Romano |first1=Sal |title=Persona 5 Royal shipments and digital sales top one million for new platforms; 3.3 million including PS4 |url=https://www.gematsu.com/2022/11/persona-5-royal-shipments-and-digital-sales-top-one-million-for-new-platforms-3-3-million-including-ps4 |website=Gematsu |access-date=1 December 2022 |date=1 December 2022 |archive-date=1 December 2022 |archive-url=https://web.archive.org/web/20221201011604/https://www.gematsu.com/2022/11/persona-5-royal-shipments-and-digital-sales-top-one-million-for-new-platforms-3-3-million-including-ps4 |url-status=live }}</ref>
+| {{dts|October 31, 2019}}
+| {{hlist|[[Role-playing video game|Role-playing]]|[[social simulation game|social simulation]]}}
+| [[P-Studio]]
+| [[Atlus]]
+|-
+| ''[[Naruto to Boruto: Shinobi Striker]]''
+| {{nts|2.13}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|August 31, 2018}}
+| {{hlist|[[Action game|Action]]|[[Fighting game|Fighting]]}}
+| Soliel Ltd.
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Killzone: Shadow Fall]]'' 
+| {{nts|2.1}}{{nbsp}}million<ref>{{cite web|url=https://www.engadget.com/2014/01/29/killzone-shadow-fall-global-sales-top-2-1-million/|title=Killzone Shadow Fall sales top 2.1 million|publisher=Joystiq/Engadget|date=January 29, 2014|access-date=January 29, 2014|first=David|last=Hinkle|archive-date=June 25, 2018|archive-url=https://web.archive.org/web/20180625185559/https://www.engadget.com/2014/01/29/killzone-shadow-fall-global-sales-top-2-1-million/|url-status=live}}</ref>{{efn|''Killzone: Shadow Fall'' sales breakdown:
+* Japan {{ndash}} 40,837 (retail)<ref name="Media CreateShadowFall">{{cite web|url=http://gematsu.com/2014/03/media-create-sales-22414-3214|title=Media Create Sales: 2/24/14 – 3/2/14|last=Romano|first=Sal|work=Gematsu|date=March 5, 2017|access-date=June 6, 2017|archive-date=May 3, 2017|archive-url=https://web.archive.org/web/20170503045920/http://gematsu.com/2014/03/media-create-sales-22414-3214|url-status=live}}</ref>
+}}
+| {{dts|November 15, 2013}}
+| First-person shooter
+| Guerrilla Games
+| Sony Computer Entertainment
+|-
+| ''[[Gran Turismo 7]]''
+| {{nts|2.09}}{{nbsp}}million{{efn|Of the total 11 million copies sold by January 2026, 19% were for the PS4<ref>{{cite web |url=https://alineaanalytics.substack.com/p/forza-horizon-5-races-past-5m-copies |title=Forza Horizon 5 races past 5m copies sold on PS5 |last=Elliott |first=Rhys |publisher=alineaanalyctics.com |date=January 13, 2026 |access-date=January 13, 2026}}</ref>}}
+| {{dts|March 4, 2022}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Naruto Shippuden: Ultimate Ninja Storm Trilogy]]''
+| {{nts|2.08}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|July 27, 2017}}
+| [[Fighting game|Fighting]]
+| [[CyberConnect2]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Knack (video game)|Knack]]''
+| {{nts|2}}{{nbsp}}million<ref>{{cite web|url=http://www.justpushstart.com/2017/09/crash-bandicoot-n-sane-trilogy-sold-2-5-million-units-worldwide/|title=Crash Bandicoot N. Sane Trilogy Has Sold Over 2.5 Million Units Worldwide|publisher=Just Push Start|last=Austin|first=SC|date=September 23, 2017|access-date=September 24, 2017|archive-date=February 24, 2021|archive-url=https://web.archive.org/web/20210224203717/https://www.justpushstart.com/2017/09/crash-bandicoot-n-sane-trilogy-sold-2-5-million-units-worldwide/|url-status=usurped}}</ref>{{efn|''Knack'' sales breakdown:
+* Japan {{ndash}} 393,348 (retail)<ref name="Media CreateKnack1">{{cite web|url=http://gematsu.com/2014/03/media-create-sales-3314-3914|title=Media Create Sales: 3/3/14 – 3/9/14|last=Romano|first=Sal|work=Gematsu|date=March 12, 2014|access-date=June 24, 2017|archive-date=July 28, 2017|archive-url=https://web.archive.org/web/20170728124913/http://gematsu.com/2014/03/media-create-sales-3314-3914|url-status=live}}</ref>{{efn|''Knack'' was bundled with every PlayStation 4 sold in Japan during the console's launch period.}}
+}}
+| {{dts|November 15, 2013}}
+| {{hlist|Platform|[[beat 'em up]]}}
+| [[Japan Studio]]
+| Sony Computer Entertainment
+|-
+| ''[[Dark Souls Remastered]]''
+| {{nts|1.89}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|May 24, 2018}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[Kingdom Hearts HD 1.5 + 2.5 Remix]]''
+| {{nts|1.8}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|March 28, 2017}}
+| [[Action role-playing]]
+| [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[Dark Souls II: Scholar of the First Sin]]''
+| {{nts|1.79}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|April 2, 2015}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[FIFA 20]]''
+| {{nts|1.76}}{{nbsp}}million{{efn|''FIFA 20'' sales breakdown:
+* Asia {{ndash}} Over 500,000<ref name="PA 2019" />
+* France {{ndash}} 1,261,511<ref>{{cite web | url=https://www.jeuxvideo.com/news/1187034/le-sell-devoile-les-jeux-les-plus-vendus-de-2019-en-france-sur-le-marche-physique.htm | title=Le SELL dévoile les jeux les plus vendus de 2019 en France sur le marché physique | date=26 February 2020 }}</ref><ref name = "SELL 2020">{{Cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_mars_21_web.pdf|title=Bilan du Marché Français 2020|website=www.sell.fr}}</ref>
+}}
+| {{dts|September 24, 2019}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+| ''[[Nioh 2]]''
+| {{nts|1.46}}{{nbsp}}million<ref name=CESA2023/>
+| {{dts|March 12, 2020}}
+| Action role-playing
+| [[Team Ninja]]
+| {{vgrelease|WW|Sony Interactive Entertainment|JP|[[Koei Tecmo]]}}
+|-
+| ''[[FIFA 19]]''
+| {{nts|1.44}}{{nbsp}}million{{efn|''FIFA 19'' sales breakdown:
+* Asia {{ndash}} Over 500,000<ref name="PA 2019" />
+* France {{ndash}} 945,190 (retail)<ref>{{cite web | url=https://www.jeuxvideo.com/news/1005325/fifa-19-et-red-dead-redemption-2-sont-les-jeux-les-plus-vendus-de-2018-en-france.htm | title=FIFA 19 et Red Dead Redemption 2 sont les jeux les plus vendus de 2018 en France sur le marché physique | date=20 February 2019 }}</ref>
+}}
+| {{dts|September 25, 2018}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+| ''[[Soulcalibur VI]]''
+| {{nts|1.44}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|October 19, 2018}}
+| [[Fighting game|Fighting]]
+| {{hlist|[[Bandai Namco Studios]]|[[Dimps]]}}
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Battlefield 1]]''
+| {{nts|1.3}}{{nbsp}}million<ref name="Media Create Battlefield 1">{{cite web|url=http://gematsu.com/2017/02/media-create-sales-2617-21217|title=Media Create Sales: 2/6/17 – 2/12/17|last=Romano|first=Sal|work=Gematsu|date=February 15, 2017|access-date=August 19, 2017|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111205257/https://www.gematsu.com/2017/02/media-create-sales-2617-21217|url-status=live}}</ref><ref name="France 2016">{{cite web|url=http://www.jeuxvideo.com/news/602559/le-sell-delivre-les-meilleurs-ventes-de-jeux-en-2016.htm|title=Le SELL délivre les meilleurs ventes de jeux en 2016|last=Epyon|work=[[Jeuxvideo.com]]|date=February 2, 2017|access-date=August 19, 2017|archive-date=February 24, 2021|archive-url=https://web.archive.org/web/20210224202541/https://www.jeuxvideo.com/news/602559/le-sell-delivre-les-meilleurs-ventes-de-jeux-en-2016.htm|url-status=live}}</ref><ref name="2016 Germany">{{cite web|url=https://www.biu-online.de/marktdaten/biu-sales-awards-dezember-2016/|title=BIU Sales Awards December 2016|website=Federal Association of Interactive Entertainment Software|date=January 14, 2017|access-date=August 19, 2017|archive-date=August 19, 2017|archive-url=https://web.archive.org/web/20170819191330/https://www.biu-online.de/marktdaten/biu-sales-awards-dezember-2016/}}</ref><ref name="PlayStation Awards 2017" />{{efn|''Battlefield 1'' sales breakdown:
+* Asia {{ndash}} 500,000<ref name="PlayStation Awards 2017" />
+** Japan {{ndash}} 261,179 (retail)<ref name="Media Create Battlefield 1" />
+* France {{ndash}} 363,839 (retail)<ref name="France 2016" />
+* Germany {{ndash}} 500,000<ref name="2016 Germany" />
+}}
+| {{dts|October 21, 2016}}
+| First-person shooter
+| EA DICE
+| Electronic Arts
+|-
+| ''[[Dragon Quest XI|Dragon Quest XI: Echoes of an Elusive Age]]''
+| {{nts|1.3}}{{nbsp}}million<ref name="Dragon Quest XI">{{cite web|url=http://gematsu.com/2017/09/media-create-sales-91817-92417|title=Media Create Sales: 9/18/17 – 9/24/17|last=Romano|first=Sal|work=Gematsu|date=September 27, 2017|access-date=October 7, 2017|archive-date=March 5, 2021|archive-url=https://web.archive.org/web/20210305062834/https://www.gematsu.com/2017/09/media-create-sales-91817-92417|url-status=live}}</ref>{{efn|''Dragon Quest XI: Echoes of an Elusive Age'' sales breakdown:
+* Japan {{ndash}} 1,347,582 (retail)<ref name="Dragon Quest XI" />
+}}
+| {{dts|July 29, 2017}}
+| Role-playing
+| Square Enix
+| Square Enix
+|-
+| ''[[Kingdom Hearts HD 2.8 Final Chapter Prologue]]''
+| {{nts|1.3}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|January 12, 2017}}
+| [[Action role-playing]]
+| [[Square Enix Business Division 3]]
+| [[Square Enix]]
+|-
+| ''[[Metal Gear Solid V: Ground Zeroes]]''
+| {{nts|1.27}}{{nbsp}}million<ref name="Top10"/>
+| {{dts|March 18, 2014}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[Stealth game|Stealth]]}}
+| [[Kojima Productions]]
+| [[Konami Digital Entertainment]]
+|-
+| ''[[Tales of Berseria]]''
+| {{nts|1.24}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|August 18, 2016}}
+| [[Action role-playing]]
+| [[Bandai Namco Studios]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Final Fantasy XII: The Zodiac Age]]''
+| {{nts|1.2}}{{nbsp}}million<ref name=CESA2023/>{{efn|''Final Fantasy XII: The Zodiac Age'' sales breakdown:
+* Japan {{ndash}} 132,188 (retail)<ref name="GTAVLowpriceSku" />
+}}
+| {{dts|July 11, 2017}}
+| Role-playing
+| Square Enix
+| Square Enix
+|-
+| ''[[FIFA 22]]''
+| {{nts|1.15}}{{nbsp}}million{{efn|''FIFA 22'' sales breakdown:
+* France {{ndash}} 1,155,084<ref name = "SELL 2021"/><ref>{{Cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/lessentiel_du_jeu_video_bilan_marche_2022_sell_1.pdf|title=Bilan du Marché Français 2022|website=www.sell.fr}}</ref>
+}}
+| {{dts|October 1, 2021}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+| ''[[FIFA 21]]''
+| {{nts|1.11}}{{nbsp}}million{{efn|''FIFA 21'' sales breakdown:
+* France {{ndash}} 1,119,086<ref name = "SELL 2020"/><ref name = "SELL 2021">{{Cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/essentiel_du_jeu_video_mars_2022_sell.pdf|title=Bilan du Marché Français 2021|website=www.sell.fr}}</ref>
+}}
+| {{dts|October 9, 2020}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+| ''[[One Piece: Pirate Warriors 3]]''
+| {{nts|1.11}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|March 26, 2015}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[Beat 'em up]]}}
+| [[Omega Force]]
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Code Vein]]''
+| {{nts|1.02}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|September 27, 2019}}
+| [[Action role-playing]]
+| {{hlist|[[Bandai Namco Studios]]|Shift}}
+| [[Bandai Namco Entertainment]]
+|-
+| ''[[Ark: Survival Evolved]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite news |url=https://venturebeat.com/2017/02/16/ark-survival-evolved-hits-1-million-copies-sold-on-ps4-7-million-on-all-platforms/ |title=Ark: Survival Evolved hits 1 million copies sold on PS4; 7 million on all platforms |date=February 17, 2017 |work=[[VentureBeat]] |access-date=August 2, 2018 |language=en-US |archive-date=March 2, 2021 |archive-url=https://web.archive.org/web/20210302021930/https://venturebeat.com/2017/02/16/ark-survival-evolved-hits-1-million-copies-sold-on-ps4-7-million-on-all-platforms/ |url-status=live }}</ref>
+| {{dts|August 29, 2017}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[survival game|survival]]}}
+| [[Studio Wildcard]]
+| [[Studio Wildcard]]
+|-
+| ''[[Final Fantasy Type-0 HD]]''
+| {{nts|1}}{{nbsp}}million<ref name="CESA2023" />
+| {{dts|March 17, 2015}}
+| [[Action role-playing]]
+| {{hlist|[[Square Enix Business Division 2]]|[[HexaDrive]]}}
+| [[Square Enix]]
+|-
+| ''[[Kingdom Hearts III]]''
+| {{nts|1}}{{nbsp}}million<ref name="PA 2019">{{cite web|url=https://www.gematsu.com/2019/12/playstation-awards-2019-winners-announced|title=PlayStation Awards 2019 winners announced|publisher=Gematsu|date=December 3, 2019|access-date=March 19, 2020|first=Sal|last=Romano|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308093955/https://www.gematsu.com/2019/12/playstation-awards-2019-winners-announced|url-status=live}}</ref>{{efn|''Kingdom Hearts III'' sales breakdown:
+* Japan {{ndash}} 838,927 (retail)<ref name="FamitsuKingdom">{{cite web|url=https://www.playstationlifestyle.net/2019/07/18/kingdom-hearts-3-japan-sales-2019/|title=Kingdom Hearts III Is Japan's Best-Selling Game for 2019 So Far|last=Reeves|first=Brianna|work=PlayStation Lifestyle|date=July 18, 2019|access-date=March 19, 2020|archive-date=March 19, 2020|archive-url=https://web.archive.org/web/20200319084800/https://www.playstationlifestyle.net/2019/07/18/kingdom-hearts-3-japan-sales-2019/|url-status=live}}</ref>
+}}
+| {{dts|January 25, 2019}}
+| Action role-playing
+| Square Enix
+| Square Enix
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons}}
+{{Wikiquote}}
+* {{official website|https://www.playstation.com/en-us/explore/games/ps4-games}}
+
+{{vgbestsellers}}
+{{PlayStation}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling PlayStation 4 video games}}
+[[Category:PlayStation 4 games| ]]
+[[Category:Lists of best-selling video games|PlayStation 4]]
+[[Category:PlayStation (brand)-related lists|Best-selling PlayStation 4 video games]]

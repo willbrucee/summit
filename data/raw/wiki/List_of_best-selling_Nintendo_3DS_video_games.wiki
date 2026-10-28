@@ -1,0 +1,527 @@
+{{Short description|none}}
+{{Use mdy dates|date=October 2026}}
+{{Use American English|date=October 2026}}
+{{Video games}}
+{{Dynamic list}}
+{{srn}}
+[[File:Nintendo-3DS-AquaOpen.jpg|thumb|Nintendo 3DS]]
+
+This is a list of video games for the [[Nintendo 3DS]] [[video game console]] that have sold or shipped at least one million copies. The best-selling game on the Nintendo 3DS is ''[[Mario Kart 7]]''. First released in Japan on December 1, 2011, it went on to sell 18.99 million units worldwide.
+
+There are a total of 59 Nintendo 3DS games on this list that are confirmed to have sold or shipped at least one million units. Of these, ten were developed by internal Nintendo development divisions. Of the 59 games on this list, 50 were published in one or more regions by Nintendo.
+
+As of December 31, 2025, over 392.29 million total copies of games had been sold for the Nintendo 3DS.<ref>{{Cite web|url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html|title=IR Information : Financial Data – Dedicated Video Game Sales Units |website=[[Nintendo]] |date=March 31, 2023|access-date=May 9, 2023|archive-date=May 9, 2023 |archive-url=https://web.archive.org/web/20230509164312/https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |url-status=live}}</ref>
+
+==List==
+{| class="wikitable plainrowheaders"
+|+ Key
+|-
+| bgcolor="#FFFF99" style="text-align:center;"| †
+| Game was [[Pack-in game|bundled with Nintendo 2DS or 3DS consoles]] during its lifetime
+|}
+{{sticky-header}}
+{{srn}}
+{| class="wikitable plainrowheaders sticky-header sortable static-row-numbers"
+|-
+!scope="col" | Game
+!scope="col" | Copies sold
+!scope="col" | As of
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Genre(s)
+!scope="col" | Developer(s)
+!scope="col" | Publisher(s)
+|-
+| bgcolor="#FFFF99"| ''[[Mario Kart 7]]'' †
+| {{nts|18.99}}{{nbsp}}million<ref name="TopSellingSoftware3DS">{{cite web|date=March 31, 2023|title=IR Information : Financial Data – Top Selling Title Sales Units|url=https://www.nintendo.co.jp/ir/en/finance/software/3ds.html|access-date=May 9, 2023|publisher=Nintendo|archive-date=May 9, 2023|archive-url=https://web.archive.org/web/20230509095143/https://www.nintendo.co.jp/ir/en/finance/software/3ds.html|url-status=live}}</ref>
+| {{dts|March 31, 2025}}
+| {{dts|December 1, 2011}}
+| [[Racing video game|Racing]]
+| {{hlist|[[Nintendo Entertainment Analysis & Development|Nintendo EAD]]|[[Retro Studios]]}}
+|[[Nintendo]]
+|-
+| bgcolor="#FFFF99"|[[Pokémon X and Y|''Pokémon X'' and ''Y'']] †
+| {{nts|16.80}}{{nbsp}}million<ref name=TopSellingSoftware3DS/>
+| {{dts|March 31, 2025}}
+| {{dts|October 12, 2013}}
+| [[Role-playing video game|Role-playing]]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| bgcolor="#FFFF99"| [[Pokémon Sun and Moon|''Pokémon Sun'' and ''Moon'']] †
+| {{nts|16.34}}{{nbsp}}million<ref name=TopSellingSoftware3DS/>
+| {{dts|March 31, 2025}}
+| {{dts|November 18, 2016}}
+| [[Role-playing video game|Role-playing]]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| bgcolor="#FFFF99"|  [[Pokémon Omega Ruby and Alpha Sapphire|''Pokémon Omega Ruby'' and ''Alpha Sapphire'']] †
+| {{nts|14.68}}{{nbsp}}million<ref name=TopSellingSoftware3DS/>
+| {{dts|March 31, 2025}}
+| {{dts|November 21, 2014}}
+| [[Role-playing video game|Role-playing]]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| bgcolor="#FFFF99"| ''[[New Super Mario Bros. 2]]'' †
+| {{nts|13.42}}{{nbsp}}million<ref name=TopSellingSoftware3DS/>
+| {{dts|March 31, 2025}}
+| {{dts|July 28, 2012}}
+| [[Platform game|Platform]]
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| bgcolor="#FFFF99"| ''[[Animal Crossing: New Leaf]]'' †
+| {{nts|13.07}}{{nbsp}}million<ref name="TopSellingSoftware3DS" />
+| {{dts|March 31, 2025}}
+| {{dts|November 8, 2012}}
+| [[Life simulation game|Life simulation]]
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| bgcolor="#FFFF99"| ''[[Super Mario 3D Land]]'' †
+| {{nts|12.89}}{{nbsp}}million<ref name="TopSellingSoftware3DS" />
+| {{dts|March 31, 2025}}
+| {{dts|November 3, 2011}}
+| [[Platform game|Platform]]
+| [[Nintendo Entertainment Analysis & Development|Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[Super Smash Bros. for Nintendo 3DS and Wii U|Super Smash Bros. for Nintendo 3DS]]''
+| {{nts|9.65}}{{nbsp}}million<ref name=TopSellingSoftware3DS/>
+| {{dts|March 31, 2025}}
+| {{dts|September 13, 2014}}
+| [[Fighting game|Fighting]]
+| {{hlist|[[Bandai Namco Studios]]|[[Sora Ltd.]]}}
+| [[Nintendo]]
+|-
+| [[Pokémon Ultra Sun and Ultra Moon|''Pokémon Ultra Sun'' and ''Ultra Moon'']]
+| {{nts|9.26}}{{nbsp}}million<ref name=TopSellingSoftware3DS/>
+| {{dts|March 31, 2025}}
+| {{dts|November 17, 2017}}
+| [[Role-playing video game|Role-playing]]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Yo-kai Watch 2]]''
+| {{nts|7.30}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|December 13, 2014}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| bgcolor="#FFFF99"| ''[[Tomodachi Life (video game)|Tomodachi Life]]'' †
+| {{nts|6.73}}{{nbsp}}million<ref name="TopSellingSoftware3DS" />
+| {{dts|March 31, 2025}}
+| {{dts|April 18, 2013}}
+| [[Life simulation game|Life simulation]]
+| [[Nintendo Software Planning & Development|Nintendo SPD]]
+| [[Nintendo]]
+|-
+| ''[[Luigi's Mansion: Dark Moon]]''
+| {{nts|6.48}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|March 20, 2013}}
+| [[Action-adventure game|Action-adventure]]
+| [[Next Level Games]]
+| [[Nintendo]]
+|-
+| bgcolor="#FFFF99"| ''[[The Legend of Zelda: Ocarina of Time 3D]]'' †
+| {{nts|6.44}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|June 16, 2011}}
+| [[Action-adventure game|Action-adventure]]
+| [[Grezzo]]
+| [[Nintendo]]
+|-
+| ''[[Nintendogs + Cats]]''
+| {{nts|4.69}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|February 26, 2011}}
+| [[Pet-raising simulation]]
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[Monster Hunter Generations]]''
+| {{nts|4.30}}{{nbsp}}million<ref name="CapcomPlat">{{cite web|url=http://www.capcom.co.jp/ir/english/finance/million.html|title=Capcom Platinum Titles|date=December 31, 2019|access-date=March 3, 2020|website=Capcom|archive-date=January 12, 2019|archive-url=https://archive.today/20190112183613/http://www.capcom.co.jp/ir/english/finance/million.html|url-status=live}}</ref>
+| {{dts|December 31, 2019}}
+| {{dts|November 28, 2015}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| bgcolor="#FFFF99"| ''[[The Legend of Zelda: A Link Between Worlds]]'' †
+| {{nts|4.26}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|November 22, 2013}}
+| [[Action-adventure game|Action-adventure]]
+| [[Nintendo Entertainment Analysis and Development|Nintendo EAD]]
+| [[Nintendo]]
+|-
+| bgcolor="#FFFF99"| ''[[Monster Hunter 4|Monster Hunter 4 Ultimate]]'' †
+| {{nts|4.20}}{{nbsp}}million<ref name="CapcomPlat" />
+| {{dts|December 31, 2019}}
+| {{dts|February 13, 2015}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Monster Hunter 4]]''
+| {{nts|4.10}}{{nbsp}}million<ref name="CapcomPlat" />
+| {{dts|December 31, 2019}}
+| {{dts|September 14, 2013}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Super Mario Maker|Super Mario Maker for Nintendo 3DS]]''
+| {{nts|3.79}}{{nbsp}}million<ref name="CESA2022">{{cite book |title=2022CESAゲーム白書 (2022 CESA Games White Papers) |publisher=[[Computer Entertainment Supplier's Association]] |year=2022 |isbn=978-4-902346-45-9}}</ref>
+| {{dts|December 31, 2021}}
+| {{dts|December 1, 2016}}
+| {{hlist|[[Level editor]]|[[platform game|platform]]}}
+| [[Nintendo Entertainment Analysis & Development|Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[Animal Crossing: Happy Home Designer]]''
+| {{nts|3.51}}{{nbsp}}million<ref name="CESA2021">{{cite book |title=2021CESAゲーム白書 (2021 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2021|isbn=978-4-902346-43-5}}</ref>
+| {{dts|December 31, 2020}}
+| {{dts|July 2, 2015}}
+| [[Life simulation game|Life simulation]]
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[The Legend of Zelda: Majora's Mask 3D]]''
+| {{nts|3.46}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|February 13, 2015}}
+| [[Action-adventure game|Action-adventure]]
+| [[Grezzo]]
+| [[Nintendo]]
+|-
+| [[Fire Emblem Fates|''Fire Emblem Fates: Birthright'' and ''Conquest'']]
+| {{nts|3.09}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|June 25, 2015}}
+| [[Tactical role-playing game|Tactical role-playing]]
+| {{hlist|[[Intelligent Systems]]|[[Nintendo SPD]]}}
+| [[Nintendo]]
+|-
+| bgcolor="#FFFF99"|''[[Yo-kai Watch (video game)|Yo-kai Watch]]'' †
+| {{nts|2.97}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|July 11, 2013}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Mario Party: Island Tour]]''
+| {{nts|2.95}}{{nbsp}}million<ref name="CESA2022"/>
+| {{dts|December 31, 2021}}
+| {{dts|November 22, 2013}}
+| [[Party video game|Party]]
+| [[NDcube]]
+| [[Nintendo]]
+|-
+| ''[[Donkey Kong Country Returns|Donkey Kong Country Returns 3D]]''
+| {{nts|2.94}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|May 24, 2013}}
+| [[Platform game|Platform]]
+| {{hlist|[[Retro Studios]]|[[Monster Games]]}}
+| [[Nintendo]]
+|-
+| bgcolor="#FFFF99" | ''[[Mario & Luigi: Dream Team]]'' †
+| {{nts|2.70}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|July 12, 2013}}
+| [[Role-playing video game|Role-playing]]
+| {{hlist|[[AlphaDream]]|[[Good-Feel]]}}
+| [[Nintendo]]
+|-
+| ''[[Kirby: Triple Deluxe]]''
+| {{nts|2.66}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|January 11, 2014}}
+| {{hlist|[[Action game|Action]]|[[platform game|platform]]}}
+| [[HAL Laboratory]]
+| [[Nintendo]]
+|-
+| ''[[Monster Hunter Tri|Monster Hunter 3 Ultimate]]''
+| {{nts|2.60}}{{nbsp}}million<ref name="CapcomPlat" />
+| {{dts|December 31, 2019}}
+| {{dts|December 10, 2011}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Paper Mario: Sticker Star]]''
+| {{nts|2.49}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|November 11, 2012}}
+| [[Role-playing video game|Role-playing]]
+| [[Intelligent Systems]]
+| [[Nintendo]]
+|-
+| ''[[Fire Emblem Awakening]]''
+| {{nts|2.37}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|April 19, 2012}}
+| [[Tactical role-playing game|Tactical role-playing]]
+| {{hlist|[[Intelligent Systems]]|[[Nintendo SPD]]}}
+| [[Nintendo]]
+|-
+| [[Yo-kai Watch Blasters|''Yo-kai Watch Blasters: Red Cat Corps'' and ''White Dog Squad'']]
+| {{nts|2.37}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|July 11, 2015}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Yo-kai Watch 3]]''
+| {{nts|2.21}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|July 16, 2016}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+|''[[Yoshi's New Island]]''
+| {{nts|2.06}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|March 14, 2014}}
+| [[Platform game|Platform]]
+| [[Arzest]]
+| [[Nintendo]]
+|-
+| ''[[Lego City Undercover: The Chase Begins]]''
+| {{nts|2.04}}{{nbsp}}million<ref name="CESA2021"/>
+| {{dts|December 31, 2020}}
+| {{dts|April 21, 2013}}
+| [[Action-adventure game|Action-adventure]]
+| [[TT Fusion]]
+| [[Nintendo]]
+|-
+| ''[[Monster Hunter Generations|Monster Hunter XX]]''
+| {{nts|1.80}}{{nbsp}}million<ref>{{cite web |url=http://www.capcom.co.jp/ir/english/finance/million.html |title=Capcom Platinum Titles |website=[[Capcom]] |date=September 30, 2018 |access-date=November 21, 2019 |url-status=dead |archive-url=https://web.archive.org/web/20190131024520/http://www.capcom.co.jp/ir/english/finance/million.html |archive-date=January 31, 2019 }}</ref>
+| {{dts|December 31, 2018}}
+| {{dts|March 18, 2017}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Dragon Quest XI|Dragon Quest XI: Echoes of an Elusive Age]]''
+| {{nts|1.74}}{{nbsp}}million<ref name="DQXI">{{cite web|url=https://gematsu.com/2017/10/media-create-sales-10917-101517|title=Media Create Sales: 10/9/17 – 10/15/17|date=October 18, 2017|last1=Romano|first1=Sal|website=Gematsu|access-date=November 7, 2018|archive-date=February 28, 2022|archive-url=https://web.archive.org/web/20220228063510/https://www.gematsu.com/2017/10/media-create-sales-10917-101517|url-status=live}}</ref>
+| 
+| {{dts|July 29, 2017}}
+| [[Role-playing video game|Role-playing]]
+| [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[Pokémon Super Mystery Dungeon]]''
+| {{nts|1.67}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|September 17, 2015}}
+| [[Roguelike]]
+| [[Spike Chunsoft]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Kirby: Planet Robobot]]''
+| {{nts|1.64}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|April 28, 2016}}
+| {{hlist|[[Action game|Action]]|[[platform game|platform]]}}
+| [[HAL Laboratory]]
+| [[Nintendo]]
+|-
+| ''[[Dragon Quest VII|Dragon Quest VII: Fragments of the Forgotten Past]]''
+| {{nts|1.60}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|February 7, 2013}}
+| [[Role-playing video game|Role-playing]]
+| {{hlist|[[Heartbeat (company)|Heartbeat]]|[[ArtePiazza]]}}
+| {{vgrelease|JP|[[Square Enix]]|WW|[[Nintendo]]}}
+|-
+| ''[[Mario Tennis Open]]''
+| {{nts|1.58}}{{nbsp}}million<ref name="CESA2022"/>
+| {{dts|December 31, 2021}}
+| {{dts|May 20, 2012}}
+| [[Sports game|Sports]]
+| [[Camelot Software Planning]]
+| [[Nintendo]]
+|-
+| ''[[Puzzle & Dragons Z + Super Mario Bros. Edition|Puzzle & Dragons Z: Pazudora Z]]''
+| {{nts|1.50}}{{nbsp}}million<ref>{{cite web|url=http://www.irwebcasting.com/20140729/2/a4226b4e98/media/20140729_gungho_en_presentation.pdf|title=GungHo Online Entertainment, Inc. FY2014 Financial Results Briefing Session for the 2nd quarter|date=July 29, 2014|access-date=July 31, 2014|website=IR Webcasting|publisher=GungHo Online Entertainment|archive-date=March 4, 2016|archive-url=https://web.archive.org/web/20160304081316/http://www.irwebcasting.com/20140729/2/a4226b4e98/media/20140729_gungho_en_presentation.pdf|url-status=live}}</ref>
+| 
+| {{dts|December 12, 2013}}
+| [[Puzzle video game|Puzzle]]
+| [[GungHo Online Entertainment]]
+| {{vgrelease|JP|[[GungHo Online Entertainment]]|WW|[[Nintendo]]}}
+|-
+| bgcolor="#FFFF99" | ''[[Pokémon Red and Blue|Pokémon Red / Green / Blue]] / [[Pokémon Yellow|Yellow]]''{{efn|[[Nintendo 3DS Virtual Console|Virtual Console]] release}}
+| {{nts|1.50}}{{nbsp}}million<ref>{{cite news |title=Financial Results Briefing for Fiscal Year Ended March 2016 |url=https://www.nintendo.co.jp/ir/en/events/160428/03.html |access-date=January 27, 2019 |publisher=[[Nintendo]] |date=April 28, 2016 |archive-url=https://web.archive.org/web/20171031123226/https://www.nintendo.co.jp/ir/en/events/160428/03.html |archive-date=October 31, 2017 |url-status=live }}</ref>
+| {{dts|April 28, 2016}}
+| {{dts|February 27, 2016}}
+| [[Role-playing video game|Role-playing]]
+| [[Game Freak]]
+| [[Nintendo]]
+|-
+| ''[[Professor Layton and the Miracle Mask]]''
+| {{nts|1.48}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|February 26, 2011}}
+| {{hlist|[[Puzzle video game|Puzzle]]|[[Adventure game|adventure]]}}
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Style Savvy: Trendsetters]]''
+| {{nts|1.44}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|September 27, 2012}}
+| [[Simulation Game|Simulation]]
+| [[Syn Sophia]]
+| [[Nintendo]]
+|-
+| ''[[Pokémon Rumble Blast]]''
+| {{nts|1.40}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|August 11, 2011}}
+| {{hlist|[[Action role-playing game|Action role-playing]]|[[beat 'em up]]}}
+| [[Ambrella]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Bravely Default]]''
+| {{nts|1.40}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|October 11, 2012}}
+| [[Role-playing video game|Role-playing]]
+| [[Silicon Studio]]
+| [[Nintendo]]
+|-
+| ''[[Pokémon Mystery Dungeon: Gates to Infinity]]''
+| {{nts|1.38}}{{nbsp}}million<ref name="CESA2021"/>
+| {{dts|December 31, 2020}}
+| {{dts|November 23, 2012}}
+| [[Roguelike]]
+| [[Spike Chunsoft]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+|-
+| ''[[Kid Icarus: Uprising]]''
+| {{nts|1.37}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2020}}
+| {{dts|March 22, 2012}}
+| {{hlist|[[Third-person shooter]]|[[shoot 'em up]]}}
+| {{hlist|[[Project Sora]]|[[Sora Ltd.]]}}
+| [[Nintendo]]
+|-
+| ''[[The Legend of Zelda: Tri Force Heroes]]''
+| {{nts|1.36}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|October 22, 2015}}
+| [[Action-adventure game|Action-adventure]]
+| {{hlist|[[Nintendo EPD]]|[[Grezzo]]}}
+| [[Nintendo]]
+|-
+| ''[[Super Street Fighter IV: 3D Edition]]''
+| {{nts|1.30}}{{nbsp}}million<ref name="CapcomPlat" />
+| {{dts|December 31, 2022}}
+| {{dts|February 26, 2011}}
+| [[Fighting game|Fighting]]
+| {{hlist|[[Dimps]]|[[Capcom]]}}
+| [[Capcom]]
+|-
+| ''[[Kingdom Hearts 3D: Dream Drop Distance]]''
+| {{nts|1.30}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|March 29, 2012}}
+| [[Action role-playing game|Action role-playing]]
+| [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[Miitopia]]''
+| {{nts|1.22}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|December 8, 2016}}
+| [[Role-playing video game|Role-playing]]
+| [[Nintendo EPD]]
+| [[Nintendo]]
+|-
+| ''[[Fantasy Life]]''
+| {{nts|1.11}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|December 27, 2012}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|JP|[[Level-5 (company)|Level-5]]|WW|[[Nintendo]]}}
+|-
+| ''[[Mario & Luigi: Paper Jam]]''
+| {{nts|1.08}}{{nbsp}}million<ref name="CESA2022"/>
+| {{dts|December 31, 2021}}
+| {{dts|December 3, 2015}}
+| [[Role-playing video game|Role-playing]]
+| [[AlphaDream]]
+| [[Nintendo]]
+|-
+| ''[[Star Fox 64 3D]]''
+| {{nts|1.07}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|July 14, 2011}}
+| [[Rail shooter]]
+| {{hlist|[[Nintendo EAD]]|[[Q-Games]]}}
+| [[Nintendo]]
+|-
+| ''[[Rhythm Heaven Megamix]]''
+| {{nts|1.03}}{{nbsp}}million<ref name=":1">{{Cite book |title=2023CESAゲーム白書 (2023 CESA Games White Papers) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+| {{dts|December 31, 2022}}
+| {{dts|June 11, 2015}}
+| [[Rhythm game|Rhythm]]
+| [[Nintendo SPD]]
+| [[Nintendo]]
+|-
+| ''[[Monster Strike#Nintendo 3DS game|Monster Strike]]''
+| {{nts|1}}{{nbsp}}million<ref name="MonsterStrike">{{cite web|url=http://www.nintendolife.com/news/2015/12/monster_strike_ships_over_a_million_copies_in_just_four_days|title=Monster Strike Ships Over A Million Copies In Just Four Days|date=December 21, 2015|last1=McFerran|first1=Damien|website=Nintendo Life|access-date=December 21, 2015|archive-date=February 24, 2016|archive-url=https://web.archive.org/web/20160224155907/http://www.nintendolife.com/news/2015/12/monster_strike_ships_over_a_million_copies_in_just_four_days|url-status=live}}</ref>
+|
+| {{dts|December 17, 2015}}
+| [[Role-playing video game|Role-playing]]
+| [[Mixi]]
+| Xflag
+|-
+| ''[[Style Savvy: Fashion Forward]]''
+| {{nts|1}}{{nbsp}}million<ref name="CESA2022"/>
+| {{dts|December 31, 2021}}
+| {{dts|April 16, 2015}}
+| [[Simulation Game|Simulation]]
+| [[Syn Sophia]]
+| [[Nintendo]]
+|-
+|''[[Fire Emblem Echoes: Shadows of Valentia]]''
+| {{nts|1}}{{nbsp}}million<ref name=":1" />
+| {{dts|December 31, 2022}}
+| {{dts|April 20, 2017}}
+|[[Tactical role-playing game|Tactical role-playing]]
+|[[Intelligent Systems]]
+|[[Nintendo]]
+|-
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{noteslist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [https://www.nintendo.co.jp/ir/en/finance/software/3ds.html Nintendo IR Information - Nintendo 3DS Software]
+
+{{vgbestsellers}}
+{{Nintendo 3DS}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Nintendo 3DS video games}}
+[[Category:Nintendo 3DS games| ]]
+[[Category:Lists of best-selling Nintendo video games|Nintendo 3DS]]
+[[Category:Lists of Nintendo 3DS games]]

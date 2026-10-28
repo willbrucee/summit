@@ -1,0 +1,662 @@
+{{Short description|none}}
+{{Video games}}
+{{Dynamic list}}
+{{multiple image
+| image1            = NES-Console-Set.jpg
+| caption1          = NES with connected controller
+| image2            = Nintendo-Famicom-Console-Set-FL.jpg
+| caption2          = Famicom with built-in controllers
+}}
+The '''list of best-selling Nintendo Entertainment System video games''' totals 75 games with sales or shipments of at least one million copies. The [[Family Computer]] (Famicom) [[video game console]] was first released in 1983 and later redesigned as the [[Nintendo Entertainment System]] (NES) in 1985. Its best-selling game is ''[[Super Mario Bros.]]'', first released in Japan on September 13, 1985, with sales of more than 40{{nbsp}}million copies worldwide, making it one of the [[List of best-selling video games|best-selling video games of all time]]. Two sequels are within the top five best-selling NES games: ''[[Super Mario Bros. 2]]'' ranks fourth at 7.46{{nbsp}}million units, and ''[[Super Mario Bros. 3]]'' ranks third at 18{{nbsp}}million units. The remaining top six are ''[[Duck Hunt]]'' with 28{{nbsp}}million units, ''[[Tetris]]'' with 8 million units, and ''[[The Legend of Zelda (video game)|The Legend of Zelda]]'' with 6.5{{nbsp}}million units.
+
+Of these 87 games, 31 were developed by internal Nintendo development divisions, and 41 were published by Nintendo. Other developers with the most million-selling games include [[Capcom]] with seven games, and [[Konami]], [[Hudson Soft]], and [[Tose (company)|Tose]], with six games each. Other publishers include [[Bandai]] and [[Hudson Soft]] with five games each, and [[Enix]] and [[Namco]] with four games each. The most popular franchises on NES include ''[[Super Mario]]'' with 67.63{{nbsp}}million combined units, ''[[Dragon Quest]]'' with 11.475{{nbsp}}million combined units, and ''[[The Legend of Zelda]]'' with 10.89{{nbsp}}million combined units.
+
+==Games==
+
+{| class="wikitable plainrowheaders"
+|+ Key
+|-
+| bgcolor="#FFFF99" style="text-align:center;"|{{Dagger}}
+| Game was [[Pack-in game|bundled]] with console during its lifetime
+|}
+{{sticky-header}}
+{{srn}}
+{| class="wikitable sortable sticky-header static-row-numbers"
+|- class=static-row-header
+!scope="col" | Game
+!scope="col" | Developer(s){{efn|name="devpub"|Only developers and publishers for the original release of each game are listed.}}
+!scope="col" | Publisher(s){{efn|name="devpub"}}
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Sales
+!scope="col" class="unsortable" | {{abbr|Ref|Reference(s)}}
+|-
+| bgcolor="#FFFF99"| ''[[Super Mario Bros.]]'' {{Dagger}}
+| [[Nintendo Entertainment Analysis & Development|Nintendo R&D4]]
+| [[Nintendo]]
+| {{dts|1985-09-13}}
+| 40,240,000
+| align="center"|<ref name="supermario">{{cite web |url=https://www.theguardian.com/technology/gamesblog/2010/sep/13/games-gameculture |title=Super Mario Bros.: 25 Mario facts for the 25th anniversary |last=Stuart |first=Keith |work=[[Super Mario Bros.]] |publisher=[[Guardian Media Group]] |date=September 13, 2010 |accessdate=April 22, 2017 |archive-date=August 9, 2017 |archive-url=https://web.archive.org/web/20170809081435/https://www.theguardian.com/technology/gamesblog/2010/sep/13/games-gameculture |url-status=live }}</ref>
+|-
+| bgcolor="#FFFF99"| ''[[Duck Hunt]]'' {{Dagger}}
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1984-04-21}}
+| 28,310,000
+| align="center"|<ref name="whitepaper">{{cite book |title=2021CESAゲーム白書 (2021 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2021|isbn=978-4-902346-43-5}}</ref>
+|-
+| bgcolor="#FFFF99"| ''[[Super Mario Bros. 3]]'' {{Dagger}}
+| [[Nintendo Entertainment Analysis & Development|Nintendo R&D4]]
+| [[Nintendo]]
+| {{dts|1988-10-23}}
+| 18,000,000
+| align="center"|<ref name="supermariotitles">{{cite web |url=http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |title=30 Best-Selling Super Mario Games of All Time on the Plumber's 30th Birthday |last=O'Malley |first=James |work=[[Gizmodo]] |publisher=[[Univision Communications]] |date=September 11, 2015 |accessdate=April 22, 2017 |archive-date=September 8, 2020 |archive-url=https://web.archive.org/web/20200908004707/http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |url-status=live }}</ref>
+|-
+| ''[[Tetris (NES video game)|Tetris]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1989-11}}
+| 8,000,000
+| align="center"|<ref>{{Cite episode | title = Tetris: From Russia With Love | url = https://www.bbc.co.uk/programmes/b0074pz0 | series = BBC Four | credits = Director/Producer: Magnus Temple; Executive Producer: Nick Southgate | network = [[BBC]] | station = [[BBC Four]] | date = 2004 | time = 51:23 | quote = The real winners were Nintendo. To date, Nintendo dealers across the world have sold 8 million ''Tetris'' cartridges on the Nintendo Entertainment system. | access-date = 2012-09-04 | archive-date = 2016-01-01 | archive-url = https://web.archive.org/web/20160101183339/http://www.bbc.co.uk/programmes/b0074pz0 | url-status = live }}</ref>
+|-
+| ''[[Super Mario Bros. 2]]'' (international version)
+| [[Nintendo Entertainment Analysis & Development|Nintendo R&D4]]
+| [[Nintendo]]
+| {{dts|1988-10-09}}
+| 7,460,000
+| align="center"|<ref name="supermariotitles"/>
+|-
+| ''[[The Legend of Zelda (video game)|The Legend of Zelda]]''
+| [[Nintendo Entertainment Analysis & Development|Nintendo R&D4]]
+| [[Nintendo]]
+| {{dts|1986-02-21}}
+| 6,510,000
+| align="center"|<ref name="zeldaseries">{{cite news |url=http://www.the-magicbox.com/game032504.shtml |title=March 25, 2004 |publisher=The Magic Box |archiveurl=https://web.archive.org/web/20051126100623/http://www.the-magicbox.com/game032504.shtml |archivedate=November 26, 2005 |accessdate=April 22, 2017 }}</ref>
+|-
+| ''[[Dr. Mario]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1990-07-27}}
+| 4,850,000
+| align="center"|<ref name="puzzle">{{cite book |last=Terry |first=Paul |date=October 5, 2015 |title=Top 10 of Everything 2016 |url=https://books.google.com/books?id=5ARMCgAAQBAJ&pg=PT123 |location=New York City, New York |publisher=[[Hachette Book Group]] |page=123 |isbn=978-1770856172 |access-date=April 22, 2017 |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207162037/https://books.google.com/books?id=5ARMCgAAQBAJ&pg=PT123 |url-status=live }}</ref>
+|-
+| ''[[Zelda II: The Adventure of Link]]''
+| [[Nintendo Entertainment Analysis & Development|Nintendo R&D4]]
+| [[Nintendo]]
+| {{dts|1987-01-14}}
+| 4,380,000
+| align="center"|<ref name="zeldaseries"/>
+|-
+| ''[[Excitebike]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1984-11-30}}
+| 4,160,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Golf (1984 video game)|Golf]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1984-05-01}}
+| 4,010,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| bgcolor="#FFFF99"| ''[[Teenage Mutant Ninja Turtles (NES video game)|Teenage Mutant Ninja Turtles]]'' {{Dagger}}
+| [[Konami]]
+| {{vgrelease|JP|[[Konami]]|NA|[[Ultra Games]]}}
+| {{dts|1989-05-12}}
+| 4,000,000
+| align="center"|<ref name="ninjaturtles">{{cite book |last=Kent |first=Steven L. |authorlink=Steven L. Kent |date=June 16, 2010 |title=The Ultimate History of Video Games: From Pong to Pokémon and Beyond... The Story Behind the Craze That Touched Our Lives and Changed the World |url=https://books.google.com/books?id=PTrcTeAqeaEC&pg=PT571 |location=New York City, New York |publisher=[[Crown Publishing Group|Crown Archetype]] |page=571 |isbn=978-0761536437 |access-date=April 22, 2017 |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207162043/https://books.google.com/books?id=PTrcTeAqeaEC&pg=PT571 |url-status=live }}</ref>
+|-
+| ''[[Dragon Quest III]]''
+| [[Spike Chunsoft|Chunsoft]]
+| [[Enix]]
+| {{dts|1988-02-10}}
+| 3,895,000
+| align="center"|<ref name="dragonquest">{{cite web |url=http://www.planetnintendo.com/alefgard/dqhistory.asp |title=Dragon Quest History |publisher=Planet Nintendo |archiveurl=https://web.archive.org/web/20070927210927/http://www.planetnintendo.com/alefgard/dqhistory.asp |archivedate=September 27, 2007 |accessdate=April 22, 2017 }}</ref>
+|-
+| ''[[Kung-Fu Master (video game)|Kung Fu]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1985-06-21}}
+| 3,500,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Baseball (1983 video game)|Baseball]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1983-12-07}}
+| 3,200,000
+| align="center"|<ref name="baseball">{{cite book |date=November 6, 2014 |title=Guinness World Records 2015: Gamer's Edition |location=Vancouver, British Columbia |publisher=[[Jim Pattison Group]] |page=105 |isbn=978-1908843654 }}</ref>
+|-
+| ''[[Dragon Quest IV]]''
+| [[Spike Chunsoft|Chunsoft]]
+| [[Enix]]
+| {{dts|1990-02-11}}
+| 3,180,000
+| align="center"|<ref name="dragonquest"/>
+|-
+| bgcolor="#FFFF99"| ''[[Stadium Events|World Class Track Meet]]'' {{Dagger}}
+| [[Human Entertainment|TRY Co.]]
+| [[Nintendo]]
+| {{dts|1986-12-23}}
+| 3,080,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Punch-Out!! (1987 video game)|Punch-Out!!]]''
+| [[Nintendo Integrated Research & Development|Nintendo R&D3]]
+| [[Nintendo]]
+| {{dts|1987-09-18}}
+| 3,000,000
+| align="center"|<ref>{{cite web|url=https://www.newspapers.com/clip/85752027/|title=Nintendo has Singlehandedly has revived the video game industry|newspaper=[[Albuquerque Journal]]|page=13|date=October 16, 1989|accessdate=September 22, 2021|via=[[Newspapers.com]]|archive-date=February 7, 2023|archive-url=https://web.archive.org/web/20230207162030/https://www.newspapers.com/clip/85752027/albuquerque-journal/|url-status=live}}</ref>
+|-
+| ''[[Metroid (video game)|Metroid]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]{{efn|[[Intelligent Systems]] worked as additional developers on ''Metroid''.}}
+| [[Nintendo]]
+| {{dts|1986-08-06}}
+| 2,730,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Super Mario Bros.: The Lost Levels|Super Mario Bros. 2]]'' (Japanese version)
+| [[Nintendo Entertainment Analysis & Development|Nintendo R&D4]]
+| [[Nintendo]]
+| {{dts|1986-06-03}}
+| 2,650,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Dragon Quest II]]''
+| [[Spike Chunsoft|Chunsoft]]
+| [[Enix]]
+| {{dts|1987-01-26}}
+| 2,550,000
+| align="center"|<ref name="dragonquest"/>
+|-
+| ''[[Ice Hockey (1988 video game)|Ice Hockey]]''
+| [[Nintendo Research & Development 2|Nintendo R&D2]]
+| [[Nintendo]]
+| {{dts|1988-01-21}}
+| 2,420,000
+| align="center"|<ref name="icehockey">{{cite book |date=September 8, 2016 |title=Guinness World Records 2017: Gamer's Edition |location=Vancouver, British Columbia |publisher=[[Jim Pattison Group]] |page=188 |isbn=978-1910561393 |url=https://books.google.com/books?id=MNEyDQAAQBAJ&pg=PA188 |access-date=April 22, 2017 |archive-date=May 11, 2022 |archive-url=https://web.archive.org/web/20220511174329/https://books.google.com/books?id=MNEyDQAAQBAJ&pg=PA188 |url-status=live }}</ref>
+|-
+| ''[[Pro Wrestling (NES video game)|Pro Wrestling]]''
+| [[Nintendo Integrated Research & Development|Nintendo R&D3]]
+| [[Nintendo]]
+| {{dts|1986-10-13}}
+| 2,400,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Mario Bros.]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1983-09-09}}
+| 2,280,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Tennis (1984 video game)|Tennis]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]{{efn|Intelligent Systems worked as additional developers on ''Tennis''.}}
+| [[Nintendo]]
+| {{dts|1984-01-14}}
+| 2,170,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Volleyball (video game)|Volleyball]]''
+| [[Nintendo Integrated Research & Development|Nintendo R&D3]]
+| [[Nintendo]]
+| {{dts|1986-07-21}}
+| 2,150,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Mah-Jong]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1983-08-27}}
+| 2,140,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[R.C. Pro-Am]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| {{dts|1988-02}}
+| 2,140,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Pro Yakyū Family Stadium]]'' (''R.B.I. Baseball'')
+| [[Namco]]
+| [[Namco]]
+| {{dts|1986-12-10}}
+| 2,050,000
+| align="center"|<ref>{{cite book |title=Tokyo Business Today |date=1990 |publisher=[[Toyo Keizai]] |page=35 |url=https://books.google.com/books?id=YfOzAAAAIAAJ |quote=Since the new contract went into effect, Namco, whose hit "Family Stadium" has sold {{nowrap|2.05 million}} copies in Japan, has been limited in the number of new programs it can produce, and has suffered declining revenues. |access-date=2021-09-24 |archive-date=2023-02-07 |archive-url=https://web.archive.org/web/20230207162054/https://books.google.com/books?id=YfOzAAAAIAAJ |url-status=live }}</ref><ref name="japanplatinum">{{cite web |url=http://www.the-magicbox.com/Chart-JPPlatinum.shtml |title=Japan Platinum Game Chart |publisher=The Magic Box |accessdate=April 22, 2017 |archive-date=August 1, 2019 |archive-url=https://web.archive.org/web/20190801030711/http://www.the-magicbox.com/Chart-JPPlatinum.shtml |url-status=live }}</ref>
+|-
+| ''[[Dragon Quest (video game)|Dragon Quest]]''
+| [[Spike Chunsoft|Chunsoft]]
+| {{vgrelease|JP|[[Enix]]|NA|[[Nintendo]]}}
+| {{dts|1986-05-27}}
+| 2,000,000
+| align="center"|<ref>{{cite web|url=https://www.usgamer.net/articles/the-new-dark-age-of-dragon-quest|title=The New Dark Age of Dragon Quest|website=[[USgamer]]|date=August 21, 2013|accessdate=March 13, 2021|last=Parish|first=Jeremy|archive-date=December 28, 2019|archive-url=https://web.archive.org/web/20191228165200/https://www.usgamer.net/articles/the-new-dark-age-of-dragon-quest|url-status=live}}</ref>
+|-
+| ''[[Top Gun (1987 video game)|Top Gun]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1987-11}}
+| 2,000,000
+| align="center"|<ref name="Top Gun">{{cite web |url=https://www.complex.com/life/the-100-best-old-school-nintendo-games |title=The 100 Best Original Nintendo Games |website=[[Complex Networks|Complex]] |date=September 19, 2018 |accessdate=October 17, 2018 |archive-date=October 18, 2018 |archive-url=https://web.archive.org/web/20181018010250/https://www.complex.com/life/the-100-best-old-school-nintendo-games/ |url-status=live }}</ref>
+|-
+| ''[[Soccer (1985 video game)|Soccer]]''
+| [[Intelligent Systems]]
+| [[Nintendo]]
+| {{dts|1985-04-09}}
+| 1,960,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Rad Racer]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP|[[Square (video game company)|Square]]|NA|[[Nintendo]]|EU|[[Mattel]]}}
+| {{dts|1987-08-07}}
+| 1,960,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Pinball (1984 video game)|Pinball]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1984-02-02}}
+| 1,850,000
+| align="center"|<ref name="whitepaper"/>
+|-
+|[[Ninja Gaiden (NES game)|''Ninja Gaiden'']]
+|[[Tecmo]]
+|[[Tecmo]]
+|{{dts|1988-12-09}}
+|1,800,000
+| align="center" |<ref name=":0">{{Cite web |date=2025-10-31|title=Ninja Gaiden – Developer Commentary (2023)|url=https://shmuplations.com/ninjagaiden/|access-date=2026-08-24|website=Shmuplations|language=en-US}}</ref>
+|-
+| ''[[Kid Icarus]]''
+| {{hlist|[[Nintendo Research & Development 1|Nintendo R&D1]]|[[Tose (company)|Tose]]}}
+| [[Nintendo]]
+| {{dts|1986-12-19}}
+| 1,760,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Yoshi (video game)|Yoshi]]''
+| [[Game Freak]]
+| [[Nintendo]]
+| {{dts|1991-12-14}}
+| 1,750,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Kirby's Adventure]]''
+| [[HAL Laboratory]]
+| [[Nintendo]]
+| {{dts|1993-03-23}}
+| 1,750,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[DuckTales (video game)|DuckTales]]''
+| [[Capcom]]
+| [[Capcom]]
+| {{dts|1989-09-14}}
+| 1,670,000
+| align="center"|<ref name="capcomold">{{cite web |url=http://ir.capcom.co.jp/english/data/million.html |title=Platinum Titles |publisher=[[Capcom]] |archiveurl=https://web.archive.org/web/20080116224723/http://ir.capcom.co.jp/english/data/million.html |archivedate=January 16, 2008 |accessdate=April 22, 2017 }}</ref>
+|-
+| ''[[Ghosts 'n Goblins (video game)|Ghosts 'n Goblins]]''
+| {{hlist|[[Capcom]]|Micronics}}
+| [[Capcom]]
+| {{dts|1986-06-13}}
+| 1,640,000
+| align="center"|<ref name="capcom">{{cite web|url=http://www.capcom.co.jp/ir/english/finance/million.html |title=Platinum Titles |publisher=[[Capcom]] |accessdate=April 22, 2017 |url-status=dead |archiveurl=https://web.archive.org/web/20161201214236/http://www.capcom.co.jp/ir/english/finance/million.html |archivedate=December 1, 2016 }}</ref>
+|-
+| ''[[Bases Loaded (video game)|Bases Loaded]]''
+| [[Tose (company)|Tose]]
+| [[Jaleco]]
+| {{dts|1987-06-26}}
+| 1,580,000
+| align="center"|<ref name="basesloaded">{{cite web |url=http://geimin.net/da/db/m_domestic/index.php |title=Domestic successive million shipment |publisher=Geimin.net |accessdate=April 22, 2017 |archive-date=January 31, 2019 |archive-url=https://web.archive.org/web/20190131122553/http://geimin.net/da/db/m_domestic/index.php |url-status=live }}</ref>
+|-
+| ''[[Donkey Kong Classics]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1988-10}}
+| 1,560,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Tecmo Bowl]]''
+| [[Tecmo]]
+| [[Tecmo]]
+| {{dts|1989-2}}
+| 1,530,000
+| align="center"|<ref>{{Cite web |date=2021-11-26 |title=2008 CESA Games White Paper |url=https://www.installbaseforum.com/threads/2008-cesa-games-white-paper.289/ |access-date=2024-03-11 |website=Install Base |language=en-US}}</ref>
+|-
+| ''[[F1 Race]]''
+| [[HAL Laboratory]]
+| [[Nintendo]]
+| {{dts|1984-11-02}}
+| 1,520,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Mega Man 2]]''
+| [[Capcom]]
+| [[Capcom]]
+| {{dts|1988-12-24}}
+| 1,510,000
+| align="center"|<ref name="capcom"/>
+|-
+| ''[[Lode Runner]]''
+| [[Hudson Soft]]
+| {{hlist|[[Broderbund]]|[[Hudson Soft]]}}
+| {{dts|1984-07-31}}
+| 1,500,000
+| align="center"|<ref name="loderunner">{{cite web |url=http://www.ign.com/articles/1999/02/18/locknlode |title=Lock'n'Lode |work=[[IGN]] |publisher=[[Ziff Davis]] |date=February 17, 1999 |accessdate=April 22, 2017 |archive-date=May 11, 2019 |archive-url=https://web.archive.org/web/20190511123027/https://www.ign.com/articles/1999/02/18/locknlode |url-status=live }}</ref>
+|-
+| ''[[Xevious]]''
+| [[Namco]]
+| {{vgrelease|JP|[[Namco]]|NA|[[Bandai]]}}
+| {{dts|1984-11-08}}
+| 1,500,000
+| align="center"|<ref>{{cite book |last1=Sheff |first1=David |title=[[Game Over: How Nintendo Conquered the World]] |year=1994 |orig-year=1993 |publisher=[[Vintage Books]] |isbn=978-0-307-80074-9 |chapter=Inside the Mother Brain |page=72 |chapter-url=https://file1.largepdf.com/file/2020/04/08/Game_Over_-_David_Sheff.pdf#page=72 |quote=Namco sold 1.5 million copies of a game called “Xevious.” A new Namco building was nicknamed the Xevious Building because the game had paid for its construction costs. |access-date=2021-01-02 |archive-date=2021-01-02 |archive-url=https://web.archive.org/web/20210102104823/https://file1.largepdf.com/file/2020/04/08/Game_Over_-_David_Sheff.pdf#page=72 |url-status=dead }}</ref>
+|-
+| ''[[Ice Climber]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1985-01-30}}
+| 1,500,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Ninja Hattori-kun (video game)|Ninja Hattori-kun]]''
+| [[Hudson Soft]]
+| [[Hudson Soft]]
+| {{dts|1986-03-05}}
+| 1,500,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Mighty Bomb Jack]]''
+| [[Tecmo]]
+| [[Tecmo]]
+| {{dts|1986-04-24}}
+| 1,500,000
+| align="center"|<ref name="CE">{{cite magazine |title=Nintendo Software |magazine=[[Computer Entertainer]] |date=August 1987 |volume=6 |issue=5 |page=12 |url=http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_aug87.pdf#page=12 |access-date=2021-08-13 |archive-date=2019-11-23 |archive-url=https://web.archive.org/web/20191123024827/http://www.ataricompendium.com/archives/newsletters/video_game_update/computer_entertainer_aug87.pdf#page=12 |url-status=live }}</ref>
+|-
+| ''[[Nintendo World Cup]]''
+| [[Technōs Japan]]
+| {{vgrelease|JP|[[Technōs Japan]]|NA/EU|[[Nintendo]]}}
+| {{dts|1990-05-18}}
+| 1,480,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[4 Nin Uchi Mahjong]]''
+| [[Hudson Soft]]
+| [[Nintendo]]
+| {{dts|1984-11-02}}
+| 1,450,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Final Fantasy III]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| {{dts|1990-04-27}}
+| 1,400,000
+| align="center"|<ref name="squareenix">{{cite web |url=http://www.jp.square-enix.com/ir/e/explanatory/download/0404-200402090000-01.pdf#page=27 |archive-url=https://web.archive.org/web/20130120084840/http://www.jp.square-enix.com/ir/e/explanatory/download/0404-200402090000-01.pdf| archive-date=January 20, 2013| title=February 2, 2004 - February 4, 2004 |publisher=[[Square Enix]] |date=February 9, 2004 |accessdate=April 22, 2017 }}</ref>
+|-
+| bgcolor="#FFFF99"| ''[[Gyromite]]'' {{Dagger}}
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1985-08-13}}
+| 1,320,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Final Fantasy (video game)|Final Fantasy]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| {{dts|1987-12-18}}
+| 1,300,000
+| align="center"|<ref>{{cite magazine|title=Final Fantasy III|magazine=[[Electronic Gaming Monthly]]|issue=63|publisher=[[Ziff Davis]]|date=October 1994|page=172|url=https://archive.org/details/Electronic_Gaming_Monthly_63/page/n177/mode/1up}}</ref>
+|-
+| ''[[Family Stadium|Pro Yakyū Family Stadium '87]]''
+| [[Namco]]
+| [[Namco]]
+| {{dts|1987-12-22}}
+| 1,300,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Hogan's Alley (video game)|Hogan's Alley]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1984-06-12}}
+| 1,270,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Ninja Kid]]''
+| [[Tose (company)|Tose]]
+| [[Bandai]]
+| {{dts|1986-04-17}}
+| 1,250,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[List of Dragon Ball video games#1980s|Dragon Power]]''
+| [[Tose (company)|Tose]]
+| [[Bandai]]
+| {{dts|1986-11-27}}
+| 1,250,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Battletoads (1991 video game)|Battletoads]]''
+| [[Rare (company)|Rare]]
+| [[Tradewest]]
+| {{dts|1991-06}}
+| 1,250,000
+| align="center"|<ref>{{Cite news |date=28 September 1992 |title=Virgin traps Toads for MS in Tradewest tie-up |url=https://retrocdn.net/images/8/84/CTW_UK_406.pdf#page=3 |work=Computer Trade Weekly |page=3 |issue=406}}</ref>
+|-
+| ''[[TwinBee]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1986-01-07}}
+| 1,200,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Ganbare Goemon! Karakuri Dōchū]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1986-07-30}}
+| 1,200,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Chip 'n Dale Rescue Rangers (video game)|Chip 'n Dale Rescue Rangers]]''
+| [[Capcom]]
+| [[Capcom]]
+| {{dts|1990-06-08}}
+| 1,200,000
+| align="center"|<ref name="capcomold"/>
+|-
+| ''[[Tecmo Super Bowl]]''
+| [[Tecmo]]
+| [[Tecmo]]
+| {{dts|1991-12-13}}
+| 1,190,000
+| align="center"|<ref>{{Cite web |date=2021-11-26 |title=2008 CESA Games White Paper |url=https://www.installbaseforum.com/threads/2008-cesa-games-white-paper.289/ |access-date=2024-03-11 |website=Install Base |language=en-US}}</ref>
+|-
+| ''[[Doraemon (1986 video game)|Doraemon]]''
+| [[Hudson Soft]]
+| [[Hudson Soft]]
+| {{dts|1986-12-12}}
+| 1,150,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Commando (video game)|Commando]]''
+| [[Capcom]]
+| [[Capcom]]
+| {{dts|1986-09-27}}
+| 1,140,000
+| align="center"|<ref name="capcom"/>
+|-
+| ''[[Donkey Kong (arcade game)|Donkey Kong]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1983-07-15}}
+| 1,130,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Yoshi's Cookie]]''
+| [[Tose (company)|Tose]]
+| [[Nintendo]]
+| {{dts|1992-11-21}}
+| 1,120,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Donkey Kong Jr.]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1983-07-15}}
+| 1,110,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Popeye (video game)|Popeye]]''
+| [[Nintendo Research & Development 1|Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|1983-07-15}}
+| 1,100,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Family Stadium|Pro Yakyū Family Stadium '88]]''
+| [[Namco]]
+| [[Namco]]
+| {{dts|1988-12-20}}
+| 1,080,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Mega Man 3]]''
+| [[Capcom]]
+| [[Capcom]]
+| {{dts|1990-09-28}}
+| 1,080,000
+| align="center"|<ref name="capcom"/>
+|-
+| ''[[Famicom Jump: Hero Retsuden]]''
+| [[Tose (company)|Tose]]
+| [[Bandai]]
+| {{dts|1989-02-15}}
+| 1,060,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Tag Team Match: MUSCLE]]''
+| [[Tose (company)|Tose]]
+| [[Bandai]]
+| {{dts|1985-11-08}}
+| 1,050,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Adventure Island (video game)|Adventure Island]]''
+| [[Hudson Soft]]
+| [[Hudson Soft]]
+| {{dts|1986-09-12}}
+| 1,050,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[WWF WrestleMania (1989 video game)|WWF WrestleMania]]''
+| [[Rare (company)|Rare]]
+| [[Acclaim Entertainment]]
+| {{dts|1989-02}}
+| 1,042,408
+| align="center"|<ref>{{cite web |url=https://archive.gamehistory.org/item/79ddb09d-4ed0-492a-a999-29d5ec44084b |title=WWF Product History |date=1994 |publisher=[[Acclaim Entertainment]] |via=[[Video Game History Foundation]]}}</ref>
+|-
+| ''[[Ninja JaJaMaru-kun]]''
+| {{hlist|[[Jaleco]]}}
+| [[Jaleco]]
+| {{dts|1985-11-15}}
+| 1,000,000
+| align="center" | <ref name="GM">{{cite magazine|title=Overseas ReadersColumn: Jaleco Ships New Game For "VS. System"|magazine=[[:ja:ゲームマシン|Game Machine]]|issue=282|publisher=[[:ja:アミューズメント通信社|Amusement Press, Inc.]]|date=1 May 1986|page=20|url=https://onitama.tv/gamemachine/pdf/19860501p.pdf#page=11|access-date=13 April 2021|archive-date=9 February 2021|archive-url=https://web.archive.org/web/20210209134802/https://onitama.tv/gamemachine/pdf/19860501p.pdf#page=11|url-status=live}}</ref>
+|-
+| ''[[1942 (video game)|1942]]''
+| {{hlist|[[Capcom]]|Micronics}}
+| [[Capcom]]
+| {{dts|1985-12-11}}
+| 1,000,000
+| align="center"|<ref name="1942game">{{cite book |last=Kent |first=Steven L. |title=[[The Ultimate History of Video Games]] |date=September 6, 2001 |publisher=[[Three Rivers Press]] |isbn=978-0761536437 |location=New York City, New York |page=351}}</ref>
+|-
+| ''[[Bomberman (1983 video game)|Bomberman]]''
+| [[Hudson Soft]]
+| [[Hudson Soft]]
+| {{dts|1985-12-20}}
+| 1,000,000
+| align="center"|<ref name="bomberman">{{cite news|url=http://press.nokia.com/2004/03/01/bomb-away-with-bomberman-on-the-n-gagetm-mobile-game-deck/ |title=Bomb Away With Bomberman On The N-GageTM Mobile Game Deck |publisher=[[Nokia]] |date=March 1, 2004 |archiveurl=https://web.archive.org/web/20130203094520/http://press.nokia.com/2004/03/01/bomb-away-with-bomberman-on-the-n-gagetm-mobile-game-deck/ |archivedate=February 3, 2013 |accessdate=April 22, 2017 |url-status=dead }}</ref>
+|-
+| ''[[Hydlide]]''
+| [[Technology and Entertainment Software|T&E Soft]]
+| {{vgrelease|JP|[[EMI Music Japan|Toshiba EMI]]|NA|[[Fujisankei Communications International|FCI]]}}
+| {{dts|1986-03-18}}
+| 1,000,000
+| align="center"|<ref name="hydlide">{{cite web |url=http://www.kinephanos.ca/2015/history-of-japanese-video-games/ |title=History of Japanese Video Games |last=Szczepaniak |first=John |publisher=Kinephanos |year=2015 |accessdate=April 22, 2017 |archive-date=October 3, 2018 |archive-url=https://web.archive.org/web/20181003093755/http://www.kinephanos.ca/2015/history-of-japanese-video-games/ |url-status=live }}</ref>
+|-
+| ''[[Gradius (video game)|Gradius]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1986-04-25}}
+| 1,000,000
+| align="center"|<ref name="japanplatinum"/>
+|-
+| ''[[Tiger Heli]]''
+| Micronics
+| {{vgrelease|JP|[[Pony Canyon]]|NA/EU|[[Acclaim Entertainment]]}}
+| {{dts|1986-12-05}}
+| 1,000,000
+| align="center"|<ref name="Newsday">{{cite news|url=https://www.newspapers.com/article/newsday-suffolk-edition/114182659/|title=Zapping All the Way to the Bank|work=[[Newsday]]|publisher=Debby Krenek|date=October 16, 1989|page=127|archive-url=https://web.archive.org/web/20250123102914/https://www.newspapers.com/article/newsday-suffolk-edition/114182659/|archive-date=2025-01-23|url-status=live|access-date=2025-04-12|via=[[Newspapers.com]]}}</ref><ref name="tigerheli">{{cite book |last=Kent |first=Steven L. |date=September 6, 2001 |title=The Ultimate History of Video Games: From Pong to Pokémon and Beyond... The Story Behind the Craze That Touched Our Lives and Changed the World |location=New York City, New York |publisher=[[Three Rivers Press]] |page=310 |isbn=978-0761536437 }}</ref>
+|-
+| ''[[Momotarō Densetsu]]''
+| [[Hudson Soft]]
+| [[Hudson Soft]]
+| {{dts|1987-10-26}}
+| 1,000,000
+| align="center" | <ref>{{cite web |url=http://www.kouenirai.com/profile/5175 |title=Akira Sakuma Profile |access-date=2025-04-18 |archive-date=2015-09-22 |archive-url=https://web.archive.org/web/20150922204558/http://www.kouenirai.com/profile/5175 |url-status=live }}</ref>
+|-
+| ''[[Metal Gear (video game)|Metal Gear]]''
+| [[Konami]]
+| {{vgrelease|JP|[[Konami]]|NA|[[Ultra Games]]}}
+| {{dts|1987-12-22}}
+| 1,000,000
+| align="center"|<ref name="metalgear">{{cite AV media |people=[[Hideo Kojima]] (Interviewee) |date=March 14, 2006 |title=Metal Gear Saga, Vol. 1 |publisher=[[Konami]] |quote=Konami decided to develop a NES version of Metal Gear, but I had absolutely nothing to do with this game. The game launched worldwide and became a huge hit, selling one million copies in the U.S. }}</ref>
+|-
+| ''[[NES Open Tournament Golf]]''
+| [[Nintendo Research & Development 2|Nintendo R&D2]]
+| [[Nintendo]]
+| {{dts|1991-09-20}}
+| 1,000,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Castlevania (1986 video game)|Castlevania]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1986-09-26}}
+| 1,000,000
+| align="center"|<ref>https://retrocdn.net/images/e/e1/Edge_UK_032.pdf#page=54 {{Bare URL inline|date=October 2026}}</ref>
+|-
+| ''[[Fester's Quest]]''
+| [[Sunsoft]]
+| [[Sunsoft]]
+| {{dts|1989-09}}
+| 1,000,000
+| align="center"|<ref>{{cite web |url=https://www.complex.com/pop-culture/a/uralg323/video-game-developer-michael-mendheim-dishes-def-jam-icon-murs-new-hip-hop-trivia-app |title=Veteran Video Game Developer Michael Mendheim Dishes on "Def Jam Icon" and Murs' New Hip-Hop Trivia App |website=[[Complex Networks]] |date=June 1, 2014 |last=Garre |first=Ural |archive-url=https://web.archive.org/web/20250510175736/https://www.complex.com/pop-culture/a/uralg323/video-game-developer-michael-mendheim-dishes-def-jam-icon-murs-new-hip-hop-trivia-app |archive-date=May 10, 2025}}</ref>
+|-
+| ''[[Mickey Mousecapade]]''
+| [[Hudson Soft]]
+| {{vgrelease|JP|[[Hudson Soft]]|NA|[[Capcom]]}}
+| {{dts|1987-03-06}}
+| 1,000,000
+| align="center|<ref>{{cite web |url=https://www.timeextension.com/features/best-of-2024-the-making-of-the-magical-quest-starring-mickey-mouse-capcoms-snes-classic |title=The Making Of The Magical Quest Starring Mickey Mouse, Capcom's SNES Classic |website=[[Time Extension]] |last=Yarwood |first=Jack |date=December 31, 2024 |access-date=January 28, 2026 |archive-url=https://web.archive.org/web/20260129000404/https://www.timeextension.com/features/best-of-2024-the-making-of-the-magical-quest-starring-mickey-mouse-capcoms-snes-classic |archive-date=January 29, 2026}}</ref>
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* {{Official website|https://nintendo.com}}
+
+{{vgbestsellers}}
+{{Nintendo Entertainment System}}
+{{Portal bar|1980s|1990s|Video games}}
+
+{{DEFAULTSORT:Best-selling Nintendo Entertainment System video games}}
+[[Category:Nintendo Entertainment System games|*]]
+[[Category:Famicom Disk System games|*]]
+[[Category:Lists of best-selling Nintendo video games|Nintendo Entertainment System]]

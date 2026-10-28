@@ -1,0 +1,272 @@
+{{Short description|None}}
+{{Primary sources|date=October 2026}}
+{{Dynamic list}}
+{{Video games}}
+<!--[[File:Black and white Playstation 5 base edition with controller.png|thumb|right|PlayStation 5 with [[DualSense]] controller]]-->
+
+This is a list of video games for the [[PlayStation 5]] [[video game console]] that have sold or shipped at least one million copies.
+{{clear}}
+
+== List ==
+{{static row numbers}}
+<!-- DO NOT ADD NUMBERS FROM VGCHARTZ OR STATISTA. THEY ARE ESTIMATES NOT TO BE USED HERE. AND MAKE SURE ANY SALES NUMBERS ADDED DO NOT INCLUDE ANOTHER CONSOLE'S SKU, AN EXAMPLE BEING GOD OF WAR: RAGNAROK'S 5.1 MILLION FIGURE WHICH INCLUDES PLAYSTATION 4 -->
+{| class="wikitable plainrowheaders sortable static-row-numbers"
+|+ List of best-selling PlayStation 5 video games
+! scope="col" | Game
+! scope="col" | Copies sold
+! scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+! scope="col" | Genre(s)
+! scope="col" | Developer(s)
+! scope="col" | Publisher(s)
+|-
+| ''[[Marvel's Spider-Man&nbsp;2]]''
+| {{nts|17}}{{nbsp}}million<ref name="Jan 2026">{{Cite web |url=https://alineaanalytics.substack.com/p/januarys-top-playstation-games-by |title=January's top PlayStation games by copies sold |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=February 5, 2026 |access-date=February 5, 2026}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|October 20, 2023}}
+| [[Action-adventure game|Action-adventure]]
+| [[Insomniac Games]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Gran Turismo 7]]''
+| {{nts|8.91}}{{nbsp}}million{{efn|Of the total 11 million copies sold by January 2026, 81% were for the PS5<ref>{{cite web |url=https://alineaanalytics.substack.com/p/forza-horizon-5-races-past-5m-copies |title=Forza Horizon 5 races past 5m copies sold on PS5 |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=January 13, 2026 |access-date=January 13, 2026}}</ref>}}
+| {{dts|March 4, 2022}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[EA Sports FC 26]]''
+| {{nts|7.04}}{{nbsp}}million{{efn|Of the total 8 million, 88% is for the PS5<ref name="Alinea October 2025">{{cite web |url=https://alineaanalytics.substack.com/p/octobers-top-playstation-games-by |title=October's top PlayStation games by copies sold |last=Elliott |first=Rhys |website=Alineanalyctics.com |date=November 4, 2025 |access-date=November 4, 2025}}</ref>}}{{Primary source inline|date=October 2026}}
+| {{dts|September 26, 2025}}
+| [[Sports game|Sports]]
+| [[EA Orlando]]
+| [[EA Sports]]
+|-
+| ''[[Resident Evil 4 (remake)|Resident Evil 4]]''
+| {{nts|6.968}}{{nbsp}}million{{efn|Of the total 13 million copies sold by February 2026, 53.6% were for PlayStation<ref name="Steam wish">{{Cite web |url=https://alineaanalytics.substack.com/p/the-top-2026-games-by-steam-wishlists |title=The top 2026 games by Steam wishlists |last=Elliott |first=Rhys |website=Alineanalytics.com |date=February 10, 2026 |access-date=February 10, 2026}}</ref>}}{{Primary source inline|date=October 2026}}
+| {{dts|March 24, 2023}}
+| [[Survival horror]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Black Myth: Wukong]]''
+| {{nts|6}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.com/blog/wuchang-fallen-feathers/ |title=Wuchang: Fallen Feathers - China's Next $100+ Breakout Title |last=Linder |first=Rickard |website=Alineaanalyctics.com |date=June 3, 2025 |access-date=June 3, 2025}}</ref>
+| {{dts|August 20, 2024}}
+| [[Action role-playing]]
+| [[Game Science]]
+| [[Game Science]]
+|-
+| ''[[Helldivers 2]]''
+| {{nts|5.6}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.substack.com/p/helldivers-2-sells-20m-copies |title=Helldivers 2 sells 20m copies |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=January 29, 2026 |access-date=January 29, 2026}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts| February 8, 2024}}
+| [[Third-person shooter]]
+| [[Arrowhead Game Studios]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Forza Horizon 5]]''
+| {{nts|5.3}}{{nbsp}}million<ref name="Steam wish" />{{Primary source inline|date=October 2026}}
+| {{dts|April 29, 2025}}
+| [[Racing]]
+| [[Playground Games]]
+| [[Xbox Game Studios]]
+|-
+| ''[[Astro Bot]]''
+| {{nts|4.3}}{{nbsp}}million<ref>{{Cite web |last=Sinha |first=Ravi |title=Astro Bot Has Reportedly Sold 4.3 Million Units Since Launching in 2024 |url=https://gamingbolt.com/astro-bot-has-reportedly-sold-4-3-million-units-since-launching-in-2024 |access-date=2026-09-22 |website=GamingBolt |language=en-US}}</ref>
+| {{dts|September 6, 2024}}
+| [[Platformer]]
+| [[Team Asobi]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[God of War Ragnarök]]''
+| {{nts|4.182}}{{nbsp}}million{{efn|Of the 5.1 million total units sold by its first week, 82% were for the PlayStation 5 version.<ref>{{Cite web |last=Romano |first=Sal |date=November 23, 2022 |title=God of War Ragnarok sold 5.1 million units in first week, becomes fastest-selling first-party launch game in PlayStation history |url=https://www.gematsu.com/2022/11/god-of-war-ragnarok-sold-5-1-million-units-in-first-week-becomes-fastest-selling-first-party-launch-game-in-playstation-history |url-status=live |archive-url=https://web.archive.org/web/20221123150927/https://www.gematsu.com/2022/11/god-of-war-ragnarok-sold-5-1-million-units-in-first-week-becomes-fastest-selling-first-party-launch-game-in-playstation-history |archive-date=November 23, 2022 |access-date=November 23, 2022 |website=Gematsu |language=en-US}}</ref><ref>{{Cite web |last=Dring |first=Christopher |date=November 15, 2022 |title=God of War Ragnarok launch was bigger than Call of Duty, Elden Ring and Pokémon |url=https://www.gamesindustry.biz/god-of-war-ragnarok-launch-was-bigger-than-call-of-duty-elden-ring-and-pokemon-uk-boxed-charts |url-status=live |archive-url=https://web.archive.org/web/20221118012400/https://www.gamesindustry.biz/god-of-war-ragnarok-launch-was-bigger-than-call-of-duty-elden-ring-and-pokemon-uk-boxed-charts |archive-date=November 18, 2022 |access-date=November 17, 2022 |website=[[Gameindustry.biz]] |publisher=[[Gamer Network]]}}</ref>}}
+| {{dts|November 9, 2022}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Santa Monica Studio]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Ghost of Yōtei]]''
+| {{nts|4}}{{nbsp}}million<ref name="Jan 2026" />{{Primary source inline|date=October 2026}}
+| {{dts|October 2, 2025}}
+| [[Action-adventure game|Action-adventure]]
+| [[Sucker Punch Productions]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Ratchet & Clank: Rift Apart]]''
+| {{nts|3.97}}{{nbsp}}million<ref>{{Cite web |last=Ali |first=Saad |date=2023-12-28 |title=Ratchet And Clank: Rift Apart Sold Almost 4 Million Units |url=https://exputer.com/news/games/ratchet-and-clank-rift-apart-4-million/ |access-date=2024-01-22 |website=eXputer.com |language=en-US |archiveurl=https://web.archive.org/web/20231228141427/https://exputer.com/news/games/ratchet-and-clank-rift-apart-4-million/ |archivedate=2023-12-28}}</ref>
+| {{dts|June 11, 2021}}
+| [[Platform game|Platform]], [[third-person shooter]]
+| [[Insomniac Games]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Elden Ring]]''
+| {{nts|3.76}}{{nbsp}}million{{efn|''Elden Ring'' sales breakdown:
+* Japan {{ndash}} 127,664 (physical)<ref>{{Cite web |date=2022-04-21 |title=Famitsu Sales: 4/11/22 – 4/17/22 [Update] |url=https://www.gematsu.com/2022/04/famitsu-sales-4-11-22-4-17-22 |access-date=2025-04-26 |website=Gematsu |language=en-US}}</ref>
+* Rest of the world {{ndash}} 3.64 million<ref>{{cite book |title=2023CESAゲーム白書 (2023CESA Games White Paper) |publisher=[[Computer Entertainment Supplier's Association]] |year=2023 |isbn=978-4-902346-47-3}}</ref>
+}}
+| {{dts|February 25, 2022}}
+| [[Action role-playing game|Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+|''[[Stellar Blade]]''
+| {{nts|3.7}}{{nbsp}}million<ref>{{Cite web|url=https://www.digitaltoday.co.kr/news/articleView.html?idxno=620767|title="스텔라 블레이드, 스팀 핵앤슬래시 매출 1위...누적 610만장" < 게임·커머스 < 기사본문 - 디지털투데이 (DigitalToday)|access-date=Jun 30, 2026}}</ref>
+| {{dts|April 26, 2024}}
+| [[Action-adventure game|Action-adventure]]
+| [[Shift Up]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Battlefield 6]]''
+| {{nts|3.2}}{{nbsp}}million<ref name="Alinea October 2025" />{{Primary source inline|date=October 2026}}
+| {{dts|October 10, 2025}}
+| [[First-person shooter]]
+| Battlefield Studios
+| [[Electronic Arts]]
+|-
+|''[[Clair Obscur: Expedition 33]]''
+| {{nts|3.1}}{{nbsp}}million{{efn|35.7% of the total 8.7 million copies sold as of October 2026 were on PS5<ref name="Alinea Requests">{{Cite web |url=https://alineaanalytics.substack.com/p/how-well-have-past-goty-winners-sold |title=How well have past GOTY winners sold? |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=October 22, 2026 |access-date=October 25, 2026}}</ref>}}{{Primary source inline|date=October 2026}}
+| {{dts|April 24, 2025}}
+|[[Role-playing video game|Role-playing]]
+|[[Sandfall Interactive]]
+|[[Kepler Interactive]]
+|-
+| ''[[ARC Raiders]]''
+| {{nts|3.06}}{{nbsp}}million{{efn|Of the total 12 million copies sold by January, 25.5% of them were for PS5<ref>{{Cite web |url=https://alineaanalytics.substack.com/p/the-steam-games-that-sold-the-most |title= The Steam games that sold the most copies over the holidays |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=January 6, 2026 |access-date=January 6, 2026}}</ref>}}{{Primary source inline|date=October 2026}}
+| {{dts|October 30, 2025}}
+| [[Third-person shooter]]
+| [[Embark Studios]]
+| [[Embark Studios]]
+|-
+| ''[[Final Fantasy XVI]]''
+| {{nts|3}}{{nbsp}}million<ref>{{cite web |last1=Tolentino |first1=Josh |title=Final Fantasy XVI sells over 3 million copies {{!}} RPG Site |url=https://www.rpgsite.net/news/14451-final-fantasy-xvi-sells-over-3-million-copies |website=Rpgsite.net |access-date=28 June 2023 |language=en |date=28 June 2023}}</ref>
+| {{dts|June 22, 2023}}
+| [[Action role-playing game|Action role-playing]]
+| [[Square Enix Creative Business Unit III]]
+| [[Square Enix]]
+|-
+| ''[[Monster Hunter Wilds]]''
+| {{nts|2.9}}{{nbsp}}million<ref name="Alinea Jul 2025">{{cite web |url=https://alineaanalytics.substack.com/p/forza-horizon-5-is-now-2025s-top |title=Forza Horizon 5 is now 2025's top-selling new PS5 game, racing past copies sold for huge first-party PlayStation titles |last=Elliott |first=Rhys |website=Alineaanalytics.com |date=July 22, 2025 |access-date=July 22, 2025}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|February 28, 2025}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Resident Evil Requiem]]''
+| {{nts|2.8}}{{nbsp}}million<ref name="March2026">{{Cite web |url=https://alineaanalytics.substack.com/p/march-2026s-top-playstation-games |title=March 2026's top PlayStation games |last=Elliott |first=Rhys |website=Alineaanalytics.com |date=April 1, 2026 |access-date=April 1, 2026}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|February 27, 2026}}
+| [[Survival horror]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Assassin's Creed Shadows]]''
+| {{nts|2.4}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.substack.com/p/ghost-of-yotei-outsold-assassins |title=Ghost of Yotei outsold Assassin's Creed Shadows on PS5 in under three weeks |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=October 23, 2025 |access-date=October 23, 2025}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|March 20, 2025}}
+| [[Action-adventure game|Action-adventure]]
+| [[Ubisoft Quebec]]
+| [[Ubisoft]]
+|-
+| ''[[Demon's Souls (2020 video game)|Demon's Souls]]''
+| {{nts|1.857}}{{nbsp}}million<ref name="FandomWire Leak">{{cite web |url=https://fandomwire.com/how-well-all-of-these-playstation-games-sold/ |title=We Now Know Exactly How Well All of These PlayStation Games Sold |last=Adur |first=Ayoub Hassan |editor-last=Farooq |editor-first=Osama |website=Fandomwire.com |date=December 21, 2023 |access-date=February 13, 2025 |archive-url=https://web.archive.org/web/20240801011726/https://fandomwire.com/how-well-all-of-these-playstation-games-sold/ |archive-date=August 1, 2024 |url-status=live }}</ref>
+| {{dts|November 12, 2020}}
+| [[Action role-playing game|Action role-playing]]
+| [[Bluepoint Games]]
+| [[Sony Interactive Entertainment]]
+|-
+|''[[Sea of Thieves]]''
+| {{nts|1.8}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.com/blog/xbox_games_on_playstation/ |title=How well have Xbox games on PlayStation been selling so far? It differs |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=March 28, 2025 |access-date=March 28, 2025}}</ref>
+| {{dts|April 30, 2024}}
+|[[Action-adventure game|Action-adventure]]
+|[[Rare (company)|Rare]]
+|[[Xbox Game Studios]]
+|-
+| ''[[Dragon's Dogma 2]]''
+| {{nts|1.75}}{{nbsp}}million<ref name="Alinea Requests" />{{Primary source inline|date=October 2026}}
+| {{dts|March 22, 2024}}
+| [[Action role-playing]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Elden Ring Nightreign]]''
+| {{nts|1.4}}{{nbsp}}million<ref name="Alinea Jul 2025"/>{{Primary source inline|date=October 2026}}
+| {{dts|May 30, 2025}}
+| {{hlist|[[Action role-playing game|Action role-playing]]|[[roguelike]]}}
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]{{hr}}<small>{{vgrelease|JP|[[FromSoftware]]}}</small>
+|-
+| ''[[Minecraft]]''
+| {{nts|1.4}}{{nbsp}}million<ref name="Jan 2026" />{{Primary source inline|date=October 2026}}
+| {{dts|October 22, 2024}}
+| {{hlist|[[Sandbox game|Sandbox]]|[[Survival game|survival]]}}
+| [[Mojang Studios]]
+| [[Mojang Studios]]
+|-
+|''[[EA Sports FC 24]]''
+| {{nts|1.31}}{{nbsp}}million{{efn|''EA Sports FC 24'' sales breakdown:
+* France {{ndash}} 1,168,610<ref>{{Cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/ejv_mars_2024.pdf |language=fr |title=BILAN DU MARCHÉ FRANÇAIS 2023 |publisher=[[Syndicat des éditeurs de logiciels de loisirs]]|page=29}}</ref><ref name = France2024/>
+* Spain {{ndash}} 0.15 million (physical)<ref>{{Cite web|url=https://www.gamereactor.es/ventas-espana-estos-fueron-los-videojuegos-mas-vendidos-de-todo-2023-1101543/|title=Ventas España: Estos fueron los videojuegos más vendidos de todo 2023 |language=es |website=[[Gamereactor]]|date=29 January 2024 }}</ref>
+}}
+| {{dts|September 29, 2023}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|EA Bucharest}}
+| [[EA Sports]]
+|-
+|''[[Death Stranding 2: On the Beach]]''
+| {{nts|1.3}}{{nbsp}}million<ref>{{cite web
+|url=https://in.ign.com/death-stranding-2/235539/news/death-stranding-2-is-reported-to-have-sold-13-million-copies-in-june-2025 |title=Death Stranding 2 Is Reported To Have Sold 1.3 Million Copies in June 2025 |last=Naidu |first=Yashodhan |website=IGN India |date=July 4, 2025 |access-date=July 4, 2025}}</ref>
+| {{dts|June 26, 2025}}
+|[[Action-adventure]]
+|[[Kojima Productions]]
+|[[Sony Interactive Entertainment]]
+|-
+| ''[[The Elder Scrolls IV: Oblivion Remastered]]''
+| {{nts|1.1}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.substack.com/p/how-2025s-xbox-published-games-sold |title=How 2025's Xbox-published games sold on PS5 |last=Elliott |first=Rhys |publisher=Alineaanalyctics.com |date=January 15, 2026 |access-date=January 15, 2026}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|April 22, 2025}}
+| [[Action role-playing]]
+| {{hlist|[[Virtuos]]|[[Bethesda Game Studios]]}}
+| [[Bethesda Softworks]]
+|-
+| ''[[Crimson Desert]]''
+| {{nts|1}}{{nbsp}}million<ref name="March2026" />{{Primary source inline|date=October 2026}}
+| {{dts|March 19, 2026}}
+| [[Action-adventure game|Action-adventure]]
+| [[Pearl Abyss]]
+| [[Pearl Abyss]]
+|-
+| ''[[EA Sports College Football 26]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.substack.com/p/septembers-top-playstation-games |title=September's top PlayStation games by copies sold: Horror and sports reign |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=October 7, 2025 |access-date=October 7, 2025}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|July 10, 2025}}
+| [[Sports game|Sports]]
+| [[EA Orlando]]
+| [[EA Sports]]
+|-
+|''[[EA Sports FC 25]]''
+| {{nts|1}}{{nbsp}}million{{efn|''EA Sports FC 25'' sales breakdown:
+* France {{ndash}} 985,262<ref name = France2024>{{Cite web|url=https://www.sell.fr/sites/default/files/essentiel-jeu-video/def_ejv_mars_2025_0.pdf |language=fr |title=BILAN DU MARCHÉ FRANÇAIS 2024 |publisher=[[Syndicat des éditeurs de logiciels de loisirs]]|page=27}}</ref>
+* Japan {{ndash}} 17,714 (physical)<ref>{{Cite web |date=2024-10-17 |title=Famitsu Sales: 10/7/24 – 10/13/24 [Update] |url=https://www.gematsu.com/2024/10/famitsu-sales-10-7-24-10-13-24 |access-date=2025-04-26 |website=Gematsu.com |language=en-US}}</ref>
+}}
+| {{dts|September 27, 2024}}
+|[[Sports game|Sports]]
+|{{hlist|[[EA Canada]]|EA Bucharest}}
+|[[EA Sports]]
+|-
+| ''[[Madden NFL 26]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |url=https://alineaanalytics.substack.com/p/augusts-most-downloaded-games-across |title=August's most downloaded games across PlayStation, Xbox, and Steam |last=Elliott |first=Rhys |website=Alineaanalyctics.com |date=September 2, 2025 |access-date=September 2, 2025}}</ref>{{Primary source inline|date=October 2026}}
+| {{dts|August 14, 2025}}
+| [[Sports game|Sports]]
+| [[EA Orlando]]
+| [[EA Sports]]
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+== External links==
+
+{{vgbestsellers}}
+{{PlayStation}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling PlayStation 5 video games}}
+[[Category:PlayStation 5 games| ]]
+[[Category:Lists of best-selling video games|PlayStation 5]]
+[[Category:PlayStation (brand)-related lists|Best-selling PlayStation 5 video games]]

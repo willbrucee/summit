@@ -116,7 +116,9 @@ export function groupAnswers(def, answers, countryOf) {
   let list = null;
   let order = null;
   const labels = answers.map((a) => a.label);
-  if (ONE_CONTINENT.has(id)) { by = 'Region'; list = answers.map((a) => inList(SUBREGION, def.capitals ? a.hint : a.label)); order = Object.keys(SUBREGION); }
+  // Prompts built from named parts (countries and capitals, four leagues, three studios) group by part.
+  if (def.parts || def.groupBy === 'from') { by = def.groupTitle || 'List'; list = answers.map((a) => a.from || null); order = def.parts ? def.parts.map((x) => x.from) : null; }
+  else if (ONE_CONTINENT.has(id)) { by = 'Region'; list = answers.map((a) => inList(SUBREGION, def.capitals ? a.hint : a.label)); order = Object.keys(SUBREGION); }
   else if (def.countries) { by = 'Continent'; list = answers.map((a) => CONTINENT[countryOf(a.label)?.tags.find((t) => CONTINENT[t])]); order = CONTINENT_ORDER; }
   else if (def.capitals) { by = 'Continent'; list = answers.map((a) => CONTINENT[countryOf(a.hint)?.tags.find((t) => CONTINENT[t])]); order = CONTINENT_ORDER; }
   else if (id === 'us-states') { by = 'Region'; list = labels.map(regionOfState); order = Object.keys(US_REGION); }

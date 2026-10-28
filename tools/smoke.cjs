@@ -28,6 +28,9 @@ async function run(vp, reduced) {
   const shot = (name) => page.screenshot({ path: path.join(OUT, `${tag}-${name}.png`) });
 
   const all = await (await page.request.get(BASE + 'data/prompts.json')).json();
+  // Published days can use retired prompts, which only have their own files.
+  const idx = await (await page.request.get(BASE + 'data/index.json')).json();
+  for (const r of idx.prompts.filter((x) => x.retired)) all.prompts.push(await (await page.request.get(BASE + `data/p/${r.id}.json`)).json());
   await page.goto(BASE + 'index.html');
   await page.waitForSelector('#help[open]');
   await shot('01-help');

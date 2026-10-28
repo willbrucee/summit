@@ -1,0 +1,325 @@
+{{Short description|none}}
+{{Video games}}
+{{Dynamic list}}
+[[File:Nintendo-Game-Boy-Advance-Purple-FL.jpg|thumb|Game Boy Advance]]
+This is a list of video games for the [[Game Boy Advance]] [[video game console]] that have sold or shipped at least one million copies. The best-selling games on the Game Boy Advance are [[Pokémon Ruby and Sapphire|''Pokémon Ruby'' and ''Sapphire'']]. First released in Japan on November 21, 2002, they went on to sell over 16{{nbsp}}million units worldwide.<ref name="pokemon1">{{cite news |url=https://www.gamespot.com/articles/pokemon-x-y-sells-4-million-in-two-days/1100-6415582/ |title=Pokemon X/Y sells 4 million in two days |last=Makuch |first=Eddie |work=[[GameSpot]] |publisher=[[CBS Interactive]] |date=October 15, 2013 |accessdate=April 25, 2017 }}</ref> [[Pokémon FireRed and LeafGreen|''Pokémon FireRed'' and ''LeafGreen'']], enhanced remakes of the original [[Pokémon Red and Blue|''Pokémon Red'', ''Green'' and ''Blue'']] games, are the second-best-selling games on the platform with sales in excess of 12{{nbsp}}million units combined.<ref name="pokemon1"/> ''[[Pokémon Emerald]]'', an enhanced version of ''Ruby'' and ''Sapphire'', is third with sales of more than 7{{nbsp}}million units.<ref name="pokemon2">{{cite news |url=http://www.usgamer.net/articles/pokemon-sun-and-moon-sells-1469-million-copies-xy-passes-blackwhite |title=Pokemon Sun and Moon Sells 14.69 Million Copies, X&Y Passes Black & White |last=Williams |first=Mike |work=[[Eurogamer|USgamer]] |publisher=Gamer Network |date=January 31, 2017 |accessdate=April 25, 2017 }}</ref> The top five is rounded out by ''[[Mario Kart: Super Circuit]]'' and ''[[Super Mario World: Super Mario Advance 2]]'', each of which sold over 5.5{{nbsp}}million units.<ref name="supermariotitles">{{cite web |url=http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |title=30 Best-Selling Super Mario Games of All Time on the Plumber's 30th Birthday |last=O'Malley |first=James |work=[[Gizmodo]] |publisher=[[Univision Communications]] |date=September 11, 2015 |accessdate=April 25, 2017 }}</ref>
+
+There are a total of 40 Game Boy Advance games on this list which are confirmed to have sold or shipped at least one million units. Of these, eleven were developed internally by Nintendo development divisions. Other developers with the most million-selling games include [[Game Freak]] with three games, and [[HAL Laboratory]] and [[Flagship (company)|Flagship]], with two games each. Of the 40 games on this list, 25 were published in one or more regions by Nintendo. Other publishers with multiple million-selling games include [[The Pokémon Company]] with five games, [[THQ]] with three games, and [[Konami]] and [[Namco]] with two games each. The most popular franchises on Game Boy Advance include ''[[Pokémon]]'' (over 39{{nbsp}}million combined units) and ''[[Super Mario]]'' (16.69{{nbsp}}million combined units).
+
+==List==
+{| class="wikitable plainrowheaders"
+|+ Key
+|-
+| bgcolor="#FFFF99" style="text-align:center;"| †
+| Game was [[Pack-in game|bundled with Game Boy Advance consoles]] during its lifetime
+|}
+{{sticky-header}}
+{{srn}}
+{| class="wikitable plainrowheaders sticky-header sortable static-row-numbers"
+!scope="col" | Game
+!scope="col" | Developer(s){{efn|name="devpub"|Only developers and publishers for the original release of each game are listed.}}
+!scope="col" | Publisher(s){{efn|name="devpub"}}
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Sales
+!scope="col" class="unsortable"|{{abbr|Ref.|Reference}}
+|-
+| [[Pokémon Ruby and Sapphire|''Pokémon Ruby'' and ''Sapphire'']]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+| {{dts|2002-11-21}}
+| 16,220,000
+| align="center"|<ref name="pokemon1"/>
+|-
+| [[Pokémon FireRed and LeafGreen|''Pokémon FireRed'' and ''LeafGreen'']]
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+| {{dts|2004-01-24}}
+| 12,000,000
+| align="center"|<ref name="pokemon1"/>
+|-
+| ''[[Pokémon Emerald]]''
+| [[Game Freak]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+| {{dts|2004-09-16}}
+| 6,800,000
+| align="center"|<ref name="whitepaper" />
+|-
+| ''[[Mario Kart: Super Circuit]]''
+| [[Intelligent Systems]]
+| [[Nintendo]]
+| {{dts|2001-07-21}}
+| 5,910,000
+| align="center"|<ref>{{Cite web |title=Mario Kart 8 sells more than 1.2 million units worldwide over first weekend |url=https://www.nintendo.com/en-gb/News/2014/June/Mario-Kart-8-sells-more-than-1-2-million-units-worldwide-over-first-weekend-890619.html |access-date=2024-08-15 |website=Nintendo of Europe AG |language=en-GB}}</ref>
+|-
+| ''[[Super Mario World: Super Mario Advance 2]]''
+| [[Nintendo R&D2]]
+| [[Nintendo]]
+| {{dts|2001-12-14}}
+| 5,690,000
+| align="center"|<ref name="supermariotitles"/>
+|-
+| ''[[Super Mario Advance]]''
+| [[Nintendo R&D2]]
+| [[Nintendo]]
+| {{dts|2001-03-21}}
+| 5,570,000
+| align="center"|<ref name="whitepaper">{{cite book |title=2021CESAゲーム白書 (2021 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2021|isbn=978-4-902346-43-5}}</ref>
+|-
+| bgcolor="#FFFF99"| ''[[Super Mario Advance 4: Super Mario Bros. 3]]'' †
+| [[Nintendo R&D2]]
+| [[Nintendo]]
+| {{dts|2003-07-11}}
+| 5,430,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Namco Museum (Game Boy Advance video game)|Namco Museum]]''
+| [[Mass Media Games]]
+| [[Namco]]
+| {{dts|2001-06-11}}
+| 2,960,000
+| align="center"|<ref name="usplatinum">{{cite web|url=http://www.the-magicbox.com/Chart-USPlatinum.shtml |title=US Platinum Chart Games |publisher=The Magic Box |accessdate=April 25, 2017 |url-status=dead |archiveurl=https://web.archive.org/web/20070421003854/http://www.the-magicbox.com/Chart-USPlatinum.shtml |archivedate=April 21, 2007 }}</ref>
+|-
+| ''[[Pac-Man Collection]]''
+| [[Mass Media Games]]
+| [[Namco]]
+| {{dts|2001-07-12}}
+| 2,940,000
+| align="center"|<ref name="pacman">{{cite book |date=October 6, 2016 |title=Top 10 of Everything 2017 |url=https://books.google.com/books?id=Vu-pCwAAQBAJ&pg=PT118 |location=London, England |publisher=[[Hachette Book Group|Hachette UK]] |page=118 |isbn=978-0600633747 |access-date=April 25, 2017 }}</ref>
+|-
+| ''[[Yoshi's Island: Super Mario Advance 3]]''
+| [[Nintendo R&D2]]
+| [[Nintendo]]
+| {{dts|2002-09-23}}
+| 2,830,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[The Legend of Zelda: A Link to the Past and Four Swords|The Legend of Zelda: A Link to the Past]]''
+| {{hlist|[[Nintendo EAD]]|[[Flagship (company)|Flagship]]}}
+| [[Nintendo]]
+| {{dts|2002-12-02}}
+| 2,820,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Pokémon Mystery Dungeon: Blue Rescue Team and Red Rescue Team|Pokémon Mystery Dungeon: Red Rescue Team]]''
+| [[Chunsoft]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+| {{dts|2005-11-17}}
+| 2,360,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Classic NES Series]]: [[Super Mario Bros.]]''
+| [[Nintendo EAD]]
+| [[Nintendo]]
+| {{dts|2004-02-14}}
+| 2,270,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Wario Land 4]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|2001-08-21}}
+| 2,200,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Mario & Luigi: Superstar Saga]]''
+| [[AlphaDream]]
+| [[Nintendo]]
+| {{dts|2003-11-17}}
+| 2,150,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Kirby's Adventure#Remakes and ports|Kirby: Nightmare in Dream Land]]''
+| [[HAL Laboratory]]
+| [[Nintendo]]
+| {{dts|2002-10-25}}
+| 2,100,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Finding Nemo (video game)|Finding Nemo]]''
+| [[Vicarious Visions]]
+| [[THQ]]
+| {{dts|2003-05-10}}
+| 1,840,000
+| align="center"|<ref name="usplatinum"/><ref name="japan">{{cite web |url=http://garaph.info/softwaregroup.php?grid=S106 |title=GBA all through the week of 2013-02-04 |publisher=Garaph |accessdate=April 25, 2017 }}</ref><ref name="ukgold">{{cite web|url=http://www.elspa.com:80/?i=3943 |title=ELSPA Sales Awards: Gold |publisher=Entertainment and Leisure Software Publishers Association |archiveurl=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3943 |archivedate=June 17, 2010 |accessdate=April 25, 2017 |url-status=dead }}</ref>
+|-
+| ''[[Donkey Kong Country#Re-releases|Donkey Kong Country]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| {{dts|2003-06-06}}
+| 1,820,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[The Legend of Zelda: The Minish Cap]]''
+| [[Flagship (company)|Flagship]]
+| [[Nintendo]]
+| {{dts|2004-11-04}}
+| 1,760,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Yu-Gi-Oh! The Eternal Duelist Soul]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|2001-07-05}}
+| 1,710,534
+| align="center"| {{efn|410,534 in Japan.<ref name="gamedatalibrary">{{cite web |title=Game Search |url=https://sites.google.com/site/gamedatalibrary/game-search |website=Game Data Library |publisher=[[Famitsu]] |access-date=25 April 2020}}</ref> {{nowrap|1.3 million}} in the United States.<ref name="nextgensales"/>}}
+|-
+| ''[[Frogger's Adventures: Temple of the Frog]]''
+| [[Konami|Konami Software Shanghai]]
+| [[Konami]]
+| {{dts|2001-11-23}}
+| 1,700,000
+| align="center"|<ref name="nextgensales"/>
+|-
+| ''[[Golden Sun (video game)|Golden Sun]]''
+| [[Camelot Software Planning]]
+| [[Nintendo]]
+| {{dts|2001-08-01}}
+| 1,650,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Final Fantasy Tactics Advance]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP|[[Square (video game company)|Square]]|WW|[[Nintendo]]}}
+| {{dts|2003-02-14}}
+| 1,621,000
+| align="center"|<ref name="whitepaper"/><ref name="japan"/>
+|-
+| ''[[Metroid Fusion]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|2002-11-17}}
+| 1,600,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Kingdom Hearts: Chain of Memories]]''
+| {{hlist|[[Square Enix]]|[[Jupiter Corporation|Jupiter]]}}
+| [[Square Enix]]
+| {{dts|2004-11-11}}
+| 1,542,000
+| align="center"|<ref name="usplatinum"/><ref name="japan"/>
+|-
+| ''[[Sonic Advance]]''
+| {{hlist|[[Dimps]]|[[Sonic Team]]}}
+| {{vgrelease|JP|[[Sega]]|NA|[[THQ]]|EU|[[Infogrames]]}}
+| {{dts|2001-12-20}}
+| 1,515,000
+| align="center"|<ref name="usplatinum"/><ref name="japan"/><ref name="uksilver">{{cite web|url=http://www.elspa.com:80/?i=3942 |title=ELSPA Sales Awards: Silver |publisher=Entertainment and Leisure Software Publishers Association |archiveurl=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3943 |archivedate=June 17, 2010 |accessdate=April 25, 2017 |url-status=dead }}</ref>
+|-
+| ''[[Kirby & the Amazing Mirror]]''
+| {{hlist|[[HAL Laboratory]]|[[Flagship (company)|Flagship]]{{efn|''Kirby & the Amazing Mirror'' features additional development by [[Dimps]].}}}}
+| [[Nintendo]]
+| {{dts|2004-04-15}}
+| 1,470,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|2003-04-15}}
+| 1,460,000
+| align="center"|<ref name="million">{{cite news |title=Million-Seller Genealogy |url=http://www.konamijpn.com/corporate/million_e.html |access-date=11 September 2021 |work=[[Konami Computer Entertainment Japan]] (KCEJ) |publisher=[[Konami]] |date=December 31, 2004 |url-status=dead |archive-url=https://web.archive.org/web/20050315004002/www.konamijpn.com/corporate/million_e.html |archive-date=2005-03-15}}</ref>
+|-
+| ''[[Dragon Ball Z: The Legacy of Goku]]''
+| [[Webfoot Technologies]]
+| [[Infogrames]]
+| {{dts|2002-05-14}}
+| 1,400,000
+| align="center"|<ref name="usplatinum"/>
+|-
+| ''[[Mario vs. Donkey Kong]]''
+| [[Nintendo Software Technology]]
+| [[Nintendo]]
+| {{dts|2004-05-24}}
+| 1,370,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Pokémon Pinball: Ruby & Sapphire]]''
+| [[Jupiter Corporation|Jupiter]]
+| {{hlist|[[The Pokémon Company]]|[[Nintendo]]}}
+| {{dts|2003-08-01}}
+| 1,370,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[The Incredibles (video game)|The Incredibles]]''
+| [[Helixe]]
+| [[THQ]]
+| {{dts|2004-11-01}}
+| 1,366,000
+| align="center"|<ref name="usplatinum"/><ref name="japan"/><ref name="ukgold"/>
+|-
+| ''[[Mega Man Battle Network 4]]: Red Sun'' and ''Blue Moon''
+| [[Capcom Production Studio 2]]
+| [[Capcom]]
+| {{dts|2003-12-14}}
+| 1,350,000
+| align="center"|<ref name="capcom">{{cite web|url=http://www.capcom.co.jp/ir/english/finance/million.html |title=Platinum Titles |publisher=[[Capcom]] |accessdate=April 22, 2017 |url-status=dead |archiveurl=https://web.archive.org/web/20161201214236/http://www.capcom.co.jp/ir/english/finance/million.html |archivedate=December 1, 2016 }}</ref>
+|-
+| ''[[Harry Potter and the Chamber of Secrets (video game)|Harry Potter and the Chamber of Secrets]]''
+| [[Eurocom]]
+| [[Electronic Arts]]
+| {{dts|2002-11-05}}
+| 1,200,000
+| align="center"|<ref name="usplatinum"/><ref name="uksilver"/>
+|-
+| ''Disney Princess''
+| Art Co., Ltd
+| [[THQ]]
+| {{dts|2003-04-02}}
+| 1,170,000
+| align="center"|<ref name="usplatinum"/><ref name="uksilver"/>
+|-
+| ''[[Golden Sun: The Lost Age]]''
+| [[Camelot Software Planning]]
+| [[Nintendo]]
+| {{dts|2002-06-28}}
+| 1,120,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[WarioWare, Inc.: Mega Microgames!]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| {{dts|2003-03-21}}
+| 1,100,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[F-Zero: Maximum Velocity]]''
+| [[NDcube]]
+| [[Nintendo]]
+| {{dts|2001-03-21}}
+| 1,050,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Sonic Advance 2]]''
+| {{hlist|[[Dimps]]|[[Sonic Team]]}}
+| {{vgrelease|JP|[[Sega]]|NA|[[THQ]]|EU|[[Infogrames]]}}
+| {{dts|2002-12-19}}
+| 1,016,541
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Spyro: Season of Ice]]''
+| [[Backbone Entertainment|Digital Eclipse]]
+| [[Universal Interactive Studios]]
+| {{dts|2001-10-29}}
+| 1,000,000
+| align="center"|<ref name="nextgensales">{{cite web|archive-url=https://web.archive.org/web/20071010052300/http://www.next-gen.biz/index2.php?option=com_content&task=view&id=3557&Itemid=2&pop=1&page=0 |url=http://www.next-gen.biz/index2.php?option=com_content&task=view&id=3557&Itemid=2&pop=1&page=0 |title=The Century's Top 50 Handheld Games |author=Keiser, Joe |date=August 2, 2006 |work=[[Next Generation (magazine)|Next Generation]] |archive-date=October 10, 2007 |url-status=dead}}</ref>
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.nintendo.com/ Nintendo official website]
+
+{{vgbestsellers|state=expanded}}
+{{Game Boy Advance line}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Game Boy Advance video games}}
+[[Category:Game Boy Advance games|*]]
+[[Category:Lists of best-selling Nintendo video games|Game Boy Advance]]

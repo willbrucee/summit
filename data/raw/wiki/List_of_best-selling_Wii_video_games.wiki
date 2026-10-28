@@ -1,0 +1,478 @@
+{{Short description|None}}
+{{For|a complete list of Wii video games|List of Wii games}}
+{{Dynamic list}}
+{{Use mdy dates|date=March 2017}}
+{{Video games}}
+{{srn}}
+[[File:Wii-Console.png|alt=|thumb|Wii console with [[Wii Remote]]]]
+This is a list of video games for the [[Wii]] [[video game console]] that have sold or shipped at least one million copies. The best-selling game on the Wii is ''[[Wii Sports]]''. First released in North America on November 19, 2006, it was a launch title for the system and was [[pack-in game|bundled]] with the Wii console in all regions except Japan and South Korea. The game went on to sell nearly 82.90 million units worldwide making it the [[list of best-selling video games|Third-best-selling video game of all time]] and is also the best-selling game released on a single console.<ref name="110425e">{{cite web|url=https://www.nintendo.co.jp/ir/pdf/2011/110425e.pdf|title=Earnings Release: Fiscal Year Ended March 31, 2011|date=April 26, 2011|access-date=April 26, 2011|publisher=[[Nintendo]]|page=16}}</ref> ''[[Mario Kart Wii]]'' is the second-best-selling game on the platform with sales of 37.38 million units. It is the second-best-selling iteration in the ''[[Mario Kart]]'' series behind ''[[Mario Kart 8 Deluxe]]''. The third-best-selling game is ''[[Wii Sports Resort]]'', a sequel to ''Wii Sports'', with sales of 33.14{{nbsp}}million units. The console's top five is rounded out by ''[[New Super Mario Bros. Wii]]'', which sold 30.32{{nbsp}}million units and ''[[Wii Play]]'', which sold just over 28{{nbsp}}million units worldwide.
+
+There are a total of 64 Wii games on this list which are confirmed to have sold or shipped at least one million units. Of these, 21 were developed by internal Nintendo development divisions. Other developers with the most million-selling games include [[Ubisoft Paris]] with five games and [[Capcom]] and [[Sega Sports R&D]], with three games each on the list. Of the 64 games on this list, 42 were published in one or more regions by Nintendo. Other publishers with multiple million-selling games include [[Ubisoft]] with six games and [[Activision]] and Capcom with three games each. The best selling franchises on the Wii include the [[Wii (video game series)|''Wii'' video game series]] (157.53{{nbsp}}million combined units), ''[[Super Mario]]'' (53.77 million combined units), and ''[[The Legend of Zelda]]'' (16.96 million combined units).
+
+By March 31, 2021, over 921.85{{nbsp}}million total copies of games had been sold for the Wii.<ref name="totalwiisales">{{cite web |url=https://www.nintendo.co.jp/ir/en/finance/hard_soft/index.html |title=Dedicated Video Game Sales Units |access-date=January 30, 2020|date=December 31, 2019 |website=[[Nintendo]]}}</ref> By December 31, 2007, sales of [[Virtual Console]] games had reached over 10{{nbsp}}million copies.<ref>{{cite web|url=http://www.gamespot.com/news/6185358.html|title=Q&A: Nintendo's Satoru Iwata|author1=Yohei Ogawa |author2=Randolph Ramsay |author3=Tor Thorsen |publisher=[[GameSpot]]|date=February 5, 2008|access-date=February 6, 2008}}</ref> As of March 31, 2019, there are a total of 103 Wii games that have sold at least one million units.<ref name="110425e"/>
+
+==List==
+{| class="wikitable plainrowheaders"
+|+ Key
+|-
+| bgcolor="#FFFF99" style="text-align:center;"| †
+| Game was [[Pack-in game|bundled with Wii consoles]] during its lifetime
+|}
+{{sticky-header}}
+{{srn}}
+{| class="wikitable plainrowheaders sticky-header sortable static-row-numbers"
+|-
+!scope="col" | Game
+!scope="col" | Copies sold<ref>{{Cite news |title=IR Information : Sales Data - Top Selling Software Sales Units - Wii Software |url=https://www.nintendo.co.jp/ir/en/sales/software/wii.html |archive-url=https://web.archive.org/web/20160414004644/https://www.nintendo.co.jp/ir/en/sales/software/wii.html |archive-date=2016-04-14 |access-date=2025-10-28 |work=Nintendo Co., Ltd. |language=en}}</ref>
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Genre(s)
+!scope="col" | Developer(s)
+!scope="col" | Publisher(s)
+|-
+| bgcolor="#FFFF99"| ''[[Wii Sports]]'' †
+| {{nts|82.90}}{{nbsp}}million<ref name="Sales">{{cite web |title=Top Selling Software Sales Units |url=https://www.nintendo.co.jp/ir/en/finance/software/wii.html |website=[[Nintendo]] |access-date=3 February 2026 |archive-url=https://web.archive.org/web/20250630174948/https://www.nintendo.co.jp/ir/en/finance/software/wii.html |archive-date=June 30, 2025 |url-status=dead}}</ref>
+| {{dts|November 19, 2006}}
+| [[Sports game|Sports]]
+| [[Nintendo EAD]] (Group&nbsp;2)
+| rowspan="9" | [[Nintendo]]
+|-
+| bgcolor="#FFFF99"| ''[[Mario Kart Wii]]'' †
+| {{nts|37.38}}{{nbsp}}million<ref name="Sales"/>{{efn|name="accessory bundle"|Bundled with a popular accessory such as an additional [[Wii Remote]], [[Wii MotionPlus]], [[Wii Zapper]], or [[Wii Wheel]]}}
+| {{dts|April 10, 2008}}
+| [[Racing video game|Racing]]
+| [[Nintendo EAD]] (Group&nbsp;1)
+|-
+| bgcolor="#FFFF99"| ''[[Wii Sports Resort]]'' †
+| {{nts|33.14}}{{nbsp}}million<ref name="Sales"/>{{efn|name="accessory bundle"}}
+| {{dts|June 25, 2009}}
+| [[Sports game|Sports]]
+| [[Nintendo EAD]] (Group&nbsp;2)
+|-
+| bgcolor="#FFFF99"| ''[[New Super Mario Bros. Wii]]'' †
+| {{nts|30.32}}{{nbsp}}million<ref name="Sales"/>
+| {{dts|November 12, 2009}}
+| [[Platform game|Platform]]
+| [[Nintendo EAD]] (Group&nbsp;4)
+|-
+| ''[[Wii Play]]''
+| {{nts|28.02}}{{nbsp}}million<ref name="Sales"/>{{efn|name="accessory bundle"}}
+| {{dts|December 2, 2006}}
+| [[Party video game|Party]]
+| [[Nintendo EAD]] (Group&nbsp;2)
+|-
+| ''[[Wii Fit]]''
+| {{nts|22.67}}{{nbsp}}million<ref name="Sales"/>{{efn|name="accessory bundle"}}
+| {{dts|December 1, 2007}}
+| rowspan="2" | [[Exergaming]]
+| rowspan="2" | [[Nintendo EAD]] (Group&nbsp;5)
+|-
+| ''[[Wii Fit Plus]]''
+| {{nts|21.13}}{{nbsp}}million<ref name="Sales"/>
+| {{dts|October 1, 2009}}
+|-
+| ''[[Super Smash Bros. Brawl]]''
+| {{nts|13.32}}{{nbsp}}million<ref name="Sales"/>
+| {{dts|January 31, 2008}}
+| [[Fighting game|Fighting]]
+| {{hlist|[[Sora Ltd.]]|[[Latin tag#Ad hoc|ad hoc]] development team}}{{efn|Development co-operation from [[Game Arts]], [[Monolith Soft]], [[Paon]], [[Imageepoch]], [[Intelligent Systems]], and others}}
+|-
+| ''[[Super Mario Galaxy]]''
+| {{nts|12.80}}{{nbsp}}million<ref name="Sales"/>
+| {{dts|November 1, 2007}}
+| [[Platform game|Platform]]
+| [[Nintendo EAD]] (Group&nbsp;1)
+|-
+| ''[[Just Dance 3]]''
+| {{nts|9.92}}{{nbsp}}million<ref>{{cite book |title=Guinness World Records Gamer's Edition 2015 |date=November 6, 2014 |publisher=[[Guinness World Records]] |page=35 |isbn=978-1-908-84366-1 |url=https://archive.org/details/guinnessworldrec0000unse_g5j8}}</ref>
+| {{dts|October 7, 2011}}
+| [[Rhythm game|Rhythm]]
+| [[Ubisoft Paris]]
+| [[Ubisoft]]
+|-
+| bgcolor="#FFFF99"| ''[[Wii Party]]'' †
+| {{nts|9.35}}{{nbsp}}million<ref name="Sales"/>
+| {{dts|July 8, 2010}}
+| rowspan="2" | [[Party video game|Party]]
+| {{hlist|[[Nd Cube]]|[[Nintendo SPD]] (Group&nbsp;4)}}
+| rowspan="3" | [[Nintendo]]
+|-
+| ''[[Mario Party 8]]''
+| {{nts|8.85}}{{nbsp}}million<ref name="supermariobestselling"/>
+| {{dts|May 29, 2007}}
+| [[Hudson Soft]]
+|-
+| ''[[The Legend of Zelda: Twilight Princess]]''
+| {{nts|7.50}}{{nbsp}}million<ref name=":0" />
+| {{dts|November 19, 2006}}
+| [[Action-adventure game|Action-adventure]]
+| [[Nintendo EAD]] (Group&nbsp;3)
+|-
+| ''[[Super Mario Galaxy 2]]''
+| {{nts|7.41}}{{nbsp}}million<ref name="supermariobestselling">{{cite web|url=http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ | archiveurl=https://web.archive.org/web/20150914172624/https://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/| archivedate=September 14, 2015| title=30 Best-Selling Super Mario Games of All Time on the Plumber's 30th Birthday |last=O'Malley |first=James |work=[[Gizmodo]] |publisher=[[Univision Communications]] |date=11 September 2015 |access-date=2 May 2018}}</ref>
+| {{dts|May 23, 2010}}
+| [[Platform game|Platform]]
+| [[Nintendo EAD]] (Group&nbsp;1)
+|[[Nintendo]] 
+|-
+| ''[[Mario & Sonic at the Olympic Games]]''
+| {{nts|7.09}}{{nbsp}}million<ref name="The 'Godfather' of Gaming is Back!">{{cite web|url=http://gamersblog.guinnessworldrecords.com/_The-Godfather-of-Gaming-is-Back/BLOG/2348305/4121.html |title=The 'Godfather' of Gaming is Back! |access-date=May 31, 2010 |date=May 2010 |publisher=[[Guinness World Records]] |archive-url=https://web.archive.org/web/20100525110600/http://gamersblog.guinnessworldrecords.com/_The-Godfather-of-Gaming-is-Back/BLOG/2348305/4121.html |archive-date=May 25, 2010 |url-status=dead }}</ref>
+| {{dts|November 6, 2007}}
+| [[Sports game|Sports]]
+| [[Sega Sports R&D]]
+| {{vgrelease|JP|[[Nintendo]]|NA/PAL|[[Sega]]}}
+|-
+| ''[[Donkey Kong Country Returns]]''
+| {{nts|6.53}}{{nbsp}}million<ref name="whitepaper">{{cite book |title=2020CESAゲーム白書 (2020 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2020|isbn=978-4-902346-42-8}}</ref>
+| {{dts|November 21, 2010}}
+| [[Platform game|Platform]]
+| [[Retro Studios]]
+| [[Nintendo]]
+|-
+| ''[[Mario & Sonic at the Olympic Winter Games]]''
+| {{nts|6.53}}{{nbsp}}million<ref name="sega-2010-fy">{{cite web |title=Fiscal Year 2010 Full Year Earnings Presentation |url=https://www.segasammy.co.jp/english/ir/library/pdf/settlement/2010/e_201003_4q_pre.pdf |website=Sega |publisher=Sega Sammy Group |access-date=17 January 2019}}</ref>
+| {{dts|November 5, 2009}}
+| [[Sports game|Sports]]
+| [[Sega Sports R&D]]
+| {{vgrelease|JP|[[Nintendo]]|NA/PAL|[[Sega]]}}
+|-
+| ''[[Link's Crossbow Training]]''
+| {{nts|5.79}}{{nbsp}}million<ref name="whitepaper"/>
+| {{dts|November 19, 2007}}
+| [[Shooter game|Shooter]]
+| [[Nintendo EAD]] (Group&nbsp;3)
+| [[Nintendo]]
+|-
+| ''[[Lego Star Wars: The Complete Saga]]''
+| {{nts|5.64}}{{nbsp}}million<ref>{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref><ref>{{cite book |title=Guinness World Records Gamer's Edition 2016 |date=September 1, 2015 |publisher=[[Guinness World Records]] |page=85 |isbn=978-1-910-56109-6 |url=https://archive.org/details/guinnessworldrec0000unse_s1m3}}</ref>
+| {{dts|November 6, 2007}}
+| [[Action-adventure game|Action-adventure]]
+| [[Traveller's Tales]]
+| [[LucasArts]]
+|-
+| ''[[Just Dance 2]]''
+| {{nts|5}}{{nbsp}}million<ref name="justdance2">{{cite web|url=https://www.gamedeveloper.com/press-release/ubisoft|title=Ubisoft: Interview: Ubisoft's Key Talks Just Dance 2's New 5M Unit Milestone|publisher=[[Gamasutra]]|date=January 11, 2011|access-date=January 11, 2011}}</ref>
+| {{dts|October 12, 2010}}
+| [[Rhythm game|Rhythm]]
+| [[Ubisoft Paris]]
+| [[Ubisoft]]
+|-
+| ''[[Animal Crossing: City Folk]]''
+| {{nts|4.32}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|November 16, 2008}}
+| [[Life simulation game|Life simulation]]
+| [[Nintendo EAD]] (Group&nbsp;2)
+| [[Nintendo]]
+|-
+| ''[[Just Dance (video game)|Just Dance]]''
+| {{nts|4.3}}{{nbsp}}million<ref>{{cite web|url=http://www.gamasutra.com/view/news/30814/Ubisoft_Just_Dance_Passes_4_Million_Katy_Perry_Joining_The_Party.php|title=Ubisoft: Just Dance Passes 4 Million, Katy Perry Joining The Party|publisher=[[Gamasutra]]|date=October 6, 2010|access-date=October 24, 2010}}</ref>
+| {{dts|November 17, 2009}}
+| [[Rhythm game|Rhythm]]
+| [[Ubisoft Paris]]
+| [[Ubisoft]]
+|-
+| ''[[Super Paper Mario]]''
+| {{nts|4.23}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|April 9, 2007}}
+| {{vgrelease|[[Action role-playing game|Action role-playing]]|[[platform game|platform]]}}
+| [[Intelligent Systems]]
+| rowspan="3" | [[Nintendo]]
+|-
+| ''[[The Legend of Zelda: Skyward Sword]]''
+| {{nts|3.67}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|November 18, 2011}}
+| [[Action-adventure game|Action-adventure]]
+| [[Nintendo EAD]] (Group&nbsp;3)
+|-
+| ''[[Big Brain Academy: Wii Degree]]''
+| {{nts|3.34}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|April 26, 2007}}
+| {{vgrelease|[[Puzzle video game|Puzzle]]|[[educational video game|educational]]}}
+| [[Nintendo EAD]] (Group&nbsp;4)
+|-
+| ''[[Mario Party 9]]''
+| {{nts|3.11}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|March 2, 2012}}
+| [[Party video game|Party]]
+| [[Nd Cube]]
+| rowspan="3" |[[Nintendo]] 
+|-
+| ''[[Wii Music]]''
+| {{nts|2.86}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|October 16, 2008}}
+| [[Music video game|Music]]
+| [[Nintendo EAD]] (Group&nbsp;2)
+|-
+| ''[[Mario Strikers Charged]]''
+| {{nts|2.6}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|May 25, 2007}}
+| rowspan="2" | [[Sports game|Sports]]
+| [[Next Level Games]]
+|-
+| ''[[Mario & Sonic at the London 2012 Olympic Games]]''
+| {{nts|2.4}}{{nbsp}}million<ref>{{cite web|last=Rose|first=Mike|title=Sega Sammy profits hit by weak game sales|url=https://www.gamedeveloper.com/business/sega-sammy-profits-hit-by-weak-game-sales|publisher=Gamasutra}}</ref>
+| {{dts|November 15, 2011}}
+| [[Sega Sports R&D]]
+| {{vgrelease|JP|[[Nintendo]]|NA/PAL|[[Sega]]}}
+|-
+| ''[[WarioWare: Smooth Moves]]''
+| {{nts|2.35}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|December 2, 2006}}
+| {{hlist|[[Party video game|Party]]|[[rhythm game|rhythm]]}}
+| {{hlist|[[Nintendo SPD]] (Group&nbsp;1)|[[Intelligent Systems]]}}
+| rowspan="2" | [[Nintendo]]
+|-
+| ''[[Mario Super Sluggers]]''
+| {{nts|2.32}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|June 19, 2008}}
+| [[Sports game|Sports]]
+| {{hlist|[[Bandai Namco Games]]|[[Now Production]]}}
+|-
+| ''[[Super Mario All-Stars|Super Mario All-Stars: 25th Anniversary Edition]]''
+| {{nts|2.24}}{{nbsp}}million<ref name="110426e">{{cite web|url=https://www.nintendo.co.jp/ir/pdf/2011/110426e.pdf#page=5|title=Supplementary Information about Earnings Release|publisher=[[Nintendo]]|date=April 26, 2011|format=PDF|access-date=April 26, 2011|page=10}}</ref>
+| {{dts|October 21, 2010}}
+| [[Platform game|Platform]]
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[Guitar Hero III: Legends of Rock]]''
+| {{nts|2}}{{nbsp}}million<ref>{{cite web|url=https://www.ign.com/articles/2008/04/17/exclusive-first-look-the-conduit?page=2|archive-url=https://web.archive.org/web/20170819151838/http://www.ign.com/articles/2008/04/17/exclusive-first-look-the-conduit?page=2|url-status=dead|archive-date=August 19, 2017|page=2|title=Web Archive: Exclusive First Look: The Conduit|first=Matt|last=Casamassina|author-link=Matt Casamassina|date=April 17, 2008|access-date=April 18, 2008|publisher=IGN}}</ref>{{efn|name="accessory bundle"}}
+| {{dts|October 28, 2007}}
+| [[rhythm game|rhythm]]
+| [[Vicarious Visions]]
+| [[Activision]]
+|-
+| ''[[Michael Jackson: The Experience]]''
+| {{nts|2}}{{nbsp}}million<ref name="justdance2" />
+| {{dts|November 23, 2010}}
+| {{hlist|[[Music game|Music]]|[[Rhythm game|Rhythm]]}}
+| [[Ubisoft Paris]]
+| [[Ubisoft]]
+|-
+| ''[[Resident Evil 4|Resident Evil 4: Wii Edition]]''
+| {{nts|2}}{{nbsp}}million<ref name="capcomplatinum" />
+| {{dts|May 31, 2007}}
+| [[Survival horror]]
+| [[Capcom]]
+| {{vgrelease|JP/NA/EU|[[Capcom]]|AUS|[[Nintendo Australia]]}}
+|-
+| ''[[Deca Sports]]''
+| {{nts|2}}{{nbsp}}million <ref>{{cite web |url=https://kotaku.com/two-million-copies-of-deca-sports-shipped-5206019 |publisher=Kotaku |title=Two Million Copies Of Deca Sports Shipped |date=April 9, 2009 |access-date=April 12, 2009 |first=Brian |last=Ashcraft}}</ref>
+| {{dts|April 16, 2009}}
+| [[Sports game|Sports]]
+| [[Hudson Soft]]
+| {{vgrelease|JP/NA|[[Hudson Soft]]|EU|[[Konami]]}}
+|-
+| ''[[Epic Mickey]]''
+| {{nts|2}}{{nbsp}}million<ref name="japan1">{{cite web |url=http://www.cubed3.com/news/15709 |title=E311 : Nintendo Publishing Epic Mickey in Japan |publisher=Cubed3 |date=June 6, 2011 |author=Riley, Adam}}</ref>
+| {{dts|November 25, 2010}}
+| [[Platform game|Platform]]
+| [[Junction Point Studios]]
+| [[Disney Interactive Studios]]{{vgrelease|JP|[[Nintendo]]}}
+|-
+| ''[[Game Party]]''
+| {{nts|2}}{{nbsp}}million<ref name="gameparty">{{cite press release|url=https://www.gamedeveloper.com/business/can-you-create-a-must-have-wii-game-|title=Can You Create A Must-Have Wii Game?|publisher=[[Gamasutra]]|date=March 9, 2009|access-date=March 9, 2009}}</ref>
+| {{dts|November 27, 2007}}
+| [[Party video game|Party]]
+| [[FarSight Studios]]
+| [[Midway Games]]
+|-
+| ''[[Mario Sports Mix]]''
+| {{nts|1.98}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|November 25, 2010}}
+| [[Sports game|Sports]]
+| {{hlist|[[Square Enix]]|[[Nintendo SPD]] (Group&nbsp;4)}}
+| rowspan="3" | [[Nintendo]]
+|-
+| ''[[Pokémon Battle Revolution]]''
+| {{nts|1.95}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|December 14, 2006}}
+| [[Fighting game|Fighting]]
+| [[Genius Sonority]]
+|-
+| ''[[Kirby's Return to Dream Land]]''
+| {{nts|1.93}}{{nbsp}}million<ref name=":0">{{Cite web |date=November 8, 2023 |title=Six Months Financial Results Briefing/ Corporate Management Policy Briefing for the Fiscal Year Ending March 2024 (Online) - Presentation Material |url=https://www.nintendo.co.jp/ir/pdf/2023/231108e.pdf |website=Nintendo}}</ref>
+| {{dts|October 24, 2011}}
+| [[Platform game|Platform]]
+| [[HAL Laboratory]]
+|-
+| ''[[Monster Hunter Tri]]''
+| {{nts|1.9}}{{nbsp}}million<ref name="capcomplatinum" />
+| {{dts|August 1, 2009}}
+| [[Action role-playing game|Action role-playing]]
+| [[Capcom Production Studio 1]]
+| [[Capcom]]
+|-
+| ''[[Kirby's Epic Yarn]]''
+| {{nts|1.85}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|October 14, 2010}}
+| [[Platform game|Platform]]
+| {{hlist|[[Good-Feel]]|[[HAL Laboratory]]}}
+| [[Nintendo]]
+|-
+| ''[[EA Sports Active]]''
+| {{nts|1.8}}{{nbsp}}million<ref>{{cite web|url=http://www.gamasutra.com/php-bin/news_index.php?story=24711|archive-url=https://web.archive.org/web/20090809052657/http://www.gamasutra.com/php-bin/news_index.php?story=24711|url-status=dead|archive-date=August 9, 2009|title=EA Beats Expectations Despite Widening Losses, Sims 3 Sells 3.7 Million Units|date=August 4, 2009|publisher=[[Gamasutra]]|first=Leigh|last=Alexander}}</ref>
+| {{dts|May 19, 2009}}
+| [[Fitness game|Fitness]]
+| [[EA Canada]]
+| [[Electronic Arts]]
+|-
+| ''[[New Play Control! Mario Power Tennis]]''
+| {{nts|1.79}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|January 15, 2009}}
+| [[Sports game|Sports]]
+| [[Camelot Software Planning]]
+| [[Nintendo]]
+|-
+| ''[[Wii Play: Motion]]''
+| {{nts|1.64}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|June 13, 2011}}
+| [[Party video game|Party]]
+| Various{{efn|''Wii Play: Motion''{{'}}s twelve minigames were developed by several different developers alongside [[Nintendo]]: [[Arzest]], [[Chunsoft]], [[Good-Feel]], [[Mitchell Corporation]], [[NDcube]], Nintendo, [[Prope]], [[Skip Ltd.]], and [[Vanpool (company)|Vanpool]].}}
+| [[Nintendo]]
+|-
+| ''[[Carnival Games]]''
+| {{nts|1.5}}{{nbsp}}million<ref>{{cite web|url=http://www.gamesindustry.biz/articles/2k-signs-havok-for-new-wii-titles|title=2K signs Havok for new Wii titles|first=Matt|last=Martin|date=June 27, 2008|access-date=June 27, 2008|publisher=[[Eurogamer|GamesIndustry.biz]]}}</ref>
+| {{dts|August 27, 2007}}
+| [[Party video game|Party]]
+| [[Cat Daddy Games]]
+| [[Global Star Software]]
+|-
+| ''[[Metroid Prime 3: Corruption]]''
+| {{nts|1.41}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|August 27, 2007<!-- The official release date announced on Nintendo's website was August 27, 2007.  However, Nintendo also announced an "In-store" date of August 28 via the game's Preview Channel on the Wii.  Current consensus is that August 27 is the official release date. Please read [[Talk:Metroid Prime 3: Corruption/Archive 2#Official date]] before editing this information.  Thank you. -->}}
+| [[First-person (video games)|First-person]] [[action-adventure game|action-adventure]]
+| {{hlist|[[Retro Studios]]|[[Nintendo]]}}
+| [[Nintendo]]
+|-
+| ''[[Guitar Hero World Tour]]''
+| {{nts|1.33}}{{nbsp}}million<ref>{{cite web |url=http://www.1up.com/do/newsStory?cId=3172307 |archive-url=https://web.archive.org/web/20090226052453/http://www.1up.com/do/newsStory?cId=3172307 |url-status=dead |archive-date=February 26, 2009 |title=December NPDs: Wii and DS Combine for Over 5 Million |first=Chris |last=Pereira |date=January 15, 2009 |access-date=January 22, 2009 |publisher=[[1UP.com]]}}</ref>{{efn|name="accessory bundle"}}
+| {{dts|October 26, 2008}}
+| {{hlist|[[Music video game|Music]]|[[rhythm game|rhythm]]}}
+| [[Vicarious Visions]]
+| [[Activision]]
+|-
+| ''[[Resident Evil: The Umbrella Chronicles]]''
+| {{nts|1.3}}{{nbsp}}million<ref name="capcomplatinum">{{cite web|url=http://www.capcom.co.jp/ir/english/business/million.html |title=Platinum Titles |publisher=[[Capcom]] |access-date=May 8, 2014 |date=March 31, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20150208030840/http://www.capcom.co.jp/ir/english/business/million.html |archive-date=February 8, 2015 }}</ref>
+| {{dts|November 13, 2007}}
+| [[Rail shooter]]
+| {{hlist|[[Capcom]]|[[Cavia (company)|Cavia]]}}
+| {{vgrelease|JP/NA/EU|[[Capcom]]|AUS|[[Nintendo Australia]]}}
+|-
+| ''[[PokéPark Wii: Pikachu's Adventure]]''
+| {{nts|1.25}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|December 5, 2009}}
+| [[Action-adventure game|Action-adventure]]
+| [[Creatures Inc.]]
+| {{hlist|[[Nintendo]]|[[The Pokémon Company]]}}
+|-
+| ''[[Sonic and the Secret Rings]]''
+| {{nts|1.2}}{{nbsp}}million<ref>{{Cite web |last=Greenhough |first=Chris |date=2008-03-22 |title=Wii's third-party million-sellers revealed |url=https://www.engadget.com/2008-03-21-wiis-third-party-million-sellers-revealed.html |access-date=2026-09-08 |website=Engadget |language=en-US}}</ref>
+| {{dts|February 20, 2007}}
+| [[Platform game|Platform]]
+| [[Sonic Team]]
+| [[Sega]]
+|-
+| ''[[Rayman Raving Rabbids]]''
+| {{nts|1.2}}{{nbsp}}million<ref name="3rdPartyWii">{{cite web |url=http://www.thatvideogameblog.com/2008/03/21/the-3rd-party-wii-games-that-sold-a-million/ |title=3rd party Wii games that sold a million |publisher=That Videogames Blog |first=Ashutosh |last=Chhibbar |date=March 21, 2008 |access-date=March 21, 2008}}</ref>
+| {{dts|November 19, 2006}}
+| [[Party video game|Party]]
+| [[Ubisoft Montpellier]]
+| [[Ubisoft]]
+|-
+| ''[[We Ski]]''
+| {{nts|1.2}}{{nbsp}}million<ref>{{cite web |url=http://www.nintendoworldreport.com/news/17460 |title=We Ski Coasts to a Million Units Sold |access-date=December 30, 2008 |last=Red |first=Carmine |date=December 29, 2008 |publisher=Nintendo World Report}}</ref>
+| {{dts|January 31, 2008}}
+| [[Skiing]]
+| [[Bandai Namco Games]]
+| [[Bandai Namco Games]]
+|-
+| ''[[Big Beach Sports]]''
+| {{nts|1.2}}{{nbsp}}million<ref>{{cite web|url=http://www.gamasutra.com/php-bin/news_index.php?story=22176|archive-url=https://web.archive.org/web/20090206035913/http://www.gamasutra.com/php-bin/news_index.php?story=22176|url-status=dead|archive-date=February 6, 2009|title=THQ's Farrell: Focus On Fewer, Better Core Titles|first=Chris|last=Remo|date=February 4, 2009|access-date=February 5, 2009|publisher=[[Gamasutra]]}}</ref>
+| {{dts|June 24, 2008}}
+| [[Sports game|Sports]]
+| [[HB Studios]]
+| [[THQ]]
+|-
+| ''[[Punch-Out!! (Wii)|Punch-Out!!]]''
+| {{nts|1.14}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|July 23, 2009}}
+|[[Sports game|Sports]]
+| [[Next Level Games]]
+| [[Nintendo]]
+|-
+| ''[[Wario Land: Shake It!]]''
+| {{nts|1.06}}{{nbsp}}million<ref name="whitepaper" />
+| {{dts|July 24, 2008}}
+| [[Platform game|Platform]]
+| [[Good-Feel]]
+| [[Nintendo]]
+|-
+| ''[[Active Life: Outdoor Challenge]]''
+| {{nts|1.03}}{{nbsp}}million<ref>{{cite web |url=http://www.bandainamco.co.jp/en/ir/financial/pdf_bnh/en_20090520_1.pdf |title=Financial Highlights for theFiscal Year Ended March 2009 |publisher=[[Namco Bandai Holdings]] |page=4 |date=May 18, 2009 |access-date=December 18, 2009 |archive-url=https://web.archive.org/web/20110723162849/http://www.bandainamco.co.jp/en/ir/financial/pdf_bnh/en_20090520_1.pdf |archive-date=July 23, 2011 |url-status=dead |df=mdy-all}}</ref>
+| {{dts|May 29, 2008}}
+| [[Exergaming]]
+| [[h.a.n.d.]]
+| [[Bandai Namco Games]]
+|-
+| ''[[Call of Duty: World at War]]''
+| {{nts|>1}}{{nbsp}}million<ref>{{cite web|url=https://kotaku.com/reggie-wii-2-theories-miss-key-point-5405667|title=Reggie: Wii 2 Theories Miss Key Point|publisher=Kotaku|date=November 16, 2009|access-date=November 16, 2009|first=Stephen|last= Totilo}}</ref>
+| {{dts|November 10, 2008}}
+| rowspan="2" | [[First-person shooter]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Red Steel]]''
+| {{nts|1}}{{nbsp}}million<ref name="3rdPartyWii" />
+| {{dts|November 19, 2006}}
+| [[Ubisoft Paris]]
+| [[Ubisoft]]
+|-
+| ''[[Rock Band (video game)|Rock Band]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |url=http://wii.ign.com/articles/945/945693p1.html |archive-url=https://web.archive.org/web/20090119011703/http://wii.ign.com/articles/945/945693p1.html |url-status=dead |archive-date=January 19, 2009 |publisher=IGN |title=Consumers Prefer Gimped Rock Band |first=Daemon |last=Hatfield |date=January 15, 2009 |access-date=January 16, 2009}}</ref>
+| {{dts|June 22, 2008}}
+| [[Rhythm game|Rhythm]]
+| Pi Studios
+| [[MTV Games]]
+|-
+| ''[[Zumba Fitness (video game)|Zumba Fitness]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web |url=https://www.gamesindustry.biz/articles/2019-04-12-every-game-to-sell-over-1m-copies-in-the-uk |title=Here is every boxed game to sell over 1m copies in the UK |date=April 12, 2019 |publisher=Gamesindustry.biz}}</ref>
+| {{dts|November 18, 2010}}
+| [[Fitness game|Fitness]]
+| [[Pipeworks Software]]
+| {{hlist|[[Majesco]]|[[505 Games]]}}
+|-
+| ''[[Super Mario Bros. 3]]''{{efn|name="VC"|[[Virtual Console]] game}}
+| {{nts|1}}{{nbsp}}million<ref name="gi_best">{{cite magazine|author=The ''Game Informer'' staff|date=December 2009|title=The Top 200 Games of All Time|magazine=[[Game Informer]]|issue=200|pages=44–79|issn=1067-6392|oclc=27315596}}</ref><ref>{{cite web|url=https://www.ign.com/articles/2010/02/23/wiiware-virtual-console-sales-exposed|title=WiiWare, Virtual Console Sales Exposed|website=[[IGN]]|author=Hatfield, Daemon|date=February 23, 2010|accessdate=March 13, 2021}}</ref>
+| {{dts|November 5, 2007}}
+| [[Platform game|Platform]]
+| [[Nintendo EAD]]
+| [[Nintendo]]
+|-
+| ''[[Game Party#Sequels|Game Party 2]]''
+| {{nts|1}}{{nbsp}}million<ref name="gameparty" />
+| {{dts|October 6, 2008}}
+| [[Party video game|Party]]
+| [[FarSight Studios]]
+| [[Midway Games]]
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.nintendo.co.jp/ir/en/finance/software/wii.html Nintendo IR Information - Wii Software]
+
+{{vgbestsellers}}
+{{Wii}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Wii video games}}
+[[Category:Wii games| ]]
+[[Category:Lists of best-selling Nintendo video games|Wii]]
+[[Category:Lists of Wii games]]

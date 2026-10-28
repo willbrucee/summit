@@ -1,0 +1,643 @@
+{{Short description|none}}
+{{Video games}}
+{{Dynamic list}}
+{{Image frame|width=300|content=[[File:Game-Boy-FL.jpg|156px]][[File:Nintendo-Game-Boy-Color-FL.jpg|140px]]|caption=Game Boy (original) and Game Boy Color}}
+
+This is a list of video games for the [[Game Boy]] and [[Game Boy Color]] handheld video game consoles that have sold or shipped at least one million copies. It includes games with publicly available sales figures as well as those that received the [[Player's Choice]] label for surpassing one million units sold.
+
+The best-selling title is the first generation of ''Pokémon'' ([[Pokémon Red, Blue, and Yellow|''Red/Blue'' and ''Yellow'']]), released in 1996, with combined sales of approximately 46 million units worldwide.<ref name="pokemon1">{{cite news |last=DePietro |first=Andrew |date=March 19, 2017 |title='Pokken Tournament' and Pokemon's $1.5 Billion Brand |url=http://www.huffingtonpost.com/gobankingratebuls/pokken-tournament-and-pok_b_9501260.html |url-status=live |archive-url=https://web.archive.org/web/20200218180223/https://www.huffpost.com/entry/pokken-tournament-and-pok_b_9501260 |archive-date=February 18, 2020 |access-date=April 25, 2017 |work=[[The Huffington Post]] |publisher=[[AOL]]}}</ref><ref name="pokemon2">{{cite book |last=Terry |first=Paul |url=https://books.google.com/books?id=Vu-pCwAAQBAJ&pg=PT115 |title=Top 10 of Everything 2017 |date=October 6, 2016 |publisher=[[Hachette Book Group|Hachette UK]] |isbn=978-0600633747 |location=London, England |page=115 |access-date=April 25, 2017 |via=[[Google Books]]}}</ref> The second best-selling game is [[Tetris (Game Boy)|''Tetris'']], originally released in Japan on June 14, 1989. Frequently [[pack-in game|bundled]] with the Game Boy, over 35 million copies of ''Tetris'' were shipped worldwide.<ref name="tetris">{{cite news |last=Wynne-Jones |first=Jonathan |date=June 5, 2009 |title=Computer Game Tetris Celebrates 25 Years |url=https://www.telegraph.co.uk/technology/news/5460283/Computer-game-Tetris-celebrates-25-years.html |url-status=live |archive-url=https://web.archive.org/web/20190531005027/https://www.telegraph.co.uk/technology/news/5460283/Computer-game-Tetris-celebrates-25-years.html |archive-date=May 31, 2019 |access-date=April 25, 2017 |work=[[The Daily Telegraph]]}}</ref>  It is followed by the best-selling Game Boy Color game, the second generation of ''Pokémon'' (''[[Pokémon Gold and Silver|Gold/Silver]]'' and ''[[Pokémon Crystal|Crystal]]''), which collectively sold 29 million units.<ref name="pokemon2" /> Rounding out the top five are ''[[Super Mario Land]]'', the first ''[[Super Mario]]'' title on the platform, with over 18 million units sold,<ref name="supermariotitles">{{cite web |last=O'Malley |first=James |date=September 11, 2015 |title=30 Best-Selling Super Mario Games of All Time on the Plumber's 30th Birthday |url=http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |url-status=live |archive-url=https://web.archive.org/web/20200908004707/http://www.gizmodo.co.uk/2015/09/30-best-selling-super-mario-games-of-all-time-on-the-plumbers-30th-birthday/ |archive-date=September 8, 2020 |access-date=April 25, 2017 |work=[[Gizmodo]] |publisher=[[Univision Communications]]}}</ref> and [[Dr. Mario|''Dr. Mari'']][[Dr. Mario|''o'']], which surpassed 5.34 million copies.<ref name="drmario" /> The most successful franchises on the Game Boy and Game Boy Color include ''[[Pokémon]]'' (84.54{{nbsp}}million combined units), ''[[Tetris]]'' (38.12{{nbsp}}million), ''[[Super Mario]]'' (34.39{{nbsp}}million), ''[[Donkey Kong]]'' (12.55{{nbsp}}million), and ''[[Kirby (series)|Kirby]]'' (10.91{{nbsp}}million).
+
+In total, 67 Game Boy and Game Boy Color games have been confirmed to have sold or shipped at least one million units. Of these, 20 were developed by Nintendo's internal studios. [[Capcom]] follows with seven million-selling titles, while [[Game Freak]], [[Rare (company)|Rare]], and [[Tose (company)|Tose]] each have five. Other publishers with multiple million-selling games include [[Konami]] (three titles) and both [[Bandai]] and [[Enix]] (two titles each).
+==List==
+{| class="wikitable plainrowheaders"
+|+ Key
+|-
+| bgcolor="#FFFF99" style="text-align:center;"| †
+| Game was [[Pack-in game|bundled with Game Boy or Game Boy Color consoles]] during its lifetime
+|-
+| bgcolor="#D8D8D8" style="text-align:center;"| †
+| Game is part of a series, total sales listed above
+|}
+{{sticky-header}}
+{{srn}}
+{| class="wikitable sortable sticky-header static-row-numbers"
+|- class=static-row-header
+!scope="col" | Game
+!scope="col" | Developer(s){{efn|name="devpub"|Only developers and publisher for the original release of each game are listed.}}
+!scope="col" | Publisher{{efn|name="devpub"}}
+!scope="col" | Platform
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Sales
+!scope="col" class="unsortable"|{{abbr|Ref.|Reference(s)}}
+|-
+| [[Pokémon Red, Blue, and Yellow|''Pokémon'' Generation I]]
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1996-02-27}}
+| 45,900,000
+| align="center" |<ref name=pokemon3 />
+|-class="static-row-numbers-norank" bgcolor="D8D8D8"
+| {{in5}}[[Pokémon Red, Blue, and Yellow|''Pokémon Red'', ''Green'' and ''Blue'']]
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1996-02-27}}
+| 31,300,000
+| align="center" |<ref name=pokemon3>{{cite web |last=Duran |first=Misael |date=3 August 2022 |title=The most popular Pokémon games of all time, ranked by sales |url=https://www.gamepur.com/guides/the-most-popular-pokemon-games-of-all-time-ranked-by-sales |url-status=live |archive-url=https://web.archive.org/web/20231215150931/https://www.gamepur.com/guides/the-most-popular-pokemon-games-of-all-time-ranked-by-sales |archive-date=15 December 2023 |accessdate=25 November 2023 |website=Gamepur}}</ref>
+|- class="static-row-numbers-norank" bgcolor="D8D8D8"
+| {{in5}}''[[Pokémon Yellow]]''
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1998-09-12}}
+| 14,600,000
+| align="center" |<ref name=pokemon3 />
+|-
+| bgcolor="#FFFF99"| ''[[Tetris (Game Boy video game)|Tetris]]'' †
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-06-14}}
+| 35,000,000
+| align="center"|<ref name="tetris"/>
+|-
+| ''Pokémon'' Generation II
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center" |[[Game Boy Color|GBC]]
+| {{dts|1999-11-21}}
+| 30,000,000
+| align="center" |<ref name=pokemon3 />
+|- class="static-row-numbers-norank" bgcolor="D8D8D8"
+| {{in5}}[[Pokémon Gold and Silver|''Pokémon Gold'' and ''Silver'']]
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center" |[[Game Boy Color|GBC]]{{efn|name="gbcompatible"|Also compatible with the original Game Boy.<ref>{{cite web |title=Game List - Released Titles |url=http://www.gameboy.com:80/gamelist.html |website=GameBoy.com |publisher=Nintendo of America |access-date=2026-02-20|archive-url=https://web.archive.org/web/20010119180900/http://www.gameboy.com/gamelist.html |archive-date=2001-01-19|date=2001-01-19|url-status=dead}}</ref>}}
+| {{dts|1999-11-21}}
+| 23,700,000
+| align="center" |<ref name=pokemon3 />
+|- class="static-row-numbers-norank" bgcolor="D8D8D8"
+| {{in5}}''[[Pokémon Crystal]]''
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center" |[[Game Boy Color|GBC]]
+| {{dts|2000-12-14}}
+| 6,300,000
+| align="center" |<ref name=pokemon3 />
+|-
+
+| bgcolor="#FFFF99" |''[[Super Mario Land]]'' †
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-04-21}}
+| 18,140,000
+| align="center"|<ref name="supermariotitles"/>
+
+|-
+| bgcolor="#FFFF99"|''[[Super Mario Land 2: 6 Golden Coins]]'' †
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1992-10-21}}
+| 11,180,000
+| align="center"|<ref name="supermariotitles"/>
+|-
+| ''[[Dr. Mario]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1990-07-27}}
+| 5,340,000
+| align="center"|<ref name="drmario">{{cite book |last=Terry |first=Paul |date=October 6, 2016 |title=Top 10 of Everything 2017 |url=https://books.google.com/books?id=Vu-pCwAAQBAJ&pg=PT118 |location=London, England |publisher=[[Hachette Book Group|Hachette UK]] |page=118 |isbn=978-0600633747 |access-date=April 25, 2017 |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207161811/https://books.google.com/books?id=Vu-pCwAAQBAJ&pg=PT118 |url-status=live |via=[[Google Books]]}}</ref>
+|-
+| ''[[Pokémon Pinball]]''
+| {{hlist|[[HAL Laboratory]]|[[Jupiter Corporation|Jupiter]]}}
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1999-04-14}}
+| 5,310,000
+| align="center"|<ref name="whitepaper">{{cite book |title=2021CESAゲーム白書 (2021 CESA Games White Papers)|publisher=[[Computer Entertainment Supplier's Association]]|year=2021|isbn=978-4-902346-43-5}}</ref>
+|-
+| ''[[Wario Land: Super Mario Land 3]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1994-01-21}}
+| 5,190,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Kirby's Dream Land]]''
+| [[HAL Laboratory]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1992-04-27}}
+| 5,130,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Super Mario Bros. Deluxe]]''
+| [[Nintendo R&D2]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|1999-05-01}}
+| 5,070,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| [[The Legend of Zelda: Oracle of Seasons and Oracle of Ages|''The Legend of Zelda: Oracle of Seasons'' and ''Oracle of Ages'']]
+| [[Flagship (company)|Flagship]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2001-02-27}}
+| 3,990,000
+| align="center"|<ref name="whitepaper" />
+|-
+| ''[[Donkey Kong Land]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1995-06-26}}
+| 3,910,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| bgcolor="#FFFF99"| ''[[The Legend of Zelda: Link's Awakening]]'' †
+| [[Nintendo EAD]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1993-06-06}}
+| 3,830,000
+| align="center"|<ref name="zeldaseries">{{cite web |title=March 25, 2004 |url=http://www.the-magicbox.com/game032504.shtml |archive-url=https://web.archive.org/web/20051126100623/http://www.the-magicbox.com/game032504.shtml |archive-date=November 26, 2005 |access-date=April 25, 2017 |website=The Magic Box}}</ref>
+|-
+| ''[[Pokémon Trading Card Game (video game)|Pokémon Trading Card Game]]''
+| {{hlist|[[Hudson Soft]]|[[Creatures Inc.]]}}
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1998-12-18}}
+| 3,720,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[F1 Race]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1990-11-09}}
+| 3,410,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Yoshi (video game)|Yoshi]]''
+| [[Game Freak]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1991-12-14}}
+| 3,120,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Donkey Kong (1994 video game)|Donkey Kong]]''
+| {{hlist|[[Nintendo EAD]]|Pax Softnica}}
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1994-06-14}}
+| 3,070,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Tamagotchi (Game Boy game)|Tamagotchi]]''
+| Tom Create
+| [[Bandai]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1997-06-27}}
+| 3,000,000
+| align="center" |<ref name=":0">{{Cite book|last=Allison|first=Anne|url=https://books.google.com/books?id=mbkwDwAAQBAJ&pg=PA292|title=Millennial Monsters: Japanese Toys and the Global Imagination|date=2006-06-30|publisher=[[University of California Press]]|isbn=978-0-520-24565-5|pages=292|access-date=2021-12-25|archive-date=2023-02-07|archive-url=https://web.archive.org/web/20230207161814/https://books.google.com/books?id=mbkwDwAAQBAJ&pg=PA292|url-status=live|via=[[Google Books]]}}</ref><ref>{{cite book
+|title=The Game Boy Encyclopedia
+|last=Scullion
+|first=Chris
+|year=2024
+|publisher=White Owl
+|isbn=978-1-39909-677-5
+|p=133}}</ref><ref>{{cite magazine
+|magazine=[[Famitsu|Weekly Famitsu]]
+|title=New Game Cross Review
+|date=July 4, 1997
+|publisher=[[ASCII Corporation]]
+|language=Japanese
+|issue=446
+|authorlink1=Hirokazu Hamamura
+|last1=Tsūshin
+|first1=Hamamura
+|author2=Ninja Masuda
+|last3=Watanabe
+|first3=Miki
+|last4=Hada
+|first4=Takayuki
+|p=36
+}}</ref>
+|-
+| ''Yu-Gi-Oh! Duel Monsters 4: Battle of Great Duelists''
+| [[Konami]]
+| [[Konami]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2000-12-07}}
+| 2,500,000
+| align="center"|<ref name="jpplatinum">{{cite web |url=http://www.the-magicbox.com/Chart-JPPlatinum.shtml |title=Japan Platinum Game Chart |website=The Magic Box |access-date=April 25, 2017 |archive-date=August 1, 2019 |archive-url=https://web.archive.org/web/20190801030711/http://www.the-magicbox.com/Chart-JPPlatinum.shtml |url-status=live }}</ref>
+|-
+| ''[[Yu-Gi-Oh! Dark Duel Stories]]''
+| [[Konami]]
+| [[Konami]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2000-07-13}}
+| 2,396,518
+| align="center"|{{efn|726,518 copies sold in Japan.<ref name="best selling">{{cite magazine |url=https://www.famitsu.com/news/201810/21165560.html |title=【GBC20周年企画(2)】いちばん売れたゲームボーイカラー専用ソフトは『遊☆戯☆王DM4』！ では2位は？ GBC専用ソフト販売ランキングTOP10！ |language=ja |page=1 |date=October 21, 2018 |magazine=[[Famitsu]] |publisher=[[Enterbrain]] |access-date=October 21, 2018 |archive-date=April 16, 2021 |archive-url=https://web.archive.org/web/20210416223038/https://www.famitsu.com/news/201810/21165560.html |url-status=live }}</ref> {{nowrap|1.67 million}} units sold in the United States and Europe.<ref>{{cite news |title=Million-Seller Genealogy |url=http://www.konamijpn.com/corporate/million.html |access-date=11 September 2021 |work=[[Konami Computer Entertainment Japan]] (KCEJ) |publisher=[[Konami]] |date=December 31, 2004 |lang=ja |url-status=dead |archive-url=https://web.archive.org/web/20050307121434/www.konamijpn.com/corporate/million.html |archive-date=2005-03-07}}</ref>}}
+|-
+| ''[[Kirby's Dream Land 2]]''
+| [[HAL Laboratory]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1995-03-21}}
+| 2,360,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Donkey Kong Land 2]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1996-09-23}}
+| 2,350,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Dragon Warrior Monsters]]''
+| [[Tose (company)|Tose]]
+| [[Enix]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1998-09-25}}
+| 2,350,000
+| align="center"|<ref name="squareenix">{{cite web |url=http://www.jp.square-enix.com/ir/e/explanatory/download/0404-200402090000-01.pdf#page=27 |title=February 2, 2004 - February 4, 2004 |publisher=[[Square Enix]] |date=February 9, 2004 |access-date=April 25, 2017 |archive-date=January 20, 2013 |archive-url=https://web.archive.org/web/20130120084840/http://www.jp.square-enix.com/ir/e/explanatory/download/0404-200402090000-01.pdf#page=27 |url-status=live }}</ref>
+|-
+| ''[[The Legend of Zelda: Link's Awakening DX]]''
+| [[Nintendo EAD]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1998-12-12}}
+| 2,220,000
+| align="center"|<ref name="zeldaseries"/>
+|-
+| ''[[Wario Land 3]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2000-03-21}}
+| 2,200,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Kirby's Pinball Land]]''
+| [[HAL Laboratory]]
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1993-11-27}}
+| 2,190,000
+| align="center" |<ref name="whitepaper" />
+|-
+| ''[[Donkey Kong Country]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2000-11-04}}
+| 2,190,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Golf (1984 video game)|Golf]]''
+| [[Nintendo]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-11-28}}
+| 2,120,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Tennis (1984 video game)|Tennis]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-05-29}}
+| 1,990,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Alleyway (video game)|Alleyway]]''
+| {{hlist|[[Nintendo R&D1]]|[[Intelligent Systems]]}}
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-04-21}}
+| 1,940,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Tetris DX]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1998-10-21}}
+| 1,880,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Metroid II: Return of Samus]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1991-11}}
+| 1,720,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Baseball (1983 video game)|Baseball]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-04-21}}
+| 1,610,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''Yu-Gi-Oh! Duel Monsters''
+| [[Konami]]
+| [[Konami]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1998-12-16}}
+| 1,610,000
+| align="center"|<ref name="million">{{cite news |title=Million-Seller Genealogy |url=http://www.konamijpn.com/corporate/million_e.html |access-date=11 September 2021 |work=[[Konami Computer Entertainment Japan]] (KCEJ) |publisher=[[Konami]] |date=December 31, 2004 |url-status=dead |archive-url=https://web.archive.org/web/20050315004002/www.konamijpn.com/corporate/million_e.html |archive-date=2005-03-15}}</ref>
+|-
+| ''[[Dragon Warrior Monsters 2]]''
+| [[Tose (company)|Tose]]
+| [[Enix]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|2001-03-09}}
+| 1,570,000
+| align="center"|<ref name="squareenix"/>
+|-
+| ''[[Yoshi's Cookie]]''
+| [[Bullet-Proof Software]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1992-11-21}}
+| 1,530,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Wario Land II]]''
+| [[Nintendo R&D1]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1998-03-01}}
+| 1,480,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''Game de Hakken!! Tamagotchi 2''
+| [[Bandai]]
+| [[Bandai]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1997}}
+| 1,450,000
+| align="center"|<ref name="jpplatinum"/>
+|-
+| ''Yu-Gi-Oh! Duel Monsters II: Dark Duel Stories''
+| [[Konami]]
+| [[Konami]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1999-07-08}}
+| 1,450,000
+| align="center"|<ref name="jpplatinum"/>
+|-
+| ''[[DuckTales (video game)|DuckTales]]''
+| [[Capcom]]
+| [[Capcom]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1990-09-21}}
+| 1,430,000
+| align="center"|<ref name="capcom">{{cite web |url=http://ir.capcom.co.jp/english/data/million.html |title=Platinum Titles |publisher=[[Capcom]] |archive-url=https://web.archive.org/web/20080116224723/http://ir.capcom.co.jp/english/data/million.html |archive-date=January 16, 2008 |access-date=April 25, 2017 }}</ref>
+|-
+| ''[[The Final Fantasy Legend]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-12-15}}
+| 1,370,000
+| align="center"|<ref name="squareenix"/>
+|-
+| ''[[Yakuman (video game)|Yakuman]]''
+| [[Intelligent Systems]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1989-04-21}}
+| 1,280,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Tetris 2 (1993 video game)|Tetris 2]]''
+| {{hlist|[[Nintendo R&D1]]|[[Tose (company)|Tose]]}}
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1993-12}}
+| 1,240,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Kirby Tilt 'n' Tumble]]''
+| [[Nintendo R&D2]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2000-08-23}}
+| 1,230,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Game & Watch Gallery 2]]''
+| [[Tose (company)|Tose]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1997-09-27}}
+| 1,220,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Game & Watch Gallery 3]]''
+| [[Tose (company)|Tose]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]{{efn|name="gbcompatible"}}
+| {{dts|1999-04-08}}
+| 1,220,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Solar Striker]]''
+| Minakuchi Engineering
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1990-01-26}}
+| 1,200,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Mario Tennis]]''
+| [[Camelot Software Planning]]
+| [[Nintendo]]
+| align="center"|[[Game Boy Color|GBC]]
+| {{dts|2000-11-01}}
+| 1,180,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Qix]]''
+| Minakuchi Engineering
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1990-04-13}}
+| 1,150,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Super R.C. Pro-Am]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1991-06}}
+| 1,140,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[Donkey Kong Land III]]''
+| [[Rare (company)|Rare]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1997-10-27}}
+| 1,030,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[The Bugs Bunny Crazy Castle]]''
+| [[Kemco]]
+| [[Kemco]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1989-09-05}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[The Bugs Bunny Crazy Castle 2]]''
+| [[Kemco]]
+| [[Kemco]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1991-04-26}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Mickey's Dangerous Chase]]''
+| [[Now Production]]
+| [[Capcom]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1991-05-15}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[The Little Mermaid (video game)|The Little Mermaid]]''
+| [[Capcom]]
+| [[Capcom]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1991-07-19}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Mega Man: Dr. Wily's Revenge]]''
+| Minakuchi Engineering
+| [[Capcom]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1991-07-26}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb">{{cite web|url=https://archive.org/details/31PlayersChoiceGbGamesjpeg14|title=31 Player's Choice Gb Games (jpeg) 14%|website=[[Internet Archive]]|date=January 22, 2018|access-date=March 17, 2021}}</ref>
+|-
+| ''[[Mega Man II (Game Boy)|Mega Man II]]''
+| Japan System House
+| [[Capcom]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1991-12-20}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Wave Race]]''
+| {{hlist|[[Nintendo EAD]]|Pax Softnica}}
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1992-07-01}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Star Wars (1991 video game)|Star Wars]]''
+| NMS Software
+| [[Capcom]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|November 1992}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[DuckTales 2]]''
+| Make Software
+| [[Capcom]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1993-04-23}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Mortal Kombat (1992 video game)|Mortal Kombat]]''
+| [[Probe Software]]
+| [[Acclaim Entertainment|Acclaim]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1993-09-13}}
+| 1,000,000
+| align="center" |<ref>{{cite book |last1=Kent |first1=Steven L. |title=The Ultimate History of Video Games |date=2001 |publisher=Three Rivers Press |isbn=0-7615-3643-4 |page=465 |url=https://archive.org/details/ultimatehistoryofvideogamesrevisited/page/n477/mode/2up |quote=Acclaim also released Game Gear and Game Boy versions of Mortal Kombat. Amazingly, Acclaim sold 1 million copies of the Game Boy cartridge. |access-date=2024-04-09}}</ref>
+|-
+| ''[[Mickey Mouse: Magic Wands!]]''
+| [[Kemco]]
+| [[Kemco]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1993-12-22}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Space Invaders DX|Space Invaders]]''
+| [[Taito]]
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1994}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[List of The Smurfs video games|The Smurfs]]''
+| [[Bit Managers]]
+| [[Infogrames]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1994}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Street Fighter II#Game Boy|Street Fighter II]]''
+| Sun L
+| [[Nintendo]]
+| align="center" |[[Game Boy|GB]]
+| {{dts|1995-08-11}}
+| 1,000,000
+| align="center" |<ref name="playerschoicegb" />
+|-
+| ''[[Game & Watch Gallery]]''
+| [[Tose (company)|Tose]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1997-02-01}}
+| 1,000,000
+| align="center"|<ref name="whitepaper"/>
+|-
+| ''[[James Bond 007 (1998 video game)|James Bond 007]]''
+| [[Saffire (company)|Saffire]]
+| [[Nintendo]]
+| align="center"|[[Game Boy|GB]]
+| {{dts|1998-01-29}}
+| 1,000,000
+| align="center"|<ref name="playerschoicegb"/>
+|}
+
+==See also==
+* [[List of best-selling Nintendo video games]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{vgbestsellers|state=expanded}}
+{{Game Boy line}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling Game Boy video games}}
+[[Category:Lists of Game Boy games|*]]
+[[Category:Game Boy Color games|*]]
+[[Category:Lists of best-selling Nintendo video games|Game Boy]]

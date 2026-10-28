@@ -8,7 +8,7 @@ import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
 import { createScene } from './scene.js';
 import { renderBoard, renderRounds } from './board.js';
-import { classifyGuess, diffMarks, nextCombo, bestBurst, unmatchedWorthReporting, WRONG_LINES, COMBO_MAX } from './feedback.js';
+import { classifyGuess, diffMarks, nextCombo, bestBurst, unmatchedWorthReporting, outsideLine, WRONG_LINES, COMBO_MAX } from './feedback.js';
 
 const $ = (id) => document.getElementById(id);
 // Modes come from the hash: #practice, or #test-<prompt id> from the QA page.
@@ -25,6 +25,7 @@ let game;
 let metas = [];
 let prompts = [];
 let indexes = [];
+let outsideIndexes = [];
 let clock = null;
 let FACTS = [];
 const scene = createScene($('scene'));
@@ -115,6 +116,7 @@ async function init() {
     metas = chosen;
     prompts = ids.map(() => null);
     indexes = ids.map(() => null);
+    outsideIndexes = ids.map(() => null);
     // Rounds already started or played are needed for results and the summit screen.
     await Promise.all(game.rounds.map((r, i) => (r.status !== 'ready' ? loadPrompt(i) : null)));
   } catch (err) {
@@ -136,6 +138,7 @@ function loadPrompt(i) {
     loading.set(i, getJSON(`data/p/${game.ids[i]}.json`).then((p) => {
       prompts[i] = p;
       indexes[i] = buildIndex(p.answers);
+      outsideIndexes[i] = p.outside ? buildIndex(p.outside) : null;
       return p;
     }));
   }
@@ -322,7 +325,7 @@ function setFeedback(kind, parts = []) {
   field.classList.remove('is-wrong', 'is-already', 'is-clip');
   void field.offsetWidth; // restart the animation
   if (kind === 'wrong' || kind === 'ambiguous') field.classList.add('is-wrong');
-  if (kind === 'already') field.classList.add('is-already');
+  if (kind === 'already' || kind === 'outside') field.classList.add('is-already');
   if (kind === 'accepted' || kind === 'autocorrected') field.classList.add('is-clip');
 }
 
@@ -350,7 +353,7 @@ function submitGuess() {
   clearTimeout(clock && clock.auto);
   const p = currentPrompt();
   const before = altitude(game.current) + metresFor(game.current);
-  const g = classifyGuess(indexes[game.current], text, new Set(r.found));
+  const g = classifyGuess(indexes[game.current], text, new Set(r.found), outsideIndexes[game.current]);
   if (g.state === 'empty') return;
   const now = Date.now();
   combo.level = nextCombo(combo.level, g.state, now, combo.lastAt);
@@ -382,6 +385,9 @@ function submitGuess() {
     const chip = $('found-list').querySelector(`li[data-id="${g.index}"]`);
     if (chip) { chip.classList.remove('is-pulse'); void chip.offsetWidth; chip.classList.add('is-pulse'); }
     announce('Already clipped in: ' + p.answers[g.index].label);
+  } else if (g.state === 'outside') {
+    setFeedback('outside', [span(outsideLine(p))]);
+    announce(`${g.label}: ${outsideLine(p)}. No penalty.`);
   } else if (g.state === 'ambiguous') {
     if (r.wrong.length < 50) r.wrong.push(text.trim());
     setFeedback('ambiguous', [span('Too close to call, be more specific')]);

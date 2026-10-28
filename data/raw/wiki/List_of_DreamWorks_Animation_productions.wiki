@@ -1,0 +1,2421 @@
+{{Short description|None}}
+{{protection padlock|reason=Persistent [[WP:Disruptive editing|disruptive editing]] This has been going on forever. Enough.|small=yes}}
+{{Use mdy dates|date=March 2025}}
+
+The following is a list of productions produced by [[DreamWorks Animation]], a division of [[NBCUniversal]], which includes animated feature films, shorts, specials, and television series. As of 2026, DreamWorks Animation has produced 54 feature films, with their first being ''[[Antz]]'' on October 2, 1998, and their latest being ''[[Forgotten Island]]'' on September 25, 2026.
+
+Their upcoming slate of films includes ''[[CoComelon: The Movie]]'' on February 19, 2027, the live-action remake of ''[[How to Train Your Dragon 2 (2027 film)|How To Train Your Dragon 2]]'' on June 11, 2027, ''[[Shrek 5]]'' on June 30, 2027, and ''[[Shrek (franchise)#Donkey (2028)|Donkey]]'' on June 30, 2028. In addition, two untitled films are scheduled to be released on September 24, 2027, and September 22, 2028.<ref>https://x.com/Minions_Fanboy/status/1900312585960038604 {{Dead link | date=July 2026 | fix-attempted=yes}}</ref>
+
+==Feature films==
+===Released===
+{| class="wikitable plainrowheaders sortable" style="text-align:center; margin=auto; width:100%;"
+|-
+!rowspan="2"| Film
+!rowspan="2"| Release date
+!rowspan="2"| Director(s)
+!colspan="2"| Writer(s)
+!rowspan="2"| Producer(s)
+!rowspan="2"| Composer(s)
+!rowspan="2"| Distributor
+!rowspan="2"| Co-production with
+!rowspan="2"| Animation/production service(s)
+|-
+! Story
+! Screenplay
+|-
+!scope="row"| ''[[Antz]]''
+| {{dts|1998|10|2}}
+| [[Eric Darnell]]<br />[[Tim Johnson (film director)|Tim Johnson]]
+|colspan="2"| [[Todd Alcott]]<br />[[Chris Weitz]]<br />[[Paul Weitz (filmmaker)|Paul Weitz]]
+| [[Brad Lewis]]<br />[[Aron Warner]]<br />Patty Wooton
+| [[Harry Gregson-Williams]]<br />[[John Powell (composer)|John Powell]]
+|rowspan="5" style="text-align:center;"| [[DreamWorks Pictures]]
+|colspan="2"| [[Pacific Data Images]]{{efn|name=A|Also production company.}}
+|-
+!rowspan="2" scope="row"| ''[[The Prince of Egypt]]''
+|rowspan="2"| {{dts|1998|12|18}}
+|rowspan="2"| [[Brenda Chapman]]<br />[[Steve Hickner]]<br />[[Simon Wells]]
+|colspan="2" {{N/A|<small>''Based on:''</small><br />[[Book of Exodus]]}}
+|rowspan="2"| Penney Finkelman Cox<br />Sandra Rabins
+|rowspan="2"| [[Hans Zimmer]]<br />{{small|(score)}}<hr>[[Stephen Schwartz]]<br />{{small|(songs)}}
+|rowspan="3" {{N/A}}
+|rowspan="2" style="text-align:center;"| DWA Glendale<br />[[Bardel Entertainment|Bardel Animation Limited]]<br />[[Fox Animation Studios]] {{small|(additional final line animation)}}<br />Heart of Texas Productions {{small|(additional final line animation)}}
+|-
+|colspan="2"| [[Philip LaZebnik]]
+|-
+!scope="row"| ''[[The Road to El Dorado]]''
+| {{dts|2000|3|31}}
+| [[Bibo Bergeron]]<br />Don Paul
+|colspan="2"| [[Ted Elliott (screenwriter)|Ted Elliott]]<br />[[Terry Rossio]]
+| Bonne Radford<br />Brook Breton
+| Hans Zimmer<br />John Powell<br />{{small|(score)}}<hr>[[Elton John]]<br />[[Tim Rice]]<br />{{small|(songs)}}
+| DWA Glendale<br />Bardel Animation Limited<br />Stardust Pictures<br />Pacific Data Images<br />{{small|(opening "Creation" sequence)}}
+|-
+!scope="row"| ''[[Chicken Run]]''{{efn|name=R|Not produced, but released by DreamWorks Animation under its label.}}
+| {{dts|2000|6|23}}
+|colspan="2"| [[Peter Lord]]<br />[[Nick Park]]
+| [[Karey Kirkpatrick]]
+| Peter Lord<br />[[David Sproxton]]<br />Nick Park
+| John Powell<br />Harry Gregson-Williams
+|style="text-align:center;"| [[Pathé]]<br />[[Aardman Animations]]
+|style="text-align:center;"| Aardman Animations<br />{{small|(main faculties)}}<br />[[Framestore]]
+|-
+!rowspan="2" scope="row" | ''[[Joseph: King of Dreams]]''
+|rowspan="2"| {{dts|2000|11|7}}
+|rowspan="2"| Robert Ramirez<br />Rob LaDuca
+|colspan="2" {{N/A|<small>''Based on:''</small><br />[[Book of Genesis]]}}
+|rowspan="2"| Ken Tsumura
+|rowspan="2"| Daniel Pelfrey<br />{{small|(score)}}<hr>[[John Bucchino]]<br />{{small|(songs)}}
+|rowspan="2"| [[DreamWorks Home Entertainment]]
+|rowspan="2" {{N/A}}
+|rowspan="2"| Bardel Animation Limited<br />Big Fish Animation {{small|(effects)}}<br />Blue Sunflower {{small|(effects)}}<br />Canuck Creations {{small|(final line)}}<br />Character Builders<br />[[Jam Filled Toronto|DKP Effects Inc.]] {{small|(3D sequences)}}<br />DWA Glendale<br />Dynomight Cartoons<br />Fil Cartoons {{small|(final line)}}<br />Giant Productions {{small|(effects)}}<br />Golden Bell Animation {{small|(final line)}}<br />Heart of Texas Productions {{small|(final line and effects)}}<br />Hits for Less {{small|(effects)}}<br />[[Mercury Filmworks]] {{small|(additional paint services)}}<br />New Vision Productions {{small|(final line)}}<br />Ray Pang Effects {{small|(effects)}}<br />[[Red Rover Studios|Red Rover]] {{small|(animation and final line)}}<br />Spaff Animation {{small|(effects)}}<br />Starburst Animation {{small|(final line)}}<br />Tama Productions {{small|(effects and animation)}}<br />VirtualMagic Animation, Inc. {{small|(digital paint/compositing)}}<br />Wang Film Productions {{small|(final line)}}<br />Wild Horse Animation Group {{small|(final line)}}
+|-
+|colspan="2"| Eugenia Bostwick-Singer<br />Raymond Singer<br />Joe Stillman<br />Marshall Goldberg
+|-
+!rowspan="2" scope="row"| ''[[Shrek]]''
+|rowspan="2"| {{dts|2001|5|18}}
+|rowspan="2"| [[Andrew Adamson]]<br />[[Vicky Jenson]]
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[William Steig]]}}
+|rowspan="2"| Aron Warner<br />[[John H. Williams (film producer)|John H. Williams]]<br />[[Jeffrey Katzenberg]]
+|rowspan="2"| Harry Gregson-Williams<br />John Powell
+|rowspan="11" style="text-align:center;"| DreamWorks Pictures
+|colspan="2" rowspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+|colspan="2"| Ted Elliott<br />Terry Rossio<br />[[Joe Stillman]]<br />[[Roger S. H. Schulman]]
+|-
+!scope="row"| ''[[Spirit: Stallion of the Cimarron]]''
+| {{dts|2002|5|24}}
+| [[Kelly Asbury]]<br />Lorna Cook
+|colspan="2"|[[John Fusco]]
+|rowspan="3"| [[Mireille Soria]]<br />Jeffrey Katzenberg
+| Hans Zimmer<br />{{small|(score)}}<hr>[[Bryan Adams]]<br />{{small|(songs)}}
+|rowspan="3" {{N/A}}
+|style="text-align:center;"| DWA Glendale<br />Bardel Entertainment<br />Anvil Studios<br />Stardust Pictures
+|-
+!rowspan="2" scope="row"| ''[[Sinbad: Legend of the Seven Seas]]''
+|rowspan="2"| {{dts|2003|7|2}}
+|rowspan="2"| Tim Johnson<br />Patrick Gilmore
+|colspan="2" {{N/A|<small>''Inspired by:''</small><br />[[Sinbad the Sailor]]}}
+|rowspan="4"| Harry Gregson-Williams
+|rowspan="2"| DWA Glendale<br />Bardel Entertainment<br />Stardust Pictures<br />PDI/DreamWorks
+|-
+|colspan="2"| [[John Logan (writer)|John Logan]]
+|-
+!rowspan="2" scope="row"| ''[[Shrek 2]]''
+|rowspan="2"| {{dts|2004|5|19}}
+|rowspan="2"| Andrew Adamson<br />Kelly Asbury<br />[[Conrad Vernon]]
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[William Steig]]}}
+|rowspan="2"| Aron Warner<br />David Lipman<br />John H. Williams
+|colspan="2" rowspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+| Andrew Adamson
+| Andrew Adamson<br />Joe Stillman<br />J. David Stem<br />[[David N. Weiss]]
+|-
+!scope="row"| ''[[Shark Tale]]''
+| {{dts|2004|10|1}}
+| Vicky Jenson<br />Bibo Bergeron<br />[[Rob Letterman]]
+|colspan="2"| [[Michael J. Wilson]]<br />Rob Letterman
+| [[Bill Damaschke]]<br />[[Janet Healy]]<br />[[Allison Lyon Segan]]
+|rowspan="2"| Hans Zimmer
+| {{N/A}}
+| DWA Glendale
+|-
+!scope="row"| ''[[Madagascar (2005 film)|Madagascar]]''
+| {{dts|2005|5|27}}
+| Eric Darnell<br />[[Tom McGrath (animator)|Tom McGrath]]
+|colspan="2"| [[Mark Burton (filmmaker)|Mark Burton]]<br />[[Billy Frolick]]<br />Eric Darnell<br />Tom McGrath
+| Mireille Soria
+|colspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+!rowspan="2" scope="row"| ''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''{{efn|name=R}}{{efn|name=C|Owned by [[Aardman Animations]].}}
+|rowspan="2"| {{dts|2005|10|7}}
+|rowspan="2"| Nick Park<br />[[Steve Box]]
+|colspan="2" {{N/A|<small>''Based on the characters by:''</small><br />Nick Park}}
+|rowspan="2"| Claire Jennings<br />[[Carla Shelley]]<br />Peter Lord<br />David Sproxton<br />Nick Park
+|rowspan="2"| [[Julian Nott]]
+|rowspan="2"| Aardman Animations
+|rowspan="2"| Aardman Animations<br />{{small|(main faculties)}}<br />[[Moving Picture Company]]<br />{{small|(visual effects)}}
+|-
+|colspan="2"| Steve Box<br />Nick Park<br />Mark Burton<br />[[Bob Baker (scriptwriter)|Bob Baker]]
+|-
+!rowspan="2" scope="row"| ''[[Over the Hedge]]''
+|rowspan="2"| {{dts|2006|5|19}}
+|rowspan="2"| Tim Johnson<br />Karey Kirkpatrick
+|colspan="2" {{N/A|<small>''Based on the characters by:''</small><br />[[Michael Fry (cartoonist)|Michael Fry]]<br />T. Lewis}}
+|rowspan="2"| [[Bonnie Arnold]]
+|rowspan="2"| [[Rupert Gregson-Williams]]<br />{{small|(score)}}<hr>[[Ben Folds]]<br />{{small|(songs)}}
+|rowspan="20" | [[Paramount Pictures]]
+|rowspan="2" {{N/A}}
+|rowspan="2" style="text-align:center;"| DWA Glendale<br />Pacific Data Images<br />{{small|(uncredited)}}
+|-
+|colspan="2"| [[Len Blum]]<br />Lorne Cameron<br />[[David Hoselton]]<br />Karey Kirkpatrick
+|-
+!scope="row"| ''[[Flushed Away]]''
+| {{dts|2006|11|3}}
+| [[David Bowers (director)|David Bowers]]<br />[[Sam Fell]]
+| Sam Fell<br />Peter Lord<br />[[Dick Clement]]<br />[[Ian La Frenais]]
+| Dick Clement<br />Ian La Frenais<br />[[Christopher Lloyd (TV producer)|Chris Lloyd]]<br />[[Joe Keenan (writer)|Joe Keenan]]<br />[[William Davies (screenwriter)|Will Davies]]
+| Cecil Kramer<br />David Sproxton<br />Peter Lord
+|rowspan="3"| Harry Gregson-Williams
+| Aardman Animations
+|style="text-align:center;"| Aardman Animations<br />{{small|(main faculties)}}<br />DWA Glendale
+|-
+!rowspan="2" scope="row"| ''[[Shrek the Third]]''
+|rowspan="2"| {{dts|2007|5|18}}
+|rowspan="2"| [[Chris Miller (animator)|Chris Miller]]<hr>{{small|''Co-director:''}}<br />[[Raman Hui]]
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[William Steig]]}}
+|rowspan="2"| Aron Warner
+|colspan="2" rowspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+| Andrew Adamson
+| [[Jeffrey Price and Peter S. Seaman|Jeffrey Price<br />Peter S. Seaman]]<br />Chris Miller<br />Aron Warner
+|-
+!scope="row"| ''[[Bee Movie]]''
+| {{dts|2007|11|2}}
+| [[Simon J. Smith]]<br />Steve Hickner
+|colspan="2"| [[Jerry Seinfeld]]<br />[[Spike Feresten]]<br />[[Barry Marder]]<br />[[Andy Robin]]
+| Jerry Seinfeld<br />Christina Steinberg
+| Rupert Gregson-Williams
+| [[Columbus 81 Productions]]
+| DWA Glendale
+|-
+!scope="row"| ''[[Kung Fu Panda (film)|Kung Fu Panda]]''
+| {{dts|2008|6|6}}
+| [[John Stevenson (director)|John Stevenson]]<br />[[Mark Osborne (filmmaker)|Mark Osborne]]
+| [[Ethan Reiff and Cyrus Voris|Ethan Reiff<br />Cyrus Voris]]
+| [[Jonathan Aibel and Glenn Berger|Jonathan Aibel<br />Glenn Berger]]
+| Melissa Cobb
+| Hans Zimmer<br />John Powell
+| {{N/A}}
+| DWA Glendale<br />[[James Baxter (animator)|James Baxter Animation]]<br />{{small|(opening sequence only)}}
+|-
+!scope="row"| ''[[Madagascar: Escape 2 Africa]]''
+| {{dts|2008|11|7}}
+| Eric Darnell<br />Tom McGrath
+|colspan="2"| [[Etan Cohen]]<br />Eric Darnell<br />Tom McGrath
+| Mireille Soria<br />[[Mark Swift]]
+| Hans Zimmer<br />{{small|(score)}}<hr>Hans Zimmer<br />[[Will.I.Am]]<br />{{small|(songs)}}
+|colspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+!scope="row"| ''[[Monsters vs. Aliens]]''
+| {{dts|2009|3|27}}
+|colspan="2"| Conrad Vernon<br />Rob Letterman
+|[[Maya Forbes]]<br />[[Wallace Wolodarsky|Wally Wolodarsky]]<br />Rob Letterman<br />Jonathan Aibel<br />Glenn Berger
+| Lisa Stewart
+| [[Henry Jackman]]
+|rowspan="5" {{N/A}}
+|rowspan="5" style="text-align:center;"|DWA Glendale
+|-
+!rowspan="2" scope="row"| ''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|rowspan="2"| {{dts|2010|3|26}}
+|rowspan="2"| [[Chris Sanders]]<br />[[Dean DeBlois]]
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Cressida Cowell]]}}
+|rowspan="2"| Bonnie Arnold
+|rowspan="2"| John Powell
+|-
+|colspan="2"| Will Davies<br />Dean DeBlois<br />Chris Sanders
+|-
+!rowspan="2" scope="row"| ''[[Shrek Forever After]]''
+|rowspan="2"| {{dts|2010|5|21}}
+|rowspan="2"| [[Mike Mitchell (director)|Mike Mitchell]]
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[William Steig]]}}
+|rowspan="2"| [[Gina Shay]]<br />[[Teresa Cheng]]
+|rowspan="2"| Harry Gregson-Williams
+|-
+|colspan="2"| [[Josh Klausner]]<br />[[Darren Lemke]]
+|-
+!scope="row"| ''[[Megamind]]''
+| {{dts|2010|11|5}}
+| Tom McGrath
+|colspan="2"| Alan Schoolcraft<br />Brent Simons
+| [[Lara Breay]]<br />Denise Nolan Cascino
+| Hans Zimmer<br />[[Lorne Balfe]]
+|colspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+!scope="row"| ''[[Kung Fu Panda 2]]''
+| {{dts|2011|5|26}}
+| [[Jennifer Yuh Nelson]]
+|colspan="2"| Jonathan Aibel<br />Glenn Berger
+| Melissa Cobb
+| Hans Zimmer<br />John Powell
+|rowspan="3" {{N/A}}
+| DWA Glendale
+|-
+!rowspan="2" scope="row"| ''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|rowspan="2"| {{dts|2011|10|28}}
+|rowspan="2"| Chris Miller
+|colspan="2" {{N/A|<small>''Inspired by the character from:''</small><br />[[Giovanni Francesco Straparola]]}}
+|rowspan="2"| Joe M. Aguilar<br />Latifa Ouaou
+|rowspan="2"| Henry Jackman
+|rowspan="2"| DWA Glendale<br />DreamWorks Dedicated Unit
+|-
+| [[Brian Lynch (American writer)|Brian Lynch]]<br />Will Davies<br />[[Tom Wheeler]]
+| Tom Wheeler
+|-
+!scope="row"| ''[[Madagascar 3: Europe's Most Wanted]]''
+| {{dts|2012|6|8}}
+| Eric Darnell<br />Conrad Vernon<br />Tom McGrath
+|colspan="2"| Eric Darnell<br />[[Noah Baumbach]]
+| Mireille Soria<br />Mark Swift
+| Hans Zimmer
+|colspan="2"|PDI/DreamWorks{{efn|name=A}}
+|-
+!rowspan="2" scope="row"| ''[[Rise of the Guardians]]''
+|rowspan="2"| {{dts|2012|11|21}}
+|rowspan="2"| [[Peter Ramsey]]
+|colspan="2" {{N/A|<small>''Based on the characters by:''</small><br />[[William Joyce (writer)|William Joyce]]}}
+|rowspan="2"| Christina Steinberg<br />[[Nancy Bernstein]]
+|rowspan="2"| [[Alexandre Desplat]]
+|rowspan="4" {{N/A}}
+|rowspan="4"| DWA Glendale
+|-
+|colspan="2"| [[David Lindsay-Abaire]]
+|-
+!scope="row"| ''[[The Croods]]''
+| {{dts|2013|3|22}}
+| Chris Sanders<br />[[Kirk DeMicco]]
+| [[John Cleese]]<br />Kirk DeMicco<br />Chris Sanders
+| Kirk DeMicco<br />Chris Sanders
+| Kristine Belson<br />Jane Hartwell
+| [[Alan Silvestri]]
+|rowspan="16" | [[20th Century Fox]]
+|-
+!scope="row"| ''[[Turbo (2013 film)|Turbo]]''
+| {{dts|2013|7|17}}
+|colspan="2"| [[David Soren (animator)|David Soren]]
+| David Soren<br />Darren Lemke<br />[[Robert Siegel (filmmaker)|Robert Siegel]]
+| Lisa Stewart
+| Henry Jackman
+|-
+!rowspan="2" scope="row"| ''[[Mr. Peabody & Sherman]]''
+|rowspan="2"| {{dts|2014|3|7}}
+|rowspan="2"| [[Rob Minkoff]]
+|colspan="2" {{N/A|<small>''Based on the characters by:''</small><br />[[Ted Key]]}}
+|rowspan="2"| Alex Schwartz<br />Denise Nolan Casino
+|rowspan="2"| [[Danny Elfman]]
+|rowspan="2"| PDI/DreamWorks<br />[[Bullwinkle Studios]]
+|rowspan="2"| PDI/DreamWorks{{efn|name=A}}<br />DreamWorks Dedicated Unit
+|-
+|colspan="2"| [[Craig Wright (playwright)|Craig Wright]]
+|-
+!rowspan="2" scope="row"| ''[[How to Train Your Dragon 2]]''
+|rowspan="2"| {{dts|2014|6|13}}
+|rowspan="2"| Dean DeBlois
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Cressida Cowell]]}}
+|rowspan="2"| Bonnie Arnold
+|rowspan="2"| John Powell
+|rowspan="2" {{N/A}}
+|rowspan="2"| DWA Glendale
+|-
+|colspan="2"| Dean DeBlois
+|-
+!scope="row"| ''[[Penguins of Madagascar]]''
+| {{dts|2014|11|26}}
+| Eric Darnell<br />Simon J. Smith
+| Alan Schoolcraft<br />Brent Simons<br />[[Michael Colton]]<br />[[John Aboud]]
+| Michael Colton<br />John Aboud<br />Brandon Sawyer
+| Lara Breay<br />Mark Swift
+| Lorne Balfe
+| PDI/DreamWorks
+| PDI/DreamWorks{{efn|name=A}}<br />DreamWorks Dedicated Unit
+|-
+!rowspan="2" scope="row"| ''[[Home (2015 film)|Home]]''
+|rowspan="2"| {{dts|2015|3|27}}
+|rowspan="2"| Tim Johnson
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[Adam Rex]]}}
+|rowspan="2"| Mireille Soria<br />Suzanne Buirgy<br />[[Chris Jenkins (film producer)|Chris Jenkins]]
+|rowspan="2"| Lorne Balfe<br />[[Stargate (record producers)|Stargate]]
+|rowspan="2" {{N/A}}
+|rowspan="2"| DWA Glendale<br />Pacific Data Images (production services)
+|-
+|colspan="2"| Tom J. Astle<br />Matt Ember
+|-
+!scope="row"| ''[[Kung Fu Panda 3]]''
+| {{dts|2016|1|29}}
+| Jennifer Yuh Nelson<br />[[Alessandro Carloni]]
+|colspan="2"| Jonathan Aibel<br />Glenn Berger
+| Melissa Cobb
+| Hans Zimmer
+| [[China Film Group Corporation]]<br />Zhong Ming You Ying Film<br />[[Oriental DreamWorks]]
+|rowspan="5" style="text-align:center;"|DWA Glendale
+|-
+!rowspan="2" scope="row"| ''[[Trolls (film)|Trolls]]''
+|rowspan="2"| {{dts|2016|11|4}}
+|rowspan="2"| Mike Mitchell<hr>{{small|''Co-director:''}}<br />[[Walt Dohrn]]
+|colspan="2" {{N/A|<small>''Based on the toys by:''</small><br />[[Thomas Dam]]}}
+|rowspan="2"| Gina Shay
+|rowspan="2"| [[Christophe Beck]]
+|rowspan="4" {{N/A}}
+|-
+| [[Erica Rivinoja]]
+| Jonathan Aibel<br />Glenn Berger
+|-
+!rowspan="2" scope="row"| ''[[The Boss Baby]]''
+|rowspan="2"| {{dts|2017|3|31}}
+|rowspan="2"| Tom McGrath
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[Marla Frazee]]}}
+|rowspan="2"| [[Ramsey Ann Naito]]
+|rowspan="2"| Hans Zimmer<br />Steve Mazzaro
+|-
+|colspan="2"| [[Michael McCullers]]
+|-
+!rowspan="2" scope="row"| ''[[Captain Underpants: The First Epic Movie]]''
+|rowspan="2"| {{dts|2017|6|2}}
+|rowspan="2"| David Soren
+|colspan="2" {{N/A|<small>''Based on the novels by:''</small><br />[[Dav Pilkey]]}}
+|rowspan="2"| Mireille Soria<br />Mark Swift
+|rowspan="2"| [[Theodore Shapiro]]
+|rowspan="2"| [[Scholastic Entertainment]]<br /><small>(uncredited)</small>
+|rowspan="2"| [[Mikros Image]]<br />[[Technicolor Animation Productions]]
+|-
+|colspan="2"| [[Nicholas Stoller]]
+|-
+!rowspan="2" scope="row"| ''[[How to Train Your Dragon: The Hidden World]]''
+|rowspan="2"| {{dts|2019|2|22}}
+|rowspan="2"| Dean DeBlois
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Cressida Cowell]]}}
+|rowspan="2"| Bonnie Arnold<br />Brad Lewis
+|rowspan="2"| John Powell
+|rowspan="17" | [[Universal Pictures]]
+|rowspan="2" {{N/A}}
+|rowspan="3" style="text-align:center;"|DWA Glendale
+|-
+|colspan="2"| Dean DeBlois
+|-
+!scope="row"| ''[[Abominable (2019 film)|Abominable]]''
+| {{dts|2019|9|27}}
+| [[Jill Culton]]<hr>{{small|''Co-director:''}}<br />Todd Wilderman
+|colspan="2"| Jill Culton
+| Suzanne Buirgy<br />Peilin Chou
+| Rupert Gregson-Williams
+| [[Pearl Studio]]<br />Zhong Ming You Ying Film
+|-
+!rowspan="2" scope="row"| ''[[Trolls World Tour]]''
+|rowspan="2"| {{dts|2020|4|10}}{{efn|name=digital|The film was originally planned to be released theatrically in the United States on this date. However, on March 16, [[Universal Pictures]] announced that the film would be released simultaneously in [[drive-in theater]]s, as [[Impact of the COVID-19 pandemic on cinema|regular movie theaters closed]] due to the restrictions caused by the [[COVID-19 pandemic]], and through [[Video on demand|Premium VOD]] in the United States, Canada, United Kingdom, South Korea and Italy.<ref>{{cite news |last1=Fuster |first1=Jeremy |title=Universal to Release 'Trolls World Tour' for Digital Rental on Same Day as Theatrical Release |url=https://www.thewrap.com/universal-to-release-trolls-world-tour-for-digital-rental-on-same-day-as-theatrical-release/ |access-date=March 16, 2020 |work=[[TheWrap]] |date=March 16, 2020}}</ref><ref name=VarietyTheaters>{{cite news |last1=Rubin |first1=Rebecca |title='Trolls World Tour' Straight to Streaming — Sign of the Times or the New Normal? |url=https://variety.com/2020/film/news/trolls-world-tour-streaming-theatrical-window-future-1234573263/ |access-date=April 9, 2020 |work=[[Variety (magazine)|Variety]] |date=April 9, 2020}}</ref> This affected the number of projections and the box office performance of the screenings. As the pandemic receded, the film was released back in regular theatres.}}
+|rowspan="2"| Walt Dohrn<hr>{{small|''Co-director:''}}<br />David P. Smith
+|colspan="2" {{N/A|<small>''Based on the toys by:''</small><br />[[Thomas Dam]]}}
+|rowspan="2"| Gina Shay
+|rowspan="2"| Theodore Shapiro
+|rowspan="19" {{N/A}}
+|rowspan="2"|DWA Glendale<br />Minimo VFX<br />[[Jellyfish Pictures]]
+|-
+| Jonathan Aibel<br />Glenn Berger
+| Jonathan Aibel<br />Glenn Berger<br />Maya Forbes<br />Wally Wolodarsky<br />Elizabeth Tippet
+|-
+!scope="row"| ''[[The Croods: A New Age]]''
+| {{dts|2020|11|25}}
+| [[Joel Crawford (director)|Joel Crawford]]
+| Kirk DeMicco<br />Chris Sanders
+| [[The Hageman Brothers|Dan Hageman<br />Kevin Hageman]]<br />Paul Fisher<br />Bob Logan
+| Mark Swift
+| [[Mark Mothersbaugh]]
+|DWA Glendale
+|-
+!rowspan="2" scope="row"| ''[[Spirit Untamed]]''
+|rowspan="2"| {{dts|2021|6|4}}
+|rowspan="2"| Elaine Bogan<hr>{{small|''Co-director:''}}<br />Ennio Torresan Jr.
+|colspan="2" {{N/A|<small>''Based on the characters by:''</small><br />John Fusco<br />[[Aury Wallington]]}}
+|rowspan="2"| Karen Foster
+|rowspan="2"| [[Amie Doherty]]
+|rowspan="2"| Jellyfish Pictures<br />88 Pictures<br />Minimo VFX
+|-
+|colspan="2"| Aury Wallington<br />[[Kristin Hahn]]
+|-
+!rowspan="2" scope="row"| ''[[The Boss Baby: Family Business]]''
+|rowspan="2"| {{dts|2021|7|2}}
+|rowspan="2"| Tom McGrath
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Marla Frazee]]}}
+|rowspan="2"| [[Jeff Hermann]]
+|rowspan="2"| Hans Zimmer<br />Steve Mazzaro
+|rowspan="4"| DWA Glendale<br />Jellyfish Pictures<br />{{small|(asset production)}}
+|-
+| Tom McGrath<br />Michael McCullers
+| Michael McCullers
+|-
+!rowspan="2" scope="row"| ''[[The Bad Guys (film)|The Bad Guys]]''
+|rowspan="2"| {{dts|2022|4|22}}
+|rowspan="2"| [[Pierre Perifel]]
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Aaron Blabey]]}}
+|rowspan="2"| Damon Ross<br />Rebecca Huntley
+|rowspan="2"| [[Daniel Pemberton]]
+|-
+|colspan="2"| Etan Cohen
+|-
+!rowspan="2" scope="row"| ''[[Puss in Boots: The Last Wish]]''
+|rowspan="2"| {{dts|2022|12|21}}
+|rowspan="2"| Joel Crawford<hr><small>''Co-director:''</small><br />Januel Mercado
+|colspan="2" {{N/A|<small>''Inspired by the character from:''</small><br />[[Giovanni Francesco Straparola]]}}
+|rowspan="2"| Mark Swift
+|rowspan="2"| [[Heitor Pereira]]
+|rowspan="3"| DWA Glendale
+|-
+| [[Tommy Swerdlow]]<br />Tom Wheeler
+| Paul Fisher<br />Tommy Swerdlow
+|-
+!scope="row"| ''[[Ruby Gillman, Teenage Kraken]]''
+| {{dts|2023|6|30}}
+| Kirk DeMicco<hr>{{small|''Co-director:''}}<br />Faryn Pearl
+|colspan="2"| [[Pam Brady]]<br />Brian C. Brown<br />Elliott DiGuiseppi
+| Kelly Cooney Cilella
+| [[Stephanie Economou]]
+|-
+!rowspan="2" scope="row"| ''[[Trolls Band Together]]''
+|rowspan="2"| {{dts|2023|11|17}}
+|rowspan="2"| Walt Dohrn<hr>{{small|''Co-director:''}}<br />Tim Heitz
+|colspan="2" {{N/A|<small>''Based on the toys by:''</small><br />[[Thomas Dam]]}}
+|rowspan="2"| Gina Shay
+|rowspan="2"| Theodore Shapiro
+|rowspan="2"| DWA Glendale<br />[[Titmouse, Inc.]]<br />{{small|(2D sequences only)}}<br />[[DNEG]]
+|-
+|colspan="2"| Elizabeth Tippet
+|-
+!rowspan="2" scope="row"| ''[[Orion and the Dark]]''
+|rowspan="2"| {{dts|February 2, 2024}}
+|rowspan="2"| Sean Charmatz
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />Emma Yarlett}}
+|rowspan="2"| Peter McCown
+|rowspan="2"| Kevin Lax<br />Robert Lydecker
+|rowspan="2"| [[Netflix]]
+|rowspan="2"| [[Mikros Animation]]<br />Jungler
+|-
+|colspan="2"| [[Charlie Kaufman]]
+|-
+!scope="row"| ''[[Kung Fu Panda 4]]''
+| {{dts|2024|3|8}}
+| Mike Mitchell<hr>{{small|''Co-director:''}}<br />Stephanie Ma Stine
+|colspan="2"| Jonathan Aibel<br />Glenn Berger<br />Darren Lemke
+| Rebecca Huntley
+| Hans Zimmer<br />Steve Mazzaro
+|rowspan="12" | Universal Pictures
+| DWA Glendale<br />Jellyfish Pictures<br />{{small|(asset production)}}
+|-
+!rowspan="2" scope="row"| ''[[The Wild Robot]]''
+|rowspan="2"| {{dts|2024|9|27}}
+|rowspan="2"| Chris Sanders
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Peter Brown (illustrator)|Peter Brown]]}}
+|rowspan="2"| Jeff Hermann
+|rowspan="2"| [[Kris Bowers]]
+|rowspan="2"| DWA Glendale<br />Stim Studio<br />{{small|(additional character rigging)}}
+|-
+|colspan="2"| Chris Sanders
+|-
+!rowspan="2" scope="row"| ''[[Dog Man (film)|Dog Man]]''
+|rowspan="2"| {{dts|2025|1|31}}
+|rowspan="2"| [[Peter Hastings (director)|Peter Hastings]]
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Dav Pilkey]]}}
+|rowspan="2"| Karen Foster
+|rowspan="2"| [[Tom Howe (musician)|Tom Howe]]
+|rowspan="2"| Scholastic Entertainment<br /><small>(uncredited)</small>
+|rowspan="2"| Jellyfish Pictures<br />Minimo VFX<br />{{small|(rigging services)}}
+|-
+|colspan="2"| Peter Hastings
+|-
+!rowspan="2" scope="row"| ''[[How to Train Your Dragon (2025 film)|How to Train Your Dragon]]''{{efn|name=R}}{{efn|name=Live-action|Live-action production}}{{efn|name=S|Combines live-action with animation}}
+|rowspan="2"| {{dts|2025|6|13}}
+|rowspan="2"| Dean DeBlois
+|colspan="2" {{N/A|<small>''Based on<br />How to Train Your Dragon by:''</small><br />Chris Sanders<br />Dean DeBlois<br />William Davies}}
+|rowspan="2"| [[Marc Platt (producer)|Marc Platt]]<br />Adam Siegel
+|rowspan="2" style="text-align:center;"| John Powell
+|rowspan="2" style="text-align:center;"| [[Marc Platt Productions]]
+|rowspan="2" style="text-align:center;"| Framestore<br />{{small|(visual effects)}}
+|-
+|colspan="2"| Dean DeBlois
+|-
+!rowspan="2" scope="row"| ''[[The Bad Guys 2]]''
+|rowspan="2"| {{dts|2025|8|1}}
+|rowspan="2"| Pierre Perifel<hr>{{small|''Co-director:''}}<br />JP Sans
+|colspan="2" {{N/A|<small>''Based on the books by:''</small><br />[[Aaron Blabey]]}}
+|rowspan="2"| Damon Ross
+|rowspan="2"| Daniel Pemberton
+|rowspan="5" {{N/A}}
+|rowspan="2"| DWA Glendale<br />[[Sony Pictures Imageworks]]
+|-
+|colspan="2"| Yoni Brenner<br />[[Etan Cohen]]
+|-
+!rowspan="2" scope="row"| ''[[Gabby's Dollhouse: The Movie]]''{{efn|name=S|Combines live-action with animation}}
+|rowspan="2"| {{dts|2025|9|26}}
+|rowspan="2"| Ryan Crego
+|colspan="2" {{N/A|<small>''Based on the television series by:''</small><br />[[Traci Paige Johnson]]<br />Jennifer Twomey}}
+|rowspan="2"| Steven Schweickart
+|rowspan="2"| Stephanie Economou
+|rowspan="2" style="text-align:center;"| [[Wang Film Productions|CGCG Inc.]]<br />[[Assemblage Entertainment]]<br />FX3X<br />{{small|(visual effects)}}
+|-
+| Ryan Crego
+| Mike Lew<br />Rehana Lew Mirza<br />Adam Wilson<br />Melanie Wilson LaBracio
+|-
+!scope="row"| ''[[Forgotten Island]]''
+| {{dts|2026|9|25}}
+|colspan="3"| Joel Crawford<br />Januel Mercado
+| Mark Swift
+| [[Nathan Matthew David]]
+| DWA Glendale<br />[[Snipple Animation|Snipple Animation Studios]]<br />{{small|(2D sequences only)}}<br />Sony Pictures Imageworks
+|}
+
+===Upcoming===
+<div style= "overflow-x:auto;">
+{|class="wikitable sortable plainrowheaders" style="text-align: center; margin=auto; width:100%;"
+|-
+!rowspan="2"| Film
+!rowspan="2"| Release date
+!rowspan="2"| Director(s)
+!colspan="2"| Writer(s)
+!rowspan="2"| Producer(s)
+!rowspan="2"| Composer(s)
+!rowspan="2"| Distributor
+!rowspan="2"| Co-production with
+!rowspan="2"| Animation/production service(s)
+!rowspan="2"| Production status
+!rowspan="2" width="45" class="unsortable" | {{abbr|Ref(s)|References}}
+|-
+! Story
+! Screenplay
+|-
+!scope="row"| ''[[CoComelon: The Movie]]''{{efn|name=R}}
+| {{dts|2027|2|19}}
+| Kathleen Thorson Good
+|colspan="2"| Adam Pava
+|colspan="2" {{TBA}}
+|rowspan="8"| Universal Pictures
+| [[Moonbug Entertainment]]<br />Flywheel Media<br />[[DNEG|Prime Focus Studios]]
+| [[DNEG Animation]]
+|In production
+| <ref>{{Cite web |last=Grobar |first=Matt |date=May 13, 2025 |title=Theatrical 'CoComelon' Movie In Works For Release By Universal |url=https://deadline.com/2025/05/cocomelon-movie-in-works-moonbug-entertainment-flywheel-media-1236395436/ |access-date=May 13, 2025 |website=[[Deadline Hollywood]]}}</ref><ref>{{cite web |title=CoComelon The Movie - Prime Focus Studios |url=https://www.primefocusstudios.com/projects/cocomelon |access-date=2 October 2025}}</ref>
+|-
+!rowspan="2" scope="row"| ''[[How to Train Your Dragon 2 (2027 film)|How To Train Your Dragon 2]]''{{efn|name=R}}{{efn|name=Live-action}}{{efn|name=S|Combines live-action with animation}}
+|rowspan="2"| {{dts|2027|6|11}}
+|rowspan="2"| Dean DeBlois
+|colspan="2" {{N/A|<small>''Based on<br />How to Train Your Dragon by:''</small><br />Chris Sanders<br />Dean DeBlois<br />William Davies}}
+|rowspan="2"| Marc Platt<br />Dean DeBlois<br />Adam Siegel
+|rowspan="4" style="text-align:center;"| John Powell
+|rowspan="2" style="text-align:center;"| Marc Platt Productions
+|rowspan="2" style="text-align:center;"| [[Framestore]]<br />{{small|(visual effects)}}
+|rowspan="2"| Post-production
+|rowspan="2"| <ref>{{Cite web |last=Graves |first=Sabina |date=2025-04-02 |title=A How to Train Your Dragon Live-Action Sequel Is Already on the Way |url=https://gizmodo.com/a-how-to-train-your-dragon-live-action-sequel-is-already-on-the-way-2000584479 |access-date=2025-04-02 |website=Gizmodo |language=en-US}}</ref>
+|-
+|colspan="2"| Dean DeBlois
+|-
+!rowspan="2" scope="row"| ''[[Shrek 5]]''
+|rowspan="2"| {{dts|2027|6|30}}
+|rowspan="2"| Conrad Vernon<br />Walt Dohrn<hr>{{small|''Co-director:''}}<br />Brad Ableson
+|colspan="2" {{N/A|<small>''Based on the book by:''</small><br />[[William Steig]]}}
+|rowspan="2"| [[Chris Meledandri]]<br />Gina Shay
+|rowspan="5" {{N/A}}
+|rowspan="5" {{TBA}}
+|rowspan="2"| In production
+|rowspan="2"| <ref>{{cite magazine|last=Lang|first=Brett|date=November 6, 2018|title='Shrek', 'Puss in Boots' Getting Rebooted (Exclusive)|magazine=Variety|url=https://variety.com/2018/film/news/shrek-puss-in-boots-reboot-1203020785/|access-date=November 6, 2018}}</ref><ref>{{cite news|last=Lang|first=Brent|date=April 4, 2023|title='Shrek 5' With Original Cast, Donkey Spinoff With Eddie Murphy, 'Sing 3' and More Teased by Illumination's Chris Meledandri (Exclusive)|publisher=Variety|url=https://variety.com/2023/film/news/shrek-5-donkey-spinoff-secret-life-of-pets-sing-sequels-1235571967/|access-date=April 4, 2023}}</ref><ref name="MurphysStatement"/><ref>{{Cite web |last1=Sharf |first1=Zack |last2=Shanfeld |first2=Ethan |date=2024-07-09 |title='Shrek 5' Set for July 2026 With Mike Myers, Eddie Murphy and Cameron Diaz Returning |url=https://variety.com/2024/film/news/shrek-5-release-date-cast-mike-myers-eddie-murphy-cameron-diaz-1235242895/ |access-date=2024-07-09 |website=Variety |language=en-US}}</ref><ref>{{Cite web |last=D'Alessandro |first=Anthony |date=January 10, 2025 |title=Universal Delays ''Shrek 5'', Moves Up ''Minions 3'' & More |url=https://deadline.com/2025/01/shrek-5-minions-3-release-dates-1236254122/ |url-status=live |archive-url=https://web.archive.org/web/20250111053845/https://deadline.com/2025/01/shrek-5-minions-3-release-dates-1236254122/ |archive-date=January 11, 2025 |access-date=January 11, 2025 |website=[[Deadline Hollywood]]}}</ref><ref name="Shrek5DelayedTo2027">{{Cite web |last=D'Alessandro |first=Anthony |date=2025-08-11 |title='Shrek 5' Moves To Summer 2027, Untitled Illumination Event Pic Going Earlier |url=https://deadline.com/2025/08/shrek-5-release-date-1236483891/ |access-date=2025-08-11 |website=Deadline |language=en-US}}</ref>
+|-
+|colspan="2"| Michael McCullers
+|-
+!scope="row"| Untitled film
+| {{dts|2027|9|24}}
+|colspan="4" {{TBA}}
+|rowspan="3" {{TBA}}
+|rowspan="3"| In development
+| <ref>{{cite web|url=https://deadline.com/2025/09/miami-vice-joseph-kosinski-release-date-1236547102/|title=Universal Dates Joseph Kosinski's 'Miami Vice' For Late Summer 2027|last=D'Alessandro|first=Anthony|website=[[Deadline Hollywood|Deadline]]|date=September 17, 2025}}</ref>
+|-
+!scope="row"| ''[[Shrek (franchise)#Donkey (2028)|Donkey]]'' 
+| {{dts|2028|6|30}}
+| [[Charlie Bean (filmmaker)|Charlie Bean]]<hr>{{small|''Co-director:''}}<br />Matt Flynn
+|colspan="2" {{TBA}}
+| Rebecca Huntley
+|<ref>{{Cite web|last=Lang|first=Brent|date=April 4, 2023|title='Shrek 5' With Original Cast, Donkey Spinoff With Eddie Murphy, 'Sing 3' and More Teased by Illumination's Chris Meledandri (Exclusive)|website=[[Variety (magazine)|Variety]]|url=https://variety.com/2023/film/news/shrek-5-donkey-spinoff-secret-life-of-pets-sing-sequels-1235571967/|access-date=April 4, 2023}}</ref><ref name="MurphysStatement">{{Cite web |first=Chris |last=McPherson |url=https://collider.com/shrek-5-update-donkey-movie-eddie-murphy/ |title=Eddie Murphy Finally Delivers Huge Update on 'Shrek 5' and 'Donkey' Spin-Off Movie [Exclusive] |date=June 24, 2024 |accessdate=June 24, 2024 |website=[[Collider (website)|Collider]]}}</ref><ref>{{cite web|last=Rubin|first=Rebecca|date=June 25, 2026|title=‘Shrek’ Spinoff ‘Donkey’ Sets 2028 Release Date|website=[[Variety (magazine)|Variety]]|url=https://variety.com/2026/film/news/donkey-shrek-spinoff-movie-release-date-eddie-murphy-1236790721/|access-date=June 25, 2026}}</ref>
+|-
+!scope="row"| Untitled film
+| {{dts|2028|9|22}}
+|colspan="4" {{TBA}}
+| <ref name="Miami">{{cite web|url=https://deadline.com/2025/09/miami-vice-joseph-kosinski-release-date-1236547102/|title=Universal Dates Joseph Kosinski's 'Miami Vice' For Late Summer 2027|last=D'Alessandro|first=Anthony|website=[[Deadline Hollywood|Deadline]]|date=September 17, 2025}}</ref>
+|}</div>
+
+=== In development ===
+{| class="wikitable sortable" style="width:100%;"
+|-
+! Title
+! Notes
+|-
+| [[Madagascar (franchise)#Untitled fourth Madagascar film (TBA)|Untitled fourth main ''Madagascar'' film]]|| <ref>{{Cite web|url=https://www.heyuguys.com/madagascar-4-is-in-the-works/|title=Exclusive: Director Tom McGrath confirms Madagascar 4 is in the works|date=April 4, 2017}}</ref>
+|-
+| Untitled [[Lil Dicky]] film || <ref>{{cite web|url=https://www.hollywoodreporter.com/movies/movie-news/lil-dicky-movie-dave-burd-dreamworks-animation-1236433914/|title=Lil Dicky Heads to Big Screen: Dave Burd's Animated Movie in the Works at DreamWorks (Exclusive)|date=November 24, 2025|access-date=November 24, 2025|first=Ryan|last=Gajewski|work=The Hollywood Reporter}}</ref>
+|-
+| ''[[Kung Fu Panda 5]]'' || <ref>{{Cite web|last=Williams|first=Sophie|date=2024-12-28|title='Kung Fu Panda 5' Officially In the Works at DreamWorks Animation|url=https://maxblizz.com/kung-fu-panda-5-officially-in-the-works-at-dreamworks-animation/|access-date=2025-01-13|website=Maxblizz|language=en-US}}</ref>
+|-
+| [[The Wild Robot#Sequel|''The Wild Robot Escapes'']] ||<ref>{{Cite news |last1=Goodfellow |first1=Melanie |last2=Ntim |first2=Zac |date=October 12, 2024|title='The Wild Robot' Sequel In The Works At DreamWorks With Director Chris Sanders |url=https://deadline.com/2024/10/the-wild-robot-sequel-dreamworks-chris-sanders-dreamworks-animation-1236114190/}}</ref><ref>{{Cite web |last=Taylor |first=Drew |date=2026-03-05 |title='The Wild Robot Escapes': DreamWorks Animation Taps Troy Quane to Direct, Heidi Jo Gilbert to Co-Direct Sequel {{!}} Exclusive |url=https://www.thewrap.com/creative-content/movies/the-wild-robot-escapes-first-details-dreamworks/ |access-date=2026-03-05 |website=TheWrap |language=en-US}}</ref>
+|-
+| [[The Boss Baby: Family Business#Future|Untitled third ''Boss Baby'' film]] || <ref>{{Cite web |title=Q: @Dreamworks #AskAlecandAmy Is a third part coming? - @OneOfMarci A |url=https://twitter.com/dreamworks/status/1407056411515883526|access-date=March 23, 2023|website=Twitter |language=en}}</ref>
+|-
+| Untitled ''Dog Man'' sequel || <ref>[https://www.licenseglobal.com/streaming-tv/-dog-man-apparel-cards-and-calendars-coming-to-u-k-market/ "''Dog Man'' Apparel, Cards and Calendars Coming to U.K. Market"]. ''License Global''. June 18, 2025. Retrieved August 12, 2025.</ref>
+|-
+| [[The Bad Guys 2#Future|Untitled third ''The Bad Guys'' film]] || <ref>Jones, Tamera; Weintraub, Steven (June 17, 2025). "[https://collider.com/the-bad-guys-2-3-sequel-directors-pierre-perifel-jp-sans-animation-action-scenes/ "We're Not Very Subtle": 'The Bad Guys 2' Directors Reveal a Dig at Elon Musk and Admit They're Totally One-Upping Tom Cruise"]. ''[[Collider (website)|Collider]]''. [https://web.archive.org/web/20250617231843/https://collider.com/the-bad-guys-2-3-sequel-directors-pierre-perifel-jp-sans-animation-action-scenes/ Archived] from the original on June 17, 2025. Retrieved July 5, 2025.</ref>
+|}
+
+==Television specials==
+{| class="wikitable sortable" style="text-align: center;"
+|-
+! Title
+! Release date
+! Director(s)
+! Distribution/co-production with
+! Network
+|-
+|style="text-align:left;"| ''[[Shrek the Halls]]'' || {{dts|2007|11|28}} ||style="text-align:center;"| [[Gary Trousdale]] ||style="text-align:center;"| [[Pacific Data Images|PDI/DreamWorks]] ||style="text-align:center;"| [[American Broadcasting Company|ABC]]
+|-
+|style="text-align:left;"| ''[[Monsters vs. Aliens: Mutant Pumpkins from Outer Space]]'' ||  {{dts|2009|10|28}} ||style="text-align:center;"| Peter Ramsey ||style="text-align:center;"| [[NBCUniversal Television Distribution]] ||rowspan="4" style="text-align:center;"|[[NBC]]
+|-
+|style="text-align:left;"| ''[[Merry Madagascar]]'' || {{dts|2009|11|17}} ||style="text-align:center;"| David Soren ||rowspan="2" style="text-align:center;"|NBCUniversal Television Distribution<br />[[Pacific Data Images]]
+|-
+|style="text-align:left;"| ''[[Scared Shrekless]]'' || {{dts|2010|10|28}} ||style="text-align:center;"| Gary Trousdale<br />Raman Hui
+|-
+|style="text-align:left;"| ''[[Kung Fu Panda Holiday]]'' || {{dts|2010|11|24}} ||style="text-align:center;"| Tim Johnson ||style="text-align:center;"| NBCUniversal Television Distribution
+|-
+|style="text-align:left;"| ''[[Gift of the Night Fury|Dragons: Gift of the Night Fury]]'' || {{dts|2011|11|15}} ||style="text-align:center;"| Tom Owens ||style="text-align:center;"| [[Paramount Home Media Distribution|Paramount Home Entertainment]] ||rowspan="2" style="text-align:center;"| Direct-to-video
+|-
+|style="text-align:left;"| ''[[Madly Madagascar]]'' || {{dts|2013|1|29}} ||style="text-align:center;"| David Soren ||style="text-align:center;"| [[20th Century Fox Home Entertainment]]<br />Pacific Data Images
+|-
+|style="text-align:left;"| ''[[Trolls Holiday]]'' || {{dts|2017|11|24}} ||style="text-align:center;"| Joel Crawford ||style="text-align:center;"| NBCUniversal Television Distribution ||rowspan="3" style="text-align:center;"| NBC
+|-
+|style="text-align:left;"| ''[[How to Train Your Dragon: Homecoming]]'' || {{dts|2019|12|3}} ||style="text-align:center;"| Tim Johnson ||style="text-align:center;"| NBCUniversal Television Distribution<Br>[[Jellyfish Pictures]]<br />Minimo VFX
+|-
+|style="text-align:left;"| ''[[Trolls: Holiday in Harmony]]'' || {{dts|2021|11|26}} ||style="text-align:center;"| Sean Charmatz<br />Tim Heitz ||style="text-align:center;"| NBCUniversal Television Distribution
+|}
+
+==Short films==
+{| class="wikitable sortable mw-collapsible"
+|-
+!width="330" | Title
+!width="120" | Release date
+!width="120" | Distribution/co-production with
+!width="120" | Release with
+!width="120" | Notes
+|-
+| ''[[Shrek (franchise)#Shrek in the Swamp Karaoke Dance Party (2001)|Shrek in the Swamp Karaoke Dance Party]]'' ||style="text-align:center;"| {{dts|2001|11|2}} ||style="text-align:center;"|[[DreamWorks Pictures|DreamWorks Home Entertainment]]<br />[[Pacific Data Images|PDI/DreamWorks]] ||''[[Shrek]]'' || Home video release
+|-
+| ''[[Shrek 4-D|Shrek 4-D/The Ghost of Lord Farquaad]]'' ||style="text-align:center;"| {{dts|2003|5|22}} ||style="text-align:center;"|[[Universal Parks & Resorts]] (parks)<br />DreamWorks Home Entertainment (DVD)<br />PDI/DreamWorks ||colspan="2"| Theme park ride at [[Universal Studios Hollywood]]
+|-
+| ''[[Sinbad: Legend of the Seven Seas#Cyclops Island|Cyclops Island]] ''||style="text-align:center;"| {{dts|2003|11|18}} ||style="text-align:center;"| DreamWorks Home Entertainment || ''[[Sinbad: Legend of the Seven Seas]]'' ||rowspan="3"| Home video release
+|-
+| ''[[Shrek 2#Far Far Away Idol|Far Far Away Idol]]'' ||style="text-align:center;"| {{dts|2004|11|5}} ||style="text-align:center;"| DreamWorks Home Entertainment<br />PDI/DreamWorks ||''[[Shrek 2]]''
+|-
+| ''[[Shark Tale#Home media|Club Oscar]]'' ||style="text-align:center;"| {{dts|2005|2|8}} ||style="text-align:center;"| DreamWorks Home Entertainment || ''[[Shark Tale]]''
+|-
+| ''[[The Madagascar Penguins in a Christmas Caper]]'' ||style="text-align:center;"| {{dts|2005|10|7}} ||style="text-align:center;"| [[DreamWorks Pictures]]<br />PDI/DreamWorks ||''[[Wallace & Gromit: The Curse of the Were-Rabbit]]'' ||rowspan="2"| Theatrical release
+|-
+| ''[[First Flight (film)|First Flight]]'' ||style="text-align:center;"| {{dts|2006|5|19}} ||style="text-align:center;"|[[Paramount Pictures]] ||rowspan="2"| ''[[Over the Hedge]]''
+|-
+| ''[[Hammy's Boomerang Adventure]]'' ||style="text-align:center;"| {{dts|2006|10|17}} ||style="text-align:center;"|[[Paramount Home Entertainment]]||rowspan="12" | Home video release
+|-
+| ''[[Secrets of the Furious Five]]'' ||style="text-align:center;"| {{dts|2008|11|9}} ||style="text-align:center;"| Paramount Home Entertainment<br />[[Reel FX Creative Studios]]<br />[[Film Roman]] || ''[[Kung Fu Panda]]''
+|-
+| ''[[Monsters vs. Aliens (franchise)#B.O.B.'s Big Break (2009)|B.O.B.'s Big Break]]'' ||style="text-align:center;"| {{dts|2009|9|29}} ||style="text-align:center;"| Paramount Home Entertainment || ''[[Monsters vs. Aliens]]''
+|-
+| ''[[Legend of the Boneknapper Dragon]]'' ||style="text-align:center;"| {{dts|2010|10|15}} ||style="text-align:center;"| Paramount Home Entertainment<br />Duncan Studio ([[Traditional animation|2D]] sequences) || ''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|-
+| ''[[Shrek (franchise)#Donkey's Caroling Christmas-tacular (2010)|Donkey's Caroling Christmas-tacular]]'' ||style="text-align:center;"| {{dts|2010|12|7}} ||style="text-align:center;"| Paramount Home Entertainment ||''[[Shrek Forever After]]''
+|-
+| ''[[Megamind: The Button of Doom]]'' ||style="text-align:center;"| {{dts|2011|2|25}} ||style="text-align:center;"| Paramount Home Entertainment<br />Pacific Data Images ||''[[Megamind]]''
+|-
+| ''[[Shrek (franchise)#Thriller Night (2011)|Thriller Night]]'' ||style="text-align:center;"| {{dts|2011|9|13}} ||rowspan="3" style="text-align:center;"| Paramount Home Entertainment ||rowspan="3"| ''[[Scared Shrekless]]''
+|-
+| ''[[Shrek (franchise)#The Pig Who Cried Werewolf (2011)|The Pig Who Cried Werewolf]]'' ||style="text-align:center;"| {{dts|2011|10|3}}
+|-
+| ''[[Night of the Living Carrots]]'' ||style="text-align:center;"| {{dts|2011|10|12}}
+|-
+| ''[[Book of Dragons]]'' ||style="text-align:center;"| {{dts|2011|11|15}} ||style="text-align:center;"| Paramount Home Entertainment<br />[[Renegade Animation]] || ''[[Gift of the Night Fury|Dragons: Gift of the Night Fury]]''
+|-
+| ''[[Kung Fu Panda: Secrets of the Masters]]'' ||style="text-align:center;"| {{dts|2011|12|13}} ||style="text-align:center;"| Paramount Home Entertainment<br />Duncan Studio || ''[[Kung Fu Panda 2]]''
+|-
+| ''[[Puss in Boots: The Three Diablos]]'' ||style="text-align:center;"| {{dts|2012|2|24}} ||style="text-align:center;"| Paramount Home Entertainment || ''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|-
+| ''[[Home (2015 film)#Release|Almost Home]]'' ||style="text-align:center;"| {{dts|2014|3|7}} ||style="text-align:center;"|[[20th Century Fox]]||rowspan="2"|''[[Mr. Peabody & Sherman]]'' || Theatrical release
+|-
+| ''[[Rocky & Bullwinkle (2014 film)|Rocky and Bullwinkle]]'' ||style="text-align:center;"| {{dts|2014|10|14}} ||style="text-align:center;"|[[20th Century Fox Home Entertainment]]<br />Pacific Data Images<br />[[Jay Ward Productions|Bullwinkle Studios]] ||rowspan="4"| Home video release
+|-
+| ''[[Dawn of the Dragon Racers]]'' ||style="text-align:center;"| {{dts|2014|11|11}} ||style="text-align:center;"| 20th Century Fox Home Entertainment || ''[[How to Train Your Dragon 2]]''
+|-
+| ''[[Kung Fu Panda: Secrets of the Scroll]]'' ||style="text-align:center;"| {{dts|2015|12|14}} ||style="text-align:center;"| 20th Century Fox Home Entertainment<br />[[Yowza! Animation]] || ''[[Kung Fu Panda]]''
+|-
+| ''[[Kung Fu Panda (franchise)#Panda Paws (2016)|Panda Paws]]'' ||style="text-align:center;"| {{dts|2016|05|15}} ||style="text-align:center;"| 20th Century Fox Home Entertainment || ''[[Kung Fu Panda 3]]''
+|-
+| ''Kung Fu Panda: Unstoppable Awesomeness'' ||style="text-align:center;"| {{dts|2016|12|15}} || {{N/A}} ||colspan="1" | Theme park ride at [[Motiongate Dubai|Motiongate]] || Short was edited and re-used in [[DreamWorks Theatre]]
+|-
+| ''[[The Boss Baby#Home media|The Boss Baby and Tim's Treasure Hunt Through Time]]'' ||style="text-align:center;"| {{dts|2017|7|4}} ||style="text-align:center;"| 20th Century Fox Home Entertainment ||rowspan="2"|''[[The Boss Baby]]'' || Home video release
+|-
+| ''[[Bird Karma]]'' ||style="text-align:center;"| February 23, 2018 ||rowspan="4" style="text-align:center;"| [[Universal Pictures]] || Theatrical release (Japan only)
+|-
+| ''[[DreamWorks Theatre|Kung Fu Panda: The Emperor's Quest]]'' ||style="text-align:center;"| {{dts|2018|6|15}} ||colspan="2"|Theme park ride at [[Universal Studios Hollywood]]
+|-
+| ''[[Bilby (film)|Bilby]]'' ||style="text-align:center;"| {{dts|2018|6|16}} || Screened at the [[Annecy International Animation Film Festival]]|| Theatrical release
+|-
+| ''[[Abominable (2019 film)#Home media|Marooned]]''||style="text-align:center;"| {{dts|2019|9|27}} ||rowspan="2"| Included in physical releases of ''[[Abominable (2019 film)|Abominable]]'' ||rowspan="3"| Home video release
+|-
+| ''Show and Tell''||style="text-align:center;"| {{dts|2019|12|17}} ||style="text-align:center;"| [[Universal Pictures Home Entertainment]]<br />[[Pearl Studio]]
+|-
+| ''Tiny Diamond Goes Back to School''||style="text-align:center;"| {{dts|2020|7|7}} ||style="text-align:center;"| [[Universal Pictures Home Entertainment]] || Included in physical releases of ''[[Trolls World Tour]]''
+|-
+| ''To: Gerard''||style="text-align:center;"| {{dts|2020|12|17}} ||style="text-align:center;"| Universal Pictures
+|rowspan="3"| Included in physical releases of ''[[The Croods: A New Age]]'' || Home video release/[[Peacock (streaming service)|Peacock]]
+|-
+| ''Family Movie Night: Little Red Bronana Bread''||rowspan="2" style="text-align:center;"| {{dts|2021|2|23}} ||rowspan="7" style="text-align:center;"| Universal Pictures Home Entertainment ||rowspan="7" | Home video release
+|-
+| ''Dear Diary: World's First Pranks''
+|-
+| ''Precious Templeton: A Pony Tale'' ||style="text-align:center;"| {{dts|2021|9|14}} || Included in physical releases of ''[[The Boss Baby: Family Business]]''
+|-
+| ''The Bad Guys in Maraschino Ruby'' ||style="text-align:center;"| {{dts|2022|6|21}} || Included in physical releases of ''[[The Bad Guys (film)|The Bad Guys]]''
+|-
+| ''Puss in Boots: The Trident'' ||style="text-align:center;"| {{dts|2023|2|28}} || Included in physical releases of ''[[Puss in Boots: The Last Wish]]''
+|-
+| ''It Takes Three'' ||style="text-align:center;"| {{dts|2024|1|16}} || Included in physical releases of ''[[Trolls Band Together]]''
+|-
+| ''Dueling Dumplings'' ||style="text-align:center;"| {{dts|2024|4|9}} || Included in physical releases of ''[[Kung Fu Panda 4]]''
+|-
+| ''The Bad Guys: Little Lies and Alibis'' ||style="text-align:center;"| {{dts|2025|1|31}} ||rowspan="2" style="text-align:center;"|Universal Pictures || ''[[Dog Man (film)|Dog Man]]''; Later included in physical releases of ''[[The Bad Guys 2]]'' ||rowspan="2"| Theatrical release
+|-
+| ''Wednesdays with Gramps'' ||style="text-align: center;"| {{dts|2025|6|15}} || Screened at the [[American Black Film Festival]]
+|}
+:{{note label|AMCTheaters|AMC}} The films that were screened as part of DreamWorks Animation Week were: ''[[Shrek]]'', ''[[Madagascar (2005 film)|Madagascar]]'', ''[[Kung Fu Panda]]'', ''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]'', ''[[The Croods]]'', and ''[[Trolls (film)|Trolls]]''.<ref name="AMCDWA">{{cite web|url=https://www.amctheatres.com/amc-scene/movies-coming-back-for-dreamworks-animation-week|title=Movies Coming Back for DreamWorks Animation Week|website=[[AMC Theatres]]|archive-url=https://web.archive.org/web/20190901065452/https://www.amctheatres.com/amc-scene/movies-coming-back-for-dreamworks-animation-week|archive-date=September 1, 2019|access-date=September 19, 2019}}</ref>
+
+==Television series==
+{{Main|DreamWorks Animation Television#Television series}}
+
+==Related productions==
+{| class="wikitable sortable" style="text-align:center;"
+|-
+!rowspan="2"| Title
+!rowspan="2"| Release date
+!rowspan="2"| Director(s)
+!colspan="2"| Writer(s)
+!rowspan="2"| Producer(s)
+!rowspan="2"| Composer(s)
+!rowspan="2"| Studio(s)
+!rowspan="2"| Animation/production service(s)
+!rowspan="2"| Notes
+|-
+! Story
+! Screenplay
+|-
+|style="text-align:left;" | ''[[CyberWorld]]''
+| {{dts|2000|10|6}}
+|style="text-align:center;"| 	Colin Davies<br />Elaine Despins
+| Hugh Murray<br />Todd Alcott<br />{{small|Additional story work:}}<br />Mark Smith
+| [[Charlie Rubin]]<br />[[Steve Hoban]]<br />Jimmy Savile<br />Hugh Murray
+| Steve Hoban<br />Hugh Murray
+| [[Paul Haslinger]]<br />[[Hummie Mann]]
+| 20th Century Fox<br />[[IMAX Corporation]]<br />[[Intel]]<br />EyeTide Media<br />ZeoCast<br />[[Sandde|IMAX Sandde Animation]]<br />Spin Entertainment<br />[[Consolidated Film Industries]]<br />[[Pacific Data Images]] {{small|(''Antz'' and ''Homer³'' segment)}}
+| [[Pacific Data Images]] {{small|(''Antz'' and ''Homer³'' segment)}}
+| {{N/A}}
+|-
+|style="text-align:left;" rowspan="2"| ''[[Trollhunters: Rise of the Titans]]''
+|rowspan="2"| {{dts|2021|7|21}}
+|style="text-align:center;" rowspan="2"| Johane Matte<br />Francisco Ruiz Velasco<br />Andrew Schmidt
+|colspan="2" {{N/A|<small>''Based on the characters by:''</small><br />Guillermo del Toro<br />[[Daniel Kraus (author)|Daniel Kraus]]}}
+|rowspan="2"| Guillermo del Toro<br />Chad Hammes<br />Marc Guggenheim<br />Dan Hageman<br />Kevin Hageman
+|style="text-align:center;" rowspan="2"| [[Jeff Danna]]
+|style="text-align:center;" rowspan="2"| Netflix<br />[[DreamWorks Animation Television]]<br />[[Double Dare You|Double Dare You Productions]]
+|style="text-align:center;" rowspan="2"| 88 Pictures<br />[[Wang Film Productions|CGCG Inc.]]<br />Original Force
+|style="text-align:left;" rowspan="2"| Television film that serves as the conclusion to the ''[[Tales of Arcadia]]'' franchise.
+|-
+|colspan="2"| Guillermo del Toro<br />[[Marc Guggenheim]]<br />Dan Hageman<br />Kevin Hageman
+|-
+|style="text-align:left;" | ''[[Chicken Run: Dawn of the Nugget]]''
+| {{dts|2023|12|15}}
+|style="text-align:center;"| [[Sam Fell]]
+| Karey Kirkpatrick<br />[[John O'Farrell (author)|John O'Farrell]]
+| Karey Kirkpatrick<br />John O'Farrell<br />Rachel Tunnard
+| Steve Pegram<br />Leyla Hobart
+|style="text-align:center;"| Harry Gregson-Williams
+| Netflix<br />Aardman Animations
+| {{N/A}}
+|style="text-align:left;" | Feature film sequel to ''Chicken Run''.
+|-
+|style="text-align:left;" | ''[[Megamind vs. the Doom Syndicate]]''
+| {{dts|2024|3|1}}
+|style="text-align:center;"| [[Eric Fogel]]
+|style="text-align:center;" colspan="2"| Alan Schoolcraft<br />Brent Simons
+| {{N/A}}
+|style="text-align:center;"| Matthew Janszen<br />Bryan Winslow
+|style="text-align:center;"|[[Peacock (streaming service)|Peacock]]<br />DreamWorks Animation Television
+|style="text-align:center;"| 88 Pictures<br />Doberman Pictures
+|style="text-align:left;" | Television film sequel to ''Megamind''.
+|-
+|style="text-align:left;" | ''[[Wallace & Gromit: Vengeance Most Fowl]]''
+| {{dts|2024|12|25}}
+| [[Nick Park]]<br />Merlin Crossingham
+| [[Mark Burton (filmmaker)|Mark Burton]]<br />Nick Park
+| Mark Burton
+| Richard Beek
+| [[Lorne Balfe]]<br />[[Julian Nott]]
+| [[BBC]]<br />Netflix<br />Aardman Animations
+| {{N/A}}
+|style="text-align:left;" | Feature film sequel to ''Wallace & Gromit: The Curse of the Were-Rabbit''.
+|}
+
+== Miscellaneous work ==
+* [[74th Academy Awards]] (2002) (Animation for the characters of [[Shrek (character)|Shrek]] and [[Donkey (Shrek)|Donkey]] in the audience during the award for [[Academy Award for Best Animated Feature|Best Animated Feature]])
+
+==Unproduced projects==
+{{Main|List of unproduced DreamWorks Animation projects}}
+
+==Reception==
+===Box office grosses===
+{| class="sortable wikitable" style="text-align: right;"
+!rowspan="2" width="300" |Film
+!rowspan="2" width="95" |Budget
+!colspan="2"|North America
+!rowspan="2"|Overseas<br />gross
+!rowspan="2" width="95" |Worldwide gross<br />(unadjusted)
+!rowspan="2"|Ref(s)
+|-
+!width="95" |Opening
+!width="95" |Gross<br />(unadjusted)
+|-
+|style="text-align:left;" |''Antz''
+|$42–105&nbsp;million
+|$17,195,160
+|$90,757,863
+|$81,000,000
+|$171,757,863
+|style="text-align:center;"|<ref>{{Cite web|title=Antz|url=https://www.boxofficemojo.com/release/rl2051180033/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Prince of Egypt''
+|$60–100&nbsp;million
+|$14,524,321
+|$101,413,188
+|$117,200,000
+|$218,613,188
+|style="text-align:center;"|<ref>{{Cite web|title=The Prince of Egypt|url=https://www.boxofficemojo.com/release/rl4067132929/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Road to El Dorado''
+|$95&nbsp;million
+|$12,846,652
+|$50,863,742
+|$25,568,985
+|$76,432,727
+|style="text-align:center;"|<ref>{{Cite web|title=The Road to El Dorado|url=https://www.boxofficemojo.com/release/rl1869383169/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Chicken Run''
+|$45&nbsp;million
+|$17,506,162
+|$106,834,564
+|$118,000,000
+|$224,834,564
+|style="text-align:center;"|<ref>{{Cite web|title=Chicken Run|url=https://www.boxofficemojo.com/release/rl1649116673/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Shrek''
+|$60&nbsp;million
+|$42,347,760
+|$268,349,831
+|$220,279,678
+|$488,629,509
+|style="text-align:center;"|<ref>{{Cite web|title=Shrek|url=https://www.boxofficemojo.com/release/rl7439873/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Spirit: Stallion of the Cimarron''
+|$80&nbsp;million
+|$17,770,036
+|$73,280,117
+|$49,283,422
+|$122,563,539
+|style="text-align:center;"|<ref>{{Cite web|title=Spirit: Stallion of the Cimarron|url=https://www.boxofficemojo.com/release/rl410224129/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Sinbad: Legend of the Seven Seas''
+|$60&nbsp;million
+|$6,874,477
+|$26,483,452
+|$54,289,625
+|$80,773,077
+|style="text-align:center;"|<ref>{{Cite web|title=Sinbad: Legend of the Seven Seas|url=https://www.boxofficemojo.com/release/rl2977007105/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Shrek 2''
+|$150&nbsp;million
+|$108,037,878
+|$444,854,717
+|$487,536,387
+|$932,406,549
+|style="text-align:center;"|<ref>{{Cite web|title=Shrek 2|url=https://www.boxofficemojo.com/release/rl24217089/|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Shark Tale''
+|rowspan="2"|$75&nbsp;million
+|$47,604,606
+|$160,861,908
+|$213,721,971
+|$374,583,879
+|style="text-align:center;"|<ref>{{Cite web|title=Shark Tale|url=https://www.boxofficemojo.com/release/rl3933111809/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Madagascar''
+|$47,224,594
+|$193,595,521
+|$348,468,325
+|$542,063,846
+|style="text-align:center;"|<ref>{{Cite web|title=Madagascar|url=https://www.boxofficemojo.com/release/rl1398834689/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Wallace & Gromit: The Curse of the Were-Rabbit''
+|$30&nbsp;million
+|$16,025,987
+|$56,110,897
+|$136,594,394
+|$192,705,291
+|style="text-align:center;"|<ref>{{Cite web|title=Wallace & Gromit: The Curse of the Were-Rabbit|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Over the Hedge''
+|$80&nbsp;million
+|$38,457,003
+|$155,019,340
+|$184,776,550
+|$339,795,890
+|style="text-align:center;"|<ref>{{Cite web|title=Over the Hedge|url=https://www.boxofficemojo.com/release/rl1785300481/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Flushed Away''
+|$149&nbsp;million
+|$18,814,323
+|$64,665,672
+|$113,615,882
+|$178,281,554
+|style="text-align:center;"|<ref>{{Cite web|title=Flushed Away|url=https://www.boxofficemojo.com/release/rl458393089/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Shrek the Third''
+|$160&nbsp;million
+|$121,629,270
+|$322,719,944
+|$485,586,147
+|$813,367,380
+|style="text-align:center;"|<ref>{{Cite web|title=Shrek the Third|url=https://www.boxofficemojo.com/release/rl40994305/|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Bee Movie''
+|$150&nbsp;million
+|$38,021,044
+|$126,631,277
+|$166,883,059
+|$293,514,336
+|style="text-align:center;"|<ref>{{Cite web|title=Bee Movie|url=https://www.boxofficemojo.com/release/rl1984202241/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Kung Fu Panda''
+|$130&nbsp;million
+|$60,239,130
+|$215,434,591
+|$416,309,969
+|$631,744,560
+|style="text-align:center;"|<ref>{{Cite web|title=Kung Fu Panda|url=https://www.boxofficemojo.com/release/rl3562833409/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Madagascar: Escape 2 Africa''
+|$150&nbsp;million
+|$63,106,589
+|$180,010,950
+|$423,889,404
+|$603,900,354
+|style="text-align:center;"|<ref>{{Cite web|title=Madagascar: Escape 2 Africa|url=https://www.boxofficemojo.com/release/rl3562833409/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Monsters vs. Aliens''
+|$175&nbsp;million
+|$59,321,095
+|$198,351,526
+|$183,158,344
+|$381,509,870
+|style="text-align:center;"|<ref>{{Cite web|title=Monsters vs. Aliens|url=https://www.boxofficemojo.com/release/rl224757249/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''How to Train Your Dragon'' (2010)
+|$165&nbsp;million
+|$43,732,319
+|$217,581,231
+|$277,297,528
+|$494,878,759
+|style="text-align:center;"|<ref>{{Cite web|title=How to Train Your Dragon|url=https://www.boxofficemojo.com/release/rl2908259841/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Shrek Forever After''
+|$135–165&nbsp;million
+|$70,838,207
+|$238,736,787
+|$513,864,080
+|$752,600,867
+|style="text-align:center;"|<ref>{{Cite web|title=Shrek Forever After|url=https://www.boxofficemojo.com/release/rl57771521/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Megamind''
+|$130&nbsp;million
+|$46,016,833
+|$148,415,853
+|$173,469,912
+|$321,885,765
+|style="text-align:center;"|<ref>{{Cite web|title=Megamind|url=https://www.boxofficemojo.com/release/rl2455995905/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Kung Fu Panda 2''
+|$150&nbsp;million
+|$47,656,302
+|$165,249,063
+|$500,443,218
+|$665,692,281
+|style="text-align:center;"|<ref>{{Cite web|title=Kung Fu Panda 2|url=https://www.boxofficemojo.com/release/rl3579610625/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Puss in Boots''
+|$130&nbsp;million
+|$34,077,439
+|$149,260,504
+|$405,726,973
+|$554,987,477
+|style="text-align:center;"|<ref>{{Cite web|title=Puss in Boots|url=https://www.boxofficemojo.com/release/rl1214940673/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Madagascar 3: Europe's Most Wanted''
+|rowspan="2"|$145&nbsp;million
+|$60,316,738
+|$216,391,482
+|$530,529,792
+|$746,921,274
+|style="text-align:center;"|<ref>{{Cite web|title=Madagascar 3: Europe's Most Wanted|url=https://www.boxofficemojo.com/release/rl1415611905/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Rise of the Guardians''
+|$23,773,465
+|$103,412,758
+|$203,528,912
+|$306,941,670
+|style="text-align:center;"|<ref>{{Cite web|title=Rise of the Guardians|url=https://www.boxofficemojo.com/release/rl2304214529/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Croods''
+| $135–175&nbsp;million
+|$43,639,736
+|$187,168,425
+|$400,036,243
+|$587,204,668
+|style="text-align:center;"|<ref>{{Cite web|title=The Croods|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Turbo''
+| $127–135&nbsp;million
+|$21,312,625
+|$83,028,128
+|$199,542,554
+|$282,570,682
+|style="text-align:center;"|<ref>{{Cite web|title=Turbo|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Mr. Peabody & Sherman''
+|rowspan="2"| $145&nbsp;million
+|$32,207,057
+|$111,506,430
+|$164,191,609
+|$275,698,039
+|style="text-align:center;"|<ref>{{Cite web|title=Mr. Peabody & Sherman|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''How to Train Your Dragon 2''
+|$49,451,322
+|$177,002,924
+|$444,534,595
+|$621,537,519
+|style="text-align:center;"|<ref>{{Cite web|title=How to Train Your Dragon 2|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Penguins of Madagascar''
+|$132&nbsp;million
+|$25,447,444
+|$83,850,911
+|$289,664,710
+|$373,515,621
+|style="text-align:center;"|<ref>{{Cite web|title=Penguins of Madagascar|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Home''
+|$135&nbsp;million
+|$52,107,731
+|$177,397,510
+|$208,644,097
+|$386,041,607
+|style="text-align:center;"|<ref>{{Cite web |title=Home |url=https://www.boxofficemojo.com/title/tt2224026/ |access-date=2024-03-27 |website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Kung Fu Panda 3''
+|$145&nbsp;million
+|$41,282,042
+|$143,528,619
+|$377,642,206
+|$521,170,825
+|style="text-align:center;"|<ref>{{Cite web|title=Kung Fu Panda 3|url=https://www.boxofficemojo.com/release/rl3782837761/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Trolls''
+|rowspan="2"|$125&nbsp;million
+|$46,581,142
+|$153,707,064
+|$193,157,398
+|$347,013,487
+|style="text-align:center;"|<ref>{{Cite web|title=Trolls|url=https://www.boxofficemojo.com/release/rl3967256065/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Boss Baby''
+|$50,198,902
+|$175,003,033
+|$352,962,903
+|$527,965,936
+|style="text-align:center;"|<ref>{{Cite web|title=The Boss Baby|url=https://www.boxofficemojo.com/title/tt3874544/?ref_=bo_se_r_1|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Captain Underpants: The First Epic Movie''
+|$38&nbsp;million
+|$23,851,539
+|$73,921,000
+|$51,506,681
+|$125,427,681
+|style="text-align:center;"|<ref>{{Cite web|title=Captain Underpants: The First Epic Movie|url=https://www.boxofficemojo.com/release/rl1867023873/|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''How to Train Your Dragon: The Hidden World''
+|$129&nbsp;million
+|$55,022,245
+|$160,799,505
+|$361,000,000
+|$521,799,505
+|style="text-align:center;"|<ref>{{Cite web|title=How to Train Your Dragon: The Hidden World|url=https://www.boxofficemojo.com/release/rl2606269953/|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Abominable''
+|$75&nbsp;million
+|$20,612,100
+|$61,270,390
+|$129,034,382
+|$190,304,772
+|style="text-align:center;"|<ref>{{Cite web|title=Abominable|url=https://www.boxofficemojo.com/release/rl4144072193/|access-date=2025-01-01|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Trolls World Tour''
+|$90–110&nbsp;million
+|colspan="1" {{n/a}}
+|$450,000
+|$48,826,818
+|$49,276,818
+|style="text-align:center;"|<ref>{{Cite web|title=Trolls World Tour|url=https://www.boxofficemojo.com/title/tt6587640/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Croods: A New Age''
+|$65&nbsp;million
+|$9,724,200
+|$58,568,815
+|$157,337,000
+|$215,905,815
+|style="text-align:center;"|<ref>{{Cite web|title=The Croods: A New Age|url=https://www.boxofficemojo.com/release/rl3209528833/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Spirit Untamed''
+|$30&nbsp;million
+|$6,101,050
+|$17,716,215
+|$25,001,000
+|$42,717,215
+|style="text-align:center;"|<ref>{{Cite web|title=Spirit Untamed|url=https://www.boxofficemojo.com/release/rl2450228737/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Boss Baby: Family Business''
+|$82&nbsp;million
+|$16,000,665
+|$57,300,280
+|$89,445,000
+|$146,745,280
+|style="text-align:center;"|<ref>{{Cite web|title=The Boss Baby: Family Business|url=https://www.boxofficemojo.com/release/rl1594066433/|access-date=2022-02-10|website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Bad Guys''
+|$69–80&nbsp;million
+|$23,950,245
+|$97,459,240
+|$152,928,648
+|$250,387,888
+|style="text-align:center;"|<ref>{{Cite Box Office Mojo|id=8115900|title=The Bad Guys (2022)|website=[[Box Office Mojo]]|access-date=July 11, 2022}}</ref>
+|-
+|style="text-align:left;" |''Puss in Boots: The Last Wish''
+|$90–110&nbsp;million
+|$12,429,515
+|$186,090,535
+|$295,667,128
+|$481,757,663
+|style="text-align:center;"|<ref>{{Cite Box Office Mojo|id=3915174|title=Puss in Boots: The Last Wish (2022)|website=[[Box Office Mojo]]|access-date=2023-01-03}}</ref>
+|-
+|style="text-align:left;" |''Ruby Gillman, Teenage Kraken''
+|$70&nbsp;million
+|$5,500,990
+|$15,753,600
+|$29,904,145
+|$45,657,745
+|style="text-align:center;"|<ref>{{Cite web |title=Ruby Gillman, Teenage Kraken |url=https://www.boxofficemojo.com/title/tt27155038/ |access-date=2023-07-10 |website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Trolls Band Together''
+|$95&nbsp;million
+|$30,002,525
+|$102,996,915
+|$106,375,875
+|$209,372,790
+|style="text-align:center;"|<ref>{{Cite web |title=Trolls Band Together |url=https://www.boxofficemojo.com/title/tt14362112/ |access-date=2025-01-01 |website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Kung Fu Panda 4''
+|$85&nbsp;million
+|$57,989,905
+|$193,590,620
+|$354,098,872
+|$547,689,492
+|style="text-align:center;"|<ref>{{Cite web |title=Kung Fu Panda 4 |url=https://www.boxofficemojo.com/title/tt21692408/ |access-date=2025-01-01 |website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''The Wild Robot''
+|$78&nbsp;million
+|$35,790,150
+|$143,182,115
+|$181,109,000
+|$324,291,115
+|style="text-align:center;"|<ref>{{Cite web |title=The Wild Robot |url=https://www.boxofficemojo.com/title/tt29623480/ |access-date=2025-01-01 |website=Box Office Mojo}}</ref>
+|-
+|style="text-align:left;" |''Dog Man''
+|$40&nbsp;million
+|$47,519,946
+|$97,970,355
+|$33,366,528
+|$145,490,301
+|style="text-align:center;"|<ref>{{cite web|title=Dog Man (2025)|website=Box Office Mojo|url=https://www.boxofficemojo.com/release/rl3942942209/|access-date=February 11, 2025}}</ref>
+|-
+|style="text-align:left;" | ''How to Train Your Dragon'' (2025)
+|$150&nbsp;million
+|$84,633,315
+|$224,001,000
+|$292,939,000
+|$516,940,000
+|style="text-align:center;"|<ref>{{Cite web |title=How to Train Your Dragon (2025) - Financial Information |url=https://www.the-numbers.com/movie/How-to-Train-Your-Dragon-(2025) |access-date=June 11, 2025 |website=The Numbers}}</ref>
+|-
+|style="text-align:left;" | ''The Bad Guys 2''
+|$80&nbsp;million
+|$21,995,715
+|$80,388,790
+|$127,611,128
+|$207,999,918
+|style="text-align:center;"|<ref>{{Cite web |title=The Bad Guys 2 (2025) - Financial Information |url=https://www.the-numbers.com/movie/Bad-Guys-2-The-(2025) |access-date=September 24, 2025 |website=The Numbers}}</ref>
+|-
+|style="text-align:left;" | ''Gabby's Dollhouse: The Movie''
+|$32&nbsp;million
+|$13,697,595
+|$32,011,820
+|$48,837,797
+|$80,849,617
+|style="text-align:center;"|<ref>{{Cite The Numbers |title=Gabby's Dollhouse: The Movie (2025) - Box Office and Financial Information |id=Gabbys-Dollhouse-The-Movie-(2025) |access-date=October 5, 2025}}</ref>
+|-
+|style="text-align:left;" | ''Forgotten Island''
+|$80&nbsp;million
+|$13,007,005
+|$35,769,345
+|$27,391,254
+|$63,160,599
+|style="text-align:center;"|<ref>{{Cite web |title=Forgotten Island (2026) - Box Office and Financial Information |url=https://www.the-numbers.com/movie/Forgotten-Island-(2026) |access-date=September 26, 2026 |website=The Numbers |archive-url=https://web.archive.org/web/20260918122913/https://www.the-numbers.com/movie/Forgotten-Island-(2026) |archive-date=September 18, 2026 |url-status=live}}</ref><ref>{{cite web |url=https://variety.com/2026/film/box-office/avengers-endgame-box-office-rerelease-projections-resident-evil-primetime-1236872333/ |title='Avengers: Endgame Encore' Could Top Box Office, Brad Pitt's 'Heart of the Beast' and Robert Pattinson's 'Primetime' Vie for No. 3 |website=Variety |first=Rebecca |last=Rubin |date=September 23, 2026 |access-date=September 25, 2026}}</ref>
+|}
+
+=== Critical and public response ===
+{{Hatnote|Each film is linked to the "Critical response" section of its article}}
+{| class="wikitable plainrowheaders sortable" style="text-align: center;"
+!scope="col" rowspan="2"| Film
+!scope="col" colspan="2"| Critical
+!scope="col" | Public
+|-
+!scope="col" | [[Rotten Tomatoes]]
+!scope="col" | [[Metacritic]]
+!scope="col" | [[CinemaScore]]
+|-
+!scope="row"| ''[[Antz#Critical response|Antz]]''
+| {{RT data|table|qid=Q610502}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q610502}} |title=Antz |type=m |access-date={{RT data|access date|qid=Q610502}}}}{{cbignore}}{{RT data|edit|qid=Q610502}}</ref>
+| 73 (26 reviews)<ref>{{Cite Metacritic |id=antz |title=Antz |type=m |access-date=January 1, 2025}}</ref>
+| {{sort grade|B+}}<ref name="CinemaScore">{{Cite web |title=Cinemascore :: Movie Title Search |url=https://www.cinemascore.com/publicsearch/index/title/ |url-status=dead |archive-url=https://web.archive.org/web/20190809062201/https://www.cinemascore.com/publicsearch/index/title/ |archive-date=August 9, 2019 |access-date=August 9, 2019 |website=[[CinemaScore]]}}</ref>
+|-
+!scope="row"| ''[[The Prince of Egypt#Critical response|The Prince of Egypt]]''
+| {{RT data|table|qid=Q245227}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q245227}} |title=The Prince of Egypt |type=m |access-date={{RT data|access date|qid=Q245227}}}}{{cbignore}}{{RT data|edit|qid=Q245227}}</ref>
+| 64 (26 reviews)<ref>{{Cite Metacritic |id=the-prince-of-egypt |title=The Prince of Egypt |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+!scope="row"| ''[[The Road to El Dorado#Critical response|The Road to El Dorado]]''
+| {{RT data|table|qid=Q866358}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q866358}} |title=The Road to El Dorado |type=m |access-date={{RT data|access date|qid=Q866358}}}}{{cbignore}}{{RT data|edit|qid=Q866358}}</ref>
+| 51 (29 reviews)<ref>{{Cite Metacritic |id=the-road-to-el-dorado |title=The Road to El Dorado |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|B+}}<ref name="CinemaScore" />
+|-
+!scope="row"| ''[[Chicken Run#Critical response|Chicken Run]]''
+| {{RT data|table|qid=Q156401}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q156401}} |title=Chicken Run |type=m |access-date={{RT data|access date|qid=Q156401}}}}{{cbignore}}{{RT data|edit|qid=Q156401}}</ref>
+| 88 (34 reviews)<ref>{{Cite Metacritic |id=chicken-run |title=Chicken Run |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+{{excerpt|Shrek (franchise)|Shrek1Response|hat=no|inline=yes}}
+|-
+{{excerpt|Spirit (franchise)|Spirit1Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Sinbad: Legend of the Seven Seas#Critical response|Sinbad: Legend of the Seven Seas]]''
+| {{RT data|table|qid=Q1043425}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q1043425}} |title=Sinbad: Legend of the Seven Seas |type=m |access-date={{RT data|access date|qid=Q1043425}}}}{{cbignore}}{{RT data|edit|qid=Q1043425}}</ref>
+| 48 (33 reviews)<ref>{{Cite Metacritic |id=sinbad-legend-of-the-seven-seas |title=Sinbad: Legend of the Seven Seas |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+{{excerpt|Shrek (franchise)|Shrek2Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Shark Tale#Critical response|Shark Tale]]''
+| {{RT data|table|qid=Q120367}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q120367}} |title=Shark Tale |type=m |access-date={{RT data|access date|qid=Q120367}}}}{{cbignore}}{{RT data|edit|qid=Q120367}}</ref>
+| 48 (36 reviews)<ref>{{Cite Metacritic |id=shark-tale |title=Shark Tale |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+{{excerpt|Madagascar (franchise)|Response1|hat=no|inline=yes}}
+|-
+{{excerpt|Wallace & Gromit|ResponseWGCWR|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Over the Hedge#Critical response|Over the Hedge]]''
+| {{RT data|table|qid=Q245366}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q245366}} |title=Over the Hedge |type=m |access-date={{RT data|access date|qid=Q245366}}}}{{cbignore}}{{RT data|edit|qid=Q245366}}</ref>
+| 67 (31 reviews)<ref>{{Cite Metacritic |id=over-the-hedge |title=Over the Hedge |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+!scope="row"| ''[[Flushed Away#Critical response|Flushed Away]]''
+| {{RT data|table|qid=Q752301}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q752301}} |title=Flushed Away |type=m |access-date={{RT data|access date|qid=Q752301}}}}{{cbignore}}{{RT data|edit|qid=Q752301}}</ref>
+| 74 (28 reviews)<ref>{{Cite Metacritic |id=flushed-away |title=Flushed Away |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|B+}}<ref name="CinemaScore" />
+|-
+{{excerpt|Shrek (franchise)|Shrek3Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Bee Movie#Critical reception|Bee Movie]]''
+| {{RT data|table|qid=Q275167}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q275167}} |title=Bee Movie |type=m |access-date={{RT data|access date|qid=Q275167}}}}{{cbignore}}{{RT data|edit|qid=Q275167}}</ref>
+| 54 (34 reviews)<ref>{{Cite Metacritic |id=bee-movie |title=Bee Movie |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|B+}}<ref name="CinemaScore" />
+|-
+{{excerpt|Kung Fu Panda|KFP1Response|hat=no|inline=yes}}
+|-
+{{excerpt|Madagascar (franchise)|Response2|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Monsters vs. Aliens#Critical response|Monsters vs. Aliens]]''
+| {{RT data|table|qid=Q681918}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q681918}} |title=Monsters vs. Aliens |type=m |access-date={{RT data|access date|qid=Q681918}}}}{{cbignore}}{{RT data|edit|qid=Q681918}}</ref>
+| 56 (35 reviews)<ref>{{Cite Metacritic |id=monsters-vs-aliens |title=Monsters vs. Aliens |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A−}}<ref>{{cite magazine |last1=Rich |first1=Joshua |title=Box Office Report: 'Monsters vs. Aliens' opens at No. 1 with $58.2 mil |url=https://ew.com/article/2009/03/29/borept-monsters/ |magazine=[[Entertainment Weekly]] |access-date=June 4, 2022 |date=December 20, 2019}}</ref>
+|-
+{{excerpt|How to Train Your Dragon|Dragons1Response|hat=no|inline=yes}}
+|-
+{{excerpt|Shrek (franchise)|Shrek4Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Megamind#Critical response|Megamind]]''
+| {{RT data|table|qid=Q81205}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q81205}} |title=Megamind |type=m |access-date={{RT data|access date|qid=Q81205}}}}{{cbignore}}{{RT data|edit|qid=Q81205}}</ref>
+| 63 (33 reviews)<ref>{{Cite Metacritic |id=megamind |title=Megamind |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A−}}<ref>{{cite web |last1=Finke |first1=Nikki |title=Update: #1 'Megamind', #2 'Due Date', #3 'For Colored Girls' All Meet Expectations; Long Lines And Sell-Outs For '127 Hours' |url=https://deadline.com/2010/11/first-box-office-megamind-underperforming-due-date-right-on-track-for-colored-girls-overperforming-81732/ |website=[[Deadline Hollywood]] |access-date=June 4, 2022 |date=November 7, 2010}}</ref>
+|-
+{{excerpt|Kung Fu Panda|KFP2Response|hat=no|inline=yes}}
+|-
+{{excerpt|Shrek (franchise)|PiB1Response|hat=no|inline=yes}}
+|-
+{{excerpt|Madagascar (franchise)|Response3|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Rise of the Guardians#Critical response|Rise of the Guardians]]''
+| {{RT data|table|qid=Q136625}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q136625}} |title=Rise of the Guardians |type=m |access-date={{RT data|access date|qid=Q136625}}}}{{cbignore}}{{RT data|edit|qid=Q136625}}</ref>
+| 58 (37 reviews)<ref>{{Cite Metacritic |id=rise-of-the-guardians |title=Rise of the Guardians |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref>{{cite magazine |last1=Boucher |first1=Geoff |title='Rise of the Guardians' in a title bout with blue Yodas and a talking squirrel |url=https://ew.com/article/2012/11/26/rise-of-guardians-in-a-title-bout-with-blue-yodas-and-a-talking-squirrel/ |magazine=[[Entertainment Weekly]] |access-date=June 4, 2022 |date=November 26, 2012}}</ref>
+|-
+{{excerpt|The Croods (franchise)|Croods1Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Turbo (2013 film)#Critical response|Turbo]]''
+| {{RT data|table|qid=Q1523217}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q1523217}} |title=Turbo |type=m |access-date={{RT data|access date|qid=Q1523217}}}}{{cbignore}}{{RT data|edit|qid=Q1523217}}</ref>
+| 58 (30 reviews)<ref>{{Cite Metacritic |id=turbo |title=Turbo |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref>{{cite news|last=McClintock|first=Pamela|title=Box Office Report: 'Turbo' Tops Wednesday With $5.6 Mil; 'Despicable Me 2' Close Behind|url=https://www.hollywoodreporter.com/news/box-office-report-turbo-tops-588495|access-date=June 4, 2022|newspaper=The Hollywood Reporter|date=July 18, 2013}}</ref>
+|-
+!scope="row"| ''[[Mr. Peabody & Sherman#Critical response|Mr. Peabody & Sherman]]''
+| {{RT data|table|qid=Q6929072}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q6929072}} |title=Mr. Peabody & Sherman |type=m |access-date={{RT data|access date|qid=Q6929072}}}}{{cbignore}}{{RT data|edit|qid=Q6929072}}</ref>
+| 59 (34 reviews)<ref>{{Cite Metacritic |id=mr-peabody-sherman |title=Mr. Peabody & Sherman |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref>{{cite web|last=Busch|first=Anita|title=Box Office: '300: Rise Of An Empire' Commands $40M+; 'Mr. Peabody' Chases In $30M+; 'Son of God' May Fall 55% Or More In Second Weekend|url=https://deadline.com/2014/03/box-office-300-rise-of-an-empire-commands-40m-mr-peabody-chases-in-30m-son-of-god-may-fall-55-or-more-in-second-weekend-695863/|website=Deadline Hollywood|date=10 March 2014 |access-date=June 4, 2022}}</ref>
+|-
+{{excerpt|How to Train Your Dragon|Dragons2Response|hat=no|inline=yes}}
+|-
+{{excerpt|Madagascar (franchise)|Response4|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Home (2015 film)#Critical response|Home]]''
+| {{RT data|table|qid=Q4499813}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q4499813}} |title=Home |type=m |access-date={{RT data|access date|qid=Q4499813}}}}{{cbignore}}{{RT data|edit|qid=Q4499813}}</ref>
+| 55 (31 reviews)<ref>{{Cite Metacritic |id=home-2015 |title=Home |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref>{{cite web|url=https://www.hollywoodreporter.com/news/box-office-home-soars-friday-784869|title=Box Office: 'Home' Soars Friday for $50M-Plus Debut|first=Pamela |last=McClintock|work=[[The Hollywood Reporter]]|date=March 27, 2015|access-date=March 28, 2015|archive-date=March 28, 2015|archive-url=https://web.archive.org/web/20150328135527/http://www.hollywoodreporter.com/news/box-office-home-soars-friday-784869|url-status=live}}</ref>
+|-
+{{excerpt|Kung Fu Panda|KFP3Response|hat=no|inline=yes}}
+|-
+{{excerpt|Trolls (franchise)|Trolls1Response|hat=no|inline=yes}}
+|-
+{{excerpt|The Boss Baby (franchise)|Response1|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Captain Underpants: The First Epic Movie#Critical response|Captain Underpants: The First Epic Movie]]''
+| {{RT data|table|qid=Q20979182}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q20979182}} |title=Captain Underpants: The First Epic Movie |type=m |access-date={{RT data|access date|qid=Q20979182}}}}{{cbignore}}{{RT data|edit|qid=Q20979182}}</ref>
+| 69 (25 reviews)<ref>{{Cite Metacritic |id=captain-underpants-the-first-epic-movie |title=Captain Underpants: The First Epic Movie |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|B+}}<ref>{{cite web|url=https://deadline.com/2017/06/wonder-woman-captain-underpants-weekend-box-office-opening-1202106462/|title='Wonder Woman' Breaks Glass Ceiling For Female Directors & Stomps On 'Iron Man' With $100.5M Debut|first=Anthony |last=D'Alessandro|website=[[Deadline Hollywood]]|date=June 4, 2017 |access-date=June 4, 2022}}</ref>
+|-
+{{excerpt|How to Train Your Dragon|Dragons3Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Abominable (2019 film)#Critical response|Abominable]]''
+| {{RT data|table|qid=Q55087665}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q55087665}} |title=Abominable |type=m |access-date={{RT data|access date|qid=Q55087665}}}}{{cbignore}}{{RT data|edit|qid=Q55087665}}</ref>
+| 61 (28 reviews)<ref>{{Cite Metacritic |id=abominable-2019 |title=Abominable |type=m |access-date=April 29, 2022}}</ref>
+| {{sort grade|A}}<ref>{{cite web |url= https://deadline.com/2019/09/abominable-downton-abbey-hustlers-weekend-box-office-1202746278/ |title=Dreamworks Animation-Pearl Studios' 'Abominable' Bigfoots B.O. With Near $21M Opening Weekend
+|last=D'Alessandro |first=Anthony |work=[[Deadline Hollywood]] |date=September 29, 2019 |access-date=June 4, 2022}}</ref>
+|-
+{{excerpt|Trolls (franchise)|Trolls2Response|hat=no|inline=yes}}
+|-
+{{excerpt|The Croods (franchise)|Croods2Response|hat=no|inline=yes}}
+|-
+{{excerpt|Spirit (franchise)|Spirit2Response|hat=no|inline=yes}}
+|-
+{{excerpt|The Boss Baby (franchise)|Response2|hat=no|inline=yes}}
+|-
+{{excerpt|The Bad Guys (franchise)|Response1|hat=no|inline=yes}}
+|-
+{{excerpt|Shrek (franchise)|PiB2Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Ruby Gillman, Teenage Kraken#Critical response|Ruby Gillman, Teenage Kraken]]''
+| {{RT data|table|qid=Q117188308}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q117188308}} |title=Ruby Gillman, Teenage Kraken |type=m |access-date={{RT data|access date|qid=Q117188308}}}}{{cbignore}}{{RT data|edit|qid=Q117188308}}</ref>
+| 50 (27 reviews)<ref>{{Cite Metacritic |id=ruby-gillman-teenage-kraken |title=Ruby Gillman, Teenage Kraken |type=m |access-date=July 10, 2023}}</ref>
+| {{sort grade|A−}}<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=June 30, 2023 |title='Indiana Jones & The Dial Of Destiny' Still Eyeing $60M-$65M Opening Weekend, Possible $85M 5-day – Box Office |url= https://deadline.com/2023/06/box-office-indiana-jones-and-the-dial-of-destiny-1235427644/ |quote=Universal/DreamWorks Animation’s ''Ruby Gillman, Teenage Kraken'' isn’t wowing as expected with a $2.5M Friday (including Thursday previews of $725K) and $6M Friday-Sunday take outside the top five. |access-date=July 1, 2023 |website=[[Deadline Hollywood]] |language=en-US}}</ref>
+|-
+{{excerpt|Trolls (franchise)|Trolls3Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Orion and the Dark#Critical response|Orion and the Dark]]''
+| {{RT data|table|qid=Q119455303}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q119455303}} |title=Orion and the Dark |type=m |access-date={{RT data|access date|qid=Q119455303}}}}{{cbignore}}{{RT data|edit|qid=Q119455303}}</ref>
+| 72 (23 reviews)<ref>{{Cite Metacritic |id=orion-and-the-dark |title=Orion and the Dark |type=m |access-date=January 31, 2024}}</ref>
+| {{N/A}}
+|-
+{{excerpt|Kung Fu Panda|KFP4Response|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[The Wild Robot#Critical response|The Wild Robot]]''
+| {{RT data|table|qid=Q124378349}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q124378349}} |title=The Wild Robot |type=m |access-date={{RT data|access date|qid=Q124378349}}}}{{cbignore}}{{RT data|edit|qid=Q124378349}}</ref>
+| 85 (46 reviews)<ref>{{Cite Metacritic |id=the-wild-robot |title=The Wild Robot |type=m |access-date=September 9, 2024}}</ref>
+| {{sort grade|A}}<ref>{{cite web|url= https://deadline.com/2024/09/box-office-megalopolis-the-wild-robot-1236101618/ |title= 'Wild Robot' Powers To Third Best September Animated Pic Debut With $35M; 'Megalopolis' Collapses With $4M & D+ CinemaScore; 'Saturday Night' Alive In Limited Release – Box Office Update |date=September 28, 2024|first1=Anthony|last1=D'Alessandro|website=[[Deadline Hollywood]]|access-date=September 28, 2024}}</ref>
+|-
+!scope="row"| ''[[Dog Man (film)#Critical response|Dog Man]]''
+| {{RT data|table|qid=Q124464619}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q124464619}} |title=Dog Man |type=m |access-date={{RT data|access date|qid=Q124464619}}}}{{cbignore}}{{RT data|edit|qid=Q124464619}}</ref>
+| 66 (22 reviews)<ref>{{Cite Metacritic |id=dog-man |title=Dog Man |type=m |access-date=January 29, 2025}}</ref>
+| {{sort grade|A}}<ref>{{Cite web|last=D'Alessandro|first=Anthony|date=February 2, 2025|title=The ''Dog Man'' Cometh With Second-Best January Debut For Animated Pic With $36M; Why Didn't ''Companion'' Find More Friends At Weekend Box Office? – Sunday AM Box Office Update|url=https://deadline.com/2025/02/box-office-dog-man-companion-1236274220/|access-date=February 2, 2025|website=[[Deadline Hollywood]]}}</ref>
+|-
+{{excerpt|How to Train Your Dragon|DragonsRemake1Response|hat=no|inline=yes}}
+|-
+{{excerpt|The Bad Guys (franchise)|Response2|hat=no|inline=yes}}
+|-
+!scope="row"| ''[[Gabby's Dollhouse: The Movie#Critical response|Gabby's Dollhouse: The Movie]]''
+| {{RT data|table|qid=Q126414863}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q126414863}} |title=Gabby's Dollhouse: The Movie |type=m |access-date={{RT data|access date|qid=Q126414863}}}}{{cbignore}}{{RT data|edit|qid=Q126414863}}</ref>
+| 46 (4 reviews)<ref>{{Cite Metacritic |id=gabbys-dollhouse-the-movie |title=Gabby's Dollhouse: The Movie |type=m |access-date=May 23, 2026}}</ref>
+| {{sort grade|A+}}<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=September 28, 2025 |title='One Battle After Another' At $22M+ Reps Record Debut For Paul Thomas Anderson; Leonardo DiCaprio's 11th Movie To Open To $20M+ – Box Office |url=https://deadline.com/2025/09/box-office-one-battle-after-another-1236556684/ |access-date=September 28, 2025 |website=[[Deadline Hollywood]] |language=en-US}}</ref>
+|-
+!scope="row"| ''[[Forgotten Island#Critical response|Forgotten Island]]''
+| {{RT data|table|qid=Q138335503}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q138335503}} |title=Forgotten Island |type=m |access-date={{RT data|access date|qid=Q138335503}}}}{{cbignore}}{{RT data|edit|qid=Q138335503}}</ref>
+| 74 (30 reviews)<ref>{{Cite Metacritic |id=forgotten-island |title=Forgotten Island |type=m |access-date=September 26, 2026}}</ref>
+| {{sort grade|A}}<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=September 26, 2026 |title='Avengers Endgame: Encore' Assembles $24M-$26M At No. 1 In Second-Best Late September Weekend Ever For Marketplace – Box Office Update |url=https://deadline.com/2026/09/box-office-avengers-endgame-primetime-heart-of-the-beast-1237111302/ |access-date=September 26, 2026 |website=[[Deadline Hollywood]] |language=en-US}}</ref>
+|}
+
+==Accolades==
+===Academy Awards===
+{| class="wikitable"
+|-
+! Year
+! Film
+! Category
+! Recipient(s)
+! Result
+|-
+|rowspan=2| [[71st Academy Awards|1998]]
+|rowspan=2| ''[[The Prince of Egypt]]''
+|[[Academy Award for Best Original Score|Best Original Score]]
+|[[Hans Zimmer]]
+|{{nom}}
+|-
+|[[Academy Award for Best Original Song|Best Original Song]]
+|"[[When You Believe]]"
+|{{won}}
+|-
+|rowspan=2|[[74th Academy Awards|2001]]
+|rowspan=2|''[[Shrek]]''
+|[[Academy Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+|[[Ted Elliott (screenwriter)|Ted Elliott]], [[Terry Rossio]], [[Joe Stillman]] and [[Roger S. H. Schulman]]
+|{{nom}}
+|-
+|rowspan=4|[[Academy Award for Best Animated Feature|Best Animated Feature]]
+|[[Aron Warner]]
+|{{won}}
+|-
+|[[75th Academy Awards|2002]]
+|''[[Spirit: Stallion of the Cimarron]]''
+|[[Jeffrey Katzenberg]]
+|rowspan=4 {{nom}}
+|-
+|rowspan=3|[[77th Academy Awards|2004]]
+|''[[Shark Tale]]''
+|[[Bill Damaschke]]
+|-
+|rowspan=2|''[[Shrek 2]]''
+|[[Andrew Adamson]]
+|-
+|Best Original Song
+|"[[Accidentally in Love (song)|Accidentally in Love]]"
+|-
+|[[78th Academy Awards|2005]]
+|''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''
+|rowspan=3|Best Animated Feature
+|[[Nick Park]] and [[Steve Box]]
+|{{won}}
+|-
+|[[81st Academy Awards|2008]]
+|''[[Kung Fu Panda]]''
+|[[John Stevenson (director)|John Stevenson]] and [[Mark Osborne (filmmaker)|Mark Osborne]]
+|rowspan=14 {{nom}}
+|-
+|rowspan=2|[[83rd Academy Awards|2010]]
+|rowspan=2|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|[[Chris Sanders (director)|Chris Sanders]] and [[Dean DeBlois]]
+|-
+|Best Original Score
+|[[John Powell (composer)|John Powell]]
+|-
+|rowspan=2|[[84th Academy Awards|2011]]
+|''[[Kung Fu Panda 2]]''
+|rowspan=4|Best Animated Feature
+|[[Jennifer Yuh Nelson]]
+|-
+|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|[[Chris Miller (animator)|Chris Miller]]
+|-
+|[[86th Academy Awards|2013]]
+|''[[The Croods]]''
+|Chris Sanders, [[Kirk DeMicco]] and [[Kristine Belson]]
+|-
+|[[87th Academy Awards|2014]]
+|''[[How to Train Your Dragon 2]]''
+|Dean DeBlois and [[Bonnie Arnold]]
+|-
+|[[89th Academy Awards|2016]]
+|''[[Trolls (film)|Trolls]]''
+|Best Original Song
+|"[[Can't Stop the Feeling!]]"
+|-
+|[[90th Academy Awards|2017]]
+|''[[The Boss Baby]]''
+|rowspan=4|Best Animated Feature
+|[[Tom McGrath (animator)|Tom McGrath]] and Ramsey Ann Naito
+|-
+|[[92nd Academy Awards|2019]]
+|''[[How to Train Your Dragon: The Hidden World]]''
+|Dean DeBlois, [[Brad Lewis]] and Bonnie Arnold
+|-
+|[[95th Academy Awards|2022]]
+|''[[Puss in Boots: The Last Wish]]''
+|[[Joel Crawford (director)|Joel Crawford]] and [[Mark Swift]]
+|-
+|rowspan=3|[[97th Academy Awards|2024]]
+|rowspan=3|''[[The Wild Robot]]''
+|Chris Sanders and Jeff Hermann
+|-
+|Best Original Score
+|[[Kris Bowers]]
+|-
+|[[Academy Award for Best Sound|Best Sound]]
+|[[Randy Thom]], [[Brian Chumney]], [[Gary A. Rizzo]] and Leff Lefferts
+|}
+
+===Golden Globe Awards===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Recipient(s) !! Result
+|-
+|rowspan=2|[[56th Golden Globe Awards|1998]]
+|rowspan=2|''[[The Prince of Egypt]]''
+|[[Golden Globe Award for Best Original Score|Best Original Score]]
+|[[Hans Zimmer]]
+|rowspan=12 {{nom}}
+|-
+|[[Golden Globe Award for Best Original Song|Best Original Song]]
+|"[[When You Believe]]"
+|-
+|[[58th Golden Globe Awards|2000]]
+|''[[Chicken Run]]''
+|rowspan=2|[[Golden Globe Award for Best Motion Picture – Musical or Comedy|Best Motion Picture – Musical or Comedy]]
+|[[Nick Park]] and [[Peter Lord]]
+|-
+|[[59th Golden Globe Awards|2001]]
+|''[[Shrek]]''
+|[[Andrew Adamson]] and [[Vicky Jenson]]
+|-
+|[[60th Golden Globe Awards|2002]]
+|''[[Spirit: Stallion of the Cimarron]]''
+|rowspan=2|[[Golden Globe Award for Best Original Song|Best Original Song]]
+|"[[Here I Am (Bryan Adams song)|Here I Am]]"
+|-
+|[[62nd Golden Globe Awards|2004]]
+|''[[Shrek 2]]''
+|"[[Accidentally in Love (song)|Accidentally in Love]]"
+|-
+|[[65th Golden Globe Awards|2007]]
+|''[[Bee Movie]]''
+|rowspan=7|[[Golden Globe Award for Best Animated Feature Film|Best Animated Feature Film]]
+|[[Steve Hickner]] and [[Simon J. Smith]]
+|-
+|[[66th Golden Globe Awards|2008]]
+|''[[Kung Fu Panda]]''
+|[[Mark Osborne (filmmaker)|Mark Osborne]] and [[John Stevenson (director)|John Stevenson]]
+|-
+|[[68th Golden Globe Awards|2010]]
+|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|[[Chris Sanders]] and [[Dean DeBlois]]
+|-
+|[[69th Golden Globe Awards|2011]]
+|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|[[Chris Miller (animator)|Chris Miller]]
+|-
+|[[70th Golden Globe Awards|2012]]
+|''[[Rise of the Guardians]]''
+|[[Peter Ramsey]]
+|-
+|[[71st Golden Globe Awards|2013]]
+|''[[The Croods]]''
+|[[Chris Sanders]], [[Kirk DeMicco]] and [[Kristine Belson]]
+|-
+|[[72nd Golden Globe Awards|2014]]
+|''[[How to Train Your Dragon 2]]''
+|[[Dean DeBlois]] and [[Bonnie Arnold]]
+|{{won}}
+|-
+|[[74th Golden Globe Awards|2016]]
+|''[[Trolls (film)|Trolls]]''
+|[[Golden Globe Award for Best Original Song|Best Original Song]]
+|"[[Can't Stop the Feeling!]]"
+|rowspan=9 {{nom}}
+|-
+|[[75th Golden Globe Awards|2017]]
+|''[[The Boss Baby]]''
+|rowspan=5|[[Golden Globe Award for Best Animated Feature Film|Best Animated Feature Film]]
+|[[Tom McGrath (animator)|Tom McGrath]] and Ramsey Ann Naito
+|-
+|[[77th Golden Globe Awards|2019]]
+|''[[How to Train Your Dragon: The Hidden World]]''
+|[[Dean DeBlois]], [[Brad Lewis]] and [[Bonnie Arnold]]
+|-
+|[[78th Golden Globe Awards|2020]]
+|''[[The Croods: A New Age]]''
+|rowspan=2|[[Joel Crawford (director)|Joel Crawford]] and [[Mark Swift]]
+|-
+|[[80th Golden Globe Awards|2022]]
+|''[[Puss in Boots: The Last Wish]]''
+|-
+|rowspan=4|[[82nd Golden Globe Awards|2024]]
+|rowspan=4|''[[The Wild Robot]]''
+|[[Chris Sanders]]
+|-
+|[[Golden Globe Award for Cinematic and Box Office Achievement|Cinematic and Box Office Achievement]]
+|Jeff Hermann
+|-
+|[[Golden Globe Award for Best Original Song|Best Original Song]]
+|"[[Kiss the Sky (Maren Morris single)|Kiss the Sky]]"
+|-
+|[[Golden Globe Award for Best Original Score|Best Original Score]]
+|[[Kris Bowers]]
+|}
+
+===Annie Awards===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Recipient(s) !! Result
+|-
+|[[27th Annie Awards|1999]]
+|''[[The Prince of Egypt]]''
+|rowspan=26| [[Annie Award for Best Animated Feature|Best Animated Feature]]
+| Penney Finkelman Cox and Sandra Rabins
+|rowspan=3 {{nom}}
+|-
+|rowspan=2| [[28th Annie Awards|2000]]
+|''[[Chicken Run]]''
+|[[Peter Lord]], [[Nick Park]] and [[David Sproxton]]
+|-
+|''[[The Road to El Dorado]]''
+| Brook Breton and Bonne Radford
+|-
+|[[29th Annie Awards|2001]]
+|''[[Shrek]]''
+|[[Jeffrey Katzenberg]], [[Aron Warner]] and [[John H. Williams (film producer)|John H. Williams]]
+|{{won}}
+|-
+|[[30th Annie Awards|2002]]
+|''[[Spirit: Stallion of the Cimarron]]''
+| Max Howard, [[Jeffrey Katzenberg]] and [[Mireille Soria]]
+|rowspan=2 {{nom}}
+|-
+|[[32nd Annie Awards|2004]]
+|''[[Shrek 2]]''
+|[[Aron Warner]], David Lipman and [[John H. Williams (film producer)|John H. Williams]]
+|-
+|rowspan=2| [[33rd Annie Awards|2005]]
+|''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''
+|[[Nick Park]], Claire Jennings, [[Peter Lord]], [[Carla Shelley]] and [[David Sproxton]]
+|{{won}}
+|-
+|''[[Madagascar (2005 film)|Madagascar]]''
+|[[Mireille Soria]]
+|rowspan=3 {{nom}}
+|-
+|[[34th Annie Awards|2006]]
+|''[[Over the Hedge]]''
+|[[Bonnie Arnold]]
+|-
+|[[35th Annie Awards|2007]]
+|''[[Bee Movie]]''
+|[[Jerry Seinfeld]], Christina Steinberg and Cameron Stevning
+|-
+|[[36th Annie Awards|2008]]
+|''[[Kung Fu Panda]]''
+|Melissa Cobb
+|rowspan=2 {{won}}
+|-
+|[[38th Annie Awards|2010]]
+|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|[[Bonnie Arnold]]
+|-
+|rowspan=2| [[39th Annie Awards|2011]]
+|''[[Kung Fu Panda 2]]''
+|Melissa Cobb
+|rowspan=4 {{nom}}
+|-
+|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|Latifa Ouaou and Joe M. Aguilar
+|-
+|[[40th Annie Awards|2012]]
+|''[[Rise of the Guardians]]''
+| Christina Steinberg and [[Nancy Bernstein]]
+|-
+| [[41st Annie Awards|2013]]
+|''[[The Croods]]''
+|[[Kristine Belson]]
+|-
+|[[42nd Annie Awards|2014]]
+|''[[How to Train Your Dragon 2]]''
+|[[Bonnie Arnold]]
+|{{won}}
+|-
+|[[44th Annie Awards|2016]]
+|''[[Kung Fu Panda 3]]''
+|Melissa Cobb
+|rowspan=8 {{nom}}
+|-
+|rowspan=2| [[45th Annie Awards|2017]]
+|''[[The Boss Baby]]''
+| Ramsey Ann Naito
+|-
+|''[[Captain Underpants: The First Epic Movie]]''
+|[[Mireille Soria]] and [[Mark Swift]]
+|-
+|[[47th Annie Awards|2019]]
+|''[[How to Train Your Dragon: The Hidden World]]''
+|[[Bonnie Arnold]] and [[Brad Lewis]]
+|-
+|rowspan=2|[[48th Annie Awards|2020]]
+|''[[The Croods: A New Age]]''
+|Mark Swift
+|-
+|''[[Trolls World Tour]]''
+|[[Gina Shay]]
+|-
+|[[50th Annie Awards|2022]]
+|''[[Puss in Boots: The Last Wish]]''
+|Mark Swift
+|-
+|rowspan=2|[[52nd Annie Awards|2024]]
+|''[[Kung Fu Panda 4]]''
+|Rebecca Huntley
+|-
+|''[[The Wild Robot]]''
+|Jeff Hermann
+|{{Won}}
+|}
+
+===British Academy Film Awards===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Recipient(s) !! Result
+|-
+|rowspan=2|[[54th British Academy Film Awards|2000]]
+|rowspan=2|''[[Chicken Run]]''
+|[[BAFTA Award for Best British Film|Best British Film]]
+|[[Peter Lord]] and [[David Sproxton]]
+|rowspan=4 {{nom}}
+|-
+|[[BAFTA Award for Best Special Visual Effects|Best Visual Effects]]
+|Paddy Eason, Mark Nelmes, and [[Dave Alex Riddett]]
+|-
+|rowspan=6|[[55th British Academy Film Awards|2001]]
+|rowspan=6|''[[Shrek]]''
+|[[BAFTA Award for Best Film|Best Film]]
+|[[Jeffrey Katzenberg]], [[Aron Warner]] and [[John H. Williams (film producer)|John H. Williams]]
+|-
+|[[BAFTA Award for Best Actor in a Supporting Role|Best Supporting Actor]]
+|[[Eddie Murphy]]
+|-
+|[[BAFTA Award for Best Adapted Screenplay|Best Adapted Screenplay]]
+|[[Ted Elliott (screenwriter)|Ted Elliott]], [[Terry Rossio]], [[Joe Stillman]] and [[Roger S.H. Schulman]]
+|{{won}}
+|-
+|[[BAFTA Award for Best Film Music|Best Original Music]]
+|[[Harry Gregson-Williams]] and [[John Powell (film composer)|John Powell]]
+|rowspan=3 {{nom}}
+|-
+|[[BAFTA Award for Best Sound|Best Sound]]
+|[[Andy Nelson (sound engineer)|Andy Nelson]], [[Anna Behlmer]], [[Wylie Stateman]], and [[Lon Bender]]
+|-
+|[[BAFTA Award for Best Special Visual Effects|Best Visual Effects]]
+|Ken Bielenberg
+|-
+|[[59th British Academy Film Awards|2005]]
+|''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''
+|[[BAFTA Award for Best British Film|Best British Film]]
+|Claire Jennings, [[David Sproxton]] and [[Bob Baker (scriptwriter)|Bob Baker]]
+|{{won}}
+|-
+|[[60th British Academy Film Awards|2006]]
+|''[[Flushed Away]]''
+|rowspan=3|[[BAFTA Award for Best Animated Film|Best Animated Film]]
+|[[David Bowers (director)|David Bowers]] and [[Sam Fell]]
+|rowspan=9 {{nom}}
+|-
+|[[61st British Academy Film Awards|2007]]
+|''[[Shrek the Third]]''
+|[[Chris Miller (animator)|Chris Miller]] and [[Raman Hui]]
+|-
+|rowspan=2|[[64th British Academy Film Awards|2010]]
+|rowspan=2|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|[[Chris Sanders]] and [[Dean DeBlois]]
+|-
+|[[BAFTA Award for Best Film Music|Best Original Music]]
+|[[John Powell (film composer)|John Powell]]
+|-
+|[[76th British Academy Film Awards|2022]]
+|''[[Puss in Boots: The Last Wish]]''
+|rowspan=2|[[BAFTA Award for Best Animated Film|Best Animated Film]]
+|[[Joel Crawford (director)|Joel Crawford]] and [[Mark Swift]]
+|-
+|rowspan=3|[[78th British Academy Film Awards|2024]]
+|rowspan=3|''[[The Wild Robot]]''
+|rowspan=2|Chris Sanders and Jeff Hermann
+|-
+|[[BAFTA Award for Best Children's & Family Film|Best Children's & Family Film]]
+|-
+|[[BAFTA Award for Best Original Music|Best Original Score]]
+|[[Kris Bowers]]
+|}
+
+===Critics' Choice Movie Awards===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Recipient(s) !! Result
+|-
+|rowspan=2|[[4th Critics' Choice Awards|1998]]
+|rowspan=2|''[[The Prince of Egypt]]''
+|[[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+|[[Brenda Chapman]], [[Steve Hickner]], and [[Simon Wells]] (tied with ''[[A Bug's Life]]'')
+|rowspan=4 {{won}}
+|-
+|[[Critics' Choice Movie Award for Best Song|Best Song]]
+|"[[When You Believe]]"
+|-
+|[[6th Critics' Choice Awards|2000]]
+|''[[Chicken Run]]''
+|rowspan=4|[[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+|[[Peter Lord]] and [[Nick Park]]
+|-
+|[[7th Critics' Choice Awards|2001]]
+|''[[Shrek]]''
+|[[Andrew Adamson]] and [[Vicky Jenson]]
+|-
+|[[8th Critics' Choice Awards|2002]]
+|''[[Spirit: Stallion of the Cimarron]]''
+|[[Kelly Asbury]] and Loona Cook
+|rowspan=4 {{nom}}
+|-
+|rowspan=2|[[10th Critics' Choice Awards|2004]]
+|rowspan=2|''[[Shrek 2]]''
+|[[Andrew Adamson]], [[Conrad Vernon]] and [[Kelly Asbury]]
+|-
+|[[Critics' Choice Movie Award for Best Song|Best Song]]
+|"[[Accidentally in Love (song)|Accidentally in Love]]"
+|-
+|rowspan=2|[[11th Critics' Choice Awards|2005]]
+|''[[Madagascar (2005 film)|Madagascar]]''
+|rowspan=13|[[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+|[[Eric Darnell]] and [[Tom McGrath (animator)|Tom McGrath]]
+|-
+|''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''
+|[[Nick Park]] and [[Steve Box]]
+|{{won}}
+|-
+|[[12th Critics' Choice Awards|2006]]
+|''[[Over the Hedge]]''
+|[[Tim Johnson (film director)|Tim Johnson]] and [[Karey Kirkpatrick]]
+|rowspan=14 {{nom}}
+|-
+|rowspan=2|[[14th Critics' Choice Awards|2008]]
+|''[[Kung Fu Panda]]''
+|[[Mark Osborne (filmmaker)|Mark Osborne]] and [[John Stevenson (director)|John Stevenson]]
+|-
+|''[[Madagascar: Escape 2 Africa]]''
+|[[Eric Darnell]] and [[Tom McGrath (animator)|Tom McGrath]]
+|-
+|[[16th Critics' Choice Awards|2010]]
+|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|[[Chris Sanders]] and [[Dean DeBlois]]
+|-
+|rowspan=2|[[17th Critics' Choice Awards|2011]]
+|''[[Kung Fu Panda 2]]''
+|[[Jennifer Yuh Nelson]]
+|-
+|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|[[Chris Miller (animator)|Chris Miller]]
+|-
+|rowspan=2|[[18th Critics' Choice Awards|2012]]
+|''[[Madagascar 3: Europe's Most Wanted]]''
+|[[Chris Buck]] and [[Tom McGrath (animator)|Tom McGrath]]
+|-
+|''[[Rise of the Guardians]]''
+|[[Peter Ramsey]]
+|-
+|[[19th Critics' Choice Awards|2013]]
+|''[[The Croods]]''
+|[[Chris Sanders]] and [[Kirk DeMicco]]
+|-
+|[[20th Critics' Choice Awards|2014]]
+|''[[How to Train Your Dragon 2]]''
+|[[Dean DeBlois]]
+|-
+|rowspan=2|[[22nd Critics' Choice Awards|2016]]
+|rowspan=2|''[[Trolls (film)|Trolls]]''
+|[[Mike Mitchell (director)|Mike Mitchell]]
+|-
+|[[Critics' Choice Movie Award for Best Song|Best Song]]
+|"[[Can't Stop the Feeling!]]"
+|-
+|[[25th Critics' Choice Awards|2019]]
+|''[[How to Train Your Dragon: The Hidden World]]''
+|rowspan=3|[[Critics' Choice Movie Award for Best Animated Feature|Best Animated Feature]]
+|[[Dean DeBlois]]
+|-
+|[[28th Critics' Choice Awards|2022]]
+|''[[Puss in Boots: The Last Wish]]''
+|[[Joel Crawford (director)|Joel Crawford]]
+|-
+|rowspan=3|[[30th Critics' Choice Awards|2024]]
+|rowspan=3|''[[The Wild Robot]]''
+|[[Chris Sanders]]
+|{{Won}}
+|-
+|[[Critics' Choice Movie Award for Best Song|Best Song]]
+|"[[Kiss the Sky (Maren Morris single)|Kiss the Sky]]"
+|rowspan=2 {{Nom}}
+|-
+|[[Critics' Choice Movie Award for Best Score|Best Score]]
+|[[Kris Bowers]]
+|}
+
+=== Kids' Choice Awards ===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Result
+|-
+|[[2001 Kids' Choice Awards|2001]]
+|''[[Chicken Run]]''
+|Favorite Voice From an Animated Movie
+|rowspan=2 {{Nom}}
+|-
+|rowspan=2| [[2002 Kids' Choice Awards|2002]]
+|rowspan=2|''[[Shrek]]''
+|[[Kids' Choice Award for Favorite Movie|Favorite Movie]]
+|-
+|rowspan=5|Favorite Voice From an Animated Movie
+|{{Won}}
+|-
+|[[2003 Kids' Choice Awards|2003]]
+|''[[Spirit: Stallion of the Cimarron]]''
+|rowspan=2 {{Nom}}
+|-
+|[[2004 Kids' Choice Awards|2004]]
+|''[[Sinbad: Legend of the Seven Seas]]''
+|-
+|rowspan=2|[[2005 Kids' Choice Awards|2005]]
+|''[[Shark Tale]]''
+|{{Won}}
+|-
+|''[[Shrek 2]]''
+|{{Nom}}
+|-
+|rowspan=2|[[2006 Kids' Choice Awards|2006]]
+|rowspan=2|''[[Madagascar (2005 film)|Madagascar]]''
+|[[Kids' Choice Award for Favorite Animated Movie|Favorite Animated Movie]]
+|rowspan=2 {{Won}}
+|-
+|rowspan=2|Favorite Voice From an Animated Movie
+|-
+|[[2007 Kids' Choice Awards|2007]]
+|''[[Over the Hedge]]''
+|rowspan=2 {{Nom}}
+|-
+|rowspan=4|[[2008 Kids' Choice Awards|2008]]
+|rowspan=2|''[[Shrek the Third]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|{{Won}}
+|-
+|rowspan=2|''[[Bee Movie]]''
+|Favorite Animated Movie
+|rowspan=3 {{Nom}}
+|-
+|Favorite Voice From an Animated Movie
+|-
+|rowspan=4|[[2009 Kids' Choice Awards|2009]]
+|rowspan=2|''[[Kung Fu Panda]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|rowspan=2 {{Won}}
+|-
+|rowspan=2|''[[Madagascar: Escape 2 Africa]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|rowspan=4 {{Nom}}
+|-
+|rowspan=2|[[2010 Kids' Choice Awards|2010]]
+|rowspan=2|''[[Monsters vs. Aliens]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|-
+|rowspan=3|[[2011 Kids' Choice Awards|2011]]
+|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|Favorite Animated Movie
+|-
+|''[[Shrek Forever After]]''
+|Favorite Voice From an Animated Movie
+|{{Won}}
+|-
+|''[[Megamind]]''
+|Favorite Buttkicker
+|rowspan=3 {{Nom}}
+|-
+|rowspan=4|[[2012 Kids' Choice Awards|2012]]
+|rowspan=2|''[[Kung Fu Panda 2]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|-
+|rowspan=2|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|Favorite Animated Movie
+|{{Won}}
+|-
+|Favorite Voice From an Animated Movie
+|rowspan=15 {{Nom}}
+|-
+|rowspan=2|[[2013 Kids' Choice Awards|2013]]
+|rowspan=2|''[[Madagascar 3: Europe's Most Wanted]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|-
+|rowspan=2|[[2015 Kids' Choice Awards|2015]]
+|''[[How to Train Your Dragon 2]]''
+|rowspan=3|Favorite Animated Movie
+|-
+|''[[Penguins of Madagascar]]''
+|-
+|rowspan=2|[[2016 Kids' Choice Awards|2016]]
+|rowspan=2|''[[Home (2015 film)|Home]]''
+|-
+|Favorite Voice From an Animated Movie
+|-
+|rowspan=4|[[2017 Kids' Choice Awards|2017]]
+|''[[Kung Fu Panda 3]]''
+|Most Wanted Pet
+|-
+|rowspan=3|''[[Trolls (film)|Trolls]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|-
+|Favorite Frenemies
+|-
+|[[2018 Kids' Choice Awards|2018]]
+|''[[Captain Underpants: The First Epic Movie]]''
+|rowspan=2|Favorite Animated Movie
+|-
+|rowspan=4|[[2021 Kids' Choice Awards|2021]]
+|rowspan=2|''[[The Croods: A New Age]]''
+|-
+|Favorite Voice From an Animated Movie
+|-
+|rowspan=2|''[[Trolls World Tour]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice From an Animated Movie
+|{{Won}}
+|-
+|[[2022 Kids' Choice Awards|2022]]
+|''[[The Boss Baby: Family Business]]''
+|Favorite Animated Movie
+|rowspan=8 {{Nom}}
+|-
+|rowspan=2|[[2023 Kids' Choice Awards|2023]]
+|''[[The Bad Guys (film)|The Bad Guys]]''
+|rowspan=2|Favorite Voice from an Animated Movie (Female)
+|-
+|''[[Puss in Boots: The Last Wish]]''
+|-
+|rowspan=7|[[2024 Kids' Choice Awards|2024]]
+|rowspan=3|''[[Kung Fu Panda 4]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice from an Animated Movie (Male)
+|-
+|Favorite Voice from an Animated Movie (Female)
+|-
+|rowspan=4|''[[Trolls Band Together]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice from an Animated Movie (Male)
+|-
+|Favorite Voice from an Animated Movie (Female)
+|{{Won}}
+|-
+|Favorite Villain
+|rowspan=4 {{Nom}}
+|-
+|rowspan=3|[[2025 Kids' Choice Awards|2025]]
+|rowspan=2|''[[The Wild Robot]]''
+|Favorite Animated Movie
+|-
+|Favorite Voice from an Animated Movie (Female)
+|-
+|''[[Dog Man (film)|Dog Man]]''
+|Favorite Animated Movie
+|}
+
+===National Board of Review===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Result
+|-
+|[[National Board of Review Awards 2000|2000]]
+|''[[Chicken Run]]''
+|rowspan=4| [[National Board of Review Award for Best Animated Film|Best Animated Film]]
+|rowspan=4 {{won}}
+|-
+|[[National Board of Review Awards 2001|2001]]
+|''[[Shrek]]''
+|-
+|[[National Board of Review Awards 2014|2014]]
+|''[[How to Train Your Dragon 2]]''
+|-
+|[[National Board of Review Awards 2019|2019]]
+|''[[How to Train Your Dragon: The Hidden World]]''
+|}
+
+===Heartland Film Festival===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Result
+|-
+|2010
+|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|rowspan=6| Truly Moving Picture Award
+|rowspan=6 {{won}}
+|-
+|2011
+|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|-
+|2014
+|''[[Mr. Peabody & Sherman]]''
+|-
+|2021
+|''[[Spirit Untamed]]''
+|-
+|2022
+|''[[The Bad Guys (film)|The Bad Guys]]''
+|-
+|2024
+|''[[The Wild Robot]]''
+|}
+
+===Satellite Award===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Recipient(s) !! Result
+|-
+|rowspan=2| [[3rd Golden Satellite Awards|1998]]
+|''[[Antz]]''
+|rowspan=22| [[Satellite Award for Best Animated or Mixed Media Feature|Best Animated or Mixed Media Feature]]
+|
+|rowspan=2 {{nom}}
+|-
+|''[[The Prince of Egypt]]''
+|
+|-
+|[[5th Golden Satellite Awards|2000]]
+|''[[Chicken Run]]''
+|
+|{{win}}
+|-
+|[[6th Golden Satellite Awards|2001]]
+|''[[Shrek]]''
+|
+|rowspan=10 {{nom}}
+|-
+|[[7th Golden Satellite Awards|2002]]
+|''[[Spirit: Stallion of the Cimarron]]''
+|
+|-
+|[[8th Golden Satellite Awards|2003]]
+|''[[Sinbad: Legend of the Seven Seas]]''
+|
+|-
+|[[9th Golden Satellite Awards|2004]]
+|''[[Shrek 2]]''
+|
+|-
+|[[10th Satellite Awards|2005]]
+|''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''
+|
+|-
+|[[11th Satellite Awards|2006]]
+|''[[Flushed Away]]''
+|
+|-
+|[[15th Satellite Awards|2010]]
+|''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+|
+|-
+|rowspan=2| [[16th Satellite Awards|2011]]
+|''[[Kung Fu Panda 2]]''
+|-
+|''[[Puss in Boots (2011 film)|Puss in Boots]]''
+|
+|-
+|rowspan=2| [[17th Satellite Awards|2012]]
+|''[[Madagascar 3: Europe's Most Wanted]]''
+|
+|-
+|''[[Rise of the Guardians]]''
+|
+|{{win}}
+|-
+|rowspan=2| [[18th Satellite Awards|2013]]
+|''[[The Croods]]''
+|
+|rowspan=8 {{nom}}
+|-
+|''[[Turbo (2013 film)|Turbo]]''
+|
+|-
+|[[19th Satellite Awards|2014]]
+|''[[How to Train Your Dragon 2]]''
+|
+|-
+|[[21st Satellite Awards|2016]]
+|''[[Trolls (film)|Trolls]]''
+|
+|-
+|[[22nd Satellite Awards|2017]]
+|''[[The Boss Baby]]''
+|
+|-
+|[[24th Satellite Awards|2019]]
+|''[[How to Train Your Dragon: The Hidden World]]''
+|
+|-
+|[[27th Satellite Awards|2022]]
+|''[[The Bad Guys (film)|The Bad Guys]]''
+|
+|-
+|[[29th Satellite Awards|2024]]
+|''[[The Wild Robot]]''
+|
+|}
+
+===Saturn Award===
+{| class="wikitable"
+|-
+! Year !! Film !! Category !! Recipient(s) !! Result
+|-
+| [[30th Saturn Awards|2003]]
+| ''[[Sinbad: Legend of the Seven Seas]]''
+|rowspan=24| [[Saturn Award for Best Animated Film|Best Animated Film]]
+| [[Tim Johnson (film director)|Tim Johnson]] and Patrick Gilmore
+|rowspan=10 {{nom}}
+|-
+|rowspan=2| [[31st Saturn Awards|2004]]
+|''[[Shrek 2]]''
+| [[Andrew Adamson]], [[Kelly Asbury]] and [[Conrad Vernon]]
+|-
+| ''[[Shark Tale]]''
+| [[Rob Letterman]] and [[Vicky Jenson]]
+|-
+|rowspan=2| [[32nd Saturn Awards|2005]]
+| ''[[Wallace & Gromit: The Curse of the Were-Rabbit]]''
+| [[Nick Park]] and [[Steve Box]]
+|-
+| ''[[Madagascar (2005 film)|Madagascar]]''
+| [[Eric Darnell]] and [[Tom McGrath (animator)|Tom McGrath]]
+|-
+|rowspan=2| [[33rd Saturn Awards|2006]]
+| ''[[Over the Hedge]]''
+| [[Tim Johnson (film director)|Tim Johnson]] and [[Karey Kirkpatrick]]
+|-
+| ''[[Flushed Away]]''
+| [[Sam Fell]] and [[David Bowers (director)|David Bowers]]
+|-
+| [[34th Saturn Awards|2007]]
+| ''[[Shrek the Third]]''
+| [[Chris Miller (animator)|Chris Miller]] and [[Raman Hui]]
+|-
+|rowspan=2| [[35th Saturn Awards|2008]]
+| ''[[Kung Fu Panda]]''
+| [[Mark Osborne (filmmaker)|Mark Osborne]] and [[John Stevenson (director)|John Stevenson]]
+|-
+| ''[[Madagascar: Escape 2 Africa|Madagascar 2: Escape to Africa]]''
+| [[Eric Darnell]] and [[Tom McGrath (animator)|Tom McGrath]]
+|-
+| [[36th Saturn Awards|2009]]
+| ''[[Monsters vs Aliens]]''
+| [[Rob Letterman]] and [[Conrad Vernon]]
+| {{Won}}
+|-
+| [[37th Saturn Awards|2010]]
+| ''[[How to Train Your Dragon (2010 film)|How to Train Your Dragon]]''
+| [[Chris Sanders (director)|Chris Sanders]] and [[Dean DeBlois]]
+|rowspan=2 {{Nominated}}
+|-
+|rowspan=2| [[38th Saturn Awards|2011]]
+| ''[[Kung Fu Panda 2]]''
+| [[Jennifer Yuh Nelson]]
+|-
+| ''[[Puss in Boots (2011 film)|Puss in Boots]]''
+| [[Chris Miller (animator)|Chris Miller]]
+| {{Won}}
+|-
+| [[41st Saturn Awards|2014]]
+| ''[[How to Train Your Dragon 2]]''
+| [[Dean DeBlois]]
+|rowspan=9 {{Nominated}}
+|-
+| [[42nd Saturn Awards|2015]]
+| ''[[Kung Fu Panda 3]]''
+| [[Jennifer Yuh Nelson]] and [[Alessandro Carloni]]
+|-
+| [[43rd Saturn Awards|2016]]
+|''[[Trolls (film)|Trolls]]''
+| [[Mike Mitchell (director)|Mike Mitchell]]
+|-
+| [[44th Saturn Awards|2017]]
+| ''[[The Boss Baby]]''
+| [[Tom McGrath (animator)|Tom McGrath]]
+|-
+| [[45th Saturn Awards|2019]]
+| ''[[How to Train Your Dragon: The Hidden World]]''
+| [[Dean DeBlois]]
+|-
+|rowspan=2| [[46th Saturn Awards|2019/2020]]
+| ''[[Abominable (2019 film)|Abominable]]''
+| [[Jill Culton]]
+|-
+| ''[[Trolls World Tour]]''
+| [[Walt Dohrn]]
+|-
+| [[51st Saturn Awards|2022]]
+| ''[[Puss in Boots: The Last Wish]]''
+| [[Joel Crawford (director)|Joel Crawford]]
+|-
+|rowspan=2| [[52nd Saturn Awards|2024]]
+| ''[[Kung Fu Panda 4]]''
+| [[Mike Mitchell (director)|Mike Mitchell]]
+|-
+| ''[[The Wild Robot]]''
+| [[Chris Sanders (director)|Chris Sanders]]
+| {{won}}
+|}
+
+==See also==
+* [[DreamWorks Animation Television]]
+* [[List of Illumination productions]]
+* [[Universal Animation Studios#Filmography|List of Universal Animation Studios productions]]
+* [[List of Universal Pictures theatrical animated feature films]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+{{DreamWorks Animation}}
+{{Universal theatrical animated features}}
+{{Universal Pictures films}}
+
+[[Category:DreamWorks Animation]]
+[[Category:Lists of films by studio|DreamWorks Animation]]
+[[Category:DreamWorks Animation films|DreamWorks Animation]]
+[[Category:Lists of animation|DreamWorks Animation]]

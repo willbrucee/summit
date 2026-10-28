@@ -1,0 +1,1004 @@
+{{Short description|None}}
+{{Video games}}
+{{Dynamic list}}
+[[File:PSX-Console-wController.jpg|thumb|Original PlayStation with [[DualShock]] controller]]
+This is a list of video games for the original [[PlayStation (console)|PlayStation]] [[video game console]] that have sold or shipped at least one million copies. The best-selling game on the PlayStation is ''[[Gran Turismo (1997 video game)|Gran Turismo]]''. A [[sim racing]] game developed by [[Polyphony Digital]], ''Gran Turismo'' was originally released in Japan on December 23, 1997, and went on to sell 10.85{{nbsp}}million units worldwide.<ref name="granturismo">{{cite news |url=http://www.pcworld.com/article/145675/article.html |title=Gran Turismo Series Shipments Hit 50 Million |last=Williams |first=Martyn |work=[[PC World]] |publisher=[[International Data Group|IDG]] |date=May 9, 2008 |access-date=May 2, 2017 |archive-date=May 5, 2019 |archive-url=https://web.archive.org/web/20190505142105/https://www.pcworld.com/article/145675/article.html |url-status=dead }}</ref> The second-best-selling game on the console is ''[[Final Fantasy VII]]'' (1997), which sold over 10{{nbsp}}million units.<ref name="ff7"/>{{efn|name="FF7"}} The top five is rounded out by ''[[Gran Turismo 2]]'' (1999) with 9.37{{nbsp}}million units sold,<ref name="granturismo"/> ''[[Final Fantasy VIII]]'' (1999) selling 8.6{{nbsp}}million units,<ref name="FFVIII"/> and ''[[Tekken 3]]'' (1998) with 8.3{{nbsp}}million units sold.<ref name="tekken3">{{cite web |url=https://www.gamespot.com/articles/how-tekken-7s-arcade-roots-are-shaping-its-console/1100-6447149/ |title=How Tekken 7's Arcade Roots Are Shaping Its Console Form |last=Tran |first=Edmond |work=[[GameSpot]] |publisher=[[CBS Interactive]] |date=January 23, 2017 |access-date=May 2, 2017 |archive-date=August 30, 2020 |archive-url=https://web.archive.org/web/20200830173451/https://www.gamespot.com/articles/how-tekken-7s-arcade-roots-are-shaping-its-console/1100-6447149/ |url-status=live }}</ref>
+
+There are a total of 127 PlayStation games on this list which are confirmed to have sold or shipped at least one million units. Of these, 49 were published in one or more regions by [[Sony Computer Entertainment]]. Other publishers with multiple million-selling games include [[Namco]] with twelve games, [[Square (video game company)|Square]] with ten games, [[Eidos Interactive]] with eight games, [[Konami]] and [[Electronic Arts]] with seven games each, and [[Capcom]] with six games. The developers with the most million-selling games include Namco with eleven games, Square with ten games, Konami and Sony Computer Entertainment with seven games each, and Capcom with six games. The most popular franchises on the PlayStation include ''[[Crash Bandicoot]]'' (27.43{{nbsp}}million combined units), ''[[Final Fantasy]]'' ({{nowrap|26.39 million}} combined units), ''[[Tomb Raider]]'' (25.9{{nbsp}}million combined units), ''[[Gran Turismo (series)|Gran Turismo]]'' (20.22{{nbsp}}million combined units), and ''[[Tekken]]'' ({{nowrap|15.73 million}} combined units). The oldest game on this list is ''[[Ridge Racer (1993 video game)|Ridge Racer]]'', first released on the platform on December 3, 1994, while the most recent is ''[[Dancing Stage Party Edition]]'', released on November 15, 2002, when the [[PlayStation 2]] had been out for more than two years.
+
+As of March 2007, a total of 962{{nbsp}}million copies of PlayStation software had been shipped worldwide.<ref>{{cite web |url=http://www.scei.co.jp/corporate/data/bizdatapssoft_e.html |title=Cumulative Production Shipments of Software Titles |publisher=[[Sony Computer Entertainment]] |archive-url=https://web.archive.org/web/20080923062826/http://www.scei.co.jp/corporate/data/bizdatapssoft_e.html |archive-date=September 23, 2008 |access-date=May 2, 2017 }}</ref>
+
+==List==
+{{srn}}
+{| class="wikitable plainrowheaders sortable static-row-numbers"
+|- class=static-row-header
+! scope="col" | Game
+! scope="col" | Developer(s)
+! scope="col" | Publisher(s)
+! scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+! scope="col" | Sales
+! scope="col" class="unsortable" | {{abbr|Ref.|Reference}}
+|-
+| ''[[Gran Turismo (1997 video game)|Gran Turismo]]''
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+| {{dts|1997-12-23}}
+| 10,850,000
+| align="center" | <ref name="granturismo"/>
+|-
+| ''[[Final Fantasy VII]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP|[[Square (video game company)|Square]]|WW|[[Sony Computer Entertainment]]}}
+| {{dts|1997-01-31}}
+| 10,022,228
+| align="center" | {{efn|name="FF7"|''Final Fantasy VII'' (PlayStation)<ref name="ff7">{{cite web|first=Andrew |last=Webster |url=https://arstechnica.com/gaming/news/2010/05/masterpiece-final-fantasy-vii.ars |title=Masterpiece: Final Fantasy VII |website=Ars Technica |date=May 2010 |access-date=February 8, 2012 |url-status=live |archive-url=https://web.archive.org/web/20120130003235/http://arstechnica.com/gaming/news/2010/05/masterpiece-final-fantasy-vii.ars |archive-date=January 30, 2012 }}</ref>
+* Worldwide sales {{as of|2005|lc=yes}} {{ndash}} 9.8{{nbsp}}million<ref>{{cite web|url=http://na.square-enix.com/e306/titles/ccff7/ |title=Crisis Core -Final Fantasy VII- |access-date=December 15, 2019 |publisher=Square Enix|archive-url=https://web.archive.org/web/20080801053240/http://na.square-enix.com/e306/titles/ccff7/ | archive-date=August 1, 2008 | year=2006}}</ref>
+* Japan sales during 2006{{ndash}}2007 {{ndash}} 222,228
+** ''[[The Best (PlayStation)|The Best]]'' {{ndash}} 158,458 (in 2006)<ref>{{Cite book|title=Famitsū Gēmu Hakusho 2007 |publisher=[[Enterbrain]] |year=2007 |isbn=978-4-7577-3577-4 |location=Tokyo |page=387 |id={{JPNO|21240454}} |language=ja |script-title=ja:ファミ通ゲーム白書2007 |trans-title=Famitsu Game Whitebook 2007 |chapter=2006年ゲームソフト年間売上TOP500 |trans-chapter=2006 Game Software Annual Sales Top 500 |chapter-url=http://geimin.net/da/db/2006_ne_fa/index.php |url-status=dead |archive-url=https://web.archive.org/web/20150626214525/http://geimin.net/da/db/2006_ne_fa/index.php |archive-date=June 26, 2015 |access-date=22 April 2020}}</ref>
+** ''[[Ultimate Hits (Square Enix)|Ultimate Hits]]'' {{ndash}} 63,770 (during 2006{{ndash}}2007)<ref>{{Cite book|title=Famitsū Gēmu Hakusho 2008 |publisher=[[Enterbrain]] |year=2008 |location=Tokyo |language=ja |script-title=ja:ファミ通ゲーム白書2008 |trans-title=Famitsu Game Whitebook 2008 |chapter=2007年ゲームソフト年間売上TOP500 |trans-chapter=2007 Game Software Annual Sales Top 500 |chapter-url=http://geimin.net/da/db/2007_ne_fa/index.php |url-status=dead |archive-url=https://web.archive.org/web/20150627100011/http://geimin.net/da/db/2007_ne_fa/index.php |archive-date=June 27, 2015 |access-date=22 April 2020}}</ref>
+}}
+|-
+| ''[[Gran Turismo 2]]''
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+| {{dts|1999-12-11}}
+| 9,370,000
+| align="center" | <ref name="granturismo"/>
+|-
+| ''[[Final Fantasy VIII]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP/PAL|[[Square (video game company)|Square]]|NA|[[Square Electronic Arts]]}}
+| {{dts|1999-02-11}}
+| 8,600,000
+| align="center" | <ref name="FFVIII">{{cite web |ref=FFVIII |title=PlayStation 4、Nintendo Switch、Xbox One、Steam向け「FINAL FANTASY VIII Remastered」発売日決定・予約開始のお知らせ |url=https://www.jp.square-enix.com/company/ja/news/pdf/5c839fb060adba1a92ad45bffb4938cd.pdf |website=[[Square Enix]] |access-date=17 June 2025 |language=ja |date=August 20, 2019|quote=1999年2月11日に発売され、20周年を迎えた「FINAL FANTASY VIII」。「ファイナルファンタジー」シリーズの中でも世界中のファンから根強い人気を誇り、全世界で960万本以上の販売本数を記録しています。その「FINAL FANTASY VIII」が20年の時を経て一部のキャラクターのモデリングを一新して登場します。美麗に生まれ変わった「FINAL FANTASY VIII」の世界を、新たに搭載された様々な機能で、より手軽にお楽しみいただけます。}}</ref>
+|-
+| ''[[Tekken 3]]''
+| [[Namco]]
+| {{vgrelease|JP/NA|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+| {{dts|1998-03-26}}
+| 8,300,000
+| align="center" | <ref name="tekken3"/>
+|-
+| ''[[Harry Potter and the Philosopher's Stone (PlayStation video game)|Harry Potter and the Philosopher's Stone]]''
+| [[Argonaut Games]]
+| [[Electronic Arts]]
+| {{dts|2001-11-15}}
+| 8,000,000
+| align="center" | <ref name="harrypotter">{{cite magazine |url=https://www.gameinformer.com/b/features/archive/2016/02/12/replay-harry-potter-and-the-sorcerer-39-s-stone.aspx?PageIndex=2 |title=Replay – Harry Potter And The Sorcerer's Stone |last=Hilliard |first=Kyle |magazine=[[Game Informer]] |publisher=[[GameStop]] |date=February 12, 2016 |access-date=May 2, 2017 |archive-date=September 25, 2020 |archive-url=https://web.archive.org/web/20200925105437/https://www.gameinformer.com/b/features/archive/2016/02/12/replay-harry-potter-and-the-sorcerer-39-s-stone.aspx?PageIndex=2 |url-status=live }}</ref>
+|-
+| ''[[Crash Bandicoot 2: Cortex Strikes Back]]''
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+| {{dts|1997-11-05}}
+| 7,580,000
+| align="center" | <ref name="guinnesscrash"/>{{efn|''Crash Bandicoot 2: Cortex Strikes Back'':
+* United States {{ndash}} {{nowrap|3.87 million}}<ref name="usplatinum">{{cite web|url=http://www.the-magicbox.com/Chart-USPlatinum.shtml |title=US Platinum Game Chart |publisher=The Magic Box |access-date=May 2, 2017 |url-status=live |archive-url=https://web.archive.org/web/20070421003854/http://www.the-magicbox.com/Chart-USPlatinum.shtml |archive-date=April 21, 2007 }}</ref>
+*Japan {{ndash}} {{nowrap|1.3 million}}<ref name="jpplatinum">{{cite web |url=http://www.the-magicbox.com/Chart-JPPlatinum.shtml |title=Japan Platinum Game Chart |publisher=The Magic Box |access-date=May 2, 2017 |archive-date=August 1, 2019 |archive-url=https://web.archive.org/web/20190801030711/http://www.the-magicbox.com/Chart-JPPlatinum.shtml |url-status=live }}</ref>
+}}
+|-
+| ''[[Crash Bandicoot: Warped]]''
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+| {{dts|1998-10-31}}
+| 7,130,000
+| align="center" | <ref name="guinnesscrash"/>
+|-
+| ''[[Tomb Raider (1996 video game)|Tomb Raider]]''
+| [[Core Design]]
+| [[Eidos Interactive]]
+| {{dts|1996-10-25}}
+| 7,100,000
+| align="center" | <ref name="tombraider">{{cite news |url=https://kotaku.com/tomb-raider-lifetime-sales-show-off-lara-crofts-biggest-5224724 |title=Tomb Raider Lifetime Sales Show Off Lara Croft's Biggest Hits |last=McWhertor |first=Michael |work=[[Kotaku]] |publisher=[[Univision Communications]] |date=April 23, 2009 |access-date=May 2, 2017 |archive-date=March 3, 2016 |archive-url=https://web.archive.org/web/20160303221323/http://kotaku.com/5224724/tomb-raider-lifetime-sales-show-off-lara-crofts-biggest-hits |url-status=live }}</ref>
+|-
+| ''[[Metal Gear Solid (1998 video game)|Metal Gear Solid]]''
+| [[Konami Computer Entertainment Japan]]
+| [[Konami]]
+| {{dts|1998-09-03}}
+| 7,000,000
+| align="center" | <ref name="sales">{{cite web |title=Konami Kabushiki Kaisha (Konami Corporation) Annual Report |url=https://www.sec.gov/Archives/edgar/data/1191141/000119312509161518/d20f.htm |website=[[U.S. Securities and Exchange Commission]] |date=March 31, 2009 |access-date=October 31, 2020 |archive-date=November 4, 2020 |archive-url=https://web.archive.org/web/20201104190827/https://www.sec.gov/Archives/edgar/data/1191141/000119312509161518/d20f.htm |url-status=live }}</ref>
+|-
+| ''[[Crash Bandicoot (video game)|Crash Bandicoot]]''
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+| {{dts|1996-09-09}}
+| 6,820,000
+| align="center" | <ref name="guinnesscrash">{{cite book |title=Guinness World Records Gamer's Edition 2015 |date=November 6, 2014 |publisher=[[Guinness World Records]] |page=54 |isbn=978-1-908-84366-1 |url=https://archive.org/details/guinnessworldrec0000unse_g5j8}}</ref>
+|-
+| ''[[Tomb Raider II]]''
+| [[Core Design]]
+| [[Eidos Interactive]]
+| {{dts|1997-10-31}}
+| 6,800,000
+| align="center" | <ref name="tombraider"/>
+|-
+| ''[[Tomb Raider III]]''
+| [[Core Design]]
+| [[Eidos Interactive]]
+| {{dts|1998-11-20}}
+| 5,900,000
+| align="center" | <ref name="tombraider"/>
+|-
+| ''[[Resident Evil 2]]''
+| [[Capcom]]
+| {{vgrelease|JP/NA|[[Capcom]]|PAL|[[Virgin Interactive]]}}
+| {{dts|1998-01-21}}
+| 5,770,000{{efn|Including ''Dual Shock Ver.''}}
+| align="center"| {{efn|''Resident Evil 2'' (PlayStation) sales breakdown:
+* ''Resident Evil 2'' {{ndash}} 4.96{{nbsp}}million<ref name="capcom">{{cite web|url=http://www.capcom.co.jp/ir/english/finance/million.html |title=Platinum Titles |publisher=[[Capcom]] |access-date=May 2, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20161201214236/http://www.capcom.co.jp/ir/english/finance/million.html |archive-date=December 1, 2016}}</ref>
+* ''Dual Shock Ver.'' {{ndash}} 810,000<ref>{{cite web |url=http://www.capcom.co.jp/ir/data/pdf/fy2000b.pdf |archive-url=https://web.archive.org/web/20120509135452/http://www.capcom.co.jp/ir/data/pdf/fy2000b.pdf |archive-date=May 9, 2012 |url-status=live |title=FY1999 Financial Results |page=5 |date=May 2000 |publisher=[[Capcom Co., Ltd]] |access-date=November 2, 2010}}</ref>
+}}
+|-
+| ''[[Tekken 2]]''
+| [[Namco]]
+| {{vgrelease|JP/NA|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+| {{dts|1996-03-29}}
+| 5,700,000
+| align="center" | <ref>{{cite web|last1=Tamburro|first1=Paul|title=TOP 5 MOST POPULAR FIGHTING GAMES EVER|url=http://www.craveonline.com/entertainment/536095-top-5-most-popular-bestselling-fighting-games-ever|website=Craveonline|access-date=5 June 2017|archive-url=https://web.archive.org/web/20170306135055/http://www.craveonline.com/entertainment/536095-top-5-most-popular-bestselling-fighting-games-ever|archive-date=6 March 2017|url-status=dead}}</ref>
+|-
+| ''[[Final Fantasy IX]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP/PAL|[[Square (video game company)|Square]]|NA|[[Square Electronic Arts]]}}
+| {{dts|2000-07-07}}
+| 5,500,000
+| align="center" | <ref>{{cite news |title=The challenges of porting Final Fantasy IX to Android and iOS |url=https://venturebeat.com/2016/03/06/the-challenges-of-porting-final-fantasy-ix-to-android-and-ios/ |access-date=24 April 2020 |work=[[VentureBeat]] |date=6 March 2016 |archive-date=5 December 2019 |archive-url=https://web.archive.org/web/20191205131844/https://venturebeat.com/2016/03/06/the-challenges-of-porting-final-fantasy-ix-to-android-and-ios/ |url-status=live }}</ref>
+|-
+| ''[[Resident Evil (1996 video game)|Resident Evil]]''
+| [[Capcom]]
+| {{vgrelease|JP/NA|[[Capcom]]|PAL|[[Virgin Interactive]]}}
+| {{dts|1996-03-22}}
+| 5,080,000{{efn|Including ''Director's Cut'' and ''Dual Shock Ver.''}}
+| align="center" | <ref name="capcom"/>
+|-
+| ''[[Spyro the Dragon]]''
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+| {{dts|1998-09-09}}
+| 4,832,145
+| align="center" | <ref name="spyro">{{cite web |url=http://articles.latimes.com/2007/nov/26/business/fi-insomniac26/2 |title=The independent imagination |last=Pham |first=Alex |work=[[Los Angeles Times]] |date=November 26, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20121014081220/http://articles.latimes.com/2007/nov/26/business/fi-insomniac26/2 |archive-date=2012-10-14 |access-date=May 2, 2017 }}</ref>
+|-
+| ''[[Crash Team Racing]]''
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+| {{dts|1999-10-19}}
+| 4,790,000
+| align="center" | <ref name="guinnesscrash"/>
+|-
+| ''[[Oddworld: Abe's Oddysee]]''
+| [[Oddworld Inhabitants]]
+| {{vgrelease|WW|[[GT Interactive]]|JP|[[SoftBank Group|SoftBank]]}}
+| {{dts|1997-09-19}}
+| 3,500,000
+| align="center" | <ref name="oddysee">{{cite web |url=http://oddworldlibrary.net/blog/nathan-interviews-lorne-lanning-again/ |title=Nathan interviews Lorne Lanning again |publisher=OddBlog |access-date=May 2, 2017 |archive-date=April 3, 2019 |archive-url=https://web.archive.org/web/20190403010044/http://oddworldlibrary.net/blog/nathan-interviews-lorne-lanning-again/ |url-status=live }}</ref>
+|-
+| ''[[Tomb Raider: The Last Revelation]]''
+| [[Core Design]]
+| [[Eidos Interactive]]
+| {{dts|1999-11-15}}
+| 4,700,000
+| align="center" | <ref name="tombraider"/>
+|-
+| ''[[Dragon Quest VII]]''
+| [[Heartbeat (company)|Heartbeat]]
+| [[Enix]]
+| {{dts|2000-08-26}}
+| 4,110,000
+| align="center" | <ref name="squareenix">{{cite web |url=http://www.jp.square-enix.com/ir/e/explanatory/download/0404-200402090000-01.pdf#page=27 |title=February 2, 2004 – February 4, 2004 |publisher=[[Square Enix]] |date=February 9, 2004 |page=27 |archive-url=https://web.archive.org/web/20060506015857/http://www.square-enix.com/jp/ir/e/explanatory/download/0404-200402090000-01.pdf |archive-date=2006-05-06 |access-date=May 2, 2017 |url-status=dead}}</ref>
+|-
+| ''[[Rayman (video game)|Rayman]]''
+| [[Ubisoft Montpellier]]
+| [[Ubi Soft]]
+| {{dts|1995-09-01}}
+| 4,000,000
+| align="center" | <ref name="rayman">{{cite web |url=http://www.gamasutra.com/view/feature/130268/a_detailed_crossexamination_of_.php?page=4 |title=A Detailed Cross-Examination of Yesterday and Today's Best-Selling Platform Games: Rayman |last=Boutros |first=Daniel |work=[[Gamasutra]] |publisher=[[Condé Nast]] |date=August 4, 2006 |access-date=May 2, 2017 |archive-date=April 30, 2017 |archive-url=https://web.archive.org/web/20170430061754/http://www.gamasutra.com/view/feature/130268/a_detailed_crossexamination_of_.php?page=4 |url-status=dead }}</ref>
+|-
+| ''[[Tony Hawk's Pro Skater (video game)|Tony Hawk's Pro Skater]]''
+| [[Neversoft]]
+| [[Activision]]
+| {{dts|1999-08-31}}
+| 3,500,000
+| align="center" |<ref name="wired">{{cite magazine |url=https://www.wired.com/2001/05/deathmatch-2/ |title=Death Match: Your Guide to the Box Wars |last=Frauenfelder |first=Mark |magazine=[[Wired (magazine)|Wired]] |publisher=[[Condé Nast]] |date=May 1, 2005 |access-date=May 2, 2017 |archive-date=January 29, 2016 |archive-url=https://web.archive.org/web/20160129122308/http://www.wired.com/2001/05/deathmatch-2/ |url-status=live }}</ref>
+|-
+| ''[[Resident Evil 3: Nemesis]]''
+| [[Capcom]]
+| {{vgrelease|JP/NA|[[Capcom]]|PAL|[[Eidos Interactive]]}}
+| {{dts|1999-09-22}}
+| 3,500,000
+| align="center" | <ref name="capcom" />
+|-
+| ''[[Spyro 2: Ripto's Rage]]''
+| {{hlist|[[Insomniac Games]]|[[Mark Cerny|Cerny Games]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|1999-11-02}}
+| 3,451,064
+| align="center" | <ref name="spyro"/>
+|-
+| ''[[Frogger (1997 video game)|Frogger]]''
+| [[Millennium Interactive]]
+| [[Hasbro Interactive]]
+| {{dts|1997-09-30}}
+| 3,370,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Spyro: Year of the Dragon]]''
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+| {{dts|2000-10-24}}
+| 3,283,077
+| align="center" | <ref name="spyro"/>
+|-
+| ''[[Driver (video game)|Driver]]''
+| [[Reflections Interactive]]
+| [[GT Interactive]]
+| {{dts|1999-06-30}}
+| 3,220,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Tony Hawk's Pro Skater 2]]''
+| [[Neversoft]]
+| [[Activision]]
+| {{dts|2000-09-20}}
+| 3,150,000
+|align="center"|<ref name="usplatinum"/><ref name="ukplatinum">{{cite web|url=http://www.elspa.com:80/?i=3944 |title=ELSPA Sales Awards: Platinum |publisher=Entertainment and Leisure Software Publishers Association |archive-url=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3944 |archive-date=June 17, 2010 |access-date=May 2, 2017 |url-status=dead }}</ref>
+|-
+| ''[[Croc: Legend of the Gobbos]]''
+| [[Argonaut Games|Argonaut Software]]
+| {{vgrelease|WW|[[Fox Interactive]]|JP|[[MediaQuest Holdings|MediaQuest]]}}
+| {{dts|1997-09-29}}
+| 3,000,000
+| align="center" | <ref name="croc">{{cite news |url=http://www.gamezone.com/news/argonaut_s_biggest_e3_line_up |title=Argonaut's Biggest E3 Line-up |publisher=GameZone |date=May 12, 2003 |access-date=May 2, 2017 |archive-date=March 6, 2017 |archive-url=https://web.archive.org/web/20170306134248/http://www.gamezone.com/news/argonaut_s_biggest_e3_line_up |url-status=live }}</ref>
+|-
+| ''[[Driver 2]]''
+| [[Reflections Interactive]]
+| [[Infogrames]]
+| {{dts|2000-11-13}}
+| 2,850,000
+| align="center" | <ref name="usplatinum"/><ref name="ukplatinum"/>
+|-
+| ''[[Yu-Gi-Oh! Forbidden Memories]]''
+| [[Konami Computer Entertainment Japan]]
+| [[Konami]]
+| {{dts|1999-12-09}}
+| 2,510,804
+| align="center" | {{efn|''Yu-Gi-Oh! Forbidden Memories''
+*United States and Europe {{ndash}} {{nowrap|2 million}}<ref>{{cite news |title=Million-Seller Genealogy |url=http://www.konamijpn.com/corporate/million_e.html |access-date=11 September 2021 |work=[[Konami Computer Entertainment Japan]] (KCEJ) |publisher=[[Konami]] |date=December 31, 2004 |url-status=dead |archive-url=https://web.archive.org/web/20050315004002/http://www.konamijpn.com/corporate/million_e.html |archive-date=2005-03-15}}</ref>
+*Japan {{ndash}} 510,804<ref name="gamedatalibrary">{{cite web |title=Game Search |url=https://sites.google.com/site/gamedatalibrary/game-search |website=Game Data Library |publisher=[[Famitsu]] |access-date=25 April 2020 |archive-date=24 April 2019 |archive-url=https://web.archive.org/web/20190424035430/https://sites.google.com/site/gamedatalibrary/game-search |url-status=live }}</ref>
+}}
+|-
+| ''[[Dino Crisis (video game)|Dino Crisis]]''
+| [[Capcom Production Studio 4]]
+| {{vgrelease|WW|[[Capcom]]|PAL|[[Virgin Interactive]]}}
+| {{dts|1999-07-01}}
+| 2,400,000
+| align="center" | <ref name="capcom"/>
+|-
+| ''[[Namco Museum Vol. 3]]''
+| [[Namco]]
+| {{hlist|[[Namco]]|[[Sony Computer Entertainment]]}}
+| {{dts|1996-06-21}}
+| 2,388,758
+| align="center" | {{efn|''Namco Museum Vol. 3''
+*United States {{ndash}} {{nowrap|2.24 million}}<ref name="usplatinum"/>
+*Japan {{ndash}} 148,758<ref name="gamedatalibrary"/>
+}}
+|-
+| ''[[Everybody's Golf (1997 video game)|Everybody's Golf]]''{{efn|Known as ''Hot Shots Golf'' in North America.}}
+| [[Camelot Software Planning]]
+| [[Sony Computer Entertainment]]
+| {{dts|1997-07-17}}
+| 2,359,511
+| align="center" | {{efn|''Everybody's Golf / Hot Shots Golf''
+*Japan {{ndash}} {{nowrap|2.13 million}}<ref name="jpplatinum"/>
+*United States {{ndash}} 229,511<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Final Fantasy Tactics]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP|[[Square (video game company)|Square]]|NA|[[Sony Computer Entertainment]]}}
+| {{dts|1997-06-20}}
+| 2,270,000
+| align="center" | <ref name="squareenix"/>
+|-
+| ''[[Air Combat]]''
+| [[Namco]]
+| [[Namco]]
+| {{dts|1995-06-30}}
+| 2,230,000
+| align="center" | <ref name="AceCombat">{{cite web |url=https://www.acecombat.jp/ace6/news080130.html |language=ja |title=『エースコンバット』シリーズ全世界累計1,000万本突破！ |trans-title=The cumulative worldwide sales total of the "Ace Combat" series exceeds 10,000,000 units! |last=Ichinoya |first=Hiroyuki |date=30 January 2008 |publisher=[[Bandai Namco Entertainment|Bandai Namco Games]] |access-date=28 August 2018 |archive-date=11 March 2020 |archive-url=https://web.archive.org/web/20200311231912/https://www.acecombat.jp/ace6/news080130.html |url-status=live }}</ref>
+|-
+| ''[[WWF War Zone]]''
+| [[Acclaim Studios Salt Lake City|Iguana West]]
+| [[Acclaim Entertainment]]
+| {{dts|1998-07-14}}
+| 2,200,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Tony Hawk's Pro Skater 3]]''
+| [[Shaba Games]]
+| [[Activision]]
+| {{dts|2001-10-29}}
+| 2,110,000
+| align="center" | <ref name="usplatinum"/><ref name="uksilver">{{cite web|url=http://www.elspa.com:80/?i=3942 |title=ELSPA Sales Awards: Silver |publisher=Entertainment and Leisure Software Publishers Association |archive-url=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3942 |archive-date=June 17, 2010 |access-date=May 2, 2017 |url-status=dead }}</ref>
+|-
+| ''[[Mortal Kombat Trilogy]]''
+| [[Avalanche Software]]
+| {{vgrelease|NA|[[Midway Games]]|EU|[[GT Interactive]]|JP|[[SoftBank Group|SoftBank]]}}
+| {{dts|1996-10-10}}
+| 2,010,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Derby Stallion]]''
+| ParityBit
+| [[ASCII Corporation]]
+| {{dts|1997-07-17}}
+| 2,000,000
+| align="center" | <ref name="jpplatinum"/>
+|-
+| ''[[Silent Hill (video game)|Silent Hill]]''
+| [[Konami Computer Entertainment Tokyo]] ([[Team Silent]])
+| [[Konami]]
+| {{dts|1999-01-31}}
+| 2,000,000
+| align="center" | <ref name="silenthill">{{cite web |url=http://www.satoworks.com/Takayoshi_Sato_resume.html |title=My Resume |last=Sato |first=Takayoshi |author-link=Takayoshi Sato |publisher=Takayoshi Sato |access-date=May 2, 2017 |archive-date=December 25, 2017 |archive-url=https://web.archive.org/web/20171225004925/http://satoworks.com/Takayoshi_Sato_resume.html |url-status=dead }}</ref>
+|-
+| ''[[Frogger 2: Swampy's Revenge]]''
+| [[Blitz Games]]
+| [[Hasbro Interactive]]
+| {{dts|2000-09-21}}
+| 2,000,000
+| align="center" | <ref>{{cite news |title=Frogger: The Great Quest Preview |url=https://www.gamespot.com/articles/frogger-the-great-quest-preview/1100-2779108/ |access-date=27 April 2023 |work=[[GameSpot]] |date=May 17, 2001}}</ref>
+|-
+| ''[[Parasite Eve (video game)|Parasite Eve]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| {{dts|1998-03-29}}
+| 1,940,000
+| align="center" | <ref name="squareenix"/>
+|-
+| ''[[WWF SmackDown! (video game)|WWF SmackDown!]]''
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+| {{dts|2000-03-02}}
+| 1,935,759
+| align="center" | {{efn|''WWF SmackDown!''
+*United States {{ndash}} {{nowrap|1.62 million}}<ref name="usplatinum"/>
+*United Kingdom {{ndash}} 300,000+<ref name="ukplatinum"/>
+*Japan {{ndash}} 15,759<ref name="gamedatalibrary"/>
+}}
+|-
+| ''[[WWF SmackDown! 2: Know Your Role]]''
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+| {{dts|2000-11-21}}
+| 1,915,858
+| align="center" | {{efn|''WWF SmackDown 2'':
+*United States {{ndash}} {{nowrap|1.57 million}}<ref name="usplatinum"/>
+*United Kingdom {{ndash}} 300,000+<ref name="ukplatinum"/>
+*Japan {{ndash}} 45,858<ref name="gamedatalibrary"/>
+}}
+|-
+| ''[[Crash Bash]]''
+| {{hlist|[[Eurocom|Eurocom Developments]]|[[Mark Cerny|Cerny Games]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|2000-11-06}}
+| 1,900,000
+| align="center" | <ref name="usplatinum"/><ref name="ukplatinum"/>
+|-
+| ''[[Spider-Man (2000 video game)|Spider-Man]]''
+| [[Neversoft]]
+| [[Activision]]
+| {{dts|2000-08-30}}
+| 1,850,000
+| align="center" | <ref name="usplatinum"/><ref name="ukplatinum"/>
+|-
+| ''[[Namco Museum Vol. 1]]''
+| [[Namco]]
+| {{hlist|[[Namco]]|[[Sony Computer Entertainment]]}}
+| {{dts|1995-11-22}}
+| 1,817,786
+| align="center" | {{efn|''Namco Museum Vol. 1''
+*United States {{ndash}} {{nowrap|1.65 million}}<ref name="usplatinum"/>
+*Japan {{ndash}} 167,786<ref name="gamedatalibrary"/>
+}}
+|-
+| ''[[Tetris Plus]]''
+| [[Natsume Co., Ltd.|Natsume]]
+| {{vgrelease|WW|[[Jaleco]]|EU|[[JVCKenwood Victor Entertainment#Video games|JVC Music Europe]]}}
+| {{dts|1996-09-06}}
+| 1,770,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Syphon Filter (video game)|Syphon Filter]]''
+| [[Bend Studio|Eidetic]]
+| {{hlist|[[989 Studios]]|[[Sony Computer Entertainment]]}}
+| {{dts|1999-02-17}}
+| 1,750,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Twisted Metal 2]]''
+| {{hlist|[[SingleTrac]]|[[989 Studios|Sony Interactive Studios America]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|1996-10-31}}
+| 1,740,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Tekken (video game)|Tekken]]''
+| [[Namco]]
+| {{vgrelease|JP/NA|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+| {{dts|1995-03-31}}
+| 1,728,556
+| align="center" | {{efn|''Tekken'':
+* Japan {{ndash}} 942,000<ref name="Dengeki">{{cite magazine |title=1995年のコンシューマーゲームソフトの売上 |trans-title=1995 Consumer Game Software Sales |magazine=[[Dengeki Oh]] |publisher=[[MediaWorks (publisher)|MediaWorks]] |lang=ja |url=http://www.rnac.ne.jp/~zangel/1995.htm |url-status=dead |archive-url=https://web.archive.org/web/20020822155020/http://www.rnac.ne.jp/~zangel/1995.htm |archive-date=22 August 2002 |access-date=16 September 2021}}</ref>
+* United States  {{ndash}} 786,556<ref name="gamepilgrimage">{{cite web |title=PS1 US Sales from 1995-2003 |url=http://www.gamepilgrimage.com/Ps1ussales.htm |archive-url=https://web.archive.org/web/20050520021742/http://www.gamepilgrimage.com/Ps1ussales.htm |url-status=live |archive-date=May 20, 2005 |website=Game Pilgrimage |publisher=[[NPD Group]] |access-date=18 October 2020}}</ref>
+}}{{efn|''Tekken'' was the first PlayStation game to sell over {{nowrap|1 million}} units.<ref name="faq">{{cite web|url=http://www.absolute-playstation.com/api_faqs/faq20.htm |title=PlayStation History – PlayStation Frequently Asked Questions |publisher=Absolute PlayStation |archive-url=https://web.archive.org/web/20110810075112/http://www.absolute-playstation.com/api_faqs/faq20.htm |archive-date=August 10, 2011 |access-date=May 2, 2017 |url-status=dead }}</ref>}}
+|-
+| ''[[Tomorrow Never Dies (video game)|007: Tomorrow Never Dies]]''
+| [[Black Ops Entertainment]]
+| {{hlist|[[Electronic Arts]]|[[MGM Interactive]]}}
+| {{dts|1999-11-16}}
+| 1,720,000
+| align="center" | <ref name="usplatinum"/><ref name="ukplatinum"/>
+|-
+| ''[[Formula 1 (video game)|Formula 1]]''
+| [[Bizarre Creations]]
+| [[Psygnosis]]
+| {{dts|1996-09-13}}
+| 1,700,000
+| align="center" | <ref name=1m>{{cite web | archive-url=https://web.archive.org/web/19971012044914/http://www.pcgamer.com/news/news080497.html | url=http://www.pcgamer.com:80/news/news080497.html | title=Formula 1, Part 2 | date=5 August 1997 | author=Staff | work=[[PC Gamer US]] | archive-date=12 October 1997 | url-status=dead | access-date=19 December 2019}}</ref> 
+|-
+| ''[[Need for Speed III: Hot Pursuit]]''
+| [[EA Canada]]
+| [[Electronic Arts]]
+| {{dts|1998-03-25}}
+| 1,700,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[PaRappa the Rapper]]''
+| [[NanaOn-Sha]]
+| [[Sony Computer Entertainment]]
+| {{dts|1996-12-06}}
+| 1,684,398
+| align="center" | {{efn|''PaRappa the Rapper'':
+*Japan {{ndash}} {{nowrap|1.47 million}}<ref name="jpplatinum"/>
+*United States {{ndash}} 214,398<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Medal of Honor (1999 video game)|Medal of Honor]]''
+| [[DreamWorks Interactive]]
+| [[Electronic Arts]]
+| {{dts|1999-10-31}}
+| 1,640,000
+| align="center" | <ref name="usplatinum"/><ref name="ukgold">{{cite web|url=http://www.elspa.com:80/?i=3943 |title=ELSPA Sales Awards: Gold |publisher=Entertainment and Leisure Software Publishers Association |archive-url=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3943 |archive-date=June 17, 2010 |access-date=May 2, 2017 |url-status=dead }}</ref>
+|-
+| ''[[Everybody's Golf 2]]''{{efn|Known as ''Hot Shots Golf 2'' in North America.}}
+| [[Clap Hanz]]
+| [[Sony Computer Entertainment]]
+| {{dts|1999-07-29}}
+| 1,598,482
+| align="center" | {{efn|''Everybody's Golf 2 / Hot Shots Golf 2''
+*Japan {{ndash}} {{nowrap|1.44 million}}<ref name="jpplatinum"/>
+*United States {{ndash}} 158,482<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Arc the Lad (video game)|Arc the Lad]]''
+| {{hlist|[[G-Craft]]|Winds}}
+| [[Sony Computer Entertainment]]
+| {{dts|1995-06-30}}
+| 1,587,253
+| align="center" | <ref name="gamedatalibrary"/>
+|-
+| ''[[Madden NFL 99]]''
+| [[EA Tiburon]]
+| [[EA Sports]]
+| {{dts|1998-07-31}}
+| 1,500,000
+| align="center" |<ref name="usplatinum" />
+|-
+| ''[[A Bug's Life (video game)|A Bug's Life]]''
+| [[Traveller's Tales]]
+| [[Sony Computer Entertainment]]
+| {{dts|1998-11-18}}
+| 1,500,000
+| align="center" |<ref name="usplatinum" />
+|-
+| ''[[The World Is Not Enough (PlayStation video game)|007: The World Is Not Enough]]''
+| [[Black Ops Entertainment]]
+| [[Electronic Arts]]
+| {{dts|November 7, 2000}}
+| 1,500,000
+| align="center" |<ref name="Black Ops about">{{Cite web |url=http://www.blackops.com/about.html |title=James Bond Team |website=[[Black Ops Entertainment]] |accessdate=2016-12-09 |archiveurl=https://web.archive.org/web/20150110022906/http://www.blackops.com/about.html |archivedate=2015-01-10 |url-status=live}}</ref>
+|-
+| ''[[Legacy of Kain: Soul Reaver]]''
+| [[Crystal Dynamics]]
+| [[Eidos Interactive]]
+| {{dts|1999-08-16}}
+| 1,500,000
+| align="center" |<ref name="soulreaver">{{cite news |url=https://www.gamespot.com/articles/soul-reaver-2-becomes-a-ps2-exclusive/1100-2809497/ |title=Soul Reaver 2 becomes a PS2 exclusive |last=Ahmed |first=Shahed |work=[[GameSpot]] |publisher=[[CBS Interactive]] |date=May 17, 2006 |access-date=May 2, 2017 |archive-date=December 1, 2008 |archive-url=https://web.archive.org/web/20081201005656/http://www.gamespot.com/news/2809497.html |url-status=live }}</ref>
+|-
+| ''[[Chrono Cross]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| {{dts|1999-11-18}}
+| 1,500,000
+| align="center" | <ref name="squareenix" />
+|-
+| ''[[Madden NFL 2000]]''
+| [[EA Tiburon]]
+| [[EA Sports]]
+| {{dts|1999-07-31}}
+| 1,480,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[NFL GameDay 98]]''
+| [[989 Studios|Sony Interactive Studios America]]
+| [[Sony Computer Entertainment]]
+| {{dts|1997-07-31}}
+| 1,470,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Ridge Racer (1993 video game)|Ridge Racer]]''
+| [[Namco]]
+| [[Namco]]
+| {{dts|1994-12-03}}
+| 1,468,507
+| align="center" | {{efn|''Ridge Racer'':
+* Japan {{ndash}} 859,085<ref name="Famitsu95">{{cite web |title=1995 Top 100 |url=https://sites.google.com/site/gamedatalibrary/games-by-year/1995-top-100 |website=Game Data Library |publisher=[[Famitsu]] |access-date=17 September 2021 |archive-date=17 September 2021 |archive-url=https://web.archive.org/web/20210917102733/https://sites.google.com/site/gamedatalibrary/games-by-year/1995-top-100 |url-status=live }}</ref>
+* United States  {{ndash}} 609,422 (bundled 60,958, separate 548,464)<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Rugrats: Search for Reptar]]''
+| [[n-Space]]
+| [[THQ]]
+| {{dts|1998-10-31}}
+| 1,460,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Grand Theft Auto 2]]''
+| [[Rockstar North|DMA Design]]
+| [[Rockstar Games]]
+| {{dts|1999-10-25}}
+| 1,450,000
+| align="center" | <ref name="usplatinum"/><ref name="ukplatinum"/>
+|-
+| ''[[Cool Boarders 3]]''
+| [[Idol Minds]]
+| {{hlist|[[989 Studios]]|[[Sony Computer Entertainment]]}}
+| {{dts|1998-09-30}}
+| 1,430,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Syphon Filter 2]]''
+| [[Bend Studio|Eidetic]]
+| {{hlist|[[989 Studios]]|[[Sony Computer Entertainment]]}}
+| {{dts|2000-03-14}}
+| 1,420,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Dance Dance Revolution (1998 video game)|Dance Dance Revolution]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1999-04-10}}
+| 1,405,048
+| align="center" | {{efn|''Dance Dance Revolution'':
+*Japan {{ndash}} {{nowrap|1.27 million}}<ref name="jpplatinum"/>
+*United States {{ndash}} {{formatnum:{{#expr:104008+31040}}|}}<ref name="gamepilgrimage"/>
+}}
+|-
+|''[[Ape Escape (video game)|Ape Escape]]''
+|[[Japan Studio]]
+|[[Sony Computer Entertainment]]
+|{{dts|1999-06-22}}
+|1,400,000
+| align="center" |<ref>{{Cite magazine |last=Halverson |first=Dave |date=19 July 2003 |title=Reviews - Ape Escape 2 |url=https://archive.org/details/PLAY19Jul2003/page/n79/mode/2up |access-date=23 July 2025 |magazine=PLAY Magazine |page=79}}</ref>
+|-
+| ''[[Tomb Raider: Chronicles]]''
+| [[Core Design]]
+| [[Eidos Interactive]]
+| {{dts|2000-11-17}}
+| 1,400,000
+| align="center" | <ref name="tombraider"/>
+|-
+| ''[[Need for Speed: High Stakes]]''
+| [[EA Canada]]
+| [[Electronic Arts]]
+| {{dts|1999-03-01}}
+| 1,390,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[The Legend of Dragoon]]''
+| [[Japan Studio]]
+| [[Sony Computer Entertainment]]
+| {{dts|1999-12-02}}
+| 1,315,240
+| align="center" | {{efn|''The Legend of Dragoon'':
+* United States  {{ndash}} 960,000<ref name="usplatinum"/>
+* Japan {{ndash}} 355,240<ref name="gamedatalibrary"/>
+}}
+|-
+| ''[[Pac-Man World]]''
+| [[Namco|Namco Hometek]]
+| {{vgrelease|WW|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+| {{dts|1999-10-12}}
+| 1,310,518
+| align="center"| {{efn|''Pac-Man World''
+* United States {{ndash}} 1,240,000<ref name="usplatinum" />
+* Japan {{ndash}} 70,518<ref name="gamedatalibrary"/>
+}}
+|-
+| ''[[Jet Moto 2]]''
+| {{hlist|[[SingleTrac]]|[[989 Studios|Sony Interactive Studios America]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|1997-10-31}}
+| 1,310,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[WCW Nitro (video game)|WCW Nitro]]''
+| [[Inland Productions]]
+| [[THQ]]
+| {{dts|1998-01-31}}
+| 1,300,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Twisted Metal III]]''
+| [[989 Studios]]
+| {{hlist|[[989 Studios]]|[[Sony Computer Entertainment]]}}
+| {{dts|1998-10-31}}
+| 1,290,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Battle Arena Toshinden (video game)|Battle Arena Toshinden]]''
+| [[Tamsoft]]
+| {{vgrelease|JP/NA|[[Takara]]|NA/EU|[[Sony Computer Entertainment]]}}
+| {{dts|1995-01-01}}
+| 1,289,575
+| align="center" | {{efn|''Battle Arena Toshinden'':
+* Japan {{ndash}} 696,851<ref name="gamedatalibrary"/>
+* United States  {{ndash}} 532,724 (bundled 205,312, separate 327,412)<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Jet Moto (video game)|Jet Moto]]''
+| {{hlist|[[SingleTrac]]|[[989 Studios|Sony Interactive Studios America]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|1996-10-31}}
+| 1,270,000
+| align="center" |<ref name="usplatinum" />
+|-
+| ''[[Spec Ops: Stealth Patrol]]''
+| {{hlist|[[Zombie Studios]]|[[Runecraft]]}}
+| {{hlist|[[Take-Two Interactive]]|[[TalonSoft]]}}
+| {{dts|2000-06-05}}
+| 1,270,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Madden NFL 98]]''
+| [[EA Tiburon|Tiburon Entertainment]]
+| [[EA Sports]]
+| {{dts|1997-07-31}}
+| 1,250,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Dragon Quest IV#PlayStation remake|Dragon Quest IV]]''
+| [[Heartbeat (company)|Heartbeat]]
+| [[Enix]]
+| {{dts|2001-11-22}}
+| 1,232,071
+| align="center" | <ref name="gamedatalibrary"/>
+|-
+| ''[[Tenchu: Stealth Assassins]]''
+| [[Acquire (company)|Acquire]]
+| {{vgrelease|JP|[[Sony Music Entertainment Japan]]|WW|[[Activision]]}}
+| {{dts|1998-02-26}}
+| 1,230,675
+| align="center"| {{efn|''Tenchu: Stealth Assassins''
+* United States  {{ndash}} 730,675<ref name="gamepilgrimage"/>
+* Japan {{ndash}} 500,000+<ref name=nextgen>{{cite magazine |title=In the Studio |author=Next Generation staff |magazine=[[Next Generation (magazine)|Next Generation]] |publisher=[[Imagine Media]] |issue=42 |date=June 1998 |page=23}}</ref>
+}}
+|-
+| ''[[SaGa Frontier]]''
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP|[[Square (video game company)|Square]]|NA|[[Sony Computer Entertainment]]}}
+| {{dts|1997-07-11}}
+| 1,213,124
+| align="center" | {{efn|''SaGa Frontier'':
+*Japan {{ndash}} 1,095,226<ref name="gamedatalibrary"/>
+*United States {{ndash}} 117,898<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Cool Boarders 2]]''
+| [[UEP Systems]]
+| {{vgrelease|JP|[[UEP Systems]]|NA/EU|[[Sony Computer Entertainment]]}}
+| {{dts|1997-08-28}}
+| 1,210,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Xenogears]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| {{dts|1998-02-11}}
+| 1,209,479
+| align="center"| {{efn|''Xenogears'' sales breakdown:
+* Japan {{ndash}} 929,479<ref name="gamedatalibrary"/>
+* Overseas {{ndash}} 280,000<ref name="squareenix"/>
+}}
+|-
+| ''[[Dino Crisis 2]]''
+| [[Capcom]]
+| {{vgrelease|WW|[[Capcom]]|EU|[[Virgin Interactive]]}}
+| {{dts|2000-09-13}}
+| 1,200,000
+| align="center" | <ref name="capcom"/>
+|-
+| ''[[Monopoly (1997 video game)|Monopoly]]''
+| [[Gremlin Interactive]]
+| [[Hasbro Interactive]]
+| {{dts|1997-11-06}}
+| 1,190,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Arc the Lad II]]''
+| ARC Entertainment
+| [[Sony Computer Entertainment]]
+| {{dts|1996-11-11}}
+| 1,183,995
+| align="center" | <ref>{{cite book |chapter=96年9月～97年8月 |trans-chapter=1996.09~1997.08 |title=TV Game Ranking Databook: 1995.9~1998.8 |date=15 December 1998 |publisher=[[:ja:ベストセラーズ|ベストセラーズ]] (Bestsellers) |isbn=978-4-584-16090-9 |page=17 |chapter-url=https://cdn-ak.f.st-hatena.com/images/fotolife/M/MULTi88/20200928/20200928080910.jpg |language=ja |access-date=21 October 2021 |archive-date=16 September 2021 |archive-url=https://web.archive.org/web/20210916184234/https://cdn-ak.f.st-hatena.com/images/fotolife/M/MULTi88/20200928/20200928080910.jpg |url-status=live }}</ref>
+|-
+| ''[[Metal Gear Solid: VR Missions]]''
+| [[Konami Computer Entertainment Japan]]
+| [[Konami]]
+| {{dts|September 30, 1999}}
+| 1,180,000
+| align="center | <ref>{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref>
+|-
+| ''[[Chocobo's Mysterious Dungeon]]''
+| {{hlist|[[Square (video game company)|Square]]|Digital Media Lab}}
+| [[Square (video game company)|Square]]
+| {{dts|1997-12-22}}
+| 1,165,796
+| align="center" | <ref name="gamedatalibrary"/>
+|-
+| ''[[Ace Combat 3: Electrosphere]]''
+| [[Namco]]
+| [[Namco]]
+| {{dts|1999-05-27}}
+| 1,164,000
+| align="center" | <ref name="AceCombat"/>
+|-
+| ''[[NASCAR 98]]''
+| [[Stormfront Studios]]
+| [[EA Sports]]
+| {{dts|1997-11-17}}
+| 1,160,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[NBA Live 98]]''
+| [[EA Canada]]
+| [[EA Sports]]
+| {{dts|1997-11-30}}
+| 1,150,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Devil Dice]]''
+| Shift
+| {{vgrelease|JP/EU|[[Sony Computer Entertainment]]|NA|[[THQ]]}}
+| {{dts|1998-06-18}}
+| 1,140,609
+| align="center" | {{efn|''Devil Dice'':
+*Japan {{ndash}} {{nowrap|1.1 million}}<ref name="jpplatinum"/>
+*United States {{ndash}} 40,609<ref name="TRST">{{cite web |title=01-2003 |url=http://www.theonionring.com/01-2003-TRSTS.html |website=The Onion Ring |publisher=[[Toy Retail Survey Tracking]] (TRST) |date=January 2003 |url-status=dead |archive-url=https://web.archive.org/web/20030625131056/http://www.theonionring.com/01-2003-TRSTS.html |archive-date=2003-06-25 |access-date=5 November 2021}}</ref>
+}}
+|-
+| ''[[NASCAR 99]]''
+| [[Stormfront Studios]]
+| [[EA Sports]]
+| {{dts|1998-09-28}}
+| 1,140,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Tales of Destiny]]''
+| [[Namco Tales Studio|Wolf Team]]
+| [[Namco]]
+| {{dts|1997-12-23}}
+| 1,139,000
+| align="center" | <ref name="talesofdestiny">{{cite news |url=http://www.rpgfan.com/news/2007/1398.html |title=Tales Series Sales Top 10 Million Mark |last=Winkler |first=Chris |publisher=RPGFan |date=December 11, 2007 |access-date=May 2, 2017 |url-status=dead |archive-url=https://web.archive.org/web/20080713012123/http://www.rpgfan.com/news/2007/1398.html |archive-date=2008-07-13}}</ref>
+|-
+| ''[[NFL GameDay 99]]''
+| [[989 Studios]]
+| {{hlist|[[989 Studios]]|[[Sony Computer Entertainment]]}}
+| {{dts|1998-07-31}}
+| 1,120,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[I.Q.: Intelligent Qube]]''
+| {{hlist|[[Epics (company)|G-Artists]]|[[Sony Interactive Entertainment|Sugar & Rockets]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|1997-01-31}}
+| 1,113,288
+| align="center" | {{efn|''I.Q.''
+*Japan {{ndash}} {{nowrap|1.01 million}}<ref name="jpplatinum"/>
+*United States {{ndash}} 103,288<ref name="TRST"/>
+}}
+|-
+| ''[[Doko Demo Issyo]]''
+| BeXide
+| [[Sony Computer Entertainment]]
+| {{dts|1999-7-22}}
+| 1,100,000
+| align="center" | <ref name=":1">{{Cite magazine |date=January 2002 |title=Only in Japan |url=https://archive.org/details/official-us-playstation-magazine-issue-52-january-2002/page/66/mode/2up |magazine=Official U.S. PlayStation Magazine |issue=52 |page=66}}</ref>
+|-
+| ''[[beatmania]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1998-10-01}}
+| 1,100,000
+| align="center" | <ref name="jpplatinum"/>
+|-
+| ''[[Derby Stallion|Derby Stallion 99]]''
+| ParityBit
+| [[ASCII Corporation]]
+| {{dts|1999-09-30}}
+| 1,100,000
+| align="center" | <ref name="jpplatinum"/>
+|-
+| ''[[Star Ocean: The Second Story]]''
+| [[tri-Ace]]
+| {{vgrelease|JP|[[Enix]]|NA/EU|[[Sony Computer Entertainment]]}}
+| {{dts|1998-07-30}}
+| 1,094,000
+| align="center" | <ref name="starocean">{{cite web |url=http://www.tri-ace.co.jp//company/sales.html |title=2005年9月現在の主な開発タイトルの販売実績。 |publisher=[[tri-Ace]] |language=ja |access-date=May 2, 2017 |archive-url=https://web.archive.org/web/20080916225226/http://www.tri-ace.co.jp/company/sales.html |archive-date=September 16, 2008 |url-status=dead }}</ref>
+|-
+| ''[[Ace Combat 2]]''
+| [[Namco]]
+| [[Namco]]
+| {{dts|1997-05-30}}
+| 1,092,000
+| align="center" | <ref name="AceCombat"/>
+|-
+| ''[[2Xtreme]]''
+| [[989 Studios|Sony Interactive Studios America]]
+| [[Sony Computer Entertainment]]
+| {{dts|1996-11-06}}
+| 1,090,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[Parasite Eve II]]''
+| [[Square (video game company)|Square]]
+| [[Square (video game company)|Square]]
+| {{dts|1999-12-16}}
+| 1,090,000
+| align="center" | <ref name="squareenix"/>
+|-
+| ''[[Twisted Metal (1995 video game)|Twisted Metal]]''
+| {{hlist|[[SingleTrac]]|[[989 Studios|Sony Interactive Studios America]]}}
+| [[Sony Computer Entertainment]]
+| {{dts|1995-11-05}}
+| 1,080,000
+| align="center" |<ref name="usplatinum" />
+|-
+| ''[[Test Drive 5]]''
+| [[Midway Studios – Newcastle|Pitbull Syndicate]]
+| [[Accolade, Inc.|Accolade]]
+| {{dts|1998-09-30}}
+| 1,080,000
+| align="center" |<ref name="usplatinum" />
+|-
+| ''[[Twisted Metal 4]]''
+| [[989 Studios]]
+| [[Sony Computer Entertainment]]
+| {{dts|1999-10-31}}
+| 1,080,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[SpongeBob SquarePants: SuperSponge]]''
+| [[Climax Group]]
+| [[THQ]]
+| {{dts|2001-9-20}}
+| 1,070,000
+| align="center" | <ref name="usplatinum"/>
+|-
+| ''[[R4: Ridge Racer Type 4]]''
+| [[Namco]]
+| {{vgrelease|JP/NA|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+| {{dts|1998-12-03}}
+| 1,047,091
+| align="center" | {{efn|''R4: Ridge Racer Type 4''
+* Japan {{ndash}} 759,527<ref name="gamedatalibrary"/>
+* United States  {{ndash}} 297,564<ref name="gamepilgrimage"/>
+}}
+|-
+| ''[[Densha de Go! (video game)|Densha de Go!]]''
+| [[Taito]]
+| [[Taito]]
+| {{dts|1997-12-18}}
+| 1,040,000
+| align="center" | <ref name="jpplatinum"/>
+|-
+| ''[[Dance Dance Revolution 2ndMix|Dance Dance Revolution 2nd ReMix]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|1999-08-26}}
+| 1,032,085
+| align="center" | <ref name="gamedatalibrary"/>
+|-
+| ''[[NFL GameDay (video game)|NFL GameDay]]''
+| [[Sony Interactive Studios America]]
+| [[Sony Computer Entertainment]]
+| {{dts|1995-11}}
+| 1,000,000
+| align="center" | <ref>{{cite magazine |title=Who won the videogame wars of 1996? |magazine=[[Next Generation (magazine)|Next Generation]] |date=11 March 1997 |issue=28 (April 1997) |pages=16–9 |url=https://retrocdn.net/images/e/ef/NextGeneration_US_28.pdf#page=18 |access-date=21 October 2021 |archive-date=21 October 2021 |archive-url=https://web.archive.org/web/20211021085325/https://retrocdn.net/images/e/ef/NextGeneration_US_28.pdf#page=18 |url-status=live }}</ref>
+|-
+| ''[[Monster Rancher (video game)|Monster Rancher]]''
+| [[Tecmo]]
+| [[Tecmo]]
+| {{dts|1997-07-24}}
+| 1,000,000
+| align="center" | <ref>{{cite news |title=Monster Rancher Invades TV |url=https://www.ign.com/articles/1999/09/09/monster-rancher-invades-tv |access-date=11 December 2021 |work=[[IGN]] |date=9 September 1999 |archive-date=11 December 2021 |archive-url=https://web.archive.org/web/20211211204842/https://www.ign.com/articles/1999/09/09/monster-rancher-invades-tv |url-status=live }}</ref>
+|-
+| ''[[Fighting Force]]''
+| [[Core Design]]
+| [[Eidos Interactive]]
+| {{dts|1997-10-31}}
+| 1,000,000
+| align="center" | <ref>{{cite book |last1=Hickey |first1=Patrick |chapter=Sarah Jane Avory, ''Fighting Force'': From Streets of Rage 3D to Core Classic |title=The Minds Behind the Games: Interviews with Cult and Classic Video Game Developers |date=9 April 2018 |publisher=[[McFarland & Company]] |isbn=978-1-4766-7110-9 |page=45 |chapter-url=https://books.google.com/books?id=K5hUDwAAQBAJ&pg=PA45 |access-date=3 January 2021 |archive-date=7 February 2023 |archive-url=https://web.archive.org/web/20230207162232/https://books.google.com/books?id=K5hUDwAAQBAJ&pg=PA45 |url-status=live }}</ref>
+|-
+| ''[[Colin McRae Rally (1998 video game)|Colin McRae Rally]]''
+| [[Codemasters]]
+| [[Codemasters]]
+| {{dts|1998-07}}
+| 1,000,000
+| align="center" | <ref>{{cite web |url=https://www.gamesindustry.biz/articles/2019-04-12-every-game-to-sell-over-1m-copies-in-the-uk |title=Here is every boxed game to sell over 1m copies in the UK |date=12 April 2019 |publisher=Gamesindustry.biz |access-date=2019-04-18 |archive-date=2022-07-10 |archive-url=https://web.archive.org/web/20220710145214/https://www.gamesindustry.biz/articles/2019-04-12-every-game-to-sell-over-1m-copies-in-the-uk |url-status=live }}</ref>
+|-
+| ''[[Simple (video game series)|Simple 1500 Series Vol. 1: The Mahjong]]''
+| {{hlist|Chat Noir|[[Success (company)|Success]]}}
+| [[D3 Publisher]]
+| {{dts|1998-10-22}}
+| 1,000,000
+| align="center" | <ref name="jpplatinum" />
+|-
+| ''[[Street Fighter Alpha 3]]''
+| [[Capcom]]
+| [[Capcom]]
+| {{dts|1998-12-23}}
+| 1,000,000
+| align="center" | <ref name="capcom" />
+|-
+| ''[[WCW/nWo Thunder]]''
+| [[Inland Productions]]
+| [[THQ]]
+| {{dts|1998-12-31}}
+| 1,000,000
+| align="center" | <ref name="wcwnwo">{{cite news |url=http://www.ign.com/articles/1999/05/15/breaking-news-wwf-meets-toukon-retsuden |title=Breaking News! WWF Meets Toukon Retsuden |work=[[IGN]] |publisher=[[Ziff Davis]] |date=May 15, 1999 |access-date=May 2, 2017 |archive-date=October 26, 2017 |archive-url=https://web.archive.org/web/20171026053848/http://www.ign.com/articles/1999/05/15/breaking-news-wwf-meets-toukon-retsuden |url-status=live }}</ref>
+|-
+| ''[[NBA Live 2000]]''
+| [[EA Canada]]
+| [[EA Sports]]
+| {{dts|1999-10-31}}
+| 1,000,000
+| align="center" |<ref name="usplatinum" />
+|-
+| ''[[Dancing Stage Party Edition]]''
+| [[Konami]]
+| [[Konami]]
+| {{dts|2002-11-15}}
+| 1,000,000
+| align="center" |<ref name="ELSPA Sales Awards">{{cite web|url=http://www.elspa.com/?i=3944 |title=ELSPA Sales Awards: Platinum |publisher=Entertainment and Leisure Software Publishers Association |archive-url=https://web.archive.org/web/20100506092031/http://www.elspa.com/?i=3944 |archive-date=May 6, 2010 |access-date=Jan 30, 2020 |url-status=dead }}</ref>
+|}
+
+==See also==
+* [[List of best-selling video games]]
+* [[List of PlayStation games (A–L)]]
+* [[List of PlayStation games (M–Z)]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{vgbestsellers|state=expanded}}
+{{PlayStation (console)}}
+{{PlayStation}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling PlayStation video games}}
+[[Category:PlayStation (console) games| ]]
+[[Category:Lists of best-selling video games|PlayStation]]
+[[Category:PlayStation (brand)-related lists|Best-selling PlayStation video games]]

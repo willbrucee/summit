@@ -199,7 +199,7 @@ p { margin: 0; }
 .count-line { display: flex; justify-content: space-between; align-items: baseline; gap: var(--space-3); font-weight: 700; }
 .found-count { font-family: var(--font-display); font-size: var(--step-1); font-weight: 800; font-variant-numeric: tabular-nums; }
 .feedback { min-height: 1.5em; font-weight: 700; color: var(--glacier); }
-.feedback[data-kind="already"] { color: var(--ink-soft); }
+.feedback[data-kind="already"], .feedback[data-kind="outside"] { color: var(--ink-soft); }
 .found-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--space-2); align-content: flex-start; }
 .found-list li {
   border: 2px solid var(--ink); background: var(--found-bg); padding: 2px 10px; border-radius: 4px 12px 4px 12px;
@@ -242,7 +242,7 @@ p { margin: 0; }
 .feedback { min-height: 1.5em; font-weight: 700; font-size: var(--step--1); display: flex; flex-wrap: wrap; gap: 6px; align-items: center; color: var(--ink); }
 .feedback .pill { border: 2px solid var(--ink); border-radius: 999px; padding: 0 8px; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; background: var(--found-bg); }
 .feedback mark { background: var(--signal); color: var(--ink); border-radius: 3px; padding: 0 1px; }
-.feedback[data-kind="wrong"], .feedback[data-kind="ambiguous"], .feedback[data-kind="already"] { color: var(--ink-soft); }
+.feedback[data-kind="wrong"], .feedback[data-kind="ambiguous"], .feedback[data-kind="already"], .feedback[data-kind="outside"] { color: var(--ink-soft); }
 .flying { position: fixed; z-index: 30; pointer-events: none; margin: 0; }
 
 /* Combo: rope segments that fill with consecutive right answers. Looks only, no points. */

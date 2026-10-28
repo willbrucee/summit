@@ -1,0 +1,2465 @@
+{{Short description|None}}
+{{Dynamic list}}
+{{Use mdy dates|date=December 2023}}
+{{Video Games}}
+
+This is a list of [[personal computer games]] ([[video game]]s for [[personal computers]], including those running [[Windows]], [[macOS]], and [[Linux]]) that have sold or shipped at least one million copies. If a game was released on multiple platforms, the sales figures list are only for PC sales. This list is ''not'' comprehensive because sales figures are not always publicly available.
+
+Subscription figures for [[massively multiplayer online game]]s such as ''[[Microsoft Flight Simulator|Flight Simulator]]'' or ''[[Lineage (video game)|Lineage]]'' and number of accounts from [[free-to-play]] games such as ''[[Hearthstone (video game)|Hearthstone]]''<!--Furthermore, any citation should state strictly PC sales --> are not taken into account as they do not necessarily correspond to sales.
+
+==List==
+{{static row numbers}}
+{| class="wikitable sortable static-row-numbers"
+|+Games that have sold or shipped at least one million copies on PC platforms, such as [[Windows]], [[macOS]], and [[Linux]]
+|-
+! scope="col"| Game
+! scope="col"| Total copies sold
+! scope="col"| Series
+! scope="col"| Release date
+! scope="col"| Genre(s)
+! scope="col"| Developer(s)
+! scope="col"| Publisher(s)
+|-
+| ''[[PUBG: Battlegrounds]]''
+| {{sort|410|41 million}}<ref>{{Cite web |last=Chapman |first=Tom |date=2018-06-20 |title=PUBG Hits 50 Million Copies Sold... Then Immediately Goes On Sale |url=https://screenrant.com/pubg-copies-sold-50-million-steam/ |access-date=2025-11-25 |website=[[Screen Rant]] |language=en}}</ref><ref>{{cite news |title=PUBG Has Sold 8 Million Copies on Xbox One |url=https://screenrant.com/pubg-8-million-copies-xbox-one/ |access-date=January 27, 2019 |work=[[Screen Rant]] |date=July 4, 2018 |archive-date=September 23, 2020 |archive-url=https://web.archive.org/web/20200923084851/https://screenrant.com/pubg-8-million-copies-xbox-one/ |url-status=live }}</ref>
+| ''[[PUBG Universe]]''
+| {{dts|December 20, 2017}}
+| [[Battle royale game|Battle royale]]
+| [[PUBG Studio]]s
+|[[Krafton]]
+|-
+| ''[[Minecraft]]''
+| | {{sort|330|33 million}}<ref name="Minecraft Stats2">{{cite web |title=Store Minecraft |url=https://minecraft.net/en-us/store/ |url-status=dead |archive-url=https://web.archive.org/web/20191108040452/http://minecraft.net/en-us/store/ |archive-date=2019-11-08 |access-date=April 3, 2019 |website=Minecraft.net |publisher=Mojang}}</ref>
+| ''[[Minecraft (franchise)|Minecraft]]''
+| {{dts|November 18, 2011}}{{efn|Although ''Minecraft'' was first publicly available on May 17, 2009,<ref>{{cite web |url= http://notch.tumblr.com/post/109000107/minecraft-0-0-11a-for-public-consumption |title= Minecraft 0.0.11a for public consumption: The Word of Notch |last= Persson |first= Markus |date= May 17, 2009 |website= [[Tumblr]] |access-date= February 23, 2014 |archive-date= July 16, 2015 |archive-url= https://web.archive.org/web/20150716115516/http://notch.tumblr.com/post/109000107/minecraft-0-0-11a-for-public-consumption |url-status= dead }}</ref> and the 1.0 version on November 18, 2011, the first version of ''Minecraft'' which required a paid account was first publicly available on December 23, 2009,<ref>{{cite web |title=Oh, ok! Here, play with the latest version! |url=https://notch.tumblr.com/post/295879830/oh-ok-here-play-with-the-latest-version |website=The Word of Notch |first=Markus |last=Persson |access-date=May 7, 2019 |date=December 23, 2009 |archive-date=May 7, 2019 |archive-url=https://web.archive.org/web/20190507052413/https://notch.tumblr.com/post/295879830/oh-ok-here-play-with-the-latest-version |url-status=live }}</ref> therefore it started accumulating sales in that year.<!-- The word "release" is avoided to avoid confusion with the 1.0 version of Minecraft referred to by the developers as the "release" version. -->}}
+| [[Sandbox game|Sandbox]], [[survival game|survival]]
+| colspan="2" | [[Mojang Studios]]
+|-
+| ''[[Terraria]]''
+| {{sort|320|32 million}}<ref>{{cite web | url = https://forums.terraria.org/index.php?threads/terraria-state-of-the-game-june-2024.136658/ | title = Terraria State of the Game – June 2024 | date = June 24, 2024 | website = Terraria Forums | access-date = June 27, 2024 | archive-date = June 27, 2024 | archive-url = https://web.archive.org/web/20240627173340/https://forums.terraria.org/index.php?threads/terraria-state-of-the-game-june-2024.136658/ | url-status = live }}</ref>
+| {{n/a}}
+| {{dts|May 16, 2011}}
+| [[Action-adventure]]
+| colspan="2" | [[Re-Logic]]
+|-
+|''[[Stardew Valley]]''
+|{{sort|260|26 million}}<ref>{{Cite web|url=https://www.stardewvalley.net/press/|title=Stardew Valley - Press}}</ref>
+| {{n/a}}
+|{{dts|February 26, 2016}}
+|[[Farm life sim]], [[Role-playing video game|role-playing]]
+| colspan="2" | [[ConcernedApe]]{{efn|Published by [[Chucklefish]] between 2016–2018}}
+|-
+| ''[[Garry's Mod]]''
+| {{Sort|254|25.4 million}}<ref>{{Cite web |last=Yin-Poole |first=Wesley |date=2024-11-29 |title=Garry's Mod Has Sold an Incredible 25.4 Million Copies, Is the Best-Selling PC Exclusive of All-Time |url=https://www.ign.com/articles/garrys-mod-has-sold-an-incredible-254-million-copies-is-the-best-selling-pc-exclusive-of-all-time |access-date=2025-07-16 |website=IGN |language=en}}</ref>
+| {{n/a}}
+| {{dts|November 29, 2006}}
+| [[Sandbox (video games)|Sandbox]]
+| [[Facepunch Studios]]
+| [[Valve Corporation|Valve]]
+|-
+| ''[[Euro Truck Simulator 2]]''
+| {{sort|220|22 million}}<ref name="scs">{{cite web |title=SCS Software Press |url=https://www.scssoft.com/press/ |website=SCS Software |access-date=January 24, 2024 |language=en |date=January 24, 2024 |archive-date=January 10, 2024 |archive-url=https://web.archive.org/web/20240110122212/https://www.scssoft.com/press/ |url-status=live }}</ref>
+| ''[[Truck Simulator]]''
+| {{dts|October 19, 2012}}
+| [[Vehicle simulation game|Vehicle simulation]]
+| colspan="2" | [[SCS Software]]
+|-
+|[[Phasmophobia (video game)|''Phasmophobia'']]
+|{{sort|210|21 million}}<ref>{{Cite web |date=2024-12-03 |title=Phasmophobia sales top one million on consoles, total sales approach 22 million |url=https://www.gematsu.com/2024/12/phasmophobia-sales-top-one-million-on-consoles-total-sales-approach-22-million |access-date=2024-12-06 |website=Gematsu |language=en-US}}</ref>
+| {{n/a}}
+|{{dts|September 18, 2020}}{{efn|This release date is for early access}}
+|[[Survival horror]], [[Puzzle video game|puzzle]]
+| colspan="2" |Kinetic Games
+|-
+| ''[[Diablo III]]''
+| {{sort|200|20 million}}<ref>{{cite web|access-date=August 5, 2014|url=https://www.polygon.com/2014/8/5/5972671/diablo-3-activision-blizzard-pc-sales|title=Diablo 3 tops PC charts with 20 million copies sold|date=August 5, 2014|publisher=[[Activision Blizzard]]|archive-date=October 13, 2020|archive-url=https://web.archive.org/web/20201013134028/https://www.polygon.com/2014/8/5/5972671/diablo-3-activision-blizzard-pc-sales|url-status=live}}</ref>{{efn|This excludes the 1.2 million copies given away as part of Blizzard's ''World of Warcraft ''annual pass offer.}}
+| ''[[Diablo (series)|Diablo]]''
+| {{dts|May 15, 2012}}
+| [[Action role-playing]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+| ''[[Meccha Chameleon]]''
+| {{sort|200|20 million}}<ref>{{cite news |last1=Okada |first1=Yuka |script-title=ja:「めっちゃカメレオン」2000万本突破 日本の2人が開発、発売から2カ月で |url=https://www.itmedia.co.jp/news/article/2608/12/2000000507/ |access-date=12 August 2026 |work=ITmedia |date=12 August 2026 |language=ja |trans-title="Meccha Chameleon" Surpasses 20 Million Units Sold; Developed by Two Japanese Creators, Reached Milestone Two Months After Launch}}</ref>
+| {{n/a}}
+| June 10, 2026
+| [[Casual video game|Casual]]
+| colspan=2 | Lemorion_1224 and Haganeiro
+|-
+|[[Rust (video game)|''Rust'']]
+|{{Sort|200|20 million}}<ref>{{Cite web |last=Mahmoud |first=Mustafa |title=Rust has sold over 20 million copies on Steam alone |url=https://www.kitguru.net/desktop-pc/mustafa-mahmoud/rust-has-sold-over-20-million-copies-on-steam-alone/ |access-date=2025-11-21 |website=KitGuru |language=en-US}}</ref>
+| {{n/a}}
+|{{dts|February 8, 2018}}
+|[[Survival game|Survival]]
+| colspan="2" |[[Facepunch Studios]]
+|-
+| ''[[Counter-Strike: Source]]''
+| {{sort|150|15 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| ''[[Counter-Strike]]''
+| {{dts|November 1, 2004}}
+| [[First-person shooter]]
+| colspan="2" | [[Valve Corporation|Valve]]
+|-
+| ''[[World of Warcraft]]''
+| {{sort|140|14 million}}<ref>{{cite web|access-date=December 23, 2013|url=http://www.statisticbrain.com/blizzard-entertainment-statistics/|title=Blizzard Entertainment Statistics|publisher=statisticbrain|archive-date=October 17, 2017|archive-url=https://web.archive.org/web/20171017102443/http://www.statisticbrain.com/blizzard-entertainment-statistics/|url-status=live}}</ref>{{efn|Subscribers are not the same as sales; many Asian markets use a different business model that does not involve retail copies. As such subscriber figures do not equate to sales figures.}}{{Better source needed|reason=primary source for retail copy sales needed|date=May 2014}}
+| ''[[Warcraft]]''
+| {{dts|November 23, 2004}}
+| [[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+| ''[[Helldivers 2]]''
+| {{sort|126|12.6 million}}<ref name="Alinea Oct 2025">{{cite web |url=https://alineaanalytics.substack.com/p/ghost-of-yotei-outsold-assassins |title=Ghost of Yotei outsold Assassin's Creed Shadows on PS5 in under three weeks |last=Elliott |first=Rhys |website=alineaanalyctics.com |date=October 23, 2025 |accessdate=October 23, 2025}}</ref>
+| {{n/a}}
+| {{dts| February 8, 2024}}
+| [[Third-person shooter]]
+| [[Arrowhead Game Studios]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Grand Theft Auto V]]''
+| {{sort|126|12.6 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| '' [[Grand Theft Auto]]''
+| {{dts|April 14, 2015}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North]]
+| [[Rockstar Games]]
+|-
+| ''[[Half-Life 2]]''
+| {{sort|123|12.3 million}}<ref>{{cite web|url=https://www.forbes.com/forbes/2011/0228/technology-gabe-newell-videogames-valve-online-mayhem.html|title=The Master of Online Mayhem|date=February 9, 2011|work=Forbes|access-date=October 14, 2014|archive-date=March 7, 2017|archive-url=https://web.archive.org/web/20170307052320/https://www.forbes.com/forbes/2011/0228/technology-gabe-newell-videogames-valve-online-mayhem.html|url-status=live}}</ref>{{Better source needed|reason=does not strictly say it is just PC Sales, may include Xbox and PS3|date=September 2014}}
+| ''[[Half-Life (series)|Half-Life]]''
+| {{dts|November 16, 2004}}
+| [[First-person shooter]]
+| [[Valve Corporation|Valve]]
+| [[Valve Corporation|Valve]]
+|-
+| ''[[The Witcher 3: Wild Hunt]]''
+| {{sort|120|12 million}}<ref>{{cite web |url=https://www.gamespot.com/articles/witcher-3s-sales-by-system-how-the-game-has-sold-o/1100-6475832/ |title=Witcher 3's Sales By System--How The Game Has Sold On PC, PS4, Xbox One, And Switch |website=[[GameSpot]] |date=April 17, 2020 |access-date=May 25, 2020 |archive-date=September 23, 2020 |archive-url=https://web.archive.org/web/20200923110415/https://www.gamespot.com/articles/witcher-3s-sales-by-system-how-the-game-has-sold-o/1100-6475832/ |url-status=live }}</ref>
+| ''[[The Witcher (video game series)|The Witcher]]''
+| {{dts|May 19, 2015}}
+| [[Action role-playing]]
+| [[CD Projekt Red]]
+| [[CD Projekt]]
+|-
+| ''[[Valheim]]''
+| {{sort|120|12 million}}<ref>{{cite web |last1=Carter |first1=Justin |date=September 21, 2023 |title=Valheim has "crafted" 12 million sold copies |url=https://www.gamedeveloper.com/business/-i-valheim-i-has-crafted-12-million-sold-copies |access-date=September 21, 2023 |website=Game Developer}}</ref>
+| {{n/a}}
+| {{dts|February 2, 2021}}
+| [[Survival game|Survival]]
+| Iron Gate
+| [[Coffee Stain Publishing]]
+|-
+| [[The Sims (video game)|''The Sims'']]
+| {{sort|112|11 million}}<ref name=guinness-sims>{{cite book | title=Guinness World Records 2016 Gamer's Edition | author=Guinness World Records | page=145 | publisher=Macmillan | year=2015 | isbn=9781910561133}}</ref>
+| ''[[The Sims]]''
+| {{dts|February 4, 2000}}
+| [[Life simulation game|Life simulation]]
+| [[Maxis]]
+| [[Electronic Arts]]
+|-
+| [[StarCraft (video game)|''StarCraft'']]
+| {{sort|110|11 million}}<ref name="starcraft">{{cite magazine|url=http://www.next-gen.biz/news/blizzard-confirms-one-frontline-release-09 |title=Blizzard Confirms One "Frontline Release" for '09 |date=February 11, 2009 |access-date=March 1, 2009 |magazine=[[Edge (magazine)|Edge]] |author=Kris Graft |url-status=dead |archive-url=https://web.archive.org/web/20100825135123/http://www.next-gen.biz/news/blizzard-confirms-one-frontline-release-09 |archive-date=August 25, 2010 }}</ref>{{Better source needed|reason=existing source does not state strictly PC sales but may also include OSX and N64 sales|date=August 2014}}
+| ''[[StarCraft (series)|StarCraft]]''
+| {{dts|March 31, 1998}}
+| [[Real-time strategy]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+|''[[Ready or Not (video game)|Ready or Not]]''
+|{{sort|100|10 million}}<ref>{{Cite web |last=Mahmoud |first=Mustafa |title=Ready or Not officially sells 3 million copies on console – pushing total sales past 13 million |url=https://www.kitguru.net/tech-news/mustafa-mahmoud/ready-or-not-officially-sells-3-million-copies-on-console-pushing-total-sales-past-13-million/ |access-date=2025-11-21 |website=KitGuru |language=en-US}}</ref>
+| {{n/a}}
+|{{dts|December 13, 2023}}
+|[[Tactical shooter|Tactical]] [[first-person shooter]]
+| colspan="2" |VOID Interactive
+|-
+| ''[[Kingdom Come: Deliverance]]''
+| {{sort|100|10 million}}<ref>{{cite web |last1=Mančař |first1=Michal |title=Prodeje Kingdom Come překonávají plány, čtyřmi miliony jsme si jistí, říká šéf Warhorse. I díky Číně |url=https://cc.cz/prodeje-kingdom-come-prekonavaji-plany-ctyrmi-miliony-jsme-si-jisti-rika-sef-warhorse-i-diky-cine/ |website=CzechCrunch |language=cs |date=8 May 2025}}</ref>
+| {{n/a}}
+| {{dts|February 13, 2018}}
+| [[Action role-playing game|Action role-playing]]
+| colspan="2" | [[Warhorse Studios]]
+|-
+| ''[[RollerCoaster Tycoon 3]]''
+| {{Sort|110|10 million}}<ref>{{cite web|url=http://www.polygon.com/2015/6/22/8825441/planet-coaster-is-getting-ready-for-a-big-ride|title=Planet Coaster is getting ready for a big ride|first=Colin|last=Campbell|work=[[Polygon (website)|Polygon]]|date=June 22, 2015|access-date=December 30, 2016|archive-date=June 23, 2015|archive-url=https://web.archive.org/web/20150623025126/http://www.polygon.com/2015/6/22/8825441/planet-coaster-is-getting-ready-for-a-big-ride|url-status=live}}</ref>
+| ''[[RollerCoaster Tycoon]]''
+| {{dts|October 26, 2004}}
+| [[Construction and management simulation]]
+|[[Frontier Developments]]
+|[[Atari SA|Atari Interactive]] (Windows)<br />[[Aspyr Media]] (macOS)
+|-
+| ''[[Fall Guys]]''
+| {{sort|110|10 million}}<ref>{{cite web |last1=Hetfeld |first1=Malindy |title=Fall Guys has sold ten million copies on PC |url=https://www.pcgamer.com/fall-guys-has-sold-ten-million-copies-on-pc/ |website=PC Gamer |date=November 16, 2020 |access-date=November 17, 2020 |archive-date=November 16, 2020 |archive-url=https://web.archive.org/web/20201116204414/https://www.pcgamer.com/fall-guys-has-sold-ten-million-copies-on-pc/ |url-status=live }}</ref>
+| {{n/a}}
+| {{dts|August 4, 2020}}
+| [[Battle royale game|Battle royale]]
+| [[Mediatonic]]
+| [[Devolver Digital]]
+|-
+|''[[Peak (video game)|Peak]]''
+|{{sort|110|10 million}}<ref>{{cite web |last1=Valentine |first1=Rebekah |title=Peak Sells 10 Million Copies |url=https://www.ign.com/articles/peak-sells-10-million-copies |website=IGN |access-date=20 August 2025 |language=en |date=20 August 2025}}</ref>
+| {{n/a}}
+|{{dts|June 16, 2025}}
+|[[Cooperative video game|Cooperative]], climbing
+| colspan="2" |Aggro Crab
+[[Landfall Games|Landfall]]
+|-
+|''[[Civilization V]]''
+|{{sort|080|8 million}}<ref name="venturebeat">{{cite web|url=https://venturebeat.com/2016/02/18/civilization-25-years-66-versions-33m-copies-sold-1-billion-hours-played/|title=Civilization: 25 years, 33M copies sold, 1 billion hours played, and 66 versions|work=VentureBeat |date=February 18, 2016|access-date=April 7, 2018|archive-date=September 23, 2020|archive-url=https://web.archive.org/web/20200923083714/https://venturebeat.com/2016/02/18/civilization-25-years-66-versions-33m-copies-sold-1-billion-hours-played/|url-status=live}}</ref>
+| ''[[Civilization (series)|Civilization]]''
+| {{dts|September 2010}}
+| [[Turn-based strategy]], [[4X]]
+| [[Firaxis Games]]
+| [[2K Games]] & [[Aspyr]]
+|-
+| ''[[Deep Rock Galactic]]''
+| {{sort|080|8 million}}<ref>{{Cite news |last=Wolens |first=Joshua |date=2024-01-12 |title=The nicest community in gaming has over 8 million members and an urgent friendly fire crisis as Deep Rock Galactic releases its 2023 stats |url=https://www.pcgamer.com/the-nicest-community-in-gaming-has-over-8-million-members-and-an-urgent-friendly-fire-crisis-as-deep-rock-galactic-releases-its-2023-stats/ |access-date=2025-03-25 |work=PC Gamer |language=en}}</ref>
+| {{n/a}}
+| {{dts|May 13, 2020}}
+| [[First-person shooter]]
+| [[Ghost Ship Games]]
+| [[Coffee Stain Publishing]]
+|-
+| ''[[Cyberpunk 2077]]''
+| {{sort|077|7.67 million}}<ref>{{cite web |last=Makuch |first=Eddie |date=April 22, 2021 |title=Cyberpunk 2077 Sold 13.7 Million Copies In 21 Days, 30,000 People Got Refunds |url=https://www.gamespot.com/articles/cyberpunk-2077-sold-13-7-million-copies-in-21-days-30000-people-got-refunds/1100-6490486/#:~:text=In%20regard%20to%20the%2013.7%20million%20units%20that,million%20of%20Cyberpunk%202077%20copies%20were%20sold%20digitally. |url-status=live |archive-url=https://web.archive.org/web/20210422194452/https://www.gamespot.com/articles/cyberpunk-2077-sold-13-7-million-copies-in-21-days-30000-people-got-refunds/1100-6490486/ |archive-date=April 22, 2021 |access-date=February 10, 2021 |website=Gamespot.com}}</ref>{{efn|Of the 13.7 million total units sold by April 2021, 56% were for the PC version.}}
+| {{n/a}}
+| {{dts|December 10, 2020}}
+| [[Action role-playing]]
+| [[CD Projekt Red]]
+| [[CD Projekt]]
+|-
+| ''[[The Sims 3]]''
+| {{sort|070|7 million}}<ref name=guinness-sims/>
+| ''[[The Sims]]''
+| {{dts|June 2, 2009}}
+| [[Life simulation game|Life simulation]]
+| [[Maxis]]
+| [[Electronic Arts]]
+|-
+|''[[Star Wars: Empire at War]]''
+|{{sort|067|6.7 million}}<ref>{{Cite web |last=Petroglyph |date=30 August 2017 |title=RTS Veterans Petroglyph Make Return to Star Wars: Empire at War™ With New Multiplayer Update |url=https://www.prnewswire.com/news-releases/rts-veterans-petroglyph-make-return-to-star-wars-empire-at-war-with-new-multiplayer-update-300511496.html |archive-url=https://web.archive.org/web/20170830181926/https://www.prnewswire.com/news-releases/rts-veterans-petroglyph-make-return-to-star-wars-empire-at-war-with-new-multiplayer-update-300511496.html |archive-date=30 August 2017 |access-date=2025-04-16 |website=www.prnewswire.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|February 16, 2006}}
+|[[Real-time strategy]]
+|[[Petroglyph Games]]
+|[[Lucasfilm Games|LucasArts]]<br />[[Aspyr]] (Mac OS X)
+|-
+| [[Guild Wars (video game)|''Guild Wars'']]
+| {{sort|065|6.5 million}}<ref name="guildwarsprophecies">{{cite web|title=Guild Wars surpasses 6.5 million sales, sequel will be released 'when it's done' |url=http://www.gamedaily.com/games/guild-wars-2/pc/game-features/guild-wars-surpasses-65-million-sales-sequel-will-be-released-when-its-done/ |date=August 31, 2010 |access-date=August 31, 2010 |publisher=[[GameDaily]] |url-status=dead |archive-url=https://web.archive.org/web/20100905022537/http://www.gamedaily.com/games/guild-wars-2/pc/game-features/guild-wars-surpasses-65-million-sales-sequel-will-be-released-when-its-done |archive-date=September 5, 2010 }}</ref>
+| ''[[Guild Wars]]''
+| {{dts|April 28, 2005}}
+| [[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+| [[ArenaNet]]
+| [[NCsoft]]
+|-
+| ''[[The Sims 2]]''
+| {{sort|060|6 million}}<ref name="thesims2">{{cite web |url=http://www.tomshardware.com/picturestory/587-13-best-selling-game-list.html |title=The Top 15 Best-Selling PC Games Of All Time: #4: The Sims 2 |date=March 21, 2012 |publisher=[[Tom's Hardware]] |access-date=January 18, 2013 |archive-date=May 30, 2014 |archive-url=https://archive.today/20140530121912/http://www.tomshardware.com/picturestory/587-13-best-selling-game-list.html |url-status=dead }}</ref>
+| ''[[The Sims]]''
+| {{dts|September 14, 2004}}
+| [[Life simulation game|Life simulation]]
+| [[Maxis]]
+| [[Electronic Arts]]
+|-
+| ''[[Cities: Skylines]]''
+| {{sort|060|6 million}}<ref>{{Cite news|author1=Jody Macgregor|date=March 9, 2019|title=Cities: Skylines has sold six million copies|language=en|work=PC Gamer|url=https://www.pcgamer.com/cities-skylines-has-sold-six-million-copies/|access-date=January 24, 2022|archive-date=April 13, 2019|archive-url=https://web.archive.org/web/20190413102127/https://www.pcgamer.com/cities-skylines-has-sold-six-million-copies/|url-status=live}}</ref>
+| {{n/a}}
+| {{dts|March 10, 2015}}
+| [[City-building game|City-building]]
+| [[Colossal Order (company)|Colossal Order]]
+| [[Paradox Interactive]]
+|-
+| ''[[StarCraft II: Wings of Liberty]]''
+| {{sort|060|6 million}}<ref>{{cite press release|url=http://www.polygon.com/2012/11/7/3615054/starcraft-2-heart-of-the-swarm-release-window-2013|title=StarCraft 2: Heart of the Swarm launching in 'first half 2013'|access-date=November 8, 2012|date=November 8, 2011|publisher=polygon.com|archive-date=May 23, 2019|archive-url=https://web.archive.org/web/20190523211122/https://www.polygon.com/2012/11/7/3615054/starcraft-2-heart-of-the-swarm-release-window-2013|url-status=live}}</ref>
+| ''[[StarCraft (series)|StarCraft]]''
+| {{dts|July 27, 2010}}
+| [[Real-time strategy]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+| ''[[Myst]]''
+| {{sort|060|6 million}}<ref>{{cite web|url=https://www.fastcompany.com/90240345/myst-at-25-how-it-changed-gaming-created-addicts-and-made-enemies|title=Blockbuster Search|newspaper=[[Los Angeles Times]]|page=48|date=March 3, 1997|access-date=November 24, 2021|via=[[Newspapers.com]]|archive-date=October 1, 2018|archive-url=https://web.archive.org/web/20181001011957/https://www.fastcompany.com/90240345/myst-at-25-how-it-changed-gaming-created-addicts-and-made-enemies|url-status=live}}</ref>
+| ''[[Myst (series)|Myst]]''
+| {{dts|September 24, 1993}}
+| [[Adventure game|Adventure]], [[Puzzle video game|puzzle]]
+| [[Cyan Worlds|Cyan]]
+| [[Broderbund]]
+|-
+|[[Age of Empires II|''Age of Empires II HD'']]
+|{{sort|058|5.8 million}}<ref name="Rice" />{{Efn|name=steamexploit|Estimates obtained using a now closed exploit of Steam's achievement system. Only includes Steam sales up to July 2018. Figures are lower bound estimates, as they only include copies that were started at least once.
+
+If included in the list, the game was never offered for free on steam before July 2018, as free copies would inflate the numbers.}}
+|''[[Age of Empires]]''
+|{{dts|April 9, 2013}}
+|[[Real-time strategy]]
+|[[Ensemble Studios]]
+|[[Microsoft]]
+|-
+| ''[[Last Ninja 2]]''
+| {{sort|055|5.5 million}}<ref name="Ninja">{{cite journal |title=Mark Cale interrogation |journal=[[Retro Gamer]] |date=October 2005 |issue=18 |pages=56–57 (57) |url=https://archive.org/details/Retro_Gamer_UK_18/page/n51}}</ref>
+| ''[[Last Ninja]]''
+| {{dts|1988|8|29}}
+| [[Action-adventure game|Action-adventure]]
+| [[System 3 (software company)|System 3]]
+| [[Activision]]
+|-
+| ''[[ARMA 3]]''
+| {{sort|055|5.5 million}}<ref name="bohemiainteractive">{{cite web |title=ARMA 3 reaches lifetime sales of 5.5M copies sold |url=https://www.bohemia.net/blog/bohemia-interactive-sales-reaching-68-milion-usd-in-2019#:~:text=DayZ%20%E2%80%93%20a%20big%20success%20bolstered%20by%20console%20releases&text=The%20Livonia%20DLC%20received%20a,around%20400%20thousand%20copies%20sold. |access-date=September 2, 2020 |language=cs |date=March 20, 2020 |archive-date=October 14, 2020 |archive-url=https://web.archive.org/web/20201014013816/https://www.bohemia.net/blog/bohemia-interactive-sales-reaching-68-milion-usd-in-2019#:~:text=DayZ%20%E2%80%93%20a%20big%20success%20bolstered%20by%20console%20releases&text=The%20Livonia%20DLC%20received%20a,around%20400%20thousand%20copies%20sold. |url-status=live }}</ref>
+| ''[[ARMA (series)|ARMA]]''
+| {{dts|September 12, 2013}}
+| [[Tactical shooter]]
+| colspan="2" | [[Bohemia Interactive]]
+|-
+| ''[[Satisfactory]]''
+| {{sort|055|5.5 million<ref name="Satisfactory hits 5.5m sales after five years of early access">{{cite web|title=Satisfactory hits 5.5m sales after five years of early access, 1.0 due "this year"|date=2 February 2024|url=https://www.eurogamer.net/satisfactory-has-sold-55m-copies-after-five-years-of-early-access-10-is-due-this-year|archive-url=https://ghostarchive.org/archive/erFBz|archive-date=14 March 2024|url-status=live|website=Euro Gamer|access-date=14 March 2024}}{{cbignore}}</ref>}}
+| {{n/a}}
+| {{dts|March 19, 2019}}
+| [[Construction and management simulation]]
+| colspan="2" | [[Coffee Stain Studios]]
+|-
+|''[[Tomb Raider (2013 video game)|Tomb Raider]]''
+|{{sort|055|5.5 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Tomb Raider]]''
+|{{dts|March 5, 2013}}
+|[[Action-adventure game|Action-adventure]]
+|[[Crystal Dynamics]]
+|[[Square Enix Europe]]
+|-
+| [[The Forest (video game)|''The Forest'']]
+| {{sort|053|5.3 million}}<ref>{{cite web|last1=McAloon|first1=Alissa|date=November 5, 2018|title=Horror survival game The Forest has sold over 5.3 million copies|url=http://www.gamasutra.com/view/news/329993/Horror_survival_game_The_Forest_has_sold_over_53_million_copies.php|access-date=February 10, 2022|website=Gamedeveloper.con|archive-date=July 11, 2019|archive-url=https://web.archive.org/web/20190711083130/https://www.gamasutra.com/view/news/329993/Horror_survival_game_The_Forest_has_sold_over_53_million_copies.php|url-status=dead}}</ref>
+| {{n/a}}
+| {{dts|April 30, 2018}}
+| [[Survival game|Survival]]
+| colspan="2" | [[Endnight games|Endnight Games]]
+|-
+|''[[Fallout: New Vegas]]''
+|{{sort|052|5.2 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Fallout (franchise)|Fallout]]''
+|{{dts|October 19, 2010}}
+|[[Action role-playing game|Action role-playing]]
+|[[Obsidian Entertainment]]
+|[[Bethesda Softworks]]
+|-
+|''[[Baldur's Gate 3]]''
+|{{sort|052|5.2 million}}<ref>{{Cite web |last=Palumbo |first=Alessio |date=2023-08-19 |title=Baldur's Gate 3 Topped 5.2 Million Units Sold on Steam, Says Belgian Embassy |url=https://wccftech.com/baldurs-gate-3-topped-5-2-million-units-sold-on-steam-says-belgian-embassy/ |access-date=2026-06-27 |website=Wccftech |language=en-US}}</ref>
+|''[[Baldur's Gate]]''
+|{{dts|August 3, 2023}}
+|[[Role-playing game]]
+| colspan="2" |[[Larian Studios]]
+|-
+|''[[Sea of Thieves]]''
+|{{sort|050|5 million}}<ref>{{Cite web |date=2021-12-22 |title=Sea of Thieves: 2025 Edition - Celebrate Five Million Sea of Thieves Sales on Steam |url=https://store.steampowered.com/news/app/1172620/view/3119304318780059475 |access-date=2025-09-17 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|June 3, 2020}}
+|[[Adventure game|Adventure]]
+|[[Rare (company)|Rare Ltd]]
+|[[Xbox Game Studios]]
+|-
+|''[[SimCity 3000]]''
+|{{sort|050|5 million}}<ref>{{cite press release |url=http://news.ea.com/portal/site/ea/index.jsp?ndmViewId=news_view&ndmConfigId=1013897&newsId=20071113005513&newsLang=en  |archive-url=https://web.archive.org/web/20110710163320/http://news.ea.com/portal/site/ea/index.jsp?ndmViewId=news_view&ndmConfigId=1013897&newsId=20071113005513&newsLang=en |archive-date=July 10, 2011 |title= SimCity Societies Ships to Retailers, Turning PC Gamers Everywhere into Shapers of Cultures   |date=November 13, 2007 |publisher=[[Electronic Arts]] |access-date=January 26, 2013}}</ref>
+|''[[SimCity]]''
+|{{dts|January 31, 1999}}
+|[[City-building game|City-building]]
+|[[Maxis]]
+|[[Electronic Arts]]
+|-
+| ''[[Guild Wars 2]]''
+| {{sort|050|5 million}}<ref name="guildwars2">{{cite web|url = http://www.ign.com/articles/2015/08/21/guild-wars-2-sales-figures-revealed|title = ArenaNet has revealed Guild Wars 2 has sold more than 5 million copies to-date.|publisher = www.guildwars2.com|author = Mike O'Brien|date = August 21, 2015|access-date = August 30, 2015|archive-date = February 1, 2019|archive-url = https://web.archive.org/web/20190201090954/https://www.ign.com/articles/2015/08/21/guild-wars-2-sales-figures-revealed|url-status = live}}</ref><ref name="guildwars">{{cite web|url = http://www.ign.com/articles/2015/10/23/guild-wars-2-hits-7-million-players-as-expansion-launches|title = The news comes two months after the announcement the core game would be embracing a free-to-play model|publisher = www.guildwars2.com|author = Mike O'Brien|date = October 23, 2015|access-date = August 30, 2015|archive-date = December 1, 2017|archive-url = https://web.archive.org/web/20171201044930/http://www.ign.com/articles/2015/10/23/guild-wars-2-hits-7-million-players-as-expansion-launches|url-status = live}}</ref>
+| ''[[Guild Wars]]''
+| {{dts|August 28, 2012}}
+| [[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+| [[ArenaNet]]
+| [[NCsoft]]
+|-
+|''[[Arma 2: Operation Arrowhead]]''
+|{{sort|045|4.5 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Arma (series)|ARMA]]''
+|{{dts|June 29, 2010}}
+|[[Tactical shooter]]
+|[[Bohemia Interactive|Bohemia Interactive Studio]]
+|[[505 Games]] (EU)
+Meridian4 (NA)
+|-
+|''[[RV There Yet?]]''
+|{{sort|045|4.5 million}}<ref>{{Cite web |date=2025-12-20 |title=Co-op smash hit RV There Yet? gets an 'unplanned content update for an unplanned game' as the comedy vehicle sim surpasses 4.5 million copies sold |url=https://www.pcgamer.com/games/adventure/co-op-smash-hit-rv-there-yet-gets-an-unplanned-content-update-for-an-unplanned-game-as-the-comedy-vehicle-sim-surpasses-4-5-million-copies-sold/ |access-date=2025-12-25 |website=PCGamer |language=en}}</ref>
+| {{n/a}}
+|{{dts|21 October 2025}}
+|[[Cooperative video game|Cooperative]] [[adventure game|adventure]]
+| colspan="2" |Nuggets Entertainment
+|-
+|''[[BioShock Infinite]]''
+|{{sort|045|4.5 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[BioShock]]''
+|{{dts|March 26, 2013}}
+|[[First-person shooter]]
+|[[Irrational Games]]
+|[[2K (company)|2K]]
+|-
+| ''[[American Truck Simulator]]''
+| {{sort|040|4 million}}<ref name="scs" />
+| ''[[Truck Simulator]]''
+| {{dts|October 19, 2012}}
+| [[Vehicle simulation game|Vehicle simulation]]
+| colspan="2" | [[SCS Software]]
+|-
+| ''[[The Last Ninja]]''
+| {{sort|040|4 million}}<ref name="Ninja"/>
+| ''[[Last Ninja]]''
+| {{dts|1987}}
+| [[Action-adventure game|Action-adventure]]
+| [[System 3 (software company)|System 3]]
+| [[Activision]]
+|-
+|''[[Risk of Rain 2]]''
+|{{sort|040|4 million}}<ref>{{Cite web |title=Risk Of Rain 2 Sells 4 Million On Steam Alone, Big Update Coming This Year |url=https://www.gamespot.com/articles/risk-of-rain-2-sells-4-million-on-steam-alone-big-update-coming-this-year/1100-6489183/ |access-date=2025-03-25 |website=GameSpot |language=en-US}}</ref>
+|''Risk of Rain''
+|{{dts|August 11, 2020}}
+|[[Roguelike]], [[Third-person shooter]]
+|Hopoo Games
+|[[Gearbox Software|Gearbox Publishing]]
+|-
+| ''[[Diablo II]]''
+| {{sort|040|4 million}}<ref>{{cite press release |url=http://www.gamesfirst.com/articles/diablo2_sales.htm |title=Diablo II: Lord of Destruction Shatters Sales Records Worldwide With Over 1 Million Copies Sold |publisher=[[Blizzard Entertainment]] |access-date=June 11, 2008 |date=August 29, 2001 |archive-date=May 26, 2019 |archive-url=https://web.archive.org/web/20190526173624/http://www.gamesfirst.com/articles/diablo2_sales.htm |url-status=live }}</ref>
+| ''[[Diablo (series)|Diablo]]''
+| {{dts|June 29, 2000}}
+|| [[Action role-playing]]
+| [[Blizzard North]]
+| [[Blizzard Entertainment]]
+|-
+| [[DayZ (video game)|''DayZ'']]
+| {{sort|040|4 million}}<ref name="Rok s českou hrou Kingdom Come: Deliverance">{{cite web |title=Rok s českou hrou Kingdom Come: Deliverance |url=https://infografiky.ihned.cz/extra-kingdom-come/r~e1b924682eaf11e9813eac1f6b220ee8/ |website=Hospodářské noviny (IHNED.cz) |access-date=February 17, 2019 |language=cs |date=February 12, 2019 |archive-date=February 18, 2019 |archive-url=https://web.archive.org/web/20190218021343/https://infografiky.ihned.cz/extra-kingdom-come/r~e1b924682eaf11e9813eac1f6b220ee8/ |url-status=live }}</ref>
+| {{n/a}}
+| {{dts|December 16, 2013}}
+| [[Survival game|Survival]]
+| colspan="2" | [[Bohemia Interactive]]
+|-
+|''[[Buckshot Roulette]]''
+|{{sort|040|4 million}}<ref>{{Cite web |date=2024-12-10 |title=Buckshot Roulette Reached 4,000,000 Sales – And We Have A Present For You |url=https://store.steampowered.com/news/app/2835570/view/535461877640070116 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|April 4, 2024}}
+|[[Horror game|Horror]]
+|Mike Klubnika
+|Mike Klubnika ([[Itch.io]])<br />[[Critical Reflex]] ([[Steam (service)|Steam]])
+|-
+| [[Where in the World Is Carmen Sandiego? (1985 video game)|''Where in the World Is Carmen Sandiego?'']]
+| {{sort|040|4 million}}<ref>{{cite magazine|url=https://books.google.com/books?id=vAsEAAAAMBAJ&pg=PA91|title=That's Edutainment|magazine=[[Billboard (magazine)|Billboard]]|date=May 1, 1995|volume=107|issue=19|page=91|issn=0006-2510|publisher=[[Nielsen Business Media]]|access-date=August 8, 2009|archive-date=February 7, 2023|archive-url=https://web.archive.org/web/20230207163131/https://books.google.com/books?id=vAsEAAAAMBAJ&pg=PA91|url-status=live}}</ref>{{Better source needed|reason=existing source does not state strictly PC sales; may include SNES, NES, Genesis, Turbo Grafx, etc.|date=August 2014}}
+| ''[[Carmen Sandiego (video game series)|Carmen Sandiego]]''
+| {{dts|June 1, 1985}}
+| [[Educational game|Educational]]
+| colspan="2" | [[Broderbund]]
+|-
+| [[Populous (video game)|''Populous'']]
+| {{sort|040|4 million}}<ref name="lionhead">{{cite web |title=About Lionhead Studios |url=http://www.lionhead.com/about.html |archive-url=https://web.archive.org/web/20071211003352/http://www.lionhead.com/about.html <!-- Bot retrieved archive --> |archive-date=December 11, 2007 |access-date=January 8, 2008 |publisher=[[Lionhead Studios]]}}</ref><ref>{{cite magazine |last1=Frauenfelder |first1=Mark |date=May 2001 |title=Death Match |url=https://www.wired.com/2001/05/deathmatch-2/ |url-access=registration |access-date=30 October 2021 |magazine=[[Wired (magazine)|Wired]]}}</ref><ref>{{Cite web |last=Livingstone |first=Ian |title=How British video games became a billion pound industry |url=https://www.bbc.co.uk/teach/articles/zmr6wty |access-date=2026-01-09 |website=BBC Teach |language=en-GB}}</ref>
+| ''[[Populous (series)|Populous]]''
+| {{dts|June 5, 1989}}
+| [[God game]]
+| [[Bullfrog Productions]]
+| [[Electronic Arts]]
+|-
+| [[RollerCoaster Tycoon (video game)|''RollerCoaster Tycoon'']]
+| {{sort|040|4 million}}<ref name="cgwsales2">{{cite magazine |author=Brown, Ken |date=July 2002 |title=Read Me; News Feed |url=https://www.cgwmuseum.org/galleries/issues/cgw_216.pdf |magazine=[[Computer Gaming World]] |page=42 |issue=216}}</ref>
+| ''[[RollerCoaster Tycoon]]''
+| {{dts|March 31, 1999}}
+| [[Construction and management simulation]]
+| [[Chris Sawyer]]
+| [[Hasbro Interactive]]
+|-
+| ''[[Warhammer 40,000: Dawn of War]] (including expansions)''
+| {{sort|040|4 million}}<ref name="thqdow">{{cite web |url=http://www.gamasutra.com/php-bin/news_index.php?story=22176 |title=THQ's Farrell: Focus On Fewer, Better Core Titles |author=Chris Remo |date=February 4, 2009 |access-date=February 5, 2009 |website=[[Gamasutra]] |archive-date=May 2, 2019 |archive-url=https://web.archive.org/web/20190502183637/http://www.gamasutra.com/php-bin/news_index.php?story=22176 |url-status=dead }}</ref>{{Better source needed|reason=source includes expansions packs|date=August 2014}}
+| ''[[List of Games Workshop video games|Warhammer]]''
+| {{dts|September 20, 2004}}
+| [[Real-time strategy]]
+| [[Relic Entertainment]]
+| [[THQ]]
+|-
+|''[[Sid Meier's Civilization VI]]''
+|{{sort|037|3.7 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|[[Civilization (series)|''Sid Meier's Civilization'']]
+|{{dts|October 21, 2016}}
+|[[4X]] [[Strategy video game#Turn-based strategy (TBS)|turn-based strategy]]
+|[[Firaxis Games]]
+|[[2K (company)|2K]]
+|-
+| [[Dark Souls (video game)|''Dark Souls: Prepare to Die Edition'']]
+| {{sort|036|3.6 million}}<ref name="Rice"/>{{Efn|name=steamexploit}}
+| ''[[Dark Souls]]''
+| {{dts|August 23, 2012}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Namco Bandai Games]]
+|-
+| ''[[Factorio]]''
+| {{sort|035|3.5 million}}<ref>{{cite web |url=https://www.factorio.com/blog/post/fff-372 |title=Friday Facts #372 |date=December 30, 2022 |access-date=November 14, 2023 |archive-date=August 28, 2023 |archive-url=https://web.archive.org/web/20230828015205/https://www.factorio.com/blog/post/fff-372 |url-status=live}}</ref>
+| {{n/a}}
+| {{dts|February 2016}}
+| [[Construction and management simulation]]
+| colspan="2" | [[Wube Software]]
+|-
+| ''[[Dark Souls III]]''
+| {{sort|033|3.3 million}}<ref name="Rice">Galyonkin, Sergey (July 1, 2018). [https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precise-player-count-for-thousands-of-games/ Games_achievements_players_2018_07_01.csv].</ref>{{Efn|name=steamexploit}}
+| ''[[Dark Souls]]''
+| {{dts|April 12, 2016}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Entertainment]]<br>FromSoftware
+|-
+|''[[Total War: Three Kingdoms]]''
+|{{sort|032|3.2 million}}<ref>{{Cite news |last=Ted |first=Litchfield |date=2025-06-23 |title=Sega just accidentally leaked its own sales numbers, and somehow Sonic Frontiers sold more than the last two mainline Yakuzas combined, but Persona 5's putting the rest of the stable to shame |url=https://www.pcgamer.com/gaming-industry/sega-just-accidentally-leaked-its-own-sales-numbers-and-somehow-sonic-frontiers-sold-more-than-the-last-two-mainline-yakuzas-combined-but-persona-5s-putting-the-rest-of-the-stable-to-shame/ |access-date=2025-10-23 |work=PC Gamer |language=en}}</ref>
+|''[[Total War (video game series)|Total War]]''
+|{{dts|May 23, 2019}}
+|[[Turn-based strategy]], [[real-time tactics video game|real-time tactics]]
+|[[Creative Assembly]]
+|[[Sega]]
+|-
+|[[Mount & Blade II: Bannerlord|''Mount & Blade : Bannerlord'']]
+|{{sort|031|3.1 million}}<ref>{{Cite web |last=Kessler |first=Ana |date=June 21, 2022 |title=Mount & Blade II: Bannerlord Sales Reached 3 Million Copies |url=https://80.lv/articles/mount-blade-ii-bannerlord-sales-reached-3-million-copies/ |access-date=June 27, 2023 |website=80.lv |language=en}}</ref>{{Better source needed|reason=source doesn't specifically state just PC sales;may include Xbox and also includes expansions|date=August 2014}}
+|''[[Mount & Blade (series)|Mount & Blade]]''
+| {{dts|March 27, 2020}}
+|[[Action role-playing]], [[Strategy video game|strategy]]
+|[[TaleWorlds Entertainment]]
+|[[TaleWorlds Entertainment]] [[Plaion|Prime Matter]] (Physical)
+|-
+| ''[[Resident Evil 4: Ultimate HD Edition]]''
+| {{sort|031|3.1 million}}<ref name=":1">{{cite web |date=December 31, 2024 |title=Platinum Titles |url=http://www.capcom.co.jp/ir/english/finance/million.html |url-status=live |archive-url=https://archive.today/20250203223853/https://www.capcom.co.jp/ir/english/business/million.html |archive-date=February 3, 2025 |access-date=May 19, 2025 |website=[[Capcom]]}}</ref>
+| ''[[Resident Evil]]''
+| {{dts|February 27, 2014}}
+| [[Third-person shooter]], [[survival horror]]
+| colspan="2" | [[Capcom]]
+|-
+|''[[Manor Lords]]''
+|{{sort|030|3 million}}<ref>{{Cite web |last=D'Angelo |first=William |date=9 February 2025 |title=Manor Lords Sales Top 3 Million Units - Sales |url=https://www.vgchartz.com/article/463943/manor-lords-sales-top-3-million-units/ |access-date=2025-03-25 |website=VGChartz}}</ref>
+| {{n/a}}
+|{{dts|April 26, 2024}}
+|[[City-building game|City-Building]],[[real-time tactics]]
+|Slavic Magic
+|[[Hooded Horse]]
+|-
+| [[Command & Conquer (1995 video game)|''Command & Conquer'']]
+| {{sort|030|3 million}}<ref name="cvg">{{cite press release |archive-url=https://web.archive.org/web/20090627215723/http://www.computerandvideogames.com/article.php?id=49038 |url=http://www.computerandvideogames.com/article.php?id=49038 |title=Games that changed the world: ''Command & Conquer'' |last=Mallinson |first=Paul |work=[[Computer & Video Games]] |archive-date=June 27, 2009 |date=May 31, 2002}}</ref>{{Better source needed|reason=source doesn't specifically state just PC sales; may include PS1, N64, Saturn|date=August 2014}}
+| rowspan="2" | ''[[Command & Conquer]]''
+| {{dts|August 31, 1995}}
+| [[Real-time strategy]]
+| [[Westwood Studios]]
+| [[Virgin Interactive]]<br />[[Electronic Arts]] (since 1998; also freeware release)
+|-
+| ''[[Command & Conquer: Red Alert]]''
+| {{sort|030|3 million}}<ref name="redalert">{{cite press release|url=http://www.cncgames.com/wspress.shtml#Westwood%20Studios%20Ships%20More%20Than%201%20Million |title=Westwood Studios Ships More Than 1 Million Copies of Red Alert 2 |access-date=August 3, 2008 |date=November 2, 2000 |publisher=[[Electronic Arts]] |url-status=dead |archive-url=https://web.archive.org/web/20080708184418/http://www.cncgames.com/wspress.shtml |archive-date=July 8, 2008 }}</ref>
+| {{dts|October 31, 1996}}
+| [[Real-time strategy]]
+| [[Westwood Studios]]
+| [[Virgin Interactive]]
+|-
+| [[Age of Empires (video game)|''Age of Empires'']]
+| {{sort|030|3 million}}<ref name="ageofempires">{{cite web |url=https://www.gamedeveloper.com/features/20000307/pritchard_pfv.htm |title=Postmortem: Ensemble Studios' Age of Empires II: The Age of Kings |access-date=November 26, 2006 |date=March 7, 2000 |author=Matt Pritchard |website=[[Gamasutra]] |archive-date=February 27, 2008 |archive-url=https://web.archive.org/web/20080227220828/http://www.gamasutra.com/features/20000307/pritchard_pfv.htm |url-status=live }}</ref>
+| ''[[Age of Empires]]''
+| {{dts|October 15, 1997}}
+| [[Real-time strategy]]
+| [[Ensemble Studios]]
+| [[Microsoft]]
+|-
+| ''[[EverQuest]]''
+| {{sort|030|3 million}}<ref>{{cite web |archive-url=https://web.archive.org/web/20150906165059/https://www.sony.com/en_us/SCA/company-news/press-releases/sony-online-entertainment/2004/satellite-feed-everquest-ii-online-game-hits-the-s.html |url=https://www.sony.com/en_us/SCA/company-news/press-releases/sony-online-entertainment/2004/satellite-feed-everquest-ii-online-game-hits-the-s.html |archive-date=September 6, 2015 |access-date=November 6, 2018 |date=November 5, 2004 |publisher=[[Sony|Sony Corporation of America]] |title=Satellite Feed - EverQuest II Online Game Hits the Stores |author=Sony Online Entertainment}}</ref>
+| ''EverQuest''
+| {{dts|March 16, 1999}}
+| [[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+| [[Daybreak Game Company|Verant Interactive]]
+| [[Sony Online Entertainment]]
+|-
+| ''[[Warcraft III: Reign of Chaos]]''
+| {{sort|030|3 million}}<ref>{{cite web|last=Medina|first=Eddie|url=https://www.highbeam.com/doc/1P2-7798788.html|archive-url=https://web.archive.org/web/20170305040051/https://www.highbeam.com/doc/1P2-7798788.html|url-status=usurped|archive-date=March 5, 2017|title=When Good Characters go bad, and vice versa, plot twists abound|newspaper=[[The Boston Globe]] |date=July 13, 2003|via=[[HighBeam Research]]|url-access=subscription|location=Boston, MA|access-date=March 4, 2017}}</ref>
+| ''[[Warcraft]]''
+| {{dts|July 3, 2002}}
+| [[Real-time strategy]]
+| [[Blizzard Entertainment]]
+| [[Blizzard Entertainment]] (North America)<br />[[Sierra Entertainment]] (Europe)<br />[[Capcom]] (Japan)
+|-
+|''[[Escape from Duckov]]''
+|{{sort|030|3 million}}<ref>{{cite web |author1=可樂餅 |date=8 November 2025 |title=B站《逃离鸭科夫》销量破300万！感谢所有鸭宝 |url=https://www.gamersky.com/news/202511/2042222.shtml |website=GamerSky |language=zh}}</ref>
+| {{n/a}}
+|{{dts|October 16, 2025}}
+|[[Extraction shooter]]
+|Team Soda
+|[[Bilibili]]
+|-
+| ''[[Civilization IV]]''
+| {{sort|030|3 million}}<ref name="taketwovalue">{{cite web |url=http://taketwovalue.com/documents/TTWO_Value.pdf |title=Recommendation of the Board of Directors to Reject Electronic Arts Inc.'s Tender Offer |access-date=August 3, 2008 |date=March 26, 2008 |publisher=[[Take-Two Interactive Software, Inc.]] |pages=12, 14, 16 |archive-url = https://web.archive.org/web/20080626142151/http://taketwovalue.com/documents/TTWO_Value.pdf <!-- Bot retrieved archive --> |archive-date = June 26, 2008}}</ref>
+| ''[[Civilization (series)|Civilization]]''
+| {{dts|October 25, 2005}}
+| [[Turn-based strategy]], [[4X]]
+| [[Firaxis Games]]
+| [[2K Games]]
+[[Aspyr]]
+|-
+| ''[[Crysis]]''
+| {{sort|030|3 million}}<ref name="Crysis">{{cite web|url=http://www.zuse.hessen.de/mm/Konrad_Zuse_Kongress_Yerli_Final.pdf |title=CryEngine 3 - The next generation of interactive entertainment and real-time 3D technologies |publisher=[[Crytek]] |author=Avni Yerli |access-date=January 3, 2011 |date=May 26, 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110719040303/http://www.zuse.hessen.de/mm/Konrad_Zuse_Kongress_Yerli_Final.pdf |archive-date=July 19, 2011 }}</ref>
+| ''[[Crysis (series)|Crysis]]''
+| {{dts|November 13, 2007}}
+| [[First-person shooter]]
+| [[Crytek]]
+| [[Electronic Arts]]
+|-
+| [[The Binding of Isaac (video game)|''The Binding of Isaac'']]
+| {{sort|030|3 million}}<ref>{{cite web|last=Mahardy|first=Mike|date=July 4, 2014|title=Roguelikes: The Rebirth of the Counterculture|url=https://www.ign.com/articles/2014/07/04/roguelikes-the-rebirth-of-the-counterculture|url-status=live|archive-url=https://web.archive.org/web/20140706193733/https://www.ign.com/articles/2014/07/04/roguelikes-the-rebirth-of-the-counterculture|archive-date=July 6, 2014|access-date=February 10, 2022|website=ign.com}}</ref>
+| {{n/a}}
+| {{dts|September 28, 2011}}
+| [[Action-adventure]], [[roguelike]]
+| [[Edmund McMillen]] [[Florian Himsl]]
+| [[Headup Games]]
+|-
+| ''[[Space Engineers]]''
+|{{sort|030|3 million}}<ref>{{Cite web |date=2019-02-28 |title=Update 1.189 - Major Overhaul of Survival, Ladders, Leaving Early Access |url=https://store.steampowered.com/news/app/244850/view/2871563932777282114 |access-date=2025-11-11 |website=store.steampowered.com |language=en}}</ref>
+|{{n/a}}
+| {{dts|October 13, 2013}}
+|[[Simulation video game|Simulation]]
+| colspan="2" |[[Keen Software House]]
+|-
+| [[POD (video game)|''POD'']]
+| {{sort|030|3 million}}<ref>{{cite web |title=Ubisoft France |url=http://www.ubisoft.fr/corporate/apropos/apropos.html |archiveurl=https://web.archive.org/web/19971010184653/http://www.ubisoft.fr/corporate/apropos/apropos.html |archivedate=October 10, 1997 |accessdate=August 1, 2024 |website=[[Ubisoft]] |language=fr}}</ref>
+| ''POD''
+| {{dts|February 28, 1997}}
+| [[Racing video game|Racing]]
+| colspan="2" | [[Ubi Soft]]
+|-
+|''[[V Rising]]''
+|{{sort|030|3 million}}<ref>{{cite web|last1=Gonzalez|first1=Christina|title=V Rising Gets Hotfix and Sells 3 Million Copies, With Devblog Coming Soon on Upcoming Expansion|url=https://www.mmorpg.com/news/v-rising-gets-hotfix-and-sells-3-million-copies-with-devblog-coming-soon-on-upcoming-expansion-2000127169|website=MMORPG|date=January 26, 2023|access-date=January 31, 2023|archive-date=January 30, 2023|archive-url=https://web.archive.org/web/20230130185324/https://www.mmorpg.com/news/v-rising-gets-hotfix-and-sells-3-million-copies-with-devblog-coming-soon-on-upcoming-expansion-2000127169|url-status=live}}</ref><ref>{{cite web|last1=Myrén|first1=Jonny|title=Svenska V Rising tackar för tre miljoner sålda exemplar|url=https://www.fz.se/nyhet/292892-svenska-v-rising-tackar-for-tre-miljoner-salda-exemplar|website=FZ|language=sv|date=January 30, 2023|access-date=January 31, 2023|archive-date=January 30, 2023|archive-url=https://web.archive.org/web/20230130194626/https://www.fz.se/nyhet/292892-svenska-v-rising-tackar-for-tre-miljoner-salda-exemplar|url-status=live}}</ref>
+| {{n/a}}
+| {{dts|May 17, 2022}}
+| [[Survival]], [[base building]], [[hack and slash]]
+| colspan="2" | [[Stunlock Studios]]
+|-
+|[[Kenshi (video game)|''Kenshi'']]
+|{{sort|030|3 million}}<ref>{{Cite web |date=2026-05-25 |title=Community Update: 3 Million Copies Sold |url=https://store.steampowered.com/news/app/233860/view/653728746655713085 |access-date=2026-06-29 |website=store.steampowered.com |language=en}}</ref>
+|{{N/a}}
+| {{dts|December 6, 2018}}
+|[[Real-time strategy]], [[Action role-playing game|action role-playing]] 
+| colspan="2" |Lo-Fi Games
+|-
+|''[[Super Meat Boy]]''
+|{{sort|030|3 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''Super Meat Boy''
+|{{dts|October 20, 2010}}
+|[[Platformer]]
+| colspan="2" |Team Meat
+|-
+|''[[Hitman: Absolution]]''
+|{{sort|028|2.8 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Hitman (franchise)|Hitman]]''
+|{{dts|November 20, 2012}}
+|[[Action game|Action]], [[Stealth game|stealth]]
+|[[IO Interactive]]
+|[[Eidos Interactive|Square Enix Europe]]
+|-
+|''[[Outlast]]''
+|{{sort|028|2.8 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''Outlast''
+|{{dts|September 4, 2013}}
+|[[Survival horror]]
+| colspan="2" |Red Barrels
+|-
+|''[[The Walking Dead (video game)|The Walking Dead]]''
+|{{sort|028|2.8 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| ''The Walking Dead''
+|{{dts|2012}}
+|[[Graphic adventure game|Graphic adventure]]
+| colspan="2" |[[Telltale Games]]
+|-
+|''[[Prison Architect]]''
+|{{sort|028|2.8 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|October 6, 2015}}
+|[[Construction and management simulation]]
+|[[Introversion Software]]
+[[Double Eleven (company)|Double Eleven]]
+|[[Introversion Software]]
+[[Paradox Interactive]]
+|-
+|''[[Subnautica]]''
+|{{sort|028|2.8 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|January 23, 2018}}
+|[[Action-adventure game|Action-adventure]] [[survival game|survival]]
+| colspan="2" |[[Unknown Worlds Entertainment]]
+|-
+| ''[[Magicka]]''
+| {{sort|028|2.8 million}}<ref>{{Cite web |last=Dumitrescu |first=Andrei |date=2014-06-25 |title=Paradox: Magicka 2 on PlayStation 4 Is a Risk |url=https://news.softpedia.com/news/Paradox-Magicka-2-on-PlayStation-4-Is-a-Risk-448076.shtml |access-date=2025-05-14 |website=softpedia |language=english}}</ref>
+| {{n/a}}
+| {{dts|January 25, 2011}}
+| [[Action-adventure game|Action-adventure]]
+| [[Arrowhead Game Studios]]
+| [[Paradox Interactive]]
+|-
+|''[[Infestation: Survivor Stories]]''
+|{{sort|028|2.8 million}}<ref>{{cite web |author=Jeffrey Matulef |date=January 15, 2015 |title=The War Z sold 2.8m copies despite dismal reception |url=http://www.eurogamer.net/articles/2015-01-15-the-war-z-sold-2-8m-copies-despite-dismal-reception? |url-status=live |archive-url=https://web.archive.org/web/20150120010444/http://www.eurogamer.net/articles/2015-01-15-the-war-z-sold-2-8m-copies-despite-dismal-reception |archive-date=January 20, 2015 |access-date=January 15, 2015 |work=[[Eurogamer]] |df=mdy-all}}</ref>
+| {{n/a}}
+|{{dts|December 17, 2012}}
+|[[Survival horror]]
+|Hammerpoint Interactive
+|OP Productions
+|-
+| ''[[Dark Souls II]]''
+| {{sort|027|2.7 million}}{{Efn|name=steamexploit}}{{Efn|Includes sales of Dark Souls II: Scholar of the First Sin}}
+| ''[[Dark Souls]]''
+| {{dts|April 24, 2014}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| [[Bandai Namco Games]]<br>FromSoftware
+|-
+| [[Half-Life (video game)|''Half-Life'']]
+| {{sort|025|2.5 million}}<ref>{{cite web|first=Jeff|last=Meisner|url=http://seattle.bcentral.com/seattle/stories/2001/02/19/focus5.html|archiveurl=https://web.archive.org/web/20010219200627/http://seattle.bcentral.com/seattle/stories/2001/02/19/focus5.html|title=Small Eastside video game firms plan new offerings|website=[[Puget Sound Business Journal]]|archivedate=February 19, 2001|date=February 16, 2001|accessdate=July 11, 2026}}</ref>
+| ''[[Half-Life (series)|Half-Life]]''
+| {{dts|November 19, 1998}}
+| [[First-person shooter]]
+| [[Valve Corporation|Valve]]
+| [[Sierra Entertainment|Sierra Studios]]
+|-
+|''[[Lords of the Realm II]]''
+|{{sort|025|2.5 million}}<ref name=":0">{{Cite web|last=Aitken|first=Mathew|date=February 6, 2013|title=Real Business Case Study: David Lester|url=https://www.companiesmadesimple.com/blog/real-business-case-studies/real-business-case-study-david-lester/|access-date=May 1, 2021|website=Company Formation MadeSimple|language=en-US|archive-date=June 4, 2016|archive-url=https://web.archive.org/web/20160604010733/https://www.companiesmadesimple.com/project/blog/real-business-case-study-david-lester/|url-status=live}}</ref>
+|[[Lords of the Realm|''Lord of the Realm'']]
+| {{dts|October 31, 1996}}
+|[[Turn-based strategy]]
+| colspan="2" |[[Impressions Games|Impressions Game]]
+|-
+|''[[Caesar II]]''
+|{{sort|025|2.5 million}}<ref name=":0" />
+| rowspan="2" |[[Caesar (video game)|Caesar]]
+| {{dts|September 4, 1995}}
+|[[City-building game|City-building]]
+|[[Impressions Games|Impressions Game]]
+|[[Sierra Entertainment|Sierra On-Line]]
+|-
+|''[[Caesar III]]''
+|{{sort|025|2.5 million}}<ref name=":0" />
+| {{dts|May 30, 1999}}
+|[[City-building game|City-building]]
+|[[Impressions Games|Impressions Game]]
+|[[Sierra Entertainment|Sierra Studios]]
+|-
+| ''[[Anno 1602]]''
+| {{sort|025|2.5 million}}<ref>{{Cite book |last= |url=https://archive.org/details/computer-games-issue-149-april-2003_202505/page/46 |title=Computer Games Issue 149 |date=April 2003 |publisher=theGlobe.com |pages=46}}</ref>
+| ''[[Anno (video game series)|Anno]]''
+| {{dts|September 24, 1998}}
+| [[City-building game|City-building]]
+| [[Max Design]]
+| [[Sunflowers Interactive Entertainment Software|Sunflowers]]
+|-
+|[[Detroit: Become Human|''Detroit : Become Human'']]
+|{{sort|025|2.5 million}}<ref>[https://www.quanticdream.com/img/uploads/corporate/page_49/51ec9e71c499aae2662e0fbb676763d1.pdf ''DETROIT: BECOME HUMAN'' (TM) REACHES 8 MILLION UNITS SOLD WORLDWIDE].[[Quantic Dream]]. September 18, 2023.</ref>
+| {{n/a}}
+|{{dts|December 12, 2019}}
+|[[Adventure game|Adventure]]
+|[[Quantic Dream]]
+|[[Sony Interactive Entertainment]]
+|-
+|''[[Starbound]]''
+|{{sort|025|2.5 million}}<ref>{{cite web |last=Wawro |first=Alex |date=23 January 2017 |title=Chucklefish's Starbound surpasses 2.5 million copies sold |url=http://www.gamasutra.com/view/news/289833/Chucklefishs_Starbound_surpasses_25_million_copies_sold.php |url-status=dead |archive-url=https://web.archive.org/web/20170126210212/http://www.gamasutra.com/view/news/289833/Chucklefishs_Starbound_surpasses_25_million_copies_sold.php |archive-date=26 January 2017 |accessdate=23 January 2017 |work=[[Gamasutra]]}}</ref>
+| {{n/a}}
+|{{dts|July 22, 2016}}
+|[[Action-adventure game|Action-adventure]]
+| colspan="2" |[[Chucklefish]]
+|-
+|''[[Hotline Miami]]''
+|{{sort|025|2.5 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''Hotline Miami''
+|{{dts|October 23, 2012}}
+|[[Top-down shooter]]
+|Dennaton Games
+|[[Devolver Digital]]
+|-
+|''[[Rise of the Tomb Raider]]''
+|{{sort|025|2.5 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Tomb Raider]]''
+|{{dts|January 28, 2016}}
+|[[Action-adventure game|Action-adventure]]
+|[[Crystal Dynamics]]
+|[[Microsoft Studios]]
+[[Square Enix]]
+|-
+| ''[[Battlefield 1942]]''
+| {{sort|025|2.47 million}}<ref name="battlefield1942">{{cite web |url=http://www.dice.se/PDF.aspx?article=0a204e8e-a1a6-434d-894f-b8d9147750b7 |format=PDF |access-date=March 25, 2008 |title=2006 interim report January–June |page=3 |publisher=[[Digital Illusions CE]] |archive-url=https://web.archive.org/web/20061013164910/http://www.dice.se/PDF.aspx?article=0a204e8e-a1a6-434d-894f-b8d9147750b7|archive-date=October 13, 2006}}</ref>
+| ''[[Battlefield (video game series)|Battlefield]]''
+| {{dts|September 10, 2002}}
+| [[First-person shooter]]
+| [[EA DICE]]
+| [[Electronic Arts]]
+|-
+|''[[Batman: Arkham City|Batman: Arkham City - Game of the Year Edition]]''
+|{{sort|025|2.47 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Batman: Arkham]]''
+|{{dts|May 29, 2012}}
+|[[Action-adventure game|Action-adventure]] 
+|[[Rocksteady Studios]]
+|[[Warner Bros. Games|Warner Bros. Interactive Entertainment]]
+|-
+| ''[[Command & Conquer: Tiberian Sun]]''
+| {{sort|024|2.4 million}}<ref>{{cite web |date=March 6, 2001 |title=GameSpot Presents: A New Dawn: Westwood Studios 15th Anniversary |url=http://www.zdnet.com:80/gamespot/features/pc/westwood_15/p5_04.html |url-status=dead |archive-url=https://web.archive.org/web/20010306173638/http://www.zdnet.com/gamespot/features/pc/westwood_15/p5_04.html |archive-date=March 6, 2001 |access-date=April 9, 2019}}</ref>
+| ''[[Command & Conquer]]''
+| {{dts|August 27, 1999}}
+| [[Real-time strategy]]
+| [[Westwood Studios]]
+| [[Electronic Arts]]
+|-
+| ''[[Horizon Zero Dawn]]''
+| {{sort|024|2.39 million}}<ref>{{cite web |title=Sony Business Segment Briefings 2022 Game & Network Services |url=https://www.sony.com/en/SonyInfo/IR/library/presen/irday/pdf/2022/GNS_E.pdf |website=Sony |access-date=May 26, 2022 |archive-date=May 26, 2022 |archive-url=https://web.archive.org/web/20220526080546/https://www.sony.com/en/SonyInfo/IR/library/presen/irday/pdf/2022/GNS_E.pdf |url-status=live }}</ref>
+| ''[[Horizon (video game series)|Horizon]]''
+| {{dts|August 7, 2020}}
+| [[Action role-playing]]
+| [[Guerrilla Games]]
+| [[Sony Interactive Entertainment]]
+|-
+|''[[Mafia II]]''
+|{{sort|023|2.3 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Mafia (series)|Mafia]]''
+|{{dts|August 24, 2010}}
+|[[Action-adventure game|Action-adventure]]
+|[[2K Czech]]
+|[[2K (company)|2K]]
+|-
+|''[[Papers, Please]]''
+|{{sort|023|2.3 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|August 8, 2012}}
+|[[Puzzle video game|Puzzle]], [[Simulation video game|simulation]]
+| colspan="2" |3909 LLC
+|-
+| [[Balatro (video game)|''Balatro'']]
+| {{sort|22|2.2 million}}<ref>{{cite web |title=Balatro - Steam Stats |url=https://gamalytic.com/game/2379780?utm_source=SteamDB |access-date=January 22, 2025 |work=[[Gamalytic]]}}</ref>
+| {{n/a}}
+| {{dts|February 21, 2024}}
+| [[Roguelike deck-building game|Roguelike Deck Builder]]
+| LocalThunk
+|Playstack
+|-
+|''[[Content Warning]]''
+|{{sort|022|2.2 million}}<ref>{{Cite web |last=Gerblick |first=Jordan |date=2024-06-04 |title=Turns out you can give away 6.6 million copies of your game, add a price later, and still sell 2.2 million more in just 2 months |url=https://www.gamesradar.com/games/co-op/turns-out-you-can-give-away-66-million-copies-of-your-game-add-a-price-later-and-still-sell-22-million-more-in-just-2-months/ |access-date=2025-03-25 |website=gamesradar |language=en}}</ref>
+| {{n/a}}
+|{{dts|April 1, 2024}}
+|[[Survival horror]]
+|Skog, Zorro, Wilnyl, Philip, thePetHen
+|Landfall Publishing
+|-
+|''[[Last Epoch]]''
+|{{sort|021|2.1 million}}<ref>{{Cite web |title=Last Epoch Has Surpassed 2.1 Million Copies In One Month |url=https://n4g.com/news/2591796/last-epoch-has-surpassed-2-1-million-copies-in-one-month |access-date=2025-03-25 |website=n4g.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|February 21, 2024}}
+|[[Action role-playing game|Action role-playing]]
+| colspan="2" |Eleventh Hour Games
+|-
+| ''[[Final Fantasy VII]]''
+| {{sort|021|2.1 million}}{{efn|''Final Fantasy VII'':
+* 1998 physical Windows release {{ndash}} {{nowrap|1 million}}<ref name="PolygonRetro">{{cite web |url=http://www.polygon.com/a/final-fantasy-7 |title=Final Fantasy 7: An oral history |last=Leone |first=Matt |work=[[Polygon (website)|Polygon]] |publisher=[[Vox Media]] |date=January 9, 2017 |access-date=January 11, 2017 |archive-url=https://web.archive.org/web/20170109201832/http://www.polygon.com/a/final-fantasy-7 |archive-date=January 9, 2017 |url-status=live}}</ref>
+* 2013 digital Steam release {{ndash}} 1,136,100<ref name="Rice"/>
+}}
+| ''[[Final Fantasy]]''
+| {{dts|June 25, 1998}}
+| [[Role-playing video game|Role-playing]]
+| [[Square (video game company)|Square]]
+| [[Eidos Interactive]]
+|-
+|''[[Banished (video game)|Banished]]''
+|{{sort|021|2.1 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|February 18, 2014}}
+|[[City-building game|City-building]]
+| colspan="2" |Shining Rock Software
+|-
+|''[[IL-2 Sturmovik (video game)|IL-2 Sturmovik]]''
+|{{sort|020|2 million}}<ref name="ugamer">{{cite web |author=Bailey, Kat |date=July 25, 2014 |title=''IL-2 Sturmovik: Battle of Stalingrad'' Carries a Lonely Torch for Flight Simulators |url=https://www.usgamer.net/articles/il-2-sturmovik-preview |url-status=live |archive-url=https://web.archive.org/web/20140804232731/https://www.usgamer.net/articles/il-2-sturmovik-preview |archive-date=August 4, 2014 |work=[[Eurogamer|USgamer]]}}</ref>
+|''[[IL-2 Sturmovik (series)|IL-2 Sturmovik]]''
+|{{dts|November 30, 2001}}
+|[[Combat flight simulation game|Combat flight simulator]]
+|[[Mad Dog American|Maddox Games]]
+|[[1C Company|1C]]
+[[Ubisoft]]
+|-
+| [[Deer Hunter (video game)|''Deer Hunter'']]
+| {{sort|020|2 million}}<ref name=":3">{{Cite book |last=Saltzman |first=Marc |url=https://archive.org/details/gamedesign00marc/mode/2up |title=Game design : secrets of the Sages |date=2000 |publisher=Brady Games |isbn=978-1-56686-987-4 |location=Indianapolis, Indiana |pages=VII}}</ref>
+| ''[[Deer Hunter (series)|Deer Hunter]]''
+| {{dts|November 13, 1997}}
+| [[Sports game|Sports]]
+| [[Sunstorm Interactive]]
+| [[WizardWorks]]
+|-
+| [[Doom (1993 video game)|''Doom'']]
+| {{sort|020|2 million}}<ref name="jaarticle">{{cite web|title=Now What Was That GT and Hasbro Were Saying About American Game Purchasers Being a Group of 17-28 Year Olds Only Interested in Bloody Games?|url=http://justadventure.com/articles/What_Was_That/What_Was_That.shtm|work=Just Adventure|access-date=October 3, 2013|archive-url=https://web.archive.org/web/20101206145241/http://justadventure.com/articles/What_Was_That/What_Was_That.shtm|archive-date=December 6, 2010}}</ref>{{Better source needed|reason=source needs clarification if only PC sales, article is not dated either|date=August 2014}}
+| rowspan="2" | ''[[Doom (series)|Doom]]''
+| {{dts|December 10, 1993}}
+| [[First-person shooter]]
+| colspan="2" | [[id Software]]
+|-
+| ''[[Doom II: Hell on Earth]]''
+| {{sort|020|2 million}}<ref name=":2">{{Cite book |last=Saltzman |first=Marc |url=https://archive.org/details/gamedesignsecret0000unse/page/n7/mode/2up |title=Game design : secrets of the sages |publisher=Brady Pub |isbn=978-1-56686-904-1 |location=Indianapolis, Indiana |publication-date=1999 |pages=408}}</ref>
+| {{dts|October 10, 1994}}
+| [[First-person shooter]]
+| [[id Software]]
+| [[GT Interactive]]
+|-
+| ''[[Warcraft II: Tides of Darkness]]''
+| {{sort|020|2 million}}<ref>{{cite web |archive-url=https://web.archive.org/web/19991012214549/http://blizzard.com/press/991001.html |title=Warcraft II: Battle.Net Edition goes gold |date=October 1, 1999 |publisher=[[Blizzard Entertainment]] |url=http://www.blizzard.com/press/991001.html |archive-date=October 12, 1999 |access-date=October 4, 2007}}</ref>{{Better source needed|reason=source does not strictly state PC sales. Differentiate between PS1 and Saturn if possible|date=August 2014}}
+| ''[[Warcraft]]''
+| {{dts|December 9, 1995}}
+| [[Real-time strategy]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+|''[[Plague Inc: Evolved|Plague Inc.: Evolved]]''
+|{{sort|020|2 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''Plague Inc.''
+|{{dts|February 18, 2016}}
+|[[Real-time strategy]] [[Simulation video game|simulation]]
+| colspan="2" |[[Ndemic Creations]]
+|-
+|[[Baldur's Gate (video game)|''Baldur's Gate'']]
+| {{sort|020|2 million}}<ref name="About BioWare" />
+| rowspan="2" | ''[[Baldur's Gate]]''
+| {{dts|December 21, 1998}}
+| [[Role-playing video game|Role-playing]]
+| [[BioWare]]<br />[[Black Isle Studios]]
+| [[Interplay Entertainment]]
+|-
+|''[[Baldur's Gate II: Shadows of Amn]]''
+| {{sort|020|2 million}}<ref name="About BioWare">{{cite web |url= http://www.bioware.com/bioware_info/about/ |archive-url= https://web.archive.org/web/20080409131841/http://www.bioware.com/bioware_info/about/ | archive-date= April 9, 2008 |title=About BioWare |publisher= [[BioWare]] |access-date= July 25, 2009}}</ref>
+| {{dts|September 21, 2000}}
+| [[Computer role-playing game|Computer role-playing]]
+| [[BioWare]]
+| [[Interplay Entertainment]]
+|-
+| ''[[Age of Empires II: The Age of Kings]]''
+| {{sort|020|2 million}}<ref>{{cite web |title="Age of Empires II: The Age of Kings" Crowned No. 1 On Holiday Sales Charts Around the World |url=http://www.microsoft.com/presspass/press/2000/Jan00/CrownedPR.mspx |publisher=[[Microsoft]] |date=January 27, 2000 |access-date=November 26, 2006 |archive-date=January 3, 2008 |archive-url=https://web.archive.org/web/20080103002938/http://www.microsoft.com/presspass/press/2000/Jan00/CrownedPR.mspx |url-status=live }}</ref>{{Better source needed|reason=need better source since does not clarify if it includes PlayStation 2 sales|date=August 2014}}
+| ''[[Age of Empires]]''
+| {{dts|September 30, 1999}}
+| [[Real-time strategy]]
+| ''[[Ensemble Studios]]''
+| ''[[Microsoft]]''
+|-
+| [[Black & White (video game)|''Black & White'']]
+| {{sort|020|2 million}}<ref name="lionhead" />
+| [[Black & White (series)|''Black'' & ''White'']]
+| {{dts|March 25, 2001}}
+| [[God game|God]]
+| [[Lionhead Studios]]
+| [[Electronic Arts|EA Games]]<br />[[Sold-Out Software]]
+|-
+|''[[Orion: Prelude]]''
+|{{sort|020|2 million}}<ref name="Awful">{{cite web |last=Sheridan |first=Connor |date=May 8, 2015 |title=Orion: Prelude makers want devs to stand by their (possibly awful) games |url=https://www.gamesradar.com/orion-prelude-stand-by-games/ |url-status=live |archive-url=https://web.archive.org/web/20211119163759/https://www.gamesradar.com/orion-prelude-stand-by-games/ |archive-date=November 19, 2021 |access-date=November 19, 2021 |website=GamesRadar}}</ref>
+| {{n/a}}
+|{{dts|May 4, 2012}}
+|[[First-person shooter|First-person shooter online]], [[cooperative multiplayer]]
+| colspan="2" |Spiral Game Studios
+|-
+| ''[[Civilization III]]''
+| {{sort|020|2 million}}<ref name="ownt">{{cite web |url=http://www.ownt.com/qtakes/2003/gamestats/gamestats.shtm |title=All Time Top 20 Best Selling Games |access-date=December 1, 2006 |archive-url=https://web.archive.org/web/20060221044930/http://www.ownt.com/qtakes/2003/gamestats/gamestats.shtm |archive-date=February 21, 2006 |date=May 21, 2003}}</ref>
+| ''[[Civilization (series)|Civilization]]''
+| {{dts|October 30, 2001}}
+| [[Turn-based strategy]], [[4X]]
+| [[Firaxis Games]]
+| [[Hasbro Interactive|Infogrames Interactive]]
+|-
+|''[[Sons of the Forest]]''
+|{{sort|020|2 million}}<ref>{{Cite web |date=2023-02-27 |title=Cannibal horror Sons of the Forest sells 2 million copies in 24 hours |url=https://www.gamingbible.com/news/sons-of-the-forest-sells-2-million-copies-770011-20230227 |access-date=2025-03-25 |website=GAMINGbible |language=en}}</ref>
+|''The Forest''
+|{{dts|February 22, 2024}}
+|[[Survival horror|Horror]], [[Survival game|survival]]
+|Endnight Games
+|Newnight
+|-
+| [[Neverwinter Nights (2002 video game)|''Neverwinter Nights'']]
+| {{sort|020|2 million}}<ref>{{cite web |url=http://pc.gamespy.com/pc/neverwinter-nights-ii/536369p1.html |title=Neverwinter Nights 2 (PC) |work=The History of Dungeons & Dragons |publisher=[[GameSpy]] |access-date=November 26, 2006 |date=August 6, 2004 |author=Tal Blevins |archive-date=March 13, 2020 |archive-url=https://web.archive.org/web/20200313121126/http://pc.gamespy.com/pc/neverwinter-nights-ii/536369p1.html |url-status=live }}</ref>
+| ''[[Neverwinter Nights (series)|Neverwinter Nights]]''
+| {{dts|June 18, 2002}}
+| [[Role-playing video game|Role-playing]]
+| [[BioWare]]
+| [[Atari, Inc. (formerly GT Interactive)|Infogrames/Atari]]
+|-
+| ''[[Stronghold: Crusader]]''
+| {{sort|020|2 million}}<ref>{{cite web |title=Fireflyworlds Stronghold Crusader 2 |url=http://www.fireflyworlds.com/press/sheet.php?p=Stronghold%20Crusader%202 |publisher=Firefly Studios |access-date=October 3, 2013 |archive-date=May 22, 2019 |archive-url=https://web.archive.org/web/20190522125921/https://fireflyworlds.com//press/sheet.php?p=Stronghold |url-status=live }}</ref>
+|''[[Stronghold (series)|Stronghold]]''
+| {{dts|July 31, 2002}}
+| [[Real-time strategy]]
+| [[Firefly Studios]]
+| [[Take-Two Interactive]] / [[Gathering of Developers]]
+|-
+| ''[[Mafia: The City of Lost Heaven]]''
+| {{sort|020|2 million}}<ref name="mafia">{{cite web|url=http://www.2kgames.com/index.php?p=news&ID=232 |title=2K Games Announces Mafia 2 |publisher=[[2K Games]] |date=August 21, 2007 |access-date=September 1, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20080402162107/http://www.2kgames.com/index.php?p=news |archive-date=April 2, 2008 }}</ref>
+| ''[[Mafia (series)|Mafia]]''
+| {{dts|August 28, 2002}}
+| [[Third-person shooter]]
+| [[2K Czech|Illusion Softworks]]
+| [[Gathering of Developers]]
+|-
+| ''[[SimCity 4]]''
+| {{sort|020|2 million}}<ref>{{cite web|url=http://themetropolisproject.org/articles/core-ideas/open-source-future |title=The Open Source Future |publisher=The Metropolis Project |date=October 11, 2009 |access-date=July 25, 2012 |author=John |url-status=dead |archive-url=https://web.archive.org/web/20130410172408/http://themetropolisproject.org/articles/core-ideas/open-source-future |archive-date=April 10, 2013 }}</ref>
+| ''[[SimCity]]''
+| {{dts|January 14, 2003}}
+| [[City-building game|City-building]]
+| [[Maxis]]
+| [[Electronic Arts]] (Windows)<br />[[Aspyr Media]] (macOS)
+|-
+| ''[[Anno 1503]]''
+| {{sort|020|2 million}}<ref>{{cite web|url=http://archive.gamespy.com/devdiary/november02/1503-6/ |title=1503 A.D. - The New World: Volume 6 (PC) |access-date=July 5, 2008 |date=November 16, 2002 |publisher=[[GameSpy]] |author=Wolfgang Duhr |url-status=dead |archive-url=https://web.archive.org/web/20071210153838/http://archive.gamespy.com/devdiary/november02/1503-6/ |archive-date=December 10, 2007 }}</ref>
+| ''[[Anno (video game series)|Anno]]''
+| {{dts|March 23, 2003}}
+| [[City-building game|City-building]]
+| [[Max Design]]
+| [[Sunflowers Interactive Entertainment Software|Sunflowers]]
+|-
+| ''[[Counter-Strike: Condition Zero]]''
+| {{sort|020|2 million}}<ref>{{Cite web|url=http://www.gamasutra.com/php-bin/news_index.php?story=21319|title=Analysis: Valve's Lifetime Retail Sales For Half-Life, Counter-Strike Franchises|language=en-US|access-date=March 24, 2016|archive-date=October 13, 2012|archive-url=https://web.archive.org/web/20121013124733/http://www.gamasutra.com/php-bin/news_index.php?story=21319|url-status=dead}}</ref>
+| ''[[Counter-Strike (series)|Counter-Strike]]''
+| {{dts|March 23, 2004}}
+| [[First-person shooter]]
+| [[Valve Corporation|Valve]]<br />[[Gearbox Software]]<br />[[Ritual Entertainment]]<br />[[Turtle Rock Studios]]
+| [[Valve Corporation|Valve]] (digital)<br />[[Sierra Entertainment]] (retail)
+|-
+| ''[[Far Cry (video game)|Far Cry]]''
+| {{sort|020|2 million}}<ref name="Crysis" />
+|''[[Far Cry]]''
+| {{dts|March 23, 2004}}
+| [[First-person shooter]]
+| [[Crytek]]
+| [[Ubisoft]]
+|-
+| ''[[Age of Empires III]]''
+| {{sort|020|2 million}}<ref>{{cite web|title=Age of Empires 3: The Asian Dynasties |url=http://www.gamearena.com.au/pc/games/title/age-of-empires-3-the-asian-dynasties/index.php |publisher=[[Gamearena]] |access-date=May 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20111001123037/http://www.gamearena.com.au/pc/games/title/age-of-empires-3-the-asian-dynasties/index.php |archive-date=October 1, 2011 }}</ref>
+| ''[[Age of Empires]]''
+| {{dts|October 18, 2005}}
+| [[Real-time strategy]]
+| [[Ensemble Studios]]
+| [[Microsoft]]
+|-
+| ''[[Cossacks II: Napoleonic Wars]]''
+| {{sort|020|2 million}}<ref>{{cite web |url=http://news.softpedia.com/news/Cossacks-II-Napoleonic-Wars-is-Gold-1236.shtml |publisher=[[Softpedia]] |access-date=November 26, 2006 |date=April 13, 2005 |title=Cossacks II: Napoleonic Wars is Gold |archive-date=May 24, 2019 |archive-url=https://web.archive.org/web/20190524232405/https://news.softpedia.com/news/Cossacks-II-Napoleonic-Wars-is-Gold-1236.shtml |url-status=live }}</ref>
+| ''[[Cossacks (video games series)|Cossacks]]''
+| {{dts|April 15, 2005}}
+| [[Real-time strategy]]
+| [[GSC Game World]]
+| [[CDV Software]]
+|-
+| ''[[Crusader Kings III]]''
+| {{sort|020|2 million}}<ref>{{Cite web |date=March 17, 2022 |title=Crusader Kings III has sold over 2 million copies worldwide |url=https://www.gamedeveloper.com/business/crusader-kings-iii-has-sold-over-2-million-copies-worldwide |access-date=March 29, 2023 |archive-url=https://web.archive.org/web/20220317120014/https://www.gamedeveloper.com/business/crusader-kings-iii-has-sold-over-2-million-copies-worldwide |archive-date=March 17, 2022 }}</ref>
+|[[Crusader Kings (video game)|Crusader Kings]]
+| {{dts|September 1, 2020}}
+| [[Grand strategy]]
+| [[Paradox Development Studio]]
+| [[Paradox Interactive]]
+|-
+|''[[The 7th Guest]]''
+|{{sort|020|2 million}}<ref>{{Cite web |date=1999 |title=GameSpot's Geoff Keighley - Behind The Games |url=http://www.gamespot.com/features/btg-tri/index.html |url-status=dead |archive-url=https://web.archive.org/web/19991013103256/http://www.gamespot.com/features/btg-tri/index.html |archive-date=1999-10-13 |access-date=2025-05-06 |website=[[GameSpot]]}}</ref>
+| {{n/a}}
+|{{dts|April 28, 1993}}
+|[[Interactive film|Interactive movie]], [[Puzzle video game|puzzle]],[[Adventure game|adventure]]
+|[[Trilobyte]]
+|[[Virgin Interactive Entertainment]]
+|-
+| [[The Witcher (video game)|''The Witcher'']]
+| {{sort|020|2 million}}<ref>{{cite web|last1=Griffiths |first1=Daniel Nye |url=https://www.forbes.com/sites/danielnyegriffiths/2012/05/10/cd-projekt-red-ceo/2/|title=CD Projekt Red's CEO On Being Poland's Number 1, The Witcher 2 And Mass Effect 3|website=[[Forbes]]|access-date=September 3, 2017|archive-date=August 9, 2017|archive-url=https://web.archive.org/web/20170809220122/https://www.forbes.com/sites/danielnyegriffiths/2012/05/10/cd-projekt-red-ceo/2/|url-status=live}}</ref>
+| rowspan="2" | ''[[The Witcher (video game series)|The Witcher]]''
+| {{dts|October 26, 2007}}
+| [[Action role-playing]]
+| [[CD Projekt Red]]
+| [[Atari SA|Atari]]
+|-
+| ''[[The Witcher 2: Assassins of Kings]]''
+| {{sort|020|2 million}}<ref>{{cite web|last=R |first=Jackie |url=http://thenexusnews.com/the-witcher-2-has-sold-over-2-2-million-units/853492/ |title=The Witcher 2 Has Sold Over 2.2 Million Units |work=The Nexus News |date=January 13, 2013 |access-date=February 19, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130115051922/http://thenexusnews.com/the-witcher-2-has-sold-over-2-2-million-units/853492/ |archive-date=January 15, 2013 }}</ref>
+| {{dts|May 17, 2011}}
+| [[Action role-playing]]
+| [[CD Projekt Red]]
+| [[CD Projekt]]
+|-
+| [[Spore (2008 video game)|''Spore'']]
+| {{sort|020|2 million}}<ref>{{cite press release|url=http://news.ea.com/portal/site/ea/index.jsp?ndmViewId=news_view&ndmConfigId=1012492&newsId=20081030006325&newsLang=en|title=EA Reports Second Quarter Fiscal Year 2009 Results|publisher=[[Electronic Arts]]|date=October 30, 2008|access-date=August 22, 2017|archive-url=https://web.archive.org/web/20110710163706/http://news.ea.com/portal/site/ea/index.jsp?ndmViewId=news_view&ndmConfigId=1012492&newsId=20081030006325&newsLang=en|archive-date=July 10, 2011}}</ref>
+| ''Spore''
+| {{dts|September 4, 2008}}
+| [[God game]]
+| [[Maxis]]
+| [[Electronic Arts]]
+|-
+|''Gamble With Your Friends''
+|{{sort|020|2 million}}<ref>{{Cite web |date=2026-06-03 |title=CELEBRATING 2.000.000+ COPIES IN JUST 1 MONTH |url=https://store.steampowered.com/news/app/3892270/view/675122746993148310 |access-date=2026-06-30 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|May 1, 2026}}
+|[[Cooperative video game|Cooperative game]]
+|Team Gwyf
+|Tenstack
+|-
+| [[SimCity (2013 video game)|''SimCity'']]
+| {{sort|020|2 million}}<ref>{{cite web|url=http://www.gamespot.com/news/simcity-sales-hit-2-million-6411970|title=SimCity has sold over 1.6 million units|date=July 24, 2013|access-date=July 24, 2013|work=Gamespot|archive-date=September 29, 2013|archive-url=https://web.archive.org/web/20130929050454/http://www.gamespot.com/news/simcity-sales-hit-2-million-6411970|url-status=live}}</ref>
+| ''[[SimCity]]''
+| {{dts|March 5, 2013}}
+| [[City-building game|City-building]]
+| colspan="2" | [[Electronic Arts]]
+|-
+|''[[Battlefield 2]]''
+|{{sort|022|2.225 million}}<ref name="Battlefield 2 Review">{{cite web |title=Battlefield 2 Review |url=http://www.gamermall.com/computer-games/reviews/battlefield-2.htm |url-status=live |archive-url=https://web.archive.org/web/20170531132803/http://www.gamermall.com/computer-games/reviews/battlefield-2.htm |archive-date=May 31, 2017 |access-date=June 9, 2012 |publisher=GamerMall}}</ref>
+|''[[Battlefield (video game series)|Battlefield]]''
+|{{dts|June 21, 2005}}
+|[[First-person shooter]]
+|[[DICE (company)|Digital Illusions CE]]
+|[[Electronic Arts]]
+|-
+| ''[[7 Days to Die]]''
+| {{sort|020|2 million}}<ref>{{cite web|url=http://7daystodie.com/|website=7daystodie.com|title=7 Days to Die|access-date=February 19, 2018|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924183956/https://7daystodie.com/|url-status=live}}</ref>{{Better source needed|reason=third-party source needed|date=February 2018}}
+| ''7 Days''
+| {{dts|June 28, 2016}}
+| [[Survival horror]]
+| colspan="2" | [[The Fun Pimps]]
+|-
+|''[[Metro 2033 Redux]]''
+|{{sort|020|2 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''Metro''
+|{{dts|August 26, 2014}}
+|[[First-person shooter]], [[survival horror]]
+|[[4A Games]]
+|[[Deep Silver|Deepsilver]]
+|-
+|''[[Planet Coaster]]''
+|{{sort|020|2 million}}<ref>{{cite web|title=Frontier's Jurassic World Evolution and Planet Coaster both cross 2m sales milestone|url=https://www.gamesindustry.biz/articles/2019-01-15-frontiers-jurassic-world-evolution-and-planet-coaster-both-cross-2m-sales-milestone|date=January 15, 2019|website=[[gamesindustry.biz]]|access-date=May 18, 2020|archive-date=November 23, 2020|archive-url=https://web.archive.org/web/20201123145404/https://www.gamesindustry.biz/articles/2019-01-15-frontiers-jurassic-world-evolution-and-planet-coaster-both-cross-2m-sales-milestone|url-status=live}}</ref>
+| {{n/a}}
+|{{dts|November 2016}}
+|[[Construction and management simulation]]
+| colspan="2" |[[Frontier Developments]]
+|-
+| ''[[Stick Fight: The Game]]''
+| {{sort|020|2 million}}<ref>{{Cite web|url=https://twitter.com/landfallgames/status/1029704198076747777|title="We just reached 2 million Stick fight sales!" - Landfall Games on twitter|language=en-US|access-date=August 15, 2018|archive-date=October 27, 2020|archive-url=https://web.archive.org/web/20201027130142/https://twitter.com/landfallgames/status/1029704198076747777|url-status=live}}</ref>
+| ''{{N/A}}''
+| {{dts|September 28, 2017}}
+| [[Fighting game|Fighting]]
+| colspan="2" | Landfall Games
+|-
+|''[[BattleBit Remastered]]''
+|{{sort|018|1.8 million}}<ref>{{Cite news |author1=Rich Stanton |date=2023-07-05 |title=Battlebit, the overnight success six years in the making, has sold just shy of two million in two weeks |url=https://www.pcgamer.com/battlebit-the-overnight-success-six-years-in-the-making-has-sold-just-shy-of-two-million-in-two-weeks/ |access-date=2025-03-25 |work=PC Gamer |language=en}}</ref>
+|''Battlebit''
+|{{dts|June 15, 2023}}
+|[[First-person shooter]]
+|SgtOkiDoki, Vilaskis, TheLiquidHorse
+|SgtOkiDoki
+|-
+| [[Diablo (video game)|''Diablo'']]
+| {{sort|018|1.8 million}}<ref>{{cite web|first=Curt|last=Feldman|url=http://headline.gamespot.com/news/98_04/17_blizzard/index.html|archiveurl=https://web.archive.org/web/20001012120407/http://headline.gamespot.com/news/98_04/17_blizzard/index.html|title=Diablo II's Inner Sanctum|website=[[GameSpot]]|archivedate=October 12, 2000|date=April 17, 1998|accessdate=November 6, 2022}}</ref>
+| ''[[Diablo (series)|Diablo]]''
+| {{dts|December 31, 1996}}
+| [[Action role-playing]]
+| [[Blizzard North]]
+| [[Blizzard Entertainment]] (North America)<br />[[Ubisoft]] (Europe)
+|-
+|''[[Tale of Immortal]]''
+|{{sort|018|1.8 million}}<ref>{{Cite web |date=2021-03-06 |title=鬼谷八荒 Tale of Immortal - 1.8 Million players! We have a Discord Channel now! |url=https://store.steampowered.com/news/app/1468810/view/3021324391422532512 |access-date=2025-08-23 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|May 26, 2023}}
+|[[Management game|Management]]
+|鬼谷工作室
+|鬼谷工作室
+Lightning Games
+|-
+| ''[[Metal Gear Solid V: The Phantom Pain]]''
+| {{sort|018|1.8 million}}<ref name="Rice"/>{{Efn|name=steamexploit}}
+| ''[[Metal Gear Solid]]''
+| {{dts|September 1, 2015}}
+| [[Action-adventure]], [[Stealth game|stealth]]
+| [[Kojima Productions]]
+| [[Konami]]
+|-
+|''[[Barbie Fashion Designer]]''
+|{{sort|017|1.75 million}}<ref>{{Cite book |last1=Cassell |first1=Justine |url=https://archive.org/details/frombarbietomort00cass/ |title=From Barbie to Mortal Kombat : gender and computer games |last2=Jenkins |first2=Henry |date=1998 |publisher=MIT Press |others=Internet Archive |isbn=978-0-262-03258-2 |location=Cambridge, Massachusetts |pages=140}}</ref><ref>{{Cite news |last=Carpenter |first=Susan |date=7 October 1999 |title=Playboy Playmate believes in E-quality |url=https://newspaperarchive.com/johnstown-tribune-democrat-oct-07-1999-p-42/ |url-access=subscription |work=Johnstown Tribune Democrat |pages=42}}</ref>
+| {{n/a}}
+|{{dts|November 1996}}
+|[[Dress up games|Dress-up]]
+|[[Digital Domain]]
+|[[Mattel Media]]
+|-
+|''[[Max Payne 3]]''
+|{{sort|017|1.74 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''May Payne''
+|{{dts|May 15, 2012}}
+|[[Third-person shooter]]
+|[[Rockstar Games|Rockstar Studios]]
+|[[Rockstar Games]]
+|-
+| ''[[Star Citizen]]''
+|{{sort|017|1.7 million}}<ref>{{cite web|last1=Zheng|first1=Jenny|title=Star Citizen Has Been Purchased By Over 1 Million Players|url=https://www.gamespot.com/articles/star-citizen-has-been-purchased-by-over-1-million-players/1100-6508145/|website=PC Gamer|date=October 11, 2022|access-date=January 31, 2021|archive-date=October 11, 2022|archive-url=https://web.archive.org/web/20221011140149/https://www.gamespot.com/amp-articles/star-citizen-has-been-purchased-by-over-1-million-players/1100-6508145/|url-status=live}}</ref>
+| {{n/a}}
+| {{dts|August 29, 2013}}
+| [[Massively multiplayer online game|MMO]], [[space trading and combat]], [[first-person shooter]]
+| colspan="2" | [[Cloud Imperium Games]]
+|-
+| ''[[Dungeon Siege]]''
+| {{sort|017|1.7 million}}<ref>{{cite press release |url=http://www.prnewswire.com/news-releases/dicer-summit-goes-global-62244387.html |title=D.I.C.E.(R) Summit Goes Global |date=July 28, 2009 |access-date=August 2, 2009 |publisher=[[GCA Games Convention Asia]] |archive-url=https://web.archive.org/web/20170202044555/http://www.prnewswire.com/news-releases/dicer-summit-goes-global-62244387.html |archive-date=February 2, 2017 |url-status=dead }}</ref>
+| ''Dungeon Siege''
+| {{dts|April 5, 2002}}
+| [[Role-playing video game|Role-playing]]
+| [[Gas Powered Games]]
+| [[Microsoft Game Studios]]
+|-
+|''[[Assassin's Creed IV: Black Flag|Assassin's Creed IV Black Flag]]''
+|{{sort|017|1.62 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Assassin's Creed]]''
+|{{dts|November 19, 2013}}
+|[[Action-adventure game|Action-adventure]]
+|[[Ubisoft Montreal]]
+|[[Ubisoft]]
+|-
+|''[[L.A. Noire]]''
+|{{sort|015|1.57 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|May 17, 2011}}
+|[[Action-adventure game|Action-adventure]]
+|[[Team Bondi]]
+|[[Rockstar Games]]
+|-
+|''[[BioShock 2]]''
+|{{sort|015|1.56 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[BioShock (series)|BioShock]]''
+|{{dts|February 9, 2010}}
+|[[First-person shooter]]
+|[[2K Marin|2k Marin]]
+|[[2K (company)|2K]]
+|-
+| ''[[Railroad Tycoon II]]''
+| {{sort|015|1.5 million}}<ref name="wired">{{cite magazine|archive-url=https://web.archive.org/web/20170930192333/https://www.wired.com/2001/08/game-over-for-max-payne-makers/|url=https://www.wired.com/2001/08/game-over-for-max-payne-makers/|title=Game Over for ''Max Payne'' Makers|author=Shachtman, Noah|date=August 16, 2001|magazine=[[Wired (magazine)|Wired]]|archive-date=September 30, 2017|url-status=live}}</ref>
+| ''[[Railroad Tycoon (series)|Railroad Tycoon]]''
+| {{dts|November 4, 1998}}
+| [[Construction and management simulation]]
+| [[PopTop Software]]
+| [[Take-Two Interactive]] / [[Gathering of Developers]]
+|-
+| ''[[International Karate]]''
+| {{sort|015|1.5 million}}<ref>{{cite book |last1=Fox |first1=Matt |title=The Video Games Guide: 1,000+ Arcade, Console and Computer Games, 1962-2012, 2d ed. |date=January 3, 2013 |publisher=[[McFarland & Company]] |isbn=978-0-7864-7257-4 |page=150 |url=https://books.google.com/books?id=xzMYYrsDaAEC&pg=PA150 |access-date=November 18, 2021 |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207163134/https://books.google.com/books?id=xzMYYrsDaAEC&pg=PA150 |url-status=live }}</ref>
+| ''[[International Karate]]''
+| {{dts|November 1985}}
+| [[Fighting game|Fighting]]
+| [[IBM System/3|System 3]]
+| [[Epyx]]
+|-
+| ''[[Marvel's Spider-Man Remastered]]''
+| {{sort|015|1.5 million}}<ref name="SMRemastered">{{cite web |last1=Romano |first1=Sal |title=Marvel's Spider-Man Remastered PC sales top 1.5 million, The Last of Us Part I PC tops 368,000 |url=https://www.gematsu.com/2023/05/marvels-spider-man-remastered-pc-sales-top-1-5-million-the-last-of-us-part-i-pc-tops-368000 |website=Gematsu |access-date=May 30, 2023 |date=May 23, 2023}}</ref>
+| ''[[Spider-Man (Insomniac Games series)|Marvel's Spider-Man]]''
+| {{dts|August 12, 2022}}
+| [[Action-adventure]]
+| [[Insomniac Games]]
+| [[Sony Interactive Entertainment]]
+|-
+| ''[[Sega Mega Drive and Genesis Classics]]''
+| {{sort|015|1.5 million}}<ref name="Rice"/>{{Efn|name=steamexploit}}
+| ''[[Sega Mega Drive and Genesis Classics]]''
+| {{dts|June 1, 2010}}
+| [[Video game compilation|Compilation]]
+| colspan="2" | [[Sega]]
+|-
+| [[Stellaris (video game)|''Stellaris'']]
+| {{sort|015|1.5 million}}<ref>{{cite web |title=Stellaris celebrates over 1.5 million copies sold - Apocalypse DLC available today |url=https://www.paradoxinteractive.com/en/stellaris-celebrates-over-1-5-million-copies-sold-apocalypse-dlc-available-today/ |website=Paradox Interactive |access-date=September 12, 2020 |archive-url=https://web.archive.org/web/20190502121333/https://www.paradoxinteractive.com/en/stellaris-celebrates-over-1-5-million-copies-sold-apocalypse-dlc-available-today/ |archive-date=May 2, 2019 |date=February 22, 2018 |url-status=live}}</ref>
+| {{n/a}}
+| {{dts|May 9, 2016}}
+| [[Real-time strategy|RTS]], [[4X]], [[Grand Strategy|grand strategy]]
+| [[Paradox Development Studio]]
+| [[Paradox Interactive]]
+|-
+|''[[PlateUp!]]''
+|{{sort|015|1.5 million}}<ref>{{Cite web |date=2024-02-12 |title=PlateUp! has sold 1.5 million Steam copies ahead of console release |url=https://www.godisageek.com/2024/02/plateup-has-sold-1-5-million-steam-copies-ahead-of-console-release/ |access-date=2025-03-25 |website=GodisaGeek.com |language=en-US}}</ref>
+| {{n/a}}
+|{{dts|August 4, 2019}}
+|[[Simulation video game|Cooking]], [[Roguelike|roguelite]]
+|It's happening
+|[[Yogscast|Yogscast Games]], Gamersky Games
+|-
+|''[[Windrose (video game)|Windrose]]''
+|{{sort|015|1.5 million}}<ref>{{Cite news |date=April 30, 2026 |title=New accolades trailer to celebrate over 1,500,000 copies sold! |url=https://store.steampowered.com/news/app/3041230/view/658231077844812282 |access-date=May 2, 2026 |work=[[Steam (service)|Steam]]}}</ref>
+| {{n/a}}
+|{{dts|April 14, 2026}}
+|[[Action-adventure game|Action-adventure]], [[Survival mode|survival]]
+|Kraken Express
+|Kraken Express<br />[[Pocketpair]]
+|-
+|''[[Monster Hunter Wilds]]''
+|{{sort|014|1.4 million}}<ref>{{Cite news |last1=Randall |first1=Harvey |last2=Fenlon |first2=Wes |last3=Lictchfield |first3=Ted |date=2025-02-28 |title=Monster Hunter Wilds claws past Dota 2 and Lost Ark to be Steam's 5th most-played game ever, with a nearly 1.4 million peak player count |url=https://www.pcgamer.com/games/action/monster-hunter-wilds-steam-concurrent-player-record/ |access-date=2025-03-25 |work=PC Gamer |language=en}}</ref>{{Efn|Top concurrent player count on Steam. True figure likely higher.|name=concurrentplayerprecision|group=}}
+|''[[Monster Hunter]]''
+|{{dts|February 28, 2025}}
+|[[Action role-playing game|Action role-playing]]
+| colspan="2" |[[Capcom]]
+|-
+|''[[Dead Rising 3 Apocalypse Edition]]''
+|{{sort|014|1.4 million}}<ref name=":1" />
+|''[[Dead Rising]]''
+|{{dts|September 5, 2014}}
+|[[Action-adventure game|Action-adventure]]
+|[[Capcom Vancouver]]
+|[[Microsoft Studios]]
+|-
+|''[[Frostpunk]]''
+|{{sort|014|1.4 million}}<ref>{{Cite web |last=Taylor |first=Ivy |date=2019-04-24 |title=Frostpunk sells 1.4m units in first year |url=https://www.gamesindustry.biz/frostpunk-sells-1-4m-units-since-launch-last-year |access-date=2025-05-22 |website=GamesIndustry.biz |language=en}}</ref>
+|''Frostpunk''
+|{{dts|April 24, 2018}}
+|[[City-building game|City-building]] [[Survival game|survival]]
+| colspan="2" |[[11 Bit Studios]]
+|-
+|''[[Age of Conan]]''
+|{{sort|014|1.4 million}}<ref>{{cite web |last1=Batchelor |first1=James |date=July 5, 2018 |title=1.4m sales makes Conan Exiles the biggest game in Funcom's history |url=https://www.gamesindustry.biz/articles/2018-07-05-1-4m-sales-makes-conan-exiles-is-biggest-game-in-funcoms-history |access-date=March 23, 2021 |website=[[GamesIndustry]] |publisher=[[Gamer Network]]}}</ref>
+| {{n/a}}
+|{{dts|May 20, 2008}}
+|[[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+|[[Funcom]]
+|[[Funcom]]
+[[Eidos Interactive]]
+|-
+| ''[[Ultra Street Fighter IV]]''
+| {{sort|013|1.3 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| ''[[Street Fighter]]''
+| {{dts|July 2, 2009}}
+| [[Fighting game|Fighting]]
+| [[Capcom]] <br /> [[Dimps]]
+| [[Capcom]]
+|-
+| ''[[Battlefield Vietnam]]''
+| {{sort|013|1.36 million}}<ref name="battlefield1942" />
+| ''[[Battlefield (video game series)|Battlefield]]''
+| {{dts|March 14, 2004}}
+| [[First-person shooter]]
+| [[EA DICE]]
+| [[Electronic Arts]]
+|-
+| ''[[Riven]]''
+| {{sort|013|1.3 million}}<ref name="IGN">{{cite web |archiveurl=https://web.archive.org/web/20000302112243/http://pc.ign.com/news/11728.html |url=http://pc.ign.com:80/news/11728.html |title=PC Data Top Games of All Time |date=November 1, 1999 |author=IGN Staff |work=[[IGN]] |archivedate=March 2, 2000 |url-status=dead |access-date=February 19, 2024 }}</ref>
+| ''[[Myst (series)|Myst]]''
+| {{dts|October 31, 1997}}
+| [[Adventure game|Adventure]], [[Puzzle video game|puzzle]]
+| [[Cyan Worlds|Cyan]]
+| [[Red Orb Entertainment]]
+|-
+| ''[[Resident Evil 6]]''
+| {{sort|013|1.3 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| ''[[Resident Evil]]''
+| {{dts|March 21, 2013}}
+| [[Third-person shooter]], [[survival horror]]
+| colspan="2" | [[Capcom]]
+|-
+|''[[Gujian 3]]''
+|{{sort|013|1.3 million}}<ref>{{Cite web |last=Macgregor |first=Jody |date=2020-07-11 |title=Chinese RPG Gujian 3 has sold 1.3 million copies |url=https://www.pcgamer.com/chinese-rpg-gujian-3-has-sold-13-million-copies/ |access-date=2020-12-12 |website=PC Gamer |language=en-US}}</ref>
+|''Gujian''
+|{{dts|December 14, 2018}}
+|[[Action role-playing game|Action role-playing]]
+|Aurogon
+|Wangyuan Shengtang
+|-
+|''[[Lost Ark (video game)|Lost Ark]]''
+|{{sort|013|1.3 million}}<ref>{{Cite web |last=Warren |first=Tom |date=2022-02-12 |title=Lost Ark becomes the second most played game in Steam history after just 24 hours |url=https://www.theverge.com/2022/2/12/22930757/lost-ark-steam-most-played-game-launch |access-date=2024-04-14 |website=The Verge |language=en}}</ref>{{Efn|Top concurrent player count on Steam. True figure likely higher.|name=concurrentplayerprecision|group=}}
+| {{n/a}}
+|{{dts|December 4, 2019}}
+|[[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+|Tripod Studio
+[[Smilegate]]
+|[[Amazon Games]]
+[[Smilegate]]
+|-
+|''BioShock Remastered''
+|{{sort|013|1.28 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[BioShock (series)|BioShock]]''
+|{{dts|September 15, 2016}}
+|[[First-person shooter]]
+|[[2K Boston]]
+[[2K Australia]]
+Blind Squirrel
+[[Feral Interactive]] (Mac)
+|[[2K (company)|2K]]
+[[Feral Interactive]] (Mac)
+|-
+|''[[Fez (video game)|FEZ]]''
+|{{sort|013|1.28 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|May 1, 2013}}
+|[[Puzzle-platform]]
+|[[Polytron Corporation]]
+|Trapdoor
+|-
+| [[Monopoly (1995 video game)|''Monopoly'']]
+| {{sort|013|1.27 million}}<ref name="IGN" />
+| ''[[Monopoly in video games|Monopoly]]''
+| {{dts|September 1995}}
+| [[Strategy video game|Strategy]], board game
+| [[Westwood Studios]]
+| [[Hasbro Interactive|Hasbro Electronic Entertainment]]
+|-
+|[[Against the Storm (video game)|''Against the Storm'']]
+|{{sort|012|1.2 million}}<ref>{{Cite web |last=Obedkov |first=Evgeny |date=2024-10-14 |title=Hooded Horse-published games sold 4.5 million copies in 12 months, also generating 9.5 million wishlists |url=https://gameworldobserver.com/2024/10/14/hooded-horse-4-5-million-copies-sold-9-5-wishlists |access-date=2025-03-25 |website=Game World Observer |language=en-US}}</ref>
+|{{n/a}}
+|{{dts|December 8, 2018}}
+|[[City-building game|City-building]]
+|Eremite Games
+|[[Hooded Horse]]
+|-
+| ''[[Nier: Automata]]''
+| {{sort|012|1.2 million}}<ref name="Rice"/>{{Efn|name=steamexploit}}
+| ''[[Drakengard|Nier]]''
+| {{dts|March 17, 2017}}
+| [[Action role-playing]], [[hack and slash]]
+| [[PlatinumGames]] [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[SimCity 2000]]''
+| {{sort|011|1.13 million}}<ref name="IGN" />
+| |''[[SimCity]]''
+| {{dts|December 1993}}
+|[[City-building game|City-building]]
+|[[Maxis]]
+|[[Maxis]]
+|-
+| ''[[Pac-Man Championship Edition DX+]]''
+| {{sort|011|1.1 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| ''[[Pac-Man]]''
+| {{dts|September 25, 2013}}
+| [[Maze game|Maze]], [[Arcade game|arcade]]
+| [[Namco Bandai Games]] <br /> Mine Loader Software
+| [[Namco Bandai Games]]
+|-
+|''[[To the Moon (video game)|To the Moon]]''
+|{{sort|011|1.09 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|November 1, 2011}}
+|[[Adventure game|Adventure]]
+| colspan="2" |Freebird Games
+|-
+|''[[Brothers: A Tale of Two Sons]]''
+|{{sort|011|1.06 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|September 3, 2013}}
+|[[Adventure game|Adventure]]
+|[[Starbreeze Studios]]
+|[[505 Games]]
+|-
+|''[[The Walking Dead: Season Two]]''
+|{{sort|011|1.05 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''The Walking Dead''
+|{{dts|2013}}
+|[[Adventure game|Adventure]]
+| colspan="2" |[[Telltale Games]]
+|-
+|''[[Hotline Miami 2: Wrong Number]]''
+|{{sort|010|1.04 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''Hotline Miami''
+|{{dts|March 10, 2015}}
+|[[Top-down shooter]]
+|Dennaton Games
+Abstraction Games
+|[[Devolver Digital]]
+|-
+|''[[The Wolf Among Us]]''
+|{{sort|011|1.01 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''The Wolf Among Us''
+|{{dts|2013}}
+|[[Adventure game|Adventure]]
+| colspan="2" |[[Telltale Games]]
+|-
+|''[[Braid (video game)|Braid]]''
+|{{sort|011|1.01 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+| {{n/a}}
+|{{dts|April 10, 2009}}
+|[[Puzzle-platformer]]
+| colspan="2" |[[Number None]]
+|-
+|''[[Assassin's Creed Origins]]''
+|{{sort|010|1 million}}<ref name="Rice" />{{Efn|name=steamexploit}}
+|''[[Assassin's Creed]]''
+|{{dts|October 27, 2017}}
+|[[Action role-playing game|Action role-playing]]
+|[[Ubisoft Montreal]]
+|[[Ubisoft]]
+|-
+|''BlazBlue Entropy Effect''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-03-13 |title=We'll be at The Triple-i Initiative & New Avatar to Celebrate 1 Million sales! |url=https://steamcommunity.com/games/2273430/announcements/detail/506197182866522795 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+|''[[BlazBlue]]''
+|{{dts|February 14, 2024}}
+|[[Action game|Action]], [[roguelike]]
+| colspan="2" |91Act
+|-
+| ''[[Hydlide]]''
+| {{sort|010|1 million}}<ref>John Szczepaniak, [http://www.kinephanos.ca/2015/history-of-japanese-video-games/ History of Japanese Video Games] {{Webarchive|url=https://web.archive.org/web/20181003093755/http://www.kinephanos.ca/2015/history-of-japanese-video-games/ |date=October 3, 2018 }}, ''Kinephanos'', ISSN 1916-985X</ref>
+| ''Hydlide''
+| {{dts|December 13, 1984}}
+| [[Action role-playing]]
+| colspan="2" | [[Technology and Entertainment Software]]
+|-
+|[[Creatures (1996 video game)|''Creatures'']]
+|{{sort|010|1 million}}<ref>{{Cite book |last=Buckland |first=Mat |url=https://archive.org/details/aitechniquesforg0000buck/ |title=AI techniques for game programming |date=2002 |publisher=Premier Press |isbn=978-1-931841-08-5 |location=Cincinnati, Ohio}}</ref>
+|''[[Creatures (video game series)|Creatures]]''
+|{{dts|November 1996}}
+|[[Life simulation game|Artificial life]]
+|[[Creature Labs]]<br />Elo Interactive (GBA)
+|[[Time Warner Interactive|Warner Interactive Europe]] (Europe)<br />[[Mindscape (company)|Mindscape]] (North America)
+|-
+|''[[Big G All-Stars vs. Major League Baseball]]''
+|{{sort|010|1 million}}<ref>{{Cite book |last=Pedersen |first=Roger E. |url=https://archive.org/details/gamedesignfounda0000pede_j8t9 |title=Game design foundations |date=2009 |publisher=Wordware Pub |isbn=978-1-59822-034-6 |location=Sudbury, MA |pages=213}}</ref>
+| {{n/a}}
+|{{dts|1998}}
+|[[Baseball]]
+|([[Hypnotix]]?)
+|[[General Mills]]
+|-
+|''[[Mewgenics]]''
+|{{sort|010|1 million}}<ref>{{Cite news |last=Chalk |first=Andy |date=2026-02-17 |title=Mewgenics sells 1 million copies in just 1 week, far more than its creators expected: 'We both got a bit blindsided by this' |url=https://www.pcgamer.com/games/roguelike/mewgenics-sells-1-million-copies-in-just-1-week-far-more-than-its-creators-expected-we-both-got-a-bit-blindsided-by-this/ |access-date=2026-02-21 |work=PC Gamer |language=en}}</ref>
+| {{n/a}}
+|{{dts|February 10, 2026}}
+|[[Tactical role-playing game|Tactical role-playing]] [[Roguelike]] 
+[[Life simulation game|Life simulation]]
+| colspan="2" |[[Edmund McMillen|Edmund McMillien]]
+[[Tyler Glaiel|Tyler Glaeil]]
+|-
+| [[Tetris (Spectrum HoloByte)|''Tetris'']]
+| {{sort|010|1 million}}<ref>{{cite book |last1=McGowan |first1=Chris |last2=McCullaugh |first2=Jim |title=Entertainment in the Cyber Zone |date=1995 |publisher=[[Random House|Random House Electronic Pub.]] |isbn=978-0-679-75804-4 |page=81 |url=https://books.google.com/books?id=r4M_AQAAIAAJ |quote=Spectrum HoloByte claims that nearly half of ''Tetris'' players are women, a striking contrast to the profiles of most other computer games. Since 1988, the company claims to have sold more than a million copies of ''Tetris''-family PC products. |access-date=November 18, 2021 |archive-date=February 7, 2023 |archive-url=https://web.archive.org/web/20230207163140/https://books.google.com/books?id=r4M_AQAAIAAJ |url-status=live }}</ref>
+| ''[[List of Tetris variants|Tetris]]''
+| {{dts|January 1988}}
+| [[Puzzle video game|Puzzle]]
+| colspan="2" | [[Spectrum HoloByte]]
+|-
+| ''[[Hollow Knight]]''
+| {{sort|010|1 million}}<ref>{{cite web |last1=Lemon |first1=Marshall |title=Hollow Knight sold over 1 million copies on PC |url=https://www.vg247.com/2018/07/05/hollow-knight-sold-over-1-million-copies-on-pc/ |website=VG24/7 |date=July 5, 2018 |access-date=July 7, 2018 |archive-date=September 23, 2020 |archive-url=https://web.archive.org/web/20200923092925/https://www.vg247.com/2018/07/05/hollow-knight-sold-over-1-million-copies-on-pc/ |url-status=live }}</ref>
+| {{n/a}}
+| {{dts|February 24, 2017}}
+| [[Metroidvania]]
+| colspan="2" | [[Team Cherry (developer)|Team Cherry]]
+|-
+|''Barony''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Crichton-Stuart |first=Eliza |date=2026-06-27 |title=Barony hits 1 million Steam sales during Summer Sale |url=https://games.gg/news/barony-1-million-steam-sales/ |access-date=2026-06-27 |website=GAMES.GG |language=en}}</ref>
+| {{n/a}}
+|{{dts|June 23, 2015}}
+|[[Multiplayer video game|Multiplayer]] [[roguelike]]
+| colspan="2" |Turning Wheel LLC
+|-
+| [[RoboCop (1988 video game)|''RoboCop'']]
+| {{sort|010|1 million}}<ref>{{cite magazine|last=Mellor|first=Robert|url=http://www.retrogamer.net/retro_games80/the-making-of-robocop/|title=The Making Of: RoboCop|magazine=[[Retro Gamer]]|issue=46|publisher=[[Future plc|Future Publishing]]|date=January 2008|pages=62–65|access-date=April 8, 2021|archive-date=February 2, 2017|archive-url=https://web.archive.org/web/20170202002640/http://www.retrogamer.net/retro_games80/the-making-of-robocop/|url-status=live}}</ref>
+| ''[[List of RoboCop video games|RoboCop]]''
+| {{dts|December 1988}}
+| [[Run and gun video game|Run and gun]]
+| [[Data East]]
+| [[Data East]], [[Ocean Software]]
+|-
+| ''[[Return to Zork]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://sec.edgar-online.com/1996/07/08/00/0000718877-96-000011/Section2.asp |publisher=[[EDGAR]] |access-date=July 9, 2007 |title=Activision Inc /NY Form:10-K Filing Date:7/8/1996 |date=August 7, 1996 |url-status=dead |archive-url=https://web.archive.org/web/20071001003736/http://sec.edgar-online.com/1996/07/08/00/0000718877-96-000011/Section2.asp |archive-date=October 1, 2007 }}</ref>
+| ''[[Zork]]''
+| {{dts|August 20, 1993}}
+| [[Adventure game|Adventure]]
+| [[Infocom]]
+| [[Activision]]
+|-
+| ''[[Star Wars: Rebel Assault]]''
+|{{sort|010|1 million}}<ref>{{cite web|url=http://www.lucasarts.com/about/milestones.htm |title=Lucas Arts Milestones |access-date=July 2, 2015 |archive-url = https://web.archive.org/web/20070204040019/http://www.lucasarts.com/about/milestones.htm |archive-date=February 4, 2007}}</ref>
+| rowspan="2" | ''[[Star Wars]]''
+| {{dts|November 1993}}
+| [[Rail shooter]]
+| colspan="2" | [[LucasArts]]
+|-
+| ''[[Star Wars Galaxies]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.lucasarts.com/company/release/news20051108.html |title=LucasArts Announces Star Wars Galaxies: The Starter Kit -- Everything You Need To Visit A Galaxy Far, Far Away -- Eventually! |publisher=[[LucasArts]] |date=November 8, 2005 |access-date=August 14, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070912035632/http://www.lucasarts.com/company/release/news20051108.html |archive-date=September 12, 2007 }}</ref>
+| {{dts|June 26, 2003}}
+| [[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+| [[Sony Online Entertainment]]
+| [[LucasArts]]
+|-
+|''The Mean Greens''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2020-03-30 |title=The Mean Greens - Plastic Warfare - The Mean Greens Has Sold 1 MILLION Copies! |url=https://store.steampowered.com/news/app/360940/view/2077789195250971063 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|December 8, 2015}}
+|[[Third-person shooter]]
+|Virtual Basement LLC, Code Headquarter LLC
+|Virtual Basement LLC
+|-
+|''Necesse''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2023-12-26 |title=Necesse : 1 Million Steam Copies |url=https://steamcommunity.com/games/1169040/announcements/detail/3871471412504590433 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|December 12, 2019}}
+|[[Sandbox game|Sandbox]], [[Action-adventure game|action-adventure]],[[exploration]]
+| colspan="2" |Fair Games ApS
+|-
+|''[[Soma (video game)|Soma]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2021-03-16 |title=Amnesia: Rebirth – Five months later and SOMA sells 1M+ copies – Frictional Games |url=https://frictionalgames.com/2021-03-amnesia-rebirth-five-months-later-and-soma-sells-1m-copies/ |access-date=2026-01-10 |website=Frictional Games |language=en-GB}}</ref>
+| {{n/a}}
+|{{dts|September 22, 2015}}
+|[[Survival horror]]
+| colspan="2" |[[Frictional Games]]
+|-
+| ''[[Wing Commander 3: Heart of the Tiger]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://gamesedition.com/w/wingcommander3.html|title=Although initially there were major concerns about a published only on CD-ROM title, the title sold over one million copies It was EA's first CD-ROM exclusive million-seller.|date=January 1, 2010|publisher=[[Business Wire]]|access-date=January 28, 2015|archive-url=https://web.archive.org/web/20150207024457/http://gamesedition.com/w/wingcommander3.html|archive-date=February 7, 2015|url-status=dead}}</ref>
+| ''[[Wing Commander (franchise)|Wing Commander]]''
+| {{dts|December 1994}}
+| [[Space combat simulation]]
+| [[Origin Systems]]
+| [[Electronic Arts]]
+|-
+|''Hero's Adventure''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2024-11-08 |title=Hero's Adventure Hits 1 Million Sales — November Update Preview |url=https://store.steampowered.com/news/app/1948980/view/4452464935110180921 |access-date=2026-02-21 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|November 15, 2023}}
+|[[Role-playing game]]
+|Half Amateur Studio
+|XD
+|-
+|''[[Paralives]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2026-06-24 |title=1,000,000 COPIES SOLD 🎉🎉 |url=https://www.paralives.com/news/1000000-copies-sold- |access-date=2026-06-27 |website=Paralives |language=en-US}}</ref>
+| {{n/a}}
+|{{dts|May 25, 2026}}
+|[[Life simulation game|Life simulation]]
+| colspan="2" |Paralives studio
+|-
+| [[Full Throttle (1995 video game)|''Full Throttle'']]
+| {{sort|010|1 million}}<ref>{{cite magazine |url=http://www.brutallegend.net/media/edge_schafer_5.jpg |magazine=[[Edge (magazine)|Edge]] |date=August 2009 |access-date=July 2, 2015 |title=Tim Schafer Interview |archive-date=July 3, 2015 |archive-url=https://web.archive.org/web/20150703030113/http://www.brutallegend.net/media/edge_schafer_5.jpg |url-status=live }}</ref>
+| {{n/a}}
+| {{dts|April 30, 1995}}
+| [[Graphic adventure]]
+| colspan="2" | [[LucasArts]]
+|-
+|''[[Celtic Kings: Rage of War]]''
+|{{sort|010|1 million}}<ref>{{cite web |date=2 May 2006 |title=Imperivm sells 1 million units in Spain and Italy alone |url=http://www.haemimontgames.com/celtickings/press/news.html |url-status=dead |archive-url=https://web.archive.org/web/20070104165653/http://www.haemimontgames.com/celtickings/press/news.html |archive-date=4 January 2007 |access-date=17 November 2018 |work=[[Haemimont Games]]}}</ref>
+| {{n/a}}
+|{{dts|August 19, 2002}}
+|[[Real-time strategy]]
+|[[Haemimont Games]]
+|[[Strategy First]] (NA)
+Wanadoo Edition (FRA)
+|-
+|''MIMESIS''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-12-18 |title=A Message to Our One Million Survivors |url=https://store.steampowered.com/news/app/2827200/view/539999541835858465 |access-date=2026-01-06 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|October 27, 2025}}
+|[[Cooperative video game|Co-op]] [[survival horror]]
+|ReLU Games, Inc.
+|ReLU Games, Inc.
+KRAFTON, Inc.
+|-
+|''[[HyperBlade]]''
+|{{sort|010|1 million}}<ref>{{cite web |date=September 4, 1998 |title=News - Hyperblade Breaks the One Million Mark! |url=http://www.wizbang.com/news.htm |archiveurl=https://web.archive.org/web/20000621220925/http://www.wizbang.com:80/news.htm |archivedate=June 21, 2000 |accessdate=September 10, 2024 |website=Wizbang! Software |quote=To see the information, highlight the text under the "Hyperblade Breaks the One Million Mark!}}</ref>
+| {{n/a}}
+|{{dts|November 1, 1996}}
+|[[Action game|Action]] [[Sports video game|sports]]
+|Wzigbang! Software Productions
+|[[Activision]]
+|-
+| [[Phantasmagoria (video game)|''Phantasmagoria'']]
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.justadventure.com/Interviews/Roberta_Williams/Roberta_Williams_Interview_3.shtm |page=3 |title=Roberta Williams Speaks Out ... |author=Randy Sluganski |publisher=Just Adventure+ |date=March 1999 |access-date=February 3, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071224080507/http://www.justadventure.com/Interviews/Roberta_Williams/Roberta_Williams_Interview_3.shtm |archive-date=December 24, 2007 }}</ref>
+| ''Phantasmagoria''
+| {{dts|July 31, 1995}}
+| [[Interactive movie]]
+| colspan="2" | [[Sierra On-Line]]
+|-
+| ''[[Daryl F. Gates' Police Quest: SWAT]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.gamasutra.com/view/feature/3436/postmortem_sierras_swat3_close_.php |title=Postmortem: Sierra's SWAT3 Close Quarters Battle |date=March 6, 2000 |access-date=March 3, 2008 |website=[[Gamasutra]] |author=Jim Napier |page=1 |archive-date=May 22, 2019 |archive-url=https://web.archive.org/web/20190522005733/https://www.gamasutra.com/view/feature/3436/postmortem_sierras_swat3_close_.php |url-status=dead }}</ref>
+| ''[[Police Quest]]''
+| {{dts|November 1995}}
+| [[Interactive movie]]
+| colspan="2" | [[Sierra On-Line]]
+|-
+| ''[[Duke Nukem 3D]]''
+| {{sort|010|1 million}}<ref>{{cite web |author=Paul Hyman |work=[[The Hollywood Reporter]] |url=http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1000955338 |title=Digital distribution: Keep the money and run? |date=June 13, 2005 |access-date=August 27, 2007 |archive-url = https://web.archive.org/web/20070930181658/http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1000955338 |archive-date = September 30, 2007}}</ref>{{Better source needed|reason=need source that strictly states PC sales, source doesn't differentiate between multiple consoles|date=August 2014}}
+| ''[[Duke Nukem]]''
+| {{dts|January 29, 1996}}
+| [[First-person shooter]]
+| [[3D Realms]]
+| [[GT Interactive]]
+|-
+|''Fresh Women''
+|1 million<ref>{{Cite web |date=2024-01-12 |title=FreshWomen - Season 1 : 1 Million Copies Sold on Steam! 🎮🚀 |url=https://steamcommunity.com/games/1350650/announcements/detail/3969426606790868922 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|August 19, 2022}}
+|[[Pornographic game|Pornographic]]
+| colspan="2" |OppaiMan
+|-
+| ''[[Civilization II]]''
+| {{sort|010|1 million}}<ref name="colemansales">{{cite magazine| author=Coleman, Terry |title=Agents of Injustice |date=October 1998|issue=171| magazine=[[Computer Gaming World]] | page=27 }}</ref>
+| ''[[Civilization (series)|Civilization]]''
+| {{dts|February 29, 1996}}
+| [[Turn-based strategy]], [[4X]]
+| colspan="2" | [[MicroProse]]
+|-
+|[[A Game About Digging a Hole|''A Game About Digging A Hole'']]
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-08-01 |title=A Game About Digging A Hole - Mobile Port, 1 million copies sold, the future of AGADAH! |url=https://store.steampowered.com/news/app/3244220/view/537735054151909742 |access-date=2025-08-02 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|February 7, 2025}}
+|[[Simulation video game|Simulation]]
+|Cyberwave
+|rokaplay Boutique
+Drillhounds
+|-
+| [[Quake (video game)|''Quake'']]
+| {{sort|010|1 million}}<ref name=jaarticle/>{{Better source needed|reason=need source that strictly states PC sales|date=August 2014}}
+| rowspan="2" | ''[[Quake (series)|Quake]]''
+| {{dts|June 22, 1996}}
+| [[First-person shooter]]
+| [[id Software]]
+| [[GT Interactive]]
+|-
+| ''[[Quake II]]''
+| {{sort|010|1 million}}<ref name="id" />
+| {{dts|December 9, 1997}}
+| [[First-person shooter]]
+| [[id Software]]
+| [[Activision]]
+|-
+|''[[Chuck Yeager's Advanced Flight Trainer]]''
+|{{sort|010|1 million}}<ref>{{Cite book |last=Morrison |first=Mike |url=https://archive.org/details/magicofinteracti0000morr/mode |title=The magic of interactive entertainment |date=1994 |publisher=Indianapolis, IN : Sams Pub. |isbn=978-0-672-30456-9 |location=Indianapolis, Indiana |pages=4}}</ref>
+| {{n/a}}
+|{{dts|1987}}
+|[[Flight simulation video game|Flight simulation]]
+|[[Lerner Research]]
+|[[Electronic Arts]]
+|-
+|[[Chivalry: Medieval Warfare|''Chivalry : Medieval Warfare'']]
+|{{sort|010|1 million}}<ref>{{Cite web |last=Annunziata |first=Lucas |date=2013 |title=Chivalry: Medieval Warfare Sells Over 1 Million Copies {{!}} Torn Banner Studios |url=https://tornbanner.com/blog/chivalry-medieval-warfare-sells-over-1-million-copies/ |url-status=dead |archive-url=https://web.archive.org/web/20130820013134/https://tornbanner.com/blog/chivalry-medieval-warfare-sells-over-1-million-copies/ |archive-date=2013-08-20 |access-date=2025-05-06 |website=Torn Banner}}</ref>
+|''Chivalry''
+|{{dts|October 16, 2012}}
+|[[Hack and slash]]
+| colspan="2" |[[Torn Banner Studios]]
+|-
+| ''[[Grand Prix 2]]''
+| {{sort|010|1 million}}<ref name="sales">{{cite journal | author=Mahood, Andy | journal=[[PC Gamer US]] | title=''Grand Prix 3'' |date=November 2000 | volume=7 | issue=11 | pages=143, 144 }}</ref>
+| ''Grand Prix''
+| {{dts|August 30, 1996}}
+| [[Sim racing]]
+| [[MicroProse]]
+| [[MicroProse]]
+|-
+|''[[Coral Island (video game)|Coral Island]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-09-25 |title=1 Million Units, Full Crossplay & Roadmap |url=https://store.steampowered.com/news/app/1158160/view/519725729918746942 |access-date=2026-02-21 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|November 14, 2023}}
+|[[Farm life sim|Farm simulation]]
+|Stairway Games
+|[[Humble Games]]
+|-
+|''[[Dwarf Fortress]]''
+|{{sort|010|1 million}}<ref>{{Cite news |author1=Rick Lane |date=2025-04-19 |title=Dwarf Fortress sells 1 million copies on Steam, so now Bay 12 Games can afford that 'little party' it planned |url=https://www.pcgamer.com/games/sim/dwarf-fortress-sells-1-million-copies-on-steam-so-now-bay-12-games-can-afford-that-little-party-it-planned/ |access-date=2025-04-20 |work=PC Gamer |language=en}}</ref>{{Efn|1=Steam sales only. Itch.io sales and free downloads not included.|name=|group=}}
+| {{n/a}}
+|{{dts|December 6, 2022}}{{Efn|1=The public alpha was released for free on August 8, 2006; but the paid version on Steam and Itch.io was released on December 6, 2022|name=|group=}}
+|[[Construction and management simulation]]
+|[[Bay 12 Games]]
+|[[Bay 12 Games]]
+[[Kitfox Games]] (Itch.io and Steam)
+|-
+|''Hydroneer''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-06-18 |title=One Million Hydroneers |url=https://store.steampowered.com/news/app/1106840/view/831590585342105556 |access-date=2025-07-16 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|May 8, 2020}}
+|[[Construction and management simulation]]
+| colspan="2" |Foulball Hangover
+|-
+|''[[Angels of Death (video game)|Angels of Death]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2017-03-02 |title=Angels of Death 1 Million Download Giveaway! |url=https://store.steampowered.com/news/app/537110/view/5220191245405150575 |access-date=2025-11-11 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|August 14, 2015}}
+|[[Horror game|Horror]], [[adventure game|adventure]]
+|Hoshikuzu KRNKRN
+|Den Fami Nico Game Magazine
+|-
+| ''[[Total Annihilation]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.gamershell.com/news_2378.html |title=New Total Annihilation title announced |publisher=gamershell |date=May 16, 2002 |access-date=October 3, 2013 |archive-url=https://web.archive.org/web/20131004212936/http://www.gamershell.com/news_2378.html |archive-date=October 4, 2013 |url-status=dead  }}</ref>
+|''Total Annihilation''
+| {{dts|September 30, 1997}}
+| [[Real-time strategy]]
+| [[Cavedog Entertainment]]
+| [[GT Interactive]]
+|-
+| [[Frogger (1997 video game)|''Frogger: He's Back!'']]
+| {{sort|010|1 million}}<ref>{{cite news|last=Reidy|first=Chris|title=Hasbro Unit Pays $5m for Atari Arcade Game Rights Plans Include New Versions for Users of PCs, Playstation|url=https://pqasb.pqarchiver.com/boston/access/44814830.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Mar+17%2C+1998&author=Reidy%2C+Chris&pub=Boston+Globe&desc=Hasbro+Unit+Pays+%245m+for+Atari+Arcade+Game+Rights+Plans+Include+New+Versions+for+Users+of+PCs%2C+Playstation&pqatl=google|access-date=March 6, 2012|newspaper=[[The Boston Globe]]|date=March 17, 1998|quote=Just before the holidays, Hasbro Interactive introduced a PC version of Frogger; in less than four months, it has sold nearly one million units|archive-date=November 7, 2012|archive-url=https://web.archive.org/web/20121107073743/http://pqasb.pqarchiver.com/boston/access/44814830.html?FMT=ABS&FMTS=ABS:FT&type=current&date=Mar+17%2C+1998&author=Reidy%2C+Chris&pub=Boston+Globe&desc=Hasbro+Unit+Pays+%245m+for+Atari+Arcade+Game+Rights+Plans+Include+New+Versions+for+Users+of+PCs%2C+Playstation&pqatl=google|url-status=dead}}</ref>{{Better source needed|reason=source is just abstract, cites no actual sales data without paying to see full article|date=May 2014}}{{sort|140|}}
+| ''Frogger''
+| {{dts|November 3, 1997}}
+| [[Action game|Action]]
+| [[Guerrilla Cambridge|Sony Computer Entertainment Europe]]
+| [[Hasbro Interactive]]
+|-
+|''[[Don't Starve]]''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Wawro |first=Alex |date=21 January 2014 |title=Klei sold more than a million copies of Don't Starve in 2013 |url=http://gamasutra.com/view/news/208997/Klei_sold_more_than_a_million_copies_of_Dont_Starve_in_2013.php |archive-url=https://web.archive.org/web/20140122054320/http://gamasutra.com/view/news/208997/Klei_sold_more_than_a_million_copies_of_Dont_Starve_in_2013.php |archive-date=2014-01-22 |access-date=2025-08-23 |website=gamasutra.com |language=en}}</ref>
+|''[[Don't Starve]]''
+|{{dts|April 23, 2013}}
+|[[Survival game|Survival]]
+| colspan="2" |[[Klei Entertainment]]
+|-
+|''[[Deer Hunter II: The Hunt Continues]]''
+|{{sort|010|1 million}}<ref name=":3" />
+|''[[Deer Hunter (series)|Deer Hunter]]''
+|{{dts|October 31, 1998}}
+|[[Sports game|Sports]]
+|[[Sunstorm Interactive]]
+|[[WizardWorks]]
+|-
+|''Deer Hunter 3: The Legend Continues''
+|{{sort|010|1 million}}<ref name=":3" />
+|''[[Deer Hunter (series)|Deer Hunter]]''
+|{{dts|October 1, 1999}}
+|[[Sports game|Sports]]
+|[[Sunstorm Interactive]]
+|[[WizardWorks]]
+|-
+| [[Blade Runner (1997 video game)|''Blade Runner'']]
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.gamasutra.com/php-bin/news_index.php?story=9284 |website=[[Gamasutra]] |access-date=July 9, 2007 |date=May 12, 2006 |author=Chris Woodard |title=E3 Workshop: The Inner Game: What Goes Into The Industry's Best-Selling Titles |archive-date=May 21, 2019 |archive-url=https://web.archive.org/web/20190521065634/https://www.gamasutra.com/php-bin/news_index.php?story=9284 |url-status=dead }}</ref>
+| {{n/a}}
+| {{dts|November 21, 1997}}
+| [[Point-and-click]]
+| [[Westwood Studios]]
+| [[Virgin Interactive]]
+|-
+| [[Unreal (1998 video game)|''Unreal'']]
+| {{sort|010|1 million}}<ref name="gearbox" />
+| rowspan="2" | ''[[Unreal (video game series)|Unreal]]''
+| {{dts|May 22, 1998}}
+| [[First-person shooter]]
+| [[Epic Games]]<br />[[Digital Extremes]]
+| [[GT Interactive]]
+|-
+| ''[[Unreal Tournament]]''
+| {{sort|010|1 million}}<ref name="gearbox">{{cite web|url=http://www.gearboxsoftware.com/index.php?p=pr&pr=9 |title=Gearbox Software licenses Unreal Engine 3 |publisher=[[Gearbox Software]] |access-date=February 14, 2007 |date=September 22, 2005 |url-status=dead |archive-url=https://web.archive.org/web/20070102062449/http://www.gearboxsoftware.com/index.php?p=pr&pr=9 |archive-date=January 2, 2007 }}</ref>
+| {{dts|November 30, 1999}}
+| [[First-person shooter]]
+| [[Epic Games]]<br />[[Digital Extremes]]
+| [[GT Interactive]]
+|-
+| ''[[Commandos: Behind Enemy Lines]]''
+| {{sort|010|1 million}}<ref name="pressrelease1">{{cite press release | title=Eidos Interactive Announces E3 Product Line-Up | date=May 10, 2000 | publisher=[[Business Wire]] | location=Los Angeles, California }}</ref>
+| ''[[Commandos (series)|Commandos]]''
+| {{dts|June 24, 1998}}
+| [[Real-time tactics]]
+| [[Pyro Studios]]
+| [[Eidos Interactive]]
+|-
+|''[[InZOI]]''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Yin-Poole |first=Wesley |date=2025-04-04 |title=The Sims Competitor inZOI Sells 1 Million in a Week, Krafton Declares It a 'Long-Term Franchise IP' |url=https://www.ign.com/articles/the-sims-competitor-inzoi-sells-1-million-in-a-week-krafton-declares-it-a-long-term-franchise-ip |access-date=2025-11-14 |website=IGN |language=en}}</ref>
+| {{n/a}}
+|{{dts|March 28, 2025}}
+|[[Life simulation game|Life simulation]]
+|InZOI Studio
+|[[Krafton]]
+|-
+|''[[Dave the Diver]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2023-07-11 |title=Dave the Diver does swimmingly on Steam, selling over a million copies |url=https://www.pcgamesn.com/dave-the-diver/sales |access-date=2025-03-25 |website=PCGamesN |language=en-US}}</ref>
+| {{n/a}}
+|{{dts|August 28, 2023}}
+|[[Adventure game|Adventure]]
+|[[Nexon|Mintrocket]]
+|[[Nexon|Mintrocket]]<br />[[Arc System Works]] (Anniversary Edition)
+|-
+|''[[Move or Die]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2020-09-22 |title=We're celebrating 1 million copies sold with a FREE-TO-PLAY mid-week promotion |url=https://store.steampowered.com/news/app/323850/view/2879445232118437825 |access-date=2025-11-11 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|January 21, 2016}}
+|[[Multiplayer video game|Multiplayer]] [[Party video game|party]] [[platformer]]
+| colspan="2" |Those Awesome Guys
+|-
+|''[[Stellar Blade]]''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Tassi |first=Paul |title='Stellar Blade' Rockets To A Million PC Sales In Three Days |url=https://www.forbes.com/sites/paultassi/2025/06/16/stellar-blade-rockets-to-a-million-pc-sales-in-three-days/ |access-date=2025-07-16 |website=Forbes |language=en}}</ref>
+| {{n/a}}
+|{{dts|June 11, 2025}}
+|[[Action-adventure game|Action-adventure]]
+|[[Shift Up]]
+|[[Sony Interactive Entertainment]]
+|-
+| ''[[Hidden & Dangerous]]''
+| {{sort|010|1 million}}<ref name="gamecock">{{cite web |title=The Strange History Of Gamecock's Mike Wilson |url=http://www.gamasutra.com/view/feature/2131/the_strange_history_of_gamecocks_.php?page=6 |page=6 |website=[[Gamasutra]] |access-date=March 3, 2008 |date=November 14, 2007 |author=Tom Kim |archive-date=November 10, 2011 |archive-url=https://web.archive.org/web/20111110013049/http://www.gamasutra.com/view/feature/2131/the_strange_history_of_gamecocks_.php?page=6 |url-status=dead }}</ref>{{Better source needed|reason=Source doesn't clearly state only PC sales, differentiate between PlayStation and Dreamcast|date=May 2014}}
+| ''Hidden & Dangerous''
+| {{dts|July 29, 1999}}
+| [[Action game|Action]]
+| [[Illusion Softworks]]
+| [[Take-Two Interactive]]
+|-
+|[[RimWorld|''Rimworld'']]
+|{{sort|010|1 million}}<ref>{{Cite web |last=Sylvester |first=Tynan |date=January 31, 2018 |title=One million copies sold! |url=https://ludeon.com/blog/2018/01/one-million-copies-sold/ |access-date=June 27, 2023 |website=Ludeon}}</ref>{{Efn|Sales preceding official Steam release|name=rimworldfigures|group=}}
+| {{n/a}}
+| {{dts|October 17, 2018}}{{Efn|1=The game was first officially released on October 17, 2018, on steam (labelled as the "1.0 release"). However, between November 4, 2013, and October 17, 2018, it was publicly sold on Ludeon Studio's website as an open pre-alpha/alpha/beta.|name=|group=}}
+|[[Construction and management simulation]]
+| colspan="2" |Ludeon Studios
+|-
+|''[[The Planet Crafter]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2024-06-11 |title=The Planet Crafter - 1 MILLION THANKS ! |url=https://store.steampowered.com/news/app/1284190/view/4158591103921508999 |access-date=2025-05-20 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|10 April 2024}}{{Efn|Early access released in March 2022, but full release in April 2024}}
+|[[Survival game|Survival]]
+| colspan="2" |Miju Games
+|-
+|''[[Brotato]]''
+|{{sort|010|1 million}}<ref>{{cite web |last=Rosenberg |first=Yair |date=2023-03-16 |title=Why Are 1 Million People Playing ''Brotato''? |url=https://www.theatlantic.com/ideas/archive/2023/03/brotato-video-game-potato-vampire-survivors/673405/ |url-status=live |archive-url=https://web.archive.org/web/20231215201217/https://www.theatlantic.com/ideas/archive/2023/03/brotato-video-game-potato-vampire-survivors/673405/ |archive-date=2023-12-15 |accessdate=2023-12-15 |work=[[The Atlantic]]}}</ref>
+| {{n/a}}
+|{{dts|June 23, 2023}}
+|[[Shoot 'em up]], [[roguelike]]
+|Thomas Gervraud
+Evil Empire
+|Blobfish
+|-
+| ''[[Who Wants to Be a Millionaire?]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.allbusiness.com/consumer-products/computing-products-consumer-software/6776557-1.html |title=Millionaire Tops One Million! 1 Million Units of WhoWants to be a Millionaire CD-ROM Shipped in First Four Weeks |date=December 20, 1999 |access-date=January 18, 2009 |publisher=[[Business Wire]] |url-status=dead |archive-url=https://web.archive.org/web/20080318232430/http://www.allbusiness.com/consumer-products/computing-products-consumer-software/6776557-1.html |archive-date=March 18, 2008 }}</ref>
+| {{n/a}}
+| {{dts|November 28, 1999}}
+| [[Trivia game|Trivia]] 
+| [[Jellyvision]]
+| [[Disney Interactive Studios|Disney Interactive]]
+|-
+|[[Elite (video game)|''Elite'']]
+|{{sort|010|1 million}}<ref>{{Cite journal |date=September 1996 |title=Elite |url=https://archive.org/details/nextgen-issue-021 |journal=Next Generation |issue=21 |pages=66 |archive-url=https://web.archive.org/web/20231209144255/https://archive.org/details/nextgen-issue-021 |archive-date=9 December 2023 |via=Wayback Machine}}</ref>{{Better source needed|reason=Source doesn't clearly state only PC sales, differentiate between PlayStation and Dreamcast|date=May 2014}}
+| {{n/a}}
+|{{dts|September 20, 1984}}
+|[[Space trading]]
+|[[David Braben]]<br />[[Ian Bell (programmer)|Ian Bell]]
+|[[Acornsoft]] (Acorn/BBC)<br />[[Telecomsoft#Firebird|Firebird]] (ports)<br />[[Imagineer (Japanese company)|Imagineer]]
+|-
+|''[[Loop Hero]]''
+|{{sort|010|1 million}}<ref>{{Cite tweet |number=1468647408888434692 |user=_FQteam |title=The Four Quarters team is thrilled and thankful for the Loop Hero community as our game has pushed past 1 million copies sold on Steam! |date=8 December 2021 |access-date=2025-11-30}}</ref>
+| {{n/a}}
+|{{dts|March 4, 2021
+}}
+|[[Roguelike]]
+|Four Quarters
+|[[Devolver Digital]]
+|-
+| ''[[American McGee's Alice]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.vg247.com/2010/07/20/ea-showcase-kicks-off-with-the-sims/comment-page-1/ |title=EA announces Alice and more at CA Showcase – first Alice trailer included |website=VG247 |date=July 21, 2010 |access-date=February 19, 2013 |archive-date=August 9, 2017 |archive-url=https://web.archive.org/web/20170809221420/https://www.vg247.com/2010/07/20/ea-showcase-kicks-off-with-the-sims/comment-page-1/ |url-status=dead }}</ref>{{Better source needed|reason=need source that strictly states PC sales, source doesn't differentiate between Xbox and PS3|date=August 2014}}
+| ''Alice''
+| {{dts|October 6, 2000}}
+| [[Action-adventure game|Action-adventure]], [[Platform game|platformer]]
+| [[Rogue Entertainment]]
+| [[Electronic Arts]]
+|-
+| ''[[Command & Conquer: Red Alert 2]]''
+| {{sort|010|1 million}}<ref name="redalert" />
+| ''[[Command & Conquer]]''
+| {{dts|October 23, 2000}}
+| [[Real-time strategy]]
+| [[Westwood Pacific]]
+| [[Electronic Arts]]
+|-
+|''[[Depth (video game)|Depth]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2017-11-02 |title=Depth: Anniversary |url=https://store.steampowered.com/news/app/274940/view/2894081930486860680 |access-date=2025-11-11 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|November 3, 2014}}
+|[[First-person shooter]]
+| colspan="2" |Digital Confectioners
+|-
+| [[Tropico (video game)|''Tropico'']]
+| {{sort|010|1 million}}<ref name="gamecock" />
+| ''[[Tropico (video game)|Tropico]]''
+| {{dts|April 24, 2001}}
+| [[Construction and management simulation]]
+| [[PopTop Software]]
+| [[Gathering of Developers]]
+|-
+| ''[[Operation Flashpoint: Cold War Crisis]]''
+| {{sort|010|1 million}}<ref>{{cite press release|url=http://www.codemasters.com/press/?showarticle=2266 |date=August 29, 2002 |access-date=January 6, 2008 |publisher=[[Codemasters]] |title=Codemasters launches Operation Flashpoint: Game of the Year edition |url-status=dead |archive-url=https://web.archive.org/web/20060322142845/http://www.codemasters.com/press/?showarticle=2266 |archive-date=March 22, 2006 }}</ref>
+| {{n/a}}
+| {{dts|June 22, 2001}}
+| [[Tactical shooter]]
+| [[Bohemia Interactive Studio]]
+| [[Codemasters]]
+|-
+|''[[Rocket League]]''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Moser |first=Cassidee |date=2015-08-27 |title=Rocket League Sells Over 1 Million, Free Copies to be Given to Steam Hardware Pre-Orders |url=https://www.ign.com/articles/2015/08/27/rocket-league-sells-over-1-million-free-copies-to-be-given-to-steam-hardware-pre-orders |access-date=2025-07-16 |website=IGN |language=en}}</ref>
+| {{n/a}}
+|{{dts|July 7, 2015}}
+|[[Sports video game|Sports]]
+| colspan="2" |[[Psyonix]]
+|-
+|''[[Black Myth: Wukong]]''
+|{{sort|010|1 million}}<ref>{{Cite news |last=MacDonald |first=Keza |date=2024-09-04 |title=How Black Myth: Wukong put China's games industry under the microscope |url=https://www.theguardian.com/games/article/2024/sep/04/pushing-buttons-black-myth-wukong?utm_source=chatgpt.com |access-date=2025-03-25 |work=The Guardian |language=en-GB |issn=0261-3077}}</ref>{{Efn|Top concurrent player count on Steam. True figure likely higher.|name=concurrentplayerprecision|group=}}
+| {{n/a}}
+|{{dts|August 20, 2024}}
+|[[Action role-playing game|Action role-playing]]
+| colspan="2" |[[Game Science]]
+|-
+| ''[[Runaway: A Road Adventure]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.gametrailers.com/player/26249.html |publisher=[[GameTrailers]] |access-date=October 14, 2007 |title=Runaway (DS) - Exclusive Featurette |date=October 11, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20071013001305/http://www.gametrailers.com/player/26249.html |archive-date=October 13, 2007 }}</ref>
+| ''Runaway''
+| {{dts|July 6, 2001}}
+| [[Adventure game|Adventure]]
+| [[Péndulo Studios, S.L.]]
+| [[Dinamic Multimedia]]
+|-
+| ''[[Zoo Tycoon]]''
+| {{sort|010|1 million}}<ref name="nextgenpctop100" />
+| ''[[Zoo Tycoon (series)|Zoo Tycoon]]''
+| {{dts|October 17, 2001}}
+| [[Business simulation game|Business simulation]]
+| [[Microsoft]]
+| [[Blue Fang Games]]
+|-
+|''[[Aion (video game)|Aion]]''
+|{{sort|010|1 million}}<ref>{{cite web |last=Gibson |first=Ellie |date=2009-11-09 |title=Nearly 1 million copies of Aion shifted News • News • PC • |url=http://www.eurogamer.net/articles/nearly-1-million-copies-of-aion-shifted |url-status=live |archive-url=https://web.archive.org/web/20121005010042/http://www.eurogamer.net/articles/nearly-1-million-copies-of-aion-shifted |archive-date=2012-10-05 |access-date=2012-10-04 |publisher=Eurogamer.net}}</ref>
+| {{n/a}}
+|{{dts|October 17, 2001}}
+|[[MMORPG|Massively multiplayer online role-playing]]
+| colspan="2" |[[NCSoft]]
+|-
+| [[Stronghold (2001 video game)|''Stronghold'']]
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.ign.com/articles/2004/08/24/stronghold-2-announced |title=Stronghold 2 Announced |website=[[IGN]] |date=August 24, 2004 |access-date=October 3, 2013 |archive-date=May 20, 2019 |archive-url=https://web.archive.org/web/20190520034711/https://www.ign.com/articles/2004/08/24/stronghold-2-announced |url-status=live }}</ref>
+|''[[Stronghold (series)|Stronghold]]''
+| {{dts|October 19, 2001}}
+| [[Real-time strategy]]
+| [[Firefly Studios]]
+| [[Take-Two Interactive]] / [[Gathering of Developers]]
+|-
+| ''[[Empire Earth]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.sierra.com/pr/display_pr.php?prid=741 |title=Sierra Announces Development of Empire Earth: The Art of Conquest |publisher=[[Sierra Entertainment]] |date=May 16, 2002 |access-date=December 15, 2007 |archive-url=https://web.archive.org/web/20030212171606/http://www.sierra.com/pr/display_pr.php?prid=741 |archive-date=February 12, 2003}}</ref>
+| ''[[Empire Earth (series)|Empire Earth]]''
+| {{dts|November 12, 2001}}
+| [[Real-time strategy]]
+| [[Stainless Steel Studios]]
+| [[Sierra Entertainment]]
+|-
+|''[[Dome Keeper]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2024-09-27 |title=Dome Keeper - It's Dome Keeper's Second Birthday! |url=https://store.steampowered.com/news/app/1637320/view/4673137508062083950 |access-date=2025-05-20 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|September 27, 2022}}
+|[[Tower defense]]
+|Bippinbits
+|[[Raw Fury]]
+|-
+| [[Harry Potter and the Philosopher's Stone (PlayStation video game)|''Harry Potter and the Philosopher's Stone'']]
+| {{sort|010|1 million}}<ref name="nextgenpctop100">{{cite web |url=http://www.edge-online.com/features/top-100-pc-games-21st-century/10/ |title=The top 100 PC games of the 21st Century |publisher=[[Next Generation Magazine|Next-Gen.biz]] |author=Joe Keiser |access-date=January 21, 2007 |date=August 25, 2006 |archive-date=October 17, 2012 |archive-url=https://web.archive.org/web/20121017170032/http://www.edge-online.com/features/top-100-pc-games-21st-century/10/ |url-status=live }}</ref>
+| ''[[Harry potter video games|Harry Potter]]''
+| {{dts|November 15, 2001}}
+| [[Action-adventure game|Action-adventure]]
+| [[KnowWonder]]
+| [[Electronic Arts]]
+|-
+|''[[Slay the Spire]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2018-06-28 |title=Weekly Patch 31: Custom Mode |url=https://store.steampowered.com/news/app/646570/view/5279863989739081963 |access-date=2025-11-14 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|January 23, 2019}}{{Efn|Early access release in November 2017}}
+|[[Roguelike deck-building game|Roguelike deck-building]]
+| colspan="2" |Mega Crit
+|-
+|''[[Dune: Awakening]]''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Blake |first=Vikki |date=2025-06-23 |title=Dune: Awakening Sells 1 Million Copies, Making It Funcom's Fastest-Selling Game Ever |url=https://www.ign.com/articles/dune-awakening-sells-1-million-copies-making-it-funcoms-fastest-selling-game-ever |access-date=2025-11-14 |website=IGN |language=en}}</ref>
+| {{n/a}}
+|{{dts|June 10, 2025}}
+|[[Survival game|Survival]]
+| colspan="2" |[[Funcom]]
+|-
+| ''[[Return to Castle Wolfenstein]]''
+| {{sort|010|1 million}}<ref name="id">{{cite web|url=http://www.idsoftware.com/business/history/ |title=id history |publisher=[[id Software]] |access-date=February 14, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20070209110709/http://www.idsoftware.com/business/history/ |archive-date=February 9, 2007 }}</ref>
+| ''[[Wolfenstein (series)|Wolfenstein]]''
+| {{dts|November 19, 2001}}
+| [[First-person shooter]]
+| [[Gray Matter Studios]]<br />[[id Software]]
+| [[Activision]]
+|-
+|''[[Gunfire Reborn]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2020-12-15 |title=Gunfire Reborn - Gunfire Reborn has sold 1 million copies worldwide! Roadmap is available now! |url=https://store.steampowered.com/news/app/1217060/view/2918859890108273954 |access-date=2025-05-22 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|May 22, 2020}}
+|[[Roguelike|Roguelite]], [[first-person shooter]]
+| colspan="2" |[[Duoyi Network|Duoyi Games]]
+|-
+|[[Among Us 3D|''Among Us 3D: VR'']]
+|{{sort|010|1 million}}<ref>{{Cite web |date=2023-01-24 |title=Among Us 3D: VR - Among Us VR Sneaks Past 1 Million Units Sold Milestone |url=https://store.steampowered.com/news/app/1849900/view/3667653087635378509 |access-date=2025-05-20 |website=store.steampowered.com |language=en}}</ref>
+|''[[Among Us]]''
+|{{dts|November 10, 2022}}
+|[[Social deduction game|Social deduction]]
+|Schell Games, Innersloth, Robot Teddy
+|Innersloth
+|-
+|''[[Escape Simulator]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2022-05-02 |title=Escape Simulator - One million players reached! 🎉 |url=https://store.steampowered.com/news/app/1435790/view/3201506425221997643 |access-date=2025-05-20 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|October 19, 2021}}
+|[[Puzzle video game|Puzzle]]
+| colspan="2" |Pine studio
+|-
+|''[[Persona 4 Golden]]''
+|{{sort|010|1 million}}<ref>{{Cite web |title=Persona 4 Golden has sold 1 million copies on Steam |url=https://www.kitguru.net/desktop-pc/mustafa-mahmoud/persona-4-golden-has-sold-1-million-copies-on-steam/ |access-date=2025-03-25 |website=KitGuru |language=en-US}}</ref>
+|[[Persona (franchise)|''Persona'']]
+|{{dts|August 13, 2020}}
+|[[Role-playing video game|Role-playing]]
+|[[Atlus]]
+|[[Sega]]
+|-
+|''[[Contraband Police]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2024-11-25 |title=Contraband Police : 1 Million Copies Sold! |url=https://steamcommunity.com/games/756800/announcements/detail/4491872700901359937 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+|{{n/a}}
+|{{dts|March 8, 2023}}
+|[[Simulation]]
+|Crazy Rocks Studios
+|PlayWay
+|-
+| ''[[Hotel Giant]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.businesswire.com/news/home/20100128005345/en/SouthPeak-Interactive-Corporation%E2%80%99s-Hotel-Giant-2-PC|title=SouthPeak Interactive Corporation's Hotel Giant 2 for PC Now Open for Business|website=[[Business Wire]]|publisher=[[Berkshire Hathaway]]|date=January 28, 2010|access-date=February 20, 2017|archive-date=October 2, 2017|archive-url=https://web.archive.org/web/20171002070534/http://www.businesswire.com/news/home/20100128005345/en/SouthPeak-Interactive-Corporation%E2%80%99s-Hotel-Giant-2-PC|url-status=live}}</ref>
+| {{n/a}}
+| {{dts|May 17, 2002}}
+| [[Business simulation game|Business simulation]]
+| [[Enlight Software]]
+| [[JoWooD Productions]]
+|-
+| ''[[Age of Mythology]]''
+| {{sort|010|1 million}}<ref>{{cite web |url= http://www.microsoft.com/presspass/press/2003/mar03/03-11platinummythologypr.mspx |title="Age of Mythology" Goes Platinum With More Than 1 Million Units Sold |publisher=[[Microsoft]] |date=November 10, 2007 |access-date=December 16, 2007 |url-status=dead |archive-url= https://web.archive.org/web/20071222162301/http://www.microsoft.com/presspass/press/2003/mar03/03-11platinummythologypr.mspx |archive-date= December 22, 2007 }}</ref>
+| ''[[Age of Empires]]''
+| {{dts|October 30, 2002}}
+| [[Real-time strategy]]
+| [[Ensemble Studios]]
+| [[Microsoft]]
+|-
+| [[Vietcong (video game)|''Vietcong'']]
+| {{sort|010|1 million}}<ref name="gamecock" />
+| ''Vietcong''
+| {{dts|March 26, 2003}}
+| [[Tactical shooter]]
+| Pterodon<br />[[Illusion Softworks]]
+| [[Gathering of Developers]]
+|-
+| ''[[The Legend of Sword and Fairy 3]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://game.zol.com.cn/25/252191.html |title=Softstar Entertainment |date=February 9, 2006 |access-date=April 27, 2007 |language=zh |archive-date=April 17, 2007 |archive-url=https://web.archive.org/web/20070417095635/http://game.zol.com.cn/25/252191.html |url-status=live }}</ref>{{Better source needed|reason=source is in Chinese|date=May 2014}}
+| ''[[The Legend of Sword and Fairy]]''
+| {{dts|July 31, 2003}}
+| [[Role-playing video game|Role-playing]]
+| [[Softstar Entertainment]]
+| [[Softstar Entertainment]]<br />Unistar
+|-
+|''[[Anno 2070]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2013-08-14 |title=Celebrate the 15th Anniversary of Anno Online |url=https://moviesgamesandtech.com/2013/08/14/celebrate-the-15th-anniversary-of-anno-online/ |access-date=2025-05-06 |website=Movies Games and Tech |language=en-GB}}</ref>
+|''[[Anno (video game series)|Anno]]''
+|{{dts|November 17, 2011}}
+|[[City-building game|City-builder]],[[economic simulation]]
+|[[Related Designs]]
+[[Blue Byte]]
+|[[Ubisoft]]
+|-
+| ''[[Hidden & Dangerous 2]]''
+| {{sort|010|1 million}}<ref name="had2">{{cite web|title=Hidden & Dangerous 2: Sabre Squadron Screens|url=http://www.gamershell.com/news_16912.html|website=GamersHell|access-date=February 8, 2015|archive-url=https://web.archive.org/web/20150208151500/http://www.gamershell.com/news_16912.html|archive-date=February 8, 2015|url-status=dead}}</ref>
+| ''Hidden & Dangerous''
+| {{dts|October 21, 2003}}
+| [[Action game|Action]]
+| [[Illusion Softworks]]
+| [[Take-Two Interactive]]
+|-
+| ''[[Patrician III: Rise of the Hanse]]''
+| {{sort|010|1 million}}<ref>{{cite web |title=1.000.000 de aficionados a la estrategia ya disfrutan de la saga Patrician en todo el mundo. Únete a ellos. |url=http://www.fxinteractive.com/noticias.htm |language=es |access-date=November 26, 2006 |date=March 23, 2006 |publisher=[[FX Interactive]] |archive-url = https://web.archive.org/web/20061110183117/http://www.fxinteractive.com/noticias.htm <!-- Bot retrieved archive --> |archive-date = November 10, 2006}}</ref>
+| ''[[The Patrician (video game)|The Patrician]]''
+| {{dts|October 24, 2003}}
+| [[Business simulation game|Business simulation]]
+| [[Ascaron]]
+| [[Encore, Inc.|Encore]]
+|-
+| [[Sacred (video game)|''Sacred'']]
+| {{sort|010|1 million}}<ref>{{cite press release |url=http://www.gamershell.com/companies/ascaron/365247.html |title=Sacred 2 - Fallen Angel to Have Multiplayer Arena at Games Convention |date=August 2, 2007 |access-date=January 29, 2008 |publisher=[[Ascaron]] |archive-url=https://web.archive.org/web/20150906033357/http://www.gamershell.com/companies/ascaron/365247.html |archive-date=September 6, 2015 |url-status=dead }}</ref>
+| ''Sacred''
+| {{dts|March 23, 2004}}
+| [[Action role-playing]]
+| [[Ascaron]]
+| [[Encore, Inc.|Encore]]<br />[[Koch Media]]<br />[[Red Ant Enterprises]]
+|-
+|''[[CloverPit]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-11-12 |title=Hard Mode Update Out Now – celebrating 1 million copies sold! |url=https://store.steampowered.com/news/app/3314790/view/614305130088497286 |access-date=2025-11-14 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|September 25, 2025}}
+|[[Horror game|Horror]], [[Roguelike#Rogue-lites and procedural death labyrinths|rogue-lite]]
+|Panik Arcade
+|Future Friends Game
+|-
+|''[[Inscryption]]''
+|{{sort|010|1 million}}<ref>{{Cite web|last=Kerr|first=Chris|date=January 6, 2022|title=Demonic deck-builder Inscryption passes 1 million sales|url=https://www.gamedeveloper.com/business/demonic-deck-builder-inscryption-passes-1-million-sales|url-status=live|archive-url=https://web.archive.org/web/20220331202829/https://www.gamedeveloper.com/business/demonic-deck-builder-inscryption-passes-1-million-sales|archive-date=March 31, 2022|access-date=January 10, 2022|website=[[Game Developer (website)|Game Developer]]}}</ref>
+| {{n/a}}
+|{{dts|October 19, 2021}}
+|[[Roguelike]], [[Deck-building game|deck-building]]
+|Daniel Mullins Games
+|[[Devolver Digital]]
+|-
+| ''[[Rome: Total War]]''
+| {{Sort|010|1 million}}<ref name="totalwarsales">{{cite web|archive-url=https://web.archive.org/web/20140126005929/http://tech.fortune.cnn.com/2013/08/08/sega-is-refashioning-itself-as-a-pc-game-maker/ |url=http://tech.fortune.cnn.com/2013/08/08/sega-is-refashioning-itself-as-a-pc-game-maker/ |title=Sega is refashioning itself as a PC game maker | author=Gaudiosi, John | date=August 8, 2013 |work=[[CNNMoney]] |archive-date=January 26, 2014 |url-status=dead }}</ref><ref name="platinumelspa">{{cite web |archive-url=https://web.archive.org/web/20090515224703/http://www.elspa.com/?i=3944 |url=http://www.elspa.com:80/?i=3944 |title=ELSPA Sales Awards: Platinum |work=[[Entertainment and Leisure Software Publishers Association]] |archive-date=May 15, 2009 |url-status=dead }}</ref><ref name="gamasutrasales">{{cite web|archive-url=https://web.archive.org/web/20170918063107/https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php |url=https://www.gamasutra.com/view/news/112220/ELSPA_Wii_Fit_Mario_Kart_Reach_Diamond_Status_In_UK.php |title=ELSPA: ''Wii Fit'', ''Mario Kart'' Reach Diamond Status In UK | author=Caoili, Eric | date=November 26, 2008 |work=[[Gamasutra]] |archive-date=September 18, 2017 |url-status=dead }}</ref>
+| [[Total War (video game series)|Total War]]
+| {{dts|September 22, 2004}}
+| [[Real-time strategy]]
+|[[The Creative Assembly]]
+|[[Activision]]
+|-
+| ''[[Psychonauts]]''
+| {{sort|010|1 million}}<ref name="Psychonauts2">{{cite web |url=https://www.fig.co/campaigns/psychonauts-2#about |title=Psychonauts 2 Update #1 |publisher=[[Double Fine Productions]] |author=Tim Schafer |access-date=August 12, 2015 |date=August 12, 2015 |archive-date=May 23, 2019 |archive-url=https://web.archive.org/web/20190523111051/https://www.fig.co/campaigns/psychonauts-2#about |url-status=live }}</ref>
+| ''Psychonauts''
+| {{dts|April 19, 2005}}
+| [[Platform game|Platform]]
+| [[Double Fine Productions]]
+| [[THQ]]
+|-
+| [[Dungeon Lords (video game)|''Dungeon Lords'']]
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.rpgamer.com/news/Q4-2007/112407b.html |title=Dungeon Lords 2 and Dungeon Lords Expansion Announced |author=Lauren Loveday |publisher=RPGamer |date=November 24, 2007 |access-date=December 4, 2007 |archive-url=https://web.archive.org/web/20080411113430/http://www.rpgamer.com/news/Q4-2007/112407b.html |archive-date=April 11, 2008 |url-status=dead  }}</ref>
+| {{n/a}}
+| {{dts|May 5, 2005}}
+| [[Role-playing video game|Role-playing]]
+| [[Heuristic Park]]
+| [[DreamCatcher Interactive]]
+|-
+| ''[[Imperivm: Great Battles of Rome]]''
+| {{sort|010|1 million}}<ref>{{cite web |title=Imperivm hits 1,000,000 and becomes Platinum. |url=http://www.fxinteractive.com/int/us/home.htm |access-date=November 26, 2006 |date=May 11, 2006 |publisher=[[FX Interactive]] |url-status=dead |archive-url=https://web.archive.org/web/20061117091438/http://www.fxinteractive.com/int/us/home.htm |archive-date=November 17, 2006 }}</ref>
+| {{n/a}}
+| {{dts|May 10, 2005}}
+| [[Real-time strategy]]
+| [[Haemimont Games]]
+| [[FX Interactive]]
+|-
+| ''[[Glory of the Roman Empire]]''
+| {{sort|010|1 million}}<ref>{{cite magazine |url=http://www.computerandvideogames.com/article.php?id=183248 |magazine=[[Computer and Video Games]] |date=February 25, 2008 |access-date=February 27, 2008 |title=Imperium Romanum Review |author=Martin Korda |archive-date=May 30, 2008 |archive-url=https://web.archive.org/web/20080530221652/http://www.computerandvideogames.com/article.php?id=183248 |url-status=live }}</ref>
+| {{n/a}}
+| {{dts|June 26, 2006}}
+| [[City-building game|City-building]]
+| [[Haemimont Games]]
+| [[CDV Software]]
+|-
+| ''[[Microsoft Flight Simulator X]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.gamespot.com/news/blogs/rumor-control/909119209/26756726/microsoft-cuts-slice-xbox-division-fatally-stab-flight-sim.html?tag=rumor-control;title;1&part=rss&tag=gs_news&subj=6203585 |title=Confirmed: Microsoft Flight Sim studio closing |date=January 23, 2009 |access-date=January 23, 2009 |website=[[GameSpot]] |author=TomM_GScom |url-status=dead |archive-url=https://web.archive.org/web/20090126213355/http://www.gamespot.com/news/blogs/rumor-control/909119209/26756726/microsoft-cuts-slice-xbox-division-fatally-stab-flight-sim.html?tag=rumor-control%3Btitle%3B1 |archive-date=January 26, 2009 }}</ref>
+| ''[[Microsoft Flight Simulator]]''
+| {{dts|October 17, 2006}}
+| [[Amateur flight simulation]]
+| colspan="2" | [[Microsoft Game Studios]]
+|-
+|''[[Thexder]]''
+|{{sort|010|1 million}}<ref>{{Cite web |title=The Sierra Chest - Firehawk: Thexder the Second Contact: Packaging & content |url=https://sierrachest.com/index.php?a=games&id=43&title=thexder-2&fld=box |access-date=2025-05-01 |website=sierrachest.com}}</ref>
+|''Thexder''
+|{{dts|April 1985}}
+|[[Run and gun game|Run and gun]] 
+| colspan="2" |[[Game Arts]]
+|-
+|[[F-15 Strike Eagle (video game)|''F-15 Strike Eagle'']]
+|{{sort|010|1 million}}<ref>{{Cite journal |last=Worley |first=Joyce |date=December 1989 |title=MEGA HITS : THE BEST OF THE BEST |url=https://archive.org/details/video-games-computer-entertainment-issue-11-december-1989 |journal=[[Video Games & Computer Entertainment]] |issue=11 |pages=131 |via=Internet Archive}}</ref>
+|''[[F-15 Strike Eagle (video game)|F-15 Strike Eagle]]''
+|1984
+|[[Combat flight simulation game]]
+|MicroProse<br />NMS Software ([[Thomson computers|Thomson]])
+|Microprose<br />FIL ([[Thomson computers|Thomson]])
+|-
+|''[[The Scroll of Taiwu]]''
+|{{sort|010|1 million}}<ref>{{Cite news |last=Horti |first=Samuel |date=2018-12-30 |title=Chinese-only RPG The Scroll Of Taiwu has sold 1 million copies on Steam |url=https://www.pcgamer.com/chinese-only-rpg-the-scroll-of-taiwu-has-sold-1-million-copies-on-steam/ |access-date=2025-05-14 |work=PC Gamer |language=en}}</ref>
+| {{n/a}}
+|{{dts|September 20, 2018}}
+|[[Role-playing game|Role-playing]]
+| colspan="2" |ConchShip Games
+|-
+|[[Metro 2033 (video game)|''Metro 2033'']]
+|{{sort|010|1 million}}<ref>{{Cite web |last=Farrelly |first=Steve |date=2012-06-08 |title=AusGamers Metro: Last Light Developer Interview |url=https://www.ausgamers.com/features/read/3232525 |access-date=2025-05-06 |website=AusGamers.com |language=en}}</ref>
+|[[Metro (franchise)|''Metro'']]
+|{{dts|March 16, 2010}}
+|[[First-person shooter]], [[survival horror]]
+|[[4A Games]]
+|[[THQ]]<br />[[Deep Silver]] (Redux)
+|-
+| [[Supreme Commander (game)|''Supreme Commander'']]
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.eurogamer.de/article.php?article_id=147241&page=2 |title=Space Siege Interview |last=Menne |first=Tanja |date=June 6, 2008 |website=Eurogamer |language=de |access-date=August 20, 2008 |page=2 |archive-date=August 2, 2008 |archive-url=https://web.archive.org/web/20080802044744/http://www.eurogamer.de/article.php?article_id=147241&page=2 |url-status=dead }}</ref>{{Better source needed|reason=source is in German|date=May 2014}}
+| ''[[Total Annihilation]]''
+| {{dts|February 16, 2007}}
+| [[Real-time strategy]]
+| [[Gas Powered Games]]
+| [[THQ]]
+|-
+|''[[Scum (video game)|Scum]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=September 18, 2018 |title=Scum sells 1 million units in three weeks of early access |url=https://www.gamesindustry.biz/articles/2018-09-18-scum-sells-1-million-units-in-three-weeks-of-early-access |url-status=dead |archive-url=https://web.archive.org/web/20180918235112/https://www.gamesindustry.biz/articles/2018-09-18-scum-sells-1-million-units-in-three-weeks-of-early-access |archive-date=September 18, 2018 |access-date=September 18, 2018 |website=[[GamesIndustry.biz]]}}</ref><ref>{{Cite news |last=James |first=Sarah |date=18 September 2018 |title=Scum sells over 1 million units in less than a month, celebrates with golden handgun |url=https://www.pcgamer.com/scum-sells-over-1-million-units-in-less-than-a-month-celebrates-with-golden-handgun/ |access-date=2018-09-19 |work=[[PC Gamer]] |language=en}}</ref>
+| {{n/a}}
+|{{dts|June 17, 2025}}
+|[[survival game|Survival]]
+| colspan="2" |Gamepires
+|-
+| ''[[Command & Conquer 3: Tiberium Wars]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://planetcnc.gamespy.com/fullstory.php?id=119665 |title=C&C3 PC Sold 128,000 in U.S.A. In First Week (1M Worldwide So Far) |publisher=[[IGN Entertainment]] |date=May 11, 2007 |access-date=May 11, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20071102123249/http://planetcnc.gamespy.com/fullstory.php?id=119665 |archive-date=November 2, 2007 }}</ref>
+| ''[[Command & Conquer]]''
+| {{dts|March 28, 2007}}
+| [[Real-time strategy]]
+| [[EA Los Angeles]]
+| [[Electronic Arts]]
+|-
+| ''[[BioShock]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.eurogamer.net/articles/nvidias-roy-taylor-interview?page=2 |title=NVIDIA's Roy Taylor PC Interview |website=Eurogamer |date=June 10, 2008 |access-date=March 22, 2011 |archive-date=May 23, 2019 |archive-url=https://web.archive.org/web/20190523024425/https://www.eurogamer.net/articles/nvidias-roy-taylor-interview?page=2 |url-status=live }}</ref>
+| ''[[BioShock (series)|BioShock]]''
+| {{dts|August 21, 2007}}
+| [[First-person shooter]]
+| [[Irrational Games]]
+| [[2K Games]]
+|-
+|''[[The Murder of Sonic the Hedgehog]]''
+|{{sort|010|1 million}}<ref>{{Cite web |last=Bankhurst |first=Adam |date=2023-04-06 |title=The Murder of Sonic the Hedgehog Hits 1 Million Downloads as One of Steam's Highest Rated Games Ever |url=https://www.ign.com/articles/murder-sonic-hedgehog-sales-steam |access-date=2025-11-14 |website=IGN |language=en}}</ref>
+|''[[Sonic the Hedgehog]]''
+|{{dts|March 31, 2023}}
+|[[Point and click|Point-and-click]], [[visual novel]]
+|Sega Social Team
+|[[Sega]]
+|-
+| ''[[Crysis Warhead]]''
+| {{sort|010|1 million}}<ref name="Crysis"/>
+| ''[[Crysis (series)|Crysis]]''
+| {{dts|September 16, 2008}}
+| [[First-person shooter]]
+| [[Crytek Budapest]]
+| [[Electronic Arts]]
+|-
+|''[[Sultan's Game]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2025-07-09 |title=Thank You for 1 Million Sales & Future Update Plans |url=https://store.steampowered.com/news/app/3117820/view/543361383085903733 |access-date=2025-07-28 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|March 30, 2025}}
+|[[Role-playing game|Role-playing]]
+|Double Cross
+|2P Games
+|-
+|''[[Grim Dawn]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2017-05-25 |title=Grim Dawn - Grim Dawn Passes 1 Million Copies Sold! |url=https://store.steampowered.com/news/app/219990/view/2909844527766145405 |access-date=2025-03-25 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|February 25, 2016}} 
+|[[Action role-playing game|Action role-playing]]
+| colspan="2" |[[Crate Entertainment]]
+|-
+|''[[Green Hell (video game)|Green Hell]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2020-07-14 |title=Dev Notes |url=https://store.steampowered.com/news/app/815370/view/2579950247639923463 |access-date=2025-11-11 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|September 5, 2019}}
+|[[Survival game|Survival]]
+| colspan="2" |Creepy Jar
+|-
+| ''[[Warhammer Online: Age of Reckoning]]''
+| {{sort|010|1 million}}<ref>{{cite press release|url=http://news.ea.com/portal/site/ea/index.jsp?ndmViewId=news_view&ndmConfigId=1012492&newsId=20081030006325&newsLang=en |archive-url=https://web.archive.org/web/20081106094453/http://news.ea.com/portal/site/ea/index.jsp?ndmViewId=news_view&ndmConfigId=1012492&newsId=20081030006325&newsLang=en |url-status=dead |archive-date=November 6, 2008 |title=EA Reports Second Quarter Fiscal Year 2009 Results |publisher=[[Electronic Arts]] |date=October 30, 2008 |access-date=October 31, 2008 }}</ref>
+| ''[[List of Games Workshop video games|Warhammer]]''
+| {{dts|September 18, 2008}}
+| [[Massively multiplayer online game|Massively multiplayer]] [[action role-playing game|action role-playing]]
+| [[Mythic Entertainment]]
+| [[Electronic Arts]]
+|-
+|''[[Torchlight II]]''
+|{{sort|020|2 million}}<ref>{{Cite web |last=Karmali |first=Luke |date=2013-07-26 |title=Torchlight 2 Sells Over 2 Million Copies |url=https://www.ign.com/articles/2013/07/26/torchlight-2-sells-over-2-million-copies |access-date=2025-11-14 |website=IGN |language=en}}</ref>
+|''Torchlight''
+|{{dts|September 20, 2012}}
+|[[Action role-playing game|Action role-playing]], [[dungeon crawl]]er
+| colspan="2" |[[Runic Games]]
+|-
+| [[Killing Floor (video game)|''Killing Floor'']]
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.killingfloorthegame.com/2012/02/14/killing-floor-has-sold-a-million/ |title=Killing Floor has sold a million! - Killing Floor Co-Op Survival Horror |publisher=Killingfloorthegame.com |date=February 14, 2012 |access-date=February 19, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20131103023158/http://www.killingfloorthegame.com/2012/02/14/killing-floor-has-sold-a-million/ |archive-date=November 3, 2013 }}</ref>
+| {{n/a}}
+| {{dts|May 14, 2009}}
+| [[First-person shooter]]
+| colspan="2" | [[Tripwire Interactive]]
+|-
+| ''[[Resident Evil 5]]''
+| {{sort|010|1 million}}<ref name="Rice"/>{{Efn|name=steamexploit}}
+| ''[[Resident Evil]]''
+| {{dts|September 17, 2009}}
+| [[Third-person shooter]], [[survival horror]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Machinarium]]''
+| {{sort|010|1 million<ref>{{cite web|title=Amanita Design on Twitter|url=https://twitter.com/Amanita_Design/status/753297141083373568|access-date=July 15, 2016|archive-date=December 17, 2019|archive-url=https://web.archive.org/web/20191217015537/https://mobile.twitter.com/Amanita_Design/status/753297141083373568|url-status=live}}</ref>}}
+| {{n/a}}
+| {{dts|October 16, 2009}}
+| [[Graphic adventure]], [[Puzzle video game|puzzle]]
+| colspan="2" | [[Amanita Design]]
+|-
+|''[[Megabonk]]''
+|{{sort|010|1 million}}<ref>{{Cite web |author1=Scott McCrae |date=2025-10-03 |title=Out-of-nowhere roguelike hit Megabonk has sold 1 million copies in 2 weeks, solo creator says "I'll be eating spaghetti with EXTRA sauce tonight" |url=https://www.gamesradar.com/games/roguelike/out-of-nowhere-roguelike-hit-megabonk-has-sold-1-million-copies-in-2-weeks-solo-creator-says-ill-be-eating-spaghetti-with-extra-sauce-tonight/ |access-date=2025-11-14 |website=GamesRadar+ |language=en}}</ref>
+| {{n/a}}
+|{{dts|September 18, 2025}}
+|[[Roguelike]]
+| colspan="2" |vedinad
+|-
+| ''[[The Legend of Sword and Fairy 5]]''
+| {{sort|010|1 million}}<ref>{{Cite web|url = http://games.sina.com.cn/j/n/2014-06-27/1459794880.shtml|title = Chinese Paladin5|date = June 27, 2014|publisher = SinaGame|language = zh|access-date = August 15, 2015|archive-date = May 20, 2019|archive-url = https://web.archive.org/web/20190520142413/http://games.sina.com.cn/j/n/2014-06-27/1459794880.shtml|url-status = live}}</ref>
+| ''[[The Legend of Sword and Fairy]]''
+| {{dts|July 7, 2011}}
+| [[Role-playing game|Role-playing]]
+| colspan="2" | [[Softstar]]
+|-
+| ''[[Crusader Kings II]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://thegamersparadise.com/18-news/pc/803-crusader-kings-ii-has-sold-1-1-million-copies-and-over-2-5-million-expansion-copies |title=Crusader Kings 2 has sold 1.1 million copies and over 2.5 million expansion copies |publisher=GamersParadise |date=February 13, 2015 |access-date=February 13, 2015 |archive-url=https://web.archive.org/web/20150222130857/http://thegamersparadise.com/18-news/pc/803-crusader-kings-ii-has-sold-1-1-million-copies-and-over-2-5-million-expansion-copies |archive-date=February 22, 2015 |url-status=dead  }}</ref>
+| ''[[Crusader Kings (video game)|Crusader Kings]]''
+| {{dts|February 14, 2012}}
+| [[Grand strategy]]
+| [[Paradox Development Studio]]
+| [[Paradox Interactive]]
+|-
+| ''[[StarCraft II: Heart of the Swarm]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.polygon.com/2013/3/21/4133306/starcraft-2-heart-of-the-swarm-sells-1-1-million-copies-in-two-days |title=StarCraft 2: Heart of the Swarm sells 1.1 million copies in two days |last=McWhertor |first=Michael |date=March 21, 2013 |work=[[Polygon (website)|Polygon]] |publisher=[[Vox Media]] |access-date=March 21, 2013 |url-status=dead |archive-url=https://web.archive.org/web/20130807025651/http://www.polygon.com/2013/3/21/4133306/starcraft-2-heart-of-the-swarm-sells-1-1-million-copies-in-two-days |archive-date=August 7, 2013 }}</ref>
+| ''[[StarCraft (series)|StarCraft]]''
+| {{dts|March 12, 2013}}
+| [[Real-time strategy]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+|''[[Europa Universalis IV]]''
+|{{sort|010|1 million}}<ref>{{Cite web|url=https://www.paradoxplaza.com/news/Grand-success/|title=Latest News - Paradox Interactive Announces Grand Successes for Grand Strategy Titles - Paradox Interactive|website=www.paradoxplaza.com|access-date=July 5, 2016|archive-date=May 26, 2017|archive-url=https://web.archive.org/web/20170526214516/https://www.paradoxplaza.com/news/Grand-success/|url-status=live}}</ref>
+|''[[Europa Universalis]]''
+|{{dts|August 13, 2013}}
+|[[Grand strategy]]
+|[[Paradox Development Studio]]
+|[[Paradox Interactive]]
+|-
+|''[[The Stanley Parable]]''
+|{{Sort|010|1 million}}<ref>{{Cite news|url=http://www.pcgamer.com/the-stanley-parable-has-sold-over-1-million-units/|title=The Stanley Parable has sold over 1 million units|work=PCGamer|access-date=April 30, 2017|language=en|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924214427/https://www.pcgamer.com/the-stanley-parable-has-sold-over-1-million-units/|url-status=live}}</ref>
+| {{n/a}}
+|{{dts|October 17, 2013}}
+|[[Interactive fiction]]
+| colspan="2" |[[Galactic Cafe]]
+|-
+| ''[[Just Survive]]{{efn|Sold a million copies under the name of ''H1Z1'' while in early access. Not to be confused with the ''[[H1Z1]]'' battle royale game by the same company.}}''
+| {{sort|010|1 million}}<ref>{{cite web|last1=Livingston|first1=Christopher|title=H1Z1 sells over a million copies|url=https://www.pcgamer.com/h1z1-sells-over-a-million-copies/|website=PC Gamer|date=March 24, 2015|access-date=March 15, 2018|archive-date=September 23, 2020|archive-url=https://web.archive.org/web/20200923092707/https://www.pcgamer.com/h1z1-sells-over-a-million-copies/|url-status=live}}</ref>
+| {{n/a}}
+| {{dts|January 15, 2015}}
+| [[Survival game|Survival]]
+| colspan="2" | [[Daybreak Game Company]]
+|-
+| ''[[Ark: Survival Evolved]]''
+| {{sort|010|1 million}}<ref>{{cite web |url=http://www.ign.com/articles/2015/07/08/ark-survival-evolved-hits-1-million-early-access-sales |title=Ark: Survival Evolved Hits 1 Million Early Access Sales |website=IGN |date=July 8, 2015 |access-date=July 21, 2015 |archive-date=May 22, 2019 |archive-url=https://web.archive.org/web/20190522121343/https://www.ign.com/articles/2015/07/08/ark-survival-evolved-hits-1-million-early-access-sales |url-status=live }}</ref>
+| ''[[Ark: Survival Evolved]]''
+| {{dts|June 2, 2015}}
+| [[Action-adventure game|Action-adventure]], [[Survival mode|survival]]
+| [[Studio Wildcard]]<br />[[Instinct Games]]
+| [[Studio Wildcard]]
+|-
+|''[[Lego Island]]''
+|{{sort|010|1 million}}<ref>{{Cite web |title=Cover art or packaging material from LEGO Island (1997) |url=https://www.mobygames.com/game/5188/lego-island/cover/group-265995/cover-674682/ |access-date=2026-05-14 |website=MobyGames |language=en}}</ref>
+|''Lego Island''
+|{{dts|September 26, 1997}}
+|[[Action-adventure game|Action-adventure]]
+| colspan="2" |[[Mindscape (company)|Mindscape]]
+|-
+| ''[[StarCraft II: Legacy of the Void]]''
+| {{sort|010|1 million}}<ref>{{cite web|url=http://www.ign.com/articles/2015/11/13/starcraft-2-legacy-of-the-void-sells-1-million-copies-in-24-hours|title=StarCraft 2: Legacy of the Void Sells 1 Million Copies In 24 Hours|first=Cassidee|last=Moser|website=[[IGN]]|date=November 13, 2015 |access-date=November 14, 2015|archive-date=November 14, 2015|archive-url=https://web.archive.org/web/20151114122814/http://www.ign.com/articles/2015/11/13/starcraft-2-legacy-of-the-void-sells-1-million-copies-in-24-hours|url-status=live}}</ref>
+| ''[[StarCraft (series)|StarCraft]]''
+| {{dts|November 10, 2015}}
+| [[Real-time strategy]]
+| colspan="2" | [[Blizzard Entertainment]]
+|-
+| ''[[Danganronpa: Trigger Happy Havoc]]''
+| {{sort|010|1 million}}<ref name="DR1+2">{{cite web |title=Spike Chunsoft, Inc. Invites You to Camp and the Ultimate Class Reunion, Announces a Global Sales Milestone |url=https://www.spike-chunsoft.com/news/spike-chunsoft-inc-invites-you-to-camp-and-to-the-ultimate-class-reunion/ |website=Spike Chunsoft |access-date=October 20, 2021 |language=en |date=October 19, 2021 |archive-date=October 20, 2021 |archive-url=https://web.archive.org/web/20211020015056/https://www.spike-chunsoft.com/news/spike-chunsoft-inc-invites-you-to-camp-and-to-the-ultimate-class-reunion/ |url-status=live }}</ref>
+| rowspan="2" | ''[[Danganronpa]]''
+| {{dts|February 18, 2016}}
+| [[Visual novel]], [[Adventure game|adventure]]
+| colspan="2" | [[Spike Chunsoft]]
+|-
+| ''[[Danganronpa 2: Goodbye Despair]]''
+| {{sort|010|1 million}}<ref name="DR1+2" />
+| {{dts|April 18, 2016}}
+| [[Visual novel]], [[Adventure game|adventure]]
+| colspan="2" | [[Spike Chunsoft]]
+|-
+| ''[[Hearts of Iron IV]]''
+| {{sort|010|1 million}}<ref>{{cite web|last1=Marzano|first1=Anthony|title=Hearts of Iron IV celebrates one million sales with Anniversary Edition and new expansion|url=https://www.destructoid.com/hearts-of-iron-iv-celebrates-one-million-sales-with-anniversary-edition-and-new-expansion-503753.phtml|website=[[Destructoid]]|access-date=May 20, 2018|archive-url=https://web.archive.org/web/20180520111720/https://www.destructoid.com/hearts-of-iron-iv-celebrates-one-million-sales-with-anniversary-edition-and-new-expansion-503753.phtml|archive-date=May 20, 2018|date=May 19, 2018|quote=[...] a new physical collector's edition was also announced in part for the anniversary of its release on June 6, 2017 and also for celebrating the one million sales mark.}}</ref>
+| ''Hearts of Iron''
+| {{dts|June 6, 2016}}
+| [[Real-time strategy]], [[grand strategy wargame]]
+| [[Paradox Development Studio]]
+| [[Paradox Interactive]]
+|-
+|''[[No Rest for the Wicked (video game)|No Rest for the Wicked]]''
+|{{sort|010|1 million}}<ref>{{Cite web |date=2026-01-15 |title=No Rest for the Wicked - 1 Million Copies Sold! |url=https://store.steampowered.com/news/app/1371980/view/505099282921030704 |access-date=2026-01-21 |website=store.steampowered.com |language=en}}</ref>
+| {{n/a}}
+|{{dts|April 18, 2024}}
+|[[Action role-playing game|Action role-playing]]
+| colspan="2" |[[Moon Studios]]
+|-
+| ''[[Divinity: Original Sin II]]''
+| {{sort|010|1 million}}<ref>{{cite web|last1=Chalk|first1=Andy|title=Divinity: Original Sin 2 has sold one million copies|url=http://www.pcgamer.com/divinity-original-sin-2-has-sold-one-million-copies/|website=PC Gamer|date=November 28, 2017|access-date=November 28, 2017|archive-date=September 24, 2020|archive-url=https://web.archive.org/web/20200924190443/https://www.pcgamer.com/divinity-original-sin-2-has-sold-one-million-copies/|url-status=live}}</ref>
+| ''[[Divinity (series)|Divinity]]''
+| {{dts|September 14, 2017}}
+| [[Role-playing video game|Role-playing]]
+| colspan="2" | [[Larian Studios]]
+|-
+|''[[Cuphead]]''
+| {{sort|010|1 million}}<ref>{{Cite news |url= http://studiomdhr.com/cuphead-goes-platinum/ |title= Cuphead goes platinum |date= October 13, 2017 |work= StudioMDHR.com |access-date= October 17, 2017 |language= en-US |archive-date= September 6, 2020 |archive-url= https://web.archive.org/web/20200906134613/http://studiomdhr.com/cuphead-goes-platinum/ |url-status= live }}</ref>
+| {{n/a}}
+| {{dts|September 29, 2017}}
+|[[Run and gun (video game)|Run and gun]]
+| colspan="2" |[[StudioMDHR]]
+|-
+| [[Mordhau (video game)|''Mordhau'']]
+| {{sort|010|1 million}}<ref>{{cite web |last1=Livingston |first1=Christopher |title=Mordhau has sold 1 million copies, celebrates with a new map and mortars |url=https://www.pcgamer.com/mordhau-has-sold-1-million-copies-celebrates-with-a-new-map-and-mortars/ |website=PC Gamer |date=June 8, 2019 |access-date=June 9, 2019 |archive-date=September 23, 2020 |archive-url=https://web.archive.org/web/20200923092722/https://www.pcgamer.com/mordhau-has-sold-1-million-copies-celebrates-with-a-new-map-and-mortars/ |url-status=live }}</ref>
+| {{n/a}}
+| {{dts|April 29, 2019}}
+| [[Action game|Action]]
+| colspan="2" | Triternion
+|}
+
+==See also==
+* [[List of PC games]]
+* [[List of best-selling video games]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist}}
+
+{{vgbestsellers}}
+
+{{DEFAULTSORT:Best-selling PC games}}
+[[Category:Lists of best-selling video games|PC]]
+[[Category:Lists of PC games|Best-selling]]

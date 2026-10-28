@@ -1,0 +1,1710 @@
+{{Short description|none}}
+{{pp-protected|reason=Persistent [[WP:Disruptive editing|disruptive editing]] Enough.|small=yes}}
+{{Unreliable sources|date=February 2022}}
+{{Use American English|date=November 2022}}
+{{Use mdy dates|date=November 2022}}
+<!--The title "Foster" for the fall 2023 film is just a rumor right now; please wait until a reliable source confirms it before adding it in.-->
+[[File:Walt Disney Animation Studios Logo.svg|265px|right]]
+[[Walt Disney Animation Studios]] is an American [[animation studio]] headquartered in [[Burbank, California]],<ref name="WDASOurStudio" /> the original feature film division of [[the Walt Disney Company]]. The studio's films are also often called "Disney Classics" (or "Classic Animated Features" in the case of the films with traditional hand drawn animation<ref>{{cite web |url=https://d23.com/a-to-z/animated-features-classic/ |title=Animated features, classic - D23 |website=d23.com |date=September 6, 2015 |access-date=March 29, 2023 |archive-date=March 29, 2023 |archive-url=https://web.archive.org/web/20230329143756/https://d23.com/a-to-z/animated-features-classic/ |url-status=live}}</ref>), or "Disney Animated [[Canon (fiction)|Canon]]".<ref>{{cite web |url=https://www.rotoscopers.com/2020/03/13/so-you-want-to-review-the-disney-canon-some-tips/ |title=So You Want to Review the Disney Canon? Some Tips |author=Rachel Wagner |date=March 13, 2020 |website=Rotoscopers}}</ref>
+
+Originally known as [[Walt Disney Productions]] (1937–1985), Walt Disney Animation (1986–1994) and Walt Disney Feature Animation (1994–2007), the studio has produced 64 films, beginning with ''[[Snow White and the Seven Dwarfs (1937 film)|Snow White and the Seven Dwarfs]]'' in 1937, one of the first full-length animated feature films, and the first produced in the United States. The studio's most recent release is ''[[Zootopia 2]]'' in 2025, with their upcoming slate of films including ''[[Hexed (2026 film)|Hexed]]'' in 2026, ''[[Frozen 3]]'' in 2027,<ref name=":0">{{Cite web |title=Disney Adds a Ton of 'Untitled Disney' Movies, Including One This Year |url=https://www.cnet.com/culture/entertainment/disney-adds-a-ton-of-untitled-disney-movies-including-one-this-year/ |access-date=2024-02-08 |website=CNET |language=en}}</ref> and ''Clay'' in 2028.<ref>{{Cite web |date=August 14, 2026 |title=Meet Clay and Mooshy from Disney's Clay, starring Kieran Culkin, in this new concept art and coming to theaters November 2028. #D23 |url=https://www.instagram.com/p/DcDCarGoFGT/ |access-date=August 14, 2026 |website=[[Instagram]]}}</ref> In addition, an unannounced film is scheduled to be released in 2029.<ref name=":1">{{Cite web |last=D'Alessandro |first=Anthony |date=2026-03-20 |title=Disney Puts A Slew Of 2028 & 2029 Dates On Hold For Marvel, Pixar Pics & More |url=https://deadline.com/2026/03/disney-marvel-pixar-release-dates-1236761757/ |access-date=2026-03-22 |website=Deadline Hollywood |language=en-US}}</ref>
+
+{| id="toc" class="toc plainlinks" summary="List of Walt Disney Animation Studios films" style="margin:auto;"
+|-
+! Films by decade:
+|
+[[#1930s/1940s|1930s/1940s]] {{·}} [[#1950s|1950s]] {{·}} [[#1960s|1960s]] {{·}} [[#1970s|1970s]] {{·}} [[#1980s|1980s]] {{·}} [[#1990s|1990s]] {{·}} [[#2000s|2000s]] {{·}} [[#2010s|2010s]] {{·}} [[#2020s|2020s]] {{·}} [[#Upcoming films|Upcoming]]
+|}
+
+== Released films ==
+{{Sticky header}}
+{| class="wikitable plainrowheaders sortable sticky-header" style="text-align:center; width:100%;"
+|-
+! style="width:10%;" | Film
+! style="width:10%;" | Release date
+! style="width:15%;"| Director(s)
+! style="width:30%;"| Writer(s)
+! style="width:15%;"| Based on&nbsp;/ Inspired by<!-- This should refer to what was previously written, published, and/or produced only -->
+! style="width:10%;"| Producer(s)
+! style="width:10%;"| Composer(s)
+|-
+! colspan="7" | as Walt Disney Productions
+|- id="1930s/1940s" <!---Note: This so that the links in the "Films by decade" table works--->
+! scope="row" style="text-align:center;" | ''[[Snow White and the Seven Dwarfs (film)|Snow White and the Seven Dwarfs]]''
+| {{Date table sorting|1937|12|21}}
+| '''Supervising Director:'''<br>[[David Hand (animator)|David Hand]]<br />'''Sequence Directors:'''<br>[[Perce Pearce]], William Cottrell, [[Larry Morey]], [[Wilfred Jackson]] & [[Ben Sharpsteen]]
+| [[Ted Sears]], Richard Creedon, Otto Englander, Dick Rickard, [[Earl Hurd]], [[Merrill De Maris]], Dorothy Ann Blank & [[Webb Smith]]
+| "[[Snow White]]" by [[Brothers Grimm]]
+| rowspan="2"|[[Walt Disney]]
+| [[Frank Churchill]], [[Leigh Harline]] & [[Paul Smith (composer)|Paul Smith]]
+|-
+! scope="row" style="text-align:center;" | ''[[Pinocchio (1940 film)|Pinocchio]]''
+| {{Date table sorting|1940|2|7}}
+| '''Supervising Directors:'''<br>Ben Sharpsteen & [[Hamilton Luske]]<br />'''Sequence Directors:'''<br>Bill Roberts, [[Norm Ferguson (animator)|Norman Ferguson]], [[Jack Kinney]], Wilfred Jackson & [[T. Hee]]
+| Ted Sears, Otto Englander, Webb Smith, Billy Cottrell, Joseph Sabo, [[Erdman Penner]] & [[Aurelius Battaglia]]
+| ''[[The Adventures of Pinocchio]]'' by [[Carlo Collodi]]
+| Leigh Harline & Paul Smith 
+|-
+! scope="row" style="text-align:center;" | ''[[Fantasia (1940 film)|Fantasia]]''
+| {{Date table sorting|1940|11|13}}
+| [[Fantasia (1940 film)#Credits|See credits]]
+| rowspan="2" | [[Joe Grant]] & [[Dick Huemer]]
+| "[[The Sorcerer's Apprentice]]" by [[Johann Wolfgang von Goethe]] ''inter alia''
+| Walt Disney & Ben Sharpsteen
+| [[Fantasia (1940 film)#Plot|Various classical composers]]
+|-
+! scope="row" style="text-align:center;" | ''[[Dumbo]]''
+| {{Date table sorting|1941|10|23}}
+| '''Supervising Director:'''<br>Ben Sharpsteen<br />'''Sequence Directors:'''<br> Norman Ferguson, Wilfred Jackson, Bill Roberts, Jack Kinney & Samuel Armstrong
+| ''Dumbo, the Flying Elephant'' by [[Helen Aberson-Mayer|Helen Aberson]] and Harold Pearl
+| rowspan="16" | Walt Disney
+| Frank Churchill and [[Oliver Wallace]]
+|-
+! scope="row" style="text-align:center;" | ''[[Bambi]]''
+| {{Date table sorting|1942|8|13}}
+| '''Supervising Director:'''<br>David Hand<br />'''Sequence Directors:'''<br>[[James Algar]], Bill Roberts, Norman Wright, Samuel Armstrong, Paul Satterfield & Graham Heid
+| Perce Pearce, Larry Morey, [[Vernon Stallings]], [[Mel Shaw]], [[Carl Fallberg]], Chuck Couch & [[Ralph Wright]]
+| ''[[Bambi, a Life in the Woods]]'' by [[Felix Salten]]
+| Frank Churchill and [[Edward H. Plumb]]
+|-
+! scope="row" style="text-align:center;" | ''[[Saludos Amigos]]''
+| {{Date table sorting|1943|2|6}}
+| Norm Ferguson<br>Wilfred Jackson<br>Jack Kinney<br>Hamilton Luske<br>Bill Roberts
+| Homer Brightman, William Cottrell, Dick Huemer, Joe Grant, Harold Reeves, Ted Sears, Webb Smith, [[Roy Williams (artist)|Roy Williams]] & Ralph Wright
+| rowspan="2" {{n/a}}
+| Paul Smith and Edward H. Plumb
+|-
+! scope="row" style="text-align:center;" | ''[[The Three Caballeros]]''
+| {{Date table sorting|1945|2|3}}
+| '''Supervising Director:'''<br>Norm Ferguson<hr />'''Sequence Directors:'''<br>[[Clyde Geronimi]]<br>Jack Kinney<br>Bill Roberts<br>[[Harold Young (director)|Harold Young]]
+| Homer Brightman, Ernest Terrazas, Ted Sears, [[Bill Peet]], Ralph Wright, Elmer Plummer, James Bodrero, Billy Cottrell, Del Connell & Roy Williams
+| Edward H. Plumb, Paul Smith and [[Charles Wolcott]]
+|-
+! scope="row" style="text-align:center;" | ''[[Make Mine Music]]''
+| {{Date table sorting|1946|4|20}}
+| Jack Kinney<br>Clyde Geronimi<br>Hamilton Luske<br>[[Joshua Meador]]<br>Robert Cormack
+| James Bodrero, Homer Brightman, Erwin Graham, [[Eric Gurney]], T. Hee, [[Sylvia Holland]], Dick Huemer, [[Dick Kelsey]], Dick Kinney, [[Jesse Marsh]], Tom Oreb, Cap Palmer, Erdman Penner, Dick Shaw, Harry Reeves, John Walbridge & Roy Williams
+| "[[Casey at the Bat]]" by [[Ernest Thayer]] & ''[[Peter and the Wolf]]'' by [[Sergei Prokofiev]] ''inter alia''
+| [[Eliot Daniel]], [[Ken Darby]], Charles Wolcott, Oliver Wallace and Edward H. Plumb
+|-
+! scope="row" style="text-align:center;" | ''[[Fun and Fancy Free]]''
+| {{Date table sorting|1947|9|27}}
+| Jack Kinney<br>Bill Roberts<br>Hamilton Luske<br>[[William Morgan (director)|William Morgan]]
+| Homer Brightman, [[Eldon Dedini]], Lance Nolley, Tom Oreb, Harry Reeves & Ted Sears
+| "[[Little Bear Bongo]]" by [[Sinclair Lewis]] & "[[Jack and the Beanstalk]]" by [[Benjamin Tabart]]
+| Oliver Wallace, Paul Smith, Eliot Daniel and Charles Wolcott
+|-
+! scope="row" style="text-align:center;" | ''[[Melody Time]]''
+| {{Date table sorting|1948|5|27}}
+|  Clyde Geronimi<br>Wilfred Jackson<br>Hamilton Luske<br>Jack Kinney
+| [[Winston Hibler]], Erdman Penner, Harry Reeves, Homer Brightman, [[Ken Anderson (animator)|Ken Anderson]], Ted Sears, Joe Rinaldi, Billy Cottrell, Art Scott, Jesse Marsh, Bob Moore & John Walbridge
+| The life of [[Johnny Appleseed]], ''[[Little Toot]]'' by [[Hardie Gramatky]], "[[Trees (poem)|Trees]]" by [[Joyce Kilmer]] & [[Pecos Bill]]
+| Eliot Daniel, Paul Smith and Ken Darby
+|-
+! scope="row" style="text-align:center;" | ''[[The Adventures of Ichabod and Mr. Toad]]''
+| {{Date table sorting|1949|10|5}}
+| Ben Sharpsteen<br>James Algar<br>Clyde Geronimi<br>Jack Kinney
+| Erdman Penner, [[Winston Hibler]], Joe Rinaldi, Ted Sears, Homer Brightman & Harry Reeves
+| ''[[The Wind in the Willows]]'' by [[Kenneth Grahame]]<br>"[[The Legend of Sleepy Hollow]]" by [[Washington Irving]]
+| rowspan="5" | Oliver Wallace
+|- id="1950s"
+! scope="row" style="text-align:center;" | ''[[Cinderella (1950 film)|Cinderella]]''
+| {{Date table sorting|1950|2|15}}
+| rowspan="4" | Clyde Geronimi<br>Wilfred Jackson<br>Hamilton Luske
+| Bill Peet, Ted Sears, Homer Brightman, Ken Anderson, Erdman Penner, Winston Hibler, Harry Reeves & Joe Rinaldi
+| "[[Cinderella]]" by [[Charles Perrault]]
+|-
+! scope="row" style="text-align:center;" | ''[[Alice in Wonderland (1951 film)|Alice in Wonderland]]''
+| {{Date table sorting|1951|7|28}}
+|  Winston Hibler, Ted Sears, Bill Peet, Erdman Penner, Joe Rinaldi, Milt Banta, Billy Cottrell, Dick Kelsey, Joe Grant, Dick Huemer, Del Connell, Tom Oreb & John Walbridge
+| ''[[Alice's Adventures in Wonderland]]'' & ''[[Through the Looking-Glass]]'' by [[Lewis Carroll]]
+|-
+! scope="row" style="text-align:center;" | ''[[Peter Pan (1953 film)|Peter Pan]]''
+| {{Date table sorting|1953|2|5}} 
+| Ted Sears, Erdman Penner, Bill Peet, Winston Hibler, Joe Rinaldi, Milt Banta, Ralph Wright & Billy Cottrell
+| ''[[Peter Pan (play and novel)|Peter Pan]]'' by [[J. M. Barrie]]
+|-
+! scope="row" style="text-align:center;" | ''[[Lady and the Tramp]]''
+| {{Date table sorting|1955|6|22}}
+| Erdman Penner<br>Joe Rinaldi<br>Ralph Wright<br>[[Don DaGradi]]
+| ''Happy Dan, the Cynical Dog'' & ''Lady and the Tramp: The Story of Two Dogs'' by [[Ward Greene]]
+|-
+! scope="row" style="text-align:center;" | ''[[Sleeping Beauty (1959 film)|Sleeping Beauty]]''
+| {{Date table sorting|1959|1|29}}
+| '''Supervising Director:'''<br>Clyde Geronimi<hr />'''Sequence Directors:'''<br>[[Eric Larson]]<br>[[Wolfgang Reitherman]]<br>[[Les Clark]]
+| Erdman Penner, Joe Rinaldi, Winston Hibler, Bill Peet, Ted Sears, Ralph Wright & Milt Banta
+| "[[Sleeping Beauty]]" by [[Charles Perrault]], "Little Briar Rose" by Brothers Grimm & ''[[The Sleeping Beauty (ballet)|The Sleeping Beauty]]'' by [[Pyotr Ilyich Tchaikovsky]]
+| rowspan="6" |[[George Bruns]]
+|- id="1960s"
+! scope="row" style="text-align:center;" | ''[[One Hundred and One Dalmatians]]''
+| {{Date table sorting|1961|1|25}}
+| Wolfgang Reitherman<br>Hamilton Luske<br>Clyde Geronimi
+| rowspan="2" |Bill Peet
+| ''[[The Hundred and One Dalmatians]]'' by [[Dodie Smith]]
+|-
+! scope="row" style="text-align:center;" | ''[[The Sword in the Stone (1963 film)|The Sword in the Stone]]''
+| {{Date table sorting|1963|12|25}}
+| rowspan="4" | Wolfgang Reitherman
+| ''[[The Sword in the Stone (novel)|The Sword in the Stone]]'' by [[T. H. White]]
+|-
+! scope="row" style="text-align:center;" | ''[[The Jungle Book (1967 film)|The Jungle Book]]''
+| {{Date table sorting|1967|10|18}}
+| [[Larry Clemmons]], Ralph Wright, Ken Anderson & [[Vance Gerry]]
+| the [[Mowgli]] stories from ''[[The Jungle Book]]'' by [[Rudyard Kipling]]
+|- id="1970s"
+! scope="row" style="text-align:center;" | ''[[The Aristocats]]''
+| {{Date table sorting|1970|12|24}}
+| Larry Clemmons, Vance Gerry, [[Frank Thomas (animator)|Frank Thomas]], [[Julius Svendsen]], Ken Anderson, Eric Cleworth & Ralph Wright
+| {{n/a}}
+| Winston Hibler & Wolfgang Reitherman
+|-
+! scope="row" style="text-align:center;" | ''[[Robin Hood (1973 film)|Robin Hood]]''
+| {{Date table sorting|1973|11|8}}
+| Larry Clemmons, Ken Anderson, Vance Gerry, Frank Thomas, Eric Cleworth, Julius Svendsen & Dave Michener
+| The legend of [[Robin Hood]]
+| Wolfgang Reitherman
+|-
+! scope="row" style="text-align:center;" | ''[[The Many Adventures of Winnie the Pooh]]''
+| {{Date table sorting|1977|3|11}}
+| Wolfgang Reitherman<br>[[John Lounsbery]]
+| Larry Clemmons, Vance Gerry, Ken Anderson, [[Ted Berman]], Ralph Wright, [[Xavier Atencio|X Atencio]], Julius Svendsen, Eric Cleworth & Winston Hibler
+| ''[[Winnie-the-Pooh]]'' book series by [[A. A. Milne]]
+| Walt Disney & Wolfgang Reitherman{{efn|Before his death in 1966, [[Walt Disney]] acted as the producer of the featurettes ''[[Winnie the Pooh and the Honey Tree]]'' and ''[[Winnie the Pooh and the Blustery Day]]'', both of which were featured in the film.}}
+|[[Buddy Baker (composer)|Buddy Baker]]
+|-
+! scope="row" style="text-align:center;" | ''[[The Rescuers]]''
+| {{Date table sorting|1977|6|22}}
+| Wolfgang Reitherman<br>John Lounsbery<br>[[Art Stevens]]
+| Larry Clemmons, Ken Anderson, Vance Gerry, Ted Berman, [[Burny Mattinson]], Frank Thomas, David Michener, Fred Lucky & Dick Sebast
+| ''[[The Rescuers (book)|The Rescuers]]'' book series by [[Margery Sharp]]
+| Wolfgang Reitherman and [[Ron W. Miller]]
+|[[Artie Butler]]
+|- id="1980s"
+! scope="row" style="text-align:center;" | ''[[The Fox and the Hound]]''
+| {{Date table sorting|1981|7|10}}
+| Art Stevens<br>Ted Berman<br>[[Richard Rich (director)|Richard Rich]]
+| Larry Clemmons, Ted Berman, David Michener, Peter Young, Burny Mattinson, Steve Hulett, Earl Kress & Vance Gerry
+| ''[[The Fox and the Hound (novel)|The Fox and the Hound]]'' by [[Daniel P. Mannix]]
+| Ron W. Miller, Wolfgang Reitherman & Art Stevens
+| Buddy Baker
+|-
+! scope="row" style="text-align:center;" | ''[[The Black Cauldron (film)|The Black Cauldron]]''{{efn|name=b|Co-produced with [[Silver Screen Partners II]]}}
+| {{Date table sorting|1985|7|24}}
+| Ted Berman<br>Richard Rich
+| David Jonas, Al Wilson, Vance Gerry, Roy Morita, Berman, Peter Young, Richard Rich, Art Stevens & [[Joe Hale (producer)|Joe Hale]]
+| ''[[The Chronicles of Prydain]]'' book series by [[Lloyd Alexander]]
+| Joe Hale & Ron W. Miller
+| [[Elmer Bernstein]]
+|-
+! colspan="7" | as Walt Disney Feature Animation
+|-
+! scope="row" style="text-align:center;" | ''[[The Great Mouse Detective]]''{{efn|name=b}}
+| {{Date table sorting|1986|7|2}}
+| [[John Musker]]<br>[[Ron Clements]]<br>David Michener<br>Burny Mattinson
+| Peter Young, Vance Gerry, Steve Hulett, Ron Clements, John Musker, Bruce M. Morris, [[Matthew O'Callaghan]], Burny Mattinson, David Michener & Melvin Shaw
+| ''[[Basil of Baker Street]]'' book series by [[Eve Titus]]
+| Burny Mattinson
+| [[Henry Mancini]]
+|-
+! scope="row" style="text-align:center;" | ''[[Oliver & Company]]''{{efn|Co-produced with [[Silver Screen Partners III]]}}
+| {{Date table sorting|1988|11|18}}
+| [[George Scribner]]
+| Jim Cox, Timothy J. Disney & [[James Mangold]]
+| {{small|loosely inspired by ''[[Oliver Twist]]'' by [[Charles Dickens]] & ''[[Les Misérables]]'' by [[Victor Hugo]]}}
+| Kathleen Gavin (uncredited)
+| [[J. A. C. Redford]]
+|-
+! scope="row" style="text-align:center;" | ''[[The Little Mermaid (1989 film)|The Little Mermaid]]''{{efn|name=c|Co-produced with [[Silver Screen Partners IV]]}}
+| {{Date table sorting|1989|11|17}}
+| colspan="2"|John Musker<br>Ron Clements
+| "[[The Little Mermaid]]" by [[Hans Christian Andersen]]
+| [[Howard Ashman]] & John Musker
+| [[Alan Menken]]
+|- id="1990s"
+! scope="row" style="text-align:center;" | ''[[The Rescuers Down Under]]''{{efn|name=c}}
+| {{Date table sorting|1990|11|16}}
+| Hendel Butoy<br>[[Mike Gabriel]]
+| Jim Cox, [[Karey Kirkpatrick]], Byron Sampson & [[Joe Ranft]]
+| ''The Rescuers'' book series by Margery Sharp
+| [[Thomas Schumacher]]
+| [[Bruce Broughton]]
+|-
+! scope="row" style="text-align:center;" | ''[[Beauty and the Beast (1991 film)|Beauty and the Beast]]''{{efn|name=c}}
+| {{Date table sorting|1991|11|22}}
+| [[Gary Trousdale]]<br>[[Kirk Wise]]
+| [[Linda Woolverton]]
+| "[[Beauty and the Beast]]" by [[Jeanne-Marie Leprince de Beaumont]]
+| [[Don Hahn]]
+| rowspan="2"| Alan Menken
+|-
+! scope="row" style="text-align:center;" | ''[[Aladdin (1992 Disney film)|Aladdin]]''
+| {{Date table sorting|1992|11|25}}
+| John Musker<br>Ron Clements
+| Ron Clements, John Musker, [[Ted Elliott (screenwriter)|Ted Elliott]] & [[Terry Rossio]]
+| "[[Aladdin and the Magic Lamp]]" from ''[[One Thousand and One Nights]]''
+| John Musker & Ron Clements
+|-
+! scope="row" style="text-align:center;" | ''[[The Lion King]]''
+| {{Date table sorting|1994|6|24}}
+| [[Roger Allers]]<br>[[Rob Minkoff]]
+| [[Irene Mecchi]], [[Jonathan Roberts (writer)|Jonathan Roberts]] & Linda Woolverton
+| {{small|loosely inspired by ''[[Hamlet]]'' by [[William Shakespeare]]}}
+| Don Hahn
+| [[Hans Zimmer]]
+|-
+! scope="row" style="text-align:center;" | ''[[Pocahontas (1995 film)|Pocahontas]]''
+| {{Date table sorting|1995|6|23}}
+| Mike Gabriel<br>[[Eric Goldberg (film director)|Eric Goldberg]]
+| [[Carl Binder]], [[Susannah Grant]] & [[Philip LaZebnik]]
+| an idea by Mike Gabriel
+| James Pentecost
+| rowspan="3"| Alan Menken
+|-
+! scope="row" style="text-align:center;" | ''[[The Hunchback of Notre Dame (1996 film)|The Hunchback of Notre Dame]]''
+| {{Date table sorting|1996|6|21}}
+| Gary Trousdale<br>Kirk Wise
+| '''Screenplay:''' [[Tab Murphy]], Irene Mecchi, [[Bob Tzudiker]], [[Noni White]] & Jonathan Roberts<br>'''Story:''' Tab Murphy
+| ''[[The Hunchback of Notre-Dame|Notre Dame de Paris]]'' by [[Victor Hugo]]
+| Don Hahn
+|-
+! scope="row" style="text-align:center;" | ''[[Hercules (1997 film)|Hercules]]''
+| {{Date table sorting|1997|6|27}}
+| John Musker<br>Ron Clements
+| Ron Clements, John Musker, Donald McEnery, Bob Shaw & Irene Mecchi
+| The [[Greek mythology|Greek myth]] of [[Heracles]]
+| Alice Dewey, John Musker & Ron Clements 
+|-
+! scope="row" style="text-align:center;" | ''[[Mulan (1998 film)|Mulan]]''
+| {{Date table sorting|1998|6|19}}
+| [[Barry Cook]]<br>[[Tony Bancroft]]
+| '''Screenplay:''' Rita Hsiao, [[Chris Sanders]], [[Philip LaZebnik]], Raymond Singer & Eugenia Bostwick-Singer<br>'''Story:''' [[Robert D. San Souci]]
+| ''[[Ballad of Mulan]]'' by [[Guo Maoqian]]
+| [[Pam Coats]]
+| [[Jerry Goldsmith]]
+|-
+! scope="row" style="text-align:center;" | ''[[Tarzan (1999 film)|Tarzan]]''
+| {{Date table sorting|1999|6|18}}
+| [[Kevin Lima]]<br>[[Chris Buck]]
+| Tab Murphy, Bob Tzudiker & Noni White
+| ''[[Tarzan of the Apes]]'' by [[Edgar Rice Burroughs]]
+| [[Bonnie Arnold]]
+| [[Mark Mancina]]
+|-
+! scope="row" style="text-align:center;" | ''[[Fantasia 2000]]''
+| {{Date table sorting|1999|12|17}}
+| James Algar<br>[[Paul and Gaëtan Brizzi]]<br>Hendel Butoy<br>Francis Glebas<br>Eric Goldberg<br>Don Hahn<br>[[Pixote Hunt]]
+| [[Fantasia 2000#Credits|See Credits]]
+| "[[The Steadfast Tin Soldier]]" by Hans Christian Andersen & [[Genesis flood narrative|Noah's Ark]] ''inter alia''
+| [[Roy E. Disney]] & [[Donald W. Ernst]]
+| [[James Levine]]
+|-id="2000s"
+! scope="row" style="text-align:center;" | ''[[Dinosaur (2000 film)|Dinosaur]]''
+| {{Date table sorting|2000|5|19}}
+| [[Ralph Zondag]]<br>Eric Leighton
+| '''Screenplay:''' [[John Harrison (director)|John Harrison]], [[Robert Nelson Jacobs]] & [[Walon Green]]<br>'''Story:''' Walon Green, John Harrison, Robert Nelson Jacobs, Thom Enriquez & Ralph Zondag
+| rowspan="2" {{n/a}}
+| Pam Marsden
+| [[James Newton Howard]]
+|-
+! scope="row" style="text-align:center;" | ''[[The Emperor's New Groove]]''
+| {{Date table sorting|2000|12|15}}
+| [[Mark Dindal]]
+|  '''Screenplay:''' [[David Reynolds (screenwriter)|David Reynolds]]<br>'''Story:''' [[Chris Williams (director)|Chris Williams]] & Mark Dindal
+| [[Randy Fullmer]]
+| [[John Debney]]
+|-
+! scope="row" style="text-align:center;" | ''[[Atlantis: The Lost Empire]]''
+| {{Date table sorting|2001|6|15}}
+| Gary Trousdale<br>Kirk Wise
+| '''Screenplay:''' Tab Murphy<br>'''Story:''' Kirk Wise, Gary Trousdale, [[Joss Whedon]], [[Bryce Zabel]], Jackie Zabel & Tab Murphy
+| {{small|loosely inspired by the legend of [[Atlantis]]}}
+| Don Hahn
+| James Newton Howard
+|-
+! scope="row" style="text-align:center;" | ''[[Lilo & Stitch]]''
+| {{Date table sorting|2002|6|21}}
+| colspan="2"|Chris Sanders<br>[[Dean DeBlois]]
+| {{small|loosely inspired by a unpublished picture book by Chris Sanders}}
+| [[Clark Spencer]]
+| [[Alan Silvestri]]
+|-
+! scope="row" style="text-align:center;" | ''[[Treasure Planet]]''
+| {{Date table sorting|2002|11|27}}
+| John Musker<br>Ron Clements
+| '''Screenplay:''' Ron Clements, John Musker & [[Rob Edwards (screenwriter)|Rob Edwards]] <br>'''Story:''' Ron Clements, John Musker, Ted Elliott & Terry Rossio
+| ''[[Treasure Island]]'' by [[Robert Louis Stevenson]]
+| [[Roy Conli]], John Musker & Ron Clements
+| James Newton Howard
+|-
+! scope="row" style="text-align:center;" | ''[[Brother Bear]]''
+| {{Date table sorting|2003|11|1}}
+| [[Aaron Blaise]]<br>[[Robert Walker (animator)|Robert Walker]]
+| Tab Murphy, Lorne Cameron, [[David Hoselton]], [[Steve Bencich]] & [[Ron J. Friedman]]
+| rowspan="2" {{n/a}}
+| Chuck Williams
+| Mark Mancina
+|-
+! scope="row" style="text-align:center;" | ''[[Home on the Range (2004 film)|Home on the Range]]''
+| {{Date table sorting|2004|4|2}}
+| [[Will Finn]]<br>John Sanford
+| '''Screenplay:''' Will Finn & John Sanford<br>'''Story:''' Will Finn, John Sanford, Michael LaBash, Sam Levine, Mark Kennedy & Robert Lence
+| Alice Dewey Goldstone
+| Alan Menken
+|-
+! scope="row" style="text-align:center;" | ''[[Chicken Little (2005 film)|Chicken Little]]''
+| {{Date table sorting|2005|11|4}}
+| Mark Dindal
+| '''Screenplay:''' Steve Bencich, Ron J. Friedman & Ron Anderson<br>'''Story:''' Mark Dindal & Mark Kennedy
+| an original idea by [[Mark Dindal]]
+| Randy Fullmer
+| John Debney
+|-
+! colspan="7" | as Walt Disney Animation Studios
+|-
+! scope="row" style="text-align:center;" | ''[[Meet the Robinsons]]''
+| {{Date table sorting|2007|3|30}}
+| [[Stephen Anderson (artist)|Stephen Anderson]]
+| Jon A. Bernstein, Michelle Spritz, [[Don Hall (filmmaker)|Don Hall]], [[Nathan Greno]], Aurian Redson, Joe Mateo & Stephen Anderson
+| ''[[A Day with Wilbur Robinson]]'' by [[William Joyce (writer)|William Joyce]]
+| [[Dorothy McKim]]
+|[[Danny Elfman]]
+|-
+! scope="row" style="text-align:center;" | ''[[Bolt (2008 film)|Bolt]]''
+| {{Date table sorting|2008|11|21}}
+| Chris Williams<br>[[Byron Howard]]
+| [[Dan Fogelman]] & Chris Williams
+| based on an original idea by [[Chris Sanders]]
+| Clark Spencer
+|[[John Powell (composer)|John Powell]]
+|-
+! scope="row" style="text-align:center;" | ''[[The Princess and the Frog]]''
+| {{Date table sorting|2009|12|11}}
+| John Musker<br>Ron Clements
+| '''Screenplay:''' Ron Clements, John Musker & Rob Edwards<br>'''Story:''' Ron Clements, John Musker, Greg Erb & Jason Oremland
+| ''[[The Frog Princess (novel)|The Frog Princess]]'' by [[E. D. Baker]] & "[[The Frog Prince]]" by Brothers Grimm
+| [[Peter Del Vecho]]
+|[[Randy Newman]]
+|- id="2010s"
+! scope="row" style="text-align:center;" | ''[[Tangled]]''
+| {{Date table sorting|2010|11|24}}
+| Nathan Greno<br>Byron Howard
+| Dan Fogelman
+| "[[Rapunzel]]" by Brothers Grimm
+| Roy Conli
+| Alan Menken
+|-
+! scope="row" style="text-align:center;" | ''[[Winnie the Pooh (2011 film)|Winnie the Pooh]]''
+| {{Date table sorting|2011|7|15}}
+| Stephen Anderson<br>Don Hall
+| Stephen Anderson, Clio Chiang, Don Dougherty, Don Hall, Kendelle Hoyer, [[Brian Kesinger]], Nicole Mitchell & Jeremy Spears
+| ''Winnie-the-Pooh'' book series by A. A. Milne
+| Peter Del Vecho & Clark Spencer
+| rowspan="2"|[[Henry Jackman]]
+|-
+! scope="row" style="text-align:center;" | ''[[Wreck-It Ralph]]''
+| {{Date table sorting|2012|11|2}}
+| [[Rich Moore]]
+| '''Screenplay:''' [[Phil Johnston (filmmaker)|Phil Johnston]] & [[Jennifer Lee (filmmaker)|Jennifer Lee]]<br>'''Story:''' Rich Moore, Phil Johnston & [[Jim Reardon]]
+| {{n/a}}
+| Clark Spencer
+|-
+! scope="row" style="text-align:center;" | ''[[Frozen (2013 film)|Frozen]]''
+| {{Date table sorting|2013|11|27}}
+| Chris Buck<br>Jennifer Lee
+| '''Screenplay:''' Jennifer Lee<br>'''Story:''' Chris Buck, Jennifer Lee & Shane Morris
+| {{small|loosely inspired by "[[The Snow Queen]]" by Hans Christian Andersen}}
+| Peter Del Vecho
+|[[Christophe Beck]]
+|-
+! scope="row" style="text-align:center;" | ''[[Big Hero 6 (film)|Big Hero 6]]''
+| {{Date table sorting|2014|11|7}}
+| Don Hall<br>Chris Williams
+| [[Jordan Roberts (writer)|Jordan Roberts]], Robert L. Baird & [[Dan Gerson]]
+| [[Big Hero 6 (comics)|Big Hero 6]] by [[Man of Action Studios|Man of Action]]
+| Roy Conli
+| Henry Jackman
+|-
+! scope="row" style="text-align:center;" | ''[[Zootopia]]''
+| {{Date table sorting|2016|3|4}}
+| Byron Howard<br>Rich Moore<hr>'''Co-director:''' [[Jared Bush]]
+| '''Screenplay:''' Jared Bush & Phil Johnston<br>'''Story:''' Byron Howard, Rich Moore, Jared Bush, Jim Reardon, [[Josie Trinidad]], Phil Johnston & Jennifer Lee
+| {{n/a}}
+| Clark Spencer
+|[[Michael Giacchino]]
+|-
+! scope="row" style="text-align:center;" | ''[[Moana (2016 film)|Moana]]''
+| {{Date table sorting|2016|11|23}}
+| John Musker<br>Ron Clements<hr>'''Co-directors:''' Chris Williams<br>Don Hall
+| '''Screenplay:''' Jared Bush<br>'''Story:''' Ron Clements, John Musker, Chris Williams, Don Hall, [[Pamela Ribon]], [[Aaron and Jordan Kandell|Aaron & Jordan Kandell]]
+| {{small|inspired by the Hawaiian myth of [[Māui (Hawaiian mythology)|Māui]]}}
+| [[Osnat Shurer]]
+| Mark Mancina
+|-
+! scope="row" style="text-align:center;" | ''[[Ralph Breaks the Internet]]''
+| {{Date table sorting|2018|11|21}}
+| Rich Moore<br>Phil Johnston 
+| '''Screenplay:''' Phil Johnston & Pamela Ribon<br>'''Story:''' Rich Moore, Phil Johnston, Jim Reardon, Pamela Ribon & Josie Trinidad
+| [[Wreck-It Ralph|The film]] by Phil Johnston & Jennifer Lee
+| Clark Spencer
+| Henry Jackman
+|-
+! scope="row" style="text-align:center;" | ''[[Frozen 2]]''
+| {{Date table sorting|2019|11|22}}
+| Chris Buck<br>Jennifer Lee
+| '''Screenplay:''' Jennifer Lee<br>'''Story:'''  Chris Buck, Jennifer Lee, Marc E. Smith, [[Kristen Anderson-Lopez]] & [[Robert Lopez]]
+| [[Frozen (2013 film)|The film]] by Jennifer Lee
+| Peter Del Vecho
+| Christophe Beck
+|- id="2020s"
+! scope="row" style="text-align:center;" | ''[[Raya and the Last Dragon]]''
+| {{Date table sorting|2021|3|5}}
+| Don Hall<br>[[Carlos López Estrada]]<hr>'''Co-directors:''' [[Paul Briggs (animator)|Paul Briggs]]<br>John Ripa
+| '''Screenplay:''' [[Qui Nguyen]] & [[Adele Lim]]<br> '''Story:''' Paul Briggs, Don Hall, Adele Lim, Carlos López Estrada, Kiel Murray, Qui Nguyen, John Ripa & [[Dean Wellins]]
+| original story idea by Bradley Raymond
+| Osnat Shurer & Peter Del Vecho
+| James Newton Howard 
+|-
+! scope="row" style="text-align:center;" | ''[[Encanto]]''                      
+| {{Date table sorting|2021|11|24}}
+| Jared Bush<br>Byron Howard<hr>'''Co-director:''' [[Charise Castro Smith]]
+| '''Screenplay:''' Charise Castro Smith & Jared Bush<br>'''Story:''' Jared Bush, Byron Howard, Charise Castro Smith, Jason Hand, [[Nancy Kruse]] & [[Lin-Manuel Miranda]]
+| rowspan="3" {{n/a}}
+| [[Yvett Merino]] & Clark Spencer
+| [[Germaine Franco]]
+|-
+! scope="row" style="text-align:center;" | ''[[Strange World (film)|Strange World]]''
+| {{Date table sorting|2022|11|23}}
+| Don Hall<hr>'''Co-director:''' Qui Nguyen
+| Qui Nguyen
+| Roy Conli
+| Henry Jackman
+|-
+! scope="row" style="text-align:center;" | ''[[Wish (film)|Wish]]''
+|  {{Date table sorting|2023|11|22}}
+| Chris Buck<br>[[Fawn Veerasunthorn]]
+| '''Screenplay:''' Jennifer Lee & Allison Moore<br>'''Story:''' Jennifer Lee, Chris Buck, Fawn Veerasunthorn & Allison Moore
+| Peter Del Vecho & Juan Pablo Reyes Lancaster-Jones
+| [[David Metzger]]
+|-
+! scope="row" style="text-align:center;" | ''[[Moana 2]]''
+| {{Date table sorting|2024|11|27}}
+| [[David Derrick Jr.]]<br>Jason Hand<br>Dana Ledoux Miller
+| '''Screenplay:''' Jared Bush & Dana Ledoux Miller<br>'''Story:''' Jared Bush, Dana Ledoux Miller & Bek Smith 
+| [[Moana (2016 film)|The film]] by Jared Bush
+| Christina Chen & Yvett Merino
+| Mark Mancina & [[Opetaia Foaʻi]]
+|-
+! scope="row" style="text-align:center;" | ''[[Zootopia 2]]''
+| {{Date table sorting|2025|11|26}}
+| Jared Bush<br>Byron Howard
+| Jared Bush
+| [[Zootopia|The film]] by Jared Bush & Phil Johnston
+| Yvett Merino
+| Michael Giacchino 
+|}
+
+== Upcoming films ==
+{{See also|List of Disney theatrical animated features#Upcoming|label 1=Upcoming Disney theatrical animated features }}
+{| class="wikitable sortable plainrowheaders" style="text-align:center; width:100%;"
+|-
+! style="width:10%;" | Film
+! style="width:10%;" | Release date
+! style="width:15%;"| Director(s)
+! style="width:30%;"| Writer(s)
+! style="width:15%;"| Based on&nbsp;/ Inspired by<!-- This should refer to what was previously written, published, and/or produced only -->
+! style="width:10%;"| Producer(s)
+! style="width:10%;"| Composer(s)
+|-
+! scope="row" style="text-align:center;" | ''[[Hexed (2026 film)|Hexed]]''<br /><ref>{{cite tweet|number=1961797154382688437|user=DisneyAnimation|title=Coming to theaters in Fall 2026, Disney's #Hexed is an all-new original film that follows a teenage oddball and his mom, who discover his weirdness is actually hidden magic, transporting them to a world where magic can run free. #DestinationD23|date=August 30, 2025}}</ref><ref name="DisneyAdds">{{cite web|url=https://www.cnet.com/culture/entertainment/disney-adds-a-ton-of-untitled-disney-movies-including-one-this-year/|title=Disney Adds A Ton of 'Untitled Disney' Movies, Including One This Year|last=Trenholm|first=Richard|website=[[CNET]]|date=January 20, 2023|access-date=January 20, 2023|archive-date=January 20, 2023|archive-url=https://web.archive.org/web/20230120222218/https://www.cnet.com/culture/entertainment/disney-adds-a-ton-of-untitled-disney-movies-including-one-this-year/|url-status=live}}</ref><ref name=":1" />
+| {{Date table sorting|2026|11|25}}
+| Fawn Veerasunthorn<ref name="CinemaCon">{{Cite web|title=Walt Disney Studios Wows CinemaCon® Attendees at 2026 Gathering in Las Vegas|website=[[The Walt Disney Company]]|date=April 16, 2026|url=https://thewaltdisneycompany.com/news/cinemacon-2026-recap/|access-date=April 24, 2026|archive-url=https://web.archive.org/web/20260417042912/https://thewaltdisneycompany.com/news/cinemacon-2026-recap/|archive-date=April 17, 2026}}</ref><br>Jason Hand<hr>'''Co-director:''' [[Josie Trinidad]]<ref name="CinemaCon" />{{efn|The film's initial announcement in 2025 listed Trinidad as director alongside Jason Hand, but at CinemaCon 2026, it was announced that Fawn Veerasunthorn would now be directing the film alongside Hand, with Trinidad still on board as co-director.<ref name="Destination D23">{{Cite web|title=Major Announcements and Magical Moments from Destination D23: A Journey Around the Worlds of Disney|website=[[The Walt Disney Company]]|date=August 31, 2025|url=https://thewaltdisneycompany.com/news/destination-d23-studios-parks-announcements/|access-date=April 24, 2026|archive-url=
+https://web.archive.org/web/20260217124052/https://thewaltdisneycompany.com/news/destination-d23-studios-parks-announcements/|archive-date=February 17, 2026}}</ref>}}
+| '''Screenplay:''' [[Jared Bush]]<ref name="yt">{{Cite AV media |title=Disney Animators Discuss Their Careers and "Hexed" — D23: The Ultimate Disney Fan Event 2026. |url=https://www.youtube.com/watch?v=tDboHD_2mnY |access-date=2026-08-15 |via=YouTube |language=en |author=Laughing Place |date=16 August 2026 |time={{time needed|date=October 2026}}}}</ref><ref>{{cite web|website=X|url=https://x.com/boardwalktimes/status/2106386992481304879|title= Walt Disney Animation Studios CCO Jared Bush is one of the writers on Disney's HEXED.|date=October 3, 2026|access-date=October 6, 2026}}</ref>, Dana Ledoux Miller<ref name="yt"/><ref>{{cite web|website=X|url=https://x.com/boardwalktimes/status/2106368680384995727|title=Dana Ledoux Miller (MOANA 2) is one of the writers on Disney's HEXED.|date=October 3, 2026|access-date=October 6, 2026}}</ref> & [[Jon Robin Baitz]] <br>'''Story:''' Baitz & Josie Trinidad
+| {{N/A}}
+| Roy Conli<ref name="CinemaCon" /><ref name="Trailer">{{cite AV media|url=https://youtube.com/watch?=mtC4sjABZNw|title=Hexed - Teaser Trailer|via=[[YouTube]]|date=June 16, 2026|access-date=June 16, 2026|type=Video}}</ref><br>Yvett Merino<ref name="Trailer" />
+| [[Kris Bowers]]
+|-
+! scope="row" style="text-align:center;" | ''[[Frozen 3]]''{{px2}}{{efn|<ref>{{cite web |last1=Carolyn |first1=Giardina |title=Jennifer Lee Steps Down as Disney Animation's Chief Creative to Make 'Frozen' Sequels |url=https://variety.com/2024/artisans/news/jennifer-lee-disney-frozen-1236150362/ |website=Variety.com |date=September 19, 2024 |publisher=Variety |access-date=19 September 2024}}</ref><ref>{{Cite web |last=D'Alessandro |first=Anthony |date=February 8, 2023 |title=''Frozen'', ''Toy Story'' & ''Zootopia'' Sequels In The Works |url=https://deadline.com/2023/02/frozen-toy-story-zootopia-sequels-in-the-works-bob-iger-disney-earnings-1235253824/ |url-status=live |archive-url=https://web.archive.org/web/20230208215907/https://deadline.com/2023/02/frozen-toy-story-zootopia-sequels-in-the-works-bob-iger-disney-earnings-1235253824/ |archive-date=February 8, 2023 |access-date=November 16, 2023 |website=[[Deadline Hollywood]]}}</ref><ref>{{Cite web |last=Bythrow |first=Nick |date=2024-02-07 |title=Frozen 3 Release Window Revealed |url=https://screenrant.com/frozen-3-release-window-2026-disney/ |access-date=2024-02-08 |website=ScreenRant |language=en}}</ref><ref>{{cite web|last=Nebens |first=Richard |title=D23 2024: Every Major Disney, Marvel & Star Wars Announcement |url=https://thedirect.com/article/d23-2024-marvel-star-wars-news-photos |publisher=The Direct |date=August 10, 2024 |access-date=August 10, 2024}}</ref><ref>{{Cite web |last=D'Alessandro |first=Anthony |date=August 13, 2024 |title=''Frozen 3'' Gets Official Thanksgiving 2027 Release; Pixar's ''Hoppers'' Sets Spring 2026 |url=https://deadline.com/2024/08/frozen-3-release-date-1236039148/ |url-status=live |archive-url=https://web.archive.org/web/20240813174243/https://deadline.com/2024/08/frozen-3-release-date-1236039148/ |archive-date=August 13, 2024 |access-date=August 13, 2024 |website=[[Deadline Hollywood]]}}</ref><ref name=":1" />}}
+| {{Date table sorting|2027|11|24}}
+| Jennifer Lee<hr>'''Co-director:''' [[Trent Correy]]<ref name="Frozen3">{{cite web |url=https://www.thewrap.com/frozen-3-4-kristen-bell-josh-gad-idina-menzel-salaries/ |title=Disney Megadeal: Kristen Bell, Josh Gad, Idina Menzel Score $60 Million Packages for 'Frozen' 3 and 4 |website=[[TheWrap]] |first1=Umberto |last1=Gonzalez |first2=Drew |last2=Taylor |date=November 19, 2025 |access-date=November 23, 2025 |url-access=subscription}}</ref>
+| Jennifer Lee
+| [[Frozen (2013 film)|The film]] by Jennifer Lee
+| rowspan="2" | Peter Del Vecho
+| {{TBA}}
+|- id="Clay"<!--for anchor in links-->
+! scope="row" style="text-align:center;" | ''Clay''<ref>{{cite web |url=https://www.hollywoodreporter.com/movies/movie-news/kieran-culkin-to-star-in-animated-movie-clay-1236673989/ |title=Kieran Culkin to Star in Animated Movie 'Clay' for Disney |first1=Aaron |last1=Couch |first2=Kirsten |last2=Chuba |date=August 14, 2026 |website=[[The Hollywood Reporter]]}}</ref><ref name="nytimes2025">{{Cite news |date=2025-11-26 |title=Disney's 'Zootopia 2' Will Be a Test for Jared Bush |url=https://www.nytimes.com/2025/11/26/business/disney-zootopia-2-jared-bush.html |access-date=2025-11-26 |language=en}}</ref>
+| {{Date table sorting|2028|11|22}}<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=August 17, 2026 |title='Ghost Rider' Sets July 2028 Release; More Disney 2028 Movie Dates |url=https://deadline.com/2026/08/ghost-rider-2028-disney-release-dates-1237043467/ |access-date=August 30, 2026 |website=[[Deadline Hollywood]]}}</ref>
+| Fawn Veerasunthorn<ref>{{Cite web |last=Taylor |first=Drew |date=August 15, 2026 |title=Disney's New Animated Original 'Clay' Starring Kieran Culkin Arrives in 2028 |url=https://www.thewrap.com/creative-content/movies/clay-walt-disney-animation-studios-d23-footage-explained/ |access-date=August 16, 2026 |website=TheWrap}}</ref>
+| {{TBA}}
+| {{n/a}}
+| {{TBA}}
+|}
+
+=== Unspecified projects ===
+An unannounced film is scheduled to be released on June 15, 2029.<ref name=":1" />
+
+=== In development ===
+A fourth ''[[Frozen (franchise)|Frozen]]'' film is in development.<ref>{{Cite web |last=Rubin |first=Rebecca |date=November 16, 2023 |title=''Frozen 4'' in the Works at Disney, Bob Iger Reveals |url=https://variety.com/2023/film/news/frozen-4-confirmed-disney-bob-iger-1235792515/ |url-status=live |archive-url=https://web.archive.org/web/20231116193813/https://variety.com/2023/film/news/frozen-4-confirmed-disney-bob-iger-1235792515/ |archive-date=November 16, 2023 |access-date=November 16, 2023 |website=[[Variety (magazine)|Variety]]}}</ref> In November 2023, [[Jennifer Lee (filmmaker)|Jennifer Lee]] revealed that ten projects are in development, including films based upon original ideas.<ref>{{cite web|url=https://thewaltdisneycompany.com/jennifer-lee-wish-disney-animation/|title= Jennifer Lee on ''Wish'', Leading Disney Animation and the Future of ''Frozen''|website=The Walt Disney Company|date=November 22, 2023|access-date=November 23, 2023}}</ref>
+
+In July 2026, ahead of the release of the [[Moana (2026 film)|2026 live-action remake]] of ''[[Moana (2016 film)|Moana]]'' (2016), [[Dwayne Johnson]] confirmed that a third animated film in the ''[[Moana (franchise)|Moana]]'' franchise is in development.<ref>{{Cite web |last=Rubin |first=Rebecca |date=2026-07-02 |title='Moana 3' in the Works at Disney, According to Dwayne Johnson |url=https://variety.com/2026/film/news/moana-3-disney-1236235124/ |access-date=2026-07-02 |website=Variety |language=en-US}}</ref>
+
+In August 2026, it was revealed that a third ''[[Zootopia (franchise)|Zootopia]]'' film is in development.<ref>{{Cite web |last=Moreau |first=Jordan |date=2026-08-14|title=  'Zootopia 3' in the Works at Disney |url=https://variety.com/2026/film/news/zootopia-3-disney-1236835053/ |access-date=2026-08-14 |website=Variety |language=en-US}}</ref>
+
+== Cancelled projects ==
+{{Main|List of unproduced Disney animated projects}}
+
+==Associated productions==
+{{hatnote|This section pertains to films that feature animation and/or animated sequences provided by the studio or produced by a division branch of the main studio. For direct-to-video follow-ups of Walt Disney Animation Studios films, see [[List of Disney feature-length home entertainment releases]]. For live-action remakes, see [[List of remakes and adaptations of Disney animated films]].}}
+{| class="sortable wikitable" style="text-align:center;"
+|-
+! style="width:300px;" | Title
+! style="width:120px;" | Release date
+! style="width:200px;" | Studio
+! style="width:220px;" | Visual effects&nbsp;/ Animation service(s)
+|-
+| style="text-align:left;" | ''[[Hollywood Party (1934 film)|Hollywood Party]]'' 
+| align="right" | {{Date table sorting|1934|06|01}} || rowspan="9" |[[Walt Disney Pictures|Walt Disney Productions]] || rowspan="10" | Main faculties
+|-
+| style="text-align:left;" | ''[[Academy Award Review of Walt Disney Cartoons]]'' 
+| align="right" | {{Date table sorting|1937|05|19}}
+|-
+| style="text-align:left;" | ''[[The Reluctant Dragon (1941 film)|The Reluctant Dragon]]'' 
+| align="right" | {{Date table sorting|1941|6|20}} 
+|-
+| style="text-align:left;" | ''[[Victory Through Air Power (film)|Victory Through Air Power]]'' 
+| align="right" | {{Date table sorting|1943|7|17}}
+|-
+| style="text-align:left;" | ''[[Song of the South]]'' 
+| align="right" | {{Date table sorting|1946|11|12}}
+|-
+| style="text-align:left;" | ''[[So Dear to My Heart]]'' 
+| align="right" | {{Date table sorting|1948|11|29}}
+|-
+| style="text-align:left;" | ''[[Mary Poppins (film)|Mary Poppins]]'' 
+| align="right" | {{Date table sorting|1964|8|27}}
+|-
+| style="text-align:left;" | ''[[Bedknobs and Broomsticks]]'' 
+| align="right" | {{Date table sorting|1971|10|7}}
+|-
+| style="text-align:left;" | ''[[Pete's Dragon (1977 film)|Pete's Dragon]]'' 
+| align="right" | {{Date table sorting|1977|11|3}}
+|-
+| style="text-align:left;" | ''[[Who Framed Roger Rabbit]]'' 
+| align="right" | {{Date table sorting|1988|6|22}} || [[Touchstone Pictures]]<br>[[Amblin Entertainment]]
+|-
+| style="text-align:left;" | ''[[DuckTales the Movie: Treasure of the Lost Lamp]]'' 
+| align="right" | {{Date table sorting|1990|08|03}} || [[Walt Disney Pictures]]<br>[[Disney MovieToons]] || [[Disney Animation France]]
+|-
+| style="text-align:left;" | ''[[The Nightmare Before Christmas]]'' 
+| align="right" | {{Date table sorting|1993|10|29}} || [[Touchstone Pictures]]<br>[[Skellington Productions]] || Second-layering [[traditional animation]]
+|-
+| style="text-align:left;" | ''[[A Goofy Movie]]'' 
+| align="right" | {{Date table sorting|1995|04|07}} || [[Walt Disney Pictures]]<br>[[Disney MovieToons]] || Disney Animation France<br />[[Disney Animation Australia]]<br />[[Disney Animation Canada]] (Toronto)
+|-
+| style="text-align:left;" | ''[[James and the Giant Peach (film)|James and the Giant Peach]]'' 
+| align="right" | {{Date table sorting|1996|04|12}} || [[Walt Disney Pictures]]<br>[[Skellington Productions]] || Second-layering [[traditional animation]]
+|-
+| style="text-align:left;" | ''[[Saving Mr. Banks]]'' 
+| align="right" | {{Date table sorting|2013|12|13}} 
+| rowspan="2" | [[Walt Disney Pictures]]|| [[Tinker Bell (Disney character)|Tinker Bell]] animation recreation
+|-
+| style="text-align:left;" | ''[[Mary Poppins Returns]]''
+| align="right" | {{Date table sorting|2018|12|19}} || Main faculties
+|}
+
+== Reception ==
+
+===Box office grosses===
+{| class="wikitable plainrowheaders sortable sticky-header" style="text-align: center;"
+|-
+! scope="col" | Film
+! scope="col" | Budget
+! scope="col" data-sort-type="currency" | Opening
+! scope="col" data-sort-type="currency" | U.S. and Canada
+! scope="col" data-sort-type="currency" | International
+! scope="col" data-sort-type="currency" | Worldwide
+! scope="col" class="unsortable" | {{Refh}}
+|-
+! scope="row" | ''Snow White and the Seven Dwarfs''
+| $1.5 million
+| {{N/A}}
+| $184.9 million
+| $231.1 million
+| $416.0 million
+|| <ref>{{cite web|title=Snow White and the Seven Dwarfs|website=[[Box Office Mojo]]|url=https://www.boxofficemojo.com/movies/?id=snowwhite.htm|access-date=December 22, 2015|archive-date=May 11, 2013|archive-url=https://web.archive.org/web/20130511150034/http://boxofficemojo.com/movies/?id=snowwhite.htm|url-status=live}}</ref><ref>{{cite web|title=Snow White and the Seven Dwarfs (1937)|url=https://www.imdb.com/title/tt0029583/business?ref_=tt_dt_bus|website=IMDb|date=February 4, 1938|access-date=December 22, 2015|archive-date=March 16, 2016|archive-url=https://web.archive.org/web/20160316063558/http://www.imdb.com/title/tt0029583/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''Pinocchio''
+| $2.6 million
+| {{N/A}}
+| $84.3 million
+| $37.5 million
+| $121.8 million || <ref>{{cite web|title=Pinocchio (1940)|url=https://www.imdb.com/title/tt0032910/business?ref_=tt_dt_bus|website=IMDb|access-date=December 22, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134535/http://www.imdb.com/title/tt0032910/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''Fantasia''
+| $2.3 million
+| {{N/A}}
+| $76.4 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=Fantasia (1940)|url=https://www.imdb.com/title/tt0032455/business?ref_=tt_dt_bus|website=IMDb|date=September 19, 1941|access-date=December 22, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134535/http://www.imdb.com/title/tt0032455/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''Dumbo''
+| style="data-sort-value="$0.95 million" | $950,000
+| {{N/A}}
+| $1.6 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=Dumbo (1941)|url=https://www.imdb.com/title/tt0033563/business?ref_=tt_dt_bus|website=IMDb|date=October 31, 1941|access-date=December 22, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134534/http://www.imdb.com/title/tt0033563/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''Bambi''
+| $1.7 million
+| {{N/A}}
+| $102.2 million
+| $165.2 million
+| $267.4 million || <ref>{{cite web|title=Bambi|url=https://www.boxofficemojo.com/movies/?id=bambi.htm|website=[[Box Office Mojo]]|access-date=December 22, 2015|archive-date=January 3, 2012|archive-url=https://web.archive.org/web/20120103230956/http://boxofficemojo.com/movies/?id=bambi.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Saludos Amigos''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 
+|-
+! scope="row" | ''The Three Caballeros''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 
+|-
+! scope="row" | ''Make Mine Music''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| $2.25 million
+| $2.25 million
+| 
+|-
+! scope="row" | ''Fun and Fancy Free''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| $2.4 million
+| $2.4 million
+| 
+|-
+! scope="row" | ''Melody Time''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| $1.8 million
+| $1.8 million
+| 
+|-
+! scope="row" | ''The Adventures of Ichabod and Mr. Toad''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 
+|-
+! scope="row" | ''Cinderella''
+| $2.9 million
+| {{N/A}}
+| $85.0 million
+| $178.6 million
+| $263.6 million || <ref>{{cite web|title=Cinderella (1950)|website=The Numbers|url=https://www.the-numbers.com/movies/1950/0CNDR.php|access-date=December 22, 2015|archive-date=February 3, 2014|archive-url=https://web.archive.org/web/20140203152914/http://www.the-numbers.com/movies/1950/0CNDR.php|url-status=live}}</ref>
+|-
+! scope="row" | ''Alice in Wonderland''
+| $3 million
+| {{N/A}}
+| $5.2 million
+| {{N/A}}
+| {{N/A}} || <ref name="alice">{{cite web|title=Alice in Wonderland|url=https://www.boxofficemojo.com/movies/?id=aliceinwonderland.htm|website=[[Box Office Mojo]]|access-date=December 22, 2015|archive-date=March 30, 2019|archive-url=https://web.archive.org/web/20190330010343/https://www.boxofficemojo.com/movies/?id=aliceinwonderland.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Peter Pan''
+| rowspan="2" | $4 million
+| {{N/A}}
+| $87.4 million
+| $57.6 million
+| $145.0 million || <ref>{{cite web|title=Peter Pan (1953)|url=https://www.imdb.com/title/tt0046183/business?ref_=tt_dt_bus|website=IMDb|access-date=December 23, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134531/http://www.imdb.com/title/tt0046183/business?ref_=tt_dt_bus|url-status=live}}</ref><ref>{{cite web|title=Peter Pan (1953)&nbsp;- Notes|publisher=[[Turner Classic Movies]]|url=https://www.tcm.com/tcmdb/title/86554/peter-pan#notes|access-date=December 22, 2015|archive-date=September 3, 2015|archive-url=https://web.archive.org/web/20150903110329/http://www.tcm.com/tcmdb/title/86554/Peter-Pan/notes.html|url-status=dead}}</ref>
+|-
+! scope="row" | ''Lady and the Tramp''
+| {{N/A}}
+| $93.6 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=Lady and the Tramp|url=https://www.boxofficemojo.com/release/rl593462785|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=January 19, 2016|archive-url=https://archive.today/20160119000115/http://www.boxofficemojo.com/movies/?id=ladyandthetramp.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Sleeping Beauty''
+| $6 million
+| {{N/A}}
+| $51.6 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=Sleeping Beauty (1959)|url=https://www.imdb.com/title/tt0053285/business?ref_=tt_dt_bus|website=IMDb|access-date=December 28, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134529/http://www.imdb.com/title/tt0053285/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''One Hundred and One Dalmatians''
+| $3.6 million
+| {{N/A}}
+| $144.9 million
+| $71.0 million
+| $215.9 million || <ref>{{cite book|last=Thomas|first=Bob|title=Walt Disney: An American Original|edition=2nd|publisher=Disney Editions|isbn=978-0-786-86027-2|page=295|date=April 22, 1994}}</ref><ref>{{cite web|title=One Hundred and One Dalmatians (1961)|url=https://www.imdb.com/title/tt0055254/business?ref_=tt_dt_bus|website=IMDb|access-date=December 28, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134529/http://www.imdb.com/title/tt0055254/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''The Sword in the Stone''
+| $3 million
+| {{N/A}}
+| $22.2 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite news|last=Thomas|first=Bob|author-link=Bob Thomas (reporter)|url=https://news.google.com/newspapers?nid=1798&dat=19631101&id=LxQhAAAAIBAJ&sjid=74sEAAAAIBAJ&pg=3775,126269&hl=en|title=Walt Disney Eyes New Movie Cartoon|newspaper=[[Sarasota Journal]]|page=22|date=November 1, 1963|access-date=September 16, 2017|via=[[Google News Archive]]|archive-date=December 17, 2019|archive-url=https://web.archive.org/web/20191217015930/https://news.google.com/newspapers?nid=1798&dat=19631101&id=LxQhAAAAIBAJ&sjid=74sEAAAAIBAJ&pg=3775,126269&hl=en|url-status=live}}</ref><ref>{{cite web|title=The Sword in the Stone (1963)|website=The Numbers|url=https://www.the-numbers.com/movie/Sword-in-the-Stone-The#tab=summary|access-date=December 28, 2015|archive-date=January 7, 2014|archive-url=https://web.archive.org/web/20140107013339/http://www.the-numbers.com/movies/1963/0SITS.php#tab=summary|url-status=live}}</ref>
+|-
+! scope="row" | ''The Jungle Book''
+| rowspan="2" | $4 million
+| {{N/A}}
+| $141.8 million
+| $64.0 million
+| $205.8 million || <ref>{{cite web|title=The Jungle Book|url=https://www.boxofficemojo.com/movies/?id=junglebook.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=December 17, 2008|archive-url=https://web.archive.org/web/20081217164402/http://www.boxofficemojo.com/movies/?id=junglebook.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''The Aristocats''
+| {{N/A}}
+| $55.7 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite news|last=Scott|first=Vernon|url=https://www.newspapers.com/clip/42762710/the_logansport_press/|title=News from Hollywood|newspaper=[[Pharos-Tribune|The Logansport Press]]|page=6|via=[[Newspapers.com]]|date=February 17, 1971|access-date=July 15, 2020|archive-date=February 18, 2023|archive-url=https://web.archive.org/web/20230218002302/https://www.newspapers.com/clip/42762710/the-logansport-press/|url-status=live}} {{Open access}}</ref><ref>{{cite web|url=https://www.the-numbers.com/movies/1970/0ARIS.php|website=The Numbers|title=The Aristocats (1970)|access-date=December 28, 2015|archive-date=January 6, 2014|archive-url=https://web.archive.org/web/20140106031513/http://www.the-numbers.com/movies/1970/0ARIS.php|url-status=live}}</ref>
+|-
+! scope="row" | ''Robin Hood''
+| $5 million
+| {{N/A}}
+| $32.1 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite news|last=Uddy|first=John|title=Disney Coming Out with "Robin Hood"|newspaper=[[The Blade (Toledo, Ohio)|Toledo Blade]]|date=November 7, 1973|access-date=December 16, 2016|url=https://news.google.com/newspapers?nid=1350&dat=19731107&id=EClPAAAAIBAJ&sjid=EgIEAAAAIBAJ&pg=7067,2963977&hl=en|archive-date=December 12, 2019|archive-url=https://web.archive.org/web/20191212194352/https://news.google.com/newspapers?nid=1350&dat=19731107&id=EClPAAAAIBAJ&sjid=EgIEAAAAIBAJ&pg=7067,2963977&hl=en|url-status=live}}</ref><ref>{{cite web|url=https://www.the-numbers.com/movies/1973/00246.php|website=The Numbers|title=Robin Hood (1973)|access-date=December 28, 2015|archive-date=July 1, 2014|archive-url=https://web.archive.org/web/20140701003558/http://www.the-numbers.com/movies/1973/00246.php|url-status=live}}</ref>
+|-
+! scope="row" | ''The Many Adventures of Winnie the Pooh''
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| {{N/A}}
+| 
+|-
+! scope="row" | ''The Rescuers''
+| $7.5 million
+| {{N/A}}
+| $71.2 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=The Rescuers|url=https://www.boxofficemojo.com/movies/?id=rescuers.htm|website=[[Box Office Mojo]]|access-date=February 15, 2016|archive-date=March 30, 2019|archive-url=https://web.archive.org/web/20190330005757/https://www.boxofficemojo.com/movies/?id=rescuers.htm|url-status=live}}</ref><ref>{{cite news|title=Film Reviews: The Rescuers|work=[[Variety (magazine)|Variety]]|url=https://variety.com/1976/film/reviews/the-rescuers-2-1200423850/|date=June 15, 1977|access-date=December 16, 2016|archive-date=August 28, 2018|archive-url=https://web.archive.org/web/20180828023451/https://variety.com/1976/film/reviews/the-rescuers-2-1200423850/|url-status=live}}</ref>
+|-
+! scope="row" | ''The Fox and the Hound''
+| $12 million
+| {{N/A}}
+| $63.5 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=The Fox and the Hound|url=https://www.boxofficemojo.com/movies/?id=foxandthehound.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=August 16, 2019|archive-url=https://web.archive.org/web/20190816030744/https://www.boxofficemojo.com/movies/?id=foxandthehound.htm|url-status=live}}</ref><ref>{{cite web|title=The Fox and the Hound (1981)|url=https://www.imdb.com/title/tt0082406/business?ref_=tt_dt_bus|website=IMDb|access-date=December 28, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134524/http://www.imdb.com/title/tt0082406/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''The Black Cauldron''
+| $44 million
+| $4.2 million
+| $21.3 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=The Black Cauldron|url=https://www.boxofficemojo.com/movies/?id=blackcauldron.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 26, 2015|archive-url=https://web.archive.org/web/20150926145044/http://www.boxofficemojo.com/movies/?id=blackcauldron.htm|url-status=live}}</ref><ref>{{cite web|title=The Black Cauldron (1985)|url=https://www.imdb.com/title/tt0088814/business?ref_=tt_dt_bus|website=IMDb|access-date=December 28, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134523/http://www.imdb.com/title/tt0088814/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''The Great Mouse Detective''
+| $14 million
+| $3.2 million
+| $38.6 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=The Great Mouse Detective|url=https://www.boxofficemojo.com/movies/?id=greatmousedetective.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=March 29, 2019|archive-url=https://web.archive.org/web/20190329234111/https://www.boxofficemojo.com/movies/?id=greatmousedetective.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Oliver & Company''
+| $31 million
+| $4.0 million
+| $74.2 million
+| {{N/A}}
+| {{N/A}} || <ref>{{cite web|title=Oliver & Company|url=https://www.boxofficemojo.com/movies/?id=oliverandcompany.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=May 18, 2019|archive-url=https://web.archive.org/web/20190518231746/https://www.boxofficemojo.com/movies/?id=oliverandcompany.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''The Little Mermaid''
+| $40 million
+| $6.0 million
+| $111.5 million
+| $99.8 million
+| $211.3 million || <ref>{{cite web|title=The Little Mermaid|url=https://www.boxofficemojo.com/movies/?id=littlemermaid.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=May 12, 2019|archive-url=https://web.archive.org/web/20190512034026/https://www.boxofficemojo.com/movies/?id=littlemermaid.htm|url-status=live}}</ref><ref>{{cite web|title=The Little Mermaid (1989)|url=https://www.imdb.com/title/tt0097757/business?ref_=tt_dt_bus|website=IMDb|access-date=December 28, 2015|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203134522/http://www.imdb.com/title/tt0097757/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''The Rescuers Down Under''
+| {{N/A}}
+| $3.5 million
+| $27.9 million
+| $19.5 million
+| $47.4 million || <ref>{{cite web|title=The Rescuers Down Under|url=https://www.boxofficemojo.com/movies/?id=rescuersdownunder.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=June 10, 2019|archive-url=https://web.archive.org/web/20190610125940/https://www.boxofficemojo.com/movies/?id=rescuersdownunder.htm|url-status=live}}</ref><ref>{{cite web|title=The Rescuers Down Under (1990)|url=https://www.imdb.com/title/tt0100477/business?ref_=tt_dt_bus|website=IMDb|access-date=December 28, 2015|archive-date=December 23, 2016|archive-url=https://web.archive.org/web/20161223083905/http://www.imdb.com/title/tt0100477/business?ref_=tt_dt_bus|url-status=live}}</ref>
+|-
+! scope="row" | ''Beauty and the Beast''
+| $25 million
+| $9.6 million
+| $219.0 million
+| $206.0 million
+| $425.0 million || <ref>{{cite web|title=Beauty and the Beast|url=https://www.boxofficemojo.com/movies/?id=beautyandthebeast.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=May 1, 2012|archive-url=https://web.archive.org/web/20120501100541/http://boxofficemojo.com/movies/?id=beautyandthebeast.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Aladdin''
+| $28 million
+| $19.3 million
+| $217.4 million
+| $286.7 million
+| $504.1 million || <ref>{{cite web|title=Aladdin|url=https://www.boxofficemojo.com/movies/?id=aladdin.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=February 15, 2009|archive-url=https://web.archive.org/web/20090215092824/http://boxofficemojo.com/movies/?id=aladdin.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''The Lion King''
+| $45 million
+| $40.9 million
+| $422.8 million
+| $545.7 million
+| $968.5 million || <ref>{{cite web|title=The Lion King|url=https://www.boxofficemojo.com/movies/?id=lionking.htm|website=Box Office Mojo|access-date=May 27, 2016|archive-date=May 17, 2009|archive-url=https://web.archive.org/web/20090517125117/http://www.boxofficemojo.com/movies/?id=lionking.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Pocahontas''
+| $55 million
+| $29.5 million
+| $141.6 million
+| $204.5 million
+| $346.1 million || <ref>{{cite web|title=Pocahontas|url=https://www.boxofficemojo.com/movies/?id=pocahontas.htm|website=Box Office Mojo|access-date=December 28, 2015|archive-date=May 26, 2019|archive-url=https://web.archive.org/web/20190526151141/https://www.boxofficemojo.com/movies/?id=pocahontas.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''The Hunchback of Notre Dame''
+| $70 million
+| $21.0 million
+| $100.1 million
+| $225.2 million
+| $325.3 million || <ref>{{cite web|title=The Hunchback of Notre Dame|url=https://www.boxofficemojo.com/movies/?id=hunchbackofnotredame.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 5, 2014|archive-url=https://web.archive.org/web/20140905122250/http://www.boxofficemojo.com/movies/?id=hunchbackofnotredame.htm|url-status=live}}</ref><ref>{{cite news |last1=Bates |first1=James |last2=Apodaca |first2=Patrice |url=https://www.latimes.com/archives/la-xpm-1996-06-20-mn-16693-story.html |title=Stalking the King of Animation |work=Los Angeles Times |date=June 20, 1996 |access-date=July 15, 2021 |archive-date=June 24, 2021 |archive-url=https://web.archive.org/web/20210624204007/https://www.latimes.com/archives/la-xpm-1996-06-20-mn-16693-story.html |url-status=live}}</ref>
+|-
+! scope="row" | ''Hercules''
+| $85 million
+| $21.5 million
+| $99.1 million
+| $153.6 million
+| $252.7 million || <ref>{{cite web|title=Hercules|url=https://www.boxofficemojo.com/movies/?id=hercules.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=August 3, 2014|archive-url=https://web.archive.org/web/20140803143152/http://www.boxofficemojo.com/movies/?id=hercules.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Mulan''
+| $90 million
+| $22.7 million
+| $120.6 million
+| $183.7 million
+| $304.3 million || <ref>{{cite web|title=Mulan|url=https://www.boxofficemojo.com/movies/?id=mulan.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924144946/http://www.boxofficemojo.com/movies/?id=mulan.htm|url-status=live}}</ref><ref>{{cite web|url=https://www.the-numbers.com/movie/Mulan#tab=summary|publisher=The Numbers|title=Mulan (1998)|access-date=December 28, 2015|archive-date=August 3, 2020|archive-url=https://web.archive.org/web/20200803190312/https://www.the-numbers.com/movie/Mulan#tab=summary|url-status=live}}</ref>
+|-
+! scope="row" | ''Tarzan''
+| $130 million
+| $34.2 million
+| $171.1 million
+| $277.1 million
+| $448.2 million || <ref>{{cite web|title=Tarzan|url=https://www.boxofficemojo.com/movies/?id=tarzan.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 27, 2012|archive-url=https://web.archive.org/web/20120927020449/http://boxofficemojo.com/movies/?id=tarzan.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Fantasia 2000''
+| $80 million
+| $2.9 million
+| $60.7 million
+| $30.2 million
+| $90.9 million || <ref>{{cite web|title=Fantasia 2000 (35 mm & IMAX)|url=https://www.boxofficemojo.com/movies/?id=fantasia2000.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=June 6, 2019|archive-url=https://web.archive.org/web/20190606102755/https://www.boxofficemojo.com/movies/?id=fantasia2000.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Dinosaur''
+| $127.5 million
+| $38.9 million
+| $137.7 million
+| $212.1 million
+| $349.8 million || <ref>{{cite web|title=Dinosaur|url=https://www.boxofficemojo.com/movies/?id=dinosaur.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 6, 2014|archive-url=https://web.archive.org/web/20140906225419/http://www.boxofficemojo.com/movies/?id=dinosaur.htm|url-status=live}}</ref><ref>{{cite web|title=Dinosaur|url=https://www.rottentomatoes.com/m/1097046-dinosaur|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913115222/https://www.rottentomatoes.com/m/1097046-dinosaur|url-status=live}}</ref>
+|-
+! scope="row" | ''The Emperor's New Groove''
+| $100 million
+| $9.8 million
+| $89.3 million
+| $80.0 million
+| $169.3 million || <ref>{{cite web|title=The Emperor's New Groove|url=https://www.boxofficemojo.com/movies/?id=emperorsnewgroove.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=March 20, 2013|archive-url=https://web.archive.org/web/20130320212425/http://boxofficemojo.com/movies/?id=emperorsnewgroove.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Atlantis: The Lost Empire''
+| $90–120 million
+| $20.3 million
+| $84.1 million
+| $102.0 million
+| $186.1 million || <ref>{{cite web|title=Atlantis: The Lost Empire|url=https://www.boxofficemojo.com/movies/?id=atlantis.htm|website=[[Box Office Mojo]]|access-date=December 18, 2024|archive-date=July 5, 2014|archive-url=https://web.archive.org/web/20140705094300/http://boxofficemojo.com/movies/?id=atlantis.htm|url-status=live}}</ref><ref>{{cite web|url=https://www.the-numbers.com/movies/2001/ATLNS.php|work=The-Numbers|publisher=Nash Information Services|title=Atlantis: The Lost Empire|access-date=January 6, 2012|url-status=live|archive-url=https://web.archive.org/web/20131220140352/http://www.the-numbers.com/movies/2001/ATLNS.php|archive-date=December 20, 2013}}</ref><ref>{{cite news|title=Suddenly, High Stakes for Disney's Film and TV Businesses|first1=Rick|last1=Lyman|first2=Geraldine|last2=Fabrikant|url=https://www.nytimes.com/2001/05/21/business/21FILM.html?pagewanted=all|newspaper=[[The New York Times]]|date=May 21, 2001|access-date=December 18, 2024|quote=Besides, Disney executives maintain that they have made it easier for their animated features to break even by a cost-cutting campaign that made ''Atlantis'', which cost $100 million, about 35 percent cheaper to produce than the studio's other recent animated efforts.|archive-date=January 28, 2014|archive-url=https://web.archive.org/web/20140128231928/http://www.nytimes.com/2001/05/21/business/21FILM.html?pagewanted=all|url-status=live}}</ref>
+|-
+! scope="row" | ''Lilo & Stitch''
+| $80 million
+| $35.3 million
+| $145.8 million
+| $127.3 million
+| $273.1 million || <ref>{{cite web|title=Lilo & Stitch|url=https://www.boxofficemojo.com/movies/?id=lilostitch.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924143556/http://www.boxofficemojo.com/movies/?id=lilostitch.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Treasure Planet''
+| $140 million
+| $12.1 million
+| $38.2 million
+| $71.4 million
+| $109.6 million || <ref>{{cite web|title=Treasure Planet|url=https://www.boxofficemojo.com/movies/?id=treasureplanet.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924152507/http://www.boxofficemojo.com/movies/?id=treasureplanet.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Brother Bear''
+| $46 million
+| $19.4 million
+| $85.3 million
+| $175.1 million
+| $250.4 million || <ref>{{cite web|title=Brother Bear|url=https://www.boxofficemojo.com/movies/?id=brotherbear.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924063145/http://www.boxofficemojo.com/movies/?id=brotherbear.htm|url-status=live}}</ref><ref>{{cite web|title=Brother Bear |publisher=BoxOffice |url=http://pro.boxoffice.com/statistics/movies/brother-bear-2003 |access-date=December 28, 2015 |url-status=dead |archive-url=https://web.archive.org/web/20160113052026/http://pro.boxoffice.com/statistics/movies/brother-bear-2003 |archive-date=January 13, 2016 }}</ref>
+|-
+! scope="row" | ''Home on the Range''
+| $110 million
+| $13.9 million
+| $50.0 million
+| $95.5 million
+| $145.5 million || <ref>{{cite web|title=Home on the Range|url=https://www.boxofficemojo.com/movies/?id=homeontherange.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924140802/http://www.boxofficemojo.com/movies/?id=homeontherange.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Chicken Little''
+| rowspan="3" | $150 million
+| $40 million
+| $135.4 million
+| $179.0 million
+| $314.4 million || <ref>{{cite web|title=Chicken Little|url=https://www.boxofficemojo.com/movies/?id=chickenlittle.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=August 30, 2019|archive-url=https://web.archive.org/web/20190830151001/https://www.boxofficemojo.com/movies/?id=chickenlittle.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Meet the Robinsons''
+| $25.1 million
+| $97.8 million
+| $71.5 million
+| $169.3 million || <ref>{{cite web|title=Meet the Robinsons|url=https://www.boxofficemojo.com/movies/?id=meettherobinsons.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=June 11, 2019|archive-url=https://web.archive.org/web/20190611013437/https://www.boxofficemojo.com/movies/?id=meettherobinsons.htm|url-status=live}}</ref><ref>{{cite web|title=Meet the Robinsons|url=https://www.rottentomatoes.com/m/meet_the_robinsons|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913113016/https://www.rottentomatoes.com/m/meet_the_robinsons|url-status=live}}</ref>
+|-
+! scope="row" | ''Bolt''
+| $26.2 million
+| $114.1 million
+| $195.9 million
+| $310.0 million || <ref>{{cite web|title=Bolt|url=https://www.boxofficemojo.com/movies/?id=bolt.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=December 4, 2008|archive-url=https://web.archive.org/web/20081204070955/https://www.boxofficemojo.com/movies/?id=bolt.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''The Princess and the Frog''
+| $105 million
+| $0.79 million
+| $104.4 million
+| $162.6 million
+| $267.0 million || <ref>{{cite web|title=The Princess and the Frog|url=https://www.boxofficemojo.com/movies/?id=princessandthefrog.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=September 24, 2015|archive-url=https://web.archive.org/web/20150924150421/http://www.boxofficemojo.com/movies/?id=princessandthefrog.htm|url-status=live}}</ref><ref>{{cite web|title=The Princess and the Frog|url=https://www.rottentomatoes.com/m/1196003-princess_and_the_frog|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111222401/https://www.rottentomatoes.com/m/1196003-princess_and_the_frog|url-status=live}}</ref>
+|-
+! scope="row" | ''Tangled''
+| $260 million
+| $48.8 million
+| $200.8 million
+| $391.0 million
+| $591.8 million || <ref>{{cite web|title=Tangled|url=https://www.boxofficemojo.com/movies/?id=rapunzel.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=July 13, 2011|archive-url=https://web.archive.org/web/20110713203436/http://boxofficemojo.com/movies/?id=rapunzel.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Winnie the Pooh''
+| $30 million
+| $7.9 million
+| $26.7 million
+| $23.2 million
+| $49.9 million || <ref>{{cite web|title=Winnie the Pooh|url=https://www.boxofficemojo.com/movies/?id=winniethepooh.htm|website=[[Box Office Mojo]]|access-date=November 22, 2018|archive-date=October 23, 2019|archive-url=https://web.archive.org/web/20191023032733/https://www.boxofficemojo.com/movies/?id=winniethepooh.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Wreck-It Ralph''
+| $165 million
+| $49.0 million
+| $189.4 million
+| $281.8 million
+| $471.2 million || <ref>{{cite web|title=Wreck-It Ralph|url=https://www.boxofficemojo.com/movies/?id=rebootralph.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=December 9, 2012|archive-url=https://web.archive.org/web/20121209034748/http://www.boxofficemojo.com/movies/?id=rebootralph.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Frozen''
+| $150 million
+| $67.4 million
+| $400.7 million
+| $890.7 million
+| style="data-sort-value="$1290 million" | $1290 million || <ref group="note" name="frozen">''Frozen''
+* {{cite web |title=Frozen (2013) – International Box Office Results |work=[[Box Office Mojo]] |url=https://boxofficemojo.com/movies/?page=intl&id=frozen2013.htm |archive-url=https://web.archive.org/web/20140809232736/http://www.boxofficemojo.com/movies/?page=intl&id=frozen2013.htm |archive-date=August 9, 2014 |quote=Worldwide – $1,282,147,791 (total as of August 8, 2014; including Japanese gross up to August 3, Spain gross up to July 27 and omitting Nigerian gross) }}
+* {{cite web |title=Frozen (2013) – International Box Office Results: Japan |work=Box Office Mojo |url=https://boxofficemojo.com/movies/?page=intl&country=JP&id=frozen2013.htm |access-date=September 3, 2014 |archive-date=September 15, 2014 |archive-url=https://web.archive.org/web/20140915121752/http://www.boxofficemojo.com/movies/?page=intl&country=JP&id=frozen2013.htm |url-status=live }}
+:: Total as of August 3, 2014: $247,650,477
+:: Total as of August 31, 2014: $249,036,646
+* {{cite web |title=Frozen (2013) – International Box Office Results: Spain |work=Box Office Mojo |url=https://boxofficemojo.com/movies/?page=intl&country=ES&id=frozen2013.htm |access-date=November 6, 2014 |archive-date=October 19, 2014 |archive-url=https://web.archive.org/web/20141019235513/http://www.boxofficemojo.com/movies/?page=intl&country=ES&id=frozen2013.htm |url-status=live }}
+:: Total as of July 27, 2014: $21,668,593
+:: Total as of November 2, 2014: $22,492,845
+* {{cite web |title=Frozen (2013) – International Box Office Results: Nigeria |work=Box Office Mojo |url=https://boxofficemojo.com/movies/?page=intl&country=NG&id=frozen2013.htm |access-date=September 3, 2014 |archive-date=September 5, 2014 |archive-url=https://web.archive.org/web/20140905095356/http://boxofficemojo.com/movies/?page=intl&country=NG&id=frozen2013.htm |url-status=live }}
+:: Total as of August 17, 2014: $167,333
+* {{cite web |title=Frozen (2013) – International Box Office Results: United Kingdom |work=Box Office Mojo |url=https://boxofficemojo.com/movies/?page=intl&country=UK&id=frozen2013.htm |access-date=January 24, 2015 |archive-date=October 19, 2014 |archive-url=https://web.archive.org/web/20141019235442/http://www.boxofficemojo.com/movies/?page=intl&country=UK&id=frozen2013.htm |url-status=live }}
+:: Total as of June 8, 2014: £39,090,985
+:: Total as of November 30, 2014: £40,960,083 ($1 = £0.63866)
+:: Total as of December 7, 2014: £41,087,765 ($1 = £0.64136)
+:: Total as of December 14, 2014: £41,170,608 ($1 = £0.636)
+:: Total as of November 26, 2017: £42,840,559 ($1 = £0.7497)
+:: Total as of December 3, 2017: £42,976,318 ($1 = £0.742)
+* {{cite web |title=Frozen (2013) – International Box Office Results: Germany |work=Box Office Mojo |url=https://www.boxofficemojo.com/movies/?page=intl&country=DE&id=frozen2013.htm |access-date=March 30, 2016 |archive-date=March 22, 2016 |archive-url=https://web.archive.org/web/20160322011348/http://www.boxofficemojo.com/movies/?page=intl&country=DE&id=frozen2013.htm |url-status=live }}
+:: Total as of March 30, 2014: €35,098,170
+:: Total as of October 18, 2015: €42,526,744
+::: nb. the exact euro to dollar conversion rate is unknown for earnings since April 2014, but the euro never fell below parity with the dollar during 2014 and 2015 (as can be verified by comparing the exchange rate on the individual date entries at the provided reference) so an approximate conversion rate of €1:$1 is used here to give a lower-bound.</ref>
+|-
+! scope="row" | ''Big Hero 6''
+| $165 million
+| $56.2 million
+| $222.5 million
+| $435.3 million
+| $657.8 million || <ref>{{cite web|title=Big Hero 6|url=https://www.boxofficemojo.com/movies/?id=disney2014.htm|website=[[Box Office Mojo]]|access-date=December 28, 2015|archive-date=February 18, 2016|archive-url=https://web.archive.org/web/20160218204558/http://www.boxofficemojo.com/movies/?id=disney2014.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Zootopia''
+| $150 million
+| $75.1 million
+| $341.3 million
+| $682.5 million
+| $1024 million || <ref>{{cite web|title=Zootopia|url=https://www.boxofficemojo.com/movies/?id=disney2016.htm|website=[[Box Office Mojo]]|access-date=November 14, 2016|archive-date=May 28, 2017|archive-url=https://web.archive.org/web/20170528042942/http://www.boxofficemojo.com/movies/?id=disney2016.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Moana''
+| $150–175 million
+| $56.6 million
+| $248.8 million
+| $394.6 million
+| $643.3 million || <ref>{{cite web|title=Moana|url=https://www.boxofficemojo.com/movies/?id=disney1116.htm|website=[[Box Office Mojo]]|access-date=October 2, 2017|archive-date=November 19, 2016|archive-url=https://web.archive.org/web/20161119032502/http://www.boxofficemojo.com/movies/?id=disney1116.htm|url-status=live}}</ref><ref>{{Cite news|url=https://variety.com/2018/film/box-office/box-office-wreck-it-ralph-creed-2-robin-hood-1203017249/|title=Thanksgiving Box Office: 'Ralph Breaks the Internet' Battles 'Creed II,' 'Robin Hood'|last=Rubin|first=Rebecca|date=November 1, 2018|work=[[Variety (magazine)|Variety]]|access-date=December 18, 2024|archive-date=November 3, 2018|archive-url=https://web.archive.org/web/20181103092029/https://variety.com/2018/film/box-office/box-office-wreck-it-ralph-creed-2-robin-hood-1203017249/|url-status=live}}</ref>
+|-
+! scope="row" | ''Ralph Breaks the Internet''
+| $175 million
+| $56.2 million
+| $201.1 million
+| $328.2 million
+| $529.3 million || <ref>{{cite web|title=Ralph Breaks the Internet|url=https://www.boxofficemojo.com/movies/?id=wreckitralph2.htm|website=[[Box Office Mojo]]|access-date=July 1, 2019|archive-date=November 5, 2018|archive-url=https://web.archive.org/web/20181105012132/https://www.boxofficemojo.com/movies/?id=wreckitralph2.htm|url-status=live}}</ref>
+|-
+! scope="row" | ''Frozen 2''
+| $150 million
+| $130.3 million
+| $477.4 million
+| $972.7 million
+| $1450 million || <ref>{{cite web|url=https://www.boxofficemojo.com/release/rl2424210945/?ref_=bo_hm_hp|title=Frozen II|website=[[Box Office Mojo]]|access-date=March 15, 2020|archive-date=December 17, 2019|archive-url=https://web.archive.org/web/20191217213047/https://www.boxofficemojo.com/release/rl2424210945/?ref_=bo_hm_hp|url-status=live}}</ref>
+|-
+! scope="row" | ''Raya and the Last Dragon''
+| $100+ million
+| $8.5 million
+| $54.7 million
+| $75.7 million
+| $130.4 million || <ref>{{cite web|url=https://www.boxofficemojo.com/release/rl3781723649/?ref_=bo_hm_hp|title=Raya and the Last Dragon|website=[[Box Office Mojo]]|access-date=March 15, 2020|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214022835/https://www.boxofficemojo.com/release/rl3781723649/?ref_=bo_hm_hp|url-status=live}}</ref>
+|-
+! scope="row" | ''Encanto''
+| $120–150 million
+| $27.2 million
+| $96.1 million
+| $165.2 million
+| $261.3 million || <ref>{{cite web|url=https://www.boxofficemojo.com/title/tt2953050/|title=Encanto|website=[[Box Office Mojo]]|access-date=November 29, 2021|archive-date=November 29, 2021|archive-url=https://web.archive.org/web/20211129081024/https://www.boxofficemojo.com/title/tt2953050/|url-status=live}}</ref>
+|-
+! scope="row" | ''Strange World''
+| $135–180 million
+| $12.2 million
+| $38.0 million
+| $35.7 million
+| $73.6 million || <ref>{{cite web|url=https://www.boxofficemojo.com/release/rl3422914049/|title=Strange World|website=[[Box Office Mojo]]|access-date=November 27, 2022|archive-date=November 27, 2022|archive-url=https://web.archive.org/web/20221127205457/https://www.boxofficemojo.com/release/rl3422914049/|url-status=live}}</ref>
+|-
+! scope="row" | ''Wish''
+| $175–200 million
+| $19.7 million
+| $64.0 million
+| $191.0 million
+| $255.0 million || <ref>{{cite web|url=https://www.boxofficemojo.com/release/rl3097657857/|title=Wish|website=[[Box Office Mojo]]|access-date=November 26, 2023|archive-date=November 24, 2023|archive-url=https://web.archive.org/web/20231124011714/https://www.boxofficemojo.com/release/rl3097657857/|url-status=live}}</ref>
+|-
+! scope="row" | ''Moana 2''
+| rowspan="2" | $150 million
+| $139.8 million
+| $460.4 million
+| $598.8 million
+| $1059 million || <ref>{{Cite web |title= Moana 2 |url= https://www.boxofficemojo.com/title/tt13622970/?ref_=bo_rl_ti |website= [[Box Office Mojo]] |access-date=December 22, 2024}}</ref>
+|-
+! scope="row" | ''Zootopia 2''
+| $100.3 million
+| $425.8 million
+| $1433.4 million
+| $1859.2 million || <ref>{{Cite web |title= Zootopia 2 |url= https://www.boxofficemojo.com/release/rl2303754241/?ref_=bo_rl_ti |website= [[Box Office Mojo]] |access-date=December 1, 2025}}</ref>
+|}
+
+=== Critical response ===
+{| class="wikitable plainrowheaders sortable sticky-header" style="text-align: center;"
+|-
+! scope="col" rowspan="2" | Film
+! scope="col" colspan="2" | Critical
+! scope="col" | Public
+|-
+! scope="col" | [[Rotten Tomatoes]]
+! scope="col" | [[Metacritic]]
+! scope="col" | [[CinemaScore]]
+|-
+! scope="row" | ''Snow White and the Seven Dwarfs''
+| 97%<ref>{{cite web|title=Snow White and the Seven Dwarfs|url=https://www.rottentomatoes.com/m/snow_white_and_the_seven_dwarfs|website=[[Rotten Tomatoes]]|access-date=June 18, 2023|archive-date=June 8, 2023|archive-url=https://web.archive.org/web/20230608223458/https://www.rottentomatoes.com/m/snow_white_and_the_seven_dwarfs|url-status=live}}</ref>
+| 96<ref>{{cite web|url=https://www.metacritic.com/movie/snow-white-and-the-seven-dwarfs|title=Snow White and the Seven Dwarfs|website=[[Metacritic]]|access-date=August 12, 2024|archive-date=November 6, 2021|archive-url=https://web.archive.org/web/20211106112450/https://www.metacritic.com/movie/snow-white-and-the-seven-dwarfs|url-status=live}}</ref>
+| rowspan="29" {{N/A}}
+|-
+! scope="row" | ''Pinocchio''
+| [[List of films with a 100% rating on Rotten Tomatoes|100%]]<ref>{{cite web|title=Pinocchio|url=https://www.rottentomatoes.com/m/pinocchio_1940|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=May 16, 2022|archive-url=https://web.archive.org/web/20220516201637/https://www.rottentomatoes.com/m/pinocchio_1940|url-status=live}}</ref>
+| 99<ref>{{cite web|url=https://www.metacritic.com/movie/pinocchio-1940|title=Pinocchio|website=Metacritic|access-date=January 30, 2019|archive-date=June 19, 2022|archive-url=https://web.archive.org/web/20220619205929/https://www.metacritic.com/movie/pinocchio-1940|url-status=live}}</ref>
+|-
+! scope="row" | ''Fantasia''
+| 95%<ref>{{cite web|title=Fantasia|url=https://www.rottentomatoes.com/m/fantasia|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=August 6, 2021|archive-url=https://web.archive.org/web/20210806084354/https://www.rottentomatoes.com/m/fantasia|url-status=live}}</ref>
+| 96<ref>{{cite web|url=https://www.metacritic.com/movie/fantasia|title=Fantasia|website=Metacritic|access-date=January 30, 2019|archive-date=October 18, 2021|archive-url=https://web.archive.org/web/20211018062830/https://www.metacritic.com/movie/fantasia|url-status=live}}</ref>
+|-
+! scope="row" | ''Dumbo''
+| 95%<ref>{{cite web|title=Dumbo|url=https://www.rottentomatoes.com/m/dumbo|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=March 7, 2021|archive-url=https://web.archive.org/web/20210307053439/https://www.rottentomatoes.com/m/dumbo|url-status=live}}</ref>
+| 96<ref>{{cite web|url=https://www.metacritic.com/movie/dumbo-1941|title=Dumbo|website=Metacritic|access-date=August 12, 2024|archive-date=May 22, 2019|archive-url=https://web.archive.org/web/20190522120222/https://www.metacritic.com/movie/dumbo-1941|url-status=live}}</ref>
+|-
+! scope="row" | ''Bambi''
+| 91%<ref>{{cite web|title=Bambi|url=https://www.rottentomatoes.com/m/bambi|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913150507/https://www.rottentomatoes.com/m/bambi|url-status=live}}</ref>
+| 91<ref>{{cite web|url=https://www.metacritic.com/movie/bambi|title=Bambi|website=Metacritic|access-date=January 30, 2019|archive-date=October 13, 2021|archive-url=https://web.archive.org/web/20211013232541/https://www.metacritic.com/movie/bambi|url-status=live}}</ref>
+|-
+! scope="row" | ''Saludos Amigos''
+| 82%<ref>{{cite web|title=Saludos Amigos|url=https://www.rottentomatoes.com/m/saludos_amigos|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=September 18, 2021|archive-url=https://web.archive.org/web/20210918204153/https://www.rottentomatoes.com/m/saludos_amigos|url-status=live}}</ref>
+| 60<ref>{{cite web|url=https://www.metacritic.com/movie/saludos-amigos|title=Saludos Amigos|website=Metacritic|access-date=August 12, 2024|archive-date=November 30, 2021|archive-url=https://web.archive.org/web/20211130040331/https://www.metacritic.com/movie/saludos-amigos|url-status=live}}</ref>
+|-
+! scope="row" | ''The Three Caballeros''
+| 85%<ref>{{cite web|title=The Three Caballeros|url=https://www.rottentomatoes.com/m/the-three-caballeros|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=March 8, 2021|archive-url=https://web.archive.org/web/20210308202150/https://www.rottentomatoes.com/m/the-three-caballeros|url-status=live}}</ref>
+| 85<ref>{{cite web|url=https://www.metacritic.com/movie/the-three-caballeros|title=The Three Caballeros|website=Metacritic|access-date=January 30, 2019|archive-date=November 14, 2021|archive-url=https://web.archive.org/web/20211114101515/https://www.metacritic.com/movie/the-three-caballeros|url-status=live}}</ref>
+|-
+! scope="row" | ''Make Mine Music''
+| 58%<ref>{{cite web|title=Make Mine Music|url=https://www.rottentomatoes.com/m/make_mine_music|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=August 22, 2021|archive-url=https://web.archive.org/web/20210822144748/https://www.rottentomatoes.com/m/make_mine_music|url-status=live}}</ref>
+| 60<ref>{{cite web|url=https://www.metacritic.com/movie/make-mine-music|title=Make Mine Music|website=Metacritic|access-date=January 30, 2019|archive-date=August 22, 2021|archive-url=https://web.archive.org/web/20210822151926/https://www.metacritic.com/movie/make-mine-music|url-status=live}}</ref>
+|-
+! scope="row" | ''Fun and Fancy Free''
+| 73%<ref>{{cite web|title=Fun and Fancy Free|url=https://www.rottentomatoes.com/m/fun_and_fancy_free|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=November 22, 2023|archive-url=https://web.archive.org/web/20231122143250/https://www.rottentomatoes.com/m/fun_and_fancy_free|url-status=live}}</ref>
+| 66<ref>{{cite Metacritic |id=fun-fancy-free |type=m |access-date= April 15, 2022 |title=Fun & Fancy Free }}</ref>
+|-
+! scope="row" | ''Melody Time''
+| 69%<ref>{{cite web|title=Melody Time|url=https://www.rottentomatoes.com/m/melody_time|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=August 22, 2021|archive-url=https://web.archive.org/web/20210822151645/https://www.rottentomatoes.com/m/melody_time|url-status=live}}</ref>
+| 69<ref>{{cite web|url=https://www.metacritic.com/movie/melody-time|title=Melody Time|website=Metacritic|access-date=January 30, 2019|archive-date=August 22, 2021|archive-url=https://web.archive.org/web/20210822160256/https://www.metacritic.com/movie/melody-time|url-status=live}}</ref>
+|-
+! scope="row" | ''The Adventures of Ichabod and Mr. Toad''
+| 89%<ref>{{cite web|title=The Adventures of Ichabod and Mr. Toad|url=https://www.rottentomatoes.com/m/adventures_of_ichabod_and_mr_toad|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=August 6, 2021|archive-url=https://web.archive.org/web/20210806085610/https://www.rottentomatoes.com/m/adventures_of_ichabod_and_mr_toad|url-status=live}}</ref>
+| 74<ref>{{cite web|url=https://www.metacritic.com/movie/the-adventures-of-ichabod-and-mr-toad|title=The Adventures of Ichabod and Mr. Toad|website=Metacritic|access-date=January 30, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214022832/https://www.metacritic.com/movie/the-adventures-of-ichabod-and-mr-toad|url-status=live}}</ref>
+|-
+! scope="row" | ''Cinderella''
+| 95%<ref>{{cite web|title=Cinderella|url=https://www.rottentomatoes.com/m4186-cinderella|website=Rotten Tomatoes|access-date=September 27, 2016}}</ref>
+| 85<ref>{{cite web|url=https://www.metacritic.com/movie/cinderella-1950|title=Cinderella|website=Metacritic|access-date=January 30, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024337/https://www.metacritic.com/movie/cinderella-1950|url-status=live}}</ref>
+|-
+! scope="row" | ''Alice in Wonderland''
+| 82%<ref>{{cite web|title=Alice in Wonderland|url=https://www.rottentomatoes.com/m/1029112-alice_in_wonderland|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913140119/https://www.rottentomatoes.com/m/1029112-alice_in_wonderland|url-status=live}}</ref>
+| 68<ref>{{cite web|url=https://www.metacritic.com/movie/alice-in-wonderland-1951|title=Alice in Wonderland|website=Metacritic|access-date=January 30, 2019|archive-date=November 28, 2021|archive-url=https://web.archive.org/web/20211128125150/https://www.metacritic.com/movie/alice-in-wonderland-1951|url-status=live}}</ref>
+|-
+! scope="row" | ''Peter Pan''
+| 79%<ref>{{cite web|title=Peter Pan|url=https://www.rottentomatoes.com/m/1016213-peter_pan|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913120031/https://www.rottentomatoes.com/m/1016213-peter_pan|url-status=live}}</ref>
+| 76<ref>{{cite web|url=https://www.metacritic.com/movie/peter-pan-1953|title=Peter Pan|website=Metacritic|access-date=January 30, 2019|archive-date=November 28, 2021|archive-url=https://web.archive.org/web/20211128125147/https://www.metacritic.com/movie/peter-pan-1953|url-status=live}}</ref>
+|-
+! scope="row" | ''Lady and the Tramp''
+| 91%<ref>{{cite web|title=Lady and the Tramp|url=https://www.rottentomatoes.com/m/lady_and_the_tramp|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913111207/https://www.rottentomatoes.com/m/lady_and_the_tramp|url-status=live}}</ref>
+| 78<ref>{{cite web|url=https://www.metacritic.com/movie/lady-and-the-tramp|title=Lady and the Tramp|website=Metacritic|access-date=January 30, 2019|archive-date=November 5, 2021|archive-url=https://web.archive.org/web/20211105001824/https://www.metacritic.com/movie/lady-and-the-tramp|url-status=live}}</ref>
+|-
+! scope="row" | ''Sleeping Beauty''
+| 90%<ref>{{cite web|title=Sleeping Beauty|url=https://www.rottentomatoes.com/m/1019187-sleeping_beauty|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 24, 2021|archive-url=https://web.archive.org/web/20210924174316/https://www.rottentomatoes.com/m/1019187-sleeping_beauty|url-status=live}}</ref>
+| 85<ref>{{cite web|title=Sleeping Beauty|url=https://www.metacritic.com/movie/sleeping-beauty-1959/|website=Metacritic|access-date=January 30, 2019|archive-date=August 17, 2021|archive-url=https://web.archive.org/web/20210817214016/https://www.metacritic.com/movie/sleeping-beauty-1959/|url-status=live}}</ref>
+|-
+! scope="row" | ''One Hundred and One Dalmatians''
+| 98%<ref>{{cite web|title=101 Dalmatians|url=https://www.rottentomatoes.com/m/101_dalmatians|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913140121/https://www.rottentomatoes.com/m/101_dalmatians|url-status=live}}</ref>
+| 83<ref>{{cite Metacritic |id=101-dalmatians-1961 |type=m |access-date= April 15, 2022 |title=101 Dalmatians }}</ref>
+|-
+! scope="row" | ''The Sword in the Stone''
+| 65%<ref>{{cite web|title=The Sword in the Stone|url=https://www.rottentomatoes.com/m/sword_in_the_stone|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913131557/https://www.rottentomatoes.com/m/sword_in_the_stone|url-status=live}}</ref>
+| 61<ref>{{cite web|url=https://www.metacritic.com/movie/the-sword-in-the-stone|title=The Sword in the Stone|website=Metacritic|access-date=January 15, 2019|archive-date=September 14, 2021|archive-url=https://web.archive.org/web/20210914090006/https://www.metacritic.com/movie/the-sword-in-the-stone|url-status=live}}</ref>
+|-
+! scope="row" | ''The Jungle Book''
+| 88%<ref>{{cite web|title=The Jungle Book|url=https://www.rottentomatoes.com/m/1031385-jungle_book|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=December 4, 2017|archive-url=https://web.archive.org/web/20171204155403/https://www.rottentomatoes.com/m/1031385_jungle_book|url-status=live}}</ref>
+| 65<ref>{{cite web|url=https://www.metacritic.com/movie/the-jungle-book|title=The Jungle Book|website=Metacritic|access-date=January 15, 2019|archive-date=September 14, 2021|archive-url=https://web.archive.org/web/20210914094517/https://www.metacritic.com/movie/the-jungle-book|url-status=live}}</ref>
+|-
+! scope="row" | ''The Aristocats''
+| 64%<ref>{{cite web|title=The Aristocats|url=https://www.rottentomatoes.com/m/aristocats|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 24, 2021|archive-url=https://web.archive.org/web/20210924174429/https://www.rottentomatoes.com/m/aristocats|url-status=live}}</ref>
+| 66<ref>{{cite web|url=https://www.metacritic.com/movie/the-aristocats|title=The Aristocats|website=Metacritic|access-date=January 15, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214022831/https://www.metacritic.com/movie/the-aristocats|url-status=live}}</ref>
+|-
+! scope="row" | ''Robin Hood''
+| 56%<ref>{{cite web|title=Robin Hood|url=https://www.rottentomatoes.com/m/1017699-robin_hood|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913114526/https://www.rottentomatoes.com/m/1017699-robin_hood|url-status=live}}</ref>
+| 57<ref>{{cite web|url=https://www.metacritic.com/movie/robin-hood-1973|title=Robin Hood|website=Metacritic|access-date=January 30, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024343/https://www.metacritic.com/movie/robin-hood-1973|url-status=live}}</ref>
+|-
+! scope="row" | ''The Many Adventures of Winnie the Pooh''
+| 100%<ref>{{cite web|title=The Many Adventures of Winnie the Pooh|url=https://www.rottentomatoes.com/m/many_adventures_of_winnie_the_pooh|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 3, 2021|archive-url=https://web.archive.org/web/20210903170040/https://www.rottentomatoes.com/m/many_adventures_of_winnie_the_pooh|url-status=live}}</ref>|| {{N/A}}
+|-
+! scope="row" | ''The Rescuers''
+| 79%<ref>{{cite web|title=The Rescuers|url=https://www.rottentomatoes.com/m/rescuers|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=June 16, 2021|archive-url=https://web.archive.org/web/20210616214436/https://www.rottentomatoes.com/m/rescuers|url-status=live}}</ref>
+| 74<ref>{{cite web|url=https://www.metacritic.com/movie/the-rescuers|title=The Rescuers|website=Metacritic|access-date=January 30, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024344/https://www.metacritic.com/movie/the-rescuers|url-status=live}}</ref>
+|-
+! scope="row" | ''The Fox and the Hound''
+| 75%<ref>{{cite web|title=The Fox and the Hound|url=https://www.rottentomatoes.com/m/fox_and_the_hound|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=July 19, 2021|archive-url=https://web.archive.org/web/20210719042659/https://www.rottentomatoes.com/m/fox_and_the_hound|url-status=live}}</ref>
+| 65<ref>{{cite web|url=https://www.metacritic.com/movie/the-fox-and-the-hound|title=The Fox and the Hound|website=Metacritic|access-date=January 30, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024346/https://www.metacritic.com/movie/the-fox-and-the-hound|url-status=live}}</ref>
+|-
+! scope="row" | ''The Black Cauldron''
+| 57%<ref>{{cite web|title=The Black Cauldron|url=https://www.rottentomatoes.com/m/black_cauldron|website=Rotten Tomatoes|access-date=December 21, 2023|archive-date=December 4, 2023|archive-url=https://web.archive.org/web/20231204193851/https://www.rottentomatoes.com/m/black_cauldron|url-status=live}}</ref>
+| 59<ref>{{cite web|url=https://www.metacritic.com/movie/the-black-cauldron|title=The Black Cauldron|website=Metacritic|access-date=January 30, 2019|archive-date=July 13, 2022|archive-url=https://web.archive.org/web/20220713014220/https://www.metacritic.com/movie/the-black-cauldron|url-status=live}}</ref>
+|-
+! scope="row" | ''The Great Mouse Detective''
+| 79%<ref>{{cite web|title=The Great Mouse Detective|url=https://www.rottentomatoes.com/m/the-great-mouse-detective|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913133112/https://www.rottentomatoes.com/m/the-great-mouse-detective|url-status=live}}</ref>
+| 73<ref>{{cite web|url=https://www.metacritic.com/movie/the-great-mouse-detective|title=The Great Mouse Detective|website=Metacritic|access-date=January 30, 2019|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024346/https://www.metacritic.com/movie/the-great-mouse-detective|url-status=live}}</ref>
+|-
+! scope="row" | ''Oliver & Company''
+| 52%<ref>{{cite web|title=Oliver & Company|url=https://www.rottentomatoes.com/m/oliver_and_company|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913121440/https://www.rottentomatoes.com/m/oliver_and_company|url-status=live}}</ref>
+| 58<ref>[https://www.metacritic.com/movie/oliver-and-company]{{dead link|date=February 2022}}</ref><ref>{{Cite web |title=Oliver & Company |url=https://www.metacritic.com/movie/oliver-company/ |url-status= |archive-url= |archive-date= |access-date=March 21, 2026 |website=[[metacritic]] |publisher=[[Fandom, Inc.|FANDOM, INC.]]}}</ref>
+|-
+! scope="row" | ''The Little Mermaid''
+| 92%<ref>{{cite web|title=The Little Mermaid|url=https://www.rottentomatoes.com/m/the_little_mermaid_1989|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=March 5, 2021|archive-url=https://web.archive.org/web/20210305060643/https://www.rottentomatoes.com/m/the_little_mermaid_1989|url-status=live}}</ref>
+| 88<ref>{{cite web|url=https://www.metacritic.com/movie/the-little-mermaid|title=The Little Mermaid|website=Metacritic|access-date=January 15, 2019|archive-date=June 12, 2021|archive-url=https://web.archive.org/web/20210612003426/https://www.metacritic.com/movie/the-little-mermaid|url-status=live}}</ref>
+|-
+! scope="row" | ''The Rescuers Down Under''
+| 85%<ref>{{cite web|title=The Rescuers Down Under|url=https://www.rottentomatoes.com/m/rescuers_down_under|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627064954/https://www.rottentomatoes.com/m/rescuers_down_under|url-status=live}}</ref>
+| 68<ref>{{cite web|url=https://www.metacritic.com/movie/the-rescuers-down-under|title=The Rescuers Down Under|website=Metacritic|access-date=August 12, 2024|archive-date=July 21, 2020|archive-url=https://web.archive.org/web/20200721123612/https://www.metacritic.com/movie/the-rescuers-down-under|url-status=live}}</ref>
+|-
+! scope="row" | ''Beauty and the Beast''
+| 95%<ref>{{cite web|title=Beauty and the Beast|url=https://www.rottentomatoes.com/m/beauty_and_the_beast_1991|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=May 24, 2022|archive-url=https://web.archive.org/web/20220524072638/https://www.rottentomatoes.com/m/beauty_and_the_beast_1991|url-status=live}}</ref>
+| 95<ref>{{cite web|title=Beauty and the Beast|url=https://www.metacritic.com/movie/beauty-and-the-beast-1991|website=Metacritic|access-date=March 1, 2017|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111203647/https://www.metacritic.com/movie/beauty-and-the-beast-1991|url-status=live}}</ref>
+| {{sort grade|A+}}<ref name="CinemaScore">{{Cite web |last=Manfredi |first=Lucas |date=November 24, 2022 |title=''Strange World'' CinemaScore Might Be the Lowest Ever For a Walt Disney Animation Studio Film |url=https://www.thewrap.com/strange-world-cinemascore-disney-animation-film/ |url-status=live |archive-url=https://web.archive.org/web/20221125002321/https://www.thewrap.com/strange-world-cinemascore-disney-animation-film/ |archive-date=November 25, 2022 |access-date=January 16, 2023 |website=[[TheWrap]]}}</ref>
+|-
+! scope="row" | ''Aladdin''
+| 96%<ref>{{cite web|title=Aladdin|url=https://www.rottentomatoes.com/m/1042582-aladdin|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=December 24, 2016|archive-url=https://web.archive.org/web/20161224184742/https://www.rottentomatoes.com/m/1042582-aladdin|url-status=live}}</ref>
+| 86<ref>{{cite web|title=Aladdin|url=https://www.metacritic.com/movie/aladdin/|website=Metacritic|archive-date=February 6, 2025|archive-url=https://web.archive.org/web/20250206174031/https://www.metacritic.com/movie/aladdin/|url-status=live}}</ref>
+| {{sort grade|A+}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''The Lion King''
+| 92%<ref>{{cite web|title=The Lion King|url=https://www.rottentomatoes.com/m/the_lion_king|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=April 5, 2019|archive-url=https://web.archive.org/web/20190405091352/https://www.rottentomatoes.com/m/the_lion_king|url-status=live}}</ref>
+| 88<ref>{{cite web|title=The Lion King|url=https://www.metacritic.com/movie/the-lion-king|website=Metacritic|access-date=February 15, 2016|archive-date=September 14, 2010|archive-url=https://web.archive.org/web/20100914212531/http://www.metacritic.com/movie/the-lion-king|url-status=live}}</ref>
+| {{sort grade|A+}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Pocahontas''
+| 58%<ref>{{cite web|title=Pocahontas|url=https://www.rottentomatoes.com/m/1063452-pocahontas|website=Rotten Tomatoes|access-date=August 12, 2024|archive-date=November 14, 2016|archive-url=https://web.archive.org/web/20161114172552/https://www.rottentomatoes.com/m/1063452-pocahontas/|url-status=live}}</ref>
+| 59<ref>{{cite web|title=Pocahontas|url=https://www.metacritic.com/movie/pocahontas|website=Metacritic|access-date=August 12, 2024|archive-date=November 5, 2021|archive-url=https://web.archive.org/web/20211105103015/https://www.metacritic.com/movie/pocahontas|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''The Hunchback of Notre Dame''
+| 80%<ref>{{cite web|title=The Hunchback of Notre Dame|url=https://www.rottentomatoes.com/m/1073037-hunchback_of_notre_dame|website=Rotten Tomatoes|access-date= August 12, 2024|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913133448/https://www.rottentomatoes.com/m/1073037-hunchback_of_notre_dame|url-status=live}}</ref>
+| 74<ref>{{cite web|url=https://www.metacritic.com/movie/the-hunchback-of-notre-dame|title=The Hunchback of Notre Dame|website=Metacritic|access-date=January 15, 2019|archive-date=April 10, 2019|archive-url=https://web.archive.org/web/20190410130532/https://www.metacritic.com/movie/the-hunchback-of-notre-dame|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Hercules''
+| 83%<ref>{{cite web|title=Hercules|url=https://www.rottentomatoes.com/m/1078028-hercules|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=January 20, 2021|archive-url=https://web.archive.org/web/20210120121943/https://www.rottentomatoes.com/m/1078028-hercules|url-status=live}}</ref>
+| 74<ref>{{cite web|title=Hercules|url=https://www.metacritic.com/movie/hercules-1997|website=Metacritic|access-date=February 5, 2018|archive-date=November 22, 2018|archive-url=https://web.archive.org/web/20181122235944/https://www.metacritic.com/movie/hercules-1997|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Mulan''
+| 92%<ref>{{cite web|title=Mulan|url=https://www.rottentomatoes.com/m/mulan|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=March 30, 2021|archive-url=https://web.archive.org/web/20210330035149/https://www.rottentomatoes.com/m/mulan|url-status=live}}</ref>
+| 72<ref>{{cite web|title=Mulan|url=https://www.metacritic.com/movie/mulan|website=Metacritic|access-date= August 12, 2024|archive-date=November 4, 2021|archive-url=https://web.archive.org/web/20211104214915/https://www.metacritic.com/movie/mulan|url-status=live}}</ref>
+| {{sort grade|A+}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Tarzan''
+| 90%<ref>{{cite web|title=Tarzan|url=https://www.rottentomatoes.com/m/tarzan|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=June 27, 2022|archive-url=https://web.archive.org/web/20220627083025/https://www.rottentomatoes.com/m/tarzan|url-status=live}}</ref>
+| 80<ref>{{cite web|title=Tarzan|url=https://www.metacritic.com/movie/tarzan|website=Metacritic|access-date= August 12, 2024|archive-date=October 11, 2021|archive-url=https://web.archive.org/web/20211011124603/https://www.metacritic.com/movie/tarzan|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Fantasia 2000''
+| 80%<ref>{{cite web|title=Fantasia 2000|url=https://www.rottentomatoes.com/m/fantasia_2000|website=Rotten Tomatoes|access-date= August 12, 2024|archive-date=April 11, 2019|archive-url=https://web.archive.org/web/20190411023854/https://www.rottentomatoes.com/m/fantasia_2000|url-status=live}}</ref>
+| 59<ref>{{cite web|title=Fantasia 2000|url=https://www.metacritic.com/movie/fantasia2000|website=Metacritic|access-date=February 15, 2016|archive-date=October 4, 2016|archive-url=https://web.archive.org/web/20161004010624/http://www.metacritic.com/movie/fantasia2000|url-status=live}}</ref>
+| {{N/A}}
+|-
+! scope="row" | ''Dinosaur''
+| 65%<ref>{{cite web |url=https://www.rottentomatoes.com/m/1097046-dinosaur/ |title=Dinosaur (2000) |work=[[Rotten Tomatoes]] |access-date=June 18, 2023 |archive-date=December 5, 2011 |archive-url=https://web.archive.org/web/20111205202621/http://www.rottentomatoes.com/m/1097046-dinosaur/ |url-status=live }}</ref>
+| 56<ref>{{cite web|title=Dinosaur|url=https://www.metacritic.com/movie/dinosaur|website=Metacritic|access-date=February 15, 2016|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024352/https://www.metacritic.com/movie/dinosaur|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''The Emperor's New Groove''
+| 86%<ref>{{cite web|title=The Emperor's New Groove|url=https://www.rottentomatoes.com/m/emperors_new_groove|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=December 27, 2019|archive-url=https://web.archive.org/web/20191227210946/https://rottentomatoes.com/m/emperors_new_groove|url-status=live}}</ref>
+| 70<ref>{{cite web|title=The Emperor's New Groove|url=https://www.metacritic.com/movie/the-emperors-new-groove|website=Metacritic|access-date=February 15, 2016|archive-date=September 15, 2021|archive-url=https://web.archive.org/web/20210915230031/https://www.metacritic.com/movie/the-emperors-new-groove|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Atlantis: The Lost Empire''
+| 48%<ref>{{cite web|title=Atlantis: The Lost Empire|url=https://www.rottentomatoes.com/m/atlantis_the_lost_empire|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=June 8, 2020|archive-url=https://web.archive.org/web/20200608115523/https://www.rottentomatoes.com/m/atlantis_the_lost_empire|url-status=live}}</ref>
+| 52<ref>{{cite web|title=Atlantis: The Lost Empire|url=https://www.metacritic.com/movie/atlantis-the-lost-empire|website=Metacritic|access-date=February 15, 2016|archive-date=April 24, 2014|archive-url=https://web.archive.org/web/20140424141313/http://www.metacritic.com/movie/atlantis-the-lost-empire|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Lilo & Stitch''
+| 86%<ref>{{cite web|title=Lilo & Stitch|url=https://www.rottentomatoes.com/m/lilo_and_stitch|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=December 6, 2021|archive-url=https://web.archive.org/web/20211206204711/https://www.rottentomatoes.com/m/lilo_and_stitch|url-status=live}}</ref>
+| 74<ref>{{cite web|title=Lilo & Stitch|url=https://www.metacritic.com/movie/lilo-stitch|website=Metacritic|access-date= August 12, 2024|archive-date=October 24, 2021|archive-url=https://web.archive.org/web/20211024192050/https://www.metacritic.com/movie/lilo-stitch|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Treasure Planet''
+| 68%<ref>{{cite web|title=Treasure Planet|url=https://www.rottentomatoes.com/m/treasure_planet|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=May 29, 2019|archive-url=https://web.archive.org/web/20190529214044/https://www.rottentomatoes.com/m/treasure_planet|url-status=live}}</ref>
+| 60<ref>{{cite web|title=Treasure Planet|url=https://www.metacritic.com/movie/treasure-planet|website=Metacritic|access-date=February 15, 2016|archive-date=May 29, 2019|archive-url=https://web.archive.org/web/20190529214105/https://www.metacritic.com/movie/treasure-planet|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Brother Bear''
+| 38%<ref>{{cite web|title=Brother Bear|url=https://www.rottentomatoes.com/m/brother_bear|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913121538/https://www.rottentomatoes.com/m/brother_bear|url-status=live}}</ref>
+| 48<ref>{{cite web|title=Brother Bear|url=https://www.metacritic.com/movie/brother-bear|website=Metacritic|access-date=February 15, 2016|archive-date=August 11, 2021|archive-url=https://web.archive.org/web/20210811183556/https://www.metacritic.com/movie/brother-bear|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Home on the Range''
+| 51%<ref>{{cite web|title=Home on the Range|url=https://www.rottentomatoes.com/m/home_on_the_range|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913131600/https://www.rottentomatoes.com/m/home_on_the_range|url-status=live}}</ref>
+| 50<ref>{{cite web|title=Home on the Range|url=https://www.metacritic.com/movie/home-on-the-range|website=Metacritic|access-date=February 15, 2016|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214024342/https://www.metacritic.com/movie/home-on-the-range|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Chicken Little''
+| 36%<ref>{{cite web|title=Chicken Little|url=https://www.rottentomatoes.com/m/chicken_little|website=Rotten Tomatoes|access-date= August 12, 2024|archive-date=May 31, 2022|archive-url=https://web.archive.org/web/20220531195634/https://www.rottentomatoes.com/m/chicken_little|url-status=live}}</ref>
+| 48<ref>{{cite web|title=Chicken Little|url=https://www.metacritic.com/movie/chicken-little|website=Metacritic|access-date=February 15, 2016|archive-date=December 14, 2021|archive-url=https://web.archive.org/web/20211214031044/https://www.metacritic.com/movie/chicken-little|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Meet the Robinsons''
+| 68%<ref>{{cite web |url=https://www.rottentomatoes.com/m/meet_the_robinsons/ |title=Meet the Robinsons - Rotten Tomatoes |access-date=January 5, 2008 |website=[[Rotten Tomatoes]] |archive-date=September 13, 2021 |archive-url=https://web.archive.org/web/20210913113016/https://www.rottentomatoes.com/m/meet_the_robinsons |url-status=live }}</ref>
+| 61<ref>{{cite web|title=Meet the Robinsons|url=https://www.metacritic.com/movie/meet-the-robinsons|website=Metacritic|access-date=February 15, 2016|archive-date=July 27, 2021|archive-url=https://web.archive.org/web/20210727043651/https://www.metacritic.com/movie/meet-the-robinsons|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Bolt''
+| 90%<ref>{{cite web|title=Bolt|url=https://www.rottentomatoes.com/m/bolt|website=Rotten Tomatoes|access-date=June 18, 2023|archive-date=January 7, 2019|archive-url=https://web.archive.org/web/20190107005724/https://www.rottentomatoes.com/m/bolt|url-status=live}}</ref>
+| 67<ref>{{cite web|title=Bolt|url=https://www.metacritic.com/movie/bolt|website=Metacritic|access-date=February 15, 2016|archive-date=March 7, 2010|archive-url=https://web.archive.org/web/20100307053442/http://www.metacritic.com/film/titles/bolt|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''The Princess and the Frog''
+| 86%<ref>{{cite web|url=https://www.rottentomatoes.com/m/1196003-princess_and_the_frog/|title=The Princess and the Frog|publisher=[[Flixster]]|work=Rotten Tomatoes|access-date=May 27, 2010|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111222401/https://www.rottentomatoes.com/m/1196003-princess_and_the_frog|url-status=live}}</ref>
+| 73<ref>{{cite web|title=The Princess and the Frog|url=https://www.metacritic.com/movie/the-princess-and-the-frog|website=Metacritic|access-date=February 15, 2016|archive-date=November 18, 2020|archive-url=https://web.archive.org/web/20201118051637/https://www.metacritic.com/movie/the-princess-and-the-frog|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Tangled''
+| 89%<ref>{{cite web|title=Tangled|url=https://www.rottentomatoes.com/m/tangled|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=November 17, 2020|archive-url=https://web.archive.org/web/20201117081032/https://www.rottentomatoes.com/m/tangled|url-status=live}}</ref>
+| 71<ref>{{cite web|title=Tangled|url=https://www.metacritic.com/movie/tangled|website=Metacritic|access-date=February 15, 2016|archive-date=November 11, 2020|archive-url=https://web.archive.org/web/20201111235702/https://www.metacritic.com/movie/tangled|url-status=live}}</ref>
+| {{sort grade|A+}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Winnie the Pooh''
+| 90%<ref>{{cite web|title=Winnie the Pooh|url=https://www.rottentomatoes.com/m/winnie_the_pooh_2011|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=September 13, 2021|archive-url=https://web.archive.org/web/20210913130046/https://www.rottentomatoes.com/m/winnie_the_pooh_2011|url-status=live}}</ref>
+| 74<ref>{{cite web|title=Winnie the Pooh|url=https://www.metacritic.com/movie/winnie-the-pooh|website=Metacritic|access-date=February 15, 2016|archive-date=November 13, 2021|archive-url=https://web.archive.org/web/20211113143937/https://www.metacritic.com/movie/winnie-the-pooh|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Wreck-It Ralph''
+| 87%<ref>{{cite web|title=Wreck-It Ralph|url=https://www.rottentomatoes.com/m/wreck_it_ralph|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=November 21, 2018|archive-url=https://web.archive.org/web/20181121013957/https://www.rottentomatoes.com/m/wreck_it_ralph|url-status=live}}</ref>
+| 72<ref>{{cite web|title=Wreck-It Ralph|url=https://www.metacritic.com/movie/reboot-ralph|website=Metacritic|access-date=February 15, 2016|archive-date=February 15, 2012|archive-url=https://web.archive.org/web/20120215030558/http://www.metacritic.com/movie/reboot-ralph|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Frozen''
+| 89%<ref>{{cite web|title=Frozen|url=https://www.rottentomatoes.com/m/frozen_2013|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=February 23, 2018|archive-url=https://web.archive.org/web/20180223231947/https://www.rottentomatoes.com/m/frozen_2013/|url-status=live}}</ref>
+| 75<ref>{{cite web|title=Frozen|url=https://www.metacritic.com/movie/frozen-2013|website=Metacritic|access-date= August 12, 2024|archive-date=July 2, 2018|archive-url=https://web.archive.org/web/20180702223322/http://www.metacritic.com/movie/frozen-2013|url-status=live}}</ref>
+| {{sort grade|A+}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Big Hero 6''
+| 90%<ref>{{cite web|title=Big Hero 6|url=https://www.rottentomatoes.com/m/big_hero_6|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=May 23, 2019|archive-url=https://web.archive.org/web/20190523210012/https://www.rottentomatoes.com/m/big_hero_6/|url-status=live}}</ref>
+| 74<ref>{{cite web|title=Big Hero 6|url=https://www.metacritic.com/movie/big-hero-6|website=Metacritic|access-date=February 15, 2016|archive-date=April 22, 2019|archive-url=https://web.archive.org/web/20190422032845/https://www.metacritic.com/movie/big-hero-6|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Zootopia''
+| 98%<ref>{{cite web|title=Zootopia|url=https://www.rottentomatoes.com/m/zootopia|website=Rotten Tomatoes|access-date=September 27, 2016|archive-date=December 13, 2017|archive-url=https://web.archive.org/web/20171213190540/https://www.rottentomatoes.com/m/zootopia/|url-status=live}}</ref>
+| 78<ref>{{cite web|title=Zootopia|url=https://www.metacritic.com/movie/zootopia|website=Metacritic|access-date=February 15, 2016|archive-date=December 9, 2017|archive-url=https://web.archive.org/web/20171209215927/http://www.metacritic.com/movie/zootopia|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Moana''
+| 96%<ref>{{cite web|title=Moana|url=https://www.rottentomatoes.com/m/moana_2016|website=Rotten Tomatoes|access-date=April 10, 2017|archive-date=September 9, 2018|archive-url=https://web.archive.org/web/20180909130508/https://www.rottentomatoes.com/m/moana_2016|url-status=live}}</ref>
+| 81<ref>{{cite web|title=Moana|url=https://www.metacritic.com/movie/moana|website=Metacritic|access-date=November 22, 2016|archive-date=October 9, 2021|archive-url=https://web.archive.org/web/20211009060543/https://www.metacritic.com/movie/moana|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Ralph Breaks the Internet''
+| 88%<ref>{{cite web|title=Ralph Breaks the Internet|url=https://www.rottentomatoes.com/m/ralph_breaks_the_internet|website=Rotten Tomatoes|access-date=December 28, 2018|archive-date=November 15, 2018|archive-url=https://web.archive.org/web/20181115235948/https://www.rottentomatoes.com/m/ralph_breaks_the_internet|url-status=live}}</ref>
+| 71<ref>{{cite web|title=Ralph Breaks the Internet|url=https://www.metacritic.com/movie/ralph-breaks-the-internet|website=Metacritic|access-date=November 21, 2018|archive-date=November 20, 2018|archive-url=https://web.archive.org/web/20181120151249/https://www.metacritic.com/movie/ralph-breaks-the-internet|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Frozen 2''
+| 77%<ref>{{cite web|url=https://www.rottentomatoes.com/m/frozen_ii|title=Frozen II|website=Rotten Tomatoes|access-date=January 4, 2020|archive-date=November 30, 2019|archive-url=https://web.archive.org/web/20191130011453/https://www.rottentomatoes.com/m/frozen_ii|url-status=live}}</ref>
+| 64<ref>{{cite web|url=https://www.metacritic.com/movie/frozen-ii|title=Frozen II|website=Metacritic|access-date=January 11, 2020|archive-date=November 15, 2019|archive-url=https://web.archive.org/web/20191115185646/https://www.metacritic.com/movie/frozen-ii|url-status=live}}</ref>
+| {{sort grade|A−}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Raya and the Last Dragon''
+| 93%<ref>{{cite web|url=https://www.rottentomatoes.com/m/raya_and_the_last_dragon|title=Raya and the Last Dragon|website=Rotten Tomatoes|access-date=March 3, 2021|archive-date=April 24, 2021|archive-url=https://web.archive.org/web/20210424141704/https://www.rottentomatoes.com/m/raya_and_the_last_dragon|url-status=live}}</ref>
+| 74<ref>{{cite web|url=https://www.metacritic.com/movie/raya-and-the-last-dragon|title=Raya and the Last Dragon|website=Metacritic|access-date= August 12, 2024|archive-date=April 24, 2021|archive-url=https://web.archive.org/web/20210424182605/https://www.metacritic.com/movie/raya-and-the-last-dragon|url-status=live}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Encanto''
+| 92%<ref>{{cite web|url=https://www.rottentomatoes.com/m/encanto_2021|title=Encanto|website=Rotten Tomatoes]access-date= August 12, 2024|archive-date=November 24, 2021|archive-url=https://web.archive.org/web/20211124162101/https://www.rottentomatoes.com/m/encanto_2021|url-status=live}}</ref>
+| 75<ref>{{cite Metacritic |id=Encanto-2021 |type=m |access-date= April 15, 2022 |title=Encanto }}</ref>
+| {{sort grade|A}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Strange World''
+| 72%<ref>{{Cite Rotten Tomatoes |id=strange_world_2022 |type=movie |title=Strange World (2022) |access-date=June 18, 2023}}{{cbignore}}</ref>
+| 65<ref>{{Cite Metacritic |id=strange-world |type=movie |title=Strange World Reviews |access-date=November 22, 2022}}{{cbignore}}</ref>
+| {{sort grade|B}}<ref name="CinemaScore" />
+|-
+! scope="row" | ''Wish''
+| 48%<ref>{{Cite web |title=Wish |url=https://www.rottentomatoes.com/m/wish_2023 |access-date=November 17, 2023 |website=Rotten Tomatoes |publisher=[[Fandango Media]]}}</ref>
+| 47<ref>{{Cite web |title=Wish |url=https://www.metacritic.com/movie/wish/ |access-date=November 17, 2023 |website=Metacritic |publisher=Fandom, Inc.}}</ref>
+| {{sort grade|A−}}<ref name=cinemascore2>{{Cite web |last=D'Alessandro |first=Anthony |date=November 23, 2023 |title='Songbirds & Snakes' Singing Louder Than 'Wish' $42M to $41M Over Thanksgiving Stretch; 'Napoleon' Securing $36M — Box Office |url= https://deadline.com/2023/11/box-office-wish-napoleon-thanksgiving-1235634036/ |access-date=November 23, 2023 |website=Deadline Hollywood|language=en-US}}</ref>
+|-
+! scope="row" | ''Moana 2''
+| 61%<ref>{{Cite web |title=Moana 2 |url=https://www.rottentomatoes.com/m/moana_2 |access-date=November 26, 2024 |website=Rotten Tomatoes |publisher=Fandango Media}}</ref>
+| 58<ref>{{Cite web |title=Moana 2 |url=https://www.metacritic.com/movie/moana-2/ |access-date=December 22, 2024 |website=Metacritic |publisher=Fandom, Inc.}}</ref>
+| {{sort grade|A−}}<ref>{{cite web|url=https://deadline.com/2024/11/box-office-moana-2-wicked-thanksgiving-1236189131/|title=Chee Hoo Mania At The Box Office: 'Moana 2' $221M 5-Day Opening Is Best 5-Day & Thanksgiving Ever; 'Wicked' Wows $117M+ & 'Gladiator II' $44M – Sunday Update|date=December 1, 2024|first=Anthony|last=D'Alessandro|website=[[Deadline Hollywood]]|access-date=December 1, 2024}}</ref>
+|-
+! scope="row" | ''Zootopia 2''
+| 92%<ref>{{Cite web |title=Zootopia 2 |url=https://www.rottentomatoes.com/m/zootopia_2 |access-date=December 5, 2025 |website=Rotten Tomatoes |publisher=Fandango Media}}</ref>
+| 73<ref>{{Cite web |title=Zootopia 2 |url=https://www.metacritic.com/movie/zootopia-2/ |access-date=November 30, 2025 |website=Metacritic |publisher=Fandom, Inc.}}</ref>
+| {{sort grade|A}}<ref>{{Cite web|title='Zootopia 2' Still Going Wild With $140M 5-Day Opening After 2nd Best $39M+ Pre-Thanksgiving Wednesday & 'A' CinemaScore; 'Wicked: For Good' Flying To $91M – Box Office Update|url=https://deadline.com/2025/11/zootopia-2-wicked-for-good-tuesday-box-office-1236629566/|website=Deadline Hollywood|date=2025-11-27|access-date=2025-11-27|language=en-US|first=Anthony|last=D'Alessandro}}</ref>
+|}
+
+== Academy Award wins and nominations ==
+{| class="wikitable sticky-header"
+|-
+! Category
+! Nominee(s)
+! Result
+! {{Refh}}
+|-
+! colspan="4" | ''Snow White and the Seven Dwarfs''
+|-
+| [[Academy Award for Best Original Score|Music (Scoring)]] || Walt Disney Studio Music Department, [[Leigh Harline]], head of department (Score by [[Frank Churchill]], Leigh Harline and [[Paul Smith (composer)|Paul J. Smith]]) || {{nom}}
+|<ref name="Oscars1938">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1938 |title=The 10th Academy Awards (1938) Nominees and Winners |access-date=August 9, 2011 |publisher=Oscars.org ([[Academy of Motion Picture Arts and Sciences]]) |archive-url=https://web.archive.org/web/20110706093713/http://www.oscars.org/awards/academyawards/legacy/ceremony/10th-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+| [[Academy Honorary Award|Special Award]] || To [[Walt Disney]] for ''[[Snow White and the Seven Dwarfs (1937 film)|Snow White and the Seven Dwarfs]]'', recognized as a significant screen innovation which has charmed millions and pioneered a great new entertainment field for the motion picture cartoon. Noticeable for the fact that Walt Disney was given a special Oscar trophy with seven smaller Oscars aside.|| {{won}}
+|<ref name="Oscars1939">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1939 |title=The 11th Academy Awards (1939) Nominees and Winners |access-date=August 10, 2011 |publisher=Oscars.org ([[Academy of Motion Picture Arts and Sciences]]) |archive-url=https://web.archive.org/web/20110706093716/http://www.oscars.org/awards/academyawards/legacy/ceremony/11th-winners.html |archive-date=July 6, 2011 |url-status=dead }}</ref>
+|-
+! colspan="4" | ''Pinocchio''
+|-
+| Music (Original Score) || [[Leigh Harline]], [[Paul Smith (composer)|Paul J. Smith]], [[Ned Washington]] || rowspan=2 {{won}}
+| rowspan="2" |<ref name="Oscars1941">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1941 |title=The 13th Academy Awards (1941) Nominees and Winners |access-date=August 12, 2011 |publisher=Oscars.org ([[Academy of Motion Picture Arts and Sciences]]) |archive-url=https://web.archive.org/web/20110706093728/http://www.oscars.org/awards/academyawards/legacy/ceremony/13th-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+| [[Academy Award for Best Original Song|Music (Song)]] || "[[When You Wish Upon a Star]]," Music by Leigh Harline; Lyrics by Ned Washington
+|-
+! colspan="4" | ''Fantasia''
+|-
+| rowspan=2|Special Award || To [[Walt Disney]], [[William Garity]], John N. A. Hawkins and the RCA Manufacturing Company for their outstanding contribution to the advancement of the use of sound in motion pictures through the production of ''[[Fantasia (1940 film)|Fantasia]]''. || rowspan=2 {{won}}
+| rowspan="2" |<ref name="Oscars1942">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1942 |title=The 14th Academy Awards (1942) Nominees and Winners |access-date=August 13, 2011 |work=oscars.org |archive-url=https://web.archive.org/web/20110706093733/http://www.oscars.org/awards/academyawards/legacy/ceremony/14th-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+| To [[Leopold Stokowski]] and his associates for their unique achievement in the creation of a new form of visualized music in Walt Disney's production, ''Fantasia'', thereby widening the scope of the motion picture as entertainment and as an art form.
+|-
+! colspan="4" | ''Dumbo''
+|-
+| Music (Scoring of a Musical Picture) || [[Frank Churchill]], [[Oliver Wallace]] || {{won}}
+| rowspan="2" |<ref name="Oscars1942"/>
+|-
+| Music (Song) || "[[Baby Mine (Dumbo song)|Baby Mine]]," Music by Frank Churchill; Lyrics by [[Ned Washington]] || {{nom}}
+|-
+! colspan="4" | ''Bambi''
+|-
+| Music (Music Score of a Dramatic or Comedy Picture) || [[Frank Churchill]], [[Edward H. Plumb]] || rowspan=3 {{nom}}
+| rowspan="3" |<ref name="Oscars1943">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1943 |title=The 15th Academy Awards (1943) Nominees and Winners |access-date=August 13, 2011 |work=oscars.org |archive-url=https://web.archive.org/web/20110706093739/http://www.oscars.org/awards/academyawards/legacy/ceremony/15th-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+| Music (Song) || "Love Is a Song," Music by Frank Churchill; Lyrics by [[Larry Morey]]
+|-
+| [[Academy Award for Best Sound Mixing|Sound Recording]] || Walt Disney Studio Sound Department, [[Sam Slyfield]], Sound Director
+|-
+! colspan="4" | ''Saludos Amigos''
+|-
+| Music (Scoring of a Musical Picture) || [[Charles Wolcott]], [[Edward H. Plumb]], [[Paul Smith (composer)|Paul J. Smith]] || rowspan=3 {{nom}}
+| rowspan="3" |<ref name="Oscars1944">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1944 |title=The 16th Academy Awards (1944) Nominees and Winners |access-date=October 4, 2013 |publisher=Oscars.org ([[Academy of Motion Picture Arts and Sciences]]) | archive-url= https://web.archive.org/web/20131014001522/http://www.oscars.org/awards/academyawards/legacy/ceremony/16th-winners.html | archive-date= October 14, 2013 | url-status=live}}</ref>
+|-
+| Music (Song) || "Saludos Amigos," Music by Charles Wolcott; Lyrics by [[Ned Washington]]
+|-
+| Sound Recording || Walt Disney Studio Sound Department, [[Sam Slyfield|C. O. Slyfield]], Sound Director
+|-
+! colspan="4" | ''The Three Caballeros''
+|-
+| Music (Scoring of a Musical Picture) || [[Charles Wolcott]], [[Edward H. Plumb]], [[Paul Smith (composer)|Paul J. Smith]] || rowspan=2 {{nom}}
+| rowspan="2" |<ref name="Oscars1946">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1946 |title=The 18th Academy Awards (1946) Nominees and Winners |access-date=August 16, 2011 |work=oscars.org |archive-url=https://web.archive.org/web/20110706093754/http://www.oscars.org/awards/academyawards/legacy/ceremony/18th-winners.html |archive-date= July 6, 2011 |url-status=live }}</ref>
+|-
+| Sound Recording || Walt Disney Studio Sound Department, [[Sam Slyfield|C. O. Slyfield]], Sound Director
+|-
+! colspan="4" | ''Cinderella''
+|-
+| Music (Scoring of a Musical Picture) || [[Oliver Wallace]], [[Paul Smith (composer)|Paul J. Smith]] || rowspan=3 {{nom}}
+| rowspan="3" |<ref name="Oscars1951">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1951 |title=The 23rd Academy Awards (1951) Nominees and Winners |access-date=August 19, 2011 |publisher=Oscars.org ([[Academy of Motion Picture Arts and Sciences]]) |archive-url=https://web.archive.org/web/20110706093818/http://www.oscars.org/awards/academyawards/legacy/ceremony/23rd-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+| Music (Song) || "[[Bibbidi-Bobbidi-Boo]]," Music and Lyrics by [[Mack David]], [[Al Hoffman]] and [[Jerry Livingston]]
+|-
+| Sound Recording || Walt Disney Studio Sound Department, [[Sam Slyfield|C. O. Slyfield]], Sound Director
+|-
+! colspan="4" | ''Alice in Wonderland''
+|-
+| Music (Scoring of a Musical Picture) || [[Oliver Wallace]] || {{nom}}
+|<ref name="Oscars1952">{{cite web |url=http://www.oscars.org/oscars/ceremonies/1952 |title=The 24th Academy Awards (1952) Nominees and Winners |publisher=Oscars.org ([[Academy of Motion Picture Arts and Sciences]]) |access-date=August 19, 2011 |archive-url=https://web.archive.org/web/20110706093825/http://www.oscars.org/awards/academyawards/legacy/ceremony/24th-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+! colspan="4" | ''Sleeping Beauty''
+|-
+| Music (Scoring of a Musical Picture) || [[George Bruns]] || {{nom}}
+|<ref name="Oscars1960">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1960 |title=The 32nd Academy Awards (1960) Nominees and Winners |access-date=August 21, 2011 |work=oscars.org |archive-url=https://web.archive.org/web/20110706094204/http://www.oscars.org/awards/academyawards/legacy/ceremony/32nd-winners.html |archive-date=July 6, 2011 |url-status=live }}</ref>
+|-
+! colspan="4" | ''The Sword in the Stone''
+|-
+| Music (Score of a Music&nbsp;– Adaptation or Treatment) || [[George Bruns]] || {{nom}}
+|<ref name="Oscars1964">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1964 |title=The 36th Academy Awards (1964) Nominees and Winners |access-date=May 4, 2015 |work=oscars.org |date=October 5, 2014 |url-status=live |archive-url=https://web.archive.org/web/20150502002917/http://www.oscars.org/oscars/ceremonies/1964 |archive-date=May 2, 2015 }}</ref>
+|-
+! colspan="4" | ''The Jungle Book''
+|-
+| Music (Song) || "[[The Bare Necessities]]," Music and Lyrics by [[Terry Gilkyson]] || {{nom}}
+|<ref name="Oscars1968">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1968 |title=The 40th Academy Awards (1968) Nominees and Winners |access-date=November 10, 2011 |work=oscars.org |url-status=live |archive-url=https://web.archive.org/web/20141103005223/http://www.oscars.org/oscars/ceremonies/1968 |archive-date=November 3, 2014 }}</ref>
+|-
+! colspan="4" | ''Robin Hood''
+|-
+| Music (Song) || "[[Love (Disney song)|Love]]," Music by [[George Bruns]]; Lyrics by [[Floyd Huddleston]] || {{nom}}
+|<ref name="Oscars1974">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1974 |title=The 46th Academy Awards (1974) Nominees and Winners |access-date=December 31, 2011 |work=oscars.org |url-status=live |archive-url=https://web.archive.org/web/20150315090403/http://www.oscars.org/oscars/ceremonies/1974 |archive-date=March 15, 2015}}</ref>
+|-
+! colspan="4" | ''The Rescuers''
+|-
+| Music (Original Song) || "Someone's Waiting for You," Music by [[Sammy Fain]]; Lyrics by [[Carol Connors (singer)|Carol Connors]] and [[Ayn Robbins]] || {{nom}}
+|<ref name="Oscars1978">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1978 |title=The 50th Academy Awards (1978) Nominees and Winners |access-date=October 5, 2011 |work=oscars.org |url-status=live |archive-url=https://web.archive.org/web/20141111072046/http://www.oscars.org/oscars/ceremonies/1978 |archive-date=November 11, 2014 }}</ref>
+|-
+! colspan="4" | ''The Little Mermaid''
+|-
+| Music (Original Score) || [[Alan Menken]] || rowspan=2 {{won}}
+| rowspan="3" |<ref name="Oscars1990">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1990 |title=The 62nd Academy Awards (1990) Nominees and Winners |access-date=October 17, 2011 |publisher=[[Academy of Motion Picture Arts and Sciences]] |url-status=live |archive-url=https://web.archive.org/web/20110706095721/http://www.oscars.org/awards/academyawards/legacy/ceremony/62nd-winners.html |archive-date=July 6, 2011 }}</ref>
+|-
+| rowspan=2|Music (Original Song) || "[[Under the Sea]]," Music by Alan Menken; Lyric by [[Howard Ashman]]
+|-
+| "[[Kiss the Girl]]," Music by Alan Menken; Lyric by Howard Ashman || {{nom}}
+|-
+! colspan="4" | ''Beauty and the Beast''
+|-
+| Music (Original Score) || [[Alan Menken]] || rowspan=2 {{won}}
+| rowspan="6" |<ref name="Oscars1992">{{cite web |url=http://www.oscars.org/oscars/ceremonies/1992 |title=The 64th Academy Awards (1992) Nominees and Winners |access-date=October 22, 2011 |publisher=Academy of Motion Picture Arts and Sciences |url-status=live |archive-url=https://web.archive.org/web/20110706095833/http://www.oscars.org/awards/academyawards/legacy/ceremony/64th-winners.html |archive-date=July 6, 2011 }}</ref>
+|-
+| rowspan=3|Music (Original Song) || "[[Beauty and the Beast (Disney song)|Beauty and the Beast]]," Music by Alan Menken; Lyric by [[Howard Ashman]]
+|-
+| "[[Be Our Guest]]," Music by Alan Menken; Lyric by Howard Ashman || rowspan=4 {{nom}}
+|-
+| "[[Belle (Disney song)|Belle]]," Music by Alan Menken; Lyric by Howard Ashman
+|-
+| [[Academy Award for Best Picture|Best Picture]] || [[Don Hahn]], Producer
+|-
+| Sound || [[Terry Porter]], [[Mel Metcalfe]], [[David J. Hudson]], [[Doc Kane]]
+|-
+! colspan="4" | ''Aladdin''
+|-
+| Music (Original Score) || [[Alan Menken]] || rowspan=2 {{won}}
+| rowspan="5" |<ref name="Oscars1993">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/1993 |title=The 65th Academy Awards (1993) Nominees and Winners |access-date=October 22, 2011 |publisher=Academy of Motion Picture Arts and Sciences (AMPAS) |url-status=live |archive-url=https://web.archive.org/web/20141109220926/http://www.oscars.org/oscars/ceremonies/1993 |archive-date=November 9, 2014 }}</ref>
+|-
+| rowspan=2|Music (Original Song) || "[[A Whole New World]]," Music by Alan Menken; Lyric by [[Tim Rice]]
+|-
+| "[[Friend Like Me]]," Music by Alan Menken; Lyric by [[Howard Ashman]] || rowspan=3 {{nom}}
+|-
+| Sound || [[Terry Porter]], [[Mel Metcalfe]], [[David J. Hudson]], [[Doc Kane]]
+|-
+| [[Academy Award for Best Sound Editing|Sound Effects Editing]] || [[Mark Mangini]]
+|-
+! colspan="4" | ''The Lion King''
+|-
+| Music (Original Score) || [[Hans Zimmer]] || rowspan=2 {{won}}
+| rowspan="4" |<ref name="Oscars1995">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1995 |title=The 67th Academy Awards (1995) Nominees and Winners |access-date=November 20, 2011 |work=Academy of Motion Picture Arts and Sciences |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141109220937/http://www.oscars.org/oscars/ceremonies/1995 |archive-date=November 9, 2014 }}</ref>
+|-
+| rowspan=3|Music (Original Song) || "[[Can You Feel the Love Tonight]]," Music by [[Elton John]]; Lyric by [[Tim Rice]]
+|-
+| "[[Circle of Life]]," Music by Elton John; Lyric by Tim Rice || rowspan=2 {{nom}}
+|-
+| "[[Hakuna Matata (song)|Hakuna Matata]]," Music by Elton John; Lyric by Tim Rice
+|-
+! colspan="4" | ''Pocahontas''
+|-
+| Music (Original Musical or Comedy Score) || Music by [[Alan Menken]]; Lyrics by [[Stephen Schwartz]]; Orchestral Score by Alan Menken || rowspan=2 {{won}}
+| rowspan="2" |<ref name="Oscars1996">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1996 |title=The 68th Academy Awards (1996) Nominees and Winners |access-date=October 21, 2011 |work=[[Academy of Motion Picture Arts and Sciences]] |publisher=AMPAS |url-status=live |archive-url=https://archive.today/20141109195142/http://www.oscars.org/oscars/ceremonies/1996 |archive-date=November 9, 2014 }}</ref>
+|-
+| Music (Original Song) || "[[Colors of the Wind]]," Music by Alan Menken; Lyric by Stephen Schwartz
+|-
+! colspan="4" | ''The Hunchback of Notre Dame''
+|-
+| Music (Original Musical or Comedy Score) || Music by [[Alan Menken]]; Lyrics by [[Stephen Schwartz]]; Orchestral Score by Alan Menken || {{nom}}
+|<ref name="Oscars1997">{{cite news|url=http://www.oscars.org/oscars/ceremonies/1997 |title=The 69th Academy Awards (1997) Nominees and Winners |access-date=October 23, 2011 |publisher=Academy of Motion Picture Arts and Sciences |url-status=live |archive-url=https://web.archive.org/web/20141109082132/http://www.oscars.org/oscars/ceremonies/1997 |archive-date=November 9, 2014 }}</ref>
+|-
+! colspan="4" | ''Hercules''
+|-
+| Music (Original Song) || "[[Go the Distance]]," Music by [[Alan Menken]]; Lyric by [[David Zippel]] || {{nom}}
+|<ref name="Oscars1998">{{cite web|url=http://www.oscars.org/oscars/ceremonies/1998 |title=The 70th Academy Awards (1998) Nominees and Winners |access-date=November 19, 2011 |work=Academy of Motion Picture Arts and Sciences |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141109213426/http://www.oscars.org/oscars/ceremonies/1998 |archive-date=November 9, 2014}}</ref>
+|-
+! colspan="4" | ''Mulan''
+|-
+| Music (Original Musical or Comedy Score) || Music by [[Matthew Wilder]]; Lyrics by [[David Zippel]]; Orchestral Score by [[Jerry Goldsmith]] || {{nom}}
+|<ref name="Oscars1999">{{cite news|url=http://www.oscars.org/oscars/ceremonies/1999 |title=The 71st Academy Awards (1999) Nominees and Winners |access-date=November 19, 2011 |work=[[Academy of Motion Picture Arts and Sciences]] |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141109171019/http://www.oscars.org/oscars/ceremonies/1999 |archive-date=November 9, 2014}}</ref>
+|-
+! colspan="4" | ''Tarzan''
+|-
+| Music (Original Song) || "[[You'll Be in My Heart]]," Music and Lyric by [[Phil Collins]] || {{won}}
+|<ref name="Oscars2000">{{cite news|title=The 72nd Academy Awards (2000) Nominees and Winners |url=http://www.oscars.org/oscars/ceremonies/2000 |access-date=January 3, 2014 |publisher=[[Academy of Motion Picture Arts and Sciences]] (AMPAS) |url-status=live |archive-url=https://web.archive.org/web/20141109141152/http://www.oscars.org/oscars/ceremonies/2000 |archive-date=November 9, 2014 }}</ref>
+|-
+! colspan="4" | ''The Emperor's New Groove''
+|-
+| Music (Original Song) || "[[My Funny Friend and Me]]," Music by [[Sting (musician)|Sting]] and [[David Hartley (musician)|David Hartley]]; Lyric by Sting || {{nom}}
+|<ref name="Oscars2001">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/2001 |title=The 73rd Academy Awards (2001) Nominees and Winners |access-date=November 19, 2011 |publisher=Academy of Motion Picture Arts and Sciences (AMPAS)}}{{dead link|date=October 2025}}</ref>
+|-
+! colspan="4" | ''Lilo & Stitch''
+|-
+| [[Academy Award for Best Animated Feature|Animated Feature Film]] || [[Chris Sanders (director)|Chris Sanders]] || {{nom}}
+|<ref name="Oscars2003">{{cite web|url=http://www.oscars.org/oscars/ceremonies/2003 |title=The 75th Academy Awards (2003) Nominees and Winners |access-date=November 20, 2011 |work=Academy of Motion Picture Arts and Sciences |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141110020903/http://www.oscars.org/oscars/ceremonies/2003 |archive-date=November 10, 2014}}</ref>
+|-
+! colspan="4" | ''Treasure Planet''
+|-
+| Animated Feature Film || [[Ron Clements]] || {{nom}}
+||<ref name="Oscars2003"/>
+|-
+! colspan="4" | ''Brother Bear''
+|-
+| Animated Feature Film || [[Aaron Blaise]] and [[Robert Walker (animator)|Robert Walker]] || {{nom}}
+|<ref name="Oscars2004">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/2004 |title=The 76th Academy Awards (2004) Nominees and Winners |access-date=November 20, 2011 |work=[[Academy of Motion Picture Arts and Sciences]] |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141109220942/http://www.oscars.org/oscars/ceremonies/2004 |archive-date=November 9, 2014 }}</ref>
+|-
+! colspan="4" | ''Bolt''
+|-
+| Animated Feature Film || [[Chris Williams (director)|Chris Williams]] and [[Byron Howard]] || {{nom}}
+|<ref name="Oscars2009">{{cite news|url=http://www.oscars.org/oscars/ceremonies/2009 |title=The 81st Academy Awards (2009) Nominees and Winners |access-date=November 20, 2011 |work=[[Academy of Motion Picture Arts and Sciences]] |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141110111206/http://www.oscars.org/oscars/ceremonies/2009 |archive-date=November 10, 2014 }}</ref>
+|-
+! colspan="4" | ''The Princess and the Frog''
+|-
+| Animated Feature Film || [[John Musker]] and [[Ron Clements]] || rowspan=3 {{nom}}
+| rowspan="3" |<ref name="Oscars2010">{{cite web|url=http://www.oscars.org/oscars/ceremonies/2010 |title=The 82nd Academy Awards (2010) Nominees and Winners |access-date=November 10, 2011 |publisher=[[Academy of Motion Picture Arts and Sciences]] (AMPAS) |url-status=live |archive-url=https://web.archive.org/web/20141130021624/http://www.oscars.org/oscars/ceremonies/2010 |archive-date=November 30, 2014 }}</ref>
+|-
+| rowspan=2|Music (Original Song) || "[[Almost There (The Princess and the Frog song)|Almost There]]," Music and Lyric by [[Randy Newman]]
+|-
+| "[[Down in New Orleans (song)|Down in New Orleans]]," Music and Lyric by Randy Newman
+|-
+! colspan="4" | ''Tangled''
+|-
+| Music (Original Song) || "[[I See the Light]]," Music by [[Alan Menken]]; Lyric by [[Glenn Slater]] || {{nom}}
+|<ref name="Oscars2011">{{cite web|url=http://www.oscars.org/oscars/ceremonies/2011 |title=The 83rd Academy Awards (2011) Nominees and Winners |access-date=November 11, 2011 |publisher=[[Academy of Motion Picture Arts and Sciences]] (AMPAS) |url-status=live |archive-url=https://web.archive.org/web/20110605132752/http://www.oscars.org/awards/academyawards/83/nominees.html |archive-date=June 5, 2011 }}</ref>
+|-
+! colspan="4" | ''Wreck-It Ralph''
+|-
+| Animated Feature Film || [[Rich Moore]] || {{nom}}
+|<ref name="Oscars2013">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/2013 |title=The 85th Academy Awards (2013) Nominees and Winners |access-date=September 22, 2013 |publisher=Academy of Motion Picture Arts and Sciences |url-status=live |archive-url=https://web.archive.org/web/20141014074656/http://www.oscars.org/oscars/ceremonies/2013 |archive-date=October 14, 2014 }}</ref>
+|-
+! colspan="4" | ''Frozen''
+|-
+| Animated Feature Film || [[Chris Buck]], [[Jennifer Lee (filmmaker)|Jennifer Lee]] and [[Peter Del Vecho]] || rowspan=2 {{won}}
+| rowspan="2" |<ref name="Oscars2014">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/2014 |title=The 86th Academy Awards (2014) Nominees and Winners |access-date=April 12, 2014 |work=Academy of Motion Picture Arts and Sciences |publisher=AMPAS |url-status=live |archive-url=https://web.archive.org/web/20141014193700/http://www.oscars.org/oscars/ceremonies/2014 |archive-date=October 14, 2014}}</ref>
+|-
+| Music (Original Song) || "[[Let It Go (Disney song)|Let It Go]]," Music and Lyric by [[Kristen Anderson-Lopez]] and [[Robert Lopez]]
+|-
+! colspan="4" | ''Big Hero 6''
+|-
+| Animated Feature Film || [[Don Hall (filmmaker)|Don Hall]], [[Chris Williams (director)|Chris Williams]] and [[Roy Conli]] || {{won}}
+|<ref name="Oscars2015">{{Cite news|url=http://www.oscars.org/oscars/ceremonies/2015 |title=The 87th Academy Awards (2015) Nominees and Winners |access-date=February 23, 2015 |publisher=Academy of Motion Picture Arts and Sciences (AMPAS) |url-status=live |archive-url=https://web.archive.org/web/20150223171100/http://www.oscars.org/oscars/ceremonies/2015 |archive-date=February 23, 2015}}</ref>
+|-
+! colspan="4" | ''Zootopia''
+|-
+| Animated Feature Film || [[Byron Howard]], [[Rich Moore]] and [[Clark Spencer]] || {{won}}
+|<ref name="Oscars2017">{{cite news |url=http://www.oscars.org/oscars/ceremonies/2017 |title=The 89th Academy Awards (2017) Nominees and Winners |access-date=February 26, 2017 |publisher=Academy of Motion Picture Arts and Sciences |url-status=live |archive-url=https://web.archive.org/web/20170227001154/http://oscars.org/oscars/ceremonies/2017|archive-date=February 27, 2017}}</ref>
+|-
+! colspan="4" | ''Moana''
+|-
+| Animated Feature Film || [[John Musker]], [[Ron Clements]] and [[Osnat Shurer]] || rowspan=2 {{nom}}
+| rowspan="2" |<ref name="Oscars2017"/>
+|-
+| Music (Original Song) || "[[How Far I'll Go]]," Music and Lyric by [[Lin-Manuel Miranda]]
+|-
+! colspan="4" | ''Ralph Breaks the Internet''
+|-
+| Animated Feature Film || [[Rich Moore]], [[Phil Johnston (filmmaker)|Phil Johnston]] and [[Clark Spencer]] || {{nom}}
+|<ref name="Oscars2019">{{cite news |url=http://www.oscars.org/oscars/ceremonies/2019 |title=The 91st Academy Awards (2019) Nominees and Winners |access-date=November 5, 2019 |publisher=Academy of Motion Picture Arts and Sciences |archive-date=February 25, 2019 |archive-url=https://web.archive.org/web/20190225030534/https://www.oscars.org/oscars/ceremonies/2019 |url-status=live }}</ref>
+|-
+! colspan="4" | ''Frozen 2''
+|-
+| Music (Original Song) || "[[Into the Unknown (Disney song)|Into the Unknown]]," Music and Lyric by [[Kristen Anderson-Lopez]] & [[Robert Lopez]] || {{nom}}
+|<ref name="Oscars2020">{{cite news |url=http://www.oscars.org/oscars/ceremonies/2020 |title=The 92nd Academy Awards (2020) Nominees and Winners |access-date=July 13, 2020 |publisher=[[Academy of Motion Picture Arts and Sciences]] (AMPAS) |archive-date=February 25, 2019 |archive-url=https://web.archive.org/web/20190225030534/https://www.oscars.org/oscars/ceremonies/2020 |url-status=live }}</ref>
+|-
+! colspan="4" | ''Raya and the Last Dragon''
+|-
+| Animated Feature Film || [[Don Hall (filmmaker)|Don Hall]], [[Carlos López Estrada]], [[Osnat Shurer]] and [[Peter Del Vecho]] || {{nom}}
+|<ref name="Oscars2022">{{cite news |url=https://www.oscars.org/oscars/ceremonies/2022 |title=The 94th Academy Awards (2022) Nominees and Winners |access-date=February 9, 2022 |publisher=Academy of Motion Picture Arts and Sciences |archive-date=March 25, 2022 |archive-url=https://web.archive.org/web/20220325152056/https://www.oscars.org/oscars/ceremonies/2022 |url-status=live }}</ref>
+|-
+! colspan="4" | ''Encanto''
+|-
+| Animated Feature Film || [[Jared Bush]], [[Byron Howard]], [[Yvett Merino]] and [[Clark Spencer]] || {{won}}
+| rowspan="3" |<ref name="Oscars2022"/>
+|-
+| Music (Original Score) || [[Germaine Franco]] || rowspan=2 {{nom}}
+|-
+| Music (Original Song) || "[[Dos Oruguitas]]," Music and Lyric by [[Lin-Manuel Miranda]]
+|-
+! colspan="4" | ''Zootopia 2''
+|-
+| Animated Feature Film || [[Jared Bush]], [[Byron Howard]] and [[Yvett Merino]] || {{nom}}
+|<ref name="Oscars2026">{{Cite web |title=The 98th Academy Awards (2026) Nominees and Winners |url=https://www.oscars.org/oscars/ceremonies/2026}}</ref>
+|}
+
+==See also==
+{{Portal|Film|United States|Disney|Cartoon}}
+* [[List of Walt Disney Animation Studios short films]]
+* [[List of Walt Disney Pictures films]]
+* [[List of remakes and adaptations of Disney animated films]]
+* [[List of Disney theatrical animated features]]
+* [[List of Pixar films]]
+* [[List of 20th Century Studios theatrical animated feature films]]
+* [[List of Blue Sky Studios productions]]
+* [[List of unproduced Disney animated projects]]
+*[[Disneytoon Studios]]
+{{Clear}}
+
+==Notes==
+{{Notelist}}
+{{Reflist|group="note"}}
+
+==References==
+{{Reflist|refs=
+<ref name="WDASOurStudio">{{cite web|title=Our Studio|url=https://www.disneyanimation.com/studio/ourstudio|publisher=Walt Disney Animation Studios|access-date=December 15, 2016|archive-date=August 4, 2020|archive-url=https://web.archive.org/web/20200804054921/http://www.disneyanimation.com/studio/ourstudio|url-status=live}}</ref>
+}}
+
+==External links==
+*{{Official|https://disneyanimation.com/films/}}
+
+{{Walt Disney Animation Studios}}
+{{Disney theatrical animated features}}
+{{Disney's Short films}}
+{{Walt Disney Studios films}}
+
+[[Category:Walt Disney Animation Studios films|W]]
+[[Category:Walt Disney Pictures animated films]]
+[[Category:Lists of films released by Disney|Walt Disney Animation Studios films]]
+[[Category:Lists of films by studio|Disney]]

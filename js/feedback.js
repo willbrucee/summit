@@ -9,13 +9,24 @@ export const WRONG_LINES = [
   'Not on today’s trail',
 ];
 
-// accepted | autocorrected | duplicate | ambiguous | wrong | empty
-export function classifyGuess(index, text, found) {
+// accepted | autocorrected | duplicate | ambiguous | outside | wrong | empty
+// outside: a real thing of the right kind that is not on this list (a game outside the
+// charts). It costs nothing; the player just hears why it did not count.
+export function classifyGuess(index, text, found, outsideIndex = null) {
   const r = match(index, text, found);
   if (r.result === 'empty') return { state: 'empty' };
   if (r.result === 'already') return { state: 'duplicate', index: r.index };
   if (r.result === 'correct') return { state: r.corrected ? 'autocorrected' : 'accepted', index: r.index };
+  if (outsideIndex && !r.ambiguous) {
+    const o = match(outsideIndex, text, new Set());
+    if (o.result === 'correct') return { state: 'outside', label: outsideIndex.answers[o.index].label };
+  }
   return { state: r.ambiguous ? 'ambiguous' : 'wrong' };
+}
+
+// The line for a real answer that is not on the list.
+export function outsideLine(prompt) {
+  return prompt.outsideLine || 'That one is real, just not on this list';
 }
 
 // Which letters of the corrected label differ from what was typed (case and accents ignored).

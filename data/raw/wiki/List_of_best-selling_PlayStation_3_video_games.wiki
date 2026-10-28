@@ -1,0 +1,433 @@
+{{Short description|None}}
+{{Video games}}
+{{Dynamic list}}
+[[File:PS3Versions.png|thumb|Original PlayStation 3 and PlayStation 3 Slim with [[DualShock 3]] controller]]
+
+This is a list of video games for the [[PlayStation 3]] [[video game console]] that have sold or shipped at least one million copies.
+
+As of May 12, 2025, a total of over one{{nbsp}}billion copies of PlayStation 3 software had been sold worldwide.<ref>{{cite web|url=https://www.sie.com/en/corporate/data.html|title=Business Development - PlayStation Software|archive-url=https://web.archive.org/web/20201214141927/https://www.sie.com/en/corporate/data.html|archive-date=December 14, 2020|publisher=[[Sony Interactive Entertainment]]}}</ref>
+{{clear}}
+
+==List==
+{{srn}}
+{| class="wikitable plainrowheaders sortable static-row-numbers"
+!scope="col" | Game
+!scope="col" data-sort-type="number"| Copies sold
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Genre(s)
+!scope="col" | Developer(s)
+!scope="col" | Publisher(s)
+|- 
+| ''[[Grand Theft Auto V]]''
+| {{nts|24.66}}{{nbsp}}million{{efn|Of the 90 million total units sold by April 2018, 32.8% of that total were for the PlayStation 3 version.<ref>{{cite web|url=https://www.marketwatch.com/amp/story/this-violent-videogame-has-made-more-money-than-any-movie-ever-2018-04-06|title=This violent videogame has made more money than any movie ever|date=April 9, 2018|last=Cherney|first=Mark A.|publisher=[[MarketWatch]]|access-date=December 30, 2020|archive-url=https://web.archive.org/web/20201115192434/https://www.marketwatch.com/story/this-violent-videogame-has-made-more-money-than-any-movie-ever-2018-04-06|archive-date=November 15, 2020}}</ref>}}
+| {{dts|September 17, 2013}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North]]
+| [[Rockstar Games]]
+|-
+| ''[[Gran Turismo 5]]''
+| {{nts|11.95}}{{nbsp}}million<ref name="gtseries">{{Cite web|url=http://www.polyphony.co.jp/products/|archive-url=https://web.archive.org/web/20180427232918/http://www.polyphony.co.jp/products/|url-status=dead|archive-date=April 27, 2018|title=製品情報 {{!}} Polyphony Digital - ポリフォニー・デジタル|date=September 30, 2017|access-date=July 16, 2023}}</ref>
+| {{dts|November 24, 2010}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Grand Theft Auto IV]]''
+| {{nts|11}}{{nbsp}}million{{efn|"''GTA IV'' sold 13 million copies in its first year, approximately one third of them on PS3"<ref>{{cite web|url=https://www.gamasutra.com/php-bin/news_index.php?story=24193|title=Opinion: On Sony's PS3 Past, Present, Future - The Problems|archive-url=https://web.archive.org/web/20161019022248/https://www.gamasutra.com/php-bin/news_index.php?story=24193|date=July 6, 2009|archive-date=October 19, 2016|website=[[Gamasutra]]|last=Martin|first=Adam|access-date=March 15, 2021}}</ref>}}{{efn|''Grand Theft Auto IV'' sales breakdown:
+* Japan {{ndash}} 211,240 (original) and 37,306 ([[The Best (PlayStation)|The Best]])<ref>{{cite web|url=http://kotaku.com/5085929/kirby-chews-up-spits-out-niko-bellic-in-japan|title=Kirby Chews Up, Spits Out Niko Bellic In Japan|first=Michael|last=McWhertor|date=2008-11-13|access-date=2008-11-14|publisher=Kotaku|archive-date=2008-12-20|archive-url=https://web.archive.org/web/20081220163132/http://kotaku.com/5085929/kirby-chews-up-spits-out-niko-bellic-in-japan|url-status=dead}}</ref>
+* United Kingdom {{ndash}} 1{{nbsp}}million<ref name="elspad"/>
+* United States {{ndash}} 1.89{{nbsp}}million<ref name="npd200812">{{cite web|url=http://www.gamedaily.com/articles/news/npd-nintendo-drives-08-industry-sales-past-21-billion-/ |first=James |last=Brightman |title=NPD: Nintendo Drives '08 Industry Sales Past $21 Billion |date=2009-01-15 |publisher=[[GameDaily]] |access-date=2009-01-16 |url-status=bot: unknown |archive-url=https://web.archive.org/web/20090118175623/http://www.gamedaily.com/articles/news/npd-nintendo-drives-08-industry-sales-past-21-billion-/ |archive-date=2009-01-18 }}</ref>
+}}
+| {{dts|April 29, 2008}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North]]
+| [[Rockstar Games]]
+|-
+| ''[[The Last of Us (video game)|The Last of Us]]''
+| {{nts|10}}{{nbsp}}million<ref>{{cite web | title=We Now Know Exactly How Well All of These PlayStation Games Sold | date=21 December 2023 | url=https://fandomwire.com/how-well-all-of-these-playstation-games-sold/ }}</ref>
+| {{dts|June 14, 2013}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[survival horror]]}}
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Uncharted 3: Drake's Deception]]''
+| {{nts|9}}{{nbsp}}million<ref>{{Cite web |date=2019-05-20 |title=Game & Network Services Segment |url=https://www.sony.com/en/SonyInfo/IR/library/presen/irday/pdf/2019/GNS_E.pdf |website=Sony Interactive Entertainment |page=3}}</ref>
+| {{dts|November 1, 2011}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[third-person shooter]]}}
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Uncharted 2: Among Thieves]]''
+| {{nts|7.3}}{{nbsp}}million<ref name="bloodborne"/>
+| {{dts|October 13, 2009}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[third-person shooter]]}}
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Metal Gear Solid 4: Guns of the Patriots]]''
+| {{nts|7}}{{nbsp}}million<ref>{{cite web|url=http://www.gamasutra.com/view/news/218234/Republique_and_the_fight_for_narrative_games_in_a_modern_market.php|title=Republique, and the fight for narrative games in a modern market|last=Alexander|first=Leigh|date=21 May 2014|work=[[Gamasutra]]|publisher=[[UBM TechWeb]]|access-date=21 May 2014|archive-date=7 April 2019|archive-url=https://web.archive.org/web/20190407134206/http://www.gamasutra.com/view/news/218234/Republique_and_the_fight_for_narrative_games_in_a_modern_market.php|url-status=dead}}</ref>
+| {{dts|June 12, 2008}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[stealth game|stealth]]}}
+| [[Kojima Productions]]
+| [[Konami]]
+|-
+| ''[[Batman: Arkham City]]''
+| {{nts|5.48}}{{nbsp}}million<ref name="Top 10 of Everything 2018">{{Cite book |last=Terry |first=Paul |url=https://books.google.com/books?id=LldCDgAAQBAJ&dq=batman+Arkham+City+sold+copies+xbox+360&pg=PA228 |archive-url=https://web.archive.org/web/20230207164248/https://books.google.com/books?id=LldCDgAAQBAJ&dq=batman+Arkham+City+sold+copies+xbox+360&pg=PA228 |archive-date=2023-02-07 |title=Top 10 of Everything 2018 |date=2017-09-28 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=2023-10-30 |url-status=bot: unknown }}</ref>
+| {{dts|October 18, 2011}}
+| [[Action-adventure game|Action-adventure]] 
+| [[Rocksteady Studios]]
+| [[Warner Bros. Games]]
+|-
+| ''[[Gran Turismo 5 Prologue]]''
+| {{nts|5.35}}{{nbsp}}million<ref name="gtseries" />
+| {{dts|December 13, 2007}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Gran Turismo 6]]''
+| {{nts|5.22}}{{nbsp}}million<ref name="gtseries" />
+| {{dts|December 6, 2013}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[God of War III]]''
+| {{nts|5.18}}{{nbsp}}million{{efn|''God of War III'' sales breakdown:
+* Asia {{ndash}} 417,866<ref name="GodOfWar">{{cite web|url=http://www.eurogamer.net/articles/2012-06-05-god-of-war-series-has-sold-over-21-million-copies |title=God of War series has sold over 21 million copies • News • PlayStation 3 • Eurogamer.net |date=2012-06-05 |access-date=2012-06-05 |work=Eurogamer |url-status=dead |archive-url=https://web.archive.org/web/20121108044426/http://www.eurogamer.net/articles/2012-06-05-god-of-war-series-has-sold-over-21-million-copies |archive-date=2012-11-08 }}</ref>
+* Latin and North America {{ndash}} 2,818,033<ref name="GodOfWar" />
+* [[PAL region]]s {{ndash}} 1,961,733<ref name="GodOfWar" />
+}}
+| {{dts|March 16, 2010}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Santa Monica Studio]]
+| [[Sony Computer Entertainment]]
+|-
+|[[Resident Evil (2002 video game)|''Resident Evil'']]
+| {{nts|5.1}}{{nbsp}}million<ref>{{cite web | title=Platinum Titles &#124;Product Data &#124; CAPCOM | date=31 December 2025 | url=https://www.capcom.co.jp/ir/english/business/million.html#tab2 }}</ref>
+|November 27, 2014
+|[[Survival horror]]
+|[[Capcom Production Studio 4]]
+|[[Capcom]] 
+|-
+| ''[[Final Fantasy XIII]]''
+| {{nts|5}}{{nbsp}}million<ref>{{cite news |last1=Kurabe |first1=Esura |title=FF、DQの躍進からニーアの思わぬヒットーーRPG老舗としての存在感を取り戻しつつあるスクウェア・エニックス |url=https://jp.ign.com/square-enix/17748/opinion/ffdqrpg |access-date=4 June 2023 |work=[[IGN Japan]] |agency=[[IGN]] |date=26 September 2017 |language=ja}}</ref>{{efn|''Final Fantasy XIII'' sales breakdown:
+* Japan {{ndash}} 1.904{{nbsp}}million<ref name="FamitsuFFXIII">{{cite web|title=Square Enix|url=http://garaph.info/gamesearch.php?publisher=Square%20Enix&opt=0|publisher=Garaph (based on the data from [[Famitsu]])|access-date=7 June 2013|archive-date=24 October 2017|archive-url=https://web.archive.org/web/20171024153655/http://garaph.info/gamesearch.php?publisher=Square|url-status=live}}</ref>
+* Other Asian countries {{ndash}} 140,000<ref name="sqenixmay2010">{{cite web|url=http://www.square-enix.com/eng/pdf/news/20100518_02.pdf|title=Results Briefing Session The Fiscal Year Ending 31 March 2010|date=2010-05-18|publisher=[[Square Enix]]|access-date=2010-08-21|archive-date=2011-09-29|archive-url=https://web.archive.org/web/20110929151713/http://www.square-enix.com/eng/pdf/news/20100518_02.pdf|url-status=live}}</ref>
+* United Kingdom {{ndash}} 100,000<ref name="elspas">{{cite web|url=http://www.elspa.com/?i=3942 |access-date=2009-02-03 |publisher=[[Entertainment and Leisure Software Publishers Association]] |title=ELSPA Sales Awards: Silver |url-status=dead |archive-url=https://web.archive.org/web/20090504203539/http://www.elspa.com/?i=3942 |archive-date=2009-05-04 }}</ref>
+* United States {{ndash}} 828,200<ref name="GoW3PokeNPD">{{cite web|url=https://kotaku.com/god-of-war-iii-pokemon-more-battle-it-out-for-marchs-5518299|title=God of War III, Pokémon & More Battle It Out For March's Bestseller Crown|last=McWhertor|first=Michael|date=2010-04-15|publisher=Kotaku|access-date=2010-04-18|archive-date=2010-04-18|archive-url=https://web.archive.org/web/20100418031720/http://kotaku.com/5518299/god-of-war-iii-pokemon--more-battle-it-out-for-marchs-bestseller-crown|url-status=live}}</ref>
+}}
+| {{dts|December 17, 2009}}
+| [[Role-playing video game|Role-playing]]
+| [[Square Enix 1st Production Department]]
+| [[Square Enix]]
+|-
+| ''[[Uncharted: Drake's Fortune]]''
+| {{nts|4.8}}{{nbsp}}million<ref name="bloodborne" />
+| {{dts|November 16, 2007}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[third-person shooter]]}}
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Call of Duty: Modern Warfare 2]]''
+| {{nts|4.79}}{{nbsp}}million{{efn|''Call of Duty: Modern Warfare 2'' sales breakdown:
+* Japan {{ndash}} 244,578 (original) and 25,268 ([[The Best (PlayStation)|The Best]])<ref name="japanchartsps3"/>
+* United Kingdom {{ndash}} at least 1{{nbsp}}million<ref name="elspad">{{cite web |archive-url=https://web.archive.org/web/20090519022708/http://www.elspa.com/?i=3946|archive-date=2009-05-19|url=http://www.elspa.com/?i=3946 |title=ELSPA Sales Awards: Diamond |access-date=2008-08-01 |publisher=[[Entertainment and Leisure Software Publishers Association]]}}</ref>
+* United States {{ndash}} 3.531{{nbsp}}million<ref name=mw2nov>{{cite news | url = https://www.forbes.com/sites/insertcoin/2012/08/15/modern-warfare-3-sales-will-never-catch-black-ops-has-call-of-duty-peaked/ | title = Modern Warfare 3 Sales Will Never Catch Black Ops - Has Call of Duty Peaked? - Forbes | access-date = 2012-10-20 | work = Forbes | publisher = Forbes LLC | first = Paul | last = Tassi | date = 2012-08-15 | archive-date = 2013-05-28 | archive-url = https://web.archive.org/web/20130528043706/http://www.forbes.com/sites/insertcoin/2012/08/15/modern-warfare-3-sales-will-never-catch-black-ops-has-call-of-duty-peaked/ | url-status = live }}</ref><ref name=dec2009>{{cite web|url=http://www.gamasutra.com/view/news/26822/NPD_December_US_Revenue_Up_4_In_Best_Month_Ever.php|title=NPD: December U.S. Revenue Up 4% In Best Month Ever|date=2010-01-24|publisher=[[Gamasutra]]|access-date=2010-04-03|archive-date=2019-05-02|archive-url=https://web.archive.org/web/20190502114513/http://www.gamasutra.com/view/news/26822/NPD_December_US_Revenue_Up_4_In_Best_Month_Ever.php|url-status=dead}}</ref><ref name=fev2010>{{cite web|url=http://www.gamespot.com/news/6253517.html|title=ChartSpot: February 2010|date=2010-03-16|publisher=GameSpot|access-date=2010-04-03|archive-date=2010-03-23|archive-url=https://web.archive.org/web/20100323003108/http://www.gamespot.com/news/6253517.html|url-status=live}}</ref>
+}}
+| {{dts|November 10, 2009}}
+| [[First-person shooter]]
+| [[Infinity Ward]]
+| [[Activision]]
+|-
+| ''[[LittleBigPlanet (2008 video game)|LittleBigPlanet]]''
+| {{nts|4.5}}{{nbsp}}million<ref>{{cite web|url=http://www.gamespot.com/ps3/action/littlebigplanet2/news.html?sid=6261823|title=Little Big Planet 2 Hands-On|date=2010-05-10|access-date=2010-05-10|publisher=[[GameSpot]]|archive-date=2010-05-20|archive-url=https://web.archive.org/web/20100520110830/http://www.gamespot.com/ps3/action/littlebigplanet2/news.html?sid=6261823&mode=previews|url-status=live}}</ref>
+| {{dts|October 27, 2008}}
+| {{hlist|[[Puzzle-platformer]]|[[sandbox game|sandbox]]}}
+| [[Media Molecule]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Batman: Arkham Asylum]]''
+| {{nts|4.23}}{{nbsp}}million<ref name="Top 10 of Everything 2018"/>
+| {{dts|August 25, 2009}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rocksteady Studios]]
+| {{hlist|[[Warner Bros. Games]]|[[Eidos Interactive]]}}
+|-
+| ''[[MotorStorm (video game)|MotorStorm]]''
+| {{nts|3.31}}{{nbsp}}million<ref>{{cite web|url=http://www.next-gen.biz/features/games-2008-playstation-3 |archive-url=https://archive.today/20121231093710/http://www.next-gen.biz/features/games-2008-playstation-3 |url-status=dead |archive-date=2012-12-31 |publisher=[[Edge (magazine)|Edge]] |access-date=2008-07-31 |date=2007-12-30 |title=The Games of 2008: PlayStation 3 }}</ref>
+| {{dts|December 14, 2006}}
+| [[Racing video game|Racing]]
+| [[Evolution Studios]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Call of Duty: Black Ops]]''
+| {{nts|3.269}}{{nbsp}}million{{efn|''Call of Duty: Black Ops'' sales breakdown:
+* Japan {{ndash}} 175,813<ref name="japanchartsps3"/>
+* United States {{ndash}} 3.094{{nbsp}}million<ref name=gametrailers>{{cite video|url=http://www.gametrailers.com/video/episode-139-invisible-walls/708767|title=Invisible Walls, Episode 139|publisher=[[GameTrailers]]|date=2010-12-24|access-date=2010-01-10|time=15:22|archive-date=2010-12-28|archive-url=https://web.archive.org/web/20101228152153/http://www.gametrailers.com/video/episode-139-invisible-walls/708767|url-status=live}}</ref>
+}}
+| {{dts|November 9, 2010}}
+| [[First-person shooter]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Heavy Rain]]''
+| {{nts|3.03}}{{nbsp}}million<ref>{{cite web|url=http://fraghero.com/heavy-rain-surpasses-3-million-copies-in-sales/|title=Heavy Rain surpasses 3 million copies in sales|date=2013-08-17|access-date=2017-01-12|publisher=Fraghero|archive-date=2017-01-16|archive-url=https://web.archive.org/web/20170116200928/http://fraghero.com/heavy-rain-surpasses-3-million-copies-in-sales/|url-status=live}}</ref>
+| {{dts|February 23, 2010}}
+| {{hlist|[[Interactive drama]]|[[action-adventure game|action-adventure]]}}
+| [[Quantic Dream]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[God of War: Ascension]]''
+| {{nts|3}}{{nbsp}}million<ref>{{cite web |last=Maher |first=Cian |date=May 12, 2020 |title=It turns out God of War: Ascension grossed over $100m in revenue |url=https://www.vg247.com/2020/5/12/god-of-war-ascension-grossed-100m/ |access-date=June 10, 2020 |website=[[VG247]]}}</ref>
+| {{dts|March 12, 2013}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Santa Monica Studio]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Resistance 2]]''
+| {{nts|3}}{{nbsp}}million<ref>{{cite web |url=https://www.gamedeveloper.com/business/insomniac-games-walks-away-from-i-resistance-i-franchise |title=Insomniac Games walks away from Resistance franchise |website=[[Game Developer (website)|Game Developer]] |date=January 25, 2012 |last=Curtis |first=Tom |access-date=June 6, 2025 |archive-url=https://archive.today/20250606200455/https://www.gamedeveloper.com/business/insomniac-games-walks-away-from-i-resistance-i-franchise |archive-date=June 6, 2025}}</ref>
+| {{dts|November 4, 2008}}
+| [[First-person shooter]]
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Beyond: Two Souls]]''
+| {{nts|2.8}}{{nbsp}}million<ref>{{cite web |url=https://gamingbolt.com/beyond-two-souls-sold-2-8-million-copies |title=Beyond: Two Souls Has Sold 2.8 Million Copies Worldwide |date=2018-07-16 |work=GamingBolt |access-date=2018-07-20 |archive-date=2018-08-07 |archive-url=https://web.archive.org/web/20180807155820/https://gamingbolt.com/beyond-two-souls-sold-2-8-million-copies |url-status=live }}</ref>
+| {{dts|October 8, 2013}}
+| {{hlist|[[Interactive drama]]|[[action-adventure game|action-adventure]]}}
+| [[Quantic Dream]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Resistance: Fall of Man]]''
+| {{nts|2.5}}{{nbsp}}million<ref>{{cite web|url=http://www.gametrailers.com/player/31025.html |date=2008-02-25 |access-date=2007-06-11 |publisher=[[GameTrailers]] |title=DICE 2008 Ted Price Interview (Towards the End of the Interview) |url-status=bot: unknown |archive-url=https://web.archive.org/web/20080227140147/http://www.gametrailers.com/player/31025.html |archive-date=2008-02-27 }}</ref>
+| {{dts|November 14, 2006}}
+| [[First-person shooter]]
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[God of War Collection]]''
+| {{nts|2.39}}{{nbsp}}million{{efn|''God of War Collection'' sales breakdown:
+* Asia {{ndash}} 155,600<ref name="GodOfWar" />
+* Latin and North America {{ndash}} 1,748,663<ref name="GodOfWar" />
+* PAL regions {{ndash}} 514,253<ref name="GodOfWar" />
+}}
+| {{dts|November 17, 2009}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| {{hlist|[[Santa Monica Studio]]|[[Bluepoint Games]]}}
+| {{vgrelease|WW|[[Sony Computer Entertainment]]|JP|[[Capcom]]}}
+|-
+| ''[[Batman: Arkham Origins]]''
+| {{nts|2.29}}{{nbsp}}million<ref name="Top 10 of Everything 2018"/>
+| {{dts|October 25, 2013}}
+| [[Action-adventure game|Action-adventure]]
+| {{hlist|[[WB Games Montréal]]|[[Splash Damage]]}}
+| [[Warner Bros. Games]]
+|-
+| ''[[Lego Star Wars: The Complete Saga]]''
+| {{nts|2.16}}{{nbsp}}million<ref>{{cite book |title=Guinness World Records Gamer's Edition 2016 |date=September 1, 2015 |publisher=[[Guinness World Records]] |page=85 |isbn=978-1-910-56109-6 |url=https://archive.org/details/guinnessworldrec0000unse_s1m3}}</ref>
+| {{dts|November 6, 2007}}
+| [[Action-adventure game|Action-adventure]]
+| [[Traveller's Tales]]
+| [[LucasArts]]
+|-
+| ''[[Infamous (video game)|inFAMOUS]]''
+| {{nts|2}}{{nbsp}}million<ref>{{cite web|url=http://gameinformer.com/b/news/archive/2010/06/04/july_5F00_cover_5F00_reveal_5F00_9988.aspx|date=2010-06-04|access-date=2010-06-04|publisher=[[Game Informer]]|title=July Cover Revealed: Infamous 2|archive-url=https://web.archive.org/web/20100606175308/http://gameinformer.com/b/news/archive/2010/06/04/july_5F00_cover_5F00_reveal_5F00_9988.aspx|archive-date=2010-06-06|url-status=dead}}</ref>
+| {{dts|May 26, 2009}}
+| [[Action-adventure game|Action-adventure]]
+| [[Sucker Punch Productions]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Killzone 2]]''
+| {{nts|2}}{{nbsp}}million<ref>{{cite web|url=http://www.ps3center.net//news/3946/killzone-2-hits-2-million-sold/|title=Killzone 2 hits 2 million sold|date=2009-10-23|access-date=2010-04-07|publisher=ps3center|archive-date=2019-05-02|archive-url=https://web.archive.org/web/20190502144707/http://www.ps3center.net//news/3946/killzone-2-hits-2-million-sold/|url-status=usurped}}</ref>
+| {{dts|February 26, 2009}}
+| [[First-person shooter]]
+| [[Guerrilla Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Mortal Kombat vs. DC Universe]]''
+| {{nts|2}}{{nbsp}}million<ref name="Top 10 of Everything 2018"/>
+| {{dts|November 16, 2008}}
+| [[Fighting game|Fighting]]
+| [[Midway Games]]
+| [[Midway Games]]
+|-
+| ''[[Dark Souls (video game)|Dark Souls]]''
+| {{nts|1.9}}{{nbsp}}million<ref name="bloodborne"/>
+| {{dts|September 22, 2011}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| {{vgrelease|WW|[[Namco Bandai Games]]|JP|[[FromSoftware]]}}
+|-
+| ''[[Call of Duty 4: Modern Warfare]]''
+| {{nts|1.86}}{{nbsp}}million{{efn|''Call of Duty 4: Modern Warfare'' sales breakdown:
+* Japan {{ndash}} 122,019 (regular) and 149,028 ([[The Best (PlayStation)|The Best]])<ref name="japanchartsps3"/>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp">{{cite web|archive-url=https://web.archive.org/web/20090520070249/http://www.elspa.com/?i=3945|archive-date=2009-05-20|url=http://www.elspa.com/?i=3945 |title=ELSPA Sales Awards: Double Platinum |access-date=2009-01-18 |publisher=[[Entertainment and Leisure Software Publishers Association]]}}</ref>
+* United States {{ndash}} 1.106{{nbsp}}million<ref name=cod/>
+}}
+| {{dts|November 5, 2007}}
+| [[First-person shooter]]
+| [[Infinity Ward]]
+| [[Activision]]
+|-
+| ''[[Call of Duty: World at War]]''
+| {{nts|1.83}}{{nbsp}}million{{efn|''Call of Duty: World at War'' sales breakdown:
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.238{{nbsp}}million<ref name=cod>{{cite web|url=http://www.gamasutra.com/php-bin/news_index.php?story=22319|title=Analysis: Latest Call Of Duty Lags Predecessor On PS3/360, Makes Up On Wii|first=Matt|last=Matthews|publisher=[[Gamasutra]]|date=2009-02-16|access-date=2011-02-18|archive-date=2019-05-02|archive-url=https://web.archive.org/web/20190502133219/http://www.gamasutra.com/php-bin/news_index.php?story=22319|url-status=dead}}</ref>
+}}
+| {{dts|November 11, 2008}}
+| [[First-person shooter]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Demon's Souls]]''
+| {{nts|1.7}}{{nbsp}}million<ref name="bloodborne">{{cite web|url=https://www.forbes.com/sites/insertcoin/2015/03/16/bloodborne-may-be-the-ps4s-salvation-in-2015/|title='Bloodborne' May Be The PS4's Salvation In 2015|author=Paul Tassi|date=16 March 2015|work=Forbes|access-date=4 June 2015|archive-date=23 April 2019|archive-url=https://web.archive.org/web/20190423224037/https://www.forbes.com/sites/insertcoin/2015/03/16/bloodborne-may-be-the-ps4s-salvation-in-2015/|url-status=live}}</ref>
+| {{dts|February 5, 2009}}
+| [[Action role-playing game|Action role-playing]]
+| [[FromSoftware]]
+| {{vgrelease|JP|[[Sony Computer Entertainment]]|NA|[[Atlus USA]]|PAL|[[Namco Bandai Games]]}}
+|-
+| ''[[L.A. Noire]]''
+| {{nts|1.68}}{{nbsp}}million{{efn|Of the total 4 million copies sold overall in its first month, 42% were the PS3 version<ref>{{cite web |url=https://www.gamespot.com/articles/la-noire-pc-bound-this-fall-ships-4-million-units/1100-6320849/ |title=L.A. Noire PC-bound this fall, ships 4 million units |last=Thorsen |first=Tor |work=[[GameSpot]] |publisher=[[CBS Interactive]] |date=23 June 2011 |access-date=2 November 2021 |archive-url=https://web.archive.org/web/20150627201843/https://www.gamespot.com/articles/la-noire-pc-bound-this-fall-ships-4-million-units/1100-6320849/ |archive-date=27 June 2015 |url-status=live }}</ref><ref>{{cite web |url=https://www.destructoid.com/58-of-l-a-noire-sales-on-xbox-360-42-on-ps3/ |title=58% of L.A. Noire sales on Xbox 360, 42% on PS3 |last=Sterling |first=Jim |author-link=Jim Sterling |work=[[Destructoid]] |publisher=MethodMedia |date=23 May 2011 |access-date=2 November 2021 |archive-url=https://web.archive.org/web/20210603044838/https://www.destructoid.com/58-of-l-a-noire-sales-on-xbox-360-42-on-ps3/ |archive-date=3 June 2021 |url-status=live }}</ref>}}
+| {{dts|May 17, 2011}}
+| [[Action-adventure game|Action-adventure]]
+| [[Team Bondi]]
+| [[Rockstar Games]]
+|-
+| ''[[Resident Evil 5]]''
+| {{nts|1.61}}{{nbsp}}million{{efn|''Resident Evil 5'' sales breakdown:
+* France {{ndash}} 62,040<ref>{{cite web|url=http://www.jeuxvideo.com/news/2009/00032834-resident-evil-5-les-ventes-francaises.htm|title=Resident Evil 5 : les ventes françaises|publisher=JeuxVideo.com|date=2009-03-21|language=fr|access-date=2009-07-13|archive-date=2019-05-02|archive-url=https://web.archive.org/web/20190502171200/http://www.jeuxvideo.com/news/2009/00032834-resident-evil-5-les-ventes-francaises.htm|url-status=live}}</ref>
+* Japan {{ndash}} 520,564 (original) and 258,961 (Gold Edition)<ref name="japanchartsps3">{{cite web|url=http://www.japan-gamecharts.com/ps3.php |title=Sony Playstation 3 Japanese Ranking |publisher=Japan Game Charts |date=2009-07-12 |access-date=2009-07-13 |url-status=usurped |archive-url=https://web.archive.org/web/20090831085027/http://www.japan-gamecharts.com/ps3.php |archive-date=August 31, 2009 }}</ref>
+* United Kingdom {{ndash}} 200,000<ref name="elspag">{{cite web|url=http://www.elspa.com/?i=3943 |access-date=2009-02-03 |publisher=[[Entertainment and Leisure Software Publishers Association]] |title=ELSPA Sales Awards: Gold |url-status=dead |archive-url=https://web.archive.org/web/20090319031650/http://www.elspa.com/?i=3943 |archive-date=2009-03-19 }}</ref>
+* United States {{ndash}} 585,000<ref>{{cite web|url=http://www.gamespot.com/news/6208084.html|title=NPD: Resident Evil 5 infects 1.5 million, March game sales sink 17%|publisher=[[USA Today]]|access-date=2009-07-13|date=2009-04-16|first=Tor|last=Thorsen|archive-date=2009-06-27|archive-url=https://web.archive.org/web/20090627130432/http://www.gamespot.com/news/6208084.html|url-status=live}}</ref>
+}}
+| {{dts|March 5, 2009}}
+| [[Third-person shooter]]
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Heavenly Sword]]''
+| {{nts|1.5}}{{nbsp}}million<ref>{{cite web|url=http://www.computerandvideogames.com/article.php?id=240867|date=2010-03-29|access-date=2010-04-02|publisher=[[Computer and Video Games]]|title=Ninja Theory: We made no money on PS3 with Heavenly Sword|author=Mike Jackson|archive-date=2010-04-01|archive-url=https://web.archive.org/web/20100401032107/http://www.computerandvideogames.com/article.php?id=240867|url-status=live}}</ref>
+| {{dts|September 12, 2007}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Ninja Theory]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Minecraft: PlayStation 3 Edition]]''
+| {{nts|1.5}}{{nbsp}}million<ref>{{cite web |url= http://blog.eu.playstation.com/2014/04/16/minecraft-playstation-3-edition-gets-blu-ray-release-next-month/ |title= Minecraft: PlayStation 3 Edition gets a Blu-ray release next month |last= Hill |first= Owen |publisher= [[Mojang]] |date= 2014-04-16 |website= Mojang — Makers of Minecraft |access-date= 16 April 2014 |archive-date= 2014-04-18 |archive-url= https://web.archive.org/web/20140418044202/http://blog.eu.playstation.com/2014/04/16/minecraft-playstation-3-edition-gets-blu-ray-release-next-month/ |url-status= live }}</ref>
+| {{dts|December 17, 2013}}
+| {{hlist|[[Sandbox game|Sandbox]]|[[survival game|survival]]}}
+| [[4J Studios]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Metal Gear Rising: Revengeance]]''
+| {{nts|1.42}}{{nbsp}}million<ref>{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref>
+| {{dts|February 19, 2013}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[Hack and slash]]}}
+| [[PlatinumGames]]
+| [[Konami]]
+|-
+| ''[[Pro Evolution Soccer 2008]]''
+| {{nts|1.42}}{{nbsp}}million<ref>{{Cite web |date=2021-11-26 |title=2008 CESA Games White Paper |url=https://www.installbaseforum.com/threads/2008-cesa-games-white-paper.289/ |access-date=2024-03-11 |website=Install Base |language=en-US}}</ref>
+| {{dts|October 26, 2007}}
+| [[Sports game|Sports]]
+| [[Konami]]
+| [[Konami]]
+|-
+| ''[[Red Dead Redemption]]''
+| {{nts|1.34}}{{nbsp}}million{{efn|''Red Dead Redemption'' sales breakdown:
+* Japan {{ndash}} 109,340<ref name="japanchartsps3"/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap">{{cite web|url=http://www.elspa.com/?i=3944 |archive-url=https://web.archive.org/web/20090515224703/http://www.elspa.com/?i=3944 |archive-date=May 15, 2009 |access-date=2009-01-18 |publisher=[[Entertainment and Leisure Software Publishers Association]] |title=ELSPA Sales Awards: Platinum |url-status=dead }}</ref>
+* United States {{ndash}} 947,400<ref>{{cite web| url=http://www.gamespot.com/xbox360/action/reddeadredemption/news.html?sid=6267868| title=Red Dead Redemption sells 1.5M, May game sales slide 5% - NPD| author=Tor Thorsen| date=2010-07-02| access-date=2010-07-13| publisher=[[GameSpot]]| archive-date=2011-06-28| archive-url=https://web.archive.org/web/20110628225023/http://www.gamespot.com/xbox360/action/reddeadredemption/news.html?sid=6267868| url-status=live}}</ref><ref>{{cite news|url=https://www.wired.com/gamelife/2010/07/june-npd|title=June NPD Sales: Red Dead Redemption is Biggest Game of 2010|publisher=[[Wired (magazine)|Wired]]|date=2010-07-15|access-date=2010-07-19|first=Chris|last=Kohler|archive-date=2013-11-05|archive-url=https://web.archive.org/web/20131105044344/http://www.wired.com/gamelife/2010/07/june-npd/|url-status=live}}</ref>
+}}
+| {{dts|May 18, 2010}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar San Diego]]
+| [[Rockstar Games]]
+|-
+| ''[[Ratchet & Clank Future: Tools of Destruction]]''
+| {{nts|1.25}}{{nbsp}}million<ref>Guinness World Records(2009). ''Guinness World Records 2009 Gamer's Edition'', p.&nbsp;173.</ref>
+| {{dts|October 23, 2007}}
+| {{hlist|[[Platform game|Platform]]|[[action-adventure game|action-adventure]]}}
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[One Piece: Pirate Warriors (video game)|One Piece: Pirate Warriors]]''
+| {{nts|1.2}}{{nbsp}}million<ref>{{cite web|url=https://gamingbolt.com/one-piece-pirate-warriors-2-announced-by-namco-bandai |title=One Piece: Pirate Warriors 2 announced by Namco Bandai |last=Mudgal |first=Kartik |publisher=Gamingbolt |date=December 11, 2012 |access-date=December 27, 2020 |archive-url=https://web.archive.org/web/20190926222236/https://gamingbolt.com/one-piece-pirate-warriors-2-announced-by-namco-bandai |archive-date=September 26, 2019 |url-status=live }}</ref>
+| {{dts|March 1, 2012}}
+| [[Action game|Action]]
+| [[Omega Force]]
+| [[Namco Bandai Games]]
+|-
+| ''[[Dark Souls II]]''
+| {{nts|1.1}}{{nbsp}}million<ref name="bloodborne"/>
+| {{dts|March 11, 2014}}
+| [[Action role-playing]]
+| [[FromSoftware]]
+| {{vgrelease|WW|[[Bandai Namco Games]]|JP|[[FromSoftware]]}}
+|-
+| ''[[Ni no Kuni: Wrath of the White Witch]]''
+| {{nts|1.1}}{{nbsp}}million<ref>{{cite web|url=http://www.vg247.com/2014/03/07/ni-no-kuni-wrath-of-the-white-witch-passes-1-1-million-shipped-new-edition-revealed/ |title=Ni No Kuni: Wrath of the White Witch passes 1.1 million shipped, new edition revealed |last=Cook |first=Dave |publisher=[[VG247]] |date=March 7, 2014 |access-date=July 26, 2015 |archive-url=https://web.archive.org/web/20150910092657/http://www.vg247.com/2014/03/07/ni-no-kuni-wrath-of-the-white-witch-passes-1-1-million-shipped-new-edition-revealed/ |archive-date=September 10, 2015 |url-status=live }}</ref>
+| {{dts|November 17, 2011}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| {{vgrelease|WW|[[Namco Bandai Games]]|JP|[[Level-5 (company)|Level-5]]}}
+|-
+| ''[[FIFA 11]]''
+| {{nts|1}}{{nbsp}}million<ref name="gamesindustry">{{Cite web |last=Dring |first=Christopher |date=12 April 2019 |title=Here is every boxed game to sell over 1m copies in the UK |url=https://www.gamesindustry.biz/every-game-to-sell-over-1m-copies-in-the-uk |access-date= |website=GamesIndustry.biz |language=en}}</ref>
+| {{dts|September 28, 2010}}
+| [[Sports game|Sports]]
+| [[Electronic Arts]]
+| [[Electronic Arts]]
+|-
+| ''[[FIFA 12]]''
+| {{nts|1}}{{nbsp}}million<ref name="gamesindustry" />
+| {{dts|September 27, 2011}}
+| [[Sports game|Sports]]
+| [[Electronic Arts]]
+| [[Electronic Arts]]
+|-
+| ''[[FIFA 13]]''
+| {{nts|1}}{{nbsp}}million<ref name="gamesindustry" />
+| {{dts|September 25, 2012}}
+| [[Sports game|Sports]]
+| [[Electronic Arts]]
+| [[Electronic Arts]]
+|-
+| ''[[MotorStorm: Pacific Rift]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web|url=http://www.gamesindustry.biz/articles/motorstorm-pacific-rift-passes-one-million-sales|title=MotorStorm: Pacific Rift passes one million sales|date=2008-12-09|access-date=2008-12-09|publisher=[[Eurogamer|GamesIndustry.biz]]|first=Matt|last=Martin|archive-date=2008-12-10|archive-url=https://web.archive.org/web/20081210201116/http://www.gamesindustry.biz/articles/motorstorm-pacific-rift-passes-one-million-sales|url-status=live}}</ref>
+| {{dts|October 28, 2008}}
+| [[Racing video game|Racing]]
+| [[Evolution Studios]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Valkyria Chronicles (video game)|Valkyria Chronicles]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite news |title=「戦場のヴァルキュリア リマスター」がPS4で2016年2月10日発売。フルHD解像度やトロフィーに対応，さらに全DLCの完全収録も |url=https://www.4gamer.net/games/324/G032499/20151119002/ |work=[[4Gamer.net]] |date=November 19, 2015 |language=ja |archive-date=September 4, 2018 |access-date=September 4, 2018 |archive-url=https://web.archive.org/web/20180904121248/https://www.4gamer.net/games/324/G032499/20151119002/ |url-status=live}}</ref>
+| {{dts|April 24, 2008}}
+| [[Role-playing video game|Role-playing]]
+| [[Sega]]
+| [[Sega]]
+|-
+|}
+
+==See also==
+* [[List of PlayStation 3 games (A–C)]]
+* [[List of PlayStation 3 games (D–I)]]
+* [[List of PlayStation 3 games (J–P)]]
+* [[List of PlayStation 3 games (Q–Z)]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+{{vgbestsellers}}
+{{PlayStation}}
+{{PlayStation 3}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling PlayStation 3 video games}}
+[[Category:PlayStation 3 games| ]]
+[[Category:Lists of best-selling video games|PlayStation 3]]
+[[Category:PlayStation (brand)-related lists|Best-selling PlayStation 3 video games]]

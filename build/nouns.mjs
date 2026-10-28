@@ -49,3 +49,16 @@ export const NOUNS = {
   'nfl-teams': 'An NFL team', 'mlb-teams': 'A Major League Baseball team', 'nhl-teams': 'An NHL team', 'f1-champions': 'A Formula One world champion',
   'martial-arts': 'A martial art or combat sport', 'olympic-hosts': 'A city that has hosted the Olympics', footballers: 'A footballer',
 };
+
+// Prompts added or merged in the October 2026 bank.
+Object.assign(NOUNS, {
+  'countries-africa': 'A country or capital in Africa', 'countries-europe': 'A country or capital in Europe',
+  'countries-asia': 'A country or capital in Asia', 'countries-americas': 'A country or capital in the Americas',
+  'us-states': 'A US state or state capital', 'world-cities': 'One of the largest cities on Earth', 'us-cities': 'One of the 100 largest US cities',
+  'uk-cities': 'A UK city', mountains: 'A mountain', 'baby-animals': 'A word for a young animal', cocktails: 'An IBA official cocktail',
+  'box-office': 'A box office hit', 'animated-studios': 'An animated feature film', 'best-selling-artists': 'A best-selling music act',
+  'spotify-songs': 'A most-streamed song on Spotify', 'best-selling-albums': 'A best-selling album', 'best-selling-games': 'A best-selling video game',
+  pokemon: 'A Pokémon', 'classic-games': 'A video game often named among the best', 'us-teams': 'A North American major league team', 'football-clubs': 'A club in one of Europe\'s big five leagues',
+  'world-cup-nations': 'A men\'s World Cup nation', 'grand-slam-champions': 'A Grand Slam singles champion', 'f1-winners': 'A Formula One Grand Prix winner',
+  'fast-food': 'A fast food chain', 'chocolate-bars': 'A chocolate bar', leaders: 'A US president or British prime minister',
+});

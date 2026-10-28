@@ -1,0 +1,1130 @@
+{{pp-semi-indef|small=yes}}
+{{Short description|none}}
+{{Use American English|date=August 2026}}
+{{Use mdy dates|date=August 2026}}
+[[File:Pixar_logo.svg|alt=Pixar logo|thumb|310x310px|Logo for Pixar Animation Studios used since 1995]]
+This is a '''list of Pixar films''', which includes information about released and upcoming films, cancelled projects, box office performance, critical and public response, and awards for released films.
+
+[[Pixar|Pixar Animation Studios]] is an American [[computer animation]] film production company based in [[Emeryville, California]], United States. As of August 2026, Pixar has produced 31 feature films, which were all released by [[Walt Disney Studios Motion Pictures]] through the [[Walt Disney Pictures]] banner. Moreover, Pixar's first feature film was ''[[Toy Story]]'' (which was also the first CGI-animated feature ever theatrically released) on November 22, 1995, and its latest film was ''[[Toy Story 5]]'' on June 19, 2026.
+
+Its upcoming slate of films includes ''[[Gatto (film)|Gatto]]'' in 2027, ''Ghost Market'' and ''[[Incredibles 3]]'' in 2028, and ''[[Coco 2]]'' in 2029.
+
+{{TOC limit|3}}
+
+==Films==
+All films listed are co-produced by [[Walt Disney Pictures]] and released by [[Walt Disney Studios Motion Pictures|Buena Vista Pictures Distribution (1995–2007)/Walt Disney Studios Motion Pictures (2008–present)]].<ref>{{Cite web |title=Pixar, Inc. Form 10-K405 12/29/01 |url=https://www.sec.gov/Archives/edgar/data/1002114/000089161802001531/f80223e10-k405.htm |access-date=2026-08-30 |website=www.sec.gov}}</ref><ref name="bbg">{{Cite news |last=Fixmer|first=Andy|date=April 25, 2007|title=Disney to Drop Buena Vista Brand Name, People Say (Update1)|publisher=[[Bloomberg L.P.|bloomberg.com]]|url=https://www.bloomberg.com/apps/news?pid=newsarchive&sid=a0MG17nO.PG8|access-date=August 30, 2026|archive-url=https://web.archive.org/web/20140104210805/http://www.bloomberg.com/apps/news?pid=newsarchive&sid=a0MG17nO.PG8|archive-date=January 4, 2014}}</ref><ref>{{Cite web |date=2003-06-02 |title='Nemo's' fish story a whopper: $70 million |url=https://www.latimes.com/archives/la-xpm-2003-jun-02-et-munoz2-story.html |access-date=2026-08-30 |website=Los Angeles Times |language=en-US}}</ref>
+
+===Released===
+{| class="wikitable plainrowheaders sortable" style="text-align:center; margin=auto; width:100%;"
+! rowspan="2" |#
+! rowspan="2" width="10%" | Film
+! rowspan="2" width="10%" | Release date
+! rowspan="2" width="10%" | Director(s)
+! colspan="2" width="40%" | Writer(s)
+! rowspan="2" width="15%" | Producer(s)
+! rowspan="2" width="15%" | Composer(s)
+|-
+! width="20%" | Story
+! width="20%" | Screenplay
+|-
+|'''1'''
+! scope="row" style="text-align:center;" | ''[[Toy Story]]''
+| {{Date table sorting|November 22, 1995}}
+| [[John Lasseter]]
+| John Lasseter, [[Pete Docter]], [[Andrew Stanton]] & [[Joe Ranft]]
+| [[Joss Whedon]], Andrew Stanton, [[Joel Cohen (writer)|Joel Cohen]] & [[Alec Sokolow]]
+| [[Bonnie Arnold]] & [[Ralph Guggenheim]]
+| rowspan="4" | [[Randy Newman]]
+|-
+|'''2'''
+! scope="row" style="text-align:center;" | ''[[A Bug's Life]]''
+| {{Date table sorting|November 25, 1998}}
+| John Lasseter<hr><small>'''Co-director:'''</small><br>Andrew Stanton
+| John Lasseter, Andrew Stanton & Joe Ranft
+| Andrew Stanton, Donald McEnery & Bob Shaw
+| [[Darla K. Anderson]] & Kevin Reher
+|-
+|'''3'''
+! scope="row" style="text-align:center;" | ''[[Toy Story 2]]''
+| {{Date table sorting|November 24, 1999}}
+| John Lasseter<hr><small>'''Co-directors:'''</small><br>[[Ash Brannon]] &<br>[[Lee Unkrich]]
+| John Lasseter, Pete Docter, Ash Brannon & Andrew Stanton
+| Andrew Stanton, Rita Hsiao, Doug Chamberlin & Chris Webb
+| Helene Plotkin & Karen Robert Jackson
+|-
+|'''4'''
+! scope="row" style="text-align:center;" | ''[[Monsters, Inc.]]'' 
+| {{Date table sorting|November 2, 2001}}
+| Pete Docter<hr><small>'''Co-directors:'''</small><br>Lee Unkrich &<br>[[David Silverman (animator)|David Silverman]]
+| Pete Docter, [[Jill Culton]], [[Jeff Pidgeon]] & [[Ralph Eggleston]]
+| Andrew Stanton & [[Dan Gerson]]
+| Darla K. Anderson
+|-
+|'''5'''
+! scope="row" style="text-align:center;" | ''[[Finding Nemo]]''
+| {{Date table sorting|May 30, 2003}}
+| Andrew Stanton<hr><small>'''Co-director:'''</small><br>Lee Unkrich
+| Andrew Stanton
+| Andrew Stanton, [[Bob Peterson (filmmaker)|Bob Peterson]] & [[David Reynolds (screenwriter)|David Reynolds]]
+| Graham Walters
+| [[Thomas Newman]]
+|-
+|'''6'''
+! scope="row" style="text-align:center;" | ''[[The Incredibles]]''
+| {{Date table sorting|November 5, 2004}}
+| colspan="3" | [[Brad Bird]]
+| [[John Walker (film producer)|John Walker]]
+| [[Michael Giacchino]]
+|-
+|'''7'''
+! scope="row" style="text-align:center;" | ''[[Cars (film)|Cars]]''
+| {{Date table sorting|June 9, 2006}}
+| John Lasseter<hr><small>'''Co-director:'''</small><br>Joe Ranft
+| John Lasseter, Joe Ranft & [[Jorgen Klubien]]
+| [[Dan Fogelman]], John Lasseter, Joe Ranft, Kiel Murray, Phil Lorin & Jorgen Klubien
+| Darla K. Anderson
+| Randy Newman
+|-
+|'''8'''
+! scope="row" style="text-align:center;" |  ''[[Ratatouille (film)|Ratatouille]]''
+| {{Date table sorting|June 29, 2007}}
+| Brad Bird<hr><small>'''Co-director:'''</small><br>[[Jan Pinkava]]
+| Jan Pinkava, Jim Capobianco & Brad Bird 
+| Brad Bird
+| [[Brad Lewis]]
+| Michael Giacchino
+|-
+|'''9'''
+! scope="row" style="text-align:center;" | ''[[WALL-E]]''
+| {{Date table sorting|June 27, 2008}}
+| Andrew Stanton
+| Andrew Stanton & Pete Docter
+| Andrew Stanton & [[Jim Reardon]]
+| [[Jim Morris (film producer)|Jim Morris]]
+| Thomas Newman
+|-
+|'''10'''
+! scope="row" style="text-align:center;" | ''[[Up (2009 film)|Up]]''
+| {{Date table sorting|May 29, 2009}}
+| Pete Docter<hr><small>'''Co-director:'''</small><br>Bob Peterson
+| Pete Docter, Bob Peterson & [[Tom McCarthy (director)|Tom McCarthy]]
+| Bob Peterson & Pete Docter
+| [[Jonas Rivera]]
+| Michael Giacchino
+|-
+|'''11'''
+! scope="row" style="text-align:center;" | ''[[Toy Story 3]]''
+| {{Date table sorting|June 18, 2010}}
+| Lee Unkrich
+| John Lasseter, Andrew Stanton & Lee Unkrich
+| [[Michael Arndt]]
+| Darla K. Anderson
+| Randy Newman
+|-
+|'''12'''
+! scope="row" style="text-align:center;" | ''[[Cars 2]]''
+| {{Date table sorting|June 24, 2011}}
+| John Lasseter<hr><small>'''Co-director:'''</small><br>Brad Lewis
+| John Lasseter, Brad Lewis & Dan Fogelman
+| [[Ben Queen]] 
+| Denise Ream
+| Michael Giacchino
+|-
+|'''13'''
+! scope="row" style="text-align:center;" | ''[[Brave (2012 film)|Brave]]''
+| {{Date table sorting|June 22, 2012}}
+| [[Mark Andrews (filmmaker)|Mark Andrews]] &<br>[[Brenda Chapman]]<hr><small>'''Co-director:'''</small><br>[[Steve Purcell]]
+| Brenda Chapman
+| Mark Andrews, Steve Purcell, Brenda Chapman & [[Irene Mecchi]]
+| [[Katherine Sarafian]]
+| [[Patrick Doyle]]
+|-
+|'''14'''
+! scope="row" style="text-align:center;" | ''[[Monsters University]]''
+| {{Date table sorting|June 21, 2013}}
+| [[Dan Scanlon]]
+| colspan="2"| Dan Gerson, Robert L. Baird & Dan Scanlon
+| [[Kori Rae]]
+| Randy Newman
+|-
+|'''15'''
+! scope="row" style="text-align:center;" | ''[[Inside Out]]''
+| {{Date table sorting|June 19, 2015}}
+| Pete Docter<hr><small>'''Co-director:'''</small><br>[[Ronnie del Carmen]]
+| Pete Docter & Ronnie del Carmen
+| Pete Docter, [[Meg LeFauve]] & [[Josh Cooley]]
+| Jonas Rivera
+| Michael Giacchino
+|-
+|'''16'''
+! scope="row" style="text-align:center;" | ''[[The Good Dinosaur]]''
+| {{Date table sorting|November 25, 2015}}
+| [[Peter Sohn]]
+| Peter Sohn, Erik Benson, Meg LeFauve, [[Kelsey Mann]] & Bob Peterson
+| Meg LeFauve
+| Denise Ream
+| [[Mychael Danna|Mychael]] & [[Jeff Danna]]
+|-
+|'''17'''
+! scope="row" style="text-align:center;" | ''[[Finding Dory]]''
+| {{Date table sorting|June 17, 2016}}
+| Andrew Stanton<hr><small>'''Co-director:'''</small><br>[[Angus MacLane]]
+| Andrew Stanton
+| Andrew Stanton & Victoria Strouse
+| Lindsey Collins
+| Thomas Newman
+|-
+|'''18'''
+! scope="row" style="text-align:center;" | ''[[Cars 3]]''
+| {{Date table sorting|June 16, 2017}}
+| [[Brian Fee]]
+| Brian Fee, Ben Queen, [[Eyal Podell]] & Jonathan E. Stewart
+| Kiel Murray, Bob Peterson & [[Mike Rich]] 
+| Kevin Reher
+| Randy Newman
+|-
+|'''19'''
+! scope="row" style="text-align:center;" | ''[[Coco (2017 film)|Coco]]''
+| {{Date table sorting|November 22, 2017}}
+| Lee Unkrich<hr><small>'''Co-director:'''</small><br>[[Adrian Molina]]
+| Lee Unkrich, Jason Katz, Matthew Aldrich & Adrian Molina
+| Adrian Molina & Matthew Aldrich
+| Darla K. Anderson
+| Michael Giacchino{{efn|name=overview1}}
+|-
+|'''20'''
+! scope="row" style="text-align:center;" | ''[[Incredibles 2]]''
+| {{Date table sorting|June 15, 2018}}
+| colspan="3" | Brad Bird
+| John Walker & [[Nicole Paradis Grindle]]
+| Michael Giacchino
+|-
+|'''21'''
+! scope="row" style="text-align:center;" | ''[[Toy Story 4]]''
+| {{Date table sorting|June 21, 2019}}
+| Josh Cooley
+| John Lasseter, Andrew Stanton, Josh Cooley, [[Valerie LaPointe]], [[Rashida Jones]], [[Will McCormack]], [[Martin Hynes]] & [[Stephany Folsom]]
+| Andrew Stanton & Stephany Folsom
+| Mark Nielsen, Jonas Rivera & Galyn Susman
+| Randy Newman
+|-
+|'''22'''
+! scope="row" style="text-align:center;" | ''[[Onward (film)|Onward]]''
+| {{Date table sorting|March 6, 2020}}
+| Dan Scanlon
+| colspan="2"| Dan Scanlon, [[Keith Bunin]] & Jason Headley
+| Kori Rae
+| Mychael & Jeff Danna
+|-
+|'''23'''
+! scope="row" style="text-align:center;" | ''[[Soul (2020 film)|Soul]]''
+| {{Date table sorting|December 25, 2020}}
+| Pete Docter<hr><small>'''Co-director:'''</small><br>[[Kemp Powers]]
+| colspan="2"| Pete Docter, [[Mike Jones (screenwriter)|Mike Jones]] & Kemp Powers
+| [[Dana Murray]]
+| [[Trent Reznor]] & [[Atticus Ross]]{{efn|name=overview2}}
+|-
+|'''24'''
+! scope="row" style="text-align:center;" | ''[[Luca (2021 film)|Luca]]''
+| {{Date table sorting|June 18, 2021}}
+| [[Enrico Casarosa]]
+| Enrico Casarosa, [[Jesse Andrews]] & Simon Stephenson
+| Jesse Andrews & Mike Jones
+| Andrea Warren
+| [[Dan Romer]]
+|-
+|'''25'''
+! scope="row" style="text-align:center;" | ''[[Turning Red]]''
+| {{Date table sorting|March 11, 2022}}
+| [[Domee Shi]]
+| Domee Shi, [[Julia Cho]] & Sarah Streicher
+| Julia Cho & Domee Shi
+| Lindsey Collins
+| [[Ludwig Göransson]]{{efn|name=overview3}}
+|-
+|'''26'''
+! scope="row" style="text-align:center;" | ''[[Lightyear (film)|Lightyear]]''
+| {{Date table sorting|June 17, 2022}}
+| Angus MacLane
+| Angus MacLane, Matthew Aldrich & Jason Headley
+| Jason Headley & Angus MacLane
+| Galyn Susman
+| Michael Giacchino
+|-
+|'''27'''
+! scope="row" style="text-align:center;" | ''[[Elemental (2023 film)|Elemental]]''
+| {{Date table sorting|June 16, 2023}}
+| Peter Sohn
+| Peter Sohn, [[Kat Likkel and John Hoberg|John Hoberg]], [[Kat Likkel and John Hoberg|Kat Likkel]] & Brenda Hsueh
+| John Hoberg, Kat Likkel & Brenda Hsueh
+| Denise Ream
+| Thomas Newman
+|-
+|'''28'''
+! scope="row" style="text-align:center;" | ''[[Inside Out 2]]''
+| {{Date table sorting|June 14, 2024}}
+| Kelsey Mann
+| Kelsey Mann & Meg LeFauve
+| Meg LeFauve & [[Dave Holstein]]
+| Mark Nielsen
+| Andrea Datzman{{efn|name=overview4}}
+|-
+|'''29'''
+! scope="row" style="text-align:center;" | ''[[Elio (film)|Elio]]''
+| {{Date table sorting|June 20, 2025}}
+| [[Madeline Sharafian]],<br>Domee Shi &<br>Adrian Molina<!-- Molina is credited third following Sharafian and Shi, as they took over directing duties after he dropped out of the project due to creative differences. He, however, retains his initial credit (similar to Brenda Chapman on ''Brave''). -->
+| Adrian Molina, Madeline Sharafian, Domee Shi & Julia Cho
+| Julia Cho, Mark Hammer & Mike Jones
+| Mary Alice Drumm
+| [[Rob Simonsen]]
+|-
+|'''30'''
+! scope="row" style="text-align:center;" | ''[[Hoppers (film)|Hoppers]]''
+| {{Date table sorting|March 6, 2026}}
+| [[Daniel Chong]]
+| Daniel Chong & Jesse Andrews
+| Jesse Andrews 
+| Nicole Paradis Grindle
+| [[Mark Mothersbaugh]]
+|-
+|'''31'''
+! scope="row" style="text-align:center;" | ''[[Toy Story 5]]''
+| {{Date table sorting|June 19, 2026}}
+| Andrew Stanton<hr><small>'''Co-director:'''</small><br>[[Kenna Harris]]
+| Andrew Stanton
+| Andrew Stanton & Kenna Harris
+| Lindsey Collins & [[Jessica Choi]]
+| Randy Newman
+|}
+
+{{reflist|group=lower-alpha|refs=
+{{efn|name=overview1|Songs by [[Kristen Anderson-Lopez]], [[Robert Lopez]], [[Germaine Franco]] &  [[Adrian Molina]]}}
+{{efn|name=overview2|Jazz compositions and arrangements by [[Jon Batiste]]}}
+{{efn|name=overview3|Songs by [[Billie Eilish]] & [[Finneas O'Connell]]}}
+{{efn|name=overview4|Original ''Inside Out'' themes by [[Michael Giacchino]]}}
+}}
+
+===Upcoming===
+{| class="wikitable plainrowheaders" style="text-align:center; margin=auto; width:100%;"
+! rowspan="2" width="10%" | Film
+! rowspan="2" width="15%" | Release date
+! width="13%" rowspan="2" | Director(s)
+! width="20%" colspan="2" | Writer(s)
+! width="15%" rowspan="2" | Producer(s)
+! width="10%" rowspan="2" | Composer(s)
+! width="15%" rowspan="2" | Production status
+! width="5%" rowspan="2" | {{ref heading}}
+|-
+! width="15%" | Story
+! width="15%" | Screenplay
+|-
+! scope="row" style="text-align:center;" | ''[[Gatto (film)|Gatto]]''
+| {{Date table sorting|March 5, 2027}}
+| Enrico Casarosa
+| {{TBA}}
+| {{TBA}}
+| Andrea Warren
+| {{TBA}}
+| rowspan="4" | In production
+|<ref name=":0">{{Cite web |last=Vary |first=Adam B. |date=2024-08-02 |title=Marvel Removes 2026 Title, Searchlight's 'A Real Pain' Moves to November in Major Disney Release Date Update |url=https://variety.com/2024/film/news/disney-release-date-update-marvel-a-real-pain-1236094195/ |access-date=2024-08-02 |website=Variety |language=en-US}}</ref><ref>{{Cite web |last=Giraud |first=Kevin |date=June 13, 2025 |title=Pixar Announces All New Original Film 'Gatto', Sneaks Joan Cusack's 'Toy Story 5' Return and Presents 'Hoppers' Exclusive Footage at Annecy |url=https://variety.com/2025/film/global/pixar-pete-docter-toy-story-5-joan-cusak-hoppers-1236430354/ |access-date=June 13, 2025 |website=Variety |language=en-US}}</ref><ref>{{Cite web |last=D'Alessandro |first=Anthony |date=2025-12-22 |title=Disney Moves Around 'Ready Or Not 2', 'Dog Stars' & Pixar's 'Gatto' In 2026 & 2027 Release Calendars |url=https://deadline.com/2025/12/disney-release-dates-gatto-ready-or-not-2-dog-stars-1236655242/ |access-date=2025-12-22 |website=Deadline |language=en-US}}</ref>
+|- id="Ghost Market"<!--for anchor in links-->
+! scope="row" style="text-align:center;" | ''Ghost Market''
+| {{Date table sorting|March 10, 2028}}
+| [[Trevor Jimenez]] & Jesse Andrews
+| {{TBA}}
+| {{TBA}}
+| Becky Neiman-Cobb
+| {{TBA}}
+|<ref name="Ghost Market Release">{{cite web |url=https://deadline.com/2026/08/ghost-market-pixar-release-date-1237041013/ |title=Pixar New Pic 'Ghost Market' About Hungry Apparitions, Hits Theaters In 2028 – D23 |author=Anthony D'Alessandro |date=August 14, 2026 |website=Deadline}}</ref><ref name="March2026">{{cite web|url=https://www.wsj.com/business/media/pixar-disney-franchises-pete-docter-80c57f9d|title=Pixar Needs Its Next Hit Franchise. Can Its Reluctant Leader Deliver?|last=Fritz|first=Ben|date=March 6, 2026|access-date=March 6, 2026}}</ref><ref name="2028 reservations">{{Cite web |last=D'Alessandro |first=Anthony |date=March 7, 2026 |title='Monsters Inc. 3' In Early Development; 'Incredibles 3' Expected In 2028, 'Coco 2' In 2029 |url=https://deadline.com/2026/03/monsters-inc-3-incredibles-3-coco-2-1236746601/ |access-date=March 7, 2026 |website=Deadline Hollywood}}</ref><ref name=":1">{{Cite web |last=D'Alessandro |first=Anthony |date=March 20, 2026 |title=Disney Puts A Slew Of 2028 & 2029 Dates On Hold For Marvel, Pixar Pics & More |url=https://deadline.com/2026/03/disney-marvel-pixar-release-dates-1236761757/ |access-date=March 20, 2026 |website=Deadline Hollywood}}</ref><ref name="GMCoco2">{{Cite web |last=D'Alessandro |first=Anthony |date=August 17, 2026 |title='Ghost Rider' Sets July 2028 Release; More Disney 2028 Movie Dates |url=https://deadline.com/2026/08/ghost-rider-2028-disney-release-dates-1237043467/ |access-date=August 29, 2026 |website=[[Deadline Hollywood]]}}</ref>
+|-
+! scope="row" style="text-align:center;" | ''[[Incredibles 3]]''
+| {{Date table sorting|June 16, 2028}}
+| Peter Sohn
+| colspan="2" | Brad Bird
+| Dana Murray
+| {{TBA}}
+| <ref>{{Cite web |last=London |first=Rob |date=August 30, 2025 |title='Incredibles 3' Finally Has a Release Window |url=https://collider.com/incredibles-3-release-window-2028/ |access-date=August 31, 2025 |website=[[Collider.com]]}}</ref><ref>{{cite magazine |last=Stenzel |first=Wesley |title='Incredibles 3' in the works at Pixar |url=https://ew.com/incredibles-3-announcement-d23-8693533 |magazine=Entertainment Weekly |date=9 August 2024 |access-date=6 December 2024}}</ref><ref>{{cite web |last1=Taylor |first1=Drew |date=August 10, 2024 |title='Incredibles 3' in the Works at Pixar |url=https://www.thewrap.com/incredibles-3-pixar/ |website=[[TheWrap]] |archive-url=https://web.archive.org/web/20240810033303/https://www.thewrap.com/incredibles-3-pixar/ |archive-date=August 10, 2024 |access-date=December 7, 2024 |url-status=live}}</ref><ref>{{Cite web |last=Verhoeven |first=Beatrice |date=June 10, 2025 |title='Incredibles 3' Finds Its Director (Exclusive) |url=https://www.hollywoodreporter.com/movies/movie-news/incredibles-3-director-peter-sohn-1236260365/ |access-date=June 10, 2025 |website=The Hollywood Reporter |language=en-US}}</ref><ref>{{cite web |last=Coman |first=Monica |title=Pixar Hypes Upcoming Original Projects & Exciting Sequels: '1 of the Strongest Slates We've Ever Had' |url=https://www.cbr.com/pixar-upcoming-original-projects-sequels-strongest-slate/#:~:text=With%20Elio%20set%20to%20premiere,5%20on%20June%2019%2C%202026. |website=[[Comic Book Resources|CBR]] |publisher=[[Valnet|Valnet Publishing Group]] |access-date=June 13, 2025 |date=June 13, 2025 |quote=Having Brad Bird back to write and exec produce the third installment is absolute thrill.}}</ref><ref>{{Cite web |last=McDuff |first=Derick |date=2026-07-24 |title=Brad Bird's Takes Comic Con Through His Cinematic Journey |url=https://templeofgeek.com/brad-birds-takes-comic-con-through-his-cinematic-journey/ |access-date=2026-07-25 |website=TEMPLE OF GEEK |language=en-US}}</ref><ref>{{cite web |last=D'Alessandro |first=Anthony |title='Lilo & Stitch 2' & 'Incredibles 3' Set 2028 Release Dates |url=https://deadline.com/2026/03/lilo-stitch-2-incredibles-3-release-dates-1236759384/ |website=[[Deadline Hollywood]] |date=2026-03-18 |access-date=2026-03-18 |df=mdy-all}}</ref>
+|-
+! scope="row" style="text-align:center;" | ''[[Coco 2]]''
+| {{Date table sorting|November 21, 2029}}
+| Lee Unkrich<hr><small>'''Co-director:'''</small><br>Adrian Molina
+| {{TBA}}
+| {{TBA}}
+| Mark Nielsen
+| {{TBA}}
+|<ref name="Coco 2 Release">{{cite web |url=https://www.hollywoodreporter.com/movies/movie-news/coco-2-disney-sets-november-2029-release-1236672186/ |title=Disney Sets November 2029 Release For 'Coco 2,' Sequel Centered on a Teenage Miguel |author=Kristen Chuba |date=August 14, 2026 |website=[[The Hollywood Reporter]]}}</ref><ref>{{cite web|title='Coco 2' in Development at Pixar|url=https://thewaltdisneycompany.com/coco-2-pixar/|date=20 March 2025|access-date=21 June 2025|work=TheWaltDisneyCompany.com}}</ref><ref name="2028 reservations" /><ref name="GMCoco2" />
+|}
+
+====In-development projects====
+In November 2025, Madeline Sharafian revealed in an interview that she began developing a new feature film based on her own original idea.<ref>{{Cite web|title=Domee Shi and Madeline Sharafian on Their Working Friendship and Bringing 'Elio' to Life|url=https://www.youtube.com/watch?v=-jV50SAVe_Q|website=YouTube|access-date=21 March 2026}}</ref>
+
+In March 2026, it was reported that Domee Shi was working on a new original film that is described as a "rebellion against the traditional [[Walt Disney Animation Studios|Disney]] musical".<ref name="March2026"/>
+
+A third film in the ''[[Monsters, Inc. (franchise)|Monsters, Inc.]]'' franchise was reported to be in development by several sources in March 2026.<ref>{{Cite web |last=Giruad |first=Kevin |date= March 6, 2026 |title='Monsters Inc. 3' in the Works at Pixar; New Originals Include 'Ono Ghost Market' and the Studio's First Musical |url=https://variety.com/2026/film/news/monsters-inc-3-pixar-ono-ghost-market-first-musical-1236681473/ |access-date=March 6, 2026 |website=[[Variety (magazine)|Variety]]}}</ref>
+
+===Production cycle===
+In July 2013, then–Pixar president [[Edwin Catmull]] said that the studio planned to release one original film each year, and a sequel every other year, as part of a strategy to release "one and a half movies a year".<ref>{{Cite news |last=Vary |first=Adam |date=June 27, 2013 |title=Pixar Chief: Studio to Scale Back Sequels, Aim for One Original Film a Year |publisher=[[BuzzFeed]] |url=https://www.buzzfeed.com/adambvary/pixar-chief-studio-to-scale-back-sequels-aim-for-one-origina |url-status=live |access-date=July 2, 2013 |archive-url=https://web.archive.org/web/20130701163844/http://www.buzzfeed.com/adambvary/pixar-chief-studio-to-scale-back-sequels-aim-for-one-origina |archive-date=July 1, 2013}}</ref> On July 3, 2016, Pixar's current president [[Jim Morris (film producer)|Jim Morris]] announced that the studio might be moving away from sequels after ''Toy Story 4'' and Pixar was only developing original ideas with five films in development at the time of the announcement.<ref>{{Cite magazine |last=Snetiker |first=Marc |date=July 1, 2016 |title=Pixar: No sequels for ''Ratatouille'', ''WALL-E'', or ''Inside Out'' anytime soon |url=https://www.ew.com/article/2016/07/01/pixar-sequels-ratatouille-wall-e-inside-out |magazine=[[Entertainment Weekly]] |access-date=July 2, 2016 |archive-date=July 3, 2024 |archive-url=https://web.archive.org/web/20240703060825/https://ew.com/article/2016/07/01/pixar-sequels-ratatouille-wall-e-inside-out/ |url-status=dead }}</ref>
+
+In February 2026, Pete Docter estimated that the studio had eight films in various stages of production.<ref>{{cite web|url=https://youtube.com/watch?v=QYY6MgLiBds|title=Pixar's Pete Docter Reflects On 40 Years of Pixar And What The Future May Hold... {{!}} BAFTA|website=YouTube|date=February 3, 2026}}</ref>
+
+===Cancelled projects===
+
+====''Monkey''====
+Back when Pixar was still a part of [[Lucasfilm]] in 1985, it started pre-production on a film called ''Monkey''. Pixar would later abandon the project due to technical limitations.<ref name="The Pixar Touch">{{Cite web |last=Price |first=David A. |date=November 22, 2008 |title=Pixar's film that never was: "Monkey" |url=http://www.pixartouchbook.com/blog/2008/11/22/pixars-film-that-never-was-monkey.html |url-status=live |archive-url=https://web.archive.org/web/20190214061543/http://www.pixartouchbook.com/blog/2008/11/22/pixars-film-that-never-was-monkey.html |archive-date=February 14, 2019 |access-date=November 4, 2020 |website=The Pixar Touch}}</ref><ref>{{Cite web |last=Hill |first=Jim |date=2008-05-14 |title="The Pixar Touch" shares seldom-told tales about the early days of this animation studio |url=https://jimhillmedia.com/the-pixar-touch-shares-seldom-told-tales-about-the-early-days-of-this-animation-studio/ |access-date=2024-04-07 |website=Jim Hill Media |language=}}</ref><ref>{{Cite web |date=June 15, 2021 |title=MONKEY: Pixar's First Abandoned Movie Project |url=http://www.warpedfactor.com/2021/06/monkey-pixars-first-abandoned-movie.html |access-date=2024-04-07 |website=Warped Factor}}</ref>
+
+====''The Yellow Car''====
+In 1995, [[Jorgen Klubien]] started writing a script for a film titled ''The Yellow Car''. He wrote the first draft of the script with [[Joe Ranft]]. Then in 1998, the film was scrapped in favor of ''Toy Story 2'' (1999). In 2001, ''The Yellow Car'' would eventually be reworked into ''Cars'' (2006).<ref>{{Cite web |title=Story development |url=https://www.jorgenklubien.com/portfolio/story%20development.html |url-status=live |archive-url=https://web.archive.org/web/20220925033959/https://www.jorgenklubien.com/portfolio/story%20development.html |archive-date=September 25, 2022 |access-date=September 25, 2022 |website=www.jorgenklubien.com}}</ref><ref>{{Cite web |last=Hill |first=Jim |date=2011-07-06 |title=The Roads Not Taken With Pixar's Cars Films |url=https://www.huffpost.com/entry/disney-cars-films_b_890538 |access-date=2024-04-09 |website=[[HuffPost]] |language=}}</ref>
+
+====''1906''====
+In 2005, Pixar began collaborating with Disney and [[Warner Bros. Pictures]] on a live-action film adaptation of [[James Dalessandro]]'s novel ''[[1906 (novel)|1906]]'', with Brad Bird announced as the director.<ref name="Pixar">{{Cite web |last=Bastoli |first=Mike |title='1906' to be Disney/Pixar/Warner Bros./? collaboration |url=http://www.bigscreenanimation.com/2008/03/1906-to-be-pixarwarner-bros.html |url-status=dead |access-date=July 10, 2012 |date=March 13, 2008 |website=Big Screen Animation |archive-date=July 23, 2012 |archive-url=https://web.archive.org/web/20120723001445/http://www.bigscreenanimation.com/2008/03/1906-to-be-pixarwarner-bros.html }}</ref>{{Better source needed|date=May 2026}} It would have marked Pixar's first involvement in a live-action production and its first collaboration with a major production company other than Disney. Disney and Pixar left the project due to script problems and an estimated budget of $200 million, and it is in limbo at Warner Bros.<ref name="SlashFilm 2">{{Cite news |last=Fischer |first=Russ |date=January 27, 2010 |title=What Happened to Brad Bird's 1906? |work=[[Slashfilm]] |url=https://www.slashfilm.com/what-happened-to-brad-birds-1906/ |url-status=live |access-date=December 7, 2019 |archive-url=https://web.archive.org/web/20190810193111/https://www.slashfilm.com/what-happened-to-brad-birds-1906/ |archive-date=August 10, 2019}}</ref> However, in June 2018, Bird mentioned the possibility of adapting the novel as a TV series, and the earthquake sequence as a live-action feature film.<ref>{{Cite web |first=Adam |last=Chitwood |date=June 18, 2018 |title=Brad Bird Says '1906' May Get Made as an "Amalgam" of a TV and Film Project |url=https://collider.com/1906-update-brad-bird/ |url-status=live |archive-url=https://web.archive.org/web/20180618213421/http://collider.com/1906-update-brad-bird/ |archive-date=June 18, 2018 |access-date=June 18, 2018 |publisher=[[Collider (website)|Collider]]}}</ref>
+
+====''Newt''====
+A Pixar film titled ''Newt'' (which would have been [[Gary Rydstrom]]'s feature directorial debut) was announced in April 2008, with a release date in 2011.<ref>{{Cite web |last=Sciretta |first=Peter |date=April 8, 2008 |title=Pixar Announces Up, Newt, The Bear and the Bow and Cars 2 |url=https://www.slashfilm.com/pixar-announces-up-newt-the-bear-and-the-bow-and-cars-2/ |url-status=live |archive-url=https://web.archive.org/web/20180613234149/http://www.slashfilm.com/pixar-announces-up-newt-the-bear-and-the-bow-and-cars-2/ |archive-date=June 13, 2018 |access-date=May 27, 2015 |publisher=[[/Film]]}}</ref> Its release was later pushed out to 2012,<ref>{{Cite web |last=Sciretta |first=Peter |date=September 25, 2008 |title=Pixar's Newt Gets Cars 2's Old Release Date |url=https://www.slashfilm.com/pixars-newt-gets-cars-2s-old-release-date/ |url-status=live |archive-url=https://web.archive.org/web/20150527185421/http://www.slashfilm.com/pixars-newt-gets-cars-2s-old-release-date/ |archive-date=May 27, 2015 |access-date=May 27, 2015 |publisher=/Film}}</ref> and by early 2010 was canceled.<ref>{{Cite web |last=Goldberg |first=Matt |date=May 11, 2010 |title=Pixar's NEWT Cancelled |url=https://collider.com/pixar-newt-cancelled/ |url-status=live |archive-url=https://web.archive.org/web/20170202052802/http://collider.com/pixar-newt-cancelled/ |archive-date=February 2, 2017 |access-date=January 29, 2017 |publisher=Collider}}</ref><ref>{{Cite web |last=Bastoli |first=Mike |date=May 11, 2010 |title=Exclusive: Newt is "cancelled" |url=http://pixarblog.blogspot.com/2010/05/exclusive-newt-is-cancelled.html |url-status=dead |archive-url=https://web.archive.org/web/20100514115251/http://pixarblog.blogspot.com/2010/05/exclusive-newt-is-cancelled.html |archive-date=May 14, 2010 |access-date=January 29, 2017 |publisher=The Pixar Blog }}</ref> John Lasseter noted that the film's proposed plot line was similar to another film, [[Blue Sky Studios]]' ''[[Rio (2011 film)|Rio]]'' (2011).<ref>{{Cite news |last=Vejvoda |first=Jim |date=May 2, 2011 |title=Pixar on Newt |publisher=[[IGN]] |url=https://www.ign.com/articles/2011/05/02/pixar-on-newt |url-status=live |access-date=November 1, 2012 |archive-url=https://web.archive.org/web/20121107155656/http://www.ign.com/articles/2011/05/02/pixar-on-newt |archive-date=November 7, 2012}}</ref> In a March 2014 interview, Pixar's then-president Edwin Catmull said that ''Newt'' was an idea that was not working in pre-production. When the project was passed to Pete Docter, the director of ''Monsters, Inc.'' and ''Up'', he pitched a completely different idea that Pixar thought was better, and that concept became ''Inside Out''.<ref>{{Cite news |date=March 19, 2014 |title=Pixar's Ed Catmull On How To Balance Art And Commerce |work=Fast Company |url=https://www.fastcompany.com/3027549/pixars-ed-catmull-on-how-to-balance-art-and-commerce |url-status=live |access-date=March 5, 2018 |archive-url=https://web.archive.org/web/20171229001355/https://www.fastcompany.com/3027549/pixars-ed-catmull-on-how-to-balance-art-and-commerce |archive-date=December 29, 2017}}</ref><ref>{{Cite web |last=Sciretta |first=Peter |date=August 15, 2014 |title=How Pixar's 'Newt' Got Flipped 'Inside Out' |url=https://www.slashfilm.com/pixars-newt-inside-out/2/ |url-status=live |archive-url=https://web.archive.org/web/20180306082710/http://www.slashfilm.com/pixars-newt-inside-out/2/ |archive-date=March 6, 2018 |access-date=March 5, 2018 |publisher=/Film}}</ref>
+
+====''ShadeMaker''====
+In 2010, [[Henry Selick]] formed a joint venture with Pixar called Cinderbiter Productions,<ref>{{Cite news |last=Amidi |first=Amid |author-link=Amid Amidi |date=December 20, 2010 |title=Henry Selick's New Studio Cinderbiter Hiring Head of Story |url=https://www.cartoonbrew.com/stop-motion/henry-selicks-new-studio-cinderbiter-hiring-head-of-story-33671.html |access-date=April 7, 2024 |work=[[Cartoon Brew]]}}</ref><ref>{{Cite news |last=Taylor |first=Drew |date=August 15, 2012 |title=Disney Shuts Down Production On Henry Selick's Stop-Motion Animated Film |url=https://www.indiewire.com/news/general-news/disney-shuts-down-production-on-henry-selicks-stop-motion-animated-film-107158/ |access-date=April 7, 2024 |work=[[IndieWire]] |archive-date=March 12, 2025 |archive-url=https://web.archive.org/web/20250312124843/https://www.indiewire.com/news/general-news/disney-shuts-down-production-on-henry-selicks-stop-motion-animated-film-107158/ |url-status=dead }}</ref> which was to exclusively produce [[stop-motion]] films.<ref>{{Cite news |last=LeBlanc |first=Will |date=April 1, 2010 |title=Henry Selick Bringing Stop-Motion Back To Disney |work=Cinemablend |url=https://www.cinemablend.com/new/Henry-Selick-Bringing-Stop-Motion-Back-To-Disney-17865.html |url-status=dead |access-date=March 8, 2013 |archive-url=https://web.archive.org/web/20210112070122/https://www.cinemablend.com/new/Henry-Selick-Bringing-Stop-Motion-Back-To-Disney-17865.html |archive-date=January 12, 2021}}</ref><ref>{{Cite news |last=Debruge |first=Peter |date=March 31, 2010 |title=Henry Selick returns to Disney |url=https://variety.com/2010/digital/markets-festivals/henry-selick-returns-to-disney-1118017140/ |access-date=April 1, 2024 |work=[[Variety (magazine)|Variety]]}}</ref> Its first project under the deal, a film titled ''ShadeMaker'' was set to be released on October 4, 2013,<ref name="Collider 1">{{Cite news |last=Bettinger |first=Brendan |date=August 15, 2012 |title=Disney Cancels Production on Henry Selick's Untitled Stop-Motion Movie |url=https://collider.com/disney-cancels-henry-selick-movie/ |work=[[Collider (website)|Collider]] |publisher=}}</ref> but was canceled in August 2012 due to creative differences.<ref name="Collider 1" /><ref name="LAT 1">{{Cite news |last=Fritz |first=Ben |date=September 13, 2012 |title=Disney takes $50&nbsp;million write-down on canceled animation project |work=[[Los Angeles Times]] |url=https://www.latimes.com/entertainment/envelope/la-xpm-2012-sep-13-la-et-ct-disney-50-million-write-down-20120913-story.html |url-status=live |access-date=March 8, 2013 |archive-url=https://web.archive.org/web/20130417081730/http://articles.latimes.com/2012/sep/13/entertainment/la-et-ct-disney-50-million-write-down-20120913 |archive-date=April 17, 2013}}</ref> Selick was given the option to shop ''ShadeMaker'' (now titled ''The Shadow King'') to other studios.<ref name="A.V. Club">{{Cite web |date=February 5, 2013 |title=Henry Selick's The Shadow King proceeding without Disney, but with a plot and voice cast |url=https://www.avclub.com/articles/henry-selicks-the-shadow-king-proceeding-without-d,92060/ |url-status=dead |archive-url=https://web.archive.org/web/20130208013457/http://www.avclub.com/articles/henry-selicks-the-shadow-king-proceeding-without-d%2C92060/ |archive-date=February 8, 2013 |access-date=February 8, 2013 |website=[[The A.V. Club]]}}</ref> Selick later stated in interviews that the film suffered from interference from John Lasseter who Selick claimed came in and constantly changed elements of the script and production that ended up raising the budget that would lead to its cancelation.<ref>{{Cite web |title=The 'plagues' of Wendell & Wild: fires, ice storms, rioters, and COVID-19 |url=https://ew.com/movies/wendell-wild-puppet-rescue-henry-selick-interview/ |url-status=live |archive-url=https://web.archive.org/web/20221004134833/https://ew.com/movies/wendell-wild-puppet-rescue-henry-selick-interview/ |archive-date=October 4, 2022 |access-date=October 4, 2022 |publisher=[[Entertainment Weekly]]}}</ref> By November 2022, it was announced that Selick had reacquired the rights for ''The Shadow King'' from Disney and that he might revive the project.<ref>{{Cite web |last=Watson |first=Madalyn |date=2022-11-07 |title='The Shadow King': Henry Selick Reveals He Got the Rights Back to Scrapped Disney Project |url=https://collider.com/the-shadow-king-henry-selick-rights/ |access-date=2023-03-10 |website=Collider |language=en |archive-date=March 10, 2023 |archive-url=https://web.archive.org/web/20230310184758/https://collider.com/the-shadow-king-henry-selick-rights/ |url-status=live }}</ref>
+
+====''The Graveyard Book''====
+{{main|The Graveyard Book}}
+In April 2012, [[Walt Disney Pictures]] acquired the rights and hired [[Henry Selick]], director of ''[[The Nightmare Before Christmas]]'' and the [[Coraline (film)|film adaptation]] of Gaiman's novel ''[[Coraline]]'', to direct ''The Graveyard Book''.<ref>{{Cite web |last=Fleming |first=Mike Jr. |date=April 28, 2012 |title=Henry Selick To Direct Neil Gaiman's 'The Graveyard Book' In Disney Deal |url=https://deadline.com/2012/04/disney-scares-up-deal-for-neil-gaimans-the-graveyard-book-263157/ |url-status=live |archive-url=https://web.archive.org/web/20221023073959/https://deadline.com/2012/04/disney-scares-up-deal-for-neil-gaimans-the-graveyard-book-263157/ |archive-date=October 23, 2022 |access-date=October 4, 2022 |website=Deadline |language=en-US}}</ref> The film was moved to [[Pixar]] as a stop-motion production, which would have been the company's first adapted work.<ref name="LRMOnline">{{Cite web |last=Medina |first=Joseph Jammer |date=June 3, 2019 |title=Neil Gaiman's The Graveyard Book Was Shut Down At Pixar |url=https://lrmonline.com/news/neil-gaimans-the-graveyard-book-was-shut-down-at-pixar/ |url-status=live |archive-url=https://web.archive.org/web/20190620014310/https://lrmonline.com/news/neil-gaimans-the-graveyard-book-was-shut-down-at-pixar/ |archive-date=June 20, 2019 |access-date=October 4, 2022 |website=LRM |language=en-US}}</ref> After the studio and Selick parted ways over scheduling and development, it was announced in January 2013 that [[Ron Howard]] would direct the film.<ref>{{Cite web |last1=Siegel |first1=Borys Kit, Tatiana |last2=Kit |first2=Borys |last3=Siegel |first3=Tatiana |date=January 22, 2013 |title=Ron Howard in Talks to Direct Disney's 'Graveyard Book' (Exclusive) |url=https://www.hollywoodreporter.com/movies/movie-news/ron-howard-talks-direct-disneys-414344/ |url-status=live |archive-url=https://web.archive.org/web/20221007081857/https://www.hollywoodreporter.com/movies/movie-news/ron-howard-talks-direct-disneys-414344/ |archive-date=October 7, 2022|access-date=October 4, 2022 |website=The Hollywood Reporter |language=en-US}}</ref><ref>{{Cite news |last=White |first=James |date=2013-01-23 |title=Ron Howard To Dig Up Graveyard Book |url=https://www.empireonline.com/movies/news/ron-howard-dig-graveyard-book/ |access-date=April 20, 2024 |work=[[Empire (magazine)|Empire]]}}</ref><ref name="LRMOnline"/>
+
+In July 2022, it was announced that [[Marc Forster]] would direct the adaptation with a screenplay by [[David Magee]] under [[Walt Disney Studios (division)|Walt Disney Studios]].<ref>{{Cite web |last=Kroll |first=Justin |date=July 19, 2022 |title=Marc Forster And Producing Partner Renée Wolfe Developing Adaptation Of Neil Gaiman's 'The Graveyard Book' At Disney |url=https://deadline.com/2022/07/marc-forster-renee-wolfe-disney-the-graveyard-book-1235072324/ |url-status=live |archive-url=https://web.archive.org/web/20220719222954/https://deadline.com/2022/07/marc-forster-renee-wolfe-disney-the-graveyard-book-1235072324/ |archive-date=July 19, 2022 |access-date=July 20, 2022 |website=Deadline |language=en-US}}</ref> Later that year, Neil Gaiman stated that he has no involvement with the film.<ref>{{cite web|url=https://www.tumblr.com/neil-gaiman/704996255291604992/supposedly-disney-is-making-the-graveyard-book|title=Neil Gaiman's response|via=Tumblr|author=Neil Gaiman|date=December 29, 2022|access-date=January 24, 2025}}</ref> In September 2024, it was reported that the production had been halted due to a variety of factors including sexual misconduct allegations against Gaiman.<ref>{{cite web|url=https://www.indiewire.com/news/breaking-news/neil-gaiman-film-the-graveyard-book-sexual-assault-claims-1235043606/|title=Disney Pauses Neil Gaiman's 'The Graveyard Book' Adaptation in Wake of Sexual Assault Allegations — Exclusive|website=IndieWire|last=Blauvelt|first=Christian|date=September 4, 2024|access-date=January 24, 2025}}</ref>
+
+====''Blade''====
+Following the release of ''Brave'', director Mark Andrews was developing an unannounced original film under the working title ''Blade''. Described as a "big action-adventure fantasy epic" that would utilize motion capture versus story boarding for pre-visualization, the project was cancelled in 2018 and Andrews left Pixar shortly after.<ref>{{cite news|title=Mark Andrews Developing New Pixar Feature Film|url=http://www.pixarpost.com/2013/01/mark-andrews-developing-new-pixar.html|access-date=January 15, 2013|newspaper=Pixar Post|date=January 14, 2013|author=Julie & T.J.}}</ref><ref name="ChristianRomanUnannouncedCancelledProjects">[https://pixarpost.com/forum?p=post%2Fblade-befri-13355477 Blade & BeFri]</ref><ref>{{Cite web|url=https://www.youtube.com/watch?v=yFAz6PZnmXA&t=6m1s|title=Mark Andrews on Interview Friday - Lunch Therapy 79|website=[[YouTube]]|date=June 26, 2020|access-date=February 1, 2025}}</ref><ref name=BRIC-AVG>{{Cite web|url=https://www.youtube.com/watch?v=UgFSiZ6vchU|title=BRIC-AVG Speaker Series: Animating in Unreal Engine|website=[[YouTube]]|date=January 28, 2025|access-date=March 9, 2026}}</ref>
+
+====''BeFri''====
+''[[Purl (film)|Purl]]'' director Kristen Lester was developing an unannounced original film titled ''BeFri'' by November 2019, where "BeFri" was short for "best friends".<ref>{{Cite news |last=Grobar |first=Matt |date=November 6, 2019 |title='Purl' Director Kristen Lester On Tide Change In Animation Inclusivity & Finding Faith In Her Voice With Pixar Short |work=[[Deadline Hollywood]] |url=https://deadline.com/2019/11/purl-director-kristen-lester-pixar-sparkshorts-animated-short-interview-1202779200/ |url-status=live |access-date=June 21, 2020 |archive-url=https://web.archive.org/web/20200818145845/https://deadline.com/2019/11/purl-director-kristen-lester-pixar-sparkshorts-animated-short-interview-1202779200/ |archive-date=August 18, 2020 |quote=Then, I'm talking to you from my own room in development, trying to figure out some cool ideas. Pixar has given me the chance to develop a feature, which I think is really cool.}}</ref><ref name="March2026"/><ref>{{Cite news |last=Fritz |first=Ben |date=2026-03-07 |title=Disney Needs Its Next Hit Franchise. Can Pixar’s Reluctant Leader Deliver? |url=https://www.wsj.com/business/media/pixar-disney-franchises-pete-docter-80c57f9d |access-date=2026-08-27 |work=Wall Street Journal |language=en-US |issn=0099-9660}}</ref> Based on Lester's childhood experience with a platonic breakup, the film was specifically about "two teenage girls who were once besties but find themselves drifting apart after learning that their favorite, ''[[Sailor Moon]]''-style TV show is real and that they need to set out on a universe-spanning quest to save humanity." The film's creative team included the screenplay co-written by Blaise Hemingway (who also helped write the screenplay for the 2021 film ''[[Clifford the Big Red Dog (film)|Clifford the Big Red Dog]]''), the film edited by Nicholas C. Smith, and 50 other Pixar employees; it went through four iterations but was ultimately cancelled in 2023 because it was too female-skewing and didn't appeal to boys enough. In April 2026, [[IGN]] cited unnamed sources including former Pixar staff members commenting about the similarities of ''BeFri'' to Oscar-winning film ''[[KPop Demon Hunters]]'', even one former staffer quoted saying, "The comparisons to ''KPop Demon Hunters'' are pretty undeniable because there were musical aspects to it, and it was a rip-roaring time."<ref>{{Cite web |last=Gajewski |first=Ryan |date=April 10, 2026 |title=Inside Pixar's Scrapped Movie 'Be Fri' and the "Devastating" Aftermath |url=https://www.hollywoodreporter.com/movies/movie-news/pixar-scrapped-be-fri-movie-pete-docter-1236548613/ |access-date=April 11, 2026 |website=The Hollywood Reporter}}</ref><ref>{{Cite web |last=Vejvoda |first=Jim |date=2026-04-11 |title=Pixar Was Developing a KPop Demon Hunters-Style Movie When Disney Reportedly Killed It Because Boys Wouldn't "See Themselves" In It |url=https://www.ign.com/articles/pixar-canceled-a-female-led-movie-that-was-similar-to-kpop-demon-hunters |access-date=2026-08-27 |website=IGN |language=en}}</ref>
+
+====Circle Seven Animation projects====
+When the now-defunct [[Circle Seven Animation]] was open, there were plans for sequels to ''Finding Nemo'' (for which Pixar made its own sequel, ''Finding Dory'') and ''Monsters, Inc.'' (for which Pixar made a prequel, ''Monsters University''), as well as a different version of ''Toy Story 3''.<ref>{{Cite news |last=Catmull |first=Ed |date=March 19, 2014 |title=Pixar's Ed Catmull on How to Balance Art and Commerce |work=[[Fast Company (magazine)|Fast Company]] |url=http://www.fastcompany.com/3027549/lessons-learned/pixars-ed-catmull-on-how-to-balance-art-and-commerce |url-status=live |access-date=March 2, 2014 |archive-url=https://web.archive.org/web/20140322231503/http://www.fastcompany.com/3027549/lessons-learned/pixars-ed-catmull-on-how-to-balance-art-and-commerce |archive-date=March 22, 2014}}</ref> The ''Monsters, Inc.'' sequel would have been ''Monsters, Inc. 2: Lost in Scaradise'' and would have followed Mike and Sulley as they arrive to the human world through Boo's old door, only to find she has moved.<ref>{{Cite web |last=Barnett |first=Cameryn |date=2024-06-15 |title=The Scrapped 'Monsters Inc.' Sequel Would Have Brought Back a Beloved Character |url=https://collider.com/monsters-inc-cancelled-sequel/ |access-date=2026-01-02 |website=Collider |language=en}}</ref> Pixar's later sequels had no basis in Circle Seven's projects, and were created completely separately.
+
+====Other cancelled projects====
+[[Teddy Newton]] (director of the short ''[[Day & Night (2010 film)|Day & Night]]''), Brian Fee, Lee Unkrich, Dan Scanlon, [[Rosana Sullivan]] (director of the ''[[SparkShorts]]'' film ''[[Kitbull]]''), and Aphton Corbin (director of the ''SparkShorts'' film ''[[Twenty Something (2021 film)|Twenty Something]]'') worked on untitled original films that were shelved before their announcement.{{efn|Attributed to multiple references.<ref name="Newton">{{cite news |last1=White |first1=James |title=Derek Connolly Writings New Pixar Film |url=https://www.empireonline.com/movies/news/derek-connolly-writing-new-pixar-film/ |access-date=11 August 2024 |work=Empire |date=29 November 2012 |language=en}}</ref><ref>[https://podcasts.apple.com/us/podcast/271-jason-blum-brian-fee-kevin-reher/id507987292?i=1000389904486 The Empire Film Podcast - #271: Jason Blum, Brian Fee, Kevin Reher]</ref><ref>{{Cite web |last=Sciretta |first=Peter |date=2017-11-22 |title=Director Lee Unkrich On How Pixar's 'Coco' Came To Life [Interview] |url=https://www.slashfilm.com/554649/lee-unkrich-interview/ |access-date=2023-10-01 |website=/Film |language=en-US}}</ref><ref>{{Cite news |last=Grobar |first=Matt |date=February 15, 2021 |title='Onward' Director Dan Scanlon Subverts Fantasy Tropes, Channels Pain Into Art With His "Love Letter To Siblings" |website=[[Deadline Hollywood]] |url= https://deadline.com/2021/02/onward-director-dan-scanlon-disney-pixar-animation-interview-news-1234691366/ |access-date=December 17, 2023 |quote=Kori Rae and I are in development at Pixar, working on ideas for a new movie. We'll pitch those, and there's stuff we're very excited about.}}</ref><ref>{{Cite news |last=Keegan |first=Rebecca |date=January 6, 2021 |title=Reanimating 'Pixar': How Pete Docter Steered the Studio Out of Scandal |work=[[The Hollywood Reporter]] |url=https://www.hollywoodreporter.com/features/reanimating-pixar-how-pete-docter-steered-the-studio-out-of-scandal |url-status=live |access-date=January 7, 2021 |archive-url=https://web.archive.org/web/20210426070656/https://www.hollywoodreporter.com/features/reanimating-pixar-how-pete-docter-steered-the-studio-out-of-scandal |archive-date=April 26, 2021 |quote=In addition to Shi, Aphton Corbin and Rosana Sullivan are female story artists who have directed short films at the studio recently and are now moving into development on features.}}</ref>}} The screenplay for Newton's film was written by [[Derek Connolly]].<ref name="Newton" /> Unkrich and Fee left Pixar in 2019<ref>{{cite web|last=Welk|first=Brian|date=January 18, 2019|title=Lee Unkrich, Director of 'Coco' and 'Toy Story 3,' to Leave Pixar After 25 Years|url=https://www.thewrap.com/lee-unkrich-director-of-coco-and-toy-story-3-to-leave-pixar-after-25-years/|website=[[TheWrap]]|access-date=February 1, 2025|archive-date=January 19, 2019|archive-url=https://web.archive.org/web/20190119132423/https://www.thewrap.com/lee-unkrich-director-of-coco-and-toy-story-3-to-leave-pixar-after-25-years/|quote=After twenty-five incredible years, I've decided to leave Pixar. The time has come for new adventures. I'm not leaving to make films at another studio; instead, I look forward to spending much-needed time with my family and pursuing interests that have long been back-burnered.|url-status=live}}</ref> and 2023,<ref>{{Cite web|last=Taylor|first=Drew|date=July 5, 2023|title=Inside Pixar's Existential Crisis and How It Can Bounce Back After Disney+ Stole Its Mojo|url=https://www.thewrap.com/pixar-existential-crisis-elemental-lightyear/|access-date=March 9, 2026|website=[[TheWrap]]}}</ref> respectively, although the former later returned to Pixar by 2025 to helm ''Coco 2''.<ref name="Coco2">{{cite web |last1=Rubin |first1=Rebecca |title='Coco 2' Set for 2029 Release From Disney and Pixar |url=https://variety.com/2025/film/news/coco-2-pixar-release-date-2029-1236343942/ |website=Variety |access-date=20 March 2025 |date=20 March 2025}}</ref>
+
+===Co-production===
+''[[Buzz Lightyear of Star Command: The Adventure Begins]]'' is an animated direct-to-video film and a spin-off of the ''[[Toy Story (franchise)|Toy Story]]'' franchise produced by [[Disney Television Animation|Walt Disney Television Animation]] with an opening sequence created by Pixar. The film was released on August 8, 2000, and led to a television series called, ''[[Buzz Lightyear of Star Command]]'' with Pixar creating the CGI portion of the opening theme.<ref name="EWReview">{{Cite magazine |last=Fretts |first=Bruce |date=August 8, 2000 |title=Buzz Lightyear of Star Command Review |magazine=Entertainment Weekly |url=https://ew.com/article/2000/08/08/buzz-lightyear-star-command/ |url-status=live |access-date=January 19, 2014 |archive-url=https://web.archive.org/web/20181105105821/https://ew.com/ew/article/0,,64853,00.html |archive-date=November 5, 2018}}</ref>
+
+''[[A Spark Story]]'' is a feature-length documentary film co-produced by Pixar, [[Disney+]], and Supper Club. The film centers on directors Aphton Corbin and Louis Gonzales as they work to bring their ''[[SparkShorts]]'' projects ''[[Twenty Something (2021 film)|Twenty Something]]'' and ''[[Nona (2021 film)|Nona]]'' to the screen.<ref name="FeatureFilm">{{Cite web |last=Grobar |first=Matt |date=July 21, 2021 |title=SparkShorts: Disney+ Unveils Two New Shorts & A Feature-Length Doc From Pixar, Sets September Premiere Dates |url=https://deadline.com/2021/07/spark-sh-1234797433/ |url-status=live |archive-url=https://web.archive.org/web/20210721222829/https://deadline.com/2021/07/spark-sh-1234797433/ |archive-date=July 21, 2021 |access-date=July 22, 2021 |website=[[Deadline Hollywood]]}}</ref>
+
+===Collaboration===
+Pixar assisted in the English localization of several [[Studio Ghibli]] films, mainly those from [[Hayao Miyazaki]].<ref>{{Cite news |last=Turan |first=Kenneth |date=September 20, 2002 |title=Under the Spell of 'Spirited Away' |work=Los Angeles Times |url=https://www.latimes.com/archives/la-xpm-2002-sep-20-et-turan20-story.html |url-status=live |access-date=April 20, 2017 |archive-url=https://web.archive.org/web/20120619064427/http://articles.latimes.com/2002/sep/20/entertainment/et-turan20 |archive-date=June 19, 2012 |issn=0458-3035}}</ref>
+
+Pixar was brought on board to fine tune the script of ''[[The Muppets (2011 film)|The Muppets]]''.<ref>{{Cite news |last=Kit |first=Borys |date=October 14, 2010 |title=Disney Picks Pixar Brains for Muppets Movie |work=The Hollywood Reporter |url=https://www.hollywoodreporter.com/news/disney-picks-pixar-brains-muppets-25821 |url-status=live |access-date=June 27, 2011 |archive-url=https://web.archive.org/web/20110225120538/http://www.hollywoodreporter.com/news/disney-picks-pixar-brains-muppets-25821 |archive-date=February 25, 2011}}</ref> The film was released on November 23, 2011.
+
+Pixar assisted with the story development for ''[[The Jungle Book (2016 film)|The Jungle Book]]'', as well as providing suggestions for the film's end credits sequence. The film was released on April 15, 2016. Additional special thanks credit was given to Mark Andrews.<ref name="Disney9">{{Cite news |last=Taylor |first=Drew |title=9 Things Disney Fans Need to Know About The Jungle Book, According to Jon Favreau |work=Disney Insider |publisher=The Walt Disney Company |url=https://ohmy.disney.com/insider/2016/04/15/the-jungle-book-according-to-jon-favreau/ |url-status=live |access-date=April 16, 2016 |archive-url=https://web.archive.org/web/20160507175949/https://ohmy.disney.com/insider/2016/04/15/the-jungle-book-according-to-jon-favreau/ |archive-date=May 7, 2016}}</ref>
+
+''[[Mary Poppins Returns]]'' includes a sequence combining live-action and traditional hand-drawn animation. The animation was supervised by Ken Duncan and [[James Baxter (animator)|James Baxter]]. Over 70 animators specializing in hand-drawn 2D animation from Pixar and [[Walt Disney Animation Studios]] were recruited for the sequence.<ref>{{Cite web |title=Mary Poppins Returns – Press Kit |url=http://www.wdsmediafile.com/media/MaryPoppinsReturns/writen-material/MaryPoppinsReturns5bfdda780fb25.pdf |access-date=November 29, 2018 |website=wdsmediafile.com |publisher=Walt Disney Studios}}{{Dead link|date=March 2021 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> The film was released on December 19, 2018.
+
+===Related productions===
+''[[Planes (film)|Planes]]'' is a spin-off of the ''[[Cars (franchise)|Cars]]'' franchise, produced by the now defunct [[Disneytoon Studios|DisneyToon Studios]] and co-written and executive produced by John Lasseter. The film was conceived from the short film ''[[Cars Toons#Mater's Tall Tales|Air Mater]]'', which introduces aspects of ''Planes'' and ends with a hint of the film. It was released on August 9, 2013. A sequel, ''[[Planes: Fire & Rescue]]'', was released on July 18, 2014. A ''Planes'' spin-off film was announced in July 2017, with a release date of April 12, 2019,<ref>{{Cite web |date=July 14, 2017 |title=Space Movie Announced by DisneyToon Studios |url=https://www.comingsoon.net/movies/news/869187-untitled-space-movie-announced-by-disneytoon-studios#/slide/1 |url-status=live |archive-url=https://web.archive.org/web/20200416222432/https://www.comingsoon.net/movies/news/869187-untitled-space-movie-announced-by-disneytoon-studios#/slide/1 |archive-date=April 16, 2020 |access-date=February 19, 2020}}</ref> but was removed from the release schedule on March 1, 2018.<ref>{{Cite web |last=Foutch |first=Haliegh |date=March 1, 2018 |title=Disney Announces a Slew of New Marvel, Live-Action and Animation Release Dates Through 2023 |url=https://collider.com/disney-marvel-animation-release-dates/ |url-status=live |archive-url=https://web.archive.org/web/20190126084133/http://collider.com/disney-marvel-animation-release-dates |archive-date=January 26, 2019 |access-date=March 1, 2018 |website=Collider}}</ref> The film was eventually canceled when DisneyToon Studios was shut down on June 28, 2018.<ref>{{Cite news |last=Desowitz |first=Bill |date=June 28, 2018 |title=Disney Shuts Down Disneytoon Studios in Glendale: Exclusive |work=IndieWire |url=https://www.indiewire.com/2018/06/disneytoon-studios-shuts-down-disney-glendale-1201979736/ |url-status=live |access-date=June 28, 2018 |archive-url=https://web.archive.org/web/20180629074357/https://www.indiewire.com/2018/06/disneytoon-studios-shuts-down-disney-glendale-1201979736/ |archive-date=June 29, 2018}}</ref>
+
+''[[Ralph Breaks the Internet]]'', produced by Walt Disney Animation Studios and co-executive produced by Lasseter, features [[Kelly Macdonald]] reprising her role as [[Merida (Brave)|Merida]] from ''Brave'',<ref name="DisneyPrincessess">{{Cite web |last=Holmes |first=Adam |date=July 14, 2017 |title=Wreck-It Ralph 2 Is Bringing The Original Disney Princesses Back |url=https://www.cinemablend.com/news/1681010/wreck-it-ralph-2-is-bringing-the-original-disney-princesses-back |url-status=live |archive-url=https://web.archive.org/web/20170716061218/http://www.cinemablend.com/news/1681010/wreck-it-ralph-2-is-bringing-the-original-disney-princesses-back |archive-date=July 16, 2017 |access-date=July 14, 2017 |publisher=CinemaBlend }}</ref> as well as a cameo from [[Tim Allen]] reprising his role (via archive recordings) as [[Buzz Lightyear]] from the [[Toy Story (franchise)|''Toy Story'' franchise]],<ref name="PressKit">{{Cite web |title=Ralph Breaks the Internet – Press Kit |url=http://www.wdsmediafile.com/media/RalphBreaksTheInternet/writen-material/RalphBreaksTheInternet5bdce2c0c0501.pdf |url-status=dead |archive-url=https://web.archive.org/web/20181105211421/http://www.wdsmediafile.com/media/RalphBreaksTheInternet/writen-material/RalphBreaksTheInternet5bdce2c0c0501.pdf |archive-date=November 5, 2018 |access-date=November 18, 2018 |website=wdsmediafile.com |publisher=Walt Disney Studios}}</ref> and a sample of Patrick Doyle's score from ''Brave''.<ref name=PressKit/> The film, released on November 21, 2018, also features many visual references to Pixar and its films.<ref name="DisneyCameosTrailer2">{{Cite news |last=Bonomolo |first=Cameron |date=June 4, 2018 |title=Every Pop Culture Easter Egg In The New 'Wreck-It Ralph 2' Trailer |work=ComicBook.com |url=https://comicbook.com/movies/2018/06/04/wreck-it-ralph-2-easter-eggs-marvel-star-wars-pixar-princess-pokemon/ |url-status=live |access-date=December 8, 2018 |archive-url=https://web.archive.org/web/20181021043128/https://comicbook.com/movies/2018/06/04/wreck-it-ralph-2-easter-eggs-marvel-star-wars-pixar-princess-pokemon/ |archive-date=October 21, 2018 }}</ref> Additionally, Andrew Stanton received a "Narrative Guru" credit.<ref name=PressKit/>
+
+==Reception==
+===Box office===
+{{hatnote|Each film is linked to the "Box office" section of its article.}}
+{| class="wikitable plainrowheaders sortable" style="text-align: center"
+! scope="col" rowspan="2" | Year
+! scope="col" rowspan="2" | Film
+! scope="col" rowspan="2" | Budget
+! scope="col" colspan="3" class=sortable | Box office gross
+! scope="col" rowspan="2" class=unsortable | {{Ref heading}}
+|-
+! scope="col" | U.S. and Canada
+! scope="col" | Other territories
+! scope="col" | Worldwide
+|-
+| 1995 
+| ''[[Toy Story#Box office|Toy Story]]'' 
+| $30&nbsp;million 
+| $229,947,062
+| $171,210,907
+| $401,157,969
+| <ref>{{Cite web |title=Toy Story (1995) – Financial Information |url=https://www.the-numbers.com/movie/Toy-Story |url-status=live |archive-url=https://web.archive.org/web/20141205032848/http://www.the-numbers.com/movie/Toy-Story |archive-date=December 5, 2014 |access-date=July 29, 2019 |website=The Numbers}}</ref><ref>{{Cite web |title=Toy Story (1995) |url=https://www.boxofficemojo.com/movies/?id=toystory.htm |url-status=live |archive-url=https://web.archive.org/web/20260705223400/https://www.boxofficemojo.com/title/tt0114709/ |archive-date=July 5, 2026 |access-date=September 9, 2026 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 1998
+| ''[[A Bug's Life#Box office|A Bug's Life]]'' 
+| $40–120&nbsp;million 
+| $162,798,565
+| $200,460,294
+| $363,258,859
+| <ref>{{Cite web |title=A Bug's Life (1998) |url=https://www.boxofficemojo.com/movies/?id=bugslife.htm |url-status=live |archive-url=https://web.archive.org/web/20100915021445/http://boxofficemojo.com/movies/?id=bugslife.htm |archive-date=September 15, 2010 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+|1999 
+| ''[[Toy Story 2#Box office|Toy Story 2]]'' 
+| $90&nbsp;million 
+| $245,852,179
+| $265,506,097
+| $511,358,276
+| <ref>{{Cite web |title=Toy Story 2 (1999) – Financial Information |url=https://www.the-numbers.com/movie/Toy-Story-2#tab=summary |url-status=live |archive-url=https://web.archive.org/web/20220620175322/https://www.the-numbers.com/movie/Toy-Story-2#tab=summary |archive-date=June 20, 2022 |access-date=June 20, 2022 |website=The Numbers}}</ref><ref>{{Cite web |title=Toy Story 2 (1999) |url=https://www.boxofficemojo.com/movies/?id=toystory2.htm |url-status=live |archive-url=https://web.archive.org/web/20190401081829/https://www.boxofficemojo.com/movies/?id=toystory2.htm |archive-date=April 1, 2019 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2001
+| ''[[Monsters, Inc.#Box office|Monsters, Inc.]]'' 
+| $115&nbsp;million
+| $255,873,250
+| $272,900,000
+| $528,773,250
+| <ref>{{Cite web |title=Monsters, Inc. (2001) |url=https://www.boxofficemojo.com/movies/?id=monstersinc.htm |url-status=live |archive-url=https://web.archive.org/web/20120828201654/http://www.boxofficemojo.com/movies/?id=monstersinc.htm |archive-date=August 28, 2012 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2003
+| ''[[Finding Nemo#Box office|Finding Nemo]]''
+| $94&nbsp;million 
+| $339,714,978
+| $531,300,000
+| $871,014,978
+| <ref>{{Cite web |title=Finding Nemo (2003) |url=https://www.boxofficemojo.com/movies/?id=findingnemo.htm |url-status=live |archive-url=https://web.archive.org/web/20120731071424/http://www.boxofficemojo.com/movies/?id=findingnemo.htm |archive-date=July 31, 2012 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2004
+| ''[[The Incredibles#Box office|The Incredibles]]''
+| $92–145&nbsp;million 
+| $261,441,092
+| $370,001,000
+| $631,442,092
+| <ref>{{Cite web |title=The Incredibles (2004) |url=https://www.boxofficemojo.com/movies/?id=incredibles.htm |url-status=live |archive-url=https://web.archive.org/web/20090618013312/http://www.boxofficemojo.com/movies/?id=incredibles.htm |archive-date=June 18, 2009 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2006
+| ''[[Cars (film)#Box office|Cars]]''
+| $120&nbsp;million 
+| $244,082,982
+| $217,900,167
+| $461,983,149
+| <ref>{{Cite web |title=Cars (2006) |url=https://www.boxofficemojo.com/movies/?id=cars.htm |url-status=live |archive-url=https://web.archive.org/web/20100918131553/http://www.boxofficemojo.com/movies/?id=cars.htm |archive-date=September 18, 2010 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2007
+| ''[[Ratatouille (film)#Box office|Ratatouille]]''
+| $150&nbsp;million 
+| $206,445,654
+| $417,280,431
+| $623,726,085
+| <ref>{{Cite web |title=Ratatouille (2007) |url=https://www.boxofficemojo.com/movies/?id=ratatouille.htm |url-status=live |archive-url=https://web.archive.org/web/20120816061210/http://www.boxofficemojo.com/movies/?id=ratatouille.htm |archive-date=August 16, 2012 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2008
+| ''[[WALL-E#Box office|WALL-E]]''
+| $180&nbsp;million 
+| $223,808,164
+| $297,503,696
+| $521,311,860
+| <ref>{{Cite web |title=WALL-E (2008) |url=https://www.boxofficemojo.com/movies/?id=wall-e.htm |url-status=live |archive-url=https://web.archive.org/web/20100806015631/http://www.boxofficemojo.com/movies/?id=wall-e.htm |archive-date=August 6, 2010 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2009
+| ''[[Up (2009 film)#Box office|Up]]''
+| $175&nbsp;million
+| $293,004,164
+| $442,094,918
+| $735,099,082
+| <ref>{{Cite web |title=Up (2009) |url=https://www.boxofficemojo.com/movies/?id=up.htm |url-status=live |archive-url=https://web.archive.org/web/20120830215815/http://www.boxofficemojo.com/movies/?id=up.htm |archive-date=August 30, 2012 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2010
+| ''[[Toy Story 3#Box office|Toy Story 3]]''
+| $200&nbsp;million
+| $415,004,880
+| $651,964,823
+| $1,066,969,703
+| <ref>{{Cite web |title=Toy Story 3 (2010) |url=https://www.boxofficemojo.com/movies/?id=toystory3.htm |url-status=live |archive-url=https://web.archive.org/web/20160821162246/http://www.boxofficemojo.com/movies/?id=toystory3.htm |archive-date=August 21, 2016 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2011
+| ''[[Cars 2#Box office|Cars 2]]''
+| $200&nbsp;million
+| $191,452,396
+| $368,400,000
+| $559,852,396
+| <ref>{{Cite web |title=Cars 2 (2011) |url=https://www.boxofficemojo.com/movies/?id=cars2.htm |url-status=live |archive-url=https://web.archive.org/web/20120321033843/http://www.boxofficemojo.com/movies/?id=cars2.htm |archive-date=March 21, 2012 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2012 
+| ''[[Brave (2012 film)#Box office|Brave]]''
+| $185&nbsp;million 
+| $237,283,207
+| $301,700,000
+| $538,983,207
+| <ref>{{Cite web |title=Brave (2012) |url=https://www.boxofficemojo.com/movies/?id=bearandthebow.htm |url-status=live |archive-url=https://web.archive.org/web/20120816061140/http://www.boxofficemojo.com/movies/?id=bearandthebow.htm |archive-date=August 16, 2012 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2013
+| ''[[Monsters University#Box office|Monsters University]]''
+| $200&nbsp;million 
+| $268,492,764
+| $475,066,843
+| $743,559,607
+| <ref>{{Cite web |title=Monsters University (2013) – Financial Information |url=https://www.the-numbers.com/movie/Monsters-University |url-status=live |archive-url=https://web.archive.org/web/20201202223935/https://www.the-numbers.com/movie/Monsters-University |archive-date=December 2, 2020 |access-date=July 29, 2019 |website=The Numbers}}</ref><ref>{{Cite web |title=Monsters University (2013) |url=https://www.boxofficemojo.com/movies/?id=monstersinc2.htm |url-status=live |archive-url=https://web.archive.org/web/20140503015430/http://boxofficemojo.com/movies/?id=monstersinc2.htm |archive-date=May 3, 2014 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2015
+| ''[[Inside Out#Box office|Inside Out]]''
+| $175&nbsp;million
+| $356,461,711
+| $501,149,463
+| $857,611,174
+| <ref>{{Cite web |title=Inside Out (2015) |url=https://www.boxofficemojo.com/movies/?id=pixar2014.htm |url-status=live |archive-url=https://web.archive.org/web/20160201162509/http://www.boxofficemojo.com/movies/?id=pixar2014.htm |archive-date=February 1, 2016 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2015
+| ''[[The Good Dinosaur#Box office|The Good Dinosaur]]''
+| $175–200&nbsp;million
+| $123,087,120
+| $209,120,551
+| $332,207,671
+| <ref>{{Cite web |title=The Good Dinosaur (2015) |url=https://www.boxofficemojo.com/movies/?id=pixar2013.htm |url-status=live |archive-url=https://web.archive.org/web/20160826155125/http://www.boxofficemojo.com/movies/?id=pixar2013.htm |archive-date=August 26, 2016 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite news |last=FilmL.A. |date=June 15, 2016 |title=2015 Feature Film Study |page=25 |url=https://www.filmla.com/wp-content/uploads/2018/04/2015_film_study_v5_WEB.pdf |url-status=live |access-date=March 19, 2019 |archive-url=https://web.archive.org/web/20180430182046/https://www.filmla.com/wp-content/uploads/2018/04/2015_film_study_v5_WEB.pdf |archive-date=April 30, 2018}}</ref>
+|-
+| 2016
+| ''[[Finding Dory#Box office|Finding Dory]]''
+| $200&nbsp;million 
+| $486,295,561
+| $542,275,328
+| $1,028,570,889
+| <ref>{{Cite web |title=Finding Dory (2016) – Financial Information |url=https://www.the-numbers.com/movie/Finding-Dory |url-status=live |archive-url=https://web.archive.org/web/20201202224325/https://www.the-numbers.com/movie/Finding-Dory |archive-date=December 2, 2020 |access-date=July 29, 2019 |website=The Numbers}}</ref><ref>{{Cite web |title=Finding Dory (2016) |url=https://www.boxofficemojo.com/movies/?id=pixar2015.htm |url-status=live |archive-url=https://web.archive.org/web/20170425213321/http://www.boxofficemojo.com/movies/?id=pixar2015.htm |archive-date=April 25, 2017 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2017
+| ''[[Cars 3#Box office|Cars 3]]''
+| $175&nbsp;million
+| $152,901,115
+| $231,029,541
+| $383,930,656
+| <ref>{{Cite web |title=Cars 3 (2017) – Financial Information |url=https://www.the-numbers.com/movie/Cars-3 |url-status=live |archive-url=https://web.archive.org/web/20201202224657/https://www.the-numbers.com/movie/Cars-3 |archive-date=December 2, 2020 |access-date=July 29, 2019 |website=The Numbers}}</ref><ref>{{Cite web |title=Cars 3 (2017) |url=https://www.boxofficemojo.com/movies/?id=cars3.htm |url-status=live |archive-url=https://web.archive.org/web/20170619223132/http://www.boxofficemojo.com/movies/?id=cars3.htm |archive-date=June 19, 2017 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2017
+| ''[[Coco (2017 film)#Box office|Coco]]''
+| $175–225&nbsp;million
+| $210,460,015
+| $604,181,157
+| $814,641,172
+| <ref>{{Cite web |title=Coco (2017) |url=https://www.boxofficemojo.com/movies/?id=pixar1117.htm |url-status=live |archive-url=https://web.archive.org/web/20180807201313/https://www.boxofficemojo.com/movies/?id=pixar1117.htm |archive-date=August 7, 2018 |access-date=November 17, 2024 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite news |last=FilmL.A. |date=August 8, 2018 |title=2017 Feature Film Study |page=23 |url=https://www.filmla.com/wp-content/uploads/2018/08/2017_film_study_v3_WEB.pdf |access-date=March 19, 2019 }}{{Dead link|date=January 2026 |bot=InternetArchiveBot }}</ref>
+|-
+| 2018
+| ''[[Incredibles 2#Box office|Incredibles 2]]''
+| $200&nbsp;million
+| $608,581,744
+| $634,223,615
+| $1,242,805,359
+| <ref>{{Cite web |title=Incredibles 2 (2018) – Financial Information |url=https://www.the-numbers.com/movie/Incredibles-2 |url-status=live |archive-url=https://web.archive.org/web/20230316230541/https://www.the-numbers.com/movie/Incredibles-2 |archive-date=March 16, 2023 |access-date=July 29, 2019 |website=The Numbers}}</ref><ref>{{Cite web |title=Incredibles 2 (2018) |url=https://www.boxofficemojo.com/movies/?id=theincredibles2.htm |url-status=live |archive-url=https://web.archive.org/web/20190327085857/https://www.boxofficemojo.com/movies/?id=theincredibles2.htm |archive-date=March 27, 2019 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2019
+| ''[[Toy Story 4#Box office|Toy Story 4]]''
+| $200&nbsp;million
+| $434,038,008
+| $639,356,585
+| $1,073,394,593
+| <ref>{{Cite web |last=Brzeski |first=Patrick |date=June 21, 2019 |title=China Box Office: 'Toy Story 4' Getting Crushed by Rerelease of Anime Classic 'Spirited Away' |url=https://www.hollywoodreporter.com/news/spirited-away-release-crushes-toy-story-4-at-chinese-box-office-1220251 |url-status=live |archive-url=https://web.archive.org/web/20190621135149/https://www.hollywoodreporter.com/news/spirited-away-release-crushes-toy-story-4-at-chinese-box-office-1220251 |archive-date=June 21, 2019 |access-date=August 2, 2019 |website=[[The Hollywood Reporter]]}}</ref><ref>{{Cite web |title=Toy Story 4 (2019) |url=https://www.boxofficemojo.com/movies/?id=pixar2017.htm |url-status=live |archive-url=https://web.archive.org/web/20191002212151/https://www.boxofficemojo.com/movies/?id=pixar2017.htm |archive-date=October 2, 2019 |access-date=June 21, 2019 |website=[[Box Office Mojo]]}}</ref>
+|-
+| 2020
+| ''[[Onward (film)#Box office|Onward]]''
+| $200&nbsp;million
+| $61,555,145
+| $80,384,897
+| $141,940,042
+| <ref>{{Cite web |title=Onward (2020) |url=https://www.boxofficemojo.com/release/rl3433267713/?ref_=bo_hm_rs |url-status=live |archive-url=https://web.archive.org/web/20200229183631/https://www.boxofficemojo.com/release/rl3433267713/?ref_=bo_hm_rs |archive-date=February 29, 2020 |access-date=March 6, 2020 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite web |title=Onward (2020) - Box Office and Financial Information |url=https://www.the-numbers.com/ |url-status=live |archive-url=https://web.archive.org/web/20260114235409/https://www.the-numbers.com/movie/Onward-(2020) |archive-date=2026-01-14 |access-date=2026-08-07 |website=The Numbers}}</ref>
+|-
+| 2020
+| ''[[Soul (2020 film)#Box office|Soul]]''
+| $200&nbsp;million
+| $946,154{{efn|name=grosses|Released in North American cinemas in 2024, after originally being released on [[Disney Plus|Disney+]]}} 
+| $120,957,731
+| $121,903,885
+| <ref>{{Cite web |title=Soul (2020) |url=https://www.boxofficemojo.com/release/rl3815278081/ |url-status=live |archive-url=https://web.archive.org/web/20210112011937/https://www.boxofficemojo.com/release/rl3815278081/ |archive-date=January 12, 2021 |access-date=August 22, 2024 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite web |title=Soul (2020) - Box Office and Financial Information |url=https://www.the-numbers.com/ |access-date=2026-08-07 |website=The Numbers}}</ref>
+|-
+| 2021
+| ''[[Luca (2021 film)#Box office|Luca]]''
+| {{n/a}}
+| $1,324,302{{efn|name=grosses}} 
+| $49,788,012
+| $51,112,314
+| <ref>{{Cite web |title=Luca (2021) |url=https://www.boxofficemojo.com/title/tt12801262/ |url-status=live |archive-url=https://web.archive.org/web/20220218143530/https://www.boxofficemojo.com/title/tt12801262/ |archive-date=February 18, 2022 |access-date=August 22, 2024 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite web |title=''Luca'' |url=https://www.the-numbers.com/movie/Luca-(2021) |url-status=live |archive-url=https://web.archive.org/web/20210902151404/https://www.the-numbers.com/movie/Luca-(2021) |archive-date=September 2, 2021 |access-date=August 22, 2024 |website=[[The Numbers (website)|The Numbers]]}}</ref>
+|-
+| 2022
+| ''[[Turning Red#Box office|Turning Red]]''
+| $175&nbsp;million
+| $1,399,001{{efn|name=grosses}} 
+| $20,414,357
+| $21,813,358
+| <ref>{{Cite web |title=Turning Red (2022) |url=https://www.boxofficemojo.com/title/tt8097030/ |url-status=live |archive-url=https://web.archive.org/web/20220301043451/https://www.boxofficemojo.com/title/tt8097030/ |archive-date=March 1, 2022 |access-date=August 22, 2024 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite web |title=''Turning Red'' |url=https://m.the-numbers.com/movie/Turning-Red-(2022) |url-status=dead |archive-url=https://web.archive.org/web/20220314115928/https://m.the-numbers.com/movie/Turning-Red-(2022) |archive-date=March 14, 2022 |access-date=August 22, 2024 |website=[[The Numbers (website)|The Numbers]]}}</ref>
+|-
+| 2022
+| ''[[Lightyear (film)#Box office|Lightyear]]''
+| $200&nbsp;million
+| $118,307,188
+| $108,118,232
+| $226,425,420
+| <ref>{{Cite web |title=Lightyear (2022) |url=https://www.boxofficemojo.com/title/tt10298810/ |url-status=live |archive-url=https://web.archive.org/web/20221009203751/https://www.boxofficemojo.com/title/tt10298810/ |archive-date=October 9, 2022 |access-date=October 29, 2022 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite web |title=''Lightyear'' |url=https://m.the-numbers.com/movie/Lightyear-(2022)#tab=summary |url-status=dead |archive-url=https://web.archive.org/web/20220622203735/https://m.the-numbers.com/movie/Lightyear-(2022)#tab=summary |archive-date=June 22, 2022 |access-date=June 26, 2022 |website=[[The Numbers (website)|The Numbers]]}}</ref>
+|-
+| 2023
+| ''[[Elemental (2023 film)#Box office|Elemental]]''
+| $200&nbsp;million
+| $154,426,697
+| $342,017,611
+| $496,444,308
+| <ref>{{Cite web |title=Elemental (2023) |url=https://www.boxofficemojo.com/title/tt15789038/ |url-status=live |archive-url=https://web.archive.org/web/20230624180247/https://www.boxofficemojo.com/title/tt15789038/ |archive-date=June 24, 2023 |access-date=November 1, 2023 |website=[[Box Office Mojo]]}}</ref><ref>{{Cite web |title=''Elemental'' |url=https://m.the-numbers.com/movie/Elemental-(2023)#tab=summary |url-status=live |archive-url=https://web.archive.org/web/20230616174710/https://m.the-numbers.com/movie/Elemental-(2023)#tab=summary |archive-date=June 16, 2023 |access-date=June 17, 2023 |website=[[The Numbers (website)|The Numbers]]}}</ref>
+|-
+| 2024
+| ''[[Inside Out 2#Box office|Inside Out 2]]''
+| $200&nbsp;million
+| $652,980,194
+| $1,045,883,622
+| $1,698,863,816
+| <ref>{{Cite The Numbers |id=Inside-Out-2-(2024) |title=Inside Out 2 (2024)| access-date=January 13, 2025}}</ref><ref>{{Cite Box Office Mojo |id=22022452 |title=Inside Out 2 (2024) |access-date=January 13, 2025}}</ref>
+|-
+| 2025
+| ''[[Elio (film)#Box office|Elio]]''
+| $150–200+&nbsp;million
+| $72,987,454
+| $80,810,682
+| $153,798,136
+|<ref>{{Cite The Numbers |id=Elio-(2025) |title=Elio (2025) |access-date=June 28, 2025}}</ref><ref>{{Cite Box Office Mojo |id=4900148 |title=Elio (2025) |access-date=June 28, 2025}}</ref>
+|-
+| 2026
+| ''[[Hoppers (film)#Box office|Hoppers]]''
+| $150&nbsp;million
+| $166,010,783
+| $223,537,000
+| $389,547,783
+|<ref>{{Cite Box Office Mojo|id=26443616 |title=Hoppers (2026) |access-date=March 5, 2026}}</ref>
+|-
+| 2026
+| ''[[Toy Story 5#Box office|Toy Story 5]]''
+| $250&nbsp;million
+| $478,817,306
+| $657,611,596
+| $1,136,428,783
+|<ref>{{Cite Box Office Mojo|id=29355505 |title=Toy Story 5 (2026) |access-date=August 10, 2026}}</ref>
+|}
+
+{{notelist}}
+{{reflist|group=lower-alpha}}
+
+===Critical and public response===
+<!-- Please read [[MOS:COLOR]] and do not add excessive colors to this table again -->
+{{hatnote|Each film is linked to the "Critical response" section of its article.}}
+{| class="wikitable plainrowheaders sortable" style="text-align: center;"
+|+ {{Screen reader-only|Critical and public response of Pixar films}}
+! scope="col" rowspan="2" | Film
+! scope="col" colspan="2" | Critical
+! scope="col" | Public
+|-
+! data-sort-type="number" | [[Rotten Tomatoes]]
+! data-sort-type="number" | [[Metacritic]]
+! [[CinemaScore]]
+|-
+{{excerpt|Toy Story (franchise)|Response1|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[A Bug's Life#Critical response|A Bug's Life]]''
+| {{RT data|table|qid=Q216153}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q216153}} |type=m |title=A Bug's Life |access-date={{RT data|access date|qid=Q216153}}}}{{RT data|edit|qid=Q216153}}{{cbignore}}</ref>
+| 78 (23 reviews)<ref>{{cite Metacritic |title=A Bug's Life |id=a-bugs-life |type=m |access-date=June 14, 2022}}</ref>
+| {{sort grade|A}}<ref name="CinemaScore">{{cite web |url=https://www.cinemascore.com/ |title=CinemaScore |publisher=[[CinemaScore]] |access-date=April 13, 2022 |archive-url= https://web.archive.org/web/20220413083139/https://www.cinemascore.com/ |archive-date=April 13, 2022 |url-status=live }}</ref>
+|-
+{{excerpt|Toy Story (franchise)|Response2|hat=no|inline=yes}}
+|-
+{{excerpt|Monsters, Inc. (franchise)|Response1|hat=no|inline=yes}}
+|-
+{{excerpt|Finding Nemo (franchise)|Response1|hat=no|inline=yes}}
+|-
+{{excerpt|The Incredibles (franchise)|Response1|hat=no|inline=yes}}
+|-
+{{excerpt|Cars (franchise)|Response1|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[Ratatouille (film)#Critical response|Ratatouille]]''
+| {{RT data|table|qid=Q170035}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q170035}} |type=m |title=Ratatouille |access-date={{RT data|access date|qid=Q170035}}}}{{RT data|edit|qid=Q170035}}{{cbignore}}</ref>
+| 96 (37 reviews)<ref>{{cite Metacritic|title=Ratatouille |id=ratatouille |type=m |access-date=June 14, 2022}}</ref>
+|{{sort grade|A}}<ref>{{Cite web |last=Kilday |first=Gregg |date=July 2, 2007 |title='Ratatouille' runs table |url=https://www.hollywoodreporter.com/business/business-news/ratatouille-runs-table-141415/ |url-status=live |archive-url=https://web.archive.org/web/20210911034743/https://www.hollywoodreporter.com/business/business-news/ratatouille-runs-table-141415/ |archive-date=September 11, 2021 |access-date=June 14, 2022 |website=[[The Hollywood Reporter]]}}</ref>
+|-
+! scope="row" | ''[[WALL-E#Critical response|WALL-E]]''
+| {{RT data|table|qid=Q104905}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q104905}} |type=m |title=WALL-E |access-date={{RT data|access date|qid=Q104905}}}}{{RT data|edit|qid=Q104905}}{{cbignore}}</ref>
+| 95 (39 reviews)<ref>{{cite Metacritic|title=WALL-E |id=wall-e |type=m |access-date=June 14, 2022}}</ref>
+|{{sort grade|A}}<ref>{{Cite magazine |last=Rich |first=Joshua |date=June 29, 2008 |title='WALL-E' beeps and bops to the bank |url=https://ew.com/article/2008/06/29/wall-e-beeps-and-bops-bank/ |magazine=[[Entertainment Weekly]] |access-date=June 14, 2022}}</ref>
+|-
+! scope="row" | ''[[Up (2009 film)#Critical response|Up]]''
+| {{RT data|table|qid=Q174811}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q174811}} |type=m |title=Up |access-date={{RT data|access date|qid=Q174811}}}}{{RT data|edit|qid=Q174811}}{{cbignore}}</ref>
+| 88 (37 reviews)<ref>{{cite Metacritic|title=Up |id=up |type=m |access-date=June 14, 2022}}</ref>
+| {{sort grade|A+}}<ref>{{Cite web |last=McNary |first=Dave |author-link=Dave McNary |date=May 31, 2009 |title='Up' flies high at weekend box office |url=https://variety.com/2009/digital/box-office/up-flies-high-at-weekend-box-office-1118004341/ |url-status=live |archive-url=https://web.archive.org/web/20210921224721/https://variety.com/2009/digital/box-office/up-flies-high-at-weekend-box-office-1118004341/ |archive-date=September 21, 2021 |access-date=September 21, 2021 |website=[[Variety (magazine)|Variety]]}}</ref>
+|-
+{{excerpt|Toy Story (franchise)|Response3|hat=no|inline=yes}}
+|-
+{{excerpt|Cars (franchise)|Response2|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[Brave (2012 film)#Critical response|Brave]]''
+| {{RT data|table|qid=Q126796}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q126796}} |type=m |title=Brave |access-date={{RT data|access date|qid=Q126796}}}}{{RT data|edit|qid=Q126796}}{{cbignore}}</ref>
+| 69 (37 reviews)<ref>{{cite Metacritic|title=Brave |id=brave |type=m |access-date=June 14, 2022}}</ref>
+| {{sort grade|A}}<ref>{{Cite web |last=Finke |first=Nikki |date=June 24, 2012 |title=Pixar Does It Again! 'Brave' Opens Big #1 With $66.7M Domestic and $80.2M Global; 'Abe Lincoln: Vampire Hunter' Gets Lost |url=https://deadline.com/2012/06/brave-box-office-results-abraham-lincoln-vampire-hunter-weekend-290635/ |url-status=live |archive-url=https://web.archive.org/web/20220614202210/https://deadline.com/2012/06/brave-box-office-results-abraham-lincoln-vampire-hunter-weekend-290635/ |archive-date=June 14, 2022 |access-date=June 14, 2022 |website=[[Deadline Hollywood]]}}</ref>
+|-
+{{excerpt|Monsters, Inc. (franchise)|Response2|hat=no|inline=yes}}
+|-
+{{excerpt|Inside Out (franchise)|Response1|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[The Good Dinosaur#Critical response|The Good Dinosaur]]''  
+| {{RT data|table|qid=Q7737199}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q7737199}} |type=m |title=The Good Dinosaur |access-date={{RT data|access date|qid=Q7737199}}}}{{RT data|edit|qid=Q7737199}}{{cbignore}}</ref>
+| 66 (37 reviews)<ref>{{cite Metacritic|title=The Good Dinosaur |id=the-good-dinosaur |type=m |access-date=June 14, 2022}}</ref>
+| {{sort grade|A}}<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=November 29, 2015 |title=Katniss Rules Wednesday On Track For $78M-80M 5-Day; 'Good Dinosaur' Eyes $58M-$62M; 'Creed' Punching $39M-$42M |url=https://deadline.com/2015/11/thanksgiving-box-office-hunger-games-mockingjay-creed-the-good-dinosaur-1201639941/ |url-status=live |archive-url=https://web.archive.org/web/20151126233231/http://deadline.com/2015/11/thanksgiving-box-office-hunger-games-mockingjay-creed-the-good-dinosaur-1201639941/ |archive-date=November 26, 2015 |access-date=November 26, 2015 |website=[[Deadline Hollywood]]}}</ref>
+|-
+{{excerpt|Finding Nemo (franchise)|Response2|hat=no|inline=yes}}
+|-
+{{excerpt|Cars (franchise)|Response5|hat=no|inline=yes}}
+|-
+{{excerpt|Coco (franchise)|Response1|hat=no|inline=yes}}
+|-
+{{excerpt|The Incredibles (franchise)|Response2|hat=no|inline=yes}}
+|-
+{{excerpt|Toy Story (franchise)|Response4|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[Onward (film)#Critical response|Onward]]''
+| {{RT data|table|qid=Q59690895}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q59690895}} |type=m |title=Onward |access-date={{RT data|access date|qid=Q59690895}}}}{{RT data|edit|qid=Q59690895}}{{cbignore}}</ref>
+| 61 (56 reviews)<ref>{{cite Metacritic|title=Onward |id=onward |type=m |access-date=June 18, 2025}}</ref>
+| {{sort grade|A−}}<ref>{{Cite web |last=D'Alessandro |first=Anthony |date=March 7, 2020 |title='Onward' Seeing Blasé $40M Domestic Opening, $68M WW: Are Coronavirus Fears Impacting B.O.? – Sunday Update |url=https://deadline.com/2020/03/onward-opening-weekend-disney-pixar-coronavirus-invisible-man-1202876016/ |url-status=live |archive-url=https://web.archive.org/web/20200307021204/https://deadline.com/2020/03/onward-opening-weekend-disney-pixar-coronavirus-invisible-man-1202876016/ |archive-date=March 7, 2020 |access-date=March 7, 2020 |website=[[Deadline Hollywood]]}}</ref>
+|-
+! scope="row" | ''[[Soul (2020 film)#Critical response|Soul]]''
+| {{RT data|table|qid=Q64744044}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q64744044}} |type=m |title=Soul |access-date={{RT data|access date|qid=Q64744044}}}}{{RT data|edit|qid=Q64744044}}{{cbignore}}</ref>
+| 83 (55 reviews)<ref>{{cite Metacritic|title=Soul |id=soul |type=m |access-date=September 15, 2022}}</ref>
+| rowspan="3" {{n/a}}
+|-
+! scope="row" | ''[[Luca (2021 film)#Critical response|Luca]]''
+| {{RT data|table|qid=Q97925311}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q97925311}} |type=m |title=Luca |access-date={{RT data|access date|qid=Q97925311}}}}{{RT data|edit|qid=Q97925311}}{{cbignore}}</ref>
+| 71 (52 reviews)<ref>{{cite Metacritic|title=Luca |id=luca |type=m |access-date=September 15, 2022}}</ref>
+|-
+! scope="row" | ''[[Turning Red#Critical response|Turning Red]]''
+| {{RT data|table|qid=Q104845027}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q104845027}} |type=m |title=Turning Red |access-date={{RT data|access date|qid=Q104845027}}}}{{RT data|edit|qid=Q104845027}}{{cbignore}}</ref>
+| 83 (53 reviews)<ref>{{cite Metacritic |title=Turning Red |id=turning-red-2022 |type=m |access-date=September 15, 2022}}</ref>
+|-
+{{excerpt|Toy Story (franchise)|Response5|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[Elemental (2023 film)#Critical response|Elemental]]''
+| {{RT data|table|qid=Q112801489}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q112801489}} |type=m |title=Elemental |access-date={{RT data|access date|qid=Q112801489}}}}{{RT data|edit|qid=Q112801489}}{{cbignore}}</ref>
+| 58 (45 reviews)<ref>{{Cite Metacritic |id=elemental-2023 |type=movie |title=Elemental |access-date=July 24, 2023}}</ref>
+| {{sort grade|A}}<ref>{{Cite news |last=D'Alessandro |first=Anthony |date=June 18, 2023 |title='The Flash' Falls Down With $55M 3-Day Opening: Here's Why |work=[[Deadline Hollywood]] |url=https://deadline.com/2023/06/box-office-the-flash-bomb-elemental-1235419478/ |url-status=live |access-date=July 3, 2023 |archive-url=https://web.archive.org/web/20230622033913/https://deadline.com/2023/06/box-office-the-flash-bomb-elemental-1235419478/ |archive-date=June 22, 2023}}</ref>
+|-
+{{excerpt|Inside Out (franchise)|Response2|hat=no|inline=yes}}
+|-
+! scope="row" | ''[[Elio (film)#Critical response|Elio]]''
+| {{RT data|table|qid=Q113879962}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q113879962}} |type=m |title=Elio |access-date={{RT data|access date|qid=Q113879962}}}}{{RT data|edit|qid=Q113879962}}{{cbignore}}</ref>
+| 66 (40 reviews)<ref>{{cite Metacritic |title=Elio |id=elio|type=m |access-date=June 21, 2025}}</ref>
+| {{sort grade|A}}<ref>{{cite web |last=D'Alessandro |first=Anthony |date=June 22, 2025 |title='28 Years Later' Still Feasting $30M, 'Elio' At $21M Is Pixar's Lowest Opening Ever, 'Dragon' Rules With $37M Second Weekend – Sunday Box Office Update |url=https://deadline.com/2025/06/box-office-28-years-later-elio-dragon-1236438207/|access-date=June 22, 2025 |website=Deadline Hollywood }}</ref>
+|-
+! scope="row" | ''[[Hoppers (film)#Critical response|Hoppers]]''
+| {{RT data|table|qid=Q128798957}}<ref>{{Cite Rotten Tomatoes |id={{RT data|rtid|noprefix=y|qid=Q128798957}} |type=m |title=Hoppers |access-date={{RT data|access date|qid=Q128798957}}}}{{RT data|edit|qid=Q128798957}}{{cbignore}}</ref>
+| 73 (46 reviews)<ref>{{cite Metacritic |title=Hoppers |id=hoppers|type=m |access-date=March 29, 2026}}</ref>
+| {{sort grade|A}}<ref>{{Cite web |title=Home |url=https://www.cinemascore.com/ |access-date=March 7, 2026 |website=CinemaScore |language=en-US}}</ref>
+|-
+{{excerpt|Toy Story (franchise)|Response6|hat=no|inline=yes}}
+|}
+
+===Academy Awards===
+{{main|List of Pixar awards and nominations (feature films)}}
+
+{| class="wikitable sortable" style="text-align:center; margin=auto; font-size:90%"
+|-
+! scope="col" rowspan="2" | Film
+! scope="col" rowspan="2" | [[Academy Award for Best Picture|Best Picture]]
+! scope="col" rowspan="2" | [[Academy Award for Best Animated Feature|Animated Feature]]
+! scope="col" rowspan="2" | [[Academy Award for Best Original Screenplay|Original Screenplay]]
+! scope="col" rowspan="2" | [[Academy Award for Best Adapted Screenplay|Adapted Screenplay]]
+! scope="col" rowspan="2" | [[Academy Award for Best Original Score|Original Score]]
+! scope="col" rowspan="2" | [[Academy Award for Best Original Song|Original Song]]
+! scope="col" colspan="2" class=sortable | [[Academy Award for Best Sound|Sound]]{{efn|name=overview1}}
+! scope="col" rowspan="2" class=unsortable | Other
+|-
+! scope="col" | [[Academy Award for Best Sound Editing|Sound Editing]]
+! scope="col" | [[Academy Award for Best Sound Mixing|Sound Mixing]]
+|-
+| style="text-align:left;" | ''[[Toy Story]]'' 
+|
+| rowspan="3" {{N/A|''Award not yet introduced''}}
+| {{nom}}
+| rowspan="2" {{N/A|''Ineligible''}}
+| rowspan=2 {{nom}}
+| {{nom}}
+|
+|
+| {{won|Won<!--"Won" is necessary to comply with WP:COLOR--> [[Special Achievement Academy Award|Special Achievement]]}}
+|-
+| style="text-align:left;" | ''[[A Bug's Life]]''
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Toy Story 2]]''
+|
+| {{N/A|''Ineligible''}}
+|
+|
+| {{nom}}
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Monsters, Inc.]]''
+|
+| {{nom}}
+|
+| rowspan="7" {{N/A|''Ineligible''}}
+| rowspan=2 {{nom}}
+| {{won}}
+| rowspan=2 {{nom}}
+|
+|
+|-
+| style="text-align:left;" | ''[[Finding Nemo]]''
+|
+| rowspan=2 {{won}}
+| rowspan=2 {{nom}}
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[The Incredibles]]''
+|
+|
+|
+| {{won}}
+| {{nom}}
+|
+|-
+| style="text-align:left;" | ''[[Cars (film)|Cars]]''
+|
+| {{nominated}}
+|
+|
+| {{nominated}}
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Ratatouille (film)|Ratatouille]]''
+|
+| rowspan=4 {{won}}
+| rowspan=3 {{nom}}
+| rowspan=2 {{nom}}
+|
+| rowspan=4 {{nom}}
+| rowspan=2 {{nom}}
+|
+|-
+| style="text-align:left;" | ''[[WALL-E]]''
+|
+| {{nom}}
+|
+|-
+| style="text-align:left;" | ''[[Up (2009 film)|Up]]''
+| rowspan=2 {{nom}}
+| {{won}}
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Toy Story 3]]''
+| rowspan="2" {{N/A|''Ineligible''}}
+| {{nom}}
+|
+| {{won}}
+|
+|
+|-
+| style="text-align:left;" | ''[[Cars 2]]'' 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Brave (2012 film)|Brave]]''
+|
+| {{won}}
+|
+| {{N/A|''Ineligible''}}
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Monsters University]]'' 
+|
+|
+| {{N/A|''Ineligible''}}
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Inside Out]]''
+|
+| {{won}}
+| {{nom}}
+| rowspan="2" {{N/A|''Ineligible''}}
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[The Good Dinosaur]]'' 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Finding Dory]]'' 
+|
+|
+| rowspan="2" {{N/A|''Ineligible''}}
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Cars 3]]'' 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Coco (2017 film)|Coco]]''
+|
+| {{won}}
+|
+| {{N/A|''Ineligible''}}
+|
+| {{won}}
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Incredibles 2]]''
+|
+| {{nom}}
+| rowspan="2" {{N/A|''Ineligible''}}
+|
+|
+|
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Toy Story 4]]''
+|
+| {{won}}
+|
+| 
+| {{nom}}
+|
+|
+|
+|-
+| style="text-align:left;" | ''[[Onward (film)|Onward]]''
+|
+| {{nom}}
+|
+| rowspan="4" {{N/A|''Ineligible''}}
+|
+|
+| colspan="2" |
+|
+|-
+| style="text-align:left;" | ''[[Soul (2020 film)|Soul]]''
+|
+| {{won}}
+|
+| {{won}}
+|
+| colspan="2" {{nom}}
+|
+|-
+| style="text-align:left;" | ''[[Luca (2021 film)|Luca]]''
+|
+| rowspan="2" {{nom}}
+|
+|
+|
+| colspan="2" |
+|
+|-
+| style="text-align:left;" | ''[[Turning Red]]''
+|
+|
+|
+|
+| colspan="2" |
+|
+|-
+| style="text-align:left;" | ''[[Lightyear (film)|Lightyear]]''
+|
+|
+| {{N/A|''Ineligible''}}
+|
+|
+|
+| colspan="2" |
+|
+|-
+| style="text-align:left;" | ''[[Elemental (2023 film)|Elemental]]''
+|
+| rowspan="3" {{nom}}
+|
+| {{N/A|''Ineligible''}}
+|
+|
+| colspan="2" |
+|
+|-
+| style="text-align:left;" | ''[[Inside Out 2]]''
+|
+| {{N/A|''Ineligible''}}
+|
+|
+|
+| colspan="2" |
+|
+|-
+| style="text-align:left;" | ''[[Elio (film)|Elio]]''
+|
+|
+| {{N/A|''Ineligible''}}
+|
+|
+| colspan="2" |
+|
+|-
+|}
+
+{{reflist|group=lower-alpha|refs=
+{{efn|name=overview1|Starting with the [[93rd Academy Awards]], the Best Sound Mixing and Best Sound Editing categories were consolidated into a single Best Sound category.}}
+}}
+
+==See also==
+* [[List of 20th Century Studios theatrical animated feature films]]
+* [[List of Blue Sky Studios productions]]
+* [[List of Disney theatrical animated feature films]]
+* [[List of Pixar shorts]]
+* [[List of Pixar television series]]
+* [[List of Walt Disney Animation Studios films]]
+* [[List of computer-animated films]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.pixar.com/feature-films}}
+
+{{Pixar}}
+{{Disney theatrical animated features}}
+{{Walt Disney Studios films}}
+
+{{DEFAULTSORT:Pixar films}}
+[[Category:Pixar]]
+[[Category:Pixar animated films]]
+[[Category:Pixar lists|Films]]
+[[Category:Lists of films released by Disney|Pixar]]
+[[Category:Lists of films by studio]]
+[[Category:Walt Disney Pictures animated films]]
+
+[[el:Pixar Animation Studios#Ταινίες]]

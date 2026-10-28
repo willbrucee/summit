@@ -58,3 +58,13 @@ test('bestBurst finds the most answers in a 10 second window', () => {
 test('typed-but-not-accepted keeps repeats and longer words only', () => {
   assert.deepEqual(unmatchedWorthReporting(['Narnia', 'narnia ', 'xy', 'xy', 'q', 'Wakanda']), ['Narnia', 'xy', 'Wakanda']);
 });
+
+test('outside: a real thing just off the list costs nothing and says why', () => {
+  const list = buildIndex([{ id: 0, label: 'Tetris', aliases: [] }, { id: 1, label: 'Minecraft', aliases: [] }]);
+  const outside = buildIndex([{ id: 0, label: 'Celeste', aliases: [] }]);
+  assert.deepEqual(classifyGuess(list, 'Celeste', new Set(), outside), { state: 'outside', label: 'Celeste' });
+  assert.equal(classifyGuess(list, 'Celest', new Set(), outside).state, 'outside');
+  assert.equal(classifyGuess(list, 'Tetris', new Set(), outside).state, 'accepted');
+  assert.equal(classifyGuess(list, 'Banana', new Set(), outside).state, 'wrong');
+  assert.equal(nextCombo(3, 'outside', 1000, 500), 3);
+});

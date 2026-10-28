@@ -1,0 +1,2763 @@
+{{Short description|None}}
+
+The following is a '''list of the highest-grossing films in the United States and Canada''', a market known as the '''North American box office''' or, in the United States [[film industry]], the '''domestic box office'''.<ref name="filmvictoria">{{#invoke:cite|web|url=http://www.film.vic.gov.au/__data/assets/pdf_file/0006/969/AA6_Genre_and_Intenational_BO.pdf |title=Genre and International Box office |publisher=[[Film Victoria]] / Government of [[Australia]] |access-date=June 16, 2012 |page=10 |quote='''North American box office''' statistics includes figures from both the United States and Canada as industry standard. |archive-url=https://web.archive.org/web/20120616134810/http://www.film.vic.gov.au/__data/assets/pdf_file/0006/969/AA6_Genre_and_Intenational_BO.pdf |archive-date=June 16, 2012 |url-status=live}}</ref><ref name="reuters">{{#invoke:cite|web|url=http://www.canada.com/entertainment/movie-guide/Think+Like+tops+North+American+office/6537819/story.html |publisher=[[Reuters]] via Canada.com |title=Think Like a Man tops '''North American box office''' |first=Lisa |last=Richwine |date=April 30, 2012 |access-date=June 16, 2012 |quote=...easily beat four new films to win the U.S. and Canadian box office race.... ''Think Like a Man'' led '''domestic''' charts with... |archive-url=https://web.archive.org/web/20120616134329/http://www.canada.com/entertainment/movie-guide/Think+Like+tops+North+American+office/6537819/story.html |archive-date=June 16, 2012 |url-status=dead}}</ref>
+
+==Nominal figures==
+This is a list of the highest-grossing films in the U.S. and Canada in [[United States dollar|US dollar]]s, ranked by lifetime gross.<ref name=":0">{{#invoke:cite|web|url=https://www.boxofficemojo.com/chart/top_lifetime_gross/|title=Top Lifetime Grosses|website=Box Office Mojo|access-date=December 6, 2019|archive-url=https://web.archive.org/web/20120519095339/http://www.boxofficemojo.com/alltime/domestic.htm|archive-date=2012-05-19|url-status=live}}</ref> This ranking does not adjust for [[inflation]]. 
+
+The list also includes the initial gross without adjustments.
+
+{{box office table legend|#b6fcb6|icon={{†|alt=film currently playing}}}}<!-- Please do not remove this, or else the highlighting in the table becomes unintelligible. -->
+{| class="wikitable sortable plainrowheaders"  style=" margin:auto;"
+! Rank
+! Title
+! Initial gross
+! Lifetime gross
+! Year
+|-
+| 1
+| style="background:#b6fcb6;" | ''[[Spider-Man: Brand New Day]]'' †
+| align="right" | $958,704,191
+| align="right" | $958,704,191
+| align="center" | [[List of American films of 2026|2026]]
+|-
+| 2
+| ''[[Star Wars: The Force Awakens]]''
+| align="right" | $936,662,225
+| align="right" | $936,662,225
+| align="center" | [[List of American films of 2015|2015]]
+|-
+| 3
+| style="background:#b6fcb6;" | ''[[Avengers: Endgame]]'' †
+| align="right" | $858,373,000
+| align="right" | $898,464,750
+| align="center" | [[List of American films of 2019|2019]]
+|-
+| 4
+| ''[[Spider-Man: No Way Home]]''
+| align="right" | $804,793,477
+| align="right" | $814,811,535
+| align="center" | [[List of American films of 2021|2021]]
+|-
+| 5
+| ''[[Avatar (2009 film)|Avatar]]''
+| align="right" | $749,766,139
+| align="right" | $785,221,649
+| align="center" | [[List of American films of 2009|2009]]
+|-
+| 6
+| ''[[Top Gun: Maverick]]'' 
+|align="right" | $718,732,821
+|align="right" | $721,996,984
+|align="center" | [[List of American films of 2022|2022]]
+|-
+| 7
+| ''[[Black Panther (film)|Black Panther]]''
+| align="right" | $700,426,566
+| align="right" | $700,426,566
+| align="center" | [[List of American films of 2018|2018]]
+|-
+| 8
+| ''[[Avatar: The Way of Water]]''
+|align="right"| $684,075,767
+|align="right"| $688,459,501
+|align="center"| [[List of American films of 2022|2022]]
+|-
+| 9
+| ''[[Avengers: Infinity War]]''
+| align="right" | $678,815,482
+| align="right" | $678,815,482
+| align="center" | [[List of American films of 2018|2018]]
+|-
+| 10
+| ''[[Titanic (1997 film)|Titanic]]''
+| align="right" | $600,788,188
+| align="right" | $674,276,105
+| align="center" | [[List of American films of 1997|1997]]
+|-
+| 11
+|''[[Jurassic World]]''
+| align="right" | $652,270,625
+| align="right" | $653,406,625
+| align="center" | [[List of American films of 2015|2015]]
+|-
+| 12
+| ''[[Inside Out 2]]''
+|align="right"| $652,980,194
+|align="right"| $652,980,194
+|align="center"| [[List of American films of 2024|2024]]
+|-
+| 13
+| ''[[Barbie (film)|Barbie]]''
+|align="right"| $636,785,476
+|align="right"| $636,785,476
+|align="center"| [[List of American films of 2023|2023]]
+|-
+| 14
+| ''[[Deadpool & Wolverine]]''
+|align="right"| $636,745,858
+|align="right"| $636,745,858
+|align="center"| [[List of American films of 2024|2024]]
+|-
+| 15
+| style="background:#b6fcb6;" | ''[[The Odyssey (2026 film)|The Odyssey]]'' †
+| align="right"| $625,480,640
+| align="right"| $625,480,640
+| align="center"| [[List of American films of 2026|2026]]
+|-
+| 16
+| ''[[The Avengers (2012 film)|The Avengers]]''
+|align="right"| $623,357,910
+|align="right"| $623,357,910
+|align="center"| [[List of American films of 2012|2012]]
+|-
+| 17
+| ''[[Star Wars: The Last Jedi]]''
+|align="right"| $620,181,382
+|align="right"| $620,181,382
+|align="center"| [[List of American films of 2017|2017]]
+|-
+| 18
+| ''[[Incredibles 2]]''
+|align="right"| $608,581,744
+|align="right"| $608,581,744
+|align="center"| [[List of American films of 2018|2018]]
+|-
+| 19
+| ''[[The Super Mario Bros. Movie]]''
+| align="right" | $574,934,330
+| align="right" | $574,934,330
+| align="center" | [[List of American films of 2023|2023]]
+|-
+| 20
+| ''[[The Lion King (2019 film)|The Lion King]]''
+|align="right"| $543,638,043
+|align="right"| $543,638,043
+|align="center"| [[List of American films of 2019|2019]]
+|-
+| 21
+| ''[[The Dark Knight]]''
+|align="right"| $533,345,358
+|align="right"| $534,987,076
+|align="center"| [[List of American films of 2008|2008]]
+|-
+| 22
+| ''[[Rogue One|Rogue One: A Star Wars Story]]''
+|align="right"| $532,177,324
+|align="right"| $533,539,991
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 23
+|''[[Star Wars: The Rise of Skywalker]]''
+|align="right"| $515,202,542
+|align="right"| $515,202,542
+|align="center"| [[List of American films of 2019|2019]]
+|-
+| 24
+| ''[[Beauty and the Beast (2017 film)|Beauty and the Beast]]''
+|align="right"| $504,014,165
+|align="right"| $504,481,165
+|align="center"| [[List of American films of 2017|2017]]
+|-
+| 25
+| ''[[Star Wars: Episode I – The Phantom Menace]]''
+|align="right"| $431,088,301
+|align="right"| $487,576,624
+|align="center"| [[List of American films of 1999|1999]]
+|-
+| 26
+| ''[[Finding Dory]]''
+|align="right"| $486,295,561
+|align="right"| $486,295,561
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 27
+| ''[[Toy Story 5]]''
+| align="right" | $480,294,461
+| align="right" | $480,294,461
+| align="center" | [[List of American films of 2026|2026]]
+|-
+| 28
+| ''[[Frozen 2]]''
+|align="right"| $477,373,578
+|align="right"| $477,373,578
+|align="center"| [[List of American films of 2019|2019]]
+|-
+| 29
+| ''[[Wicked (2024 film)|Wicked]]'' 
+|align="right"| $473,231,120
+|align="right"| $474,983,975
+|align="center"| [[List of American films of 2024|2024]]
+|-
+| 30
+| ''[[Star Wars (film)|Star Wars]]''
+|align="right"| $221,280,994{{ref |initial|*}}
+|align="right"| $460,998,007
+|align="center"| [[List of American films of 1977|1977]]
+|-
+| 31
+| ''[[Moana 2]]''
+|align="right"| $460,405,297
+|align="right"| $460,405,297
+|align="center"| [[List of American films of 2024|2024]]
+|-
+| 32
+| ''[[Avengers: Age of Ultron]]''
+|align="right"| $459,005,868
+|align="right"| $459,005,868
+|align="center"| [[List of American films of 2015|2015]]
+|-
+| 33
+| ''[[Black Panther: Wakanda Forever]]''
+|align="right"| $453,829,060
+|align="right"| $453,829,060
+|align="center"| [[List of American films of 2022|2022]]
+|-
+| 34
+| ''[[The Dark Knight Rises]]''
+|align="right"| $448,139,099
+|align="right"| $448,149,584
+|align="center"| [[List of American films of 2012|2012]]
+|-
+| 35
+| ''[[Shrek 2]]''
+|align="right"| $441,426,807
+|align="right"| $444,978,202
+|align="center"| [[List of American films of 2004|2004]]
+|-
+| 36
+| ''[[E.T. the Extra-Terrestrial]]''
+|align="right"| $359,197,037
+|align="right"| $439,251,124
+|align="center"| [[List of American films of 1982|1982]]
+|-
+| 37
+| ''[[Toy Story 4]]''
+| align="right" | $434,038,008
+| align="right" | $434,038,008
+| align="center" | [[List of American films of 2019|2019]]
+|-
+| 38
+| ''[[The Super Mario Galaxy Movie]]''
+|align="right"| $429,814,610
+|align="right"| $429,814,610
+|align="center"| [[List of American films of 2026|2026]]
+|-
+| 39
+| ''[[Zootopia 2]]''
+| align="right" | $428,130,160
+| align="right" | $428,130,160
+| align="center" | [[List of American films of 2025|2025]]
+|-
+| 40
+| ''[[Captain Marvel (film)|Captain Marvel]]''
+| align="right" | $426,829,839
+| align="right" | $426,829,839
+| align="center" | [[List of American films of 2019|2019]]
+|-
+| 41
+| ''[[The Lion King]]''
+| align="right" | $312,855,561{{ref |initial|*}}
+| align="right" | $424,979,720
+| align="center" | [[List of American films of 1994|1994]]
+|-
+| 42
+| ''[[The Hunger Games: Catching Fire]]''
+| align="right" | $424,668,047
+| align="right" | $424,668,047
+| align="center" | [[List of American films of 2013|2013]]
+|-
+| 43
+|''[[A Minecraft Movie]]''
+|align="right"| $424,087,780
+|align="right"| $424,087,780
+|align="center"| [[List of American films of 2025|2025]]
+|-
+| 44
+| ''[[Lilo & Stitch (2025 film)|Lilo & Stitch]]''
+|align="right"| $423,778,855
+|align="right"| $423,778,855
+|align="center"| [[List of American films of 2025|2025]]
+|-
+| 45
+| ''[[Pirates of the Caribbean: Dead Man's Chest]]''
+| align="right" | $423,315,812
+| align="right" | $423,315,812
+| align="center" | [[List of American films of 2006|2006]]
+|-
+| 46
+| ''[[Jurassic World: Fallen Kingdom]]''
+| align="right" | $417,719,760
+| align="right" | $417,719,760
+| align="center" | [[List of American films of 2018|2018]]
+|-
+| 47
+| ''[[Toy Story 3]]''
+| align="right" | $415,004,880
+| align="right" | $415,004,880
+| align="center" | [[List of American films of 2010|2010]]
+|-
+| 48
+| ''[[Star Wars: Episode III – Revenge of the Sith]]''
+|align="right"| $380,270,577
+|align="right"| $414,378,291
+|align="center"| [[List of American films of 2005|2005]]
+|-
+| 49
+| ''[[Wonder Woman (2017 film)|Wonder Woman]]''
+| align="right" | $412,563,408
+| align="right" | $412,845,172
+| align="center" | [[List of American films of 2017|2017]]
+|-
+| 50
+| ''[[Doctor Strange in the Multiverse of Madness]]''
+| align="right" | $411,331,607
+| align="right" | $411,331,607
+| align="center" | [[List of American films of 2022|2022]]
+|-
+| 51
+| ''[[Iron Man 3]]''
+| align="right" | $409,013,994
+| align="right" | $409,013,994
+| align="center" | [[List of American films of 2013|2013]]
+|-
+| 52
+| cope="row" | ''[[Captain America: Civil War]]''
+| align="right" | $408,084,349
+| align="right" | $408,084,349
+| align="center" | [[List of American films of 2016|2016]]
+|-
+| 53
+| ''[[The Hunger Games (film)|The Hunger Games]]''
+| align="right" | $408,010,692
+| align="right" | $408,010,692
+| align="center" | [[List of American films of 2012|2012]]
+|-
+| 54
+| ''[[Spider-Man (2002 film)|Spider-Man]]''
+| align="right" | $403,706,375
+| align="right" | $407,234,458{{#tag:ref|''Spider-Man'' grossed approximately $4 million from September 6–15, 2002, as a double feature with ''[[Men in Black II]]''. ''[[Box Office Mojo]]'' incorrectly reports the domestic gross of this reissue as $6,632,970, even though it has the reissue grossing $3,971,552 by its own daily reporting,<ref>{{#invoke:cite|web|title=Spider-Man/Men in Black II Double Bill |url=https://www.boxofficemojo.com/release/rl695436801/ |access-date=2023-04-14 |website=Box Office Mojo}}</ref> and allots half of it to its lifetime domestic gross, as well as one-eighth of a 2024 reissue with seven other ''Spider-Man'' films and one-third of a 2025 reissue as a triple feature with ''[[Spider-Man 2]]'' and ''[[Spider-Man 3]]'', for a total of $408,524,875. ''[[The Numbers (website)|The Numbers]]'' reports a $4,052,137 gross from the 2002 reissue and does not include multi-film reissues in its lifetime gross.<ref>{{#invoke:cite|web|title=Spider-Man/Men in Black II Double-Bill (2002) - Financial Information |url=https://www.the-numbers.com/movie/Spider-Man-Men-in-Black-II-Double-Bill |access-date=2023-02-18 |website=The Numbers}}</ref>|group="nb"}} 
+| align="center" | [[List of American films of 2002|2002]]
+|-
+| 55
+| ''[[Jurassic Park]]''
+| align="right" | $356,763,175
+| align="right" | $407,185,075
+| align="center" | [[List of American films of 1993|1993]]
+|-
+| 56
+| ''[[Jumanji: Welcome to the Jungle]]''
+| align="right" | $404,515,480
+| align="right" | $404,515,480
+| align="center" | [[List of American films of 2017|2017]]
+|-
+| 57
+| ''[[Avatar: Fire and Ash]]''
+|align="right"| $404,340,010
+|align="right"| $404,340,010
+|align="center"| [[List of American films of 2025|2025]]
+|-
+| 58
+| ''[[Transformers: Revenge of the Fallen]]''
+| align="right" | $402,111,870
+| align="right" | $402,111,870
+| align="center" | [[List of American films of 2009|2009]]
+|-
+| 59
+| ''[[Frozen (2013 film)|Frozen]]''
+| align="right" | $400,738,009
+| align="right" | $400,953,009
+| align="center" | [[List of American films of 2013|2013]]
+|-
+| 60
+| ''[[Spider-Man: Far From Home]]''
+| align="right" | $390,532,085
+| align="right" | $390,882,621
+| align="center" | [[List of American films of 2019|2019]]
+|-
+| 61
+| ''[[Guardians of the Galaxy Vol. 2]]''
+|align="right"| $389,813,101
+|align="right"| $389,813,101
+|align="center"| [[List of American films of 2017|2017]]
+|-
+| 62
+| ''[[The Lord of the Rings: The Return of the King]]''
+|align="right"| $377,027,325
+|align="right"| ${{formatnum:{{#expr:386975644−<!--2025-->1126085}}}}
+|align="center"| [[List of American films of 2003|2003]]
+|-
+| 63
+| ''[[Spider-Man: Across the Spider-Verse]]''
+|align="right"| $381,311,319
+|align="right"| $381,593,754
+|align="center"| [[List of American films of 2023|2023]]
+|-
+| 64
+| ''[[Harry Potter and the Deathly Hallows – Part 2]]''
+|align="right"| $381,011,219
+|align="right"| $381,447,587
+|align="center"| [[List of American films of 2011|2011]]
+|-
+| 65
+| ''[[Finding Nemo]]''
+|align="right"| $339,714,978
+|align="right"| $380,843,261
+|align="center"| [[List of American films of 2003|2003]]
+|-
+| 66
+| ''[[Jurassic World Dominion]]''
+|align="right"| $376,851,080
+|align="right"| $376,851,080
+|align="center"| [[List of American films of 2022|2022]]
+|-
+| 67
+| ''[[Spider-Man 2]]''
+|align="right"| $373,585,825
+|align="right"| $375,828,527
+|align="center"| [[List of American films of 2004|2004]]
+|-
+| 68
+| ''[[Michael (2026 film)|Michael]]''
+|align="right"| $372,303,388
+|align="right"| $372,303,388
+|align="center"| [[List of American films of 2026|2026]]
+|-
+| 69
+| ''[[The Passion of the Christ]]''
+|align="right"| $370,274,604
+|align="right"| $370,782,930
+|align="center"| [[List of American films of 2004|2004]]
+|-
+| 70
+| ''[[Minions: The Rise of Gru]]'' 
+|align="right"| $369,695,210
+|align="right"| $369,695,210
+|align="center"| [[List of American films of 2022|2022]]
+|-
+| 71
+| ''[[The Batman (film)|The Batman]]''
+|align="right"| $369,345,583
+|align="right"| $369,345,583
+|align="center"| [[List of American films of 2022|2022]]
+|-
+| 72
+| ''[[The Secret Life of Pets]]''
+|align="right"| $368,384,330
+|align="right"| $368,384,330
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 73
+| ''[[Despicable Me 2]]''
+|align="right"| $368,061,265
+|align="right"| $368,061,265
+|align="center"| [[List of American films of 2013|2013]]
+|-
+| 74
+| ''[[The Jungle Book (2016 film)|The Jungle Book]]''
+|align="right"| $364,001,123
+|align="right"| $364,001,123
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 75
+| ''[[Deadpool (film)|Deadpool]]''
+|align="right"| $363,070,709
+|align="right"| $363,070,709
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 76
+| ''[[Despicable Me 4]]''
+|align="right"| $361,004,205
+|align="right"| $361,004,205
+|align="center"| [[List of American films of 2024|2024]]
+|-
+| 77
+| ''[[Guardians of the Galaxy Vol. 3]]''
+|align="right"| $358,995,815
+|align="right"| $358,995,815
+|align="center"| [[List of American films of 2023|2023]]
+|-
+| 78
+| ''[[Inside Out]]''
+|align="right"| $356,461,711
+|align="right"| $356,921,711
+|align="center"| [[List of American films of 2015|2015]]
+|-
+| 79
+| ''[[Aladdin (2019 film)|Aladdin]]''
+|align="right"| $355,559,216
+|align="right"| $355,559,216
+|align="center"| [[List of American films of 2019|2019]]
+|-
+| 80
+| ''[[Superman (2025 film)|Superman]]'' 
+|align="right"| $354,184,465
+|align="right"| $354,184,465
+|align="center"| [[List of American films of 2025|2025]]
+|-
+| 81
+| ''[[Furious 7]]''
+|align="right"| $353,007,020
+|align="right"| $353,007,020
+|align="center"| [[List of American films of 2015|2015]]
+|-
+| 82
+| ''[[Transformers: Dark of the Moon]]''
+|align="right"| $352,390,543
+|align="right"| $352,390,543
+|align="center"| [[List of American films of 2011|2011]]
+|-
+| 83
+| ''[[American Sniper]]''
+|align="right"| $350,126,372
+|align="right"| $350,126,372
+|align="center"| [[List of American films of 2014|2014]]
+|-
+| 84
+| ''[[The Lord of the Rings: The Two Towers]]''
+|align="right"| $339,789,881
+|align="right"| ${{formatnum:{{#expr:350104956−<!--2025-->492391}}}}
+|align="center"| [[List of American films of 2002|2002]]
+|-
+| 85
+| ''[[Project Hail Mary (film)|Project Hail Mary]]''
+|align="right"| $344,050,007
+|align="right"| $344,050,007
+|align="center"| [[List of American films of 2026|2026]]
+|-
+| 86
+| ''[[Thor: Love and Thunder]]''
+|align="right"| $343,256,830
+|align="right"| $343,256,830
+|align="center"| [[List of American films of 2022|2022]]
+|-
+| 87
+| ''[[Wicked: For Good]]''
+|align="right"| $342,915,090
+|align="right"| $342,915,090
+|align="center"| [[List of American films of 2025|2025]]
+|-
+| 88
+| ''[[Zootopia]]''
+|align="right"| $341,268,248
+|align="right"| $341,268,248
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 89
+| ''[[Jurassic World Rebirth]]''
+|align="right"| $339,640,400
+|align="right"| $339,640,400
+|align="center"| [[List of American films of 2025|2025]]
+|-
+| 90
+| ''[[Spider-Man 3]]''
+|align="right"| $336,530,303
+|align="right"| $338,032,318
+|align="center"| [[List of American films of 2007|2007]]
+|-
+| 91
+| ''[[The Hunger Games: Mockingjay – Part 1]]''
+|align="right"| $337,135,885
+|align="right"| $337,135,885
+|align="center"| [[List of American films of 2014|2014]]
+|-
+| 92
+| ''[[Minions (film)|Minions]]''
+|align="right"| $336,045,770
+|align="right"| $336,045,770
+|align="center"| [[List of American films of 2015|2015]]
+|-
+| 93
+| ''[[Joker (2019 film)|Joker]]''
+|align="right"| $335,451,311
+|align="right"| $335,477,657
+|align="center"| [[List of American films of 2019|2019]]
+|-
+| 94
+| ''[[Aquaman (film)|Aquaman]]''
+|align="right"| $335,061,807
+|align="right"| $335,104,314
+|align="center"| [[List of American films of 2018|2018]]
+|-
+| 95
+| ''[[Spider-Man: Homecoming]]''
+|align="right"| $334,201,140
+|align="right"| $334,576,561
+|align="center"| [[List of American films of 2017|2017]]
+|-
+| 96
+| ''[[Alice in Wonderland (2010 film)|Alice in Wonderland]]''
+|align="right"| $334,191,110
+|align="right"| $334,191,110
+|align="center"| [[List of American films of 2010|2010]]
+|-
+| 97
+| ''[[Guardians of the Galaxy (film)|Guardians of the Galaxy]]''
+|align="right"| $333,176,600
+|align="right"| $333,718,600
+|align="center"| [[List of American films of 2014|2014]]
+|-
+| 98
+| ''[[Forrest Gump]]''
+|align="right"| $329,694,499
+|align="right"| $330,455,270
+|align="center"| [[List of American films of 1994|1994]]
+|-
+| 99
+| ''[[Batman v Superman: Dawn of Justice]]''
+|align="right"| $330,360,194
+|align="right"| $330,360,194
+|align="center"| [[List of American films of 2016|2016]]
+|-
+| 100
+| ''[[Oppenheimer (film)|Oppenheimer]]''
+|align="right"| $329,862,540
+|align="right"| $330,078,895
+|align="center"| [[List of American films of 2023|2023]]
+|}
+
+{{Refbegin}}
+{{note label|initial|*|}} These films fall outside the top 100 when considering only initial gross, and would be replaced by ''[[It (2017 film)|It]]'' ($328.87m) and ''[[Suicide Squad (2016 film)|Suicide Squad]]'' ($325.10m).
+{{Refend}}
+
+==Adjusted for ticket-price inflation==
+This is a list of films ranked by ticket sales with adjustments for changes in ticket prices and/or inflation.
+
+For films released in 2019 or earlier: [[Box Office Mojo]] tracks average ticket prices at theaters from 1910 to 2020.<ref name="Boxofficemojoadjusted">{{Cite web |title=How are grosses adjusted for ticket price inflation? |url=https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-faq/GCWTV4MQKGWRAUAP#inflation |url-status=live |archive-url=https://web.archive.org/web/20250207210012/https://help.imdb.com/article/imdbpro/industry-research/box-office-mojo-by-imdbpro-faq/GCWTV4MQKGWRAUAP#inflation |archive-date=February 7, 2025 |access-date=March 1, 2025 |website=Box Office Mojo}}</ref> The list here starts with their "Adj. Lifetime Gross" based on 2020 ticket prices,<ref name="Boxofficemojotickets">{{Cite web |title=Top Lifetime Adjusted Grosses |url=https://www.boxofficemojo.com/chart/top_lifetime_gross_adjusted/?adjust_gross_to=2020 |url-status=live |archive-url=https://web.archive.org/web/20241225172223/https://www.boxofficemojo.com/chart/top_lifetime_gross_adjusted/?adjust_gross_to=2020 |archive-date=December 25, 2024 |access-date=March 1, 2025 |website=Box Office Mojo}}</ref> and then applies [[Template:Inflation]] to further adjust to the equivalent in {{Inflation/year|US}}.{{Inflation/fn|US}}
+
+For films released in 2020 or later: This list starts with the film's lifetime gross,<ref name=":0" /> and then applies [[Template:Inflation]] as if the entire lifetime gross was earned in the year of release, to further adjust to the equivalent in {{Inflation/year|US}}.{{Inflation/fn|US}}
+
+Many of the films on this list were released prior to the availability of home video and have had multiple releases.
+
+{{box office table legend|#b6fcb6|icon={{†|alt=film currently playing}}}}<!-- Please do not remove this, or else the highlighting in the table becomes unintelligible. -->
+{| class="wikitable sortable plainrowheaders"  style=" margin:auto;"
+! scope="col" | Rank
+! scope="col" | Title
+! scope="col" | Year
+! scope="col" | Est. tickets
+! scope="col" | Adjusted gross
+|- <!-- The highlighting alerts readers and editors to the fact that its gross is still being updated.-->
+| 1
+| ''[[Gone with the Wind (film)|Gone with the Wind]]''
+| align="center"| 1939
+|align="right"| 202,286,200
+|align="right"| ${{formatnum:{{Inflation|US|1895421694|2020}}}}
+|-
+| 2
+| ''[[Star Wars (film)|Star Wars]]''
+| align="center"| 1977
+|align="right"| 178,119,500
+|align="right"| ${{formatnum:{{Inflation|US|1668979715|2020}}}}
+|-
+| 3
+| ''[[The Sound of Music (film)|The Sound of Music]]''
+| align="center"| 1965
+|align="right"| 142,676,490
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|1335086324|2020}}+<!--2025-->1601237}}}}
+|-
+| 4
+| ''[[E.T. the Extra-Terrestrial]]''
+| align="center"| 1982
+|align="right"| 142,045,058
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|1329174791|2020}}+{{Inflation|US|2030725|2022}}}}}}
+|-
+| 5
+| ''[[Titanic (1997 film)|Titanic]]''
+| align="center"| 1997
+|align="right"| 136,912,791
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|1270101626|2020}}+<!--2023-->{{Inflation|US|15033795|2023}}}}}}
+|-
+| 6
+| ''[[The Ten Commandments (1956 film)|The Ten Commandments]]''
+| align="center"| 1956
+|align="right"| 131,000,000
+|align="right"| ${{formatnum:{{Inflation|US|1227470000|2020}}}}
+|-
+| 7
+| ''[[Jaws (film)|Jaws]]''
+| align="center"| 1975
+|align="right"| 129,839,871
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|1200856389|2020}}+{{Inflation|US|5100765|2022}}+<!--2025-->12815245}}}}
+|-
+| 8
+| ''[[Doctor Zhivago (film)|Doctor Zhivago]]''
+| align="center"| 1965
+|align="right"| 124,135,500
+|align="right"| ${{formatnum:{{Inflation|US|1163149635|2020}}}}
+|-
+| 9
+| ''[[The Exorcist]]''
+| align="center"| 1973
+|align="right"| 110,599,200
+|align="right"| ${{formatnum:{{Inflation|US|1036314504|2020}}}}
+|-
+| 10
+| ''[[Snow White and the Seven Dwarfs (1937 film)|Snow White and the Seven Dwarfs]]''
+| align="center"| 1937
+|align="right"| 109,000,000
+|align="right"| ${{formatnum:{{Inflation|US|1021330000|2020}}}}
+|-
+| 11
+| ''[[Star Wars: The Force Awakens]]''
+|align="center"| 2015
+|align="right"| 108,115,100
+|align="right"| ${{formatnum:{{Inflation|US|1013038487|2020}}}}
+|-
+| 12
+| ''[[One Hundred and One Dalmatians]]''
+| align="center"| 1961
+|align="right"| 99,917,300
+|align="right"| ${{formatnum:{{Inflation|US|936225101|2020}}}}
+|-
+| 13
+| style="background:#b6fcb6;" | ''[[Avengers: Endgame]]'' †
+|align="center"| 2019
+|align="right"| {{ref|Tickets|T}}95,268,900
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40091750}}}}
+|-
+| 14
+| ''[[The Empire Strikes Back]]''
+| align="center"| 1980
+|align="right"| 98,273,100
+|align="right"| ${{formatnum:{{Inflation|US|920818947|2020}}}}
+|-
+| 15
+| ''[[Ben-Hur (1959 film)|Ben-Hur]]''
+| align="center"| 1959
+|align="right"| 98,046,900
+|align="right"| ${{formatnum:{{Inflation|US|918699453|2020}}}}
+|-
+| 16
+| ''[[Return of the Jedi]]''
+| align="center"| 1983
+|align="right"| 94,717,598
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|881336578|2020}}+<!--2023-->{{Inflation|US|7259924|2023}}}}}}
+|-
+| 17
+| ''[[Jurassic Park (film)|Jurassic Park]]''
+| align="center"| 1993
+|align="right"| 91,933,497
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|860163189|2020}}+<!--2023-->{{Inflation|US|2970355|2023}}}}}}
+|-
+| 18
+| ''[[Star Wars: Episode I – The Phantom Menace]]''
+| align="center"| 1999
+|align="right"| 91,144,539
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|846224377|2020}}+<!--2024-->{{Inflation|US|13029994|2024}}}}}}
+|-
+| 19
+| ''[[The Lion King]]''
+| align="center"| 1994
+|align="right"| 89,527,781
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|835301768|2020}}+<!--2024-->{{Inflation|US|2195943|2024}}}}}}
+|-
+| 20
+| ''[[The Sting]]''
+| align="center"| 1973
+|align="right"| 89,142,900
+|align="right"| ${{formatnum:{{Inflation|US|835268973|2020}}}}
+|-
+| 21
+| ''[[Raiders of the Lost Ark]]''
+| align="center"| 1981
+|align="right"| 88,543,400
+|align="right"| ${{formatnum:{{Inflation|US|829651658|2020}}}}
+|-
+| 22
+| ''[[The Graduate]]''
+| align="center"| 1967
+|align="right"| 85,576,800
+|align="right"| ${{formatnum:{{Inflation|US|801853679|2020}}}}
+|-
+| 23
+| ''[[Fantasia (1940 film)|Fantasia]]''
+| align="center"| 1940
+|align="right"| 83,043,500
+|align="right"| ${{formatnum:{{Inflation|US|778117595|2020}}}}
+|-
+| 24
+| ''[[Spider-Man: No Way Home]]''
+| align="center"| 2021
+|align="right"| 83,039,254
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}}}
+|-
+| 25
+| style="background:#b6fcb6;" | ''[[Spider-Man: Brand New Day]]'' †
+| align="center" | 2026
+|{{N/a}}
+| align="right" | $958,723,108
+|-
+| 26
+| ''[[Avatar (2009 film)|Avatar]]''
+| align="center"| 2009
+|align="right"|{{sort|77000000|{{#tag:ref|[[Box Office Mojo]]'s inflation adjusted list estimates ''Avatar'' sold 97,309,600 tickets by dividing the gross revenue by the cost of an average ticket, which was $7.50 in 2009. However, in the case of ''Avatar'', ticket sales were a combination of the three formats of standard projection, [[3D film|3D]] and [[IMAX]] used during its theatrical run. Since box office admissions are not tracked, the total number of admissions cannot therefore be accurately determined simply by dividing the gross receipts by the average ticket price. ''Box Office Mojo'' revised its estimate by taking into account the ticket prices for all three different formats, and determined that ''Avatar'' sold 75 million tickets by April 21, 2010, with an average price of almost $10 a ticket, by which time it had grossed $745 million of its $760 million total.<ref name="Ray Subers (2010-04-21)">{{#invoke:cite|web| first = Ray | last = Subers | title = 'Avatar' Strikes DVD | website=Box Office Mojo | url=https://www.boxofficemojo.com/news/?id=2728&p=.htm|date=April 21, 2010 | access-date=April 21, 2010 | archive-url = https://web.archive.org/web/20110606183734/http://www.boxofficemojo.com/news/?id=2728&p=.htm | archive-date = June 6, 2011 | url-status=live}}</ref> An extra $15 million of sales would be equivalent to about 2 million more ticket sales, at the average 2D ticket price of $7.50 in 2009; using this revision, ''Avatar'' probably sold closer to 77,000,000 tickets.<ref name=mojo>{{#invoke:cite|web| title = Adjusting for Ticket Price Inflation | url = https://www.boxofficemojo.com/about/adjuster.htm | website = Box Office Mojo | access-date=June 5, 2012 | archive-url = https://web.archive.org/web/20110623171245/http://www.boxofficemojo.com/about/adjuster.htm | archive-date = June 23, 2011 | url-status=live}}</ref>}}}} 79,333,713
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|721490000|2020}}+{{Inflation|US|24714024|2022}}}}}}<br />
+|-
+| 27
+| ''[[The Godfather]]''
+| align="center"| 1972
+|align="right"| 79,056,084
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|739503825|2020}}+{{Inflation|US|1414662|2022}}}}}}
+|-
+| 28
+| ''[[Forrest Gump]]''
+| align="center"| 1994
+|align="right"| 78,637,100
+|align="right"| ${{formatnum:{{Inflation|US|736829627|2020}}}}
+|-
+| 29
+| ''[[Mary Poppins (film)|Mary Poppins]]''
+| align="center"| 1964
+|align="right"| 78,181,800
+|align="right"| ${{formatnum:{{Inflation|US|732563466|2020}}}}
+|-
+| 30
+| ''[[Grease (film)|Grease]]''
+| align="center"| 1978
+|align="right"| 77,098,600
+|align="right"| ${{formatnum:{{Inflation|US|722413882|2020}}}}
+|-
+| 31
+| ''[[The Avengers (2012 film)|The Avengers]]''
+| align="center"| 2012
+|align="right"| 76,881,200
+|align="right"| ${{formatnum:{{Inflation|US|720376844|2020}}}}
+|-
+| 32
+| ''[[Jurassic World]]''
+|align="center"| 2015
+|align="right"| 76,812,326
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|719633803|2020}}+{{Inflation|US|115000|2021}}}}}}
+|-
+| 33
+| ''[[Black Panther (film)|Black Panther]]''
+|align="center"| 2018
+|align="right"| 76,311,500
+|align="right"| ${{formatnum:{{Inflation|US|715038755|2020}}}}
+|-
+| 34
+| ''[[Thunderball (film)|Thunderball]]''
+| align="center"| 1965
+|align="right"| 74,800,000
+|align="right"| ${{formatnum:{{Inflation|US|700876000|2020}}}}
+|-
+| 35
+| ''[[The Dark Knight]]''
+| align="center"| 2008
+|align="right"| 74,463,500
+|align="right"| ${{formatnum:{{Inflation|US|697722995|2020}}}}
+|-
+| 36
+| ''[[The Jungle Book (1967 film)|The Jungle Book]]''
+| align="center"| 1967
+|align="right"| 73,679,900
+|align="right"| ${{formatnum:{{Inflation|US|690380663|2020}}}}
+|-
+| 37
+| ''[[Sleeping Beauty (1959 film)|Sleeping Beauty]]''
+| align="center"| 1959
+|align="right"| 72,676,000
+|align="right"| ${{formatnum:{{Inflation|US|680974120|2020}}}}
+|-
+| 38
+| ''[[Avengers: Infinity War]]''
+|align="center"| 2018
+|align="right"| 72,419,700
+|align="right"| ${{formatnum:{{Inflation|US|678572589|2020}}}}
+|-
+| 39
+| ''[[Shrek 2]]''
+|align="center"| 2004
+|align="right"| 71,667,690
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|665746933|2020}}+<!--2024-->{{Inflation|US|3551395|2024}}}}}}
+|-
+| 40
+| ''[[Ghostbusters]]''
+|align="center"| 1984
+|align="right"| 71,313,213
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|667872049|2020}}+{{Inflation|US|391718|2021}}}}}}
+|-
+| 41
+| ''[[Spider-Man (2002 film)|Spider-Man]]''
+|align="center"| 2002
+|align="right"| 70,720,735
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|661768431|2020}}+{{Inflation|US|927627|2024}}+<!--2025-->737505}}}}
+|-
+| 42
+| ''[[Butch Cassidy and the Sundance Kid]]''
+|align="center"| 1969
+|align="right"| 70,557,900
+|align="right"| ${{formatnum:{{Inflation|US|661127523|2020}}}}
+|-
+| 43
+| ''[[Love Story (1970 film)|Love Story]]''
+| align="center" | 1970
+| align="right" | 70,014,500
+| align="right" | ${{formatnum:{{Inflation|US|656035865|2020}}}}
+|-
+| 44
+| ''[[Independence Day (1996 film)|Independence Day]]''
+|align="center"| 1996
+|align="right"| 69,268,900
+|align="right"| ${{formatnum:{{Inflation|US|649049593|2020}}}}
+|-
+| 45
+| ''[[Top Gun: Maverick]]''
+|align="center"| 2022
+|align="right"| {{ref|Tickets|T}}67,843,975
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|718732821|2022}}+<!--2026-->6528326}}}}
+|-
+| 46
+| ''[[Home Alone]]''
+|align="center"| 1990
+|align="right"| 67,734,200
+|align="right"| ${{formatnum:{{Inflation|US|634669454|2020}}}}
+|-
+| 47
+| ''[[Star Wars: The Last Jedi]]''
+|align="center"| 2017
+|align="right"| 67,594,500
+|align="right"| ${{formatnum:{{Inflation|US|633360465|2020}}}}
+|-
+| 48
+| ''[[Pinocchio (1940 film)|Pinocchio]]''
+|align="center"| 1940
+|align="right"| 67,403,300
+|align="right"| ${{formatnum:{{Inflation|US|631568921|2020}}}}
+|-
+| 49
+| ''[[Cleopatra (1963 film)|Cleopatra]]''
+|align="center"| 1963
+|align="right"| 67,183,500
+|align="right"| ${{formatnum:{{Inflation|US|629509395|2020}}}}
+|-
+| 50
+| ''[[Beverly Hills Cop]]''
+|align="center"| 1984
+|align="right"| 67,150,000
+|align="right"| ${{formatnum:{{Inflation|US|629195500|2020}}}}
+|-
+| 51
+| ''[[Goldfinger (film)|Goldfinger]]''
+|align="center"| 1964
+|align="right"| 66,300,000
+|align="right"| ${{formatnum:{{Inflation|US|621231000|2020}}}}
+|-
+| 52
+| ''[[Incredibles 2]]''
+|align="center"| 2018
+|align="right"| 66,299,200
+|align="right"| ${{formatnum:{{Inflation|US|621223504|2020}}}}
+|-
+| 53
+| ''[[Airport (1970 film)|Airport]]''
+|align="center"| 1970
+|align="right"| 66,111,300
+|align="right"| ${{formatnum:{{Inflation|US|619462881|2020}}}}
+|-
+| 54
+| ''[[American Graffiti]]''
+|align="center"| 1973
+|align="right"| 65,714,300
+|align="right"| ${{formatnum:{{Inflation|US|615742991|2020}}}}
+|-
+| 55
+| ''[[The Robe (film)|The Robe]]''
+|align="center"| 1953
+|align="right"| 65,454,500
+|align="right"| ${{formatnum:{{Inflation|US|613308665|2020}}}}
+|-
+| 56
+| ''[[Avatar: The Way of Water]]''
+|align="center"| 2022
+|align="right"| 64,960,159
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|684075767|2022}}+<!--2025-->4383734}}}}
+|-
+| 57
+| ''[[Pirates of the Caribbean: Dead Man's Chest]]''
+|align="center"| 2006
+|align="right"| 64,628,400
+|align="right"| ${{formatnum:{{Inflation|US|605568108|2020}}}}
+|-
+| 58
+| ''[[Around the World in Eighty Days (1956 film)|Around the World in 80 Days]]''
+|align="center"| 1956
+|align="right"| 64,615,400
+|align="right"| ${{formatnum:{{Inflation|US|605446298|2020}}}}
+|-
+| 59
+| ''[[Bambi]]''
+|align="center"| 1942
+|align="right"| 63,712,400
+|align="right"| ${{formatnum:{{Inflation|US|596985188|2020}}}}
+|-
+| 60
+| ''[[Blazing Saddles]]''
+|align="center"| 1974
+|align="right"| 63,239,600
+|align="right"| ${{formatnum:{{Inflation|US|592555052|2020}}}}
+|-
+| 61
+| ''[[Batman (1989 film)|Batman]]''
+|align="center"| 1989
+|align="right"| 62,972,300
+|align="right"| ${{formatnum:{{Inflation|US|590050451|2020}}}}
+|-
+| 62
+| ''[[The Bells of St. Mary's]]''
+|align="center"| 1945
+|align="right"| 62,745,100
+|align="right"| ${{formatnum:{{Inflation|US|587921587|2020}}}}
+|-
+| 63
+| ''[[Star Wars: Episode III – Revenge of the Sith]]''
+|align="center"| 2005
+|align="right"| 62,340,313
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|555871502|2020}}+<!--2025-->34107714}}}}
+|-
+| 64
+| ''[[The Lord of the Rings: The Return of the King]]''
+|align="center"| 2003
+|align="right"| {{ref|Tickets|T}}61,961,612
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|577563989|2020}}+{{Inflation|US|1176085|2023}}+<!--2024-->{{Inflation|US|2450927|2024}}+<!--2026-->3971340}}}}
+|-
+| 65
+| ''[[Finding Nemo]]''
+|align="center"| 2003
+|align="right"| 61,586,500
+|align="right"| ${{formatnum:{{Inflation|US|577065505|2020}}}}
+|-
+| 66
+| ''[[The Towering Inferno]]''
+|align="center"| 1974
+|align="right"| 61,375,700
+|align="right"| ${{formatnum:{{Inflation|US|575090309|2020}}}}
+|-
+| 67
+| ''[[Rogue One|Rogue One: A Star Wars Story]]''
+|align="center"| 2016
+|align="right"| 60,441,600
+|align="right"| ${{formatnum:{{Inflation|US|566337792|2020}}}}
+|-
+| 68
+| ''[[Spider-Man 2]]''
+|align="center"| 2004
+|align="right"| 60,359,207
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|563687019|2020}}+{{Inflation|US|1161869|2024}}+<!--2025-->1113472}}}}
+|-
+| 69
+| ''[[The Lion King (2019 film)|The Lion King]]''
+|align="center"| 2019
+|align="right"| 60,322,700
+|align="right"| ${{formatnum:{{Inflation|US|565223699|2020}}}}
+|-
+| 70
+| ''[[Cinderella (1950 film)|Cinderella]]''
+|align="center"| 1950
+|align="right"| 60,301,400
+|align="right"| ${{formatnum:{{Inflation|US|565024118|2020}}}}
+|-
+| 71
+| ''[[My Fair Lady (film)|My Fair Lady]]''
+|align="center"| 1964
+|align="right"| 60,062,200
+|align="right"| ${{formatnum:{{Inflation|US|562782814|2020}}}}
+|-
+| 72
+| ''[[The Greatest Show on Earth (film)|The Greatest Show on Earth]]''
+|align="center"| 1952
+|align="right"| 60,000,000
+|align="right"| ${{formatnum:{{Inflation|US|562200000|2020}}}}
+|-
+| 73
+| ''[[Back to the Future]]''
+|align="center"| 1985
+|align="right"| 59,955,879
+|align="right"|  ${{formatnum:{{#expr:{{Inflation|US|555222161|2020}}+<!--2025-->8225000}}}}
+|-
+| 74
+| ''[[National Lampoon's Animal House]]''
+|align="center"| 1978
+|align="right"| 59,890,300
+|align="right"| ${{formatnum:{{Inflation|US|561172111|2020}}}}
+|-
+| 75
+| ''[[The Passion of the Christ]]''
+|align="center"| 2004
+|align="right"| 59,704,800
+|align="right"| ${{formatnum:{{Inflation|US|559433976|2020}}}}
+|-
+| 76
+| ''[[The Lord of the Rings: The Two Towers]]''
+|align="center"| 2002
+|align="right"| {{ref|Tickets|T}}57,950,830
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|540886998|2020}}+<!--2024-->{{Inflation|US|2566412|2024}}+<!--2026-->4093642}}}}
+|-
+| 77
+| ''[[Barbie (film)|Barbie]]''
+|align="center"| 2023
+|align="right"| 57,682,540
+|align="right"| ${{formatnum:{{Inflation|US|636238421|2023}}}}
+|-
+| 78
+|''[[The Dark Knight Rises]]''
+|align="center"| 2012
+|align="right"| 57,581,800
+|align="right"| ${{formatnum:{{Inflation|US|539541466|2020}}}}
+|-
+| 79
+| ''[[The Sixth Sense]]''
+|align="center"| 1999
+|align="right"| 57,579,100
+|align="right"| ${{formatnum:{{Inflation|US|539516167|2020}}}}
+|-
+| 80
+| ''[[Inside Out 2]]''
+|align="center"| 2024
+|align="right"| 57,524,327
+|align="right"| ${{formatnum:{{Inflation|US|652980194|2024}}}}
+|-
+| 81
+| ''[[Superman (1978 film)|Superman]]''
+|align="center"| 1978
+|align="right"| 57,384,000
+|align="right"| ${{formatnum:{{Inflation|US|537688080|2020}}}}
+|-
+| 82
+| ''[[Tootsie]]''
+|align="center"| 1982
+|align="right"| 56,903,900
+|align="right"| ${{formatnum:{{Inflation|US|533189543|2020}}}}
+|-
+| 83
+| ''[[Beauty and the Beast (2017 film)|Beauty and the Beast]]''
+|align="center"| 2017
+|align="right"| 56,848,000
+|align="right"| ${{formatnum:{{Inflation|US|532665760|2020}}}}
+|-
+| 84
+| ''[[Smokey and the Bandit]]''
+|align="center"| 1977
+|align="right"| 56,832,900
+|align="right"| ${{formatnum:{{Inflation|US|532524273|2020}}}}
+|-
+| 85
+| ''[[Harry Potter and the Philosopher's Stone (film)|Harry Potter and the Sorcerer's Stone]]''
+|align="center"| 2001
+|align="right"| 56,215,669
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|526061784|2020}}+{{Inflation|US|799342|2021}}}}}}
+|-
+| 86
+| ''[[Finding Dory]]''
+|align="center"| 2016
+|align="right"| 56,158,100
+|align="right"| ${{formatnum:{{Inflation|US|526201397|2020}}}}
+|-
+| 87
+| ''[[Deadpool & Wolverine]]''
+|align="center"| 2024
+|align="right"| 56,094,106
+|align="right"| ${{formatnum:{{Inflation|US|636745858|2024}}}}
+|-
+| 88
+| ''[[West Side Story (1961 film)|West Side Story]]''
+|align="center"| 1961
+|align="right"| 56,012,800
+|align="right"| ${{formatnum:{{Inflation|US|524839936|2020}}}}
+|-
+| 89
+| ''[[Close Encounters of the Third Kind]]''
+|align="center"| 1977
+|align="right"| 55,922,700
+|align="right"| ${{formatnum:{{Inflation|US|523995699|2020}}}}
+|-
+| 90
+| ''[[Lady and the Tramp]]''
+|align="center"| 1955
+|align="right"| 55,734,900
+|align="right"| ${{formatnum:{{Inflation|US|522236013|2020}}}}
+|-
+| 91
+| ''[[The Lord of the Rings: The Fellowship of the Ring]]''
+|align="center"| 2001
+|align="right"| {{ref|Tickets|T}}55,085,361
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|513469441|2020}}+<!--2024-->{{Inflation|US|3256658|2024}}+<!--2026-->5940331}}}}
+|-
+| 92
+| ''[[Lawrence of Arabia (film)|Lawrence of Arabia]]''
+|align="center"| 1962
+|align="right"| 55,437,000
+|align="right"| ${{formatnum:{{Inflation|US|519444690|2020}}}}
+|-
+| 93
+| ''[[The Rocky Horror Picture Show]]''
+|align="center"| 1975
+|align="right"| 55,315,073
+|align="right"| ${{formatnum:{{#expr:{{Inflation|US|516000278|2020}}+<!--2025-->135878}}}}
+|-
+| 94
+| ''[[Rocky]]''
+|align="center"| 1976
+|align="right"| 55,040,000
+|align="right"| ${{formatnum:{{Inflation|US|515724800|2020}}}}
+|-
+| 95
+| ''[[The Best Years of Our Lives]]''
+|align="center"| 1946
+|align="right"| 55,000,000
+|align="right"| ${{formatnum:{{Inflation|US|515350000|2020}}}}
+|-
+| 96
+| ''[[Star Wars: The Rise of Skywalker]]''
+|align="center"| 2019
+|align="right"| 54,984,300
+|align="right"| ${{formatnum:{{Inflation|US|515202891|2020}}}}
+|-
+| 97
+| ''[[The Poseidon Adventure (1972 film)|The Poseidon Adventure]]''
+|align="center"| 1972
+|align="right"| 54,902,000
+|align="right"| ${{formatnum:{{Inflation|US|514431740|2020}}}}
+|-
+| 98
+| ''[[Twister (1996 film)|Twister]]''
+|align="center"| 1996
+|align="right"| 54,688,100
+|align="right"| ${{formatnum:{{Inflation|US|512427497|2020}}}}
+|-
+| 99
+| ''[[Men in Black (1997 film)|Men in Black]]''
+|align="center"| 1997
+|align="right"| 54,616,700
+|align="right"| ${{formatnum:{{Inflation|US|511758479|2020}}}}
+|-
+| 100
+| ''[[The Bridge on the River Kwai]]''
+|align="center"| 1957
+|align="right"| 54,400,000
+|align="right"| ${{formatnum:{{Inflation|US|509728000|2020}}}}
+|}
+
+{{Refbegin}}
+
+{{note label|Tickets|T||Excluding figures from the 2026 re-releases.}}
+
+{{Refend}}
+
+===Factors in determining "adjusted gross"===
+No one yet has calculated a truly precise and definite referential adjusted gross for a film, since doing so would have to take into account most (or all) of the following:
+* Box office gross on ''initial'' release
+* Ticket price at time of release, or its relative price to other commodities in a given year,<ref name=mojo /> in relation to general [[inflation]] and [[gross domestic product]].<ref name=Loma>{{#invoke:cite|web|url=http://www.usi.edu/business/mbea/2004/MBEA2004Final/movies.doc |title=2004 Proceedings of the Midwest Business Economics Association March 17 – March 19, Chicago, Illinois: How the Motion Picture Industry Miscalculates Box Office Receipts |first=S. Eric |last=Anderson |first2=Stewart |last2=Albertson |first3=David |last3=Shavlik |publisher=[[Loma Linda University]] |access-date=June 16, 2012 |archive-url=https://web.archive.org/web/20120226011733/http://www.usi.edu/business/mbea/2004/MBEA2004Final/movies.doc |archive-date=February 26, 2012 |url-status=dead |df=mdy-all }}</ref>
+* Economic conditions that may help or hurt the entertainment industry as a whole (theaters in 2008 lowered ticket prices to attract more viewers though the average ticket cost $7.00)<ref name=mojo />
+* [[Population (human biology)|Population]] at time of release—to be used to calculate:
+* Availability of films (number of theaters and screens, number of prints)
+* Competition of other media ([[television]], [[internet]], [[home video]], [[film piracy]])<ref name=mojo />
+* Total number of films in the marketplace at a given time<ref name=mojo />
+* [[Screen quotas]] (no influence on [[United States|U.S.]] box office)
+* Price differences: matinee and evening tickets,<ref name=boreport>{{#invoke:cite|web| url = http://www.boxofficereport.com/atbon/adjustedextra.shtml | title= $200 Million Adjusted Extra | first =Daniel | last = Garris | publisher=BoxOfficeReport.com | date = September 7, 2007 | archive-url = https://web.archive.org/web/20090304203910/http://www.boxofficereport.com/atbon/adjustedextra.shtml | archive-date=March 4, 2009}}</ref> roadshow tickets,<ref name=boreport/> or difference between rural and urban cinemas<ref name=Loma/>
+* Length of release (number of weeks)<ref name=boreport/>
+
+Further explanation of issues with calculating an adjusted gross can be found in the article for [[List of highest-grossing films#Highest-grossing films adjusted for inflation|List of highest-grossing films]].
+
+== Franchises and film series, nominal figures ==
+This is a list of highest-grossing franchises and film series in the U.S. and Canada.<ref>{{#invoke:cite|web| url = https://boxofficemojo.com/franchises/?view=Franchise&sort=sumgross&order=DESC&p=.htm | title = Franchise Index | website = Box Office Mojo | access-date = September 17, 2014 | archive-url = https://web.archive.org/web/20160316033613/http://www.boxofficemojo.com/franchises/?view=Franchise&sort=sumgross&order=DESC&p=.htm | archive-date = 2016-03-16 | url-status=live }}</ref>
+
+{{box office table legend|#b6fcb6|icon={{†|alt=film currently playing}}|series=yes}}<!-- Please do not remove this, or else the highlighting in the table becomes unintelligible. The date is set to update every Friday according to UTC time. -->
+
+{| cellpadding="0" cellspacing="1" style="border:1px solid darkgrey; margin:auto; width:85em;"
+|+ <span style="font-size:85%;">(The films in each franchise can be viewed by selecting "show")</span>
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=header|ranklabel=Rank|titlelabel=Series|totallabel=Total <span class="nowrap">box office</span>|numberlabel=No. of films|averagelabel=Average of films|highestlabel=Highest-grossing film}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=1|title=[[List of Marvel Cinematic Universe films|Marvel Cinematic Universe]] †|total={{#expr:<!--PHASE 1-->1747317409+<!--PHASE 2-->1848069337+<!--PHASE 3-->4183642218+<!--PHASE 4-->2596294213+<!--PHASE 5-->1685523134+<!--PHASE 6-->1233009718}}|number=38|highest=Spider-Man: Brand New Day|gross=958723108|release=y
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=The Infinity Saga †|total={{#expr:1747317409+1848069337+4992240550}}|number=23|highest=Avengers: Endgame|gross=89864750|release=01
+<!--GROSSES-->
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Three|Phase Three]] †|number=11|highest=Avengers: Endgame|gross=89864750|release=01
+<!--GROSSES-->
+|[[Avengers: Endgame]] ''(2019)'' †
+|89864750
+|[[Black Panther (film)|Black Panther]] ''(2018)''
+|700426566
+|[[Avengers: Infinity War]] ''(2018)''
+|678815482
+|[[Captain Marvel (film)|Captain Marvel]] ''(2019)''
+|426829839
+|[[Captain America: Civil War]] ''(2016)''
+|408084349
+|[[Spider-Man: Far From Home]] ''(2019)''
+|390882621
+|[[Guardians of the Galaxy Vol. 2]] ''(2017)''
+|389813101
+|[[Spider-Man: Homecoming]] ''(2017)''
+|334576561
+|[[Thor: Ragnarok]] ''(2017)''
+|315058289
+|[[Doctor Strange (2016 film)|Doctor Strange]] ''(2016)''
+|232641920
+|[[Ant-Man and the Wasp]] ''(2018)''
+|216648740
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Two|Phase Two]]|number=6|highest=Avengers: Age of Ultron|gross=459005868
+<!--GROSSES-->
+|[[Avengers: Age of Ultron]] ''(2015)''
+|459005868
+|[[Iron Man 3]] ''(2013)''
+|409013994
+|[[Guardians of the Galaxy (film)|Guardians of the Galaxy]] ''(2014)''
+|333718600
+|[[Captain America: The Winter Soldier]] ''(2014)''
+|259766572
+|[[Thor: The Dark World]] ''(2013)''
+|206362140
+|[[Ant-Man (film)|Ant-Man]] ''(2015)''
+|180202163
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase One|Phase One]]|number=6|highest=The Avengers|gross=623357910
+<!--GROSSES-->
+|[[The Avengers (2012 film)|The Avengers]] ''(2012)''
+|623357910
+|[[Iron Man (2008 film)|Iron Man]] ''(2008)''
+|319034126
+|[[Iron Man 2]] ''(2010)''
+|312433331
+|[[Thor (film)|Thor]] ''(2011)''
+|181030624
+|[[Captain America: The First Avenger]] ''(2011)''
+|176654505
+|[[The Incredible Hulk (film)|The Incredible Hulk]] ''(2008)''
+|134806913
+}}
+}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=The Multiverse Saga †|total={{#expr:2596294213+1685523134+<!--PHASE 6-->1233009718}}|number=15|highest=Spider-Man: Brand New Day|gross=958723108|release=y
+<!--GROSSES-->
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Four|Phase Four]]|number=7|highest=Spider-Man: No Way Home|gross=814811535
+<!--GROSSES-->
+|[[Spider-Man: No Way Home]] ''(2021)''
+|814811535
+|[[Black Panther: Wakanda Forever]] ''(2022)''
+|453829060
+|[[Doctor Strange in the Multiverse of Madness]] ''(2022)''
+|411331607
+|[[Thor: Love and Thunder]] ''(2022)''
+|343256830
+|[[Shang-Chi and the Legend of the Ten Rings]] ''(2021)''
+|224543292
+|[[Black Widow (2021 film)|Black Widow]] ''(2021)''
+|183651655
+|[[Eternals (film)|Eternals]] ''(2021)''
+|164870234
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Five|Phase Five]]|number=6|highest=Deadpool & Wolverine|gross=636742741
+<!--GROSSES-->
+|[[Deadpool & Wolverine]] ''(2024)''
+|636745858
+|[[Guardians of the Galaxy Vol. 3]] ''(2023)''
+|358995815
+|[[Ant-Man and the Wasp: Quantumania]] ''(2023)''
+|214506909
+|[[Captain America: Brave New World]] ''(2025)''
+|200500001
+|[[Thunderbolts*]] ''(2025)''
+|190274328
+|[[The Marvels]] ''(2023)''
+|84500223
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Six|Phase Six]] †|number=2|highest=Spider-Man: Brand New Day|gross=958723108|release=01
+<!--GROSSES-->
+|[[Spider-Man: Brand New Day]] ''(2026)'' †
+|958723108
+|[[The Fantastic Four: First Steps]] ''(2025)'' 
+|274286610
+}}
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=2|title=[[Spider-Man in film|Spider-Man]] †|total={{#expr:<!--RAIMI-->1119791208+<!--TASM-->466247563+<!--MCU-->2498993825+<!--SONY-->709530700+<!--SPIDER-VERSE-->571835064}}|number=17|highest=Brand New Day|gross=958723108|release=y
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man in film#Licensing agreement with Marvel Studios|Marvel Cinematic Universe]] †|number=4|highest=Brand New Day|gross=958723108|release=01
+<!--GROSSES-->
+|[[Spider-Man: Brand New Day|Brand New Day]] ''(2026)'' †
+|958723108
+|[[Spider-Man: No Way Home|No Way Home]] ''(2021)''
+|814811535
+|[[Spider-Man: Far From Home|Far From Home]] ''(2019)''
+|390882621
+|[[Spider-Man: Homecoming|Homecoming]] ''(2017)''
+|334576561
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man (2002 film series)|Raimi series]]|number=3|highest=Spider-Man|gross=405930363
+<!--GROSSES-->
+|[[Spider-Man (2002 film)|Spider-Man]] ''(2002)''
+|405930363
+|[[Spider-Man 2]] ''(2004)''
+|375828527
+|[[Spider-Man 3]] ''(2007)''
+|338032318
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Sony's Spider-Man Universe]]|number=6|highest=Venom: Let There Be Carnage|gross=213550366
+<!--GROSSES-->
+|[[Venom: Let There Be Carnage]] ''(2021)'' 
+|213550366
+|[[Venom (2018 film)|Venom]] ''(2018)''
+|213515506
+|[[Venom: The Last Dance]] ''(2024)''
+|139755882
+|[[Morbius (film)|Morbius]] ''(2022)''
+|73865530
+|[[Madame Web (film)|Madame Web]] ''(2024)''
+|43817106
+|[[Kraven the Hunter (film)|Kraven the Hunter]] ''(2024)''
+|25026310
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man in film#Animated Spider-Verse|Spider-Verse]]|number=2|highest=Across the Spider-Verse|gross=381593754
+<!--GROSSES-->
+|[[Spider-Man: Across the Spider-Verse|Across the Spider-Verse]] ''(2023)''
+|381593754
+|[[Spider-Man: Into the Spider-Verse|Into the Spider-Verse]] ''(2018)''
+|190241310
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man in film#Marc Webb's films|The Amazing Spider-Man series]]|number=2|highest=The Amazing Spider-Man|gross=262717220
+<!--GROSSES-->
+|[[The Amazing Spider-Man (2012 film)|The Amazing Spider-Man]] ''(2012)''
+|262717220
+|[[The Amazing Spider-Man 2]] ''(2014)''
+|203530343
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=3|title=[[Star Wars]]|total={{#expr:<!--ORIGINAL-->{{#expr:460998007+292753960+316465003}}+<!--PREQUELS-->{{#expr:487576624+310676740+414378291}}+<!--CLONE WARS-->35161554+<!--SEQUELS-->{{#expr:936662225+620181382+515191774}}+<!--ANTHOLOGY-->{{#expr:533539991+213767512}}+<!--GROGU-->177730060}}|number=13|highest=The Force Awakens|gross=936662225
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=Skywalker saga|total={{#expr:<!--ORIGINAL-->{{#expr:460998007+290475067+316140320}}+<!--PREQUELS-->{{#expr:487576624+310676740+414378291}}+<!--SEQUELS-->{{#expr:936662225+620181382+515202542}}}}|number=9|highest=The Force Awakens|gross=936662225
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Star Wars sequel trilogy|Sequel trilogy]]|number=3|highest=The Force Awakens|gross=936662225
+<!--GROSSES-->
+|[[Star Wars: The Force Awakens|VII: The Force Awakens]] ''(2015)''
+|936662225
+|[[Star Wars: The Last Jedi|VIII: The Last Jedi]] ''(2017)''
+|620181382
+|[[Star Wars: The Rise of Skywalker|IX: The Rise of Skywalker]] ''(2019)''
+|515202542
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Prequel trilogy]]|number=3|highest=The Phantom Menace|gross=487576624
+<!--GROSSES-->
+|[[Star Wars: Episode I – The Phantom Menace|I: The Phantom Menace]] ''(1999)''
+|487576624
+|[[Star Wars: Episode III – Revenge of the Sith|III: Revenge of the Sith]] ''(2005)''
+|414378291
+|[[Star Wars: Episode II – Attack of the Clones|II: Attack of the Clones]] ''(2002)''
+|310676740
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Star Wars#Original trilogy|Original trilogy]]|number=3|highest=Star Wars|gross=460998007
+<!--GROSSES-->
+|[[Star Wars (film)|IV: A New Hope]] ''(1977)''
+|460998007
+|[[Return of the Jedi|VI: Return of the Jedi]] ''(1983)''
+|316465003
+|[[The Empire Strikes Back|V: The Empire Strikes Back]] ''(1980)''
+|292753960
+}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Star Wars#Anthology films|Anthology films]]|number=2|highest=Rogue One|gross=533539991
+<!--GROSSES-->
+|[[Rogue One]] ''(2016)''
+|533539991
+|[[Solo: A Star Wars Story|Solo]] ''(2018)''
+|213767512
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Mandalorian and Grogu]] ''(2026)''|total=177730060}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Star Wars: The Clone Wars (film)|The Clone Wars]] ''(2008)''|total=35161554}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=4|title=[[Batman in film|Batman]] †|total={{#expr:<!--BURTON/SCHU-->{{#expr:251348343+162831698+184031112+107353792}}+<!--CATWOMAN-->40202379+<!--NOLAN-->{{#expr:205343774+534858444+448139099}}+<!--MASK-->5617391+<!--1966 Movie-->1700000+<!--BvS-->330360194+<!--THE KILLING JOKE-->3775000+<!--LEGO-->175936671+<!--JOKER-->{{#expr:335448104+58300287}}+<!--THE BATMAN-->369345583+<!--CLAYFACE-->24002731}}|number=17|highest=The Dark Knight|gross=534858444|release=y
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Batman in film#The Dark Knight Trilogy|The Dark Knight Trilogy]]|number=3|highest=The Dark Knight|gross=534858444
+<!--GROSSES-->
+|[[The Dark Knight]] ''(2008)''
+|534858444
+|[[The Dark Knight Rises]] ''(2012)''
+|448139099
+|[[Batman Begins]] ''(2005)''
+|205343774
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Tim Burton / Joel Schumacher Batman film series|Burton/Schumacher series]]|total=|number=4|highest=Batman|gross=251348343
+<!--GROSSES-->
+|[[Batman (1989 film)|Batman]] ''(1989)''
+|251348343
+|[[Batman Forever]] ''(1995)''
+|184031112
+|[[Batman Returns]] ''(1992)''
+|162831698
+|[[Batman & Robin (film)|Batman & Robin]] ''(1997)''
+|107353792
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Batman in film#Joker films|Joker series]]|total=|number=2|highest=Joker|gross=335448104
+<!--GROSSES-->
+|[[Joker (2019 film)|Joker]] ''(2019)''
+|335448104
+|[[Joker: Folie à Deux|Folie à Deux]] ''(2024)''
+|58300287
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Batman (film)|The Batman]] ''(2022)''|total=369345583}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman v Superman: Dawn of Justice]] ''(2016)''|total=330360194}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Lego Batman Movie]] ''(2017)''|total=175936671}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Catwoman (film)|Catwoman]] ''(2004)''|total=40202379}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Clayface (film)|Clayface]] ''(2026)'' †|total=24002731|release=y}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman: Mask of the Phantasm|Mask of the Phantasm]] ''(1993)''|total=5617391}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman: The Killing Joke (film)|The Killing Joke]] ''(2016)''|total=3775000}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman (1966 film)|Batman: The Movie]] ''(1966)''|total=1700000}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=5|title=[[X-Men (film series)|X-Men]]|total={{#expr:<!--XMEN-->{{#expr:157299717+214949694+234362462+146408305+233921534+155442489+65845974}}+<!--WOLVERINE-->{{#expr:179883157+132556852+226277068}}+<!--NEW MUTANTS-->{{#expr:23852659}}+<!--DEADPOOL-->{{#expr:363070709+324591735+636745858}}}}|number=14|highest=Deadpool & Wolverine|gross=636745858
+|{{Highest-grossing films franchise|type=series|title=Deadpool series|sub=y|number=3|highest=Deadpool & Wolverine|gross=636745858
+<!--GROSSES-->
+|[[Deadpool & Wolverine]] ''(2024)''
+|636745858
+|[[Deadpool (film)|Deadpool]] ''(2016)''
+|363070709
+|[[Deadpool 2]] ''(2018)''
+|324591735
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=7|highest=The Last Stand|gross=234362462
+<!--GROSSES-->
+|[[X-Men: The Last Stand|The Last Stand]] ''(2006)''
+|234362462
+|[[X-Men: Days of Future Past|Days of Future Past]] ''(2014)''
+|233921534
+|[[X2 (film)|X2]] ''(2003)''
+|214949694
+|[[X-Men (film)|X-Men]] ''(2000)''
+|157299717
+|[[X-Men: Apocalypse|Apocalypse]] ''(2016)''
+|155442489
+|[[X-Men: First Class|First Class]] ''(2011)''
+|146408305
+|[[Dark Phoenix (film)|Dark Phoenix]] ''(2019)''
+|65845974
+}}
+|{{Highest-grossing films franchise|type=series|title=Wolverine series|sub=y|number=3|highest=Logan|gross=226277068
+<!--GROSSES-->
+|[[Logan (film)|Logan]] ''(2017)''
+|226277068
+|[[X-Men Origins: Wolverine|Origins: Wolverine]] ''(2009)''
+|179883157
+|[[The Wolverine (film)|The Wolverine]] ''(2013)''
+|132556852
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The New Mutants (film)|The New Mutants]] ''(2020)''|total=23852659}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=6|title=[[Wizarding World]] |total={{#expr:<!--HARRY POTTER-->{{#expr:318886962+262641637+250105651+290469928+292137260+302334374+296374621+381447587+1676376}}+<!--FANTASTIC BEASTS-->{{#expr:234037575+159555901+<!--DUMBLEDORE-->95850844}}}}|number=11|highest=Harry Potter and the Deathly Hallows – Part 2|gross=381447587
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Harry Potter (film series)|Harry Potter series]]|number=8|highest=Deathly Hallows – Part 2|gross=381193157
+<!--GROSSES-->
+|[[Harry Potter and the Deathly Hallows – Part 2|Deathly Hallows – Part 2]] ''(2011)''
+|381447587
+|[[Harry Potter and the Philosopher's Stone (film)|Sorcerer's Stone]] ''(2001)''
+|318886962
+|[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]] ''(2009)''
+|302334374
+|[[Harry Potter and the Deathly Hallows – Part 1|Deathly Hallows – Part 1]] ''(2010)''
+|296374621
+|[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]] ''(2007)''
+|292382727
+|[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]] ''(2005)''
+|290469928
+|[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]] ''(2002)''
+|262641637
+|[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]] ''(2004)''
+|250105651
+|IMAX Marathon ''(2016)''
+|1676376
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Wizarding World#Fantastic Beasts films|Fantastic Beasts series]]|number=3|highest=Where to Find Them|gross=234037575
+<!--- GROSSES --->
+|[[Fantastic Beasts and Where to Find Them (film)|Where to Find Them]] ''(2016)''
+|234037575
+|[[Fantastic Beasts: The Crimes of Grindelwald|The Crimes of Grindelwald]] ''(2018)''
+|159555901
+|[[Fantastic Beasts: The Secrets of Dumbledore|The Secrets of Dumbledore]] ''(2022)'' 
+|95850844
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=7|title=[[DC Extended Universe]]|number=15|highest=Wonder Woman|gross=412815408
+<!--GROSSES-->
+|[[Wonder Woman (2017 film)|Wonder Woman]] ''(2017)''
+|412815408
+|[[Aquaman (film)|Aquaman]] ''(2018)''
+|335061807
+|[[Batman v Superman: Dawn of Justice]] ''(2016)''
+|330360194
+|[[Suicide Squad (2016 film)|Suicide Squad]] ''(2016)''
+|325100054
+|[[Man of Steel (film)|Man of Steel]] ''(2013)''
+|291045518
+|[[Justice League (film)|Justice League]] ''(2017)''
+|229024295
+|[[Black Adam (film)|Black Adam]] ''(2022)''
+|168152111
+|[[Shazam! (film)|Shazam!]] ''(2019)''
+|140371656
+|[[Aquaman and the Lost Kingdom]] ''(2023)''
+|124481226
+|[[The Flash (film)|The Flash]] ''(2023)''
+|108133313
+|[[Birds of Prey (2020 film)|Birds of Prey]] ''(2020)''
+|84158461
+|[[Blue Beetle (film)|Blue Beetle]] ''(2023)''
+|72488072
+|[[Shazam! Fury of the Gods]] ''(2023)''
+|57638006
+|[[The Suicide Squad (film)|The Suicide Squad]] ''(2021)''
+|55800219
+|[[Wonder Woman 1984]] ''(2020)''
+|46534027
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=8|title=[[Avengers (film series)|Avengers]] †|number=4|highest=Endgame|gross=89864750|release=01
+<!--GROSSES-->
+|[[Avengers: Endgame|Endgame]] ''(2019)'' †
+|89864750
+|[[Avengers: Infinity War|Infinity War]] ''(2018)''
+|678815482
+|[[The Avengers (2012 film)|The Avengers]] ''(2012)''
+|623357910
+|[[Avengers: Age of Ultron|Age of Ultron]] ''(2015)''
+|459005868
+}}
+|-
+|colspan="6"|
+{{Highest-grossing films franchise|type=franchise|rank=9|title=[[Jurassic Park (franchise)|Jurassic Park]]|total={{#expr:<!--JURASSIC PARK TRILOGY-->{{#expr:407185075+229086679+181171875}}+<!--JURASSIC WORLD -->{{#expr:653406625+417719760+376851080+339640400}}}}|number=7|highest=Jurassic World|gross=652270625
+|{{Highest-grossing films franchise|type=series|sub=y|title=Jurassic World series|number=4|highest=Jurassic World|gross=652270625
+<!--GROSSES-->
+|[[Jurassic World]] ''(2015)''
+|653406625
+|[[Jurassic World: Fallen Kingdom|Fallen Kingdom]] ''(2018)''
+|417719760
+|[[Jurassic World Dominion|Dominion]] ''(2022)''
+|376851080
+|[[Jurassic World Rebirth|Rebirth]] ''(2025)''
+|339640400
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Jurassic Park trilogy|number=3|highest=Jurassic Park|gross=407185075
+<!--GROSSES-->
+|[[Jurassic Park (film)|Jurassic Park]] ''(1993)''
+|407185075
+|[[The Lost World: Jurassic Park|The Lost World]] ''(1997)''
+|229086679
+|[[Jurassic Park III]] ''(2001)''
+|181171875
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=10|title=[[List of James Bond films|James Bond]]|total={{#expr:<!--CONNERY-->242444854+<!--LAZENBY-->22774493+<!--MOORE-->346530989+<!--DALTON-->85852912+<!--BROSNAN-->519620040+<!--CRAIG-->1001140280+<!--CR67-->22744718+<!--NSNA-->55432841}}
+|number=27|highest=Skyfall|gross=304360277
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=[[EON Bond Film|Eon series]]|total={{#expr:
+<!--CONNERY-->242444854+<!--LAZENBY-->22774493+<!--MOORE-->346530989+<!--DALTON-->85852912+<!--BROSNAN-->519620040+<!--CRAIG-->1001140280}}
+|number=25|highest=Skyfall|gross=304360277
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Daniel Craig: 2005–2021|Daniel Craig's Bond]]|number=5|highest=Skyfall|gross=304360277
+<!--GROSSES-->
+|[[Skyfall]] ''(2012)''
+|304360277
+|[[Spectre (2015 film)|Spectre]] ''(2015)''
+|200074609
+|[[Quantum of Solace]] ''(2008)''
+|168368427
+|[[Casino Royale (2006 film)|Casino Royale]] ''(2006)''
+|167445960
+|[[No Time to Die]] ''(2021)'' 
+|160891007
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Pierce Brosnan: 1995–2004|Pierce Brosnan's Bond]]|number=4|highest=Die Another Day|gross=160942139
+<!--GROSSES-->
+|[[Die Another Day]] ''(2002)''
+|160942139
+|[[The World Is Not Enough]] ''(1999)''
+|126943684
+|[[Tomorrow Never Dies]] ''(1997)''
+|125304276
+|[[GoldenEye]] ''(1995)''
+|106429941
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Roger Moore: 1973–85|Roger Moore's Bond]]|number=7|highest=Moonraker|gross=70308099
+|[[Moonraker (film)|Moonraker]] ''(1979)''
+|70308099
+|[[Octopussy]] ''(1983)''
+|67893619
+|[[For Your Eyes Only (film)|For Your Eyes Only]] ''(1981)''
+|54812802
+|[[A View to a Kill]] ''(1985)''
+|50327960
+|[[The Spy Who Loved Me (film)|The Spy Who Loved Me]] ''(1977)''
+|46838673
+|[[Live and Let Die (film)|Live and Let Die]] ''(1973)''
+|35377836
+|[[The Man with the Golden Gun (film)|The Man with the Golden Gun]] ''(1974)''
+|20972000
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Sean Connery: 1962–67, 71 & 83|Sean Connery's Bond]]|number=6|highest=Thunderball|gross=63595658
+|[[Thunderball (film)|Thunderball]] ''(1965)''
+|63595658
+|[[Goldfinger (film)|Goldfinger]] ''(1964)''
+|51081062
+|[[Diamonds Are Forever (film)|Diamonds Are Forever]] ''(1971)''
+|43819547
+|[[You Only Live Twice (film)|You Only Live Twice]] ''(1967)''
+|43084787
+|[[From Russia with Love (film)|From Russia with Love]] ''(1963)''
+|24796765
+|[[Dr. No (film)|Dr. No]] ''(1962)''
+|16067035
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Timothy Dalton: 1986–94|Timothy Dalton's Bond]]|number=2|highest=The Living Daylights|gross=51185897
+|[[The Living Daylights]] ''(1987)''
+|51185897
+|[[Licence to Kill]] ''(1989)''
+|34667015
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#George Lazenby: 1969|George Lazenby's Bond]]|number=1|highest=On Her Majesty's Secret Service|gross=22774493
+|[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]] ''(1969)''
+|22774493
+}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Never Say Never Again]] ''(1983)''|total=55432841}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Casino Royale (1967 film)|Casino Royale]] ''(1967)''|total=22744718}}
+}}
+|-
+|colspan="6"|
+{{Highest-grossing films franchise|type=franchise|rank=11|title=[[Despicable Me]]|total={{#expr:<!--DESPICABLE ME-->{{#expr:251513985+368061265+264624300+361004205}}+<!--MINIONS-->{{#expr:336045770+369695210+183171260}}}}|number=7|highest=Minions: The Rise of Gru|gross=369695210
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=4|highest=Despicable Me 2|gross=368061265
+<!--GROSSES-->
+|[[Despicable Me 2]] ''(2013)''
+|368865990
+|[[Despicable Me 4]] ''(2024)''
+|361004205
+|[[Despicable Me 3]] ''(2017)''
+|264624300
+|[[Despicable Me (film)|Despicable Me]] ''(2010)''
+|251513985
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Minions series|number=3|highest=The Rise of Gru|gross=369695210
+<!--GROSSES-->
+|[[Minions: The Rise of Gru|The Rise of Gru]] ''(2022)''
+|369695210
+|[[Minions (film)|Minions]] ''(2015)''
+|336045770
+|[[Minions & Monsters]] ''(2026)''
+|183171260
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=12|title=[[Fast & Furious]]|total={{#expr:<!--MAIN SERIES-->{{#expr:148961825+127154901+62514415+155064265+209837675+238679850+353007020+226008385+173005945+145960660}}+<!--HOBBS-->173956935}}|number=11|highest=Furious 7|gross=353007020
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[The Fast Saga]]|number=10|highest=Furious 7|gross=353007020
+<!--GROSSES-->
+|[[Furious 7]] ''(2015)''
+|353007020
+|[[Fast & Furious 6]] ''(2013)''
+|238679850
+|[[The Fate of the Furious]] ''(2017)''
+|226008385
+|[[Fast Five]] ''(2011)''
+|209837675
+|[[F9 (film)|F9]] ''(2021)''
+|173005945
+|[[Fast & Furious (2009 film)|Fast & Furious]] ''(2009)''
+|155064265
+|[[The Fast and the Furious (2001 film)|The Fast and the Furious]] ''(2001)''
+|148961825
+|[[Fast X]] ''(2023)''
+|145960660
+|[[2 Fast 2 Furious]] ''(2003)''
+|127154901
+|[[The Fast and the Furious: Tokyo Drift|Tokyo Drift]] ''(2006)''
+|62514415
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Hobbs & Shaw]] ''(2019)''|total=173956935}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=13|title=[[Toy Story (franchise)|Toy Story]]|total={{#expr:<!--MAIN-->{{#expr:199244616+245852179+30702446+415004880+434038008+480294461}}+<!--LIGHTYEAR-->118307188}}|number=6|highest=Toy Story 5|gross=480294461
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=5|highest=Toy Story 5|gross=480294461
+<!--GROSSES-->
+|[[Toy Story 5]] ''(2026)''
+|480294461
+|[[Toy Story 4]] ''(2019)''
+|434038008
+|[[Toy Story 3]] ''(2010)''
+|415004880
+|[[Toy Story 2]] ''(1999)''
+|245852179
+|[[Toy Story]] ''(1995)''
+|199244616
+|[[Toy Story#3-D re-release|Toy Story]]/[[Toy Story 2#3-D re-release|Toy Story 2]] (3D) ''(2009)''
+|30702446
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Lightyear (film)|Lightyear]] ''(2022)''|total=118307188}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=14|title=[[Middle-earth in film|Middle-earth]]|total={{#expr:<!--LOTR TRILOGY-->1060774533+<!--HOBBIT TRILOGY-->816490211+<!--1978-->30471420+<!--ROHIRRIM-->9158572}}|number=8|highest=The Lord of the Rings: The Return of the King|gross={{formatnum:{{#expr:386975644−<!--2025-->1126085}}}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=[[Middle-earth in film#Peter Jackson's film series|Peter Jackson series]]|total={{#expr:<!--LOTR TRILOGY-->1060774533+<!--HOBBIT TRILOGY-->816490211}}|number=6|highest=The Lord of the Rings: The Return of the King|gross={{formatnum:{{#expr:386975644−<!--2025-->1126085}}}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[The Lord of the Rings (film series)|The Lord of the Rings]]|number=3|highest=The Return of the King|gross={{formatnum:{{#expr:386975644−<!--2025-->1126085}}}}
+|[[The Lord of the Rings: The Return of the King|The Return of the King]] ''(2003)''
+|{{#expr:386975644-<!--2025-->1126085}}
+|[[The Lord of the Rings: The Two Towers|The Two Towers]] ''(2002)''
+|{{#expr:350104956-<!--2025-->492391}}
+|[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]] ''(2001)''
+|{{#expr:325873309-<!--2025-->560900}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[The Hobbit (film series)|The Hobbit]]|number=3|highest=An Unexpected Journey|gross=303003568
+|[[The Hobbit: An Unexpected Journey|An Unexpected Journey]] ''(2012)''
+|303003568
+|[[The Hobbit: The Desolation of Smaug|The Desolation of Smaug]] ''(2013)''
+|258366855
+|[[The Hobbit: The Battle of the Five Armies|The Battle of the Five Armies]] ''(2014)''
+|255119788
+}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Lord of the Rings (1978 film)|The Lord of the Rings]] ''(1978)''|total=30471420}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Lord of the Rings: The War of the Rohirrim]] ''(2024)''|total=9158572}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=15|title=[[Avatar (franchise)|Avatar]]|number=3|highest=Avatar|gross=785221649
+<!--GROSSES-->
+|[[Avatar (2009 film)|Avatar]] ''(2009)''
+|785221649
+|[[Avatar: The Way of Water|The Way of Water]] ''(2022)''
+|688459501
+|[[Avatar: Fire and Ash|Fire and Ash]] ''(2025)''
+|404340010
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=16|title=[[Transformers (film series)|Transformers]]|total={{#expr:<!--MAIN-->{{#expr:319246193+402111870+352390543+245439076+130168683+127195589+157066392+59054170}}+<!--1986-->10006178}}|number=9|highest=Revenge of the Fallen|gross=402111870
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=8|highest=Revenge of the Fallen|gross=402111870
+<!--GROSSES-->
+|[[Transformers: Revenge of the Fallen|Revenge of the Fallen]] ''(2009)''
+|402111870
+|[[Transformers: Dark of the Moon|Dark of the Moon]] ''(2011)''
+|352390543
+|[[Transformers (film)|Transformers]] ''(2007)''
+|319246193
+|[[Transformers: Age of Extinction|Age of Extinction]] ''(2014)''
+|245439076
+|[[Transformers: Rise of the Beasts|Rise of the Beasts]] ''(2023)''
+|157066392
+|[[Transformers: The Last Knight|The Last Knight]] ''(2017)''
+|130168683
+|[[Bumblebee (film)|Bumblebee]] ''(2018)''
+|127195589
+|[[Transformers One|One]] ''(2024)''
+|59054170
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Transformers: The Movie]] ''(1986)''|total=10006178}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=17|title=[[The Hunger Games (film series)|The Hunger Games]]|total={{#expr:<!--MAIN-->{{#expr:408010692+424668047+337135885+281723902}}+<!--SONGBIRDS-->166350594}}|number=5|highest=Catching Fire|gross=424668047
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=4|highest=Catching Fire|gross=424668047
+<!--GROSSES-->
+|[[The Hunger Games: Catching Fire|Catching Fire]] ''(2013)''
+|424668047
+|[[The Hunger Games (film)|The Hunger Games]] ''(2012)''
+|408010692
+|[[The Hunger Games: Mockingjay – Part 1|Mockingjay – Part 1]] ''(2014)''
+|337135885
+|[[The Hunger Games: Mockingjay – Part 2|Mockingjay – Part 2]] ''(2015)''
+|281723902
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Hunger Games: The Ballad of Songbirds & Snakes|The Ballad of Songbirds & Snakes]] ''(2023)''|total=166350594}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=18|title=[[Shrek (franchise)|Shrek]]|total={{#expr:<!--SHREK-->{{#expr:270491111+444675502+322719944+238736787}}+<!--PUSS-->{{#expr:149260504+185530865}}}}|number=6|highest=Shrek 2|gross=444978202
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Shrek (franchise)#Films|Main series]]|number=4|highest=Shrek 2|gross=444978202
+<!--GROSSES-->
+|[[Shrek 2]] ''(2004)''
+|444978202
+|[[Shrek the Third]] ''(2007)''
+|322719944
+|[[Shrek]] ''(2001)''
+|270491111
+|[[Shrek Forever After]] ''(2010)''
+|238736787
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Shrek (franchise)#Spin-offs|Puss in Boots series]]|number=2|highest=The Last Wish|gross=185530865
+<!--GROSSES-->
+|[[Puss in Boots: The Last Wish|The Last Wish]] ''(2022)''
+|185530865
+|[[Puss in Boots (2011 film)|Puss in Boots]] ''(2011)''
+|149260504
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=19|title=[[Superman in film|Superman]]|total={{#expr:<!--ORIGINALS-->134478449+108185706+59950623+15681020+<!--SUPERGIRL-->14296438+<!--RETURNS-->200081192+<!--DCEU-->291045518+330360194+<!--DCU-->354184465+<!--SUPERGIRL 26-->72366532}}|number=10|highest=Superman (2025)|gross=354184465
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Superman in film#DC Extended Universe (2013–2023)|DC Extended Universe]]|number=2|highest=Batman v Superman: Dawn of Justice|gross=330360194
+<!--GROSSES-->
+|[[Batman v Superman: Dawn of Justice]] ''(2016)''
+|330360194
+|[[Man of Steel (film)|Man of Steel]] ''(2013)''
+|291045518
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[DC Universe (franchise)|DC Universe]]|number=2|highest=Superman|gross=354184465
+<!--GROSSES-->
+|[[Superman (2025 film)|Superman]] ''(2025)''
+|354184465
+|[[Supergirl (2026 film)|Supergirl]] ''(2026)'' 
+|72366532
+}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=[[Superman in film#Original motion picture series|Original series]]|total={{#expr:<!--REEVE-->134478449+108185706+59950623+15681020+<!--SUPERGIRL-->14296438}}|number=5|highest=Superman|gross=134478449
+|{{Highest-grossing films franchise|type=series|sub=y|title=Christopher Reeve films|number=4|highest=Superman|gross=134478449
+<!--GROSSES-->
+|[[Superman (1978 film)|Superman]] ''(1978)''
+|134478449
+|[[Superman II]] ''(1980)''
+|108185706
+|[[Superman III]] ''(1983)''
+|59950623
+|[[Superman IV: The Quest for Peace|The Quest for Peace]] ''(1987)''
+|15681020
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Supergirl (1984 film)|Supergirl]] ''(1984)''|total=14296438}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Superman Returns]] ''(2006)''|total=200081192}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=20|title=[[Mission: Impossible (film series)|Mission: Impossible]]|number=8|highest=Fallout|gross=220159104
+<!--GROSSES-->
+|[[Mission: Impossible – Fallout|Fallout]] ''(2018)''
+|220159104
+|[[Mission: Impossible 2]] ''(2000)''
+|215409889
+|[[Mission: Impossible – Ghost Protocol|Ghost Protocol]] ''(2011)''
+|209397903
+|[[Mission: Impossible – The Final Reckoning|The Final Reckoning]] ''(2025)''
+|197413515
+|[[Mission: Impossible – Rogue Nation|Rogue Nation]] ''(2015)''
+|195042377
+|[[Mission: Impossible (film)|Mission: Impossible]] ''(1996)''
+|180981856
+|[[Mission: Impossible – Dead Reckoning Part One|Dead Reckoning]] ''(2023)''
+|172635383
+|[[Mission: Impossible III]] ''(2006)''
+|134029801
+}}
+|-
+|}
+
+==Franchises and film series adjusted for inflation==
+This chart ranks films by gross adjusted for ticket price inflation up to 2020 levels, based on data from [[Box Office Mojo]], and applying the [[Template:Inflation]] for the following years up to 2024 levels, due to the lack of updates on the original source.<ref name="Boxofficemojotickets"/>
+
+{{box office table legend|#b6fcb6|icon={{†|alt=film currently playing}}|series=yes}}
+
+{| cellpadding="0" cellspacing="1" style="border:1px solid darkgrey; margin:auto; width:80em;"
+|+ '''Highest-grossing franchises and film series'''&nbsp;
+|+ <span style="font-size:85%;">(The films in each franchise can be viewed by selecting "show")</span>
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=header|ranklabel=Rank|titlelabel=Series|totallabel=Total adjusted for inflation|numberlabel=No. of films|averagelabel=Average of films|highestlabel=Highest-grossing film}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=1|title=[[List of Marvel Cinematic Universe films|Marvel Cinematic Universe]] †|total={{#expr:<!--PHASE 1-->2616193272+<!--PHASE 2-->2578484766+<!--PHASE 3-->6425982949+<!--PHASE 4-->2977534266+<!--PHASE 5-->1739572604+<!--PHASE 6-->1233009718}}|number=38|highest=Avengers: Endgame|gross={{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40091750}}|release=y
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=The Infinity Saga †|total={{#expr:2616193272+2578484766+6425981281}}|number=23|highest=Avengers: Endgame|gross={{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40091750}}|release=01
+<!--GROSSES-->
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Three|Phase Three]] †|number=11|highest=Avengers: Endgame|gross={{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40089695}}|release=01
+<!--GROSSES-->
+|[[Avengers: Endgame]] ''(2019)'' †
+|{{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40091750}}
+|[[Black Panther (film)|Black Panther]] ''(2018)''
+|{{Inflation|US|715038755|2020}}
+|[[Avengers: Infinity War]] ''(2018)''
+|{{Inflation|US|678572589|2020}}
+|[[Captain Marvel (film)|Captain Marvel]] ''(2019)''
+|{{Inflation|US|443884073|2020}}
+|[[Captain America: Civil War]] ''(2016)''
+|{{Inflation|US|438096224|2020}}
+|[[Guardians of the Galaxy Vol. 2]] ''(2017)''
+|{{Inflation|US|408124405|2020}}
+|[[Spider-Man: Far From Home]] ''(2019)''
+|{{#expr:{{Inflation|US|406098611|2020}}+<!--2024-->{{Inflation|US|350536|2024}}}}
+|[[Spider-Man: Homecoming]] ''(2017)''
+|{{#expr:{{Inflation|US|350608534|2020}}+<!--2024-->{{Inflation|US|375421|2024}}}}
+|[[Thor: Ragnarok]] ''(2017)''
+|{{Inflation|US|321589644|2020}}
+|[[Doctor Strange (2016 film)|Doctor Strange]] ''(2016)''
+|{{Inflation|US|247973302|2020}}
+|[[Ant-Man and the Wasp]] ''(2018)''
+|{{Inflation|US|229879832|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase One|Phase One]]|number=6|highest=The Avengers|gross={{Inflation|US|720376844|2020}}
+<!--GROSSES-->
+|[[The Avengers (2012 film)|The Avengers]] ''(2012)''
+|{{Inflation|US|720376844|2020}}
+|[[Iron Man (2008 film)|Iron Man]] ''(2008)''
+|{{Inflation|US|415951166|2020}}
+|[[Iron Man 2]] ''(2010)''
+|{{Inflation|US|371691971|2020}}
+|[[Thor (film)|Thor]] ''(2011)''
+|{{Inflation|US|210515790|2020}}
+|[[Captain America: The First Avenger]] ''(2011)''
+|{{Inflation|US|208499366|2020}}
+|[[The Incredible Hulk (film)|The Incredible Hulk]] ''(2008)''
+|{{Inflation|US|175924561|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Two|Phase Two]]|number=6|highest=Avengers: Age of Ultron|gross={{Inflation|US|499902618|2020}}
+<!--GROSSES-->
+|[[Avengers: Age of Ultron]] ''(2015)''
+|{{Inflation|US|499902618|2020}}
+|[[Iron Man 3]] ''(2013)''
+|{{Inflation|US|457717941|2020}}
+|[[Guardians of the Galaxy (film)|Guardians of the Galaxy]] ''(2014)''
+|{{Inflation|US|386375698|2020}}
+|[[Captain America: The Winter Soldier]] ''(2014)''
+|{{Inflation|US|292300898|2020}}
+|[[Thor: The Dark World]] ''(2013)''
+|{{Inflation|US|231822233|2020}}
+|[[Ant-Man (film)|Ant-Man]] ''(2015)''
+|{{Inflation|US|204529297|2020}}
+}}
+}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=The Multiverse Saga †|total={{#expr:2977534266+1739572604+<!--PHASE 6-->1233009718}}|number=15|highest=Spider-Man: No Way Home|gross={{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}|release=y
+<!--GROSSES-->
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Four|Phase Four]]|number=7|highest=Spider-Man: No Way Home|gross={{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}
+<!--GROSSES-->
+|[[Spider-Man: No Way Home]] ''(2021)''
+|{{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}
+|[[Black Panther: Wakanda Forever]] ''(2022)''
+|{{Inflation|US|453829060|2022}}
+|[[Doctor Strange in the Multiverse of Madness]] ''(2022)''
+|{{Inflation|US|411331607|2022}}
+|[[Thor: Love and Thunder]] ''(2022)''
+|{{Inflation|US|343256830|2022}}
+|[[Shang-Chi and the Legend of the Ten Rings]] ''(2021)''
+|{{Inflation|US|224543292|2021}}
+|[[Black Widow (2021 film)|Black Widow]] ''(2021)''
+|{{Inflation|US|183651655|2021}}
+|[[Eternals (film)|Eternals]] ''(2021)''
+|{{Inflation|US|164870234|2021}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Five|Phase Five]]|number=6|highest=Deadpool & Wolverine|gross={{Inflation|US|636745858|2024}}
+<!--GROSSES-->
+|[[Deadpool & Wolverine]] ''(2024)''
+|{{Inflation|US|636745858|2024}}
+|[[Guardians of the Galaxy Vol. 3]] ''(2023)''
+|{{Inflation|US|358995815|2023}}
+|[[Ant-Man and the Wasp: Quantumania]] ''(2023)''
+|{{Inflation|US|214506909|2023}}
+|[[Captain America: Brave New World]] ''(2025)''
+|200500001
+|[[Thunderbolts*]] ''(2025)''
+|190274328
+|[[The Marvels]] ''(2023)''
+|{{Inflation|US|84500223|2023}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Marvel Cinematic Universe: Phase Six|Phase Six]] †|number=2|highest=Spider-Man: Brand New Day|gross=958723108|release=01
+<!--GROSSES-->
+|[[Spider-Man: Brand New Day]] ''(2026)'' †
+|958723108
+|[[The Fantastic Four: First Steps]] ''(2025)''
+|274286610
+}}
+}} 
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=2|title=[[Star Wars]]|total={{#expr:<!--ORIGINAL-->4325947575+<!--PREQUELS-->2415032394+<!--CLONE WARS-->{{Inflation|US|35161554|2008}}+<!--SEQUELS-->2689147207+<!--ANTHOLOGY-->972387425+<!--GROGU-->177730060}}|number=13|highest=Star Wars|gross={{Inflation|US|1668979715|2020}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=Skywalker saga|total={{#expr:<!--ORIGINAL-->4325947575+<!--PREQUELS-->2414689609+<!--SEQUELS-->2689147207}}|number=9|highest=Star Wars|gross={{Inflation|US|1668979715|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Star Wars#Original trilogy|Original trilogy]]|number=3|highest=Star Wars|gross={{Inflation|US|1668979715|2020}}
+<!--GROSSES-->
+|[[Star Wars (film)|IV: A New Hope]] ''(1977)''
+|{{Inflation|US|1668979715|2020}}
+|[[The Empire Strikes Back|V: The Empire Strikes Back]] ''(1980)''
+|{{Inflation|US|920818947|2020}}
+|[[Return of the Jedi|VI: Return of the Jedi]] ''(1983)''
+|{{#expr:{{Inflation|US|881336578|2020}}+<!--2023-->{{Inflation|US|7259924|2023}}}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Star Wars sequel trilogy|Sequel trilogy]]|number=3|highest=The Force Awakens|gross={{Inflation|US|1013038487|2020}}
+<!--GROSSES-->
+|[[Star Wars: The Force Awakens|VII: The Force Awakens]] ''(2015)''
+|{{Inflation|US|1013038487|2020}}
+|[[Star Wars: The Last Jedi|VIII: The Last Jedi]] ''(2017)''
+|{{Inflation|US|633360465|2020}}
+|[[Star Wars: The Rise of Skywalker|IX: The Rise of Skywalker]] ''(2019)'' 
+|{{Inflation|US|515202891|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Prequel trilogy]]|number=3|highest=The Phantom Menace|gross={{#expr:{{Inflation|US|846224377|2020}}+<!--2024-->{{Inflation|US|13029994|2024}}}}
+<!--GROSSES-->
+|[[Star Wars: Episode I – The Phantom Menace|I: The Phantom Menace]] ''(1999)''
+|{{#expr:{{Inflation|US|846224377|2020}}+<!--2024-->{{Inflation|US|13029994|2024}}}}
+|[[Star Wars: Episode III – Revenge of the Sith|III: Revenge of the Sith]] ''(2005)''
+|{{#expr:{{Inflation|US|555871502|2020}}+<!--2025-->34107714}}
+|[[Star Wars: Episode II – Attack of the Clones|II: Attack of the Clones]] ''(2002)''
+|{{Inflation|US|500999845|2020}}
+}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Star Wars#Anthology films|Anthology films]]|number=2|highest=Rogue One|gross={{#expr:{{Inflation|US|566337792|2020}}+{{Inflation|US|1362667|2022}}}}
+<!--GROSSES-->
+|[[Rogue One]] ''(2016)''
+|{{#expr:{{Inflation|US|566337792|2020}}+{{Inflation|US|1362667|2022}}}}
+|[[Solo: A Star Wars Story|Solo]] ''(2018)''
+|{{Inflation|US|214085760|2020}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Mandalorian and Grogu]] ''(2026)''|total=177730060}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Star Wars: The Clone Wars (film)|The Clone Wars]] ''(2008)''|total={{Inflation|US|35161554|2008}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=3|title=[[List of James Bond films|James Bond]]|total={{#expr:
+<!--CONNERY-->2904016567+<!--LAZENBY-->186956042+<!--MOORE-->1572995759+<!--DALTON-->235097867+<!--BROSNAN-->1209424355+<!--CRAIG-->1470167717+<!--CR67-->{{Inflation|US|22744718|1967}}+<!--NSNA-->{{Inflation|US|164890449|2020}}}}
+|number=27|highest=Thunderball|gross={{Inflation|US|700876000|2020}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=[[EON Bond Film|Eon series]]|total={{#expr:<!--CONNERY-->2904016567+<!--LAZENBY-->186956042+<!--MOORE-->1572995759+<!--DALTON-->235097867+<!--BROSNAN-->1209424355+<!--CRAIG-->1470167717}}
+|number=25|highest=Thunderball|gross={{Inflation|US|700876000|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Sean Connery: 1962–67, 71 & 83|Sean Connery's Bond]]|number=6|highest=Thunderball|gross={{Inflation|US|700876000|2020}}
+|[[Thunderball (film)|Thunderball]] ''(1965)''
+|{{Inflation|US|700876000|2020}}
+|[[Goldfinger (film)|Goldfinger]] ''(1964)''
+|{{Inflation|US|621231000|2020}}
+|[[You Only Live Twice (film)|You Only Live Twice]] ''(1967)''
+|{{Inflation|US|336420480|2020}}
+|[[From Russia with Love (film)|From Russia with Love]] ''(1963)''
+|{{Inflation|US|249834184|2020}}
+|[[Diamonds Are Forever (film)|Diamonds Are Forever]] ''(1971)''
+|{{Inflation|US|248841901|2020}}
+|[[Dr. No (film)|Dr. No]] ''(1962)''
+|{{Inflation|US|177115488|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Roger Moore: 1973–85|Roger Moore's Bond]]|number=7|highest=Moonraker|gross={{Inflation|US|262464944|2020}}
+|[[Moonraker (film)|Moonraker]] ''(1979)''
+|{{Inflation|US|262464944|2020}}
+|[[Octopussy]] ''(1983)''
+|{{Inflation|US|201956295|2020}}
+|[[The Spy Who Loved Me (film)|The Spy Who Loved Me]] ''(1977)''
+|{{Inflation|US|196806543|2020}}
+|[[Live and Let Die (film)|Live and Let Die]] ''(1973)''
+|{{Inflation|US|187282875|2020}}
+|[[For Your Eyes Only (film)|For Your Eyes Only]] ''(1981)''
+|{{Inflation|US|184746416|2020}}
+|[[A View to a Kill]] ''(1985)''
+|{{Inflation|US|50327960|1985}}
+|[[The Man with the Golden Gun (film)|The Man with the Golden Gun]] ''(1974)''
+|{{Inflation|US|20972000|1974}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Daniel Craig: 2005–2021|Daniel Craig's Bond]]|number=5|highest=Skyfall|gross={{Inflation|US|354579540|2020}}
+<!--GROSSES-->
+|[[Skyfall]] ''(2012)''
+|{{Inflation|US|354579540|2020}}
+|[[Casino Royale (2006 film)|Casino Royale]] ''(2006)''
+|{{Inflation|US|238266919|2020}}
+|[[Quantum of Solace]] ''(2008)''
+|{{Inflation|US|219722752|2020}}
+|[[Spectre (2015 film)|Spectre]] ''(2015)''
+|{{Inflation|US|215527803|2020}}
+|[[No Time to Die]] ''(2021)'' 
+|{{Inflation|US|160891007|2021}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Pierce Brosnan: 1995–2004|Pierce Brosnan's Bond]]|number=4|highest=Die Another Day|gross={{Inflation|US|258462080|2020}}
+<!--GROSSES-->
+|[[Die Another Day]] ''(2002)''
+|{{Inflation|US|258462080|2020}}
+|[[Tomorrow Never Dies]] ''(1997)''
+|{{Inflation|US|252157944|2020}}
+|[[The World Is Not Enough]] ''(1999)''
+|{{Inflation|US|232880106|2020}}
+|[[GoldenEye]] ''(1995)''
+|{{Inflation|US|228664543|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#Timothy Dalton: 1986–94|Timothy Dalton's Bond]]|number=2|highest=The Living Daylights|gross={{Inflation|US|51185897|1987}}
+|[[The Living Daylights]] ''(1987)''
+|{{Inflation|US|51185897|1987}}
+|[[Licence to Kill]] ''(1989)''
+|{{Inflation|US|34667015|1989}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[James Bond (film character)#George Lazenby: 1969|George Lazenby's Bond]]|number=1|highest=On Her Majesty's Secret Service|gross={{Inflation|US|150279808|2020}}
+|[[On Her Majesty's Secret Service (film)|On Her Majesty's Secret Service]] ''(1969)''
+|{{Inflation|US|150279808|2020}}
+}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Casino Royale (1967 film)|Casino Royale]] ''(1967)''|total={{Inflation|US|22744718|1967}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Never Say Never Again]] ''(1983)''|total={{Inflation|US|164890449|2020}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=4|title=[[Spider-Man in film|Spider-Man]] †|total={{#expr:<!--RAIMI-->2100215381+<!--TASM-->678003583+<!--MCU-->2868027122+<!--SONY-->824706440+<!--SPIDER-VERSE-->649097702}}|number=17|highest=No Way Home|gross={{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}|release=y
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man in film#Licensing agreement with Marvel Studios|Marvel Cinematic Universe]] †|number=4|highest=No Way Home|gross={{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}|release=02
+<!--GROSSES-->
+|[[Spider-Man: No Way Home|No Way Home]] ''(2021)''
+|{{#expr:{{Inflation|US|804793477|2021}}+{{Inflation|US|9321593|2022}}+<!--2024-->{{Inflation|US|696465|2024}}}}
+|[[Spider-Man: Brand New Day|Brand New Day]] ''(2026)'' †
+|958723108
+|[[Spider-Man: Far From Home|Far From Home]] ''(2019)''
+|{{#expr:{{Inflation|US|406098611|2020}}+<!--2024-->{{Inflation|US|350536|2024}}}}
+|[[Spider-Man: Homecoming|Homecoming]] ''(2017)''
+|{{#expr:{{Inflation|US|350608534|2020}}+<!--2024-->{{Inflation|US|375421|2024}}}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man (2002 film series)|Raimi series]]|number=3|highest=Spider-Man|gross={{#expr:{{Inflation|US|661768431|2020}}+<!--2024-->{{Inflation|US|927627|2024}}+<!--2025-->737505}}
+<!--GROSSES-->
+|[[Spider-Man (2002 film)|Spider-Man]] ''(2002)''
+|{{#expr:{{Inflation|US|661768431|2020}}+<!--2024-->{{Inflation|US|927627|2024}}+<!--2025-->737505}}
+|[[Spider-Man 2]] ''(2004)''
+|{{#expr:{{Inflation|US|563687019|2020}}+<!--2024-->{{Inflation|US|1161869|2024}}+<!--2025-->1113472}}
+|[[Spider-Man 3]] ''(2007)''
+|{{#expr:{{Inflation|US|458326991|2020}}+<!--2024-->{{Inflation|US|1077048|2024}}+<!--2025-->400000}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Sony's Spider-Man Universe]]|number=6|highest=Venom|gross={{Inflation|US|221555524|2020}}
+|[[Venom (2018 film)|Venom]] ''(2018)''
+|{{Inflation|US|221555524|2020}}
+|[[Venom: Let There Be Carnage]] ''(2021)'' 
+|{{Inflation|US|213550366|2021}}
+|[[Venom: The Last Dance]] ''(2024)''
+|{{Inflation|US|139755882|2024}}
+|[[Morbius (film)|Morbius]] ''(2022)''
+|{{Inflation|US|73865530|2022}}
+|[[Madame Web (film)|Madame Web]] ''(2024)''
+|{{Inflation|US|43817106|2024}}
+|[[Kraven the Hunter (film)|Kraven the Hunter]] ''(2024)''
+|{{Inflation|US|25026310|2024}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man in film#Marc Webb's films|The Amazing Spider-Man series]]|number=2|highest=The Amazing Spider-Man|gross={{#expr:{{Inflation|US|315561923|2020}}+<!--2024-->{{Inflation|US|717220|2024}}}}
+<!--GROSSES-->
+|[[The Amazing Spider-Man (2012 film)|The Amazing Spider-Man]] ''(2012)''
+|{{#expr:{{Inflation|US|315561923|2020}}+<!--2024-->{{Inflation|US|717220|2024}}}}
+|[[The Amazing Spider-Man 2]] ''(2014)''
+|{{#expr:{{Inflation|US|228284121|2020}}+<!--2024-->{{Inflation|US|676410|2024}}}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Spider-Man in film#Animated Spider-Verse|Spider-Verse]]|number=2|highest=Across the Spider-Verse|gross={{#expr:{{Inflation|US|381311319|2023}}+<!--2024-->{{Inflation|US|282435|2024}}}}
+<!--GROSSES-->
+|[[Spider-Man: Across the Spider-Verse|Across the Spider-Verse]] ''(2023)''
+|{{#expr:{{Inflation|US|381311319|2023}}+<!--2024-->{{Inflation|US|282435|2024}}}}
+|[[Spider-Man: Into the Spider-Verse|Into the Spider-Verse]] ''(2018)''
+|{{Inflation|US|197646095|2020}}
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=5|title=[[Batman in film|Batman]] †|total={{#expr:<!--BURTON/SCHU-->{{#expr:{{Inflation|US|590050451|2020}}+{{Inflation|US|367720028|2020}}+{{Inflation|US|396446574|2020}}+{{Inflation|US|219123072|2020}}}}+<!--CATWOMAN-->{{Inflation|US|40202379|2004}}+<!--NOLAN-->{{#expr:{{Inflation|US|301983856|2020}}+{{Inflation|US|697722995|2020}}+{{Inflation|US|539541466|2020}}}}+<!--MASK-->{{#expr:{{Inflation|US|5617391|1993}}+{{Inflation|US|17813|2018}}}}+<!--1966 Movie-->{{Inflation|US|1700000|1966}}+<!--BvS-->{{Inflation|US|358501822|2020}}+<!--THE KILLING JOKE-->{{Inflation|US|3775000|2016}}+<!--LEGO-->{{Inflation|US|186238120|2020}}+<!--JOKER-->{{#expr:{{Inflation|US|335451622|2020}}+{{Inflation|US|58300287|2024}}}}+<!--THE BATMAN-->{{Inflation|US|369345583|2022}}+<!--CLAYFACE-->24002731}}|number=17|highest=The Dark Knight|gross={{Inflation|US|697722995|2020}}|release=y
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Tim Burton / Joel Schumacher Batman film series|Burton/Schumacher series]]|number=4|highest=Batman|gross={{Inflation|US|590050451|2020}}
+<!--GROSSES-->
+|[[Batman (1989 film)|Batman]] ''(1989)''
+|{{Inflation|US|590050451|2020}}
+|[[Batman Forever]] ''(1995)''
+|{{Inflation|US|396446574|2020}}
+|[[Batman Returns]] ''(1992)''
+|{{Inflation|US|367720028|2020}}
+|[[Batman & Robin (film)|Batman & Robin]] ''(1997)''
+|{{Inflation|US|219123072|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Batman in film#The Dark Knight trilogy|The Dark Knight trilogy]]|total=|number=3|highest=The Dark Knight|gross={{Inflation|US|697722995|2020}}
+<!--GROSSES-->
+|[[The Dark Knight]] ''(2008)''
+|{{Inflation|US|697722995|2020}}
+|[[The Dark Knight Rises]] ''(2012)''
+|{{Inflation|US|539541466|2020}}
+|[[Batman Begins]] ''(2005)''
+|{{Inflation|US|301983856|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Batman in film#Joker films|Joker series]]|total=|number=2|highest=Joker|gross={{Inflation|US|335451622|2020}}
+<!--GROSSES-->
+|[[Joker (2019 film)|Joker]] ''(2019)''
+|{{Inflation|US|335451622|2020}}
+|[[Joker: Folie à Deux|Folie à Deux]] ''(2024)''
+|{{Inflation|US|58300287|2024}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman v Superman: Dawn of Justice]] ''(2016)''|total={{Inflation|US|358501822|2020}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Batman (film)|The Batman]] ''(2022)''|total={{Inflation|US|369345583|2022}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Lego Batman Movie]] ''(2017)''|total={{Inflation|US|186238120|2020}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Catwoman (film)|Catwoman]] ''(2004)''|total={{Inflation|US|40202379|2004}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Clayface (film)|Clayface]] ''(2026)'' †|total=24002731|release=y}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman (1966 film)|Batman: The Movie]] ''(1966)''|total={{Inflation|US|1700000|1966}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman: Mask of the Phantasm|Mask of the Phantasm]] ''(1993)''|total={{#expr:{{Inflation|US|5617391|1993}}+{{Inflation|US|17813|2018}}}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Batman: The Killing Joke (film)|The Killing Joke]] ''(2016)''|total={{Inflation|US|3775000|2016}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=6|title=[[Wizarding World]]|total={{#expr:<!--HARRY POTTER-->{{#expr:<!--SORCERER-->{{Inflation|US|526061784|2020}}+{{Inflation|US|799342|2021}}+<!--CHAMBER-->{{Inflation|US|422965548|2020}}+<!--AZKABAN-->{{Inflation|US|378596724|2020}}+<!--GOBLET-->{{Inflation|US|425336158|2020}}+<!--PHOENIX-->{{Inflation|US|399669854|2020}}+<!--PRINCE-->{{Inflation|US|381195025|2020}}+<!--HALLOWS1-->{{Inflation|US|348589299|2020}}+<!--HALLOWS2-->{{Inflation|US|451701464|2020}}}}+<!--FANTASTIC BEASTS-->{{#expr:{{Inflation|US|249395668|2020}}+{{Inflation|US|165572585|2020}}+{{Inflation|US|95850844|2022}}}}}}|number=11|highest=Harry Potter and the Sorcerer's Stone|gross={{#expr:{{Inflation|US|526061784|2020}}+{{Inflation|US|799342|2021}}}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Harry Potter (film series)|Harry Potter series]]|number=8|highest=Sorcerer's Stone|gross={{#expr:{{Inflation|US|526061784|2020}}+{{Inflation|US|799342|2021}}}}
+<!--GROSSES-->
+|[[Harry Potter and the Philosopher's Stone (film)|Sorcerer's Stone]] ''(2001)''
+|{{#expr:{{Inflation|US|526061784|2020}}+{{Inflation|US|799342|2021}}}}
+|[[Harry Potter and the Deathly Hallows – Part 2|Deathly Hallows – Part 2]] ''(2011)''
+|{{Inflation|US|451701464|2020}}
+|[[Harry Potter and the Goblet of Fire (film)|Goblet of Fire]] ''(2005)''
+|{{Inflation|US|425336158|2020}}
+|[[Harry Potter and the Chamber of Secrets (film)|Chamber of Secrets]] ''(2002)''
+|{{Inflation|US|422965548|2020}}
+|[[Harry Potter and the Order of the Phoenix (film)|Order of the Phoenix]] ''(2007)''
+|{{Inflation|US|399669854|2020}}
+|[[Harry Potter and the Half-Blood Prince (film)|Half-Blood Prince]] ''(2009)''
+|{{Inflation|US|381195025|2020}}
+|[[Harry Potter and the Prisoner of Azkaban (film)|Prisoner of Azkaban]] ''(2004)''
+|{{Inflation|US|378596724|2020}}
+|[[Harry Potter and the Deathly Hallows – Part 1|Deathly Hallows – Part 1]] ''(2010)''
+|{{Inflation|US|348589299|2020}}
+|IMAX Marathon ''(2016)''
+|{{Inflation|US|1772500|2016}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Wizarding World#Fantastic Beasts films|Fantastic Beasts series]]|number=3|highest=Where to Find Them|gross={{Inflation|US|249395668|2020}}
+<!--- GROSSES --->
+|[[Fantastic Beasts and Where to Find Them (film)|Where to Find Them]] ''(2016)''
+|{{Inflation|US|249395668|2020}}
+|[[Fantastic Beasts: The Crimes of Grindelwald|The Crimes of Grindelwald]] ''(2018)''
+|{{Inflation|US|165572585|2020}}
+|[[Fantastic Beasts: The Secrets of Dumbledore|The Secrets of Dumbledore]] ''(2022)''
+|{{Inflation|US|95850844|2022}}
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=7|title=[[X-Men (film series)|X-Men]]|total={{#expr:<!--XMEN-->{{#expr:{{Inflation|US|273450332|2020}}+{{Inflation|US|334009579|2020}}+{{Inflation|US|335263285|2020}}+{{Inflation|US|170392513|2020}}+{{Inflation|US|263606210|2020}}+{{Inflation|US|166917180|2020}}+{{Inflation|US|65845974|2019}}}}+<!--WOLVERINE-->{{#expr:{{Inflation|US|225938810|2020}}+{{Inflation|US|158314583|2020}}+{{Inflation|US|239574971|2020}}}}+<!--NEW MUTANTS-->{{Inflation|US|23852659|2020}}+<!--DEADPOOL-->{{#expr:{{Inflation|US|396285410|2020}}+{{Inflation|US|325203653|2020}}+{{Inflation|US|636745858|2024}}}}}}|number=14|highest=Deadpool & Wolverine|gross={{Inflation|US|636745858|2024}}
+|{{Highest-grossing films franchise|type=series|title=Main series|sub=y|number=7|highest=The Last Stand|gross={{Inflation|US|335263285|2020}}
+<!--GROSSES-->
+|[[X-Men: The Last Stand|The Last Stand]] ''(2006)''
+|{{Inflation|US|335263285|2020}}
+|[[X2 (film)|X2]] ''(2003)''
+|{{Inflation|US|334009579|2020}}
+|[[X-Men (film)|X-Men]] ''(2000)''
+|{{Inflation|US|273450332|2020}}
+|[[X-Men: Days of Future Past|Days of Future Past]] ''(2014)''
+|{{Inflation|US|263606210|2020}}
+|[[X-Men: First Class|First Class]] ''(2011)''
+|{{Inflation|US|170392513|2020}}
+|[[X-Men: Apocalypse|Apocalypse]] ''(2016)''
+|{{Inflation|US|166917180|2020}}
+|[[Dark Phoenix (film)|Dark Phoenix]] ''(2019)''
+|{{Inflation|US|65845974|2019}}
+}}
+|{{Highest-grossing films franchise|type=series|title=Deadpool series|sub=y|number=3|highest=Deadpool & Wolverine|gross={{Inflation|US|636745858|2024}}
+<!--GROSSES-->
+|[[Deadpool & Wolverine]] ''(2024)''
+|{{Inflation|US|636745858|2024}}
+|[[Deadpool (film)|Deadpool]] ''(2016)''
+|{{Inflation|US|396285410|2020}}
+|[[Deadpool 2]] ''(2018)''
+|{{Inflation|US|325203653|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|title=Wolverine series|sub=y|number=3|highest=Logan|gross={{Inflation|US|239574971|2020}}
+<!--GROSSES-->
+|[[Logan (film)|Logan]] ''(2017)''
+|{{Inflation|US|239574971|2020}}
+|[[X-Men Origins: Wolverine|Origins: Wolverine]] ''(2009)''
+|{{Inflation|US|225938810|2020}}
+|[[The Wolverine (film)|The Wolverine]] ''(2013)''
+|{{Inflation|US|158314583|2020}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The New Mutants (film)|The New Mutants]] ''(2020)''|total={{Inflation|US|23852659|2020}}}}
+}}
+|-
+|colspan="6"|
+{{Highest-grossing films franchise|type=franchise|rank=8|title=[[Jurassic Park]]|total={{#expr:<!--JURASSIC PARK TRILOGY-->{{#expr:({{Inflation|US|860163189|2020}}+<!--2023-->{{Inflation|US|2970355|2023}})+{{Inflation|US|467656700|2020}}+{{Inflation|US|299926204|2020}}+<!--JURASSIC WORLD-->{{#expr:({{Inflation|US|719633803|2020}}+{{Inflation|US|115000|2021}})+{{Inflation|US|430497154|2020}}+{{Inflation|US|376851080|2022}}+339640400}}}}}}|number=7|highest=Jurassic Park|gross={{#expr:{{Inflation|US|860163189|2020}}+<!--2023-->{{Inflation|US|2970355|2023}}}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Jurassic World series|number=4|highest=Jurassic World|gross={{#expr:{{Inflation|US|719633803|2020}}+{{Inflation|US|115000|2021}}}}
+<!--GROSSES-->
+|[[Jurassic World]] ''(2015)''
+|{{#expr:{{Inflation|US|719633803|2020}}+{{Inflation|US|115000|2021}}}}
+|[[Jurassic World: Fallen Kingdom|Fallen Kingdom]] ''(2018)''
+|{{Inflation|US|430497154|2020}}
+|[[Jurassic World Dominion|Dominion]] ''(2022)''
+|{{Inflation|US|376851080|2022}}
+|[[Jurassic World Rebirth|Rebirth]] ''(2025)''
+|339640400
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Jurassic Park trilogy|number=3|highest=Jurassic Park|gross={{#expr:{{Inflation|US|860163189|2020}}+<!--2023-->{{Inflation|US|2970355|2023}}}}
+<!--GROSSES-->
+|[[Jurassic Park (film)|Jurassic Park]] ''(1993)''
+|{{#expr:{{Inflation|US|860163189|2020}}+<!--2023-->{{Inflation|US|2970355|2023}}}}
+|[[The Lost World: Jurassic Park|The Lost World]] ''(1997)''
+|{{Inflation|US|467656700|2020}}
+|[[Jurassic Park III]] ''(2001)''
+|{{Inflation|US|299926204|2020}}
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=9|title=[[DC Extended Universe]]|number=15|highest=Wonder Woman|gross={{Inflation|US|432354288|2020}}
+<!--GROSSES-->
+|[[Wonder Woman (2017 film)|Wonder Woman]] ''(2017)''
+|{{Inflation|US|432354288|2020}}
+|[[Batman v Superman: Dawn of Justice]] ''(2016)''
+|{{Inflation|US|358501822|2020}}
+|[[Suicide Squad (2016 film)|Suicide Squad]] ''(2016)''
+|{{Inflation|US|357738167|2020}}
+|[[Aquaman (film)|Aquaman]] ''(2018)''
+|{{Inflation|US|348133917|2020}}
+|[[Man of Steel (film)|Man of Steel]] ''(2013)''
+|{{Inflation|US|330297185|2020}}
+|[[Justice League (film)|Justice League]] ''(2017)''
+|{{Inflation|US|233774941|2020}}
+|[[Black Adam (film)|Black Adam]] ''(2022)''
+|{{Inflation|US|168152111|2022}}
+|[[Shazam! (film)|Shazam!]] ''(2019)''
+|{{Inflation|US|145979915|2020}}
+|[[Aquaman and the Lost Kingdom]] ''(2023)''
+|{{Inflation|US|124481226|2023}}
+|[[The Flash (film)|The Flash]] ''(2023)''
+|{{Inflation|US|108133313|2023}}
+|[[Birds of Prey (2020 film)|Birds of Prey]] ''(2020)''
+|{{Inflation|US|84158461|2020}}
+|[[Blue Beetle (film)|Blue Beetle]] ''(2023)''
+|{{Inflation|US|72488072|2023}}
+|[[The Suicide Squad (film)|The Suicide Squad]] ''(2021)''
+|{{Inflation|US|55817425|2021}}
+|[[Shazam! Fury of the Gods]] ''(2023)''
+|{{Inflation|US|57638006|2023}}
+|[[Wonder Woman 1984]] ''(2020)''
+|{{Inflation|US|46801036|2020}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=10|title=[[Avengers in other media|Avengers]] †|number=4|highest=Endgame|gross={{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40091750}}|release=01
+<!--GROSSES-->
+|[[Avengers: Endgame|Endgame]] ''(2019)'' †
+|{{#expr:{{Inflation|US|892669593|2020}}+<!--2026-->40091750}}
+|[[The Avengers (2012 film)|The Avengers]] ''(2012)''
+|{{Inflation|US|720376844|2020}}
+|[[Avengers: Infinity War|Infinity War]] ''(2018)''
+|{{Inflation|US|678572589|2020}}
+|[[Avengers: Age of Ultron|Age of Ultron]] ''(2015)''
+|{{Inflation|US|499902618|2020}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=11|title=[[Middle-earth in film|Middle-earth]]|total={{#expr:<!--LOTR TRILOGY-->2053935195+<!--HOBBIT TRILOGY-->1170663243+<!--1978-->{{Inflation|US|30471420|1978}}+<!--ROHIRRIM-->{{Inflation|US|9158572|2024}}}}|number=8|highest=The Lord of the Rings: The Return of the King|gross={{#expr:{{Inflation|US|577563989|2020}}+{{Inflation|US|1176085|2023}}+<!--2024-->{{Inflation|US|2450927|2024}}+<!--2026-->3971340}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=[[Middle-earth in film#Peter Jackson's film series|Peter Jackson series]]|total={{#expr:<!--LOTR TRILOGY-->2053935195+<!--HOBBIT TRILOGY-->1170663243}}|number=6|highest=The Lord of the Rings: The Return of the King|gross={{#expr:{{Inflation|US|577563989|2020}}+{{Inflation|US|1176085|2023}}+{{Inflation|US|2450927|2024}}+<!--2026-->3971340}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[The Lord of the Rings (film series)|The Lord of the Rings]]|number=3|highest=The Return of the King|gross={{#expr:{{Inflation|US|577563989|2020}}+{{Inflation|US|1176085|2023}}+{{Inflation|US|2450927|2024}}+<!--2026-->3971340}}
+|[[The Lord of the Rings: The Return of the King|The Return of the King]] ''(2003)''
+|{{#expr:{{Inflation|US|577563989|2020}}+{{Inflation|US|1176085|2023}}+{{Inflation|US|2450927|2024}}+<!--2026-->3971340}}
+|[[The Lord of the Rings: The Two Towers|The Two Towers]] ''(2002)''
+|{{#expr:{{Inflation|US|540886998|2020}}+{{Inflation|US|2566412|2024}}+<!--2026-->4093642}}
+|[[The Lord of the Rings: The Fellowship of the Ring|The Fellowship of the Ring]] ''(2001)''
+|{{#expr:{{Inflation|US|513469441|2020}}+<!--2024-->{{Inflation|US|3256658|2024}}+<!--2026-->5940331}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[The Hobbit (film series)|The Hobbit]]|number=3|highest=An Unexpected Journey|gross={{Inflation|US|354501769|2020}}
+|[[The Hobbit: An Unexpected Journey|An Unexpected Journey]] ''(2012)''
+|{{Inflation|US|354501769|2020}}
+|[[The Hobbit: The Desolation of Smaug|The Desolation of Smaug]] ''(2013)''
+|{{Inflation|US|295296487|2020}}
+|[[The Hobbit: The Battle of the Five Armies|The Battle of the Five Armies]] ''(2014)''
+|{{Inflation|US|291209293|2020}}
+}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Lord of the Rings (1978 film)|The Lord of the Rings]] ''(1978)''|total={{Inflation|US|30471420|1978}}}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Lord of the Rings: The War of the Rohirrim]] ''(2024)''|total={{Inflation|US|9158572|2024}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=12|title=[[Star Trek (film series)|Star Trek]]|total={{#expr:<!--ORIGINAL-->{{#expr:{{Inflation|US|307436259|2020}}+<!--KHAN-->{{#expr:{{Inflation|US|251501107|2020}}+{{Inflation|US|794943|2022}}}}+{{Inflation|US|213253704|2020}}+{{Inflation|US|270511900|2020}}+{{Inflation|US|52210049|1989}}+{{Inflation|US|167682709|2020}}}}+<!--TNG-->{{#expr:{{Inflation|US|169085398|2020}}+{{Inflation|US|194346918|2020}}+{{Inflation|US|70187658|1998}}+{{Inflation|US|43254409|2002}}}}+<!--KELVIN-->{{#expr:{{Inflation|US|323714760|2020}}+{{Inflation|US|256601198|2020}}+{{Inflation|US|174878869|2020}}}}}}|number=13|highest=Star Trek|gross={{Inflation|US|323714760|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=The Original Series|number=6|highest=The Motion Picture|gross={{Inflation|US|307436259|2020}}
+<!--GROSSES-->
+|[[Star Trek: The Motion Picture|The Motion Picture]] ''(1979)''
+|{{Inflation|US|307436259|2020}}
+|[[Star Trek IV: The Voyage Home|IV: The Voyage Home]] ''(1986)''
+|{{Inflation|US|270511900|2020}}
+|[[Star Trek II: The Wrath of Khan|II: The Wrath of Khan]] ''(1982)''
+|{{#expr:{{Inflation|US|251501107|2020}}+{{Inflation|US|794943|2022}}}}
+|[[Star Trek III: The Search for Spock|III: The Search for Spock]] ''(1984)''
+|{{Inflation|US|213253704|2020}}
+|[[Star Trek VI: The Undiscovered Country|VI: The Undiscovered Country]] ''(1991)''
+|{{Inflation|US|167682709|2020}}
+|[[Star Trek V: The Final Frontier|V: The Final Frontier]] ''(1989)''
+|{{Inflation|US|52210049|1989}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Kelvin Timeline|number=3|highest=Star Trek|gross={{Inflation|US|323714760|2020}}
+<!--GROSSES-->
+|[[Star Trek (2009 film)|Star Trek]] ''(2009)''
+|{{Inflation|US|323714760|2020}}
+|[[Star Trek Into Darkness|Into Darkness]] ''(2013)''
+|{{Inflation|US|256601198|2020}}
+|[[Star Trek Beyond|Beyond]] ''(2016)''
+|{{Inflation|US|174878869|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=The Next Generation|number=4|highest=First Contact|gross={{Inflation|US|194346918|2020}}
+<!--GROSSES-->
+|[[Star Trek: First Contact|First Contact]] ''(1996)''
+|{{Inflation|US|194346918|2020}}
+|[[Star Trek Generations|Generations]] ''(1994)''
+|{{Inflation|US|169085398|2020}}
+|[[Star Trek: Insurrection|Insurrection]] ''(1998)''
+|{{Inflation|US|70187658|1998}}
+|[[Star Trek: Nemesis|Nemesis]] ''(2002)''
+|{{Inflation|US|43254409|2002}}
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=13|title=[[Superman in film|Superman]]|total={{#expr:<!--ORIGINALS-->{{#expr:{{Inflation|US|537688080|2020}}+{{Inflation|US|364640109|2020}}+{{Inflation|US|178328903|2020}}+{{Inflation|US|15681020|1987}}}}+<!--SUPERGIRL-->{{Inflation|US|14296438|1984}}+<!--RETURNS-->{{Inflation|US|286222579|2020}}+<!--DCEU-->{{#expr:{{Inflation|US|330297185|2020}}+{{Inflation|US|358501822|2020}}+<!--DCU-->354184465+<!--SUPERGIRL 26-->72366532}}}}|number=10|highest=Superman (1978)|gross={{Inflation|US|537688080|2020}}
+|{{Highest-grossing films franchise|type=franchise|sub=y|title=[[Superman in film#Original motion picture series|Original series]]|total={{#expr:<!--REEVE-->{{#expr:{{Inflation|US|537688080|2020}}+{{Inflation|US|364640109|2020}}+{{Inflation|US|178328903|2020}}+{{Inflation|US|15681020|1987}}}}+<!--SUPERGIRL-->{{Inflation|US|14296438|1984}}}}|number=5|highest=Superman|gross={{Inflation|US|537688080|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Christopher Reeve films|number=4|highest=Superman|gross={{Inflation|US|537688080|2020}}
+<!--GROSSES-->
+|[[Superman (1978 film)|Superman]] ''(1978)''
+|{{Inflation|US|537688080|2020}}
+|[[Superman II]] ''(1980)''
+|{{Inflation|US|364640109|2020}}
+|[[Superman III]] ''(1983)''
+|{{Inflation|US|178328903|2020}}
+|[[Superman IV: The Quest for Peace|The Quest for Peace]] ''(1987)''
+|{{Inflation|US|15681020|1987}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Supergirl (1984 film)|Supergirl]] ''(1984)''|total={{Inflation|US|14296438|1984}}}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Superman in film#DC Extended Universe (2013–2023)|DC Extended Universe]]|number=2|highest=Batman v Superman: Dawn of Justice|gross={{Inflation|US|358501822|2020}}
+<!--GROSSES-->
+|[[Batman v Superman: Dawn of Justice]] ''(2016)''
+|{{Inflation|US|358501822|2020}}
+|[[Man of Steel (film)|Man of Steel]] ''(2013)''
+|{{Inflation|US|330297185|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[DC Universe (franchise)|DC Universe]]|number=2|highest=Superman|gross=354184465
+<!--GROSSES-->
+|[[Superman (2025 film)|Superman]] ''(2025)''
+|354184465
+|[[Supergirl (2026 film)|Supergirl]] ''(2026)'' 
+|72366532
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Superman Returns]] ''(2006)''|total={{Inflation|US|286222579|2020}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|rank=14|title=[[Indiana Jones]]|number=5|highest=Raiders of the Lost Ark|gross={{Inflation|US|829651658|2020}}
+<!--GROSSES-->
+|[[Raiders of the Lost Ark]] ''(1981)''
+|{{Inflation|US|829651658|2020}}
+|[[Indiana Jones and the Temple of Doom|Temple of Doom]] ''(1984)''
+|{{Inflation|US|501602336|2020}}
+|[[Indiana Jones and the Last Crusade|Last Crusade]] ''(1989)''
+|{{Inflation|US|463032605|2020}}
+|[[Indiana Jones and the Kingdom of the Crystal Skull|Kingdom of the Crystal Skull]] ''(2008)''
+|{{Inflation|US|413821365|2020}}
+|[[Indiana Jones and the Dial of Destiny|Dial of Destiny]] ''(2023)''
+|{{Inflation|US|174480468|2023}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=15|title=[[Toy Story (franchise)|Toy Story]]|total={{#expr:<!--MAIN-->{{#expr:{{Inflation|US|449576348|2020}}+<!--2025-->{{Inflation|US|6721383|2025}}+{{Inflation|US|448228005|2020}}+{{Inflation|US|499790178|2020}}+{{Inflation|US|451340719|2020}}+480294461}}+<!--LIGHTYEAR-->+{{Inflation|US|118307188|2022}}}}|number=6|highest=Toy Story 3|gross={{Inflation|US|499790178|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=5|highest=Toy Story 3|gross={{Inflation|US|499790178|2020}}
+<!--GROSSES-->
+|[[Toy Story 3]] ''(2010)''
+|{{Inflation|US|499790178|2020}}
+|[[Toy Story]] ''(1995)''
+|{{#expr:{{Inflation|US|449576348|2020}}+<!--2025-->{{Inflation|US|6721383|2025}}}}
+|[[Toy Story 4]] ''(2019)''
+|{{Inflation|US|451340719|2020}}
+|[[Toy Story 2]] ''(1999)''
+|{{Inflation|US|448228005|2020}}
+|[[Toy Story 5]] ''(2026)''
+|480294461
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Lightyear (film)|Lightyear]] ''(2022)''|total={{Inflation|US|118307188|2022}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=16|title=[[Fast & Furious]]|total={{#expr:<!--MAIN SERIES-->{{#expr:{{Inflation|US|239272320|2020}}+<!--2026-->4427900+{{Inflation|US|197585190|2020}}+{{Inflation|US|62514415|2006}}+{{Inflation|US|194765757|2020}}+{{Inflation|US|243976060|2020}}+{{Inflation|US|267476020|2020}}+{{Inflation|US|384393006|2020}}+{{Inflation|US|236615925|2020}}+{{Inflation|US|173005945|2021}}+{{Inflation|US|145960660|2023}}}}+<!--HOBBS-->{{Inflation|US|180841937|2020}}}}|number=11|highest=Furious 7|gross={{Inflation|US|384393006|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[The Fast Saga]]|number=10|highest=Furious 7|gross={{Inflation|US|384393006|2020}}
+<!--GROSSES-->
+|[[Furious 7]] ''(2015)''
+|{{Inflation|US|384393006|2020}}
+|[[Fast & Furious 6]] ''(2013)''
+|{{Inflation|US|267476020|2020}}
+|[[Fast Five]] ''(2011)''
+|{{Inflation|US|243976060|2020}}
+|[[The Fast and the Furious (2001 film)|The Fast and the Furious]] ''(2001)''
+|{{#expr:{{Inflation|US|239272320|2020}}+<!--2026-->4427900}}
+|[[The Fate of the Furious]] ''(2017)''
+|{{Inflation|US|236615925|2020}}
+|[[2 Fast 2 Furious]] ''(2003)''
+|{{Inflation|US|197585190|2020}}
+|[[Fast & Furious (2009 film)|Fast & Furious]] ''(2009)''
+|{{Inflation|US|194765757|2020}}
+|[[F9 (film)|F9]] ''(2021)''
+|{{Inflation|US|173005945|2021}}
+|[[Fast X]] ''(2023)''
+|{{Inflation|US|145960660|2023}}
+|[[The Fast and the Furious: Tokyo Drift|Tokyo Drift]] ''(2006)''
+|{{Inflation|US|62514415|2006}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[Hobbs & Shaw]] ''(2019)''|total={{Inflation|US|180841937|2020}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=17|title=[[Shrek (franchise)|Shrek]]|total={{#expr:<!--SHREK-->{{#expr:{{Inflation|US|443461332|2020}}+<!--2026-->1792870}}+{{#expr:{{Inflation|US|665746933|2020}}+<!--2024-->{{Inflation|US|3551395|2024}}}}+{{Inflation|US|439518590|2020}}+{{Inflation|US|284201470|2020}}+<!--PUSS-->{{#expr:{{Inflation|US|178555657|2020}}+{{Inflation|US|185530865|2022}}}}}}|number=6|highest=Shrek 2|gross={{#expr:{{Inflation|US|665746933|2020}}+<!--2024-->{{Inflation|US|3551395|2024}}}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Shrek (franchise)#Films|Main series]]|number=4|highest=Shrek 2|gross={{#expr:{{Inflation|US|665746933|2020}}+<!--2024-->{{Inflation|US|3551395|2024}}}}
+<!--GROSSES-->
+|[[Shrek 2]] ''(2004)''
+|{{#expr:{{Inflation|US|665746933|2020}}+<!--2024-->{{Inflation|US|3551395|2024}}}}
+|[[Shrek]] ''(2001)''
+|{{#expr:{{Inflation|US|443461332|2020}}+<!--2026-->1792870}}
+|[[Shrek the Third]] ''(2007)''
+|{{Inflation|US|439518590|2020}}
+|[[Shrek Forever After]] ''(2010)''
+|{{Inflation|US|284201470|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=[[Shrek (franchise)#Spin-offs|Puss in Boots series]]|number=2|highest=Puss in Boots|gross={{Inflation|US|178555657|2020}}
+<!--GROSSES-->
+|[[Puss in Boots (2011 film)|Puss in Boots]] ''(2011)''
+|{{Inflation|US|178555657|2020}}
+|[[Puss in Boots: The Last Wish|The Last Wish]] ''(2022)''
+|{{Inflation|US|185530865|2022}}
+}}
+}}
+|-
+|colspan="6"|
+{{Highest-grossing films franchise|type=franchise|rank=18|title=[[Despicable Me]]|total={{#expr:<!--DESPICABLE ME-->{{Inflation|US|305410465|2020}}+{{Inflation|US|439397717|2020}}+{{Inflation|US|277585313|2020}}+{{Inflation|US|361004205|2024}}+<!--MINIONS-->{{Inflation|US|381492054|2020}}+{{Inflation|US|369695210|2022}}+183171260}}|number=7|highest=Despicable Me 2|gross={{Inflation|US|439397717|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=4|highest=Despicable Me 2|gross={{Inflation|US|439397717|2020}}
+<!--GROSSES-->
+|[[Despicable Me 2]] ''(2013)''
+|{{Inflation|US|439397717|2020}}
+|[[Despicable Me (film)|Despicable Me]] ''(2010)''
+|{{Inflation|US|305410465|2020}}
+|[[Despicable Me 4]] ''(2024)''
+|{{Inflation|US|361004205|2024}}
+|[[Despicable Me 3]] ''(2017)''
+|{{Inflation|US|277585313|2020}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Minions series|number=3|highest=Minions|gross={{Inflation|US|381492054|2020}}
+<!--GROSSES-->
+|[[Minions (film)|Minions]] ''(2015)''
+|{{Inflation|US|381492054|2020}}
+|[[Minions: The Rise of Gru|The Rise of Gru]] ''(2022)''
+|{{Inflation|US|369695210|2022}}
+|[[Minions & Monsters]] ''(2026)''
+|183171260
+}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=19|title=[[Transformers (film series)|Transformers]]|total={{#expr:<!--MAIN-->{{#expr:{{Inflation|US|434787677|2020}}+{{Inflation|US|505051433|2020}}+{{Inflation|US|414724633|2020}}+{{Inflation|US|284619372|2020}}+{{Inflation|US|130168683|2017}}+{{Inflation|US|127195589|2018}}+{{Inflation|US|157066392|2023}}+{{Inflation|US|59054170|2024}}}}+<!--1986-->{{#expr:{{Inflation|US|5849647|1986}}+<!--2026-->4156531}}}}|number=9|highest=Revenge of the Fallen|gross={{Inflation|US|505051433|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=8|highest=Revenge of the Fallen|gross={{Inflation|US|505051433|2020}}
+<!--GROSSES-->
+|[[Transformers: Revenge of the Fallen|Revenge of the Fallen]] ''(2009)''
+|{{Inflation|US|505051433|2020}}
+|[[Transformers (film)|Transformers]] ''(2007)''
+|{{Inflation|US|434787677|2020}}
+|[[Transformers: Dark of the Moon|Dark of the Moon]] ''(2011)''
+|{{Inflation|US|414724633|2020}}
+|[[Transformers: Age of Extinction|Age of Extinction]] ''(2014)''
+|{{Inflation|US|284619372|2020}}
+|[[Transformers: The Last Knight|The Last Knight]] ''(2017)''
+|{{Inflation|US|130168683|2017}}
+|[[Transformers: Rise of the Beasts|Rise of the Beasts]] ''(2023)''
+|{{Inflation|US|157066392|2023}}
+|[[Bumblebee (film)|Bumblebee]] ''(2018)''
+|{{Inflation|US|127195589|2018}}
+|[[Transformers One|One]] ''(2024)''
+|{{Inflation|US|59054170|2024}}
+}}
+|{{Highest-grossing films franchise|type=film|sub=y|title=[[The Transformers: The Movie]] ''(1986)''|total={{#expr:{{Inflation|US|5849647|1986}}+<!--2026-->4156531}}}}
+}}
+|-
+| colspan="6" |
+{{Highest-grossing films franchise|type=franchise|rank=20|title=[[Rocky (film series)|Rocky]]|total={{#expr:<!--ROCKY-->{{#expr:{{Inflation|US|515724800|2020}}+{{Inflation|US|317990627|2020}}+{{Inflation|US|398348684|2020}}+{{Inflation|US|331579001|2020}}+{{Inflation|US|40946358|1990}}+{{Inflation|US|70270943|2006}}}}+<!--CREED-->{{#expr:{{Inflation|US|109767581|2015}}+{{Inflation|US|115715889|2018}}+{{Inflation|US|156248615|2023}}}}}}|number=9|highest=Rocky|gross={{Inflation|US|515724800|2020}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Main series|number=6|highest=Rocky|gross={{Inflation|US|515724800|2020}}
+<!--GROSSES-->
+|[[Rocky]] ''(1976)''
+|{{Inflation|US|515724800|2020}}
+|[[Rocky III]] ''(1982)''
+|{{Inflation|US|398348684|2020}}
+|[[Rocky IV]] ''(1985)''
+|{{Inflation|US|331579001|2020}}
+|[[Rocky II]] ''(1979)''
+|{{Inflation|US|317990627|2020}}
+|[[Rocky Balboa (film)|Rocky Balboa]] ''(2006)''
+|{{Inflation|US|70270943|2006}}
+|[[Rocky V]] ''(1990)''
+|{{Inflation|US|40946358|1990}}
+}}
+|{{Highest-grossing films franchise|type=series|sub=y|title=Creed series|number=3|highest=Creed III|gross={{Inflation|US|156248615|2023}}
+<!--GROSSES-->
+|[[Creed III]] ''(2023)''
+|{{Inflation|US|156248615|2023}}
+|[[Creed (film)|Creed]] ''(2015)''
+|{{Inflation|US|109767581|2015}}
+|[[Creed II]] ''(2018)''
+|{{Inflation|US|115715889|2018}}
+}}
+}}
+|}
+
+==See also==
+{{#invoke:Portal|portal|Film|United States|Canada}}
+*[[List of best-selling films in the United States]]
+*[[Lists of highest-grossing films]]
+*[[List of highest-grossing films in the United States by year]]
+*[[List of highest-grossing animated films in the United States and Canada]]
+
+==Notes==
+<references group="nb" />
+
+==References==
+<references />
+
+;{{note label|Franchise sources|§|§}}Franchise and series sources
+{{Refbegin|40em}}
+
+* ''Avengers''
+** {{#invoke:cite|web|title=Avengers - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=avengersfranchise.htm|access-date=May 11, 2018|work=Box Office Mojo}}
+* ''Batman''
+** {{#invoke:cite|web|title=Batman - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=batman.htm|access-date=June 1, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=Catwoman (2004)|url=https://www.boxofficemojo.com/movies/?id=catwoman.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+** "Big Rental Pictures of 1966", ''Variety'', 4 January 1967 p 8
+* ''DC Extended Universe''
+** {{#invoke:cite|web|title=DC Extended Universe - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=dc.htm|access-date=January 23, 2018|work=Box Office Mojo}}
+* ''The Fast and the Furious''
+** {{#invoke:cite|web|title=The Fast and the Furious - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=fastandthefurious.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+* ''Indiana Jones''
+** {{#invoke:cite|web|title=Indiana Jones - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=indianajones.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=Raiders of the Lost Ark (1981)|url=https://www.boxofficemojo.com/movies/?page=releases&id=raidersofthelostark.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+* ''James Bond''
+** {{#invoke:cite|web|title=James Bond - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=jamesbond.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=Casino Royale (1967) |work=The Numbers |publisher=Nash Information Services |url=https://www.the-numbers.com/movies/1967/0CARO.php |access-date=August 26, 2015}}
+* ''Jurassic Park''
+** {{#invoke:cite|web|title=Jurassic Park - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=jurassicpark.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=Jurassic Park (1993)|url=https://www.boxofficemojo.com/movies/?page=releases&id=jurassicpark.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+* ''Marvel Cinematic Universe''
+** {{#invoke:cite|web|title=Marvel Cinematic Universe - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=avengers.htm|access-date=August 6, 2016|work=Box Office Mojo}}
+* ''Middle-earth''
+** {{#invoke:cite|web|title=Middle Earth - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=middleearth.htm|access-date=January 26, 2017|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=The Lord of the Rings - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=lordoftherings.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=The Lord of the Rings: The Fellowship of the Ring (2001)|url=https://www.boxofficemojo.com/movies/?page=releases&id=fellowshipofthering.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=The Lord of the Rings: The Two Towers (2002)|url=https://www.boxofficemojo.com/movies/?page=releases&id=twotowers.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=The Lord of the Rings: The Return of the King (2003)|url=https://www.boxofficemojo.com/movies/?page=releases&id=returnoftheking.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+* ''Pirates of the Caribbean''
+** {{#invoke:cite|web|title=Pirates of the Caribbean - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=piratesofthecaribbean.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+* ''Rocky''
+** {{#invoke:cite|web|title=Rocky - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=rocky.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+* ''Shrek''
+** {{#invoke:cite|web|title=Shrek - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=shrek.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+* ''Spider-Man''
+** {{#invoke:cite|web|title=Spider-Man - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=spiderman.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=Venom (2018)|url=https://www.boxofficemojo.com/movies/?id=venom2018.htm|access-date=October 14, 2018|work=Box Office Mojo}}
+* ''Star Trek''
+** {{#invoke:cite|web|title=Star Trek - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=startrek.htm|access-date=October 16, 2016|work=Box Office Mojo}}
+* ''Star Wars''
+** {{#invoke:cite|web|title=Star Wars - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=starwars.htm|access-date=June 1, 2016|work=Box Office Mojo}}
+* ''Superman''
+** {{#invoke:cite|web|title=Superman - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=superman.htm|access-date=June 1, 2016|work=Box Office Mojo}}
+** {{#invoke:cite|web|title=Supergirl (1984)|url=https://www.boxofficemojo.com/movies/?id=supergirl.htm|access-date=August 26, 2015|work=Box Office Mojo}}
+* ''Toy Story''
+** {{#invoke:cite|web|title=Toy Story - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=toystory.htm|access-date=July 7, 2019|work=Box Office Mojo}}
+* ''Transformers''
+** {{#invoke:cite|web|title=Transformers - Adjusted for Ticket Price Inflation|url=https://boxofficemojo.com/franchises/chart/?id=transformers.htm|access-date=April 22, 2016|work=Box Office Mojo}}
+* ''Wizarding World''
+** {{#invoke:cite|web|title=J.K. Rowling's Wizarding World - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=jkrowling.htm|access-date=November 18, 2016|work=Box Office Mojo}}
+* ''X-Men''
+** {{#invoke:cite|web|title=X-Men - Adjusted for Ticket Price Inflation|url=https://www.boxofficemojo.com/franchises/chart/?id=xmen.htm|access-date=June 22, 2016|work=Box Office Mojo}}
+{{Refend}}
+
+==External links==
+* {{#invoke:cite|web| url = https://www.the-numbers.com/movies/records/index.php#alltime | title = All Time North American Domestic Top 20 | publisher = The Numbers | access-date = June 16, 2012}}
+* {{#invoke:cite|web| url= https://us.imdb.com/boxoffice/alltimegross | title= All-Time Box Office: USA | publisher= [[Internet Movie Database]] | access-date= June 16, 2012 | archive-date= January 18, 2009 | archive-url= https://web.archive.org/web/20090118085143/https://us.imdb.com/boxoffice/alltimegross | url-status= dead }}
+
+{{Film box office}}
+{{Cinema of the United States}}
+
+[[Category:American film-related lists|Highest-grossing]]
+[[Category:Canadian film-related lists|Highest-grossing]]
+[[Category:Lists of American films|Highest-grossing]]
+[[Category:Lists of Canadian films|Highest-grossing]]
+[[Category:Lists of highest-grossing films by region|United States and Canada]]

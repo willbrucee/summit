@@ -16,6 +16,7 @@ import { variants, shortenings, initialism, goodWikidataAlias, acceptAliases, ex
 import { matchWikidata } from './wikidata-match.mjs';
 import { groupAnswers } from './groups.mjs';
 import { NOUNS } from './nouns.mjs';
+import { LISTS } from './lists.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const raw = (name) => JSON.parse(readFileSync(join(ROOT, 'data/raw', name + '.json'), 'utf8')).results.bindings;
@@ -99,6 +100,94 @@ function wikidataAnswers(kind, id) {
   }
 }
 
+// Wikipedia lists: each answer carries the Wikidata item found for its article title.
+const WIKI_ITEMS = existsSync(join(ROOT, 'data/raw/wiki-items.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/raw/wiki-items.json'), 'utf8')) : {};
+const normTitle = (t) => { const x = t.replace(/_/g, ' ').trim(); return x[0].toUpperCase() + x.slice(1); };
+const itemFor = (title) => (title ? WIKI_ITEMS[normTitle(title)] || null : null);
+// A label with a year or note in brackets can also be typed without it.
+const bareLabel = (label) => label.replace(/\s*\([^)]*\)\s*$/, '').trim();
+
+// Spelling slips in Wikidata descriptions, fixed so players never see them.
+const fixSpelling = (d) => d.replace(/\bcomapny\b/g, 'company').replace(/\brestaraunts\b/g, 'restaurants');
+
+// The item behind a Wikipedia title, with Wikidata's own aliases when the label cache has them.
+function wikiItem(a) {
+  const it = a.item;
+  const cached = WD ? (WD[a.label] || []).find((c) => c.q === it.q) : null;
+  const d = fixSpelling((it.d || '').replace(/\s*\((?:for|see|not|use)\b[^)]*\)/gi, '').trim());
+  return { q: it.q, sl: it.sl, d: /wikimedia|disambiguation/i.test(d) ? '' : d, y: it.y, s: cached ? cached.s : [], a: cached ? cached.a : [] };
+}
+
+function fromWiki(def) {
+  const list = LISTS[def.wiki];
+  if (!list) throw new Error(`${def.id}: no list called ${def.wiki} in build/lists.mjs`);
+  const curated = def.aliasList ? parseList(def.aliasList) : [];
+  const byKey = new Map();
+  for (const c of curated) for (const t of [c.label, ...c.aliases]) byKey.set(toKey(t), c);
+  const answers = list.answers().map((a) => {
+    const aliases = [...(a.aliases || [])];
+    if (bareLabel(a.label) !== a.label) aliases.push(bareLabel(a.label));
+    const c = byKey.get(toKey(a.label)) || byKey.get(toKey(bareLabel(a.label)));
+    if (c) aliases.push(...[c.label, ...c.aliases].filter((t) => toKey(t) !== toKey(a.label)));
+    return { label: a.label, aliases, from: a.from, item: itemFor(a.title) };
+  });
+  // Lists can name one thing twice (a chart's own spelling, a typo that redirects): same item, one answer.
+  const byItem = new Map();
+  const merged = [];
+  for (const a of answers) {
+    const prev = a.item ? byItem.get(a.item.q) : null;
+    if (prev) { prev.aliases.push(a.label, ...a.aliases); continue; }
+    if (a.item) byItem.set(a.item.q, a);
+    merged.push(a);
+  }
+  answers.length = 0;
+  answers.push(...merged);
+  const outside = list.outside ? list.outside().map((a) => ({ label: a.label, aliases: bareLabel(a.label) !== a.label ? [bareLabel(a.label)] : [] })) : [];
+  return { answers, outside, source: `Wikipedia: ${list.pages.slice(0, 3).join('; ')}${list.pages.length > 3 ? ` and ${list.pages.length - 3} more` : ''} (${list.year})` };
+}
+
+function sourceAnswers(def) {
+  if (def.parts) {
+    const parts = def.parts.map((part) => sourceAnswers({ ...part, id: def.id }));
+    return {
+      answers: parts.flatMap((p, i) => p.answers.map((a) => ({ ...a, from: def.parts[i].from }))),
+      outside: parts.flatMap((p) => p.outside || []),
+      source: parts.map((p, i) => `${def.parts[i].from}: ${p.source}`).join(' + '),
+    };
+  }
+  if (def.wiki) return fromWiki(def);
+  if (def.list) return { answers: parseList(def.list), source: 'Curated list' };
+  if (def.union) {
+    return { answers: def.union.flatMap((list, i) => parseList(list).map((a) => ({ ...a, from: def.unionNames[i] }))), source: 'Curated: union of the mammal, bird, reptile, fish, insect and sea creature lists' };
+  }
+  if (def.countries) return { answers: fromCountries(def.countries), source: 'Curated country table (build/curated/countries.mjs)' };
+  if (def.capitals) return { answers: fromCapitals(def.capitals), source: 'Curated country table, capitals column' };
+  return { answers: wikidataAnswers(def.wikidata, def.id), source: `Wikidata (data/raw/${def.wikidata === 'metals' || def.wikidata === 'element_symbols' ? 'elements' : def.wikidata}.json)` };
+}
+
+// ---------- knowability ----------
+
+// Fame is measured by Wikidata sitelinks: how many language editions of Wikipedia (and sister
+// projects) cover the thing; 20 or more counts as widely known. Everyday words with no useful
+// item (colours, weather, body parts) count as known when they are among the 25,000 most used
+// English words (OpenSubtitles 2018 list).
+const MIN_ANSWERS = 60;
+const MIN_KNOWN = 40;
+const KNOWN_SITELINKS = 20;
+const FREQ = new Map();
+if (existsSync(join(ROOT, 'data/raw/en_50k.txt'))) readFileSync(join(ROOT, 'data/raw/en_50k.txt'), 'utf8').split('\n').forEach((l, i) => { const w = l.split(' ')[0]; if (w && !FREQ.has(w)) FREQ.set(w, i + 1); });
+const commonWord = (w) => /^[a-z]+$/i.test(w) && (FREQ.get(w.toLowerCase()) || Infinity) <= 25000;
+// Everyday-noun topics also count short phrases made only of common words ("apple pie").
+const PHRASE_TOPICS = new Set(['food', 'animals', 'science', 'words']);
+function isKnown(a, def) {
+  if (a.wd && a.wd.sl >= KNOWN_SITELINKS) return true;
+  if (def.wiki) return false;
+  const words = a.label.split(/[\s-]+/);
+  if (words.length === 1) return commonWord(words[0]);
+  return PHRASE_TOPICS.has(def.category) && words.length <= 3 && words.every(commonWord);
+}
+const uniqBy = (list, key) => { const seen = new Set(); return list.filter((x) => { const k = key(x); if (seen.has(k)) return false; seen.add(k); return true; }); };
+
 // ---------- overrides ----------
 
 const overridesPath = join(ROOT, 'data/overrides.json');
@@ -147,16 +236,8 @@ const out = [];
 
 for (const def of PROMPTS) {
   const log = [];
-  let answers;
-  let source;
-  if (def.list) { answers = parseList(def.list); source = 'Curated list'; }
-  else if (def.union) {
-    answers = def.union.flatMap((list, i) => parseList(list).map((a) => ({ ...a, from: def.unionNames[i] })));
-    source = 'Curated: union of the mammal, bird, reptile, fish, insect and sea creature lists';
-  } else if (def.countries) { answers = fromCountries(def.countries); source = 'Curated country table (build/curated/countries.mjs)'; }
-  else if (def.capitals) { answers = fromCapitals(def.capitals); source = 'Curated country table, capitals column'; }
-  else { answers = wikidataAnswers(def.wikidata, def.id); source = `Wikidata (data/raw/${def.wikidata === 'metals' || def.wikidata === 'element_symbols' ? 'elements' : def.wikidata}.json)`; }
-
+  const { answers: sourced, source, outside } = sourceAnswers(def);
+  let answers = sourced;
   answers = applyOverrides(def.id, answers.map((a) => ({ ...a, aliases: [...a.aliases] })), log);
 
   // Merge entries with the same label (the union list repeats animals on purpose).
@@ -171,7 +252,7 @@ for (const def of PROMPTS) {
       if (!def.union) log.push(`duplicate merged: "${a.label}"`);
       continue;
     }
-    const entry = { label: a.label, aliases: [...a.aliases], hint: a.hint, z: a.z, from: a.from };
+    const entry = { label: a.label, aliases: [...a.aliases], hint: a.hint, z: a.z, from: a.from, item: a.item };
     byKey.set(k, entry);
     merged.push(entry);
   }
@@ -188,7 +269,9 @@ for (const def of PROMPTS) {
   const extra = [];
   const userAliases = { ...(ALIASES.global || {}), ...((ALIASES.prompts || {})[def.id] || {}) };
   merged.forEach((a, i) => { for (const t of userAliases[a.label] || []) extra.push({ answer: i, text: t, src: 'a' }); });
-  const wd = WD ? matchWikidata(merged, WD, def.id) : merged.map((a) => (PICKED[def.id] || {})[a.label] || null);
+  // Wikipedia-list answers already know their item; the rest are matched by label and class.
+  const byLabel = WD ? matchWikidata(merged, WD, def.id) : merged.map((a) => (PICKED[def.id] || {})[a.label] || null);
+  const wd = merged.map((a, i) => (a.item ? wikiItem(a) : byLabel[i]));
   picked[def.id] = {};
   merged.forEach((a, i) => { if (wd[i]) picked[def.id][a.label] = { ...wd[i], c: undefined }; });
   const allowShort = SHORT_OK.has(def.category) || SHORT_OK.has(def.id);
@@ -217,6 +300,8 @@ for (const def of PROMPTS) {
     a.year = a.wd ? a.wd.y : null;
     a.continent = x ? x.continent : null;
     a.born = x ? x.born : null;
+    // People from Wikipedia lists carry their birth year on the item itself.
+    if (a.born === null && a.item && def.groupBy === 'born') a.born = a.item.y;
   }
   const grouping = groupAnswers(def, merged, (name) => countries.find((c) => c.label === name));
   if (grouping.fallback) fallbackGroups.push(def.id);
@@ -256,17 +341,26 @@ for (const def of PROMPTS) {
     if (def.id === 'palindromes') { const k = toKey(a.label); if (k !== [...k].reverse().join('')) suspicious.push(`${a.label}: not a palindrome`); }
   }
 
-  // Validation rules.
-  if (def.finite && merged.length < 20) errors.push(`${def.id}: finite set has only ${merged.length} answers (minimum 20)`);
-  if (!def.finite && merged.length < 40) errors.push(`${def.id}: open set has only ${merged.length} answers (minimum 40)`);
+  // Knowability: answers an average adult has a fair chance of knowing.
+  const known = merged.map((a) => isKnown(a, def));
+  const knownCount = known.filter(Boolean).length;
+
+  // Validation rules: every prompt needs room to climb and enough answers people know.
+  if (merged.length < MIN_ANSWERS) errors.push(`${def.id}: only ${merged.length} answers (minimum ${MIN_ANSWERS})`);
+  if (knownCount < MIN_KNOWN) errors.push(`${def.id}: only ${knownCount} widely known answers (minimum ${MIN_KNOWN})`);
   if (def.id === 'animals' && merged.length < 150) errors.push(`${def.id}: needs 150+ answers`);
+
+  // Real things of the same kind that are not on the list, for a kinder "not on this list" message.
+  const answerKeys = new Set(merged.flatMap((a) => [a.label, ...a.aliases].map(toKey)));
+  const outsidePool = uniqBy((outside || []).filter((o) => o.label && ![o.label, ...o.aliases].some((t) => answerKeys.has(toKey(t)))), (o) => toKey(o.label));
 
   const prompt = {
     id: def.id,
     category: def.category,
     categoryName: CATEGORIES[def.category],
     text: def.text,
-    note: def.note || '',
+    note: (def.note || '').replace('{n}', merged.length.toLocaleString('en')),
+    ...(def.outsideLine ? { outsideLine: def.outsideLine } : {}),
     difficulty: def.difficulty,
     finite: def.finite,
     size: merged.length,
@@ -280,36 +374,33 @@ for (const def of PROMPTS) {
       ...(a.wd ? { qid: a.wd.q, fame: a.wd.sl, year: a.wd.y ?? undefined } : {}),
       desc: (a.wd && a.wd.d) || (a.hint && def.wikidata === 'element_symbols' ? `Symbol for ${a.hint.toLowerCase()}` : NOUNS[def.id]),
       ...(a.wd && a.wd.d ? {} : { descGeneric: true }),
+      ...(known[i] ? { known: true } : {}),
     })),
+    ...(outsidePool.length ? { outside: outsidePool.map((o) => ({ label: o.label, aliases: o.aliases })) } : {}),
   };
   out.push(prompt);
-  report.push({ id: def.id, groupBy: grouping.by, groupFallback: grouping.fallback, descriptions: merged.filter((a) => a.wd && a.wd.d).length, aliasCollisions, suggestions: suggestions.slice(0, 80), wikidataMatched: wd.filter(Boolean).length, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
+  report.push({ id: def.id, size: merged.length, known: knownCount, outside: outsidePool.length, topic: def.category, text: def.text, groupBy: grouping.by, groupFallback: grouping.fallback, descriptions: merged.filter((a) => a.wd && a.wd.d).length, aliasCollisions, suggestions: suggestions.slice(0, 80), wikidataMatched: wd.filter(Boolean).length, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
 }
 
-// Category rules: at least 12 categories with 10 prompts each.
+// Topic rules: enough easy geography for the daily opener, and every other topic able to fill a round.
 const perCat = {};
 for (const p of out) perCat[p.category] = (perCat[p.category] || 0) + 1;
-for (const [c, n] of Object.entries(perCat)) if (n < 10) errors.push(`category ${c} has only ${n} prompts (minimum 10)`);
+if (Object.keys(CATEGORIES)[0] !== 'geo') errors.push('geography must be the first topic (the game opens with topic t0)');
+const openers = out.filter((p) => p.category === 'geo' && p.difficulty <= 2).length;
+if (openers < 10) errors.push(`only ${openers} geography openers (minimum 10)`);
+for (const c of Object.keys(CATEGORIES)) if ((perCat[c] || 0) < 2) errors.push(`topic ${c} has only ${perCat[c] || 0} prompts (minimum 2)`);
 const ids = new Set();
 for (const p of out) { if (ids.has(p.id)) errors.push(`duplicate prompt id ${p.id}`); ids.add(p.id); if (!NOUNS[p.id]) errors.push(`${p.id}: no fallback description in build/nouns.mjs`); }
 
-// The game must not learn a prompt before its timer starts, so each prompt is filed under an opaque key.
+// The game must not learn a prompt before its timer starts, so each prompt is filed under an opaque key,
+// and the index the game loads holds only keys, a hidden topic number, difficulty and target.
 const keyOf = (id) => createHash('sha256').update('summit-prompt:' + id).digest('hex').slice(0, 12);
 for (const p of out) p.key = keyOf(p.id);
 console.log(`A to Z fallback groups: ${fallbackGroups.length} prompts`);
 if (WD) writeFileSync(PICKED_PATH, JSON.stringify(picked));
 writeFileSync(join(ROOT, 'data/prompts.json'), JSON.stringify({ version: 1, built: new Date().toISOString().slice(0, 10), categories: CATEGORIES, prompts: out }));
-// The game must not learn a prompt before its timer starts. Each prompt file gets an opaque key,
-// and the index the game loads holds only keys, a hidden topic number, difficulty and target.
 const TOPICS = Object.keys(CATEGORIES);
-rmSync(join(ROOT, 'data/p'), { recursive: true, force: true });
-mkdirSync(join(ROOT, 'data/p'));
-for (const p of out) writeFileSync(join(ROOT, 'data/p', p.key + '.json'), JSON.stringify(p));
-const index = out.map((p) => ({ id: p.key, category: `t${TOPICS.indexOf(p.category)}`, difficulty: p.difficulty, target: p.target }));
-writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ prompts: index }));
-writeFileSync(join(ROOT, 'data/qa-report.json'), JSON.stringify({ errors, prompts: report }, null, 1));
 
-// Schedule: keep every day already published, append new days at the end.
 const schedPath = join(ROOT, 'data/schedule.json');
 const existing = existsSync(schedPath) ? JSON.parse(readFileSync(schedPath, 'utf8')) : null;
 // Older schedules used readable ids; published days keep their prompts under the new keys.
@@ -318,6 +409,27 @@ if (existing) {
   for (const d of existing.days) d.prompts = d.prompts.map(toKeyId);
   existing.queue = existing.queue.map(toKeyId);
 }
+// Days up to today are published and never change. Later days are dealt again from the
+// current bank, so retired prompts stop appearing from tomorrow.
+const today = process.env.SUMMIT_TODAY || new Date().toISOString().slice(0, 10);
+if (existing) existing.days = existing.days.filter((d) => d.date <= today);
+const liveKeys = new Set(out.map((p) => p.key));
+const retiredKeys = new Set((existing ? existing.days : []).flatMap((d) => d.prompts).filter((k) => !liveKeys.has(k)));
+// A published day may use a prompt that has since been retired; its file stays so that day still plays.
+const retired = [];
+for (const k of retiredKeys) {
+  const f = join(ROOT, 'data/p', k + '.json');
+  if (existsSync(f)) retired.push(JSON.parse(readFileSync(f, 'utf8')));
+  else errors.push(`published day uses retired prompt ${k} and its file is gone`);
+}
+rmSync(join(ROOT, 'data/p'), { recursive: true, force: true });
+mkdirSync(join(ROOT, 'data/p'));
+for (const p of [...out, ...retired]) writeFileSync(join(ROOT, 'data/p', p.key + '.json'), JSON.stringify(p));
+const indexEntry = (p, extra = {}) => ({ id: p.key, category: `t${TOPICS.indexOf(p.category)}`, difficulty: p.difficulty, target: p.target, ...extra });
+const index = out.map((p) => indexEntry(p));
+writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ prompts: [...index, ...retired.map((p) => indexEntry(p, { retired: true }))] }));
+writeFileSync(join(ROOT, 'data/qa-report.json'), JSON.stringify({ errors, prompts: report, retired: retired.map((p) => p.id) }, null, 1));
+if (existing) existing.queue = existing.queue.filter((k) => liveKeys.has(k));
 const schedule = buildSchedule(index, existing, 730);
 writeFileSync(schedPath, JSON.stringify(schedule));
 

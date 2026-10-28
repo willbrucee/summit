@@ -2,9 +2,17 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { normalise, toKey, editDistance, buildIndex, match, canAutoAccept, allowedTypos } from '../js/matcher.js';
+import { variants } from '../build/aliases.mjs';
 
 const data = JSON.parse(readFileSync(new URL('../data/prompts.json', import.meta.url), 'utf8'));
 const indexes = new Map(data.prompts.map((p) => [p.id, buildIndex(p.answers)]));
+// Small fixed lists for matcher behaviour that no longer has a prompt of its own.
+const fixed = (labels) => buildIndex(labels.map((l, id) => { const [label, ...aliases] = l.split('|'); return { id, label, aliases }; }));
+indexes.set('nato-alphabet', fixed(['Alfa|Alpha', 'Bravo', 'Charlie', 'Delta', 'Echo', 'Foxtrot', 'Golf', 'Hotel', 'India', 'Juliett|Juliet', 'Kilo', 'Lima', 'Mike', 'November', 'Oscar', 'Papa', 'Quebec', 'Romeo', 'Sierra', 'Tango', 'Uniform', 'Victor', 'Whiskey', 'X-ray', 'Yankee', 'Zulu']));
+indexes.set('element-symbols', fixed(['H', 'He', 'Fe', 'Au', 'Ag', 'F', 'Pb']));
+// Monarch numbers, with the same number variants the build generates.
+indexes.set('monarchs', fixed(['Henry VII', 'Henry VIII', 'Elizabeth I', 'Elizabeth II', 'George III'].map((l) => [l, ...variants(l)].join('|'))));
+indexes.set('programming-languages', fixed(['C', 'C#', 'C++', 'F#', 'Python', 'Java', 'JavaScript']));
 const ix = (id) => indexes.get(id);
 
 // Label of the answer a guess lands on, or the result type when it misses.
@@ -98,16 +106,16 @@ const cases = [
   ['bands', 'the beatles', 'The Beatles'],
   ['mountains', 'Mt Fuji', 'Mount Fuji'],
   // Numbers never count as typos, Roman numerals have digit spellings
-  ['missions', 'Apollo 13', 'Apollo 13'],
-  ['missions', 'Apollo 18', 'wrong'],
-  ['pixar', 'Toy Story 6', 'wrong'],
+  ['animated-studios', 'Toy Story 4', 'Toy Story 4'],
+  ['animated-studios', 'Toy Story 6', 'wrong'],
+  ['box-office', 'Frozen 3', 'wrong'],
   ['monarchs', 'Henry 8', 'Henry VIII'],
   ['monarchs', 'henry viii', 'Henry VIII'],
   // Shared surnames hand out the next one
-  ['us-presidents', 'Bush', 'George H. W. Bush'],
-  ['us-presidents', 'Bush', 'George W. Bush', ['George H. W. Bush']],
-  ['us-presidents', 'Adams', 'John Quincy Adams', ['John Adams']],
-  ['us-presidents', 'JFK', 'John F. Kennedy'],
+  ['leaders', 'Bush', 'George H. W. Bush'],
+  ['leaders', 'Bush', 'George W. Bush', ['George H. W. Bush']],
+  ['leaders', 'Adams', 'John Quincy Adams', ['John Adams']],
+  ['leaders', 'JFK', 'John F. Kennedy'],
   // Spellings
   ['elements', 'Aluminum', 'Aluminium'],
   ['elements', 'sulphur', 'Sulfur'],

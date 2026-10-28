@@ -1,0 +1,1581 @@
+{{Short description|None}}
+{{Use mdy dates|date=July 2021}}
+{{Video games}}
+{{Dynamic list}}
+[[File:PS2-Versions.jpg|thumb|Original PlayStation 2 and Slimline PlayStation 2 with [[DualShock 2]] controller]]
+This is a list of video games for the [[PlayStation 2]] [[video game console]] that have sold or shipped at least one million copies. The best-selling game on the PlayStation 2 is ''[[Grand Theft Auto: San Andreas]]''. An [[action-adventure game]] developed by [[Rockstar North]], ''San Andreas'' was originally released in North America on October 26, 2004, and went on to sell 17.33{{nbsp}}million units worldwide. The second-best-selling game on the console is ''[[Gran Turismo 3: A-Spec]]'' (2001), which sold 14.89{{nbsp}}million units. The top five is rounded out by ''[[Grand Theft Auto: Vice City]]'' (2002) with 14.2{{nbsp}}million units, ''[[Gran Turismo 4]]'' (2004) with 11.75{{nbsp}}million units sold, and ''[[Metal Gear Solid 2: Sons of Liberty]]'' (2001) with 11.24{{nbsp}}million units sold.
+
+There are a total of 167 PlayStation 2 games on this list which are confirmed to have sold or shipped at least one million units. Of these, 30 were published in one or more regions by [[Sony Computer Entertainment]]. Other publishers with multiple million-selling games include [[EA Sports]] with twenty games, [[Electronic Arts]] with eighteen games, [[Capcom]] with fourteen games, [[Activision]] and [[THQ]] with twelve games each, and [[Konami]] with ten games. The developers with the most million-selling games include [[EA Tiburon]] with twelve games and Capcom and [[EA Canada]], with nine games each in the list of 113. The most popular franchises on PlayStation 2 include ''[[Grand Theft Auto]]'' ({{nowrap|44.83 million}} combined units), ''[[Gran Turismo (series)|Gran Turismo]]'' (29.61{{nbsp}}million combined units), ''[[Madden NFL]]'' (23.48{{nbsp}}million combined units), ''[[Final Fantasy]]'' ({{nowrap|21.15 million}} combined units), ''[[Metal Gear]]'' ({{nowrap|15.47 million}} combined units), and ''[[Pro Evolution Soccer]]'' ({{nowrap|13.16 million}} combined units). The oldest game on this list is ''[[Tekken Tag Tournament]]'', first released on the platform on March 30, 2000.
+
+As of March 31, 2012, a total of 1.537{{nbsp}}billion copies of PlayStation 2 software had been shipped worldwide.<ref>{{Cite web |title=Business Data & Sales |url=https://sonyinteractive.com/en/our-company/business-data-sales/ |access-date=2025-02-15 |website=Sony Interactive Entertainment |language=en-US}}</ref>
+
+==List==
+{{srn}}
+{| class="wikitable sortable static-row-numbers"
+|- class=static-row-header
+!scope="col" | Game
+!scope="col" | Copies sold
+!scope="col" | Release date{{efn|Only the initial release date on this platform is listed.}}
+!scope="col" | Genre(s)
+!scope="col" | Developer(s)
+!scope="col" | Publisher(s)
+|-
+| ''[[Grand Theft Auto: San Andreas]]''
+| {{val|17.33|u=million}}<ref name="guinness 2009">{{cite book|title=Guinness World Records 2009 Gamer's Edition|year=2010|pages=108–109|isbn=978-1904994459|quote=''GTA: San Andreas'' is the best-selling PlayStation 2 game of all time, with a massive 17.33 million copies sold. ''GTA: Vice City'' is the third biggest with 14.2 million, and ''GTA III'' is fourth with 11.6 million.|url=https://archive.org/details/guinnessworldrec0000unse_o9k7|url-access=registration|author1=Guinness}}</ref>{{efn|''Grand Theft Auto: San Andreas'' sales breakdown:
+* Japan {{ndash}} 557,132<ref name="gamedatalibrary">{{cite web |title=Game Search |url=https://sites.google.com/site/gamedatalibrary/game-search |website=Game Data Library |publisher=[[Famitsu]] |access-date=January 30, 2019 |archive-date=April 24, 2019 |archive-url=https://web.archive.org/web/20190424035430/https://sites.google.com/site/gamedatalibrary/game-search |url-status=live }}</ref>
+* United Kingdom {{ndash}} {{nowrap|1.75 million}}<ref name=":32">{{Cite web|last=Fahey|first=Rob|date=10 January 2005|title=San Andreas dominates 2004 as UK market grows 6.6 per cent|url=https://www.gamesindustry.biz/articles/san-andreas-dominates-2004-as-uk-market-grows-66-per-cent|access-date=2021-11-09|website=[[GamesIndustry.biz]]|archive-date=November 9, 2021|archive-url=https://web.archive.org/web/20211109074705/https://www.gamesindustry.biz/articles/san-andreas-dominates-2004-as-uk-market-grows-66-per-cent|url-status=live}}</ref>
+* United States {{ndash}} 7.89{{nbsp}}million<ref name="magicboxus">{{cite web|url=http://www.the-magicbox.com/Chart-USPlatinum.shtml |title=US Platinum Videogame Chart |publisher=The Magic Box |access-date=August 3, 2008 |date=December 27, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20080509132932/http://www.the-magicbox.com/Chart-USPlatinum.shtml |archive-date=May 9, 2008}}</ref>
+}}
+| {{dts|October 26, 2004}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North]]
+| {{vgrelease|WW|[[Rockstar Games]]|JP|[[Capcom]]}}
+|-
+| ''[[Gran Turismo 3: A-Spec]]''
+| {{val|14.89|u=million}}<ref name="gtsales">{{cite web|url=http://www.polyphony.co.jp/english/list.html |title=Polyphony Digital Inc. - Software Title List - |access-date=August 30, 2009 |publisher=[[Polyphony Digital]] |url-status=dead |archive-url=https://web.archive.org/web/20070206025009/http://www.polyphony.co.jp/english/list.html |archive-date=February 6, 2007}}</ref>{{efn|''Gran Turismo 3: A-Spec'' sales breakdown:
+* Asia {{ndash}} 1.9{{nbsp}}million<ref name="gtsales"/>
+* Europe {{ndash}} 5.85{{nbsp}}million<ref name="gtsales"/>
+* North America {{ndash}} 7.14{{nbsp}}million<ref name="gtsales"/>
+}}
+| {{dts|April 28, 2001}}
+| [[Racing video game|Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Grand Theft Auto: Vice City]]''
+| {{val|14.2|u=million}}<ref name="guinness 2009"/>{{efn|''Grand Theft Auto: Vice City'' sales breakdown:
+* Japan {{ndash}} 601,445<ref name="gamedatalibrary"/>
+* Germany {{ndash}} 200,000+<ref name="vudp">{{cite web |title=Platin-Award: Sony PlayStation 2 |url=http://www.vud.de/awards/platinps2.php3 |website=[[:de:Verband der Unterhaltungssoftware Deutschland|Verband der Unterhaltungssoftware Deutschland]] (VUD) |archive-url=https://web.archive.org/web/20030802232918/http://www.vud.de/awards/platinps2.php3 |archive-date=2003-08-02 |access-date=9 November 2021}}</ref>
+* United Kingdom {{ndash}} {{nowrap|1.25 million}}<ref name=":5">{{Cite web|last=Bramwell|first=Tom|date=2003-01-13|title=Vice City up for design award|url=https://www.eurogamer.net/articles/article_47203|access-date=2021-11-06|website=[[Eurogamer]]|archive-date=November 6, 2021|archive-url=https://web.archive.org/web/20211106055904/https://www.eurogamer.net/articles/article_47203|url-status=live}}</ref>
+* United States {{ndash}} 8.2{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 27, 2002}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North]]
+| {{vgrelease|WW|[[Rockstar Games]]|JP|[[Capcom]]}}
+|-
+| ''[[Gran Turismo 4]]''
+| {{val|11.76|u=million}}<ref name="gtsales"/>{{efn|''Gran Turismo 4'' sales breakdown:
+* Asia {{ndash}} 1.45{{nbsp}}million<ref name="Polyphony">{{cite web |title=Products |url=http://www.polyphony.co.jp/products/ |website=[[Polyphony Digital]] |archive-url=https://web.archive.org/web/20180226220432/http://www.polyphony.co.jp/products/ |access-date=April 25, 2020 |archive-date=February 26, 2018}}</ref>
+* Europe {{ndash}} 6.83{{nbsp}}million<ref name="gtsales"/>
+* North America {{ndash}} 3.47{{nbsp}}million<ref name="gtsales"/>
+}}
+| {{dts|December 28, 2004}}
+| [[Racing video game|Racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Grand Theft Auto III]]''
+| {{val|11.6|u=million}}<ref name="guinness 2009"/>{{efn|''Grand Theft Auto III'' sales breakdown:
+* Japan {{ndash}} 455,455<ref name="gamedatalibrary"/>
+* Germany {{ndash}} 200,000+<ref name="vudp"/>
+* United Kingdom {{ndash}} {{nowrap|1 million}}+<ref name="elspad">{{cite web |url=http://www.elspa.com/?i=3946 |title=ELSPA Sales Awards: Diamond |access-date=January 9, 2008 |publisher=[[Entertainment and Leisure Software Publishers Association]] |archive-url=https://web.archive.org/web/20100618014928/http://www.elspa.com/?i=3946 |archive-date=June 18, 2010}}</ref>
+* United States {{ndash}} 6.65{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 22, 2001}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar North|DMA Design]]
+| {{vgrelease|WW|[[Rockstar Games]]|JP|[[Capcom]]}}
+|-
+| ''[[Tekken 5]]''
+| {{val|9.43|u=million}}<ref name="CEDEC2024">{{cite video| url=https://www.youtube.com/watch?v=SGcfm_s4SPM |title=【CEDEC2024】鉄拳シリーズを通してみた格闘ゲームの変遷とその未来 |trans-title=[CEDEC 2024] The Evolution and Future of Fighting Games as Seen Through the Tekken Series |lang=Japanese |date=September 3, 2024 |publisher=[[CEDEC Awards|CEDEC]] |website=[[YouTube]] |time=11:54 |access-date=June 27, 2026}}</ref>{{efn|''Tekken 5'' sales breakdown:
+* Europe {{ndash}} 4{{nbsp}}million<ref name="vandal.net">{{Cite web | url=http://www.vandal.net/reportaje/tekken-6 | title=Tekken 6 | date=July 25, 2009 | access-date=September 14, 2014 | archive-date=December 22, 2017 | archive-url=https://web.archive.org/web/20171222105307/http://www.vandal.net/reportaje/tekken-6 | url-status=live }}</ref>
+* Japan {{ndash}} 357,064<ref name="gamedatalibrary"/>
+}}
+| {{dts|March 31, 2005}}
+| [[Fighting game|Fighting]]
+| [[Namco]]
+| {{vgrelease|WW|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+|-
+| ''[[Final Fantasy X]]''
+| {{val|8.60|u=million}}<ref name="X&X2">{{cite web |url=https://asia.playstation.com/hk/en/newsdetail?id=235 |title=Final Fantasy X and Final Fantasy X-2 Remastered on Playstation 3 and PlayStation Vita Release Chinese & English verstion in 2013 globally! |website=PlayStation.com (Asia) - Hong Kong |access-date=December 18, 2018 |archive-url=https://web.archive.org/web/20181218145852/https://asia.playstation.com/hk/en/newsdetail?id=235 |archive-date=December 18, 2018 |url-status=live }}</ref>{{efn|''Final Fantasy X'' sales breakdown:
+* Japan {{ndash}} 3,307,619<ref name="gamedatalibrary"/>
+* Germany {{ndash}} 100,000+<ref name="goldps2">{{Cite web|title=GOLD-Award: Sony PlayStation 2|url=http://www.vud.de/awards/goldps2.php3|url-status=dead|archive-url=https://web.archive.org/web/20021221125348/http://www.vud.de/awards/goldps2.php3|archive-date=2002-12-21|access-date=2021-11-06|website=[[:de:Verband der Unterhaltungssoftware Deutschland|Verband der Unterhaltungssoftware Deutschland]]|language=de}}</ref>
+* United Kingdom {{ndash}} 200,000+<ref name="elspag"/>
+* United States {{ndash}} 2.77{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|July 19, 2001}}
+| [[Role-playing video game|Role-playing]]
+| [[Square (video game company)|Square]] Product Development Division 1
+| {{vgrelease|JP|[[Square (video game company)|Square]]|NA|[[Square Electronic Arts]]|PAL|[[Sony Computer Entertainment]]}}
+|-
+| ''[[Metal Gear Solid 2: Sons of Liberty]]''
+| {{val|7.03|u=million}}<ref name="million">{{cite news |title=Million-Seller Genealogy |url=http://www.konamijpn.com/corporate/million_e.html |access-date=11 September 2021 |work=[[Konami Computer Entertainment Japan]] (KCEJ) |publisher=[[Konami]] |date=December 31, 2004 |url-status=dead |archive-url=https://web.archive.org/web/20050315004002/http://www.konamijpn.com/corporate/million_e.html |archive-date=2005-03-15}}</ref>{{efn|''Metal Gear Solid 2'' sales breakdown:
+* ''Sons of Liberty'' {{ndash}} {{nowrap|5.64 million}}<ref name="million"/>
+** Japan {{ndash}} 1,336,843<ref name="gamedatalibrary"/>
+** Europe {{ndash}} {{nowrap|1.57 million}}<ref>{{cite news |last1=Varanini |first1=Giancarlo |title=Metal Gear Solid 2 worldwide sales |url=https://www.gamespot.com/articles/metal-gear-solid-2-worldwide-sales/1100-2847978/ |access-date=October 31, 2020 |work=[[GameSpot]] |year=2002 |archive-date=December 24, 2015 |archive-url=https://web.archive.org/web/20151224184334/http://www.gamespot.com/articles/metal-gear-solid-2-worldwide-sales/1100-2847978/ |url-status=live}}</ref><ref name="Konami2002">{{cite news |title=News Release |url=https://www.konami.com/mg/archive/mgs2/english/topic/index.html |access-date=8 November 2021 |work=Metal Gear Solid 2: Sons of Liberty |publisher=[[Konami]] |date=February 14, 2002 |archive-date=November 8, 2021 |archive-url=https://web.archive.org/web/20211108034839/https://www.konami.com/mg/archive/mgs2/english/topic/index.html |url-status=live }}</ref>
+** United States {{ndash}} 2.31{{nbsp}}million<ref name="magicboxus"/>
+* ''Substance'' {{ndash}} {{nowrap|1.39 million}}<ref name="million"/>
+}}
+| {{dts|November 12, 2001}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[stealth game|stealth]]}}
+| [[Konami Computer Entertainment Japan]]
+| [[Konami]]
+|-
+| ''[[Final Fantasy XII]]''
+| {{val|6.40|u=million}}<ref name="cesa-2018">{{cite book |title=2018CESAゲーム白書 (2018 CESA Games White Paper)|publisher=[[Computer Entertainment Supplier's Association]]|year=2018|isbn=978-4-902346-38-1}}</ref>{{efn|''Final Fantasy XII'' sales breakdown:
+* Europe {{ndash}} 1.1{{nbsp}}million<ref name="sqex20070831">{{cite web|url= http://www.square-enix.com/jp/ir/e/data/ar/download/20070831en.pdf#page=8|publisher=[[Square Enix]]|title=Annual report 2007|format =PDF|date=August 31, 2007|page=8|archive-url=https://web.archive.org/web/20080513000324/http://www.square-enix.com/jp/ir/e/data/ar/download/20070831en.pdf|archive-date=May 13, 2008|access-date=May 24, 2008|url-status=dead}}</ref>
+* Japan {{ndash}} 2,605,717<ref name="gamedatalibrary"/>
+* United States {{ndash}} 1.7{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|March 16, 2006}}
+| [[Role-playing video game|Role-playing]]
+| [[Square Enix]]
+| [[Square Enix]]
+|-
+| ''[[Kingdom Hearts (video game)|Kingdom Hearts]]''
+| {{val|6.30|u=million}}<ref name="cesa-2018">{{cite book |title=2018CESAゲーム白書 (2018 CESA Games White Paper)|publisher=[[Computer Entertainment Supplier's Association]]|year=2018|isbn=978-4-902346-38-1}}</ref>{{efn|Including ''[[Kingdom Hearts Final Mix|Final Mix]]'' and [[Ultimate Hits (Square Enix)|Ultimate Hits]].}}{{efn|''Kingdom Hearts'' sales breakdown:
+* Japan {{ndash}} 2,006,601<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 100,000<ref name=elspas/>
+* United States {{ndash}} 3.45{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|March 28, 2002}}
+| [[Action role-playing game|Action role-playing]]
+| [[Square (video game company)|Square]]
+| {{vgrelease|JP|[[Square (video game company)|Square]]|NA|[[Square Electronic Arts]]|EU|[[Sony Computer Entertainment]]}}
+|-
+| ''[[Final Fantasy X-2]]''
+| {{val|5.50|u=million}}<ref name="X&X2"/>{{efn|''Final Fantasy X-2'' sales breakdown:
+* Japan {{ndash}} 2,608,756<ref name=gamedatalibrary/>
+* North America {{ndash}} 1.85{{nbsp}}million<ref name="magicboxus"/>
+* United Kingdom {{ndash}} 100,000<ref name=elspas/>
+}}
+| {{dts|March 13, 2003}}
+| [[Role-playing video game|Role-playing]]
+| [[Square (video game company)|Square]] Product Development Division 1
+| {{vgrelease|JP|[[Square (video game company)|Square]]|NA/PAL|[[Square Enix]]}}
+|-
+| ''[[Kingdom Hearts II]]''
+| {{val|5.20|u=million}}<ref name="cesa-2018">{{cite book |title=2018CESAゲーム白書 (2018 CESA Games White Paper)|publisher=[[Computer Entertainment Supplier's Association]]|year=2018|isbn=978-4-902346-38-1}}</ref>{{efn|Including ''[[Kingdom Hearts II Final Mix+|Final Mix+]]'' and Ultimate Hits.}}{{efn|''Kingdom Hearts II'' sales breakdown:
+* Europe {{ndash}} 700,000<ref name="sqex20070831"/>
+* Japan {{ndash}} 2,027,262<ref name="gamedatalibrary"/>
+* United States {{ndash}} 2.03{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|December 22, 2005}}
+| [[Action role-playing game|Action role-playing]]
+| [[Square Enix]] Product Development Division 1
+| [[Square Enix]]
+|-
+| ''[[Dragon Quest VIII|Dragon Quest VIII: Journey of the Cursed King]]''
+| {{val|4.84|u=million}}<ref>{{cite web|title=ドラゴンクエストIX 星空の守り人｜株式会社レベルファイブ|trans-title=Dragon Quest IX: Protectors of the Starry Sky {{!}} Level Five Inc.|publisher=[[Level-5 (company)|Level-5]]|url=http://www.level5.co.jp/products/dq9/staff.html|language=ja|access-date=December 30, 2008|archive-date=May 18, 2019|archive-url=https://web.archive.org/web/20190518033637/https://www.level5.co.jp/products/dq9/staff.html|url-status=live}}</ref><ref name="gdclevel5"/>{{efn|''Dragon Quest VIII: Journey of the Cursed King'' sales breakdown:
+* Europe {{ndash}} 410,000<ref>{{cite web| url=http://www.square-enix.com/jp/ir/e/data/financial/download/tanshin_061117en.pdf| date=November 17, 2006| access-date=March 2, 2008| publisher=[[Square Enix]]| title=Consolidated financial results for the first-half period ended September 30, 2006| page=6| archive-date=July 23, 2008| archive-url=https://web.archive.org/web/20080723164552/http://www.square-enix.com/jp/ir/e/data/financial/download/tanshin_061117en.pdf| url-status=live}}</ref>
+* Japan {{ndash}} 3,705,170<ref name="gamedatalibrary"/>
+* North America {{ndash}} 430,000<ref>{{cite web|url=http://www.square-enix.com/jp/ir/e/data/financial/download/20060207en.pdf#page=2|date=January 30, 2006|access-date=April 28, 2008|publisher=[[Square Enix]]|format=PDF|title=Consolidated Financial Report for the Nine-Month Period Ended December 31, 2005|page=2|archive-date=September 5, 2008|archive-url=https://web.archive.org/web/20080905175622/http://www.square-enix.com/jp/ir/e/data/financial/download/20060207en.pdf#page=2|url-status=live}}</ref>
+}}
+| {{dts|November 27, 2004}}
+| [[Role-playing video game|Role-playing]]
+| [[Level-5 (company)|Level-5]]
+| [[Square Enix]]
+|-
+| ''[[God of War (2005 video game)|God of War]]''
+| {{val|4.62|u=million}}<ref name="GodOfWar">{{cite web|url=http://www.eurogamer.net/articles/2012-06-05-god-of-war-series-has-sold-over-21-million-copies |title=God of War series has sold over 21 million copies • News • PlayStation 3 • Eurogamer.net |date=June 5, 2012 |access-date=June 5, 2012 |work=Eurogamer |url-status=dead |archive-url=https://web.archive.org/web/20121108044426/http://www.eurogamer.net/articles/2012-06-05-god-of-war-series-has-sold-over-21-million-copies |archive-date=November 8, 2012}}</ref>{{efn|''God of War'' sales breakdown:
+* Asia {{ndash}} 142,990<ref name="GodOfWar"/>
+** Japan {{ndash}} 59,814<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2319|title=God of War - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502151607/http://garaph.info/softwareindividual.php//gid/2319|url-status=live}}</ref><ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2507|title=God of War (KAPUKORE) - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502131457/http://garaph.info/softwareindividual.php//gid/2507|url-status=live}}</ref><ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2938|title=God of War (BEST) - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502155744/http://garaph.info/softwareindividual.php//gid/2938|url-status=live}}</ref>
+* Latin and North America {{ndash}} 2,881,524<ref name="GodOfWar"/>
+** United States {{ndash}} 2.33{{nbsp}}million<ref name="magicboxus"/>
+* [[PAL region]]s {{ndash}} 1,592,833<ref name="GodOfWar"/>
+** United Kingdom {{ndash}} 100,000<ref name="elspas"/>
+}}
+| {{dts|March 22, 2005}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Santa Monica Studio]]
+| {{vgrelease|WW|[[Sony Computer Entertainment]]|JP|[[Capcom]]}}
+|-
+| ''[[Madden NFL 2005]]''
+| {{val|4.35|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"|Sales data only reported for the United States.}}
+| {{dts|August 9, 2004}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Tekken 4]]''
+| {{val|4.35|u=million}}<ref name="CEDEC2024"/>
+| {{dts|March 28, 2002}}
+| [[Fighting game|Fighting]]
+| [[Namco]]
+| {{vgrelease|JP/NA|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+|-
+| ''[[Tekken Tag Tournament]]''
+| {{val|4.35|u=million}}<ref name="CEDEC2024"/>{{efn|''Tekken Tag Tournament'' sales breakdown:
+* Japan {{ndash}} 457,340<ref name="japanchartsps2"/>
+* Germany {{ndash}} 100,000+<ref name="goldps2"/>
+* United Kingdom {{ndash}} 300,000+<ref name="elspap" />
+* United States {{ndash}} 1.61{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|March 30, 2000}}
+| [[Fighting game|Fighting]]
+| [[Namco]]
+| {{vgrelease|WW|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+|-
+| ''[[God of War II]]''
+| {{val|4.24|u=million}}<ref name="GodOfWar" />{{efn|''God of War II'' sales breakdown:
+* Asia {{ndash}} 113,280<ref name="GodOfWar"/>
+* Latin and North America {{ndash}} 2,527,522<ref name="GodOfWar"/>
+* PAL regions {{ndash}} 1,603,727<ref name="GodOfWar"/>
+}}
+| {{dts|March 13, 2007}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Santa Monica Studio]]
+| {{vgrelease|WW|[[Sony Computer Entertainment]]|JP|[[Capcom]]}}
+|-
+| ''[[Metal Gear Solid 3: Snake Eater]]''
+| {{val|4.23|u=million}}<ref>{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref>{{efn|''Metal Gear Solid 3: Snake Eater'' sales breakdown
+* Japan {{ndash}} 1,129,926<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 200,000+<ref name="elspap"/>
+* United States {{ndash}} 1.42{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 17, 2004}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[stealth game|stealth]]}}
+| [[Konami Computer Entertainment Japan]]
+| [[Konami]]
+|-
+| ''[[Jak and Daxter: The Precursor Legacy]]''
+| {{val|4.2|u=million}}<ref>{{cite web|url=https://www.videogamer.com/news/naughty-dog-talks-uncharted/|title=Naughty Dog talks Uncharted|date=January 21, 2008|access-date=January 21, 2008|publisher=Videogamer|archive-date=December 3, 2017|archive-url=https://web.archive.org/web/20171203020233/https://www.videogamer.com/news/naughty-dog-talks-uncharted|url-status=live}}</ref>
+| {{dts|December 3, 2001}}
+| [[Platform game|Platform]]
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[EyeToy: Play]]''
+| {{val|4|u=million}}<ref>{{cite press release|url=http://www.us.playstation.com/News/PressReleases/210|title=EyeToy: AntiGrav|date=May 10, 2004|access-date=January 2, 2008|publisher=[[Sony Computer Entertainment]]|archive-date=January 11, 2008|archive-url=https://web.archive.org/web/20080111092735/http://www.us.playstation.com/News/PressReleases/210|url-status=live}}</ref>
+| {{dts|July 4, 2003}}
+| [[Party video game|Party]]
+| [[London Studio]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Madden NFL 2004]]''
+| {{val|3.95|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|August 12, 2003}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Madden NFL 06]]''
+| {{val|3.77|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|August 8, 2005}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Ratchet & Clank (2002 video game)|Ratchet & Clank]]''
+| {{val|3.71|u=million}}<ref name="insomniaclatimes">{{cite web|url=https://www.latimes.com/archives/la-xpm-2007-nov-26-fi-insomniac26-story.html|archive-url=https://web.archive.org/web/20121014081220/http://articles.latimes.com/2007/nov/26/business/fi-insomniac26/2| title=The independent imagination|first=Alex|last=Pham|date=November 26, 2007|archive-date=October 14, 2012|access-date=September 8, 2008|url-status=live|work=[[Los Angeles Times]]}}</ref>
+| {{dts|November 4, 2002}}
+| [[Platform game|Platform]]
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Need for Speed: Underground]]''
+| {{val|3.69|u=million}}{{efn|''Need for Speed: Underground'' sales breakdown:
+* Japan {{ndash}} 94,108<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2879|title=Need for Speed: Underground - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502171759/http://garaph.info/softwareindividual.php//gid/2879|url-status=live}}</ref><ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/1897|title=Need for Speed Underground J (EA BEST HITS) - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502181015/http://garaph.info/softwareindividual.php//gid/1897|url-status=live}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp">{{cite web|url=http://www.elspa.com/?i=3945 |title=ELSPA Sales Awards: Double Platinum |access-date=January 18, 2009 |publisher=[[Entertainment and Leisure Software Publishers Association]] |url-status=dead |archive-url=https://web.archive.org/web/20090520070249/http://www.elspa.com/?i=3945 |archive-date=May 20, 2009}}</ref>
+* United States {{ndash}} 3{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 17, 2003}}
+| [[Racing video game|Racing]]
+| [[EA Black Box]]
+| [[Electronic Arts|EA Games]]
+|-
+| ''[[Star Wars: Battlefront (2004 video game)|Star Wars: Battlefront]]''
+| {{val|3.61|u=million}}<ref name="Top10">{{Cite book |last=Terry |first=Paul |url=https://archive.org/details/top10ofeverythin0000terr_e3m1/page/226/mode/2up |title=Top 10 of Everything 2018 |date=2017 |publisher=Octopus |isbn=978-0-600-63515-4 |language=en |access-date=May 23, 2025 |page=227}}</ref>{{efn|''Star Wars: Battlefront'' sales breakdown:
+* Japan {{ndash}} 16,739<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/1987|title=Star Wars: Battle Front - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502111247/http://garaph.info/softwareindividual.php//gid/1987|url-status=live}}</ref>
+* United Kingdom {{ndash}} 200,000<ref name="elspag"/>
+* United States {{ndash}} 1.77{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|September 20, 2004}}
+| {{hlist|[[First-person shooter]]|[[third-person shooter]]}}
+| [[Pandemic Studios]]
+| [[LucasArts]]
+|-
+| ''[[Star Wars: Battlefront II (2005 video game)|Star Wars: Battlefront II]]''
+| {{val|3.59|u=million}}<ref name="Top10"/>{{efn|''Star Wars: Battlefront II'' sales breakdown:
+* Japan {{ndash}} 27,419<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2376|title=Star Wars: Battle Front II - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502154640/http://garaph.info/softwareindividual.php//gid/2376|url-status=live}}</ref>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 2.01{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 31, 2005}}
+| {{hlist|[[Action game|Action]]|[[third-person shooter]]|[[first-person shooter]]}}
+| [[Pandemic Studios]]
+| [[LucasArts]]
+|-
+| ''[[Medal of Honor: Frontline]]''
+| {{val|3.55|u=million}}{{efn|''Medal of Honor: Frontline'' sales breakdown:
+* Japan {{ndash}} 152,966<ref name=rank>{{cite web|date= January 30, 2005|title=PS2 Best Seller Ranking in U.S.".|url=http://www5e.biglobe.ne.jp/~hokora/ps2ranka.html|archive-url= https://archive.today/20050225221824/http://www5e.biglobe.ne.jp/~hokora/ps2ranka.html|archive-date=February 25, 2005 |work=Shrine of Data |access-date=August 9, 2009}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 2.8{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|May 28, 2002}}
+| [[First-person shooter]]
+| [[EA Los Angeles]]
+| [[Electronic Arts|EA Games]]
+|-
+| ''[[Lego Star Wars: The Video Game]]''
+| {{val|3.53|u=million}}<ref name="Top10"/>{{efn|''Lego Star Wars: The Video Game'' sales breakdown:
+* Japan {{ndash}} 20,068<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2215|title=Lego Star Wars - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502172619/http://garaph.info/softwareindividual.php//gid/2215|url-status=live}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.88{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|April 2, 2005}}
+| [[Action-adventure game|Action-adventure]]
+| [[Traveller's Tales]]
+| {{hlist|[[Eidos Interactive]]|[[Giant Interactive Entertainment]]}}
+|-
+| ''[[Guitar Hero II]]''
+| {{val|3.41|u=million}}{{efn|''Guitar Hero II'' sales breakdown:
+* United Kingdom {{ndash}} 100,000<ref name=elspas/>
+* United States {{ndash}} 3.31{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 7, 2006}}
+| {{hlist|[[Music video game|Music]]|[[rhythm game|rhythm]]}}
+| [[Harmonix]]
+| [[RedOctane]]
+|-
+| ''[[Pro Evolution Soccer 3]]''{{efn|Known as ''World Soccer: Winning Eleven 7'' in Japan and ''World Soccer: Winning Eleven 7 International'' in North America.}}
+| {{val|3.36|u=million}}{{efn|''Pro Evolution Soccer 3'' sales breakdown:
+* Japan {{ndash}} {{formatnum:{{#expr:1160000+527375}}|}}<ref name="we7">{{cite web|url=http://www.konami.co.jp/en/ir/merger050401/konamityo/tyo0403e.pdf |date=January 29, 2004 |access-date=January 8, 2008 |publisher=[[Konami]] |title=Non-Consolidated Financial Results for the Third Quarter Ended December 31, 2003 |page=9 |url-status=dead |archive-url=https://web.archive.org/web/20071006000231/http://www.konami.co.jp/en/ir/merger050401/konamityo/tyo0403e.pdf |archive-date=October 6, 2007 }}</ref><ref name="gamedatalibrary"/>
+* Europe {{ndash}} 1.55{{nbsp}}million<ref name="we7"/>
+* United States {{ndash}} 33,403<ref name=shrine/>
+}}
+| {{dts|August 7, 2003}}
+| [[Sports game|Sports]]
+| [[Konami Computer Entertainment Tokyo]]
+| [[Konami]]
+|-
+| ''[[Star Wars: Episode III – Revenge of the Sith (video game)|Star Wars: Episode III – Revenge of the Sith]]''
+| {{val|3.32|u=million}}<ref name="Top10"/>{{efn|''Star Wars: Episode III – Revenge of the Sith'' sales breakdown:
+* Japan {{ndash}} 61,221<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2215|title=Star Wars Episode III: Revenge of the Sith - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502172619/http://garaph.info/softwareindividual.php//gid/2215|url-status=live}}</ref>
+* United Kingdom {{ndash}} 300,000<ref name="elspap"/>
+* United States {{ndash}} 1.41{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|May 4, 2005}}
+| [[Action game|Action]]
+| [[The Collective (company)|The Collective]]
+| [[LucasArts]]
+|-
+| ''[[Guitar Hero III: Legends of Rock]]''
+| {{val|3.23|u=million}}{{efn|''Guitar Hero III: Legends of Rock'' sales breakdown:
+* Canada {{ndash}} 82,000<ref name="nov2k7npdCA">{{cite web|url=http://www.gamespot.com/news/6184050.html|title=NPD: Canada passes CB in game sales|date=December 14, 2007|access-date=June 8, 2008|publisher=[[GameSpot]]|first=Tom|last=Magrino|archive-date=January 20, 2012|archive-url=https://web.archive.org/web/20120120061709/http://www.gamespot.com/news/6184050.html|url-status=live}}</ref>
+* United Kingdom {{ndash}} 200,000<ref name="elspag">{{cite web|url=http://www.elspa.com/?i=3943 |access-date=February 3, 2009|publisher=[[Entertainment and Leisure Software Publishers Association]]|title=ELSPA Sales Awards: Gold |archive-url=https://web.archive.org/web/20100617012454/http://www.elspa.com/?i=3943 |archive-date=June 17, 2010}}</ref>
+* United States {{ndash}} 2,951,700
+** ''With guitar'' {{ndash}} 2.72{{nbsp}}million<ref name="dec2k7npdUS">{{cite web |url=http://www.gamasutra.com/php-bin/news_index.php?story=17006 |title=NPD: 2007 U.S. Game Industry Growth Up 43% To Billion |author=Brandon Boyer |publisher=[[Gamasutra]] |access-date=January 18, 2008 |date=January 18, 2008 |archive-date=January 18, 2008 |archive-url=https://web.archive.org/web/20080118235201/http://www.gamasutra.com/php-bin/news_index.php?story=17006 |url-status=dead }}</ref>
+** ''Without guitar'' {{ndash}} 231,700<ref name="oct2k7npd">{{cite web|url=http://www.gamedaily.com/articles/news/halo-3-guitar-hero-iii-wii--ds-lead-11-billion-in-sales-for-october--/18565/ |title=Halo 3, Guitar Hero III, Wii & DS Lead Billion in Sales for October |first=James |last=Brightman |publisher=GameDaily.biz |access-date=January 19, 2008 |date=November 15, 2007 |url-status=dead |archive-url=https://web.archive.org/web/20071219233038/http://www.gamedaily.com/articles/news/halo-3-guitar-hero-iii-wii--ds-lead-11-billion-in-sales-for-october--/18565/ |archive-date=December 19, 2007}}</ref>
+}}
+| {{dts|October 28, 2007}}
+| {{hlist|[[Music video game|Music]]|[[rhythm game|rhythm]]}}
+| [[Neversoft]]
+| [[Activision]]
+|-
+| ''[[Ratchet & Clank: Up Your Arsenal]]''
+| {{val|3.22|u=million}}<ref name="insomniaclatimes"/>
+| {{dts|November 3, 2004}}
+| [[Platform game|Platform]]
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Madden NFL 2003]]''
+| {{val|3.18|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|August 12, 2002}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Tiburon]]|[[Budcat Creations]]}}
+| [[EA Sports]]
+|-
+| ''[[Pro Evolution Soccer 4]]''{{efn|Known as ''World Soccer: Winning Eleven 8'' in Japan and ''World Soccer: Winning Eleven 8 International'' in North America.}}
+| {{val|3.13|u=million}}{{efn|''Pro Evolution Soccer 4'' sales breakdown:
+* Japan {{ndash}} 1,632,918<ref name="gamedatalibrary"/>
+* Europe {{ndash}} 1.5{{nbsp}}million<ref>{{cite news |title=Konami ships 1.4 million PS2 copies of Pro Evolution Soccer 4 |url=https://www.gamespot.com/articles/konami-ships-14-million-ps2-copies-of-pro-evolution-soccer-4/1100-6110530/ |work=[[GameSpot]] |date=August 16, 2006 |access-date=July 20, 2018 |archive-date=July 21, 2018 |archive-url=https://web.archive.org/web/20180721014429/https://www.gamespot.com/articles/konami-ships-14-million-ps2-copies-of-pro-evolution-soccer-4/1100-6110530/ |url-status=live }}</ref>
+}}
+| {{dts|August 5, 2004}}
+| [[Sports game|Sports]]
+| [[Konami Computer Entertainment Tokyo]]
+| [[Konami]]
+|-
+| ''[[The Getaway (video game)|The Getaway]]''
+| {{val|3|u=million}}<ref>{{cite press release |url=http://www.us.playstation.com/News/PressReleases/245 |publisher=[[Sony Computer Entertainment]] |date=January 11, 2005 |access-date=January 2, 2008 |title=Return to the London underworld with the launch of The Getaway: Black Monday exclusively for PlayStation 2 |archive-date=February 21, 2009 |archive-url=https://web.archive.org/web/20090221202433/http://www.us.playstation.com/News/PressReleases/245 |url-status=live }}</ref>
+| {{dts|December 11, 2002}}
+| [[Action-adventure game|Action-adventure]]
+| [[Team Soho]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Ratchet & Clank: Going Commando]]''
+| {{val|2.966|u=million}}<ref name="insomniaclatimes"/>
+| {{dts|November 11, 2003}}
+| [[Platform game|Platform]]
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+|''[[Sonic Heroes]]''
+| {{val|2.9|u=million}}<ref>{{Cite web |date=2021-11-26 |title=2008 CESA Games White Paper |url=https://www.installbaseforum.com/threads/2008-cesa-games-white-paper.289/ |access-date=2024-03-11 |website=Install Base |language=en-US}}</ref>
+|{{dts|December 30, 2003}}
+|[[Platform game|Platform]]
+|[[Sonic Team]]
+|[[Sega]]
+|-
+| ''[[WWE SmackDown! vs. Raw 2006]]''
+| {{val|2.9|u=million}}<ref name="smackdown">{{cite web |url=http://corporate.wwe.com/documents/4QF2006PresentationFINAL.pdf |access-date=November 26, 2006 |page=10 |title=World Wrestling Entertainment, Inc. Fourth Quarter F2006 Conference Call |date=June 13, 2006 |publisher=[[World Wrestling Entertainment]] |url-status=dead |archive-url=https://web.archive.org/web/20061011040216/http://corporate.wwe.com/documents/4QF2006PresentationFINAL.pdf |archive-date=October 11, 2006 }}</ref>
+| {{dts|November 11, 2005}}
+| [[Sports game|Sports]]
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+|-
+| ''[[Pro Evolution Soccer 2008]]''
+| {{val|2.86|u=million}}<ref name="CESA2008">{{Cite web |date=2021-11-26 |title=2008 CESA Games White Paper |url=https://www.installbaseforum.com/threads/2008-cesa-games-white-paper.289/ |access-date=2024-03-11 |website=Install Base |language=en-US}}</ref>
+| {{dts|October 26, 2007}}
+| [[Sports game|Sports]]
+| [[Konami]]
+| [[Konami]]
+|-
+| ''[[Pro Evolution Soccer 2]]''{{efn|Known as ''World Soccer: Winning Eleven 6'' and ''World Soccer: Winning Eleven 2002'' in Japan and ''World Soccer: Winning Eleven 6 International'' in North America.}}
+| {{val|2.84|u=million}}{{efn|''Pro Evolution Soccer 2'' sales breakdown:
+* Japan {{ndash}} 1,799,075<ref name="gamedatalibrary"/>
+* Europe {{ndash}} 1{{nbsp}}million<ref>{{cite web|url=http://sec.edgar-online.com/konami-corp/6-k-report-of-foreign-issuer/2003/05/23/Section1.aspx|title=KONAMI CORP - KNM Report of Foreign Issuer (6-K) FORM 6-K|publisher=Konami|date=May 22, 2003|access-date=July 27, 2009|archive-date=May 9, 2012|archive-url=https://web.archive.org/web/20120509194753/http://sec.edgar-online.com/konami-corp/6-k-report-of-foreign-issuer/2003/05/23/Section1.aspx|url-status=live}}</ref>
+* United States {{ndash}} 59,567<ref name=shrine/>
+}}
+| {{dts|April 25, 2002}}
+| [[Sports game|Sports]]
+| [[Konami Computer Entertainment Tokyo]]
+| [[Konami]]
+|-
+| ''[[Spider-Man (2002 video game)|Spider-Man]]''
+| {{val|2.81|u=million}}{{efn|''Spider-Man'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap">{{cite web|url=http://www.elspa.com/?i=3944 |access-date=January 18, 2009 |publisher=[[Entertainment and Leisure Software Publishers Association]]|title=ELSPA Sales Awards: Platinum |archive-url=https://web.archive.org/web/20100703023209/http://www.elspa.com/?i=3944 |archive-date=July 3, 2010 }}</ref>
+* United States {{ndash}} 2.51{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|April 15, 2002}}
+| [[Action-adventure game|Action-adventure]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Madden NFL 07]]''
+| {{val|2.8|u=million}}<ref name="npddecember2006">{{cite web |url=http://www.next-gen.biz/news/npd-2006-record-yearacirc |publisher=[[Next Generation Magazine|Next-Gen.biz]] |access-date=January 12, 2007 |date=January 11, 2007 |title=NPD: 2006 Record Year?12.5B |author=Kris Graft |url-status=dead |archive-url=https://archive.today/20130115034600/http://www.edge-online.com/news/npd-2006-record-yearacirc/ |archive-date=January 15, 2013 }}</ref><ref name="insomniacgames">{{cite web|url=http://www.insomniacgames.com/tech/articles/1107/files/fantasy_of_the_familiar.ppt |title=Fantasy of the Familiar |author=Brian Hastings |publisher=[[Insomniac Games]] |format=PPT |date=November 30, 2007 |access-date=January 1, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20100131021926/http://www.insomniacgames.com/tech/articles/1107/files/fantasy_of_the_familiar.ppt |archive-date=January 31, 2010}}</ref>{{efn|name="US sales only"}}
+| {{dts|August 22, 2006}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[SOCOM U.S. Navy SEALs (video game)|SOCOM U.S. Navy SEALs]]''
+| {{val|2.78|u=million}}{{efn|''SOCOM U.S. Navy SEALs'' sales breakdown:
+* Japan {{ndash}} 39,973<ref name=rank/>
+* United Kingdom {{ndash}} 100,000<ref name="elspas"/>
+* United States {{ndash}} 2.65{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|August 27, 2002}}
+| [[Tactical shooter]]
+| [[Zipper Interactive]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Crash Bandicoot: The Wrath of Cortex]]''
+| {{val|2.76|u=million}}{{efn|''Crash Bandicoot: The Wrath of Cortex'' sales breakdown:
+* Japan {{ndash}} 212,541<ref name="japanchartsps2">{{cite web|url=http://www.japan-gamecharts.com/ps2.php |title=Sony PS2 Japanese Ranking |publisher=Japan Game Charts |date=July 30, 2008 |access-date=August 3, 2008 |url-status=usurped |archive-url=https://web.archive.org/web/20081216104658/http://www.japan-gamecharts.com/ps2.php |archive-date=December 16, 2008}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.95{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 29, 2001}}
+| [[Platform game|Platform]]
+| [[Traveller's Tales]]
+| [[Universal Interactive Studios]]
+|-
+| ''[[Ace Combat 04: Shattered Skies]]''
+| {{val|2.64|u=million}}<ref name="AceCombat">{{cite web |url=https://www.acecombat.jp/ace6/news080130.html |language=ja |title=『エースコンバット』シリーズ全世界累計1,000万本突破！ |trans-title=The cumulative worldwide sales total of the "Ace Combat" series exceeds 10,000,000 units! |last=Ichinoya |first=Hiroyuki |date=January 30, 2008 |publisher=[[Bandai Namco Entertainment|Bandai Namco Games]] |access-date=August 28, 2018 |archive-date=March 11, 2020 |archive-url=https://web.archive.org/web/20200311231912/https://www.acecombat.jp/ace6/news080130.html |url-status=live }}</ref>
+| {{dts|September 13, 2001}}
+| [[Combat flight simulator]]
+| [[Namco]]
+| [[Namco]]
+|-
+| ''[[Dragon Ball Z: Budokai (video game)|Dragon Ball Z: Budokai]]''
+| {{val|2.61|u=million}}{{efn|''Dragon Ball Z: Budokai'' sales breakdown:
+* Japan {{ndash}} 570,000<ref name="shueisha">{{cite book |chapter=Dragon Ball Video Game Data |title=Dragon Ball 30th Anniversary: Super History Book |year=2016 |publisher=[[Shueisha]] |isbn=978-4-08-792505-0 |page=216}}</ref>
+* United States {{ndash}} 2.04{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 29, 2002}}
+| [[Fighting game|Fighting]]
+| [[Dimps]]
+| {{vgrelease|JP/EU|[[Bandai Games]]|NA/AUS|[[Infogrames]]}}
+|-
+| ''[[The Simpsons: Hit & Run]]''
+| {{val|2.57|u=million}}{{efn|''The Simpsons: Hit & Run'' sales breakdown:
+* United Kingdom {{ndash}} 1{{nbsp}}million<ref name="elspad-ps2">{{cite web |url=http://www.elspa.com/?i=3946 |title=ELSPA Sales Awards: Diamond |access-date=January 9, 2008 |publisher=[[Entertainment and Leisure Software Publishers Association]] |archive-url=https://web.archive.org/web/20100618014928/http://www.elspa.com/?i=3946 |archive-date=June 18, 2010 }}</ref>
+* United States {{ndash}} 1.57{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|September 16, 2003}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[racing video game|racing]]}}
+| [[Radical Entertainment]]
+| {{vgrelease|WW|[[Vivendi Universal Games]]|PAL|[[Sierra Entertainment]]}}
+|-
+| ''[[Need for Speed: Most Wanted (2005 video game)|Need for Speed: Most Wanted]]''
+| {{val|2.53|u=million}}{{efn|''Need for Speed: Most Wanted'' sales breakdown:
+* Japan {{ndash}} 114,611<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2355|title=Need for Speed: Most Wanted - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502144457/http://garaph.info/softwareindividual.php//gid/2355|url-status=live}}</ref><ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2517|title=Need for Speed: Most Wanted (EA BEST HITS) - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502160403/http://garaph.info/softwareindividual.php//gid/2517|url-status=live}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.82{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 15, 2005}}
+| [[Racing video game|Racing]]
+| {{hlist|[[EA Canada]]|[[EA Black Box]]}}
+| [[Electronic Arts]]
+|-
+| ''[[Medal of Honor: Rising Sun]]''
+| {{val|2.52|u=million}}{{efn|''Medal of Honor: Rising Sun'' sales breakdown:
+* Japan {{ndash}} 118,054<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/1368|title=Medal of Honor: Rising Sun - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502145330/http://garaph.info/softwareindividual.php//gid/1368|url-status=live}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.81{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 11, 2003}}
+| [[First-person shooter]]
+| [[EA Los Angeles]]
+| [[EA Games]]
+|-
+| ''[[The Lord of the Rings: The Two Towers (video game)|The Lord of the Rings: The Two Towers]]''
+| {{val|2.51|u=million}}{{efn|''The Lord of the Rings: The Two Towers'' sales breakdown:
+* Japan {{ndash}} 73,997<ref name=rank/>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.84{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 21, 2002}}
+| {{hlist|[[Action game|Action]]|[[hack and slash]]}}
+| [[Stormfront Studios]]
+| [[EA Games]]
+|-
+| ''[[Driver 3]]''
+| {{val|2.5|u=million}}<ref>{{cite web|url=https://www.gamespot.com/articles/atari-ships-25-million-copies-of-driver-3/1100-6101338/|publisher=[[GameSpot|gamespot.com]]|date=June 24, 2004|access-date=August 13, 2024|title=Atari ships 2.5 million copies of Driver 3}}</ref>{{efn|Worldwide non-final sales figure.}}
+| {{dts|June 21, 2004}}
+| {{hlist|[[Action-adventure]]}}
+| [[Reflections Interactive]]
+| [[Atari]]
+|-
+| ''[[Dynasty Warriors 4]]''
+| {{val|2.5|u=million}}{{efn|''Dynasty Warriors 4'' sales breakdown:
+* Japan {{ndash}} 2,065,943<ref name="gamedatalibrary"/>
+* United States {{ndash}} 448,587<ref name=shrine/>
+}}
+| {{dts|February 27, 2003}}
+| [[Hack and slash]]
+| [[Omega Force]]
+| [[Koei]]
+|-
+| ''[[Tony Hawk's Underground]]''
+| {{val|2.42|u=million}}{{efn|''Tony Hawk's Underground'' sales breakdown:
+* Japan {{ndash}} 16,620<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/3139|title=Tony Hawk's Underground - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502155833/http://garaph.info/softwareindividual.php//gid/3139|url-status=live}}</ref>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 2.11{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 27, 2003}}
+| [[Sports game|Sports]]
+| [[Neversoft]]
+| [[Activision]]
+|-
+| ''[[Tony Hawk's Pro Skater 3]]''
+| {{val|2.4|u=million}}{{efn|''Tony Hawk's Pro Skater 3'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 2.1{{nbsp}}million<ref name="top100us10">{{cite web|url=http://www.next-gen.biz/features/top-100-games-21st-century |page=10 |title=The top 100 games of the 21st century |date=July 29, 2006 |access-date=November 29, 2006 |author=Colin Campbell, Joe Keiser |publisher=[[Next Generation Magazine|Next-Gen.biz]] |url-status=dead |archive-url=https://archive.today/20120906060824/http://www.next-gen.biz/features/top-100-games-21st-century |archive-date=September 6, 2012}}</ref>
+}}
+| {{dts|October 28, 2001}}
+| [[Sports game|Sports]]
+| [[Neversoft]]
+| [[Activision O2]]
+|-
+| ''[[Devil May Cry 3: Dante's Awakening]]''
+| {{val|2.3|u=million}}<ref name="capcomplatinum"/>{{efn|''Devil May Cry 3: Dante's Awakening'' sales breakdown:
+* Japan {{ndash}} 798,601<ref name="gamedatalibrary"/>
+}}
+| {{dts|February 17, 2005}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Madden NFL 2002]]''
+| {{val|2.3|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|August 19, 2001}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Tiburon]]|[[Budcat Creations]]}}
+| {{vgrelease|NA/EU|[[EA Sports]]|JP|[[Electronic Arts Square]]}}
+|-
+| ''[[Resident Evil 4]]''
+| {{val|2.30|u=million}}<ref name=capcomplatinum/>
+| {{dts|October 25, 2005}}
+| {{hlist|[[Survival horror]]|[[third-person shooter]]}}
+| [[Capcom Production Studio 4]]
+| [[Capcom]]
+|-
+| ''[[Dynasty Warriors 3]]''
+| {{val|2.29|u=million}}{{efn|''Dynasty Warriors 3'' sales breakdown:
+* Japan {{ndash}}  1,873,137<ref name="gamedatalibrary"/>
+* United States {{ndash}} 422,175<ref name=shrine/>
+}}
+| {{dts|September 20, 2001}}
+| [[Hack and slash]]
+| [[Omega Force]]
+| {{vgrelease|JP/NA|[[Koei]]|PAL|[[THQ]]}}
+|-
+| ''[[The Simpsons: Road Rage]]''
+| {{val|2.24|u=million}}{{efn|''The Simpsons: Road Rage'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.94{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 24, 2001}}
+| [[Vehicular combat game|Vehicular combat]]
+| [[Radical Entertainment]]
+| [[Electronic Arts]]
+|-
+| ''[[Ratchet: Deadlocked]]''
+| {{val|2.17|u=million}}<ref name="insomniaclatimes"/>
+| {{dts|October 25, 2005}}
+| [[Platform game|Platform]]
+| [[Insomniac Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[SOCOM II U.S. Navy SEALs]]''
+| {{val|2.17|u=million}}{{efn|''SOCOM II U.S. Navy SEALs'' sales breakdown:
+* Japan {{ndash}} 31,664<ref name=rank/>
+* United States {{ndash}} 2.14{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 4, 2003}}
+| [[Tactical shooter]]
+| [[Zipper Interactive]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Devil May Cry (video game)|Devil May Cry]]''
+| {{val|2.16|u=million}}<ref name="capcomplatinum">{{cite web|url=http://www.capcom.co.jp/ir/english/finance/million.html |title=Platinum Titles |publisher=[[Capcom]] |access-date=March 13, 2017 |date=December 31, 2016 |url-status=dead |archive-url=https://web.archive.org/web/20161201214236/http://www.capcom.co.jp/ir/english/finance/million.html |archive-date=December 1, 2016}}</ref>{{efn|''Devil May Cry'' sales breakdown:
+* Japan {{ndash}} 646,865<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 200,000<ref name="elspag"/>
+* United States {{ndash}} 1.29{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|August 23, 2001}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Capcom Production Studio 4]]
+| [[Capcom]]
+|-
+| ''[[Everybody's Golf 3|Hot Shot Golf 3]]''{{efn|Known as ''Hot Shots Golf 3'' in North America.}}
+| {{val|2.16|u=million}}{{efn|''Everybody's Golf 3'' sales breakdown:
+* Japan {{ndash}} 1,226,480{{nbsp}}<ref name="gamedatalibrary"/>
+* United States {{ndash}} 940,000<!--"Hot Shots Golf 3" in the reference--><ref name="magicboxus"/>
+}}
+| {{dts|July 26, 2001}}
+| [[Sports game|Sports]]
+| [[Clap Hanz]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Max Payne (video game)|Max Payne]]''
+| {{val|2.12|u=million}}{{efn|''Max Payne'' sales breakdown:
+* Japan {{ndash}} 28,827<ref name=rank/>
+* United Kingdom {{ndash}} 200,000<ref name="elspag"/>
+* United States {{ndash}} 1.9{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|December 6, 2001}}
+| [[Third-person shooter]]
+| [[Remedy Entertainment]]
+| [[Rockstar Games]]
+|-
+| ''[[Need for Speed: Underground 2]]''
+| {{val|2.1|u=million}}{{efn|''Need for Speed: Underground 2'' sales breakdown:
+* Japan {{ndash}} 106,122<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2062|title=Need for Speed: Underground 2 - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502183003/http://garaph.info/softwareindividual.php//gid/2062|url-status=live}}</ref><ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2218|title=Need for Speed Underground 2 (EA BEST HITS) - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502162316/http://garaph.info/softwareindividual.php//gid/2218|url-status=live}}</ref>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp" />
+* United States {{ndash}} 1.4{{nbsp}}million<ref name="npd2004">{{cite web|url=http://www.gamespot.com/news/6116499.html|publisher=[[GameSpot]]|date=January 18, 2005|access-date=January 18, 2009|title=NPD: billion worth of console games sold in 2004|archive-date=February 24, 2009|archive-url=https://web.archive.org/web/20090224041447/http://www.gamespot.com/news/6116499.html|url-status=live}}</ref>
+}}
+| {{dts|November 15, 2004}}
+| [[Racing video game|Racing]]
+| [[EA Black Box]]
+| [[EA Games]]
+|-
+| ''[[Onimusha 2: Samurai's Destiny]]''
+| {{val|2.1|u=million}}<ref name="capcomplatinum"/>
+| {{dts|March 7, 2002}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Dragon Ball Z: Budokai 2]]''
+| {{val|2.08|u=million}}{{efn|''Dragon Ball Z: Budokai 2'' sales breakdown:
+* Japan {{ndash}} 584,183<ref name="gamedatalibrary"/>
+* United States {{ndash}} 1.5{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 14, 2003}}
+| [[Fighting game|Fighting]]
+| [[Dimps]]
+| {{vgrelease|JP/EU|[[Bandai Games]]|NA/AUS|[[Atari]]}}
+|-
+| ''[[True Crime: Streets of LA]]''
+| {{val|2.08|u=million}}{{efn|''True Crime: Streets of LA'' sales breakdown:
+* Japan {{ndash}} 25,695<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.76{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 4, 2003}}
+| [[Action-adventure game|Action-adventure]]
+| [[Luxoflux]]
+| [[Activision]]
+|-
+| ''[[James Bond 007: Agent Under Fire|007: Agent Under Fire]]''
+| {{val|2.07|u=million}}{{efn|''007: Agent Under Fire'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.77{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 13, 2001}}
+| [[First-person shooter]]
+| [[EA Redwood Shores]]
+| [[EA Games]]
+|-
+| ''[[Onimusha: Warlords]]''
+| {{val|2.02|u=million}}<ref name="capcomplatinum"/>
+| {{dts|January 25, 2001}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Dragon Ball Z: Budokai Tenkaichi]]''
+| {{val|2|u=million}}<ref name="CESA2008" />
+| {{dts|October 6, 2005}}
+| [[Fighting game|Fighting]]
+| [[Funimation Entertainment]]
+| {{vgrelease|JP/EU|[[Bandai Games]]|NA/AU|[[Atari]]}}
+|-
+| ''[[ESPN NFL 2K5]]''
+| {{val|2|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|July 20, 2004}}
+| [[Sports game|Sports]]
+| [[Visual Concepts]]
+| [[Sega]]
+|-
+| ''[[Killzone (video game)|Killzone]]''
+| {{val|2|u=million}}<ref>{{cite web|url=https://www.sie.com/content/dam/corporate/en/corporate/release/pdf/051208e.pdf|archiveurl=https://web.archive.org/web/20170407144431/https://www.sie.com/content/dam/corporate/en/corporate/release/pdf/051208e.pdf|title=Sony Computer Entertainment Acquires Guerrilla Games leading developer of Killzone franchise|website=sie.com|archivedate=April 7, 2017|date=December 8, 2005|accessdate=December 30, 2022}}</ref>
+| {{dts|November 2, 2004}}
+| [[First-person shooter]]
+| [[Guerrilla Games]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Pro Evolution Soccer 5]]''{{efn|Known as ''World Soccer: Winning Eleven 9'' in North America and Japan.}}
+| {{val|2|u=million}}{{efn|''Pro Evolution Soccer 5'' sales breakdown:
+* Japan {{ndash}} 1,206,483<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 800,000+<ref name=":7">{{Cite web|last=Reed|first=Kristan|date=3 May 2006|title=2005 UK Sales Review|url=http://www.eurogamer.net/articles/a_uksalesreview_part1|url-access=registration|url-status=live|archive-url=https://web.archive.org/web/20090312080054/http://www.eurogamer.net/articles/a_uksalesreview_part1|archive-date=2009-03-12|website=[[Eurogamer]]|access-date=2021-11-12}}</ref>
+}}
+| {{dts|August 4, 2005}}
+| [[Sports game|Sports]]
+| [[Konami]]
+| [[Konami]]
+|-
+| ''[[WWE SmackDown! vs. Raw]]''
+| {{val|2|u=million}}<ref name="smackdown"/>
+| {{dts|November 2, 2004}}
+| [[Sports game|Sports]]
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+|-
+| ''[[ATV Offroad Fury]]''
+| {{val|1.99|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|February 5, 2001}}
+| [[Racing video game|Racing]]
+| [[Rainbow Studios]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[NBA Live 2005]]''
+| {{val|1.98|u=million}}{{efn|''NBA Live 2005'' sales breakdown:
+* Japan {{ndash}} 30,013<ref name=rank/>
+* United States {{ndash}} 1.95{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|September 28, 2004}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports]]
+|-
+| ''[[Midnight Club: Street Racing]]''
+| {{val|1.97|u=million}}{{efn|''Midnight Club: Street Racing'' sales breakdown:
+* Japan {{ndash}} 6,027<ref name=rank/>
+* United Kingdom {{ndash}} 100,000<ref name="elspas"/>
+* United States {{ndash}} 1.87{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 26, 2000}}
+| [[Racing video game|Racing]]
+| [[Rockstar San Diego|Angel Studios]]
+| [[Rockstar Games]]
+|-
+| ''[[Spider-Man 2 (2004 video game)|Spider-Man 2]]''
+| {{val|1.93|u=million}}{{efn|''Spider-Man 2'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.63{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|June 28, 2004}}
+| [[Action-adventure game|Action-adventure]]
+| [[Treyarch]]
+| [[Activision]]
+|-
+| ''[[Madden NFL 08]]''
+| {{val|1.9|u=million}}<ref name="dec2k7npdUS"/>{{efn|name="US sales only"}}
+| {{dts|August 14, 2007}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Pro Evolution Soccer 6]]''{{efn|Known as ''World Soccer: Winning Eleven 10'' in Japan and ''Winning Eleven: Pro Evolution Soccer 2007'' in North America.}}
+| {{val|1.88|u=million}}{{efn|''Pro Evolution Soccer 6'' sales breakdown:
+* Japan {{ndash}} 1,289,073<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 600,000<ref name="elspadp"/>
+}}
+| {{dts|April 27, 2006}}
+| [[Sports game|Sports]]
+| [[Konami]]
+| [[Konami]]
+|-
+| ''[[Everybody's Golf 4|Hot Shots Golf Fore!]]''{{efn|Known in the PAL region as ''Everybody's Golf'' and in North America as ''Hot Shots Golf Fore!''}}
+| {{val|1.86|u=million}}{{efn|''Everybody's Golf 4'' sales breakdown:
+* Japan {{ndash}} 1,716,600{{nbsp}}<ref name="gamedatalibrary"/>
+* United States {{ndash}} 157,242<ref name=shrine/>
+}}
+| {{dts|November 27, 2003}}
+| [[Sports game|Sports]]
+| [[Clap Hanz]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Dragon Ball Z: Budokai 3]]''
+| {{val|1.83|u=million}}{{efn|''Dragon Ball Z: Budokai 3'' sales breakdown:
+* Japan {{ndash}} {{formatnum:{{#expr:659975+36255}}|}}<ref>{{cite web |title=Dragon Ball Z: Budokai 3 |url=http://salesdatabase.net/games/316/ |website=Japan Game Sales Database |access-date=January 30, 2019 |archive-date=February 1, 2019 |archive-url=https://web.archive.org/web/20190201065300/http://salesdatabase.net/games/316/ |url-status=live }}</ref><ref>{{cite web |title=Dragon Ball Z: Budokai 3 [1/1][PlayStation 2 the Best] |url=http://salesdatabase.net/games/655/ |website=Japan Game Sales Database |access-date=January 30, 2019 |archive-date=February 1, 2019 |archive-url=https://web.archive.org/web/20190201013511/http://salesdatabase.net/games/655/ |url-status=live }}</ref>
+* United States {{ndash}} 1.14{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 16, 2004}}
+| [[Fighting game|Fighting]]
+| [[Dimps]]
+| {{vgrelease|JP/EU|[[Bandai Games]]|NA/AUS|[[Atari]]}}
+|-
+| ''[[Dragon Quest V|Dragon Quest V: Hand of the Heavenly Bride]]''
+| {{val|1.811|u=million}}<ref name="gamedatalibrary"/>
+| {{dts|March 25, 2004}}
+| [[Role-playing video game|Role-playing]]
+| {{hlist|[[ArtePiazza]]|[[Matrix Software]]}}
+| [[Square Enix]]
+|-
+| ''[[James Bond 007: Nightfire|007: Nightfire]]''
+| {{val|1.8|u=million}}{{efn|''James Bond 007: Nightfire'' sales breakdown:
+* Japan {{ndash}} 108,795<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.4{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 18, 2002}}
+| [[First-person shooter]]
+| [[Eurocom]]
+| [[EA Games]]
+|-
+| ''[[Ace Combat 5: The Unsung War]]''
+| {{val|1.8|u=million}}<ref name="AceCombat"/>
+| {{dts|October 21, 2004}}
+| [[Combat flight simulator]]
+| Project Aces
+| [[Namco]]
+|-
+| ''[[Namco Museum]]''
+| {{val|1.8|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|December 4, 2001}}
+| [[Video game compilation|Compilation]]
+| [[Namco]]
+| [[Namco]]
+|-
+| ''[[ATV Offroad Fury 2]]''
+| {{val|1.77|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|November 9, 2002}}
+| [[Racing video game|Racing]]
+| [[Rainbow Studios]]
+| {{vgrelease|NA|[[Sony Computer Entertainment]]|EU|[[THQ]]}}
+|-
+| ''[[Sonic Mega Collection Plus]]''
+| {{val|1.74|u=million}}{{efn|''Sonic Mega Collection Plus'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.44{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 2, 2004}}
+| [[Video game compilation|Compilation]]
+| [[Sonic Team]]
+| [[Sega]]
+|-
+| ''[[WWE SmackDown! Shut Your Mouth]]''
+| {{val|1.74|u=million}}{{efn|''WWE SmackDown! Shut Your Mouth'' sales breakdown:
+* Japan {{ndash}} 63,027<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.38{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 31, 2002}}
+| [[Sports game|Sports]]
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+|-
+| ''[[Call of Duty: Finest Hour]]''
+| {{val|1.71|u=million}}{{efn|''Call of Duty: Finest Hour'' sales breakdown:
+* Japan {{ndash}} 4,648<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2294|title=Call of Duty: Finest Hour - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502151150/http://garaph.info/softwareindividual.php//gid/2294|url-status=live}}</ref>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.41{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 16, 2004}}
+| [[First-person shooter]]
+| [[Spark Unlimited]]
+| [[Activision]]
+|-
+| ''[[NBA Street]]''
+| {{val|1.71|u=million}}{{efn|''NBA Street'' sales breakdown:
+* Japan {{ndash}} 13,416<ref name=rank/>
+* United States {{ndash}} 1.7{{nbsp}}million<ref name="top100us10"/>
+}}
+| {{dts|June 18, 2001}}
+| [[Sports game|Sports]]
+| {{hlist|[[NuFX]]|[[EA Canada]]}}
+| [[EA Sports BIG]]
+|-
+| ''[[Devil May Cry 2]]''
+| {{val|1.7|u=million}}<ref name="capcomplatinum"/>{{efn|''Devil May Cry 2'' sales breakdown:
+* Japan {{ndash}} 456,824<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 100,000<ref name="elspas"/>
+}}
+| {{dts|January 25, 2003}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Grand Theft Auto: Liberty City Stories]]''
+| {{val|1.7|u=million}}{{efn|''Grand Theft Auto: Liberty City Stories'' sales breakdown:
+* Japan {{ndash}} 82,248<ref name="gamedatalibrary"/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap"/>
+* United States {{ndash}} 1.32{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|June 6, 2006}}
+| [[Action-adventure game|Action-adventure]]
+| {{hlist|[[Rockstar Leeds]]|[[Rockstar North]]}}
+| [[Rockstar Games]]
+|-
+| ''[[Mortal Kombat: Deadly Alliance]]''
+| {{val|1.7|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|November 16, 2002}}
+| [[Fighting game|Fighting]]
+| [[Midway Games]]
+| [[Midway Games]]
+|-
+| ''[[Yakuza (video game)|Yakuza]]''
+| {{val|1.7|u=million}}<ref>{{cite web |url=http://www.the-magicbox.com/game20070224.shtml |title=Tips and announcement |date=February 27, 2007 |access-date=April 11, 2007 |publisher=The Magic Box |url-status=dead |archive-url=https://web.archive.org/web/20070313214137/http://www.the-magicbox.com/game20070224.shtml |archive-date=March 13, 2007 }}</ref>{{efn|''Yakuza'' sales breakdown:
+* Japan {{ndash}} 883,179<ref name="gamedatalibrary"/>
+}}
+| {{dts|December 8, 2005}}
+| [[Action-adventure game|Action-adventure]]
+| [[Sega development studios#New Entertainment division|Sega NE R&D]]
+| [[Sega]]
+|-
+| ''[[Virtua Fighter 4]]''
+| {{val|1.68|u=million}}<ref name="CESA2008" />
+| {{dts|January 31, 2002}}
+| [[Fighting game|Fighting]]
+| [[SEGA AM2]]
+| [[Sega]]
+|-
+| ''[[Enter the Matrix]]''
+| {{val|1.61|u=million}}{{efn|''Enter the Matrix'' sales breakdown:
+* Japan {{ndash}} 76,142<ref name=rank/>
+* United Kingdom {{ndash}} 200,000<ref name="elspag"/>
+* United States {{ndash}} 1.34{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|May 14, 2003}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[fighting game|fighting]]}}
+| [[Shiny Entertainment]]
+| [[Infogrames]]
+|-
+| ''[[Need for Speed: Hot Pursuit 2]]''
+| {{val|1.61|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|October 1, 2002}}
+| [[Racing video game|Racing]]
+| [[EA Black Box]]
+| [[EA Games]]
+|-
+| ''[[Jak II]]''
+| {{val|1.6|u=million}}<ref>{{cite press release |url=http://www.us.playstation.com/News/PressReleases/190 |title=Highly anticipated sequel, Jak 3, arrives this fall only on PlayStation 2 |date=April 18, 2004 |access-date=January 2, 2008 |publisher=[[Sony Computer Entertainment]] |archive-date=February 21, 2009 |archive-url=https://web.archive.org/web/20090221203031/http://www.us.playstation.com/News/PressReleases/190 |url-status=live }}</ref>
+| {{dts|October 14, 2003}}
+| {{hlist|[[Platform game|Platform]]|[[third-person shooter]]|[[action-adventure game|action-adventure]]}}
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[NBA Street Vol. 2]]''
+| {{val|1.6|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|April 28, 2003}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports BIG]]
+|-
+| ''[[WWE SmackDown! Here Comes the Pain]]''
+| {{val|1.58|u=million}}{{efn|''WWE SmackDown! Here Comes the Pain'' sales breakdown:
+* Japan {{ndash}} 45,547<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.24{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 27, 2003}}
+| [[Sports game|Sports]]
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+|-
+| ''[[Gran Turismo Concept]]''
+| {{val|1.56|u=million}} shipped<ref name=gt50m>{{cite web |url=https://www.pcworld.com/article/145675/gran_turismo_series_shipments_hit_50_million.html|title=Gran Turismo Series Shipments Hit 50 Million |author=Martyn Williams |date=May 9, 2008 |access-date=December 4, 2008 |work=[[PC World (magazine)|PC World]] }}{{Dead link|date=February 2023 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref name="gtseries">{{cite web|url=http://www.polyphony.co.jp/english/list.html |title="Gran Turismo" Series Software Title List |date=June 2008 |access-date=December 4, 2008 |publisher=[[Polyphony Digital]] |url-status=dead |archive-url=https://web.archive.org/web/20070206025009/http://www.polyphony.co.jp/english/list.html |archive-date=February 6, 2007}}</ref>{{efn|''Gran Turismo Concept'' sales breakdown:
+* Asia {{ndash}} 560,000<ref name="gtsales"/>
+* Europe {{ndash}} 1{{nbsp}}million<ref name="gtsales"/>
+}}
+| {{dts|January 1, 2002}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Dynasty Warriors 5]]''
+| {{val|1.55|u=million}}<ref name="CESA2008" />
+| {{dts|February 24, 2005}}
+| [[hack and slash]]
+| [[Omega Force]]
+| [[Koei]]
+|-
+| ''[[Guitar Hero (video game)|Guitar Hero]]''
+| {{val|1.53|u=million}}<ref name="magicboxus"/>{{efn|name="US sales only"}}
+| {{dts|November 7, 2005}}
+| {{hlist|[[Music video game|Music]]|[[rhythm game|rhythm]]}}
+| [[Harmonix]]
+| [[RedOctane]]
+|-
+| ''[[WWE SmackDown vs. Raw 2007]]''
+| {{val|1.53|u=million}}{{efn|''WWE SmackDown vs. Raw 2007'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.23{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 10, 2006}}
+| [[Sports game|Sports]]
+| [[Yuke's]]
+| [[THQ]]
+|-
+| ''[[Onimusha 3: Demon Siege]]''
+| {{val|1.52|u=million}}<ref name="capcomplatinum"/>
+| {{dts|February 26, 2004}}
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[hack and slash]]}}
+| [[Capcom]]
+| [[Capcom]]
+|-
+| ''[[Bratz: Rock Angelz (video game)|Bratz: Rock Angelz]]''
+| {{val|1.5|u=million}}<ref>{{cite web|url=https://labusinessjournal.com/news/feisty-little-bratz-dolling-up-the-bottom-line/|title=Feisty little Bratz dolling up the bottom line|date=June 24, 2007|publisher=[[Los Angeles Business Journal]]|access-date=June 13, 2024}}</ref>
+| {{dts|October 4, 2005}}
+| [[Adventure game|Adventure]]
+| [[Blitz Games]]
+| [[THQ]]
+|-
+| ''[[Bully (video game)|Bully]]''
+| {{val|1.5|u=million}}<ref name="taketwovalue">{{cite web |url=http://taketwovalue.com/documents/TTWO_Value.pdf |title=Recommendation of the Board of Directors to Reject Electronic Arts Inc.'s Tender Offer |access-date=August 3, 2008 |date=March 26, 2008 |publisher=[[Take-Two Interactive]] |pages=12, 14, 16 |archive-url = https://web.archive.org/web/20080626142151/http://taketwovalue.com/documents/TTWO_Value.pdf <!-- Bot retrieved archive --> |archive-date = June 26, 2008}}</ref>
+| {{dts|October 17, 2006}}
+| [[Action-adventure game|Action-adventure]]
+| [[Rockstar Vancouver]]
+| [[Rockstar Games]]
+|-
+| ''[[Samurai Warriors]]''
+| {{val|1.5|u=million}}{{efn|''Samurai Warriors'' sales breakdown:
+* Japan {{ndash}} 1.06{{nbsp}}million<!--"Sengoku Musou" in the reference--><ref name="magicboxjapan">{{cite web|url=http://www.the-magicbox.com/topten2.htm |title=Japan Platinum Game Chart |publisher=The Magic Box |access-date=May 22, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20071213230402/http://www.the-magicbox.com/topten2.htm |archive-date=December 13, 2007}}</ref>
+* United States {{ndash}} 449,759<ref name=shrine/>
+}}
+| {{dts|February 11, 2004}}
+| [[Hack and slash]]
+| [[Omega Force]]
+| {{vgrelease|WW|[[Koei]]|EU|[[Electronic Arts]]}}
+|-
+| ''[[Tony Hawk's Underground 2]]''
+| {{val|1.5|u=million}}{{efn|''Tony Hawk's Underground 2'' sales breakdown:
+* United Kingdom {{ndash}} 200,000<ref name="elspag" />
+* United States {{ndash}} 1.3{{nbsp}}million<ref name="magicboxus" />
+}}
+| {{dts|October 4, 2004}}
+| [[Sports game|Sports]]
+| [[Neversoft]]
+| [[Activision]]
+|-
+| ''[[NBA Live 2004]]''
+| {{val|1.48|u=million}}{{efn|''NBA Live 2004'' sales breakdown:
+* Japan {{ndash}} 28,487<ref name=rank/>
+* United States {{ndash}} 1.46{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 14, 2003}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports]]
+|-
+| ''[[WWF SmackDown! Just Bring It]]''
+| {{val|1.48|u=million}}{{efn|''WWF SmackDown! Just Bring It'' sales breakdown:
+* Japan {{ndash}} 76,393<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.11{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 16, 2001}}
+| [[Sports game|Sports]]
+| [[Yuke's]]
+| {{vgrelease|WW|[[THQ]]|JP|[[Yuke's]]}}
+|-
+| ''[[Finding Nemo (video game)|Disney•Pixar Finding Nemo]]''
+| {{val|1.46|u=million}}{{efn|''Finding Nemo'' sales breakdown:
+* Japan {{ndash}} 48,263<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/3118|title=Finding Nemo - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502155347/http://garaph.info/softwareindividual.php//gid/3118|url-status=live}}</ref>
+* United Kingdom {{ndash}} 300,000<ref name="elspap"/>
+* United States {{ndash}} 1.12{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|May 9, 2003}}
+| [[Action-adventure game|Action-adventure]]
+| [[Traveller's Tales]]
+| [[THQ]]
+|-
+| ''[[Resident Evil Outbreak]]''
+| {{val|1.45|u=million}}<ref name="capcomplatinum"/>
+| {{dts|December 11, 2003}}
+| [[Survival horror]]
+| [[Capcom Production Studio 1]]
+| [[Capcom]]
+|-
+| ''[[Yu-Gi-Oh! The Duelists of the Roses]]''
+| {{val|1.44|u=million}}{{efn|''Yu-Gi-Oh! The Duelists of the Roses'' sales breakdown:
+* Japan {{ndash}} 76,248<ref name="gamedatalibrary"/>
+* United States and Europe {{ndash}} {{nowrap|1.37 million}}<ref name="million"/>
+}}
+| {{dts|September 6, 2001}}
+| [[Card battle game|Card battle]]
+| [[Konami]]
+| [[Konami]]
+|-
+| ''[[Tiger Woods PGA Tour 2004]]''
+| {{val|1.43|u=million}}{{efn|''Tiger Woods PGA Tour 2004'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap"/>
+* United States {{ndash}} 1.13{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|September 22, 2003}}
+| [[Sports game|Sports]]
+| [[EA Redwood Studios]]
+| [[EA Sports]]
+|-
+| ''[[Tony Hawk's Pro Skater 4]]''
+| {{val|1.42|u=million}}{{efn|''Tony Hawk's Pro Skater 4'' sales breakdown:
+* United Kingdom {{ndash}} 200,000<ref name="elspag"/>
+* United States {{ndash}} 1.22{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 23, 2002}}
+| [[Sports game|Sports]]
+| [[Neversoft]]
+| [[Activision O2]]
+|-
+| ''[[Hitman 2: Silent Assassin]]''
+| {{val|1.41|u=million}}{{efn|''Hitman 2: Silent Assassin'' sales breakdown:
+* Japan {{ndash}} 12,175<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.1{{nbsp}}million<ref name="top100us7">{{cite web|url=http://www.next-gen.biz/features/top-100-games-21st-century |page=7 |title=The top 100 games of the 21st century |author=Colin Campbell, Joe Keiser |date=July 29, 2006 |access-date=November 29, 2006 |publisher=[[Next Generation Magazine|Next-Gen.biz]] |url-status=dead |archive-url=https://archive.today/20120906060824/http://www.next-gen.biz/features/top-100-games-21st-century |archive-date=September 6, 2012}}</ref>
+}}
+| {{dts|October 1, 2002}}
+| [[Stealth game|Stealth]]
+| [[IO Interactive]]
+| [[Eidos Interactive]]
+|-
+| ''[[The Sims (video game)|The Sims]]''
+| {{val|1.41|u=million}}{{efn|''The Sims'' sales breakdown:
+* Japan {{ndash}} 16,658<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap"/>
+* United States {{ndash}} 1.1{{nbsp}}million<ref name="top100us7"/>
+}}
+| {{dts|January 14, 2003}}
+| [[Life simulation game|Life simulation]]
+| [[Edge of Reality]]
+| [[EA Games]]
+|-
+| ''[[Gran Turismo 4 Prologue]]''
+| {{val|1.4|u=million}}<ref name="Polyphony" />{{efn|''Gran Turismo 4 Prologue'' sales breakdown:
+* Asia {{ndash}} 950,000<ref name="gtsales"/>
+* Europe {{ndash}} 450,000<ref name="Polyphony"/>
+}}
+| {{dts|December 4, 2003}}
+| [[Sim racing]]
+| [[Polyphony Digital]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Resident Evil – Code: Veronica|Resident Evil – Code: Veronica X]]''
+| {{val|1.4|u=million}}<ref name="capcomplatinum" />
+| {{dts|March 22, 2001}}
+| [[Survival horror]]
+| [[Capcom Production Studio 4]]
+| [[Capcom]]
+|-
+| ''[[NCAA Football 06]]''
+| {{val|1.39|u=million}}<ref name="magicboxus"/>
+| {{dts|July 11, 2005}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Crazy Taxi (video game)|Crazy Taxi]]''
+| {{val|1.38|u=million}}{{efn|''Crazy Taxi'' sales breakdown:
+* Japan {{ndash}} 13,075<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.07{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|May 14, 2001}}
+| {{hlist|[[Racing video game|Racing]]|[[action game|action]]}}
+| [[Sega AM3|Hitmaker]]
+| [[Sega]]
+|-
+| ''[[Lego Star Wars II: The Original Trilogy|LEGO Star Wars II: The Original Trilogy]]''
+| {{val|1.38|u=million}}{{efn|''Lego Star Wars II: The Original Trilogy'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.08{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|September 12, 2006}}
+| [[Action-adventure game|Action-adventure]]
+| [[Traveller's Tales]]
+| [[LucasArts]]
+|-
+| ''[[The Lord of the Rings: The Return of the King (video game)|The Lord of the Rings: The Return of the King]]''
+| {{val|1.37|u=million}}{{efn|''The Lord of the Rings: The Return of the King'' sales breakdown:
+* Japan {{ndash}} 34,979<ref name=rank/>
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1.04{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 5, 2003}}
+| {{hlist|[[Hack and slash]]|[[action role-playing game|action role-playing]]}}
+| [[EA Redwood Shores]]
+| [[EA Games]]
+|-
+| ''[[Star Ocean: Till the End of Time]]''
+| {{val|1.36|u=million}}{{efn|''Star Ocean: Till the End of Time'' sales breakdown:
+* Europe {{ndash}} 90,000<ref>{{cite web |url=http://www.square-enix.com/jp/ir/e/data/financial/download/0404-200411300000-01.pdf#page=5 |title=Consolidated Financial Results for the Six Months Ended September 30, 2004 |date=November 18, 2004 |publisher=[[Square Enix]] |format=PDF |page=5 |access-date=May 24, 2008 |archive-date=August 20, 2008 |archive-url=https://web.archive.org/web/20080820143656/http://www.square-enix.com/jp/ir/e/data/financial/download/0404-200411300000-01.pdf#page=5 |url-status=live }}</ref>
+* Japan {{ndash}} 533,373<ref name="japanchartsps2"/>
+* United States {{ndash}} 740,000<ref name="magicboxus"/>
+}}
+| {{dts|August 31, 2004}}
+| [[Action role-playing game|Action role-playing]]
+| [[tri-Ace]]
+| {{hlist|[[Enix]]|[[Square Enix]]{{efn|Square Enix published the Director's Cut version of ''Star Ocean: Till the End of Time''.}}}}
+|-
+| ''[[Burnout 3: Takedown]]''
+| {{val|1.33|u=million}}{{efn|''Burnout 3: Takedown'' sales breakdown:
+* Japan {{ndash}} 78,986<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/1988|title=Burnout 3: Takedown - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502112512/http://garaph.info/softwareindividual.php//gid/1988|url-status=live}}</ref><ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2165|title=Burnout 3 Takedown (EA BEST HITS) - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=October 6, 2011|archive-url=https://web.archive.org/web/20111006053316/http://garaph.info/softwareindividual.php//gid/2165|url-status=live}}</ref>
+* United Kingdom {{ndash}} 300,000<ref name="elspap"/>
+* United States {{ndash}} 960,000<ref name="magicboxus"/>
+}}
+| {{dts|September 7, 2004}}
+| [[Racing video game|Racing]]
+| [[Criterion Games]]
+| [[EA Games]]
+|-
+| ''[[Jak 3]]''
+| {{val|1.33|u=million}}{{efn|''Jak 3'' sales breakdown:
+* United Kingdom {{ndash}} 100,000<ref name="elspas">{{cite web |url=http://www.elspa.com/?i=3942 |access-date=February 3, 2009 |publisher=[[Entertainment and Leisure Software Publishers Association]] |title=ELSPA Sales Awards: Silver |archive-url=https://web.archive.org/web/20100618014928/http://www.elspa.com/?i=3942 |archive-date=June 18, 2010}}</ref>
+* United States {{ndash}} 1.23{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|November 9, 2004}}
+| {{hlist|[[Platform game|Platform]]|[[third-person shooter]]|[[action-adventure game|action-adventure]]}}
+| [[Naughty Dog]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[NCAA Football 07]]''
+| {{val|1.32|u=million}}<ref name="magicboxus"/>
+| {{dts|July 18, 2006}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Tom Clancy's Ghost Recon (2001 video game)|Tom Clancy's Ghost Recon]]''
+| {{val|1.32|u=million}}{{efn|''Tom Clancy's Ghost Recon'' sales breakdown:
+* Japan {{ndash}} 9,970<ref name=rank/>
+* United States {{ndash}} 1.32{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|December 1, 2002}}
+| [[Tactical shooter]]
+| [[Red Storm Entertainment]]
+| [[Ubi Soft]]
+|-
+| ''[[Soulcalibur II]]''
+| {{val|1.31|u=million}}{{efn|''Soulcalibur II'' sales breakdown:
+* Japan {{ndash}} 144,948<ref name=shrine>{{cite web|date= January 30, 2005|title=PS2 Software Best Seller Ranking|url=http://www5e.biglobe.ne.jp/~hokora/ps2rank.html|archive-url= https://archive.today/20050225221220/http://www5e.biglobe.ne.jp/~hokora/ps2rank.html|archive-date=February 25, 2005 |work=Shrine of Data |access-date=August 9, 2009}}</ref>
+* United Kingdom {{ndash}} 200,000<ref name=elspag/>
+* United States {{ndash}} 970,000<ref name="magicboxus"/>
+}}
+| {{dts|March 27, 2003}}
+| [[Fighting game|Fighting]]
+| [[Project Soul]]
+| [[Namco]]
+|-
+| ''[[Shrek 2 (video game)|Shrek 2]]''
+| {{val|1.3|u=million}}{{efn|''Shrek 2'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 1{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|April 28, 2004}}
+| [[Action-adventure game|Action-adventure]]
+| [[Luxoflux]]
+| [[Activision]]
+|-
+| ''[[Midnight Club II]]''
+| {{val|1.28|u=million}}{{efn|''Midnight Club II'' sales breakdown:
+* United Kingdom {{ndash}} 100,000<ref name="elspas" />
+* United States {{ndash}} 1.18{{nbsp}}million<ref name="magicboxus" />
+}}
+| {{dts|April 9, 2003}}
+| [[Racing video game|Racing]]
+| [[Rockstar San Diego]]
+| [[Rockstar Games]]
+|-
+| ''[[NCAA Football 2004]]''
+| {{val|1.28|u=million}}<ref name="magicboxus" />
+| {{dts|July 16, 2003}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[NBA Live 06]]''
+| {{val|1.27|u=million}}{{efn|''NBA Live 06'' sales breakdown:
+* Japan {{ndash}} 48,907<ref>{{cite web|url=http://garaph.info/softwareindividual.php//gid/2313|title=NBA Live 2006 - PS2|publisher=Famitsu|access-date=April 3, 2010|archive-date=May 2, 2019|archive-url=https://web.archive.org/web/20190502172903/http://garaph.info/softwareindividual.php//gid/2313|url-status=live}}</ref>
+* United States {{ndash}} 1.23{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|September 26, 2005}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports]]
+|-
+| ''[[NFL Blitz Pro]]''
+| {{val|1.27|u=million}}<ref name="magicboxus" />
+| {{dts|October 28, 2003}}
+| [[Sports game|Sports]]
+| [[Midway Games]]
+| [[Midway Games]]
+|-
+|''[[Shadow the Hedgehog (video game)|Shadow the Hedgehog]]''
+| {{val|1.26|u=million}}<ref name="CESA2008" />
+|{{dts|November 15, 2005}}
+|[[Platform game|Platform]]
+|[[Sonic Team]]
+|[[Sega]]
+|-
+| ''[[Dirge of Cerberus: Final Fantasy VII]]''
+| {{val|1.24|u=million}}{{efn|''Dirge of Cerberus: Final Fantasy VII'' sales breakdown:
+* Europe {{ndash}} 270,000<ref name="sqex20070831" />
+* Japan {{ndash}} 514,857<ref name="gamedatalibrary" />
+* North America {{ndash}} 460,000<ref name="sqex20070831" />
+}}
+| {{dts|January 26, 2006}}
+| {{hlist|[[Action role-playing game|Action role-playing]]|[[third-person shooter]]}}
+| {{hlist|[[Square Enix]]|[[Monolith Soft]]}}
+| [[Square Enix]]
+|-
+| ''[[Madden NFL 2001]]''
+| {{val|1.23|u=million}}{{efn|''Madden NFL 2001'' sales breakdown:
+* Japan {{ndash}} 26,711<ref name="rank" />
+* United States {{ndash}} 1.21{{nbsp}}million<ref name="magicboxus" />
+}}
+| {{dts|October 26, 2000}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| {{vgrelease|NA/EU|[[EA Sports]]|JP|[[Electronic Arts Square]]}}
+|-
+| ''[[Scarface: The World Is Yours]]''
+| {{val|1.22|u=million}}{{efn|''Scarface: The World Is Yours'' sales breakdown:
+* United Kingdom {{ndash}} 200,000<ref name="elspag" />
+* United States {{ndash}} 1.02{{nbsp}}million<ref name="magicboxus" />
+}}
+| {{dts|October 8, 2006}}
+| [[Action-adventure game|Action-adventure]]
+| [[Radical Entertainment]]
+| [[Vivendi Games]]
+|-                                                                                                                                                                                                            
+| ''[[Pac-Man World 2]]''
+| {{val|1.21|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|February 24, 2002}}
+| [[Platform game|Platform]]
+| [[Namco|Namco Hometek]]
+| {{vgrelease|WW|[[Namco]]|EU|[[Sony Computer Entertainment]]}}
+|-
+| ''[[Dark Cloud]]''
+| {{val|1.2|u=million}} shipped<ref name="gdclevel5">{{cite web|url=http://game.watch.impress.co.jp/docs/news/20090329_80129.html|title=Game Developers Conference 2009現地レポート−GAME Watch|trans-title=Local report - Game Developers Conference 2009, and other games|publisher=Watch Impress|language=ja|access-date=March 29, 2009|date=March 29, 2009|archive-date=March 30, 2009|archive-url=https://web.archive.org/web/20090330061018/http://game.watch.impress.co.jp/docs/news/20090329_80129.html|url-status=live}}</ref>
+| {{dts|December 14, 2000}}
+| [[Action role-playing game|Action role-playing]]
+| [[Level-5 (company)|Level-5]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[NBA Live 2003]]''
+| {{val|1.19|u=million}}{{efn|''NBA Live 2003'' sales breakdown:
+* Japan {{ndash}} 11,909<ref name=rank/>
+* United States {{ndash}} 1.18{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|October 8, 2002}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports]]
+|-
+| ''[[ESPN NBA 2K5]]''
+| {{val|1.19|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|September 30, 2004}}
+| [[Sports game|Sports]]
+| [[Visual Concepts]]
+| [[Sega]]
+|-
+| ''[[Scooby-Doo! Night of 100 Frights]]''
+| {{val|1.17|u=million}}{{efn|''Scooby-Doo! Night of 100 Frights'' sales breakdown:
+* United Kingdom {{ndash}} 100,000<ref name="elspas" />
+* United States {{ndash}} 1.07{{nbsp}}million<ref name="magicboxus" />
+}}
+| {{dts|May 20, 2002}}
+| [[Platform game|Platform]]
+| [[Heavy Iron Studios]]
+| [[THQ]]
+|-
+| ''[[Tom Clancy's Splinter Cell (video game)|Tom Clancy's Splinter Cell]]''
+| {{val|1.17|u=million}}{{efn|''Tom Clancy's Splinter Cell'' sales breakdown:
+* Japan {{ndash}} 10,784<ref name="rank" />
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 867,914<ref name="rank" />
+}}
+| {{dts|March 28, 2003}}
+| [[Stealth game|Stealth]]
+| [[Ubi Soft Shanghai]]
+| [[Ubi Soft]]
+|-
+| ''[[Jissen Pachi-Slot Hisshoho! Hokuto no Ken]]''
+| {{val|1.15|u=million}}<ref>{{cite web|url=http://www.segasammy.co.jp/english/ir/pdf/ir/presentation/segasammy/200505/handout_presen.pdf#page=13 |title=FY2004 Financial Results |publisher=[[Sega Sammy Holdings]] |date=May 25, 2005 |access-date=June 17, 2008 |page=13 }}{{dead link|date=June 2016|bot=medic}}{{cbignore|bot=medic}}</ref>{{efn|Includes ''Jissen Pachi-Slot Hisshoho! Hokuto no Ken Plus''.}}
+| {{dts|May 27, 2004}}
+| [[Pachinko]]
+| [[Sammy Corporation]]
+| [[Sammy Corporation]]
+|-
+| ''[[MVP Baseball 2005]]''
+| {{val|1.14|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|February 22, 2005}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports]]
+|-
+| ''[[Twisted Metal: Black]]''
+| {{val|1.12|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|June 18, 2001}}
+| [[Vehicular combat game|Vehicular combat]]
+| [[Incognito Entertainment]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Fight Night 2004]]''
+| {{val|1.1|u=million}}{{efn|''Fight Night 2004'' sales breakdown:
+* United Kingdom {{ndash}} 100,000<ref name="elspas"/>
+* United States {{ndash}} 1{{nbsp}}million<ref name="magicboxus"/>
+}}
+| {{dts|April 5, 2004}}
+| [[Sports game|Sports]]
+| {{hlist|[[EA Canada]]|[[NuFX]]}}
+| [[EA Sports]]
+|-
+| ''[[Midnight Club 3: Dub Edition|Midnight Club 3: DUB Edition]]''
+| {{val|1.1|u=million}}{{efn|''Midnight Club 3: Dub Edition'' sales breakdown:
+* United Kingdom {{ndash}} 100,000<ref name="elspas" />
+* United States {{ndash}} 1{{nbsp}}million<ref name="magicboxus" />
+}}
+| {{dts|April 11, 2005}}
+| [[Racing video game|Racing]]
+| [[Rockstar San Diego]]
+| [[Rockstar Games]]
+|-
+| ''[[Dance Dance Revolution 7thMIX|DDRMAX2 Dance Dance Revolution 7thMix]]''
+| {{val|1.09|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|September 23, 2003}}
+| {{hlist|[[Music video game|Music]]|[[exergaming]]}}
+| [[Konami]]
+| [[Konami]]
+|-
+| ''[[SpyHunter]]''
+| {{val|1.07|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|September 24, 2001}}
+| [[Vehicular combat game|Vehicular combat]]
+| [[Paradigm Entertainment]]
+| [[Midway Games]]
+|-
+| ''[[Naruto: Ultimate Ninja 2]]''
+| {{val|1.06|u=million}}{{efn|''Naruto: Ultimate Ninja 2'' sales breakdown:
+* Japan {{ndash}} 403,000<ref name="japanchartsps2"/>
+* North America and Western Europe {{ndash}} 660,000<ref>{{cite web|url=http://www.next-gen.biz/features/top-100-selling-games-last-12-months|title=The Top 100 Selling Games of the Last 12 Months|publisher=[[Next Generation Magazine|Next-Gen.biz]]|date=April 9, 2008|access-date=April 10, 2008|page=7|url-status=dead|archive-url=https://web.archive.org/web/20120418225219/http://www.edge-online.com/features/top-100-games-21st-century|archive-date=April 18, 2012}}</ref>
+}}
+| {{dts|September 30, 2004}}
+| [[Fighting game|Fighting]]
+| [[CyberConnect2]]
+| {{vgrelease|JP|[[Bandai]]|NA/EU/AUS|[[Namco Bandai Games]]}}
+|-
+| ''[[Harry Potter and the Chamber of Secrets (video game)|Harry Potter and the Chamber of Secrets]]''
+| {{val|1.04|u=million}}{{efn|''Harry Potter and the Chamber of Secrets'' sales breakdown:
+* Japan {{ndash}} 46,855<ref name="rank" />
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 700,000<ref name="top100us3">{{cite web|url=http://www.next-gen.biz/features/top-100-games-21st-century |page=3 |title=The top 100 games of the 21st century |date=July 29, 2006 |access-date=August 9, 2009 |author=Colin Campbell, Joe Keiser |publisher=[[Next Generation Magazine|Next-Gen.biz]] |url-status=dead |archive-url=https://archive.today/20120906060824/http://www.next-gen.biz/features/top-100-games-21st-century |archive-date=September 6, 2012}}</ref>
+}}
+| {{dts|November 14, 2002}}
+| [[Action-adventure game|Action-adventure]]
+| [[EA Bright Light|EA UK]]
+| [[EA Games]]
+|-
+| ''[[The Incredibles (video game)|The Incredibles]]''
+| {{val|1.04|u=million}}{{efn|''The Incredibles'' sales breakdown:
+* United Kingdom {{ndash}} 300,000<ref name="elspap" />
+* United States {{ndash}} 740,000<ref name="top100us10" />
+}}
+| {{dts|October 31, 2004}}
+| [[Action-adventure game|Action-adventure]]
+| [[Heavy Iron Studios]]
+| [[THQ]]
+|-
+| ''[[MVP Baseball 2004]]''
+| {{val|1.02|u=million}}<ref name="magicboxus" />{{efn|name="US sales only"}}
+| {{dts|March 9, 2004}}
+| [[Sports game|Sports]]
+| [[EA Canada]]
+| [[EA Sports]]
+|-
+| ''[[Cars (video game)|Disney•Pixar Cars]]''
+| {{val|1.01|u=million}}{{efn|''Cars (video game)'' sales breakdown:                                                                                                                 * United States {{ndash}} 1.01{{nbsp}}million<ref name="magicboxus" />     
+}}                                                                                                                                                                                                                                                                                               
+| {{dts|June 6, 2006}}                                                                                                                                       
+| {{hlist|[[Action-adventure game|Action-adventure]]|[[racing video game|Racing]]}}
+| [[Rainbow Studios]]                                                                                                                                         
+| [[THQ]]                                                                                                                                        
+|-
+| ''[[Dead or Alive 2]]''
+| {{nts|1}}{{nbsp}}million<ref>{{cite web|url=https://www.ign.com/articles/2001/06/06/tecmo-discusses-development-plans|title=Tecmo Discusses Development Plans|website=[[IGN]]|date=May 20, 2012|access-date=September 3, 2026}}</ref>
+| {{dts|March 30, 2000}}
+| [[Fighting game|Fighting]]
+| [[Team Ninja]]
+| [[Tecmo]]
+|-
+| ''[[Guitar Hero Encore: Rocks the 80s]]''
+| {{val|1|u=million}}<ref>{{cite web|url=http://www.next-gen.biz/features/top-100-selling-games-last-12-months|page=6|publisher=[[Next Generation Magazine|Next-Gen.biz]]|date=April 9, 2008|access-date=April 10, 2008|title=The Top 100 Selling Games of the Last 12 Months|url-status=dead|archive-url=https://web.archive.org/web/20120418225219/http://www.edge-online.com/features/top-100-games-21st-century|archive-date=April 18, 2012}}</ref>{{efn|Sales data only reported for North America and Western Europe.}}
+| {{dts|July 24, 2007}}
+| {{hlist|[[Music video game|Music]]|[[rhythm game|rhythm]]}}
+| [[Harmonix]]
+| [[Activision]]
+|-
+| ''[[NCAA Football 2003]]''
+| {{val|1|u=million}}<ref name="magicboxus" />
+| {{dts|July 20, 2002}}
+| [[Sports game|Sports]]
+| [[EA Tiburon]]
+| [[EA Sports]]
+|-
+| ''[[Silent Hill 2]]''
+| {{val|1|u=million}}<ref>{{cite web|url=http://uk.ps2.ign.com/articles/099/099550p1.html|archive-url=https://web.archive.org/web/20070524184403/http://uk.ps2.ign.com/articles/099/099550p1.html|url-status=dead|archive-date=May 24, 2007|publisher=IGN|date= October 31, 2001|access-date=July 31, 2007|title=Silent Hill 2 Cracks Million Mark}}</ref>
+| {{dts|September 24, 2001}}
+| [[Survival horror]]
+| [[Konami Computer Entertainment Tokyo]] ([[Team Silent]])
+| [[Konami]]
+|-
+| ''[[Sly Cooper and the Thievius Raccoonus]]''
+| {{val|1|u=million}}<ref>{{cite press release|url=http://www.us.playstation.com/News/PressReleases/179|date=March 11, 2004|access-date=January 2, 2008|publisher=[[Sony Computer Entertainment]]|title=PlayStation 2 favorite racoon 'Sly Cooper' returns once again to steal hearts in Sly 2: Band of Thieves|archive-date=February 21, 2009|archive-url=https://web.archive.org/web/20090221200959/http://www.us.playstation.com/News/PressReleases/179|url-status=live}}</ref>
+| {{dts|September 23, 2002}}
+| {{hlist|[[Platform game|Platform]]|[[stealth game|stealth]]}}
+| [[Sucker Punch Productions]]
+| [[Sony Computer Entertainment]]
+|-
+| ''[[Xenosaga Episode I|Xenosaga Episode I: Der Wille zur Macht]]''
+| {{val|1|u=million}}<ref>{{cite press release|url=http://www.namcobandaigames.com/news/press/press/57/page/12 |title=Embark on an epic journey... Xenosaga Episode II now available |date=February 15, 2005 |access-date=January 7, 2008 |publisher=[[Namco Bandai Games]] |url-status=dead |archive-url=https://web.archive.org/web/20090221144636/http://www.namcobandaigames.com/news/press/press/57/page/12 |archive-date=February 21, 2009 }}</ref>
+| {{dts|February 28, 2002}}
+| [[Role-playing video game|Role-playing]]
+| [[Monolith Soft]]
+| [[Namco]]
+|}
+
+==See also==
+* [[List of PlayStation 2 games (A–K)]]
+* [[List of PlayStation 2 games (L–Z)]]
+
+==Notes==
+{{noteslist}}
+
+==References==
+{{reflist}}
+
+{{vgbestsellers|state=expanded}}
+{{PlayStation 2}}
+{{PlayStation}}
+{{Portal bar|Video games}}
+
+{{DEFAULTSORT:Best-selling PlayStation 2 video games}}
+[[Category:PlayStation 2 games| ]]
+[[Category:Lists of best-selling video games|PlayStation 2]]
+[[Category:PlayStation (brand)-related lists|Best-selling PlayStation 2 video games]]

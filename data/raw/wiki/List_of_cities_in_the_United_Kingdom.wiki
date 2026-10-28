@@ -1,0 +1,878 @@
+{{Short description|None}}
+{{For|a list of the largest urban areas in the UK, including [[conurbation]]s|List of urban areas in the United Kingdom}}
+{{Use British English|date=March 2013}}
+{{Use dmy dates|date=April 2024}}
+
+{{multiple image
+| perrow            = 2
+| total_width       = 330
+| image1            = Pier Head, Liverpool - 2024-06-15.jpg
+| alt1              = 
+| image2            = Skyline of Edinburgh.jpg
+| alt2              = 
+| image3            = Worcester Cathedral and city skyline - geograph.org.uk - 3643563.jpg
+| alt3              = 
+| image4            = 1 oxford aerial panorama 2016.jpg
+| alt4              = 
+| footer            = Examples of cities in the United Kingdom: [[Liverpool]], [[Edinburgh]], [[Worcester, England|Worcester]], and [[Oxford]]
+| caption1          = 
+}}
+This is a '''list of cities in the United Kingdom''' that are officially designated as such {{as of|2022|8|29|lc=y}}.<ref name="govt_list">{{cite web |title=UK Cabinet Office List of Cities|url=https://webarchive.nationalarchives.gov.uk/ukgwa/20250509113712/https://www.gov.uk/government/publications/list-of-cities/list-of-cities-html|access-date=10 June 2025|publication-date=29 August 2022|website=UK Government Web Archive}}</ref> It lists those places that have been granted [[City status in the United Kingdom|city status]] by [[letters patent]] or [[royal charter]].<ref name="govt_list" /><ref>{{cite news |last=McClatchey |first=Caroline |date=22 June 2011 |title=Why do towns want to become cities? |work=[[BBC News]] |url=https://www.bbc.com/news/magazine-13841482 |access-date=5 August 2020}}</ref>
+
+There are currently 76 such cities in the [[United Kingdom]]: 55 in England, [[List of towns and cities in Scotland by population|eight in Scotland]], [[list of cities in Wales|seven in Wales]], and six in [[Northern Ireland]].<ref name="govt_list" /> Of these, 24 in England, two in Wales, and two in Northern Ireland have [[Lord Mayor]]s; four in Scotland have [[Lord Provost]]s.{{efn|See [[List of lord mayoralties and lord provostships in the United Kingdom]].}} In some cases, the area holding city status does not coincide with the built up area or conurbation of which it forms part. In [[Greater London]], for example, the Cities of [[City of London|London]] and [[City of Westminster|Westminster]] hold city status separately, but no other local authority in the [[London Region]] has been granted city status, nor has the [[Greater London Authority]].
+
+In other cases, such as the cities of [[City of Canterbury|Canterbury]] and [[City of Lancaster|Lancaster]], the status applies to a local government district which extends over a number of towns and rural areas outside the main settlement proper.{{sfnb|Beckett|2005}} In England, city status sometimes applies to [[civil parish]]es, such as with [[Ripon]]; though the status may not apply to the local government district which share their name. For example, the civil parishes of [[Lichfield]] and [[Chichester]] each hold city status, but [[Lichfield District]] and [[Chichester District]] in which they are situated do not.
+
+As of 2022, there are currently five [[Ceremonial counties of England|ceremonial counties]] which contain three cities – [[Cambridgeshire]] (Ely, Cambridge and Peterborough{{Efn|Peterborough was in [[Northamptonshire]] from the Middle Ages until 1974.}}), [[Essex]], [[Hampshire]], [[West Midlands (county)|West Midlands]] and [[West Yorkshire]]. Outside the UK within [[British overseas cities]] of the [[British Overseas Territories]] and [[Crown Dependencies]], there are currently five. The number increased as part of the [[Platinum Jubilee of Elizabeth II|Platinum Jubilee]] celebrations by the addition of [[Stanley, Falkland Islands|Stanley]] in the [[Falkland Islands]] and [[Douglas, Isle of Man|Douglas]] in the [[Isle of Man]].
+
+== History ==
+{{hatnote|Main articles: [[City status in the United Kingdom]] and [[City status in Ireland|Ireland]], also [[Roman cities in Britain]].}}
+
+The [[Roman Cities in Britain|earliest cities]] ({{langx|la|[[civitas]]}}) in [[Roman Britain|Britain]] were the fortified settlements organised by the [[Ancient Romans|Romans]] as capitals of the [[Celtic tribes of the British Isles|Celtic tribes]] under [[Britannia (Roman province)|Roman rule]]. The [[Britons (Celtic people)|British]] [[Celtic Christianity|clerics]] of the [[Sub-Roman Britain|early Middle Ages]] later preserved a traditional list of the "[[28 Cities of Britain|28 Cities]]" ({{langx|owl|[[caer|cair]]}}) which was mentioned in ''[[De Excidio Britanniae]]''{{efn|''[[s:la:De Excidio Britanniae|De Excidio Britanniae]]'', §3. {{in lang|la}} Cited in the "Civitas" entry of ''Celtic Culture''.<ref name=cc>{{cite encyclopedia |editor=John T Koch |url=https://books.google.com/books?id=f899xH_quaMC&pg=PA451 |contribution=Civitas |title=Celtic Culture: A Historical Encyclopedia |volume=I |page=451 |publisher=ABC-CLIO |location=[[Santa Barbara, California]] |date=2006| isbn=978-1-85109-440-0 }}</ref>}} and ''[[Historia Brittonum]]''.<ref name=mommy>{{citation |editor-last=Mommsen |editor-first=Theodore |last=[[Nennius]] (Traditional attribution) |editor-link=Theodor Mommsen |chapter-url=https://la.wikisource.org/wiki/Historia_Brittonum#VI._CIVITATES_BRITANNIAE |chapter= VI. Civitates Britanniae |orig-date= Composed after AD&nbsp;830 |language=la |via=Latin Wikisource |title=Chronica Minora |series=Monumenta Germaniae Historica, Auctorum Antiquissimi xiii |location=Berlin |publisher=Weidmann |year=1898}}</ref>
+
+The title of city was initially informal and, into the 20th century, royal charters were considered to ''recognise'' city status rather than grant it.{{efn|The [[1911 Encyclopædia Britannica|11th edition]] of the ''[[Encyclopædia Britannica]]'', for instance, listed [[St Asaph]] and [[Southwell, Nottinghamshire|Southwell]] as cities on the basis of their cathedrals despite their lack of charters or, in Southwell's case, local government.<ref>''Encyclopædia Britannica'', {{nowrap|11th ed.}} 1911.</ref>{{page needed|date= August 2024}}}} The usual criterion in [[early modern Britain]] was the presence of a [[cathedral]], particularly after [[Henry VIII of England|King Henry VIII]] granted [[letters patent]] establishing six new cities when he established a series of new [[list of Church of England dioceses|dioceses of the Church of England]] in the 1540s as part of the [[English Reformation]].{{sfnb|Beckett|2005|page=22}} No new cities were created between the 16th and 19th centuries, but following the [[Industrial Revolution in the United Kingdom|Industrial Revolution]] and the accompanying [[Population in Victorian England|population boom]] and growth in [[Urbanisation#History|urbanisation]], new [[episcopal see|sees]] were established at [[Ripon]] (1836) and [[Manchester]] (1847); their councils began to style them cities immediately. [[Inverness]] in Scotland was refused a charter at the time of the [[Diamond Jubilee of Queen Victoria]] honours of 1897, in part because it would have drawn more attention to the other traditional "cities" still not formally chartered as such.{{sfnb|Beckett|2005|p=61}}
+
+Beginning in the mid-19th century, however, the process became more formal. After a visit by [[Queen Victoria]] in 1851, Manchester petitioned [[Parliament of the United Kingdom|Parliament]] for recognition of its status. Ripon followed in the 1860s, and a series of hitherto informal "cities" were formally recognised in the 1880s and 1890s. On the basis of its size, importance, and regular government, [[Belfast]] was elevated in spite of its lack of a cathedral in 1888; other large municipalities followed, while smaller applicants began to be rejected. King [[Edward VII]] and the [[Home Office]] established three criteria for future applicants in 1907: a minimum population of 300,000, a good record of local government, and a "local metropolitan character".{{sfnb|Beckett|2005|p=}} These criteria were not made public, however, and following [[Leicester]]'s successful elevation in 1919, a series of exceptions were made. The [[Local Government Act 1972]] effectively eliminated all authorities holding city status outside [[Greater London]] on 1 April 1974; most of their replacements were confirmed in their predecessor's status{{snd}} even in cases such as the [[Carlisle (district, 1974–2023)|1974&ndash;2023 Carlisle district]], where much of the local authority area was undeveloped countryside{{snd}} but the [[Borough of Medway]] was [[City status in the United Kingdom#Rochester|not permitted to continue Rochester's title]]. In recent times there have been [[City status in the United Kingdom#Current practice of granting city status|competitions]] for new grants of city status. Towns or councils that claim city status or add "city" to their name have been rebuked by the [[Advertising Standards Authority (United Kingdom)|Advertising Standards Authority]].<ref>{{cite web|url=http://www.asa.org.uk/Rulings/Adjudications/2011/3/Medway-Council/TF_ADJ_49924.aspx |title=ASA Adjudication on Medway Council |publisher=Asa.org.uk |date=16 March 2011 |access-date=9 June 2016}}</ref>
+
+The cities of the [[Kingdom of Scotland]] and [[Kingdom of Ireland]] were treated separately. Scottish towns irregularly applied the description to themselves, but were formally organised as [[royal burgh]]s; the special rights of these were preserved by Article XXI of the [[Treaty of Union]] which established the single state of the [[Kingdom of Great Britain]] in 1707.<ref>{{cite web|work=Kingdoms of England and Scotland |url=http://www.rahbarnes.demon.co.uk/Union/UnionWithEnglandAct.htm#XXI |title= "Act of Union", §XXI |archive-url=https://web.archive.org/web/20150226061820/http://www.rahbarnes.demon.co.uk/Union/UnionWithEnglandAct.htm#XXI |archive-date=26 February 2015 }}. 16 January 1707.</ref> [[Edinburgh]] and [[Glasgow]] were confirmed as cities "by ancient usage" in the 18th century,{{sfnb|Beckett|2005|p=}} as was [[Aberdeen]],{{sfnb|Beckett|2005|p=16}} and this was later reconfirmed in the Act enlarging the burgh in 1891. [[Dundee]] was granted [[letters patent]] in 1889 and [[Elgin, Moray|Elgin]] and [[Perth, Scotland|Perth]] were recognised as cities by the Home Office in 1972, before the privilege was removed by the [[Local Government (Scotland) Act 1973|Scottish Local Government Act]] of 1973.<ref name=privy>Clark, M. Lynda &&nbsp;al. [https://publications.parliament.uk/pa/ld199899/ldselect/ldprivi/108i/10811.htm "Committee on Privileges Second Report", Appendix 3, ss58]. Parliament of the United Kingdom (London), 1999.</ref> In Northern Ireland, only the seat of the [[Primate of All Ireland]] at [[Armagh]] was accorded city status by ancient usage, and this status was abolished by the [[Municipal Corporations (Ireland) Act 1840]]. All other cities have been those explicitly recognised as such.
+
+Thirty-two cities have a Lord Provost (in Scotland) or a Lord Mayor (in England, Wales, and Northern Ireland), see [[List of lord mayoralties and lord provostships in the United Kingdom]]. The six cities where the Lord Mayor or Lord Provost has the right to the style ''The Right Honourable'' are York, the City of London, Edinburgh, Glasgow (since 1912), Belfast (since 1923), and Cardiff (since 1956).
+
+== Statistical role ==
+{{Further|City status in the United Kingdom#Smallest and largest cities|City status in the United Kingdom#Populous towns}}
+[[City status in the United Kingdom|City status]] has little statistical significance in the UK because it is not a measure of a city's size and only holds a ceremonial status. Historic cities, such as [[St Davids]] (a cathedral city in Wales) can be quite small, but newer cities, such as those [[City status in the United Kingdom|conferred in 2022]], can range in size from  50,000 to more than 200,000. Populous towns, such as [[Luton]], [[Northampton]] and [[Reading, Berkshire|Reading]], do not have city status.
+
+=== Conurbations ===
+The term "city" is sometimes loosely applied to [[conurbation]]s in the UK. The government tends to recognise these as [[primary urban area]]s for statistical and economic purposes, though [[List of urban areas in the United Kingdom|greater urban areas]] are what most people determine to be a city region.<ref>{{cite web |title=Does how we define cities change our understanding of them? | website=The Centre for Cities | url=https://www.centreforcities.org/blog/does-how-we-define-cities-change-our-understanding-of-them/ | date= 12 July 2021 |first=Paul |last=Swinney }}</ref> Large cities other than London, such as [[Manchester]] or [[Birmingham]], are often confused with these conurbations. Manchester has a significantly lower population than Birmingham, though the [[Greater Manchester Built-up Area]] is more populous than the [[West Midlands conurbation]].<ref name="E&Wdistricts2011">
+{{cite web|title=2011 Census: KS101EW Usual resident population, local authorities in England and Wales|url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks101ew.xls|access-date=8 January 2013|publisher=[[Office for National Statistics]]}}
+</ref> This question of definition has provoked a [[Second city of the United Kingdom|second city debate]] in the United Kingdom.<ref>{{Cite web |title=BBC Inside Out - |url=https://www.bbc.co.uk/insideout/northwest/series11/week5_manchester_second_city.shtml |access-date=2025-03-24 |website=www.bbc.co.uk}}</ref>
+
+Conversely, many official cities in the UK contain a substantial rural area encompassing settlements which are physically separated from the core urban area. The [[City of Milton Keynes]] (a unitary authority) and [[City of Colchester]] (non-metropolitan district) received letters patent which covered an area substantially larger than that of their respective core urban areas; this meant that extra-urban settlements such as the towns of [[Olney, Buckinghamshire|Olney]]<ref>{{cite web| title= Milton Keynes celebrates City status |url= https://www.royal.uk/news-and-activity/2023-02-23/milton-keynes-celebrates-city-status| date= 23 February 2023| website=The Royal Family}}</ref> and [[West Mersea]] fall within ''de jure'' cities.<ref>{{cite web |title=Milton Keynes city status application |url=https://www.milton-keynes.gov.uk/sites/default/files/2022-06/Milton%20Keynes%20city%20status%20application.pdf | date= December 2021 |author=[[Milton Keynes City Council]]}}</ref><ref>{{cite web |title=Colchester City Status|url=https://www.colchester.gov.uk/city-status/ | date= November 2022 |author=[[Colchester City Council]]}}</ref>
+
+== List of cities ==
+{{table alignment}}
+{| class="wikitable sortable col3center col6right"
+! colspan="3"|''[[De facto]]''{{Efn|De facto - named city settlement.}}
+! colspan="3"|''[[De jure]]''{{Efn|De jure - entity with city status.}}
+|-
+! City
+![[International Territorial Level|Statistical region]]
+!Year granted<br />or confirmed
+
+! City<ref name="govt_list" />
+! City council status
+! data-sort-type="number" |Population
+|-
+| [[London]] {{flag icon|England}}
+|[[London (region)|London]]<!--Region officially London but links to Greater London since it is the authority for the region and the county surrounding the district is called Greater London-->
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"{{efn|Meaning before 1189, the official start of English common law.}} }}
+| [[City of London]]{{efn|The City of London covers only the "square mile", and is usually just referred to as "the City". The larger conurbation of [[London|Greater London]] has no city charter, and consists of the City of London, the [[City of Westminster]] and 31 other [[London boroughs]].}}
+| ''[[Sui generis]]'' and [[ceremonial county]]
+|<!-- The population figure refers to the square mile [[City of London]] which holds city status, NOT the larger [[Greater London]]/London Region. -->{{nts|12,156}} (2023)<ref name=":30.6.23">{{cite web |date=18 December 2023 |title=Admin-based population estimates for local authorities in England and Wales |url=https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/adminbasedpopulationestimatesforlocalauthoritiesinenglandandwales |access-date=29 December 2023 |publisher=[[Office for National Statistics]] |quote="Admin-based population estimates are official statistics in development while we refine methods and data sources. They do not replace our official mid-year population estimates and should not be used for decision making. "}}</ref><!--Do not update with the Greater London population of 9-12 million.-->
+|-
+| [[Westminster]] {{flag icon|England}}
+| London
+| {{dts|1540}}
+| [[City of Westminster]]{{efn|The title of City was used "by courtesy" after 1550 when Westminster ceased to be the see of a bishop. By Letters Patent dated 27 October 1900 city status was conferred on the newly created [[Metropolitan Borough of Westminster]] from 1 November.<ref>{{London Gazette|issue=27242|page=6613|date=30 October 1900}}</ref> This status was continued on the creation of the [[City of Westminster]] as a [[London boroughs|London borough]] in 1965.}}
+| [[London boroughs|London borough]]
+| {{nts|213,119}} (2023)<ref name=":30.6.23" />
+|-
+| [[Birmingham]] {{flag icon|England}}
+| [[West Midlands (region)|West Midlands]]
+| {{dts|1889}}<ref name=":0">''From the London Gazette, 18 January 1889'', The Times, 19 January 1889</ref>
+| [[City of Birmingham]]{{efn|name=Letters25Jun74|City status confirmed by Letters Patent issued under the Great Seal dated 25 June 1974.<ref name="lg0774">{{London Gazette|issue=46303|pages=6485–6486|date=28 June 1974}}</ref>}}
+| [[Metropolitan borough]]
+| {{nts|1,171,467}} (2023)<ref name=":30.6.23" />
+|-
+| [[Leeds]] {{flag icon|England}}
+| [[Yorkshire and the Humber]]
+| {{dts|1893}}
+| [[City of Leeds]]{{efn|name=City1Apr74|City status confirmed by Letters Patent issued under the [[Great Seal of the Realm|Great Seal]] dated 1 April 1974.<ref name="lg0474">{{London Gazette|issue=46255|pages=4400-4401|date=4 April 1974}}</ref>}}
+| Metropolitan borough
+| {{nts|829,417}} (2023)<ref name=":30.6.23" />
+|-
+| [[Glasgow]] {{flag icon|Scotland}}<br />({{langx|sco|Glesga}})<br />({{langx|gd|Glaschu}})
+| [[Scotland]]
+| {{dts|1755|format=hide}} mid-18th century{{sfnb|Beckett|2005|p=16}}<br />([[Royal burgh|Burgh]]: 1492)
+| City of Glasgow<ref name="lgas1994">{{cite web|title=Local Government etc. (Scotland) Act 1994|url=https://www.legislation.gov.uk/ukpga/1994/39/schedule/1/|archive-url=https://webarchive.nationalarchives.gov.uk/ukgwa/20170910172417/http://www.legislation.gov.uk/ukpga/1994/39/schedule/1|publication-date=8 November 1994|archive-date=10 September 2017|access-date=10 June 2025|website=UK Government Web Archive|df=dmy}}</ref>
+| [[Council areas|Council area]]{{Efn|name=scotCouncilCity|Present Unitary Council Areas which incorporate majority areas from the 4 cities that existed prior to the introduction of the [[Local Government etc. (Scotland) Act 1994]] are declared "cities" by that same act, which also reserves the post of [[List of lord mayoralties and lord provostships in the United Kingdom#Lord provostships (Scotland)|Lord Provost]] for the convener of the four councils.}}
+| {{nts|631,970}} (2023)<ref name="Scotland Council Area Population 2023">{{cite web|title=Mid-2023 population estimates|url=https://www.nrscotland.gov.uk/publications/mid-2023-population-estimates/|publication-date=8 October 2024<!--date from "Metadata" PDF-->|orig-date=Estimates refer to population as of 30 June 2023<!--date from "Metadata" PDF-->|access-date=10 June 2025|website=National Records of Scotland|type="Data Mid Year Population Estimates 2023" spreadsheet|at=Sheet Page "Table 4"|df=dmy}}</ref>
+|-
+| [[Manchester]] {{flag icon|England}}
+| [[North West England]]
+| {{dts|1853}}<ref>{{London Gazette|issue=21426|page=950|date=1 April 1853}}</ref>
+| [[City of Manchester]]{{efn|name=City1Apr74}}
+| Metropolitan borough
+| {{nts|627,000}} (2023)<ref name=":30.6.232">{{cite web |date=18 December 2023 |title=Admin-based population estimates for local authorities in England and Wales |url=https://www.manchester.gov.uk/ourmanchester |publisher=Office for National Statistics}}</ref>
+|-
+| [[Sheffield]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|1893}}
+| [[City of Sheffield]]{{efn|name=Letters28May74 |City status confirmed by Letters Patent issued under the [[Great Seal of the Realm|Great Seal]] dated 28 May 1974.<ref name="lg0574">{{London Gazette|issue=46303|page=6485|date=31 May 1974}}</ref>}}
+| Metropolitan borough
+| {{nts|579,082}} (2023)<ref name="local">{{cite web |date=18 December 2023 |title=Admin-based population estimates for local authorities in England and Wales |url=https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/adminbasedpopulationestimatesforlocalauthoritiesinenglandandwales |access-date=29 December 2023 |publisher=Office for National Statistics}}</ref>
+|-
+| [[Bradford]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|1897}}
+| [[City of Bradford]]{{efn|name=City1Apr74}}
+| Metropolitan borough
+| {{nts|556,880}} (2023)<ref name="E&Wdistricts20113">{{cite web |title=2011 Census: KS101EW Usual resident population, local authorities in England and Wales |url=http://www.ons.gov.uk/ons/rel/census/2011-census/key-statistics-for-local-authorities-in-england-and-wales/rft-table-ks101ew.xls |access-date=8 January 2013 |publisher=Office for National Statistics}}</ref>
+|-
+| [[Edinburgh]] {{flag icon|Scotland}} <br />({{langx|gd|Dùn Èideann}})
+| Scotland
+| {{Date table sorting|1746|format=hide}}mid-18th century{{sfnb|Beckett|2005|page=16}}<br />([[Royal burgh|Burgh]]: 1329)
+| City of Edinburgh<ref name="lgas1994" />
+| Council area{{Efn|name=scotCouncilCity}}
+| {{nts|523,250}} (2023)<ref name="Scotland Council Area Population 2023" />
+|-
+| [[Liverpool]] {{flag icon|England}}
+| North West England
+| {{dts|1880}}
+| City of Liverpool{{efn|name=Letters25Jun74}}
+| Metropolitan borough
+| {{nts|504,932}} (2023)<ref name=":30.6.23" />
+|-
+| [[Bristol]] {{flag icon|England}}
+| [[South West England]]
+| {{dts|1542}}
+| [[City of Bristol]]{{efn|name=City1Apr74}}
+| [[Unitary authority]] and [[Ceremonial counties of England|ceremonial county]]
+| {{nts|482,815}} (2023)<ref name=":30.6.23" />
+|-
+| [[Cardiff]] {{flag icon|Wales}} {{efn|name= Wales9 |Letters Patent under the [[Great Seal of the Realm|Great Seal]] were issued on 29 March 1996 ordaining that the counties of Swansea and Cardiff should have the status of cities from 1 April 1996. The counties replaced the previous district councils which had enjoyed city status.<ref name="londongaz"/> }}<br /> ({{langx|cy|Caerdydd}})
+| [[Wales]]
+| {{dts|1905}}{{efn|The Letters Patent also granted the title of Lord Mayor.<ref>{{London Gazette|issue=27849|page=7249|date=31 October 1905}}</ref>}}
+| Cardiff
+| [[Principal areas of Wales|Principal area]]
+| {{nts|381,759}} (2023)<ref name=":30.6.23" />
+|-
+| [[Leicester]] {{flag icon|England}}
+| [[East Midlands]]
+| {{dts|1919}}{{efn|A letter from the [[Home Secretary]] to the [[Lord Mayor of Leicester|Mayor of Leicester]] dated 14 June 1919, confirming that the city status would be bestowed, noted that this was a "restoration to your ancient town of its former status of a city".<ref name=timesleic>{{cite news |newspaper=The Times |title= Leicester, a City: Sequel to the Recent Royal Visit |date= 17 June 1919}}</ref><ref>{{cite web|url=http://www.leicester.gov.uk/about-leicester/lordmayorcivic/history-freemen-town-hall/civic-history|archive-url=https://web.archive.org/web/20080323021858/http://www.leicester.gov.uk/about-leicester/lordmayorcivic/history-freemen-town-hall/civic-history|url-status=dead|title=Civic history: The making of a City |publisher=Leicester City Council |accessdate= 14 February 2008|archive-date=23 March 2008}}</ref><ref>{{cite web |url=http://www.le.ac.uk/hi/teaching/papers/will1.html |title=Leicester: The Dignity of a City 655–1926, Leicester's city status, its loss and its regaining over thirteen centuries |first= Daniel |last=Williams}}</ref>}}
+| [[City of Leicester]]{{efn|name=City1Apr74}}
+| Unitary authority
+| {{nts|379,963}} (2023)<ref name="local"/>
+|-
+| [[Coventry]] {{flag icon|England}}
+| [[West Midlands (region)|West Midlands]]
+| {{dts|1102}}
+({{nowrap|"[[time immemorial]]"}})
+| [[City of Coventry]]{{efn|name=City1Apr74}}
+| Metropolitan borough
+| {{nts|368,483}} (2023)<ref name="local" />
+|-
+| [[Wakefield]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|1888}}
+| [[City of Wakefield]]{{efn|name=Letters28May74}}
+| Metropolitan borough
+| {{nts|362,355}} (2023)<ref name="local" />
+|-
+| [[Belfast]] <br />({{langx|ga|Béal Feirste}})<br />([[Ulster Scots dialects|Ulster-Scots dialect]]: ''Bilfawst'')
+| [[Northern Ireland]]
+| {{dts|1888}}
+| Belfast
+| 
+| {{nts|345,418}} (2021)<ref name="NISRA-20223"/>
+|-
+| [[Nottingham]] {{flag icon|England}}
+| East Midlands
+| {{dts|1897}}
+| [[City of Nottingham]]{{efn|name=City1Apr74}}
+| Unitary authority
+| {{nts|330,949}} (2023)<ref name="local"/>
+|-
+| [[Newcastle upon Tyne]]{{efn|name=City1Apr74}} {{flag icon|England}}
+| North East England
+| {{dts|1882}}
+| [[City of Newcastle upon Tyne]]{{efn|name=City1Apr74}}
+| Metropolitan borough
+| {{nts|315,110}} (2023)<ref name="local"/>
+|-
+| [[Doncaster]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|2022}}<ref>{{cite tweet |user=LieutenancySY|number=1590378636548673537|title='Honoured to host Their Majesties King Charles III and The Queen Consort Camilla in #Doncaster today for the letters patent ceremony to grant City status.'}}</ref>
+| [[City of Doncaster]]
+| Metropolitan borough
+| {{nts|314,252}} (2023)<ref name="local"/>
+|-
+| [[Milton Keynes]] {{flag icon|England}}
+| [[South East England]]
+| {{dts|2022}}<ref>{{London Gazette|issue=63791|page=15822|date=18 August 2022}}</ref>
+| [[City of Milton Keynes]]
+| Unitary authority
+| {{nts|297,180}} (2023)<ref name="local"/>
+|-
+| [[Salford]] {{flag icon|England}}
+| [[North West England]]
+| {{dts|1926}}<ref>{{London Gazette|issue=33154|pages=2776–2777|date=23 April 1926}}</ref>
+| [[City of Salford]]{{efn|name=City1Apr74}}
+| Metropolitan borough
+| {{nts|282,487}} (2023)<ref name="local" />
+|-
+| [[Sunderland]] {{flag icon|England}}
+| North East England
+| {{dts|1992}}
+| [[City of Sunderland]]<ref>{{London Gazette|issue=52874|page=5413|date=26 March 1992}}</ref>
+| Metropolitan borough
+| {{nts|279,556}} (2023)<ref name="local" />
+|-
+| [[Brighton and Hove]] {{flag icon|England}}
+| South East England
+| {{dts|2001}}
+| [[Brighton and Hove]]<ref name="lg0501">{{London Gazette|issue=56109 |page=1431|date=2 May 2001}}</ref>
+| Unitary authority
+| {{nts|278,455}} (2023)<ref name="local"/>
+|-
+| [[Wolverhampton]] {{flag icon|England}}
+| West Midlands
+| {{dts|2001}}
+| [[City of Wolverhampton]]<ref name="lg0501"/>
+| Metropolitan borough
+| {{nts|271,173}} (2023)<ref name="local" />
+|-
+| [[Kingston upon Hull]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|1897}}
+| [[City of Kingston upon Hull]]{{efn|City Status confirmed by Letters Patent issued under the [[Great Seal of the Realm|Great Seal]] dated 18 March 1975.<ref name="lg0375">{{London Gazette|issue=46522|page=3729|date=20 March 1975}}</ref>}}
+| Unitary authority
+| {{nts|271,095}} (2023)<ref name="local" />
+|-
+| [[Plymouth]] {{flag icon|England}}
+| South West England
+| {{dts|1928}}<ref>{{London Gazette|issue=33433|page=6850|date=26 October 1928}}</ref>
+| [[City of Plymouth]]{{efn|name=City1Apr74}}
+| Unitary authority
+| {{nts|267,888}} (2023)<ref name="local"/>
+|-
+| [[Derby]] {{flag icon|England}}
+| East Midlands
+| {{dts|1977}}
+| [[City of Derby]]<ref>{{London Gazette
+| issue = 47246
+| date = 14 June 1977
+| page = 7656
+}}</ref>
+| Unitary authority
+| {{nts|265,082}} (2023)<ref name="local" />
+|-
+| [[Stoke-on-Trent]] {{flag icon|England}}
+| West Midlands
+| {{dts|1925}}<ref>{{London Gazette|issue=33063|page=4449|date=3 July 1925}}</ref>
+| [[City of Stoke-on-Trent]]{{efn|name=Letters28May74}}
+| Unitary authority
+| {{nts|261,867}} (2023)<ref name="local" />
+|-
+| [[Southampton]] {{flag icon|England}}
+| South East England
+| {{dts|1964}}
+| [[City of Southampton]]{{efn|name=City1Apr74}}
+| Unitary authority
+| {{nts|257,160}} (2023)<ref name="local" />
+|-
+| [[Swansea]] {{flag icon|Wales}} {{efn|name= Wales9 }}<br />({{langx|cy|Abertawe}})
+| [[Wales]]
+| {{dts|1969}}<ref>{{London Gazette|issue=44986|page=12450|date=12 December 1969}}</ref>
+| Swansea
+| Principal area
+| {{nts|245,440}} (2023)<ref name="local" />
+|-
+| [[Aberdeen]] {{flag icon|Scotland}} <br />({{langx|sco|Aiberdeen}})<br />({{langx|gd|Obar Dheathain}})
+| Scotland
+| {{dts|1891}}{{Efn|Burghs of Old Aberdeen and Woodside and the district of Torry incorporated as the City and Royal Burgh of Aberdeen by the ''Aberdeen Corporation Act 1891'' (54 & 55 Vict. c. cxxiv).}}<br />([[Royal burgh|Burgh]]: 1179)
+| City of Aberdeen<ref name="lgas1994" />
+| Council area{{Efn|name=scotCouncilCity}}
+| {{nts|227,750}} (2023)<ref name="Scotland Council Area Population 2023" />
+|-
+| [[Peterborough]] {{flag icon|England}}
+| [[East of England]]
+| {{dts|1541}}
+| [[City of Peterborough]]{{efn|name=Letters25Jun74}}
+| Unitary authority
+| {{nts|218,179}} (2023)<ref name="local"/>
+|-
+| [[Portsmouth]] {{flag icon|England}}
+| South East England
+| {{dts|1926}}{{ref|24|24}}
+| [[City of Portsmouth]]{{efn|name=City1Apr74}}
+| Unitary authority
+| {{nts|209,171}} (2023)<ref name="local"/>
+|-
+| [[York]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| [[City of York]]{{efn|name=City1Apr74}}{{efn|Letters Patent under the [[Great Seal of the Realm|Great Seal]] conferring City Status were issued to the unitary authority of York on 1 April 1996, confirming the right of the Lord Mayor to be styled "Right Honourable", in continuation to those granted to the previous City Council abolished 31 March 1996.<ref name="londongaz">{{London Gazette|issue=54363|page=4925|date=4 April 1996}}</ref>}}
+| Unitary authority
+| {{nts|206,825}} (2023)<ref name="local" />
+|-
+| [[Colchester]] {{flag icon|England}}
+| East of England
+| {{dts|2022}}<ref>{{cite web |date=29 September 2022 |title=Crown Office – The Gazette |url=https://www.thegazette.co.uk/notice/4171582 |quote=The Late Queen was pleased by Letters Patent under the Great Seal of the Realm dated 5 September 2022 to ordain that the Borough of Colchester shall have the status of a City.}}</ref>
+| [[City of Colchester]]
+| |[[Non-metropolitan district|Non-metropolitan borough]]
+| {{nts|196,808}} (2023)<ref name="local" />
+|-
+| [[Chelmsford]] {{flag icon|England}}
+| East of England
+| {{dts|2012}}
+| [[City of Chelmsford]]{{efn|name=ChemlStAsaph|Letters Patent dated 1 June 2012 "to ordain that the Town of Chelmsford in the County of Essex and the Town of St Asaph in the County of Denbighshire shall have the status of a City".<ref name=2012gazz>{{London Gazette|issue=60167|date=11 June 2012|page=11125}}</ref>}}
+| Non-metropolitan borough
+| {{nts|185,288}} (2023)<ref name="local"/>
+|-
+| {{nowrap|[[Southend-on-Sea]]}} {{flag icon|England}}
+| East of England
+| {{dts|2022}}<ref>{{cite tweet |user=RoyalFamily |number=1498720672104820738 |title=Today The Prince of Wales and The Duchess of Cornwall were in Southend to celebrate its new city status, which was made official after the formal presentation of 'Letters Patent' on behalf of The Queen. }}</ref>
+|{{nowrap|[[City of Southend-on-Sea]]}}
+| |Unitary authority
+| {{nts|182,278}} (2023)<ref name="local" />
+|-
+| [[Oxford]] {{flag icon|England}}
+| South East England
+| {{dts|1542}}
+| [[City of Oxford]]{{efn|name=City1Apr74}}
+| Non-metropolitan borough
+| {{nts|165,257}} (2023)<ref name=":30.6.23" />
+|-
+| [[Newport, Wales|Newport]] {{flag icon|Wales}} <br>({{langx|cy|Casnewydd}})
+| [[Wales]]
+| {{dts|2002}}
+| Newport<ref name="lg01">{{London Gazette|issue=56573 |page=6160|date=21 May 2002}}</ref>
+| Principal area
+| {{nts|163,547}} (2023)<ref name="local"/>
+|-
+| [[Canterbury]] {{flag icon|England}}
+| South East England
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| [[City of Canterbury]]{{efn|name=Letters28May74}}
+| Non-metropolitan borough
+| {{nts|160,351}} (2023)<ref name="local"/>
+|-
+| [[Preston, Lancashire|Preston]] {{flag icon|England}}
+| North West England
+| {{dts|2002}}
+| [[City of Preston, Lancashire|City of Preston]]<ref name="lg01"/>
+| Non-metropolitan borough
+| {{nts|155,634}} (2023)<ref name="local" />
+|-
+| [[Dundee]] {{flag icon|Scotland}} <br />({{langx|gd|Dùn Dèagh}})
+| Scotland
+| {{dts|1889}}{{efn|Warrant issued 28 January 1889 that Letters Patent be issued under the Seal appointed by the treaty of union to be used in place of the Great Seal of Scotland, ordaining and declaring that the Burgh of Dundee shall be a City, and shall be called and styled "The City of Dundee".<ref>London Gazette, 29 January 1889</ref>}}<br />([[Royal burgh|Burgh]]: 1191)
+| City of Dundee<ref name="lgas1994" />
+| Council area{{Efn|name=scotCouncilCity}}
+| {{nts|150,390}} (2023)<ref name="Scotland Council Area Population 2023" />
+|-
+| [[Cambridge]] {{flag icon|England}}
+| East of England
+| {{dts|1951}}<ref>{{London Gazette
+| issue = 39201
+| date = 13 April 1951
+| page = 2067
+}}</ref>
+| City of Cambridge{{efn|name=Letters28May74}}
+| Non-metropolitan borough
+| {{nts|147,797}} (2023)<ref name="local"/>
+|-
+| [[St Albans]] {{flag icon|England}}
+| East of England
+| {{dts|1877}}<ref>{{London Gazette|issue=24502|page=5185|date=11 September 1877|quote="to ordain and declare that the Borough of Saint Albans, in the county of Hertford, shall be a City, and shall be called and styled 'The City of Saint Albans, in the county of Hertford.'"}}</ref>
+| [[St Albans City and District]]{{efn|name=Letters9Jul74|City status was confirmed by Letters Patent dated 9 July 1974.<ref>{{London Gazette|issue=46352|page=7920|date=24 September 1974}}</ref> The city status extends to the entire district, although the district council calls itself "St Albans District Council" or "St Albans City and District".}}
+| Non-metropolitan borough
+| {{nts|147,410}} (2023)<ref name="local" />
+|-
+| [[Lancaster, Lancashire|Lancaster]] {{flag icon|England}}
+| North West, England
+| {{dts|1937}}<ref>{{London Gazette
+| issue = 34400
+| date = 21 May 1937
+| page = 3296
+}}</ref>
+| [[City of Lancaster]]{{efn|name=City1Apr74}}
+| Non-metropolitan borough
+| {{nts|145,346}} (2023)<ref name="local" />
+|-
+| [[Norwich]] {{flag icon|England}}
+| East of England
+| {{dts|1094}}
+({{nowrap|"[[time immemorial]]"}})
+| City of Norwich{{efn|name=City1Apr74}}
+| Non-metropolitan borough
+| {{nts|144,251}} (2023)<ref name="local"/>
+|-
+| [[Chester]] {{flag icon|England}}
+| North West England
+| {{dts|1541}}
+| ([[Cheshire West and Chester]] does not hold status){{efn|name=Letters28May74}}
+| [[Charter trustee]]s{{efn|name=StatusChange|The status of these cities changed on 1 April 2009 due to [[2009 structural changes to local government in England|local government reforms]]. Salisbury became a civil parish, while charter trustees were formed for the former district council areas of [[Chester (non-metropolitan district)|Chester]] and [[Durham District|Durham]] in the new unitary authorities of [[Cheshire West and Chester]] and [[County Durham]] respectively.<ref>{{cite web |url=http://www.opsi.gov.uk/si/si2009/draft/ukdsi_9780111475096_en_5 |title=Local Government (Structural Changes) (Miscellaneous Amendments and Other Provision) Order 2009  |access-date=27 February 2009 |work=Tow |publisher=[[Office of Public Sector Information]] |year=2009 }}</ref><ref>{{cite web |url=https://www.salisburycitycouncil.gov.uk/ |title=New Parish Council for the City of Salisbury |access-date=11 August 2021|work=Towards One Council |publisher=Wiltshire County Council}}</ref>}}
+| {{nts|138,873}} (2021)<ref>{{cite web |title=City of Chester Charter Trustees – City status extends to the area of the wards for the trustees |url=https://lordmayorchester.co.uk/city-of-chester-charter-trustees/ |access-date=21 February 2024 |website=The Lord Mayor of Chester }}</ref>
+|-
+| [[Exeter]] {{flag icon|England}}
+| South West England
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| [[City of Exeter]]{{efn|name=City1Apr74}}
+| Non-metropolitan borough
+| {{nts|137,462}} (2023)<ref name="local" />
+|-
+| [[Wrexham]] {{flag icon|Wales}} <br />({{langx|cy|Wrecsam}})
+| Wales
+| {{dts|2022}}<ref>{{cite web |date=5 September 2022 |title=Crown Office |url=https://www.thegazette.co.uk/notice/4154400}}</ref>
+| [[Wrexham County Borough]]
+| Principal area
+| {{nts|137,341}} (2023)<ref name=":30.6.23" />
+|-
+| [[Gloucester]] {{flag icon|England}}
+| South West, England
+| {{dts|1541}}
+| [[City of Gloucester]]{{efn|name=City1Apr74}}
+| Non-metropolitan borough
+| {{nts|133,998}} (2023)<ref name="local"/>
+|-
+| [[Winchester]] {{flag icon|England}}
+| South East, England
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| [[City of Winchester]]{{efn|name=City1Apr74}}
+| Non-metropolitan borough
+| {{nts|132,341}} (2023)<ref name="local" />
+|-
+| [[Durham, England|Durham]]{{efn|name=City1Apr74}} {{flag icon|England}}
+| North East, England
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| ([[County Durham (district)|County Durham]] does not hold status){{efn|name=City1Apr74}}
+| Charter trustees{{efn|name=StatusChange}}
+| {{nts|126,486}} (2021)<ref>{{cite web |title=Charter Trust and Mayor for Durham City – Durham County Council – City status extends to the area of the electoral divisions for the trustees |url=https://durham.gov.uk/article/2767/Charter-Trust-and-Mayor |access-date=21 February 2024 |website=durham.gov.uk}}</ref>
+|-
+| [[Carlisle]] {{flag icon|England}}
+| North West, England
+| {{dts|1133}} ({{nowrap|"[[time immemorial]]"}})
+| ([[Cumberland (unitary authority)|Cumberland]] does not hold status){{efn|name=City1Apr74}}
+| Charter trustees
+| {{nts|110,024}} (2021)<ref>{{NOMIS2021|id=E07000028|title=Carlisle district|accessdate=10 March 2024}}</ref>
+|-
+| [[Worcester, England|Worcester]] {{flag icon|England}}
+| [[West Midlands (region)|West Midlands]]
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| [[City of Worcester]]{{efn|name=Letters28May74}}
+| Non-metropolitan borough
+| {{nts|104,589}} (2023)<ref name="local"/>
+|-
+| [[Lincoln, England|Lincoln]] {{flag icon|England}}
+| [[East Midlands]]
+| {{dts|1072}} ({{nowrap|"[[time immemorial]]"}})
+| [[City of Lincoln]]{{efn|name=Letters28May74}}
+| Non-metropolitan borough
+| {{nts|102,392}} (2023)<ref name="local" />
+|-
+| [[Bath, Somerset|Bath]] {{flag icon|England}}
+| South West, England
+| {{dts|1090}} ({{nowrap|"[[time immemorial]]"}})
+| ([[Bath and North East Somerset]] does not hold status){{efn|name=City1Apr74}}
+| Charter trustees
+| {{nts|95,043}} (2021)<ref>{{cite web |title=BANES 2021 Census Ward Profiles – (Combined populations of the 14 wards that make-up the city.) |url=https://app.powerbi.com/view?r=eyJrIjoiMzRhZjJjN2EtNDY2NS00ZWY0LThkZjItMmVjNTM5ZmIyNzQwIiwidCI6ImM1NjJjMGNlLWQ5MjUtNGRmZC04ZDk5LWM5NDE2ZWIwM2ViOSJ9 |access-date=21 February 2024 |website=app.powerbi.com}}</ref><ref>{{cite web |title=City Map showing Ward Boundaries |url=https://www.bathnes.gov.uk/sites/default/files/siteimages/Streets-and-Highway-Maintenance/Foot-paths-PROW/jn_ward_boundaries_2022.pdf}}</ref>
+|-
+| <!-- Derry, not Londonderry. For explanation, see WP:DERRY -->[[Derry]]{{efn|Legally, the city and county are called "Londonderry", while the local government district is called "Derry". See [[Derry/Londonderry name dispute]].<ref>[http://www.courtsni.gov.uk/en-GB/Judicial%20Decisions/PublishedByYear/Documents/2007/2007%20NIQB%205/j_j_WEAF5707.htm Application by Derry City Council for judicial review] [2007] NIQB 5 Ref WEAF5707</ref>}}<br />({{langx|ga|Doire}})<br />([[Ulster Scots dialects|Ulster-Scots]]: ''Derrie'')
+| Northern Ireland
+| {{dts|1604}}<ref>[http://www.derrycity.gov.uk/Press%20Releases/070704-docwra.htm ''City commemorates the 400th Anniversary of the City's first charter'', Derry City Council press release dated 7 July 2004, (accessed 15 December 2007)] {{webarchive|url=https://web.archive.org/web/20080602042113/http://www.derrycity.gov.uk/Press%20Releases/070704-docwra.htm|date=2 June 2008}}</ref>
+| None 
+| Represented on [[Derry City and Strabane District Council]]
+| {{nts|85,279}} (2021)<ref name="NISRA-20223">{{cite web |date=7 September 2022 |title=Census 2021 main statistics demography tables – age and sex |url=https://www.nisra.gov.uk/publications/census-2021-main-statistics-demography-tables-age-and-sex |access-date=20 February 2024 |website=Northern Ireland Statistics and Research Agency }}</ref>
+|-
+| [[Dunfermline]] {{flag icon|Scotland}} <br/> {{langx|gd|Dùn Phàrlain}}
+| Scotland
+| {{dts|2022}}<ref>{{cite tweet |user=RoyalFamily |number=1576984325589176320|title='We gather to celebrate this great occasion but also to commemorate the life of Her late Majesty, whose deep love for Scotland was one of the foundations of her life.'}}</ref>
+| Dunfermline
+| Part of [[Fife Council]]
+| {{nts|76,210}} (2020)<ref name="Scotland Locality Population 2020">{{cite web|title=Population estimates for settlements and localities in Scotland: mid-2020|url=https://www.nrscotland.gov.uk/publications/population-estimates-for-settlements-and-localities-in-scotland-mid-2020/|publication-date=31 March 2022<!--date from "Metadata" PDF-->|orig-date=Estimates refer to population as of 30 June 2020<!--date from "Metadata" PDF-->|access-date=10 June 2025|website=National Records of Scotland|type="Data Table" spreadsheet|at=Sheet Page "Table_2.1"|df=dmy}}</ref>
+|-
+| [[Bangor, County Down|Bangor]]<br />({{langx|ga|Beannchar}})
+| Northern Ireland
+| {{dts|2022}}<ref>{{cite web |title=Bangor receives city status in Princess Anne visit |url=https://www.bbc.com/news/uk-northern-ireland-63828321 |website=BBC News |access-date=3 December 2022 |date=2 December 2022}}</ref>
+| None 
+| Represented on [[Ards and North Down Borough Council]]
+
+| {{nts|64,596}} (2021)<ref name="NISRA-20223" />
+|-
+| [[Inverness]] {{flag icon|Scotland}} <br />({{langx|sco|Inerness}})<br>({{langx|gd|Inbhir Nis}})
+| Scotland
+| {{dts|2001}}
+| Inverness
+| Part of [[Highland Council]]
+| {{nts|63,730}} (2020)<ref name="Scotland Locality Population 2020" />
+|-
+| [[Hereford]] {{flag icon|England}}
+| West Midlands
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| Hereford parish{{efn|name=City1Apr74}}{{Efn|City status was conferred on Hereford Town Council 11 October 2000.[76] The status had previously been confirmed to the district council formed in 1974. When that council was abolished in 1996 [[charter trustee]]s were formed for the City of Hereford. On the formation of a town council for Hereford in April 2000 the charter trustees were dissolved, and the city status temporarily lapsed.}}
+| [[Civil parish]]
+| {{nts|53,113}} (2021)<ref>{{NOMIS2021|id=E04000921|title=Hereford parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Lisburn]] <br />({{langx|ga|Lios na gCearrbhach}})
+| Northern Ireland
+| {{dts|2002}}
+| None  
+| Represented on [[Lisburn and Castlereagh City Council]]
+| {{nts|51,447}} (2021)<ref name="NISRA-20223"/>
+|-
+| [[Stirling]] {{flag icon|Scotland}} <br />({{langx|sco|Stirlin}})<br />({{langx|gd|Sruighlea}})
+| Scotland
+| {{dts|2002}}
+| Stirling
+| Part of [[Stirling Council]]
+| {{nts|49,950}} (2020)<ref name="Scotland Locality Population 2020" />
+|-
+| [[Perth, Scotland|Perth]] {{flag icon|Scotland}} <br />({{langx|sco|Pairth}})<br />({{langx|gd|Peairt}})
+| Scotland
+| {{dts|2012}}<ref>Letters Patent dated 21 May 2012 {{cite web|date=6 July 2012|title=News: The National Records of Scotland seals Perth's city status|url=http://www.nas.gov.uk/about/120706.asp|publisher=[[National Archives of Scotland]]}} {{cite news|date=5 July 2012|title='We really feel part of history being made' — Letters Patent makes Perth's city status official|newspaper=[[The Courier (Dundee)]]|url=http://www.thecourier.co.uk/News/Perthshire/article/23713/we-really-feel-part-of-history-being-made-letters-patent-makes-perth-s-city-status-official.html|url-status=dead|access-date=5 July 2012|archive-url=https://web.archive.org/web/20120709025051/http://www.thecourier.co.uk/News/Perthshire/article/23713/we-really-feel-part-of-history-being-made-letters-patent-makes-perth-s-city-status-official.html|archive-date=9 July 2012}}</ref><br />([[Royal burgh|Burgh]]: 12th century){{refn|Created a royal burgh at some point under King David I (1124–53) although the earliest surviving charters date to 1209 or 1210; the status was abolished in 1975.{{sfnb|Beckett|2005|p= }}{{page needed|date=August 2024}}<ref>{{cite web |url=http://www.psns.tsohost.co.uk/archeological/Full%20text.pdf |title=Perth. The First Century of the Burgh |work=Transactions of the [[Perthshire Society of Natural Science]] |date=24 March 1973 |first=A.&nbsp;A.&nbsp;M. |last=Duncan |url-status=dead|archive-url=https://web.archive.org/web/20131224084601/http://www.psns.tsohost.co.uk/archeological/Full%20text.pdf |archive-date=24 December 2013}}</ref>}}
+| Perth
+| Part of [[Perth and Kinross Council]]
+| {{nts|47,350}} (2020)<ref name="Scotland Locality Population 2020" />
+|-
+| [[Salisbury]] {{flag icon|England}}
+| South West England
+| {{dts|1227}}
+| Salisbury parish{{efn|Letters Patent 1 April 2009<ref>{{London Gazette |issue=59250 |date=24 November 2009 |page=20329}}</ref> City status had been held prior to this date and, since 1974, by the ''Charter Trustees of the City of New Sarum'' (The city of Salisbury's formal name was New Sarum cf. [[Old Sarum]] from 1227 until 2009)}}
+| Civil parish{{efn|name=StatusChange}}
+| {{nts|41,552}} (2021)<ref>{{NOMIS2021|id=E04013046|title=Salisbury parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Lichfield]] {{flag icon|England}}
+| West Midlands
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| Lichfield parish{{efn|Letters Patent dated 4 November 1980. A town council had been constituted in 1980 leading to the dissolution of the [[charter trustee|Charter Trustee]]s of the City of Lichfield.<ref>{{London Gazette|issue=48364|page=15451|date=7 November 1980}}</ref><ref>{{cite web|url=http://www.lichfield.gov.uk/cc-background.ihtml|archive-url=https://web.archive.org/web/20110927092205/http://www.lichfield.gov.uk/cc-background.ihtml|url-status=dead|title=Lichfield City Council website|archive-date=27 September 2011}}</ref>}}
+| Civil parish
+| {{nts|32,580}} (2021)<ref>{{NOMIS2021|id=E04008932|title=Lichfield civil parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Chichester]] {{flag icon|England}}
+| South East England
+| {{dts|1075}}<br>({{nowrap|"[[time immemorial]]"}})
+| Chichester parish{{efn|name=City1Apr74}}
+| Civil parish
+| {{nts|29,407}} (2021)<ref>{{NOMIS2021|id=E04009888|title=Chichester civil parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Newry]]<br />({{langx|ga|Iúr Cinn Trá}})<br />(Ulster-Scots: ''Newrie'')
+| Northern Ireland
+| {{dts|2002}}
+| None 
+| Represented on [[Newry, Mourne and Down District Council]]
+| {{nts|28,530}} (2021)<ref name="NISRA-20223"/>
+|-
+| [[Truro]] {{flag icon|England}} <br />({{langx|kw|Truru}})
+| South West England
+| {{dts|1877}}
+| Truro parish{{efn|name=City1Apr74}}
+| Civil parish
+| {{nts|21,046}} (2021)<ref>{{NOMIS2021|id=E04013097|title=Truro civil parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Ely, Cambridgeshire|Ely]] {{flag icon|England}}
+| East of England
+| {{dts|1109}}<ref>{{cite web |last=Cathedral |first=Ely |title=The Story of Ely – About |url=https://www.elycathedral.org/about/history-heritage/the-story-of-ely |access-date=6 April 2024 |website=Ely Cathedral }}</ref><br>({{nowrap|"[[time immemorial]]"}})
+| Ely parish{{efn|name=City1Apr74}}
+| Civil parish
+| {{nts|20,574}} (2021)<ref>{{NOMIS2021|id=E04012829|title=Ely (East Cambridgeshire) civil parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Ripon]] {{flag icon|England}}
+| Yorkshire and the Humber
+| {{dts|1865}}
+| Ripon parish{{efn|name=City1Apr74}}
+| Civil parish
+| {{nts|16,590}} (2021)<ref>{{NOMIS2021|id=E04007409|title=Ripon civil parish|accessdate=20 February 2023}}</ref>
+|-
+| [[Armagh]]{{efn|Armagh had previously enjoyed city status, with [[Saint Patrick's Protestant Cathedral, Armagh|St Patrick's Cathedral]] the seat of the metropolitan [[primate of all Ireland]]. The city status was lost in 1840 when the city corporation was abolished. However, the successor [[Urban district (Great Britain and Ireland)|urban district]] council and district council frequently used the title of city without official sanction prior to 1994.}}<br />({{langx|ga|Ard Mhacha}})<br />([[Ulster Scots dialects|Ulster-Scots]]: ''Airmagh'')
+| Northern Ireland
+| {{dts|1994}}
+| None
+| Represented on [[Armagh City, Banbridge and Craigavon Borough Council]]
+| {{nts|16,310}} (2021)<ref name="NISRA-20223"/>
+|-
+| [[Bangor, Gwynedd|Bangor]] {{flag icon|Wales}}
+| Wales
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| Bangor community{{efn|name=City1Apr74}}
+| [[Community (Wales)|Community]]
+| {{nts|15,060}} (2021)<ref>{{NOMIS2021|id=W04000046|title=Bangor community|accessdate=20 February 2023}}</ref>
+|-
+| [[Wells, Somerset|Wells]] {{flag icon|England}}
+| South West England
+| {{dts|1000|format=hide}}{{nowrap|"[[time immemorial]]"}}
+| Wells parish{{efn|name=City1Apr74}}
+| Civil parish
+| {{nts|11,145}} (2021)<ref>{{NOMIS2021|id=E04008595|title=Wells civil parish|accessdate=20 February 2023}}</ref>
+|-
+| [[St Asaph]] {{flag icon|Wales}} <br />({{langx|cy|Llanelwy}})
+| Wales
+| {{dts|2012}}
+| St Asaph community{{efn|name=ChemlStAsaph}}
+| Community
+| {{nts|3,485}} (2021)<ref>{{NOMIS2021|id=W04000175|title=St. Asaph community|accessdate=20 February 2023}}</ref>
+|-
+| [[St Davids]] {{flag icon|Wales}} <br />({{langx|cy|Tyddewi}})
+| Wales
+| {{dts|1994}}
+| [[St Davids and the Cathedral Close]]{{efn|St David's historically had city status because of the presence of [[St David's Cathedral]]. In 1849 it was noted that the city had no municipal corporation: There was, however, a recognised "city" in which a mayor had limited jurisdiction.<ref>{{cite web|last=Lewis |first=Samuel|title= "Dale – St. David's"|work= A Topographical Dictionary of Wales|location=London|date=1849|pages= 278–288| publisher=[[British History Online]]|url= http://www.british-history.ac.uk/topographical-dict/wales/pp278-288 |access-date= 7 July 2020}}</ref> A Royal Commission appointed in 1876 reported that the corporation had long been extinct, and the city was formally abolished in 1886 under the provisions of the [[Unreformed boroughs in England and Wales 1835 - 1886#Municipal Corporations Act 1883|Municipal Corporations Act 1883]].<ref>46 & 47 Vict. c. 18, s.3 and Sch. II (Part I)</ref> Letters Patent dated 16 September 1994 ordained that the "Town of St. David's shall have the status of a City".<ref>{{London Gazette|issue=53798|page=13403|date=23 September 1994}}</ref>}}
+| Community
+| {{nts|1,751}} (2021)<ref>{{NOMIS2021|id=W04000466|title=St. David's and the Cathedral Close community|accessdate=20 February 2023}}</ref>
+|}
+
+== Map of the cities ==
+
+The map shows the 76 cities in the United Kingdom of Great Britain and Northern Ireland and one Crown Dependency, Douglas in the [[Isle of Man]].
+
+{{Location map+ |United Kingdom crop 
+|float=left 
+|width=550
+|places=
+
+{{Location map~ |United Kingdom crop|lat=51.3794|long=-2.36556|label_size=80 |label={{lower|0.2em|[[Bath, Somerset|Bath]]}}|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.4667|long=-1.91667|label_size=80 |label={{lower|0.2em|[[Birmingham]]}}|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=53.7833|long=-1.75|label_size=80 |label={{raise|0.1em|[[City of Bradford|Bradford]]}}|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=50.8284|long=-0.139475|label_size=80 |label=[[Brighton and Hove]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=51.45|long=-2.58333|label_size=80 |label={{raise|0.1em|[[Bristol]]}}|position=right|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.2|long=0.116667|label_size=80 |label=[[Cambridge]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=51.2667|long=1.08333|label_size=80 |label=[[City of Canterbury|Canterbury]] |position=bottom|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=54.8833|long=-2.93333|label_size=80 |label=[[Carlisle]]|position=left|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=51.7333|long=0.483333|label_size=80 |label={{lower|0.1em|[[City of Chelmsford|Chelmsford]]}}|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=53.2|long=-2.91667|label_size=80 |label={{lower|0.1em|[[Chester]]}}|position=right|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=50.8367|long=-0.780029|label_size=80 |label=[[Chichester]]|position=top|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=51.88921|long=0.90421|label_size=80 |label=[[Borough of Colchester|Colchester]]|position=top|mark=Red pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.4167|long=-1.55|label_size=80 |label=[[Coventry]]|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.9333|long=-1.5|label_size=80 |label=[[Derby]]&nbsp;&nbsp;&nbsp;|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=53.52285|long=-1.13116|label_size=80 |label=[[City of Doncaster|Doncaster]]|position=right|pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=54.7667|long=-1.56667|label_size=80 |label=[[Durham, England|Durham]]|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.4|long=0.26667|label_size=80 |label=[[Ely, Cambridgeshire|Ely]]|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=50.7|long=-3.53333|label_size=80 |label=[[Exeter]]|position=top|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=51.8333|long=-2.25|label_size=80 |label={{raise|0.3em|[[Gloucester]]}}|position=right|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.05|long=-2.71667|label_size=80 |label={{lower|0.2em|[[Hereford]]}}|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=53.7167|long=-0.333333|label_size=80 |label={{raise|0.5em|[[Kingston upon Hull]]}}|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=54.0475|long=-2.80031|label_size=80 |label=[[City of Lancaster|Lancaster]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=53.7997|long=-1.54917|label_size=80 |label={{lower|0.1em|[[City of Leeds|Leeds]]}}|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=52.6333|long=-1.13333|label_size=80 |label=[[Leicester]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=52.6833|long=-1.81667|label_size=80 |label={{raise|0.2em|[[Lichfield]]}}|position=left|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=53.2333|long=-0.533333|label_size=80 |label=[[Lincoln, England|Lincoln]]|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=53.4167|long=-3.|label_size=80 |label={{raise|0.9em|[[Liverpool]]}}|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=51.5155|long=-0.07|label_size=80 |label={{lower|0.24782em|{{nowrap|'''''[[City of London]]'''''}}}}|position=top|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=53.5|long=-2.21667|label_size=85 |label={{lower|0.2em|[[Manchester]]}}|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=52.04172|long=-0.75583|label_size=80 |label={{raise|1.1em|[[City of Milton Keynes|Milton Keynes]]}}|position=right|mark=Red pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=54.9881|long=-1.61944|label_size=80 |label=[[Newcastle-upon-Tyne]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=52.6333|long=1.3|label_size=80 |label=[[Norwich]]|position=top|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.9667|long=-1.16667|label_size=80 |label=[[Nottingham]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=51.7522|long=-1.25596|label_size=80 |label=[[Oxford]]|position=bottom|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.5833|long=-0.25|label_size=80 |label=[[City of Peterborough|Peterborough]]|position=right|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=50.3964|long=-4.13861|label_size=80 |label=[[Plymouth]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=50.8091|long=-1.07142|label_size=80 |label={{lower|[[Portsmouth]]}}|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=53.7667|long=-2.71667|label_size=80 |label=[[City of Preston, Lancashire|Preston]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=54.1167|long=-1.51667|label_size=80 |label=[[Ripon]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=53.4833|long=-2.26667|label_size=80 |label=[[City of Salford|Salford]]|position=bottom}}
+
+{{Location map~ |United Kingdom crop|lat=51.0693|long=-1.79569|label_size=80 |label=[[Salisbury]]|position=left|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=53.3667|long=-1.5|label_size=80 |label={{lower|0.1em|[[City of Sheffield|Sheffield]]}}|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=50.9|long=-1.4|label_size=80 |label=[[Southampton]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=51.5|long=0.71|label_size=80 |label={{raise|0.2em|{{nowrap|[[Southend-on-Sea]]}}}}|position=bottom}}
+
+{{Location map~ |United Kingdom crop|lat=51.75|long=-0.333333|label_size=80 |label=[[City and District of St Albans|St Albans]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=53.|long=-2.18333|label_size=80 |label={{lower|0.9em|{{nowrap|[[Stoke-on-Trent]]}}}}|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=54.9119|long=-1.38333|label_size=80 |label=[[City of Sunderland|Sunderland]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=50.2617|long=-5.04333|label_size=80 |label=[[Truro]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=53.6833|long=-1.49768|label_size=80 |label={{lower|0.3em|[[City of Wakefield|Wakefield]]}}|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=51.2094|long=-2.64944|label_size=80 |label=[[Wells, Somerset|Wells]]|position=left|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=51.5|long=-0.13|label_size=80 |label={{lower|0.4em|[[City of Westminster|Westminster]]}}|position=left|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=51.0632|long=-1.3085|label_size=80 |label={{raise|0.3em|[[City of Winchester|Winchester]]}}|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=52.5833|long=-2.13333|label_size=80 |label=[[Wolverhampton]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=52.2|long=-2.2|label_size=80 |label=[[Worcester, England|Worcester]]|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=53.9667|long=-1.08333|label_size=80 |label=[[City of York|York]]|position=right|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=57.1333|long=-2.1|label_size=80 |label=[[Aberdeen]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=56.5|long=-2.96667|label_size=80 |label=[[Dundee]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=56.07156|long=-3.45887|label_size=80 |label={{raise|0.5em|[[Dunfermline]]}}|position=right|mark=Red pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=55.95|long=-3.2|label_size=80 |label='''''[[Edinburgh]]'''''|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=55.8333|long=-4.25|label_size=80 |label=[[Glasgow]]|position=bottom}}
+
+{{Location map~ |United Kingdom crop|lat=57.4667|long=-4.23333|label_size=80 |label=[[Inverness]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=56.4|long=-3.43333|label_size=80 |label=[[Perth, Scotland|Perth]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=56.1167|long=-3.95|label_size=80 |label=[[Stirling]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=53.23|long=-4.13|label_size=80 |label=[[Bangor, Gwynedd|Bangor]]|position=left|mark=Green pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=51.5|long=-3.2|label_size=80 |label='''''[[Cardiff]]'''''|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=51.5833|long=-2.98333|label_size=80 |label=[[Newport, Wales|Newport]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=53.2667|long=-3.45|label_size=80 |label=[[St Asaph]]&nbsp;&nbsp;&nbsp;|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=51.882|long=-5.269|label_size=80 |label=[[St Davids]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=51.6333|long=-3.96667|label_size=80 |label=[[Swansea]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=53.04664|long=-2.99132|label_size=80 |label=[[Wrexham County Borough|Wrexham]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=54.35|long=-6.66667|label_size=80 |label=[[Armagh]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=54.65338|long=-5.66895|label_size=80 |label=[[Bangor, County Down|Bangor]]|position=top}}
+
+{{Location map~ |United Kingdom crop|lat=54.5833|long=-5.93333|label_size=80 |label={{lower|0.5em|'''''[[Belfast]]'''''}}|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=54.5234|long=-6.03527|label_size=80 |label=[[Lisburn]]|position=left}}
+
+{{Location map~ |United Kingdom crop|lat=54.1784|long=-6.33739|label_size=80 |label=[[Newry]]|position=right}}
+
+{{Location map~ |United Kingdom crop|lat=54.9958|long=-7.3074|label_size=80 |label=[[Derry]]|position=right|mark=Orange pog.svg}}
+
+{{Location map~ |United Kingdom crop|lat=54.16818|long=-4.482455|label_size=80 |label=[[Douglas, Isle of Man|Douglas]]|position=bottom|mark=Red pog.svg}}
+
+|caption=Location of cities in the United Kingdom and the Isle of Man:{{ubl
+|[[File:Green pog.svg|8px]] Diocese cities before 1230
+|[[File:Orange pog.svg|8px]] English reformation cities (1540–1542); Derry (1604)
+|[[File:Red pog.svg|8px]] 18th century cities to 2022}}<hr> <!--Interactive map code below--> 
+Click for <maplink text="Interactive map of cities and their local extents" longitude="-3.2" latitude="54.5" zoom="6"  align="left">
+[
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "query":"SELECT DISTINCT\n  ?id\n  ?idLabel\n  ?countylabel\n  (0 AS ?fill_opacity)\n  (3 AS ?stroke_width)\n  (?countylabel AS ?title)\nWHERE {\n  ?id rdfs:label ?countylabel.\n  FILTER( LANG(?countylabel) IN (\"mul\", \"en\") )\n\n  FILTER(\n    ?id NOT IN (\n      wd:Q19186,\n      wd:Q929902,\n      wd:Q131467472\n    )\n  )\n\n  {\n    {\n      ?id p:P31 ?statement0.\n      ?statement0 (ps:P31/(wdt:P279*)) wd:Q180673.\n    }\n    UNION\n    {\n      ?id p:P31 ?statement1.\n      ?statement1 (ps:P31/(wdt:P279*)) wd:Q15060255.\n    }\n    UNION\n    {\n      ?id p:P31 ?statement2.\n      ?statement2 (ps:P31/(wdt:P279*)) wd:Q1317848.\n    }\n    UNION\n    {\n      ?id p:P31 ?statement5.\n      ?statement5 (ps:P31/(wdt:P279*)) wd:Q15979307.\n    }\n    UNION\n  {\n    ?id p:P31 ?statementT.\n    ?statementT (ps:P31) wd:Q141763519.          # city-status cities subclass\n  }\n    UNION\n    {\n      ?id p:P131 ?newport.\n      ?newport (ps:P131) wd:Q5283458.\n      ?id p:P31 ?newport2.\n      ?newport2 (ps:P31) wd:Q515.\n    }\n    UNION\n    {\n      ?id p:P131 ?scot.\n      ?scot (ps:P131) wd:Q22.\n      ?id p:P31 ?scot2.\n      ?scot2 (ps:P31) wd:Q515.\n    }\n    UNION\n    {\n      ?id p:P797 ?orkney.\n      ?orkney (ps:P797) wd:Q11994103.\n    }\n  }\n}\nLIMIT 200\n"
+},
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "query": "SELECT DISTINCT\n  ?id\n  ?idLabel\n  (\"#ff0000\" AS ?fill)\n  (0.3 AS ?fill_opacity)\n  (1 AS ?stroke_width)\n  (\"#ff0000\" AS ?stroke)\n  (0.7 AS ?stroke_opacity)\nWHERE {\n  { ?id rdfs:label ?idLabel. }\n  FILTER( LANG(?idLabel) IN (\"mul\", \"en\") )\n\n  FILTER(\n    ?id NOT IN (\n      wd:Q84, wd:Q1094110, wd:Q23154, wd:Q6226, wd:Q193452,\n      wd:Q22889, wd:Q269980, wd:Q1410, wd:Q211950,\n      wd:Q192896, wd:Q19840810\n    )\n  )\n\n  {\n    ?id p:P31 ?statement0.\n    ?statement0 (ps:P31) wd:Q515.\n  }\n  UNION\n  {\n    ?id p:P31 ?statement1.\n    ?statement1 (ps:P31) wd:Q27104997.\n  }\n  UNION\n  {\n    ?id p:P31 ?statement2.\n    ?statement2 (ps:P31) wd:Q21503295.\n  }\n  UNION\n  {\n    ?id p:P279 ?statementT.\n    ?statementT (ps:P279) wd:Q515.          # city-status cities subclass\n  }\n  UNION\n  {\n    ?id p:P131 ?newport.\n    ?newport (ps:P131) wd:Q11294004.\n    ?id p:P31 ?newport2.\n    ?newport2 (ps:P31) wd:Q515.\n  }\n\n  {\n    ?id p:P17 ?statement3.\n    ?statement3 (ps:P17) wd:Q145.\n  }\n}\nLIMIT 300\n"
+},
+{
+  "type": "ExternalData",
+  "service": "geopoint",
+  "query": "SELECT DISTINCT  \n?id ?idLabel  \n?auth ?authLabel   \n?nogov ?nogovLabel   \n?geo ?link  \n(?img as ?img_)   \n(\"city\" AS ?marker_symbol)  \n(?category AS ?marker_color) \n(concat('[[w:', substr(str(?link),31,400),  '|', ?idLabel, ']]') as ?title)  \n(concat('', '[[File:', substr(str(?img_), 52, 400), '|200px]]') as ?description) \nWHERE {\n  SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],en, mul\". }\n\n  ### --- EXPANDED CITY SELECTOR ---\n  {\n    ?id p:P31 ?statement0.\n    ?statement0 (ps:P31) wd:Q515.              # formal cities\n  }\n  UNION\n  {\n    ?id p:P31 ?statementS.\n    ?statementS (ps:P31) wd:Q110390579.        # list-based cities\n  }\n  UNION\n  {\n    ?id p:P31 ?statementT.\n    ?statementT (ps:P31) wd:Q1867820.          # city-status cities\n  }\n    UNION\n  {\n    ?id p:P279 ?statementT.\n    ?statementT (ps:P279) wd:Q515.          # city-status cities subclass\n  }\n   UNION\n  {\n    ?id p:P31 ?statementT.\n    ?statementT (ps:P31) wd:Q141763519.          # city-status cities subclass\n  }\n  ### --------------------------------------------\n\n  ?id p:P17 ?statement1.\n  ?statement1 (ps:P17) wd:Q145.                # United Kingdom\n\n  ?id wdt:P625 ?geo.                           # coords\n\n  FILTER (?id NOT IN (\n    wd:Q84, wd:Q1410, wd:Q843868,\n    wd:Q24341876, wd:Q27573903, wd:Q19840810 # #remove non-formal cities and duplicates    \n  ))\n\n  OPTIONAL { ?id wdt:P18 ?img. } # image\n  OPTIONAL { ?link schema:about ?id; schema:isPartOf <https://en.wikipedia.org/>. }  #city wiki page  \n\n  OPTIONAL {\n    ?id wdt:P797 wd:Q3306606. #charter trustees      \n    BIND(?id AS ?auth)   #authority   \n  }\n\n  OPTIONAL {   ## pull in nogov cities   \n    {\n      SELECT DISTINCT ?id ?nogov\n      WHERE {\n        SERVICE wikibase:label { bd:serviceParam wikibase:language \"[AUTO_LANGUAGE],mul,en\". }\n\n ### --- EXPANDED CITY SELECTOR ---\n  {\n    ?id p:P31 ?statement2.\n    ?statement2 (ps:P31) wd:Q515.              # formal cities\n  }\n  UNION\n  {\n    ?id p:P31 ?statementU.\n    ?statementU (ps:P31) wd:Q110390579.        # list-based cities\n  }\n  UNION\n  {\n    ?id p:P31 ?statementV.\n    ?statementV (ps:P31) wd:Q1867820.          # city-status cities\n  }\n  UNION\n  {\n    ?id p:P279 ?statementT.\n    ?statementT (ps:P279) wd:Q515.          # city-status cities subclass\n  }\n   UNION\n  {\n    ?id p:P31 ?statementT.\n    ?statementT (ps:P31) wd:Q141763519.          # city-status cities subclass\n  }\n  ### --------------------------------------------\n\n        MINUS { ?id p:P31 ?statement3. ?statement3 (ps:P31) wd:Q17601336. }  #Not a district    \n\n        ?id p:P131 ?statement4.\n        ?statement4 (ps:P131/(wdt:P131)) ?region.\n        VALUES ?region { wd:Q22 wd:Q26 }   # In combined Scotland and Northern Ireland     \n\n        MINUS { ?id p:P31 ?statement5. ?statement5 (ps:P31) wd:Q1549591. } #Not a Big City #  \n\n        BIND(?id AS ?nogov)\n      }\n      LIMIT 20  #no gov less than at the moment     \n    }\n  }\n\n  BIND(\n    IF(\n      BOUND(?auth) && (?auth = ?id),\n      '#0057AF', #bound colour blue to charter trusts    \n      IF(\n        BOUND(?nogov) && (?id = ?nogov),\n        '#595959', #bound grey to no gov areas       \n        '#B60000' # bound red to everything else    \n      )\n    )\n    AS ?category\n  )\n}\nORDER BY ASC(?title) #arrange by title, bangor then gets correctly sorted by country   \nLIMIT 100 #total cities less than this\n"
+},
+ {
+    "type": "ExternalData",
+    "service": "page",
+    "title": "UKcities-nongov.map"
+  }
+]
+</maplink> (excludes Douglas){{br}}Shading key: {{legend inline|#B60000|[[Local government in the United Kingdom|local government]] area|outline=#A2A9B1|text=| textcolor = #ffffff}}  {{legend inline|#0057AF|[[charter trustee]] extent|outline=#A2A9B1|text=| textcolor = #ffffff}}  {{legend inline|#595959|[[List of urban areas in the United Kingdom|urban]] limits|outline=#A2A9B1|text=| textcolor = #ffffff}}
+}}
+{{clear}}
+
+== Overseas Territories and Crown Dependencies ==
+{{Main|British overseas cities}}
+The [[British Overseas Territories]] and the [[Crown Dependencies]] do not form part of the [[United Kingdom]] but are part of its sovereign territory. Association of city status with cathedrals ended in 1865.{{sfnp|Beckett|2005|p=24}} There are presently five cities in the Overseas Territories and Crown Dependencies.<ref name="O'Connor">{{cite news |date=20 May 2022 |title=Platinum Jubilee: Eight new cities created in Queen's honour |work=BBC News |last=O'Connor |first=Mary |url=https://www.bbc.com/news/uk-61505857 |access-date=20 May 2022}}</ref>
+
+{| class="wikitable sortable col3right col4right"
+! width="130pt" |City
+!Territory or dependency
+!Year granted<br />or confirmed
+! data-sort-type="number" |Population<br>(census date)
+|-
+|[[Gibraltar]]
+|{{flag icon|Gibraltar}} Gibraltar
+|1842<ref>{{London Gazette|issue=20146|page=2632|date=30 September 1842}}</ref><ref>{{cite web | url=https://www.gov.uk/government/news/government-re-affirms-city-status-of-gibraltar | title=Government re-affirms city status of Gibraltar }}</ref>
+|32,194 (2012)
+|-
+| [[Douglas, Isle of Man|Douglas]]<br />({{langx|gv|Doolish}})
+| {{flag|Isle of Man}}
+| 2022<ref name=":1">{{cite web |title=Douglas Letters Patent |date=27 June 2023 |url=https://www.whatdotheyknow.com/request/995141/response/2372769/attach/6/Douglas%20Letters%20Patent.doc%201.pdf |publisher=Ministry of Justice |access-date=24 July 2023}}</ref>
+| 27,938 (2011)
+|-
+| [[Stanley, Falkland Islands|Stanley]]
+| {{flag|Falkland Islands}}
+| 2022<ref>{{London Gazette|issue=63732|page=11466|date=17 June 2022}}</ref>
+| 2,460 (2016)
+|-
+| [[Hamilton, Bermuda|Hamilton]]
+| {{flag|Bermuda}}
+| 1897
+| 854 (2016)
+|-
+| [[Jamestown, Saint Helena|Jamestown]]
+| {{flag|Saint Helena}}
+| 1859
+| 629 (2016)
+|}
+
+{{clear}}
+
+== See also ==
+{{Portal|United Kingdom|Cities
+}}
+* [[Centre for Cities]]
+* [[City status in Ireland]]
+* [[List of lord mayoralties and lord provostships in the United Kingdom]]
+* [[List of smallest cities in the United Kingdom]]
+* [[List of towns in the United Kingdom]]
+* [[List of urban areas in the United Kingdom]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+{{refbegin}}
+* {{cite book |last=Beckett |first=J.&nbsp;V. |title=City Status in the British Isles, 1830–2002 |isbn=0-7546-5067-7 |location=Aldershot |publisher= Ashgate Publishing |date=2005}}
+
+{{refend}}
+{{Clear}}
+
+{{List of cities in Europe}}
+
+{{List of Settlements in the UK}}
+
+[[Category:Cities in the United Kingdom|*List]]
+[[Category:Lists of cities in Europe|United Kingdom]]
+[[Category:Lists of cities in the United Kingdom| ]]
+[[Category:United Kingdom geography-related lists|Cities]]
+[[Category:Lists of cities by country|United Kingdom]]
+
+[[pl:Miasta ze statusem City w Wielkiej Brytanii]]
