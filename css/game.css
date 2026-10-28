@@ -274,6 +274,40 @@ p { margin: 0; }
 .missed-head { font-size: var(--step-0); margin-top: var(--space-3); }
 #finish-missed ul { columns: 2 10rem; padding-left: var(--space-4); margin: var(--space-1) 0 0; font-size: var(--step--1); }
 
+/* ---------- Answer board ---------- */
+
+.board { display: flex; flex-direction: column; gap: var(--space-3); }
+.board-head { display: flex; gap: var(--space-3); align-items: center; }
+.board-ring { width: 64px; height: 64px; flex: none; }
+.board-score { font-family: var(--font-display); font-weight: 800; font-size: var(--step-2); line-height: 1.1; }
+.board-sub { font-size: var(--step--1); color: var(--ink-soft); }
+.board-timeline { position: relative; height: 30px; border-bottom: var(--line) solid var(--ink); margin: 0 6px 14px; }
+.board-timeline .tl-tick { position: absolute; bottom: -20px; transform: translateX(-50%); font-size: 11px; color: var(--ink-soft); font-variant-numeric: tabular-nums; }
+.board-timeline .tl-tick::before { content: ""; position: absolute; left: 50%; top: -9px; width: 2px; height: 7px; background: var(--ink); }
+.board-timeline .tl-dot { position: absolute; bottom: 4px; width: 10px; height: 10px; margin-left: -5px; border-radius: 50%; background: var(--rope); border: 2px solid var(--ink); }
+.board-tabs { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.board-tab { border: 2px solid var(--ink); background: var(--paper); border-radius: 999px; padding: 3px 12px; font-weight: 700; font-size: var(--step--1); cursor: pointer; }
+.board-tab[aria-selected="true"] { background: var(--ink); color: var(--paper); }
+.round-tabs { margin-bottom: var(--space-2); }
+.board-body { display: flex; flex-direction: column; gap: var(--space-4); }
+.board-group h3 { font-size: var(--step-0); display: flex; align-items: baseline; gap: var(--space-2); margin-bottom: var(--space-2); }
+.board-group h3 span { font-family: var(--font-body); font-weight: 700; font-size: 12px; color: var(--ink-soft); text-transform: uppercase; letter-spacing: 0.06em; }
+.tile-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(7.5rem, 1fr)); gap: 6px; }
+.tile { text-align: left; font: inherit; font-size: var(--step--1); line-height: 1.25; padding: 6px 8px; border-radius: 6px 2px 6px 2px; cursor: pointer; min-height: 36px; overflow-wrap: anywhere; }
+.tile.is-found { background: var(--found-bg); border: 2px solid var(--ink); font-weight: 700; box-shadow: 2px 2px 0 var(--glacier); }
+.tile.is-missed { background: var(--paper); border: 2px dashed var(--ink-soft); color: var(--ink); }
+.tile.is-open { grid-column: 1 / -1; outline: 3px solid var(--signal); outline-offset: 1px; }
+.tile-name { display: block; }
+.tile-desc { display: block; font-weight: 400; color: var(--ink-soft); margin-top: 2px; }
+.board-hint { font-size: var(--step--1); color: var(--ink-soft); }
+.group-bars { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.group-bars li { display: grid; grid-template-columns: minmax(6rem, 9rem) 1fr auto; gap: var(--space-2); align-items: center; font-size: var(--step--1); }
+.gb-name { font-weight: 700; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.gb-bar { height: 10px; border: 2px solid var(--ink); border-radius: 6px; background: var(--paper-2); overflow: hidden; }
+.gb-bar i { display: block; height: 100%; background: var(--glacier); }
+.gb-count { font-variant-numeric: tabular-nums; color: var(--ink-soft); }
+.finish-board { display: flex; flex-direction: column; gap: var(--space-2); }
+
 /* ---------- Finish ---------- */
 
 .finish-alt { font-size: clamp(3rem, 9vw, 4.75rem); letter-spacing: -0.03em; }
@@ -337,7 +371,7 @@ p { margin: 0; }
 }
 @keyframes rise { 0% { transform: translate(-50%, 0); opacity: 0; } 15% { opacity: 1; } 100% { transform: translate(-50%, -46px); opacity: 0; } }
 
-.ruler { top: 0; right: 0; bottom: 0; width: 132px; pointer-events: none; z-index: 2; }
+.ruler { top: 0; right: 0; bottom: 0; width: 100%; pointer-events: none; z-index: 2; }
 .ruler-track { position: absolute; left: 0; top: 0; width: 100%; transform-origin: 0 0; will-change: transform; transition: transform var(--climb-dur, 0.7s) cubic-bezier(.3,.7,.3,1); }
 .ruler-line { position: absolute; right: 18px; top: 0; width: 4px; background: var(--ink); border-radius: 2px; }
 .tick { position: absolute; right: 18px; width: 10px; height: 2px; background: var(--ink); }
@@ -351,6 +385,14 @@ p { margin: 0; }
 .here { position: absolute; right: 8px; z-index: 3; display: flex; align-items: center; gap: 4px; transform: translateY(-50%); }
 .here span { font-family: var(--font-display); font-weight: 800; font-size: 13px; background: var(--signal); color: var(--ink); border: 2px solid var(--ink); padding: 1px 6px; border-radius: 6px 0 0 6px; font-variant-numeric: tabular-nums; }
 
+.fact { position: absolute; right: 140px; transform: translateY(-50%); display: flex; align-items: center; gap: 6px; max-width: min(230px, calc(60% - 170px));
+  font-size: 11px; line-height: 1.25; font-weight: 700; background: var(--label); color: var(--label-ink); border: 2px dashed var(--ink); border-radius: 8px; padding: 3px 8px;
+  opacity: 0; transition: opacity 0.9s ease; }
+.fact.is-on { opacity: 1; }
+.fact svg { width: 16px; height: 16px; flex: none; color: var(--ink); }
+.ruler { overflow: visible; }
+.fact-strip { position: absolute; left: 8px; top: 62px; z-index: 5; max-width: calc(100% - 128px); font-size: 11px; line-height: 1.25; font-weight: 700;
+  background: var(--label); color: var(--label-ink); border: 2px dashed var(--ink); border-radius: 8px; padding: 3px 8px; display: none; }
 .hud { left: 12px; top: 12px; z-index: 5; display: flex; gap: 8px; align-items: stretch; pointer-events: none; }
 .hud-card { background: var(--label); color: var(--label-ink); border: 2px solid var(--ink); border-radius: 10px; padding: 6px 10px; display: flex; gap: 8px; align-items: center; }
 .hud-alt { font-family: var(--font-display); font-weight: 800; font-size: var(--step-1); line-height: 1; font-variant-numeric: tabular-nums; }
@@ -421,6 +463,9 @@ p { margin: 0; }
   .guess { font-size: var(--step-0); padding-block: 14px; }
   .wordmark { font-size: var(--step-1); }
   .ruler { width: 104px; }
+  .fact { display: none; }
+  .fact-strip { display: block; }
+  .fact-strip[hidden] { display: none; }
   .mark { font-size: 10px; }
   .mark b { font-size: 11px; }
   .hud { left: 8px; top: 8px; }

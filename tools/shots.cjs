@@ -16,7 +16,7 @@ require('fs').mkdirSync(OUT, { recursive: true });
     await page.goto(BASE + 'index.html');
     await page.waitForSelector('#ready:not([hidden])');
     await page.evaluate(() => document.fonts.ready);
-    for (const alt of [0, 4500, 8849]) {
+    for (const alt of (process.env.ALTS || "0,4500,8849").split(",").map(Number)) {
       await page.evaluate((a) => window.summitScene.setAltitude(a, true), alt);
       await page.waitForTimeout(1500);
       await page.screenshot({ path: path.join(OUT, `scene-${vp.name}-${alt}.png`) });

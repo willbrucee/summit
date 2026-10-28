@@ -1,0 +1,17 @@
+{
+  "_readme": "Altitude facts shown on the ruler. Each was checked against the source on the date given. 'past' completes the sentence 'You climbed past ...' on the summit screen.",
+  "facts": [
+    { "altitude": -440, "icon": "wave", "text": "The Dead Sea shore is about 440 m below this line, the lowest land on Earth", "past": "", "source": "https://en.wikipedia.org/wiki/Dead_Sea", "checked": "2026-10-28" },
+    { "altitude": 3650, "icon": "columns", "text": "La Paz, the highest seat of government, about 3,650 m", "past": "the highest seat of government on Earth", "source": "https://en.wikipedia.org/wiki/La_Paz", "checked": "2026-10-28" },
+    { "altitude": 4000, "icon": "city", "text": "El Alto, the highest big city, about 4,000 m", "past": "the highest big city on Earth", "source": "https://en.wikipedia.org/wiki/El_Alto", "checked": "2026-10-28" },
+    { "altitude": 4411, "icon": "plane", "text": "Daocheng Yading, the highest airport, about 4,411 m", "past": "the highest airport on Earth", "source": "https://en.wikipedia.org/wiki/Daocheng_Yading_Airport", "checked": "2026-10-28" },
+    { "altitude": 5072, "icon": "train", "text": "Trains cross the Tanggula Pass in Tibet at about 5,072 m", "past": "the highest railway on Earth", "source": "https://en.wikipedia.org/wiki/Qinghai%E2%80%93Tibet_railway", "checked": "2026-10-28" },
+    { "altitude": 5100, "icon": "house", "text": "La Rinconada, Peru, the highest town, up to about 5,100 m", "past": "the highest town on Earth", "source": "https://en.wikipedia.org/wiki/La_Rinconada,_Peru", "checked": "2026-10-28" },
+    { "altitude": 5364, "icon": "tent", "text": "Everest South Base Camp, about 5,364 m", "past": "Everest base camp", "source": "https://en.wikipedia.org/wiki/Everest_base_camps", "checked": "2026-10-28" },
+    { "altitude": 6700, "icon": "spider", "text": "Tiny jumping spiders live up here, about 6,700 m", "past": "the highest spiders on Earth", "source": "https://en.wikipedia.org/wiki/Euophrys_omnisuperstes", "checked": "2026-10-28" },
+    { "altitude": 7290, "icon": "bird", "text": "A bar-headed goose was tracked flying at about 7,290 m", "past": "the highest tracked goose flight", "source": "https://en.wikipedia.org/wiki/Bar-headed_goose", "checked": "2026-10-28" },
+    { "altitude": 8000, "icon": "wind", "text": "The death zone starts at about 8,000 m. Too little oxygen to stay", "past": "the start of the death zone", "source": "https://en.wikipedia.org/wiki/Death_zone", "checked": "2026-10-28" },
+    { "altitude": 8849, "icon": "bottle", "text": "On top, each breath holds less than a third of the oxygen at sea level", "past": "", "source": "https://en.wikipedia.org/wiki/Death_zone", "checked": "2026-10-28" },
+    { "altitude": 9400, "icon": "plane", "text": "Planes cruise higher than this, at about 9,400 to 11,600 m", "past": "", "source": "https://en.wikipedia.org/wiki/Cruise_(aeronautics)", "checked": "2026-10-28" }
+  ]
+}

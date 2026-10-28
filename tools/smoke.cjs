@@ -13,11 +13,13 @@ const VIEWPORTS = [
   { name: 'desktop', width: 1366, height: 860 },
 ];
 
+let lastProblems = [];
 async function run(vp, reduced) {
   const browser = await chromium.launch();
   const context = await browser.newContext({ viewport: { width: vp.width, height: vp.height }, isMobile: vp.isMobile, hasTouch: vp.hasTouch, reducedMotion: reduced ? 'reduce' : 'no-preference' });
   const page = await context.newPage();
   const problems = [];
+  lastProblems = problems;
   page.on('console', (m) => { if (m.type() === 'error' || m.type() === 'warning') problems.push(`${m.type()}: ${m.text()}`); });
   page.on('pageerror', (e) => problems.push('pageerror: ' + e.message));
   page.on('requestfailed', (r) => problems.push('requestfailed: ' + r.url()));
@@ -38,7 +40,7 @@ async function run(vp, reduced) {
     const text = await page.textContent('#ready-prompt');
     const meta = index.prompts.find((p) => p.text === text);
     const prompt = await (await page.request.get(BASE + `data/p/${meta.id}.json`)).json();
-    await page.click('#start', { force: true });
+    await page.locator('#start').dispatchEvent('click');
     await page.clock.runFor(1200);
     if (round === 0) await shot('03-countdown');
     await page.clock.runFor(2000);
@@ -56,13 +58,13 @@ async function run(vp, reduced) {
     await page.clock.runFor(31000);
     await page.waitForSelector('#result:not([hidden])');
     if (round === 0) {
-      await page.click('#missed-summary', { force: true });
+      await page.click('#result-board .tile.is-missed', { force: true });
       await shot('05-result');
       // A refresh after a round has started must not allow a replay.
       await page.reload();
       await page.waitForSelector('#result:not([hidden])');
     }
-    await page.click('#next', { force: true });
+    await page.locator('#next').dispatchEvent('click');
   }
   await page.waitForSelector('#finish:not([hidden])');
   await page.clock.runFor(6000);
@@ -78,7 +80,8 @@ async function run(vp, reduced) {
   let failed = false;
   for (const vp of VIEWPORTS) {
     for (const reduced of [false, true]) {
-      const r = await run(vp, reduced);
+      let r;
+      try { r = await run(vp, reduced); } catch (e) { console.log(`${vp.name}${reduced ? '-reduced' : ''} crashed: ${e.message.split('\n')[0]} | ${lastProblems.join('; ')}`); failed = true; continue; }
       console.log(`${r.tag}: ${r.problems.length ? r.problems.join('\n  ') : 'no problems'}`);
       if (r.problems.length) failed = true;
       if (!reduced && vp.name === 'phone') console.log(r.share);

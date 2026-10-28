@@ -7,6 +7,7 @@ import { load, save } from './store.js';
 import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
 import { createScene } from './scene.js';
+import { renderBoard, renderRounds } from './board.js';
 import { classifyGuess, diffMarks, nextCombo, bestBurst, unmatchedWorthReporting, WRONG_LINES, COMBO_MAX } from './feedback.js';
 
 const $ = (id) => document.getElementById(id);
@@ -22,6 +23,7 @@ let game;
 let prompts = [];
 let indexes = [];
 let clock = null;
+let FACTS = [];
 const scene = createScene($('scene'));
 window.summitScene = scene; // for screenshots and the QA page
 
@@ -83,7 +85,9 @@ async function getJSON(path) {
 async function init() {
   show('loading');
   try {
-    const [index, schedule] = await Promise.all([getJSON('data/index.json'), getJSON('data/schedule.json')]);
+    const [index, schedule, factData] = await Promise.all([getJSON('data/index.json'), getJSON('data/schedule.json'), getJSON('data/altitude-facts.json').catch(() => ({ facts: [] }))]);
+    FACTS = factData.facts;
+    scene.setFacts(FACTS);
     const today = dateKey();
     let chosen;
     if (MODE === 'test') {
@@ -386,9 +390,7 @@ function showResult() {
   if (burst.count >= 3) recap.push(`Fastest burst: ${burst.count} in ${burst.seconds} seconds`);
   $('result-recap').replaceChildren(...recap.map((t) => Object.assign(document.createElement('li'), { textContent: t })));
   $('result-recap').hidden = !recap.length;
-  const missed = p.answers.filter((a) => !r.found.includes(a.id)).map((a) => a.label).sort((a, b) => a.localeCompare(b));
-  $('missed-summary').textContent = `Answers you missed (${missed.length})`;
-  $('missed-list').replaceChildren(...missed.map((m) => Object.assign(document.createElement('li'), { textContent: m })));
+  renderBoard($('result-board'), p, r);
   $('report').href = reportUrl(p, r);
   const typed = unmatchedWorthReporting(r.wrong || []).slice(0, 25);
   $('unmatched').hidden = !typed.length;
@@ -446,18 +448,14 @@ function finish() {
   const stats = isDaily ? recordGame(game.date, total) : getStats();
   $('finish-altitude').textContent = formatMetres(total);
   $('finish-day').textContent = MODE === 'daily' ? `Day ${game.day}` : 'Practice';
-  $('finish-missed-list').replaceChildren(...prompts.map((p, i) => {
-    const missed = p.answers.filter((a) => !game.rounds[i].found.includes(a.id)).map((a) => a.label).sort((a, b) => a.localeCompare(b));
-    const box = document.createElement('div');
-    box.append(Object.assign(document.createElement('h3'), { textContent: `${p.text} (${missed.length})`, className: 'missed-head' }));
-    box.append(Object.assign(document.createElement('ul'), {}));
-    box.lastChild.append(...missed.map((m) => Object.assign(document.createElement('li'), { textContent: m })));
-    return box;
-  }));
+  renderRounds($('finish-board'), prompts, game.rounds);
   $('finish-mountain').textContent = total + 0.5 >= EVEREST ? 'You stood on top of Everest.'
     : reached.height === 0 ? 'Still at sea level.' : `Higher than ${reached.name} (${formatMetres(reached.height)}).`;
   $('finish-next').textContent = upNext && total + 0.5 < EVEREST ? `${formatMetres(upNext.height - total)} short of ${upNext.name}.` : '';
   $('finish-title').textContent = titleFor(total);
+  const highlights = FACTS.filter((f) => f.past && total + 0.5 >= f.altitude).sort((a, b) => b.altitude - a.altitude).slice(0, 3);
+  $('finish-highlights').replaceChildren(...highlights.map((f) => Object.assign(document.createElement('li'), { textContent: `You climbed past ${f.past}.` })));
+  $('finish-highlights').hidden = !highlights.length;
   $('finish-temp').textContent = `It is ${Math.round(temperatureAt(total))} °C up here.`;
   const rows = prompts.map((p, i) => {
     const tr = document.createElement('tr');

@@ -348,6 +348,21 @@ function fxLayers() {
   };
 }
 
+// Small icons for the altitude facts, drawn in a 16 by 16 box.
+const FACT_ICONS = {
+  wave: '<path d="M1 10 q3.5 -4 7 0 t7 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/><path d="M1 14 q3.5 -4 7 0 t7 0" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>',
+  columns: '<path d="M2 6 L8 2 L14 6 Z M3 7 v6 M6.5 7 v6 M9.5 7 v6 M13 7 v6 M2 14 h12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>',
+  city: '<path d="M1 15 V8 h4 V4 h4 V9 h3 V6 h3 v9 Z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>',
+  plane: '<path d="M1 9 L15 4 L13 7 L8 9 L6 14 L5 10 Z" fill="currentColor"/>',
+  train: '<rect x="3" y="2" width="10" height="10" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 7 h10 M5 15 l1.5 -3 M11 15 l-1.5 -3" stroke="currentColor" stroke-width="1.8"/>',
+  house: '<path d="M2 8 L8 3 L14 8 M4 7 v7 h8 v-7 M7 14 v-4 h2 v4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>',
+  tent: '<path d="M1 14 L8 3 L15 14 Z M8 3 V14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/>',
+  spider: '<circle cx="8" cy="9" r="3" fill="currentColor"/><path d="M5 8 L1 5 M5 10 L1 12 M11 8 L15 5 M11 10 L15 12 M6 7 L4 2 M10 7 L12 2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>',
+  bird: '<path d="M1 7 q3 -3 7 1 q4 -4 7 -1" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>',
+  wind: '<path d="M1 5 h9 a2 2 0 1 0 -2 -2 M1 9 h12 a2 2 0 1 1 -2 2 M1 13 h6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>',
+  bottle: '<rect x="5" y="4" width="6" height="11" rx="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M7 4 V1.5 h2 V4" fill="none" stroke="currentColor" stroke-width="1.8"/>',
+};
+
 // ---------- the scene ----------
 
 export function createScene(root) {
@@ -365,7 +380,8 @@ export function createScene(root) {
     <div class="tags"></div>
     <div class="hud"><div class="hud-card"><div class="thermo"><div class="thermo-tube"><div class="thermo-fill"></div></div><div class="thermo-bulb"></div></div>
       <div><div class="hud-alt">0 m</div><div class="hud-sub"><span class="hud-temp">30 °C</span> <span class="hud-press"></span></div></div></div></div>
-    <div class="note-toast" aria-hidden="true"></div>`;
+    <div class="note-toast" aria-hidden="true"></div>
+    <div class="fact-strip" aria-hidden="true" hidden></div>`;
 
   const q = (s) => root.querySelector(s);
   const world = q('.world');
@@ -380,6 +396,7 @@ export function createScene(root) {
   let view = { w: 0, h: 0, s: 1, ax: 0, ay: 0 };
   let altitude = 0;
   let toastTimer = null;
+  let facts = [];
 
   function measure() {
     const r = root.getBoundingClientRect();
@@ -401,6 +418,15 @@ export function createScene(root) {
     for (const m of MILESTONES) {
       html += `<div class="mark" data-h="${m.height}" style="top:${worldY(m.height) * s}px"><span><b>${m.name}</b>${formatMetres(m.height)}</span></div>`;
     }
+    // Tags close in height are nudged apart so they never overlap.
+    let prevY = Infinity;
+    const order = [...facts.entries()].sort((x, y) => x[1].altitude - y[1].altitude);
+    for (const [i, f] of order) {
+      let y = worldY(Math.max(0, f.altitude)) * s;
+      if (y > prevY - 40) y = prevY - 40;
+      prevY = y;
+      html += `<div class="fact${f.always ? ' is-on' : ''}" data-fact="${i}" style="top:${y}px"><svg viewBox="0 0 16 16" aria-hidden="true">${FACT_ICONS[f.icon] || ''}</svg><span>${f.text}</span></div>`;
+    }
     track.innerHTML = html;
     markPassed();
   }
@@ -413,6 +439,17 @@ export function createScene(root) {
       m.classList.toggle('passed', altitude + 0.5 >= h);
       m.classList.toggle('near', Math.abs(h - altitude) < gap);
     }
+    // Facts fade in as the climber passes them and stay. Phones show only the latest one.
+    let latest = null;
+    for (const el of track.querySelectorAll('.fact')) {
+      const f = facts[Number(el.dataset.fact)];
+      const passed = altitude + 0.5 >= f.altitude;
+      el.classList.toggle('is-on', passed || !!f.always);
+      if (passed && f.altitude < EVEREST + 1) latest = f;
+    }
+    const strip = q('.fact-strip');
+    strip.hidden = !latest;
+    if (latest && strip.dataset.alt !== String(latest.altitude)) { strip.dataset.alt = String(latest.altitude); strip.textContent = latest.text; }
   }
 
   function place(a, instant) {
@@ -545,5 +582,10 @@ export function createScene(root) {
   new ResizeObserver(() => { measure(); place(altitude, true); }).observe(root);
   measure();
   setAltitude(0, true);
-  return { setAltitude, climb, setCamps, plantFlag, replay, note, get altitude() { return altitude; } };
+  function setFacts(list) {
+    facts = list.map((f) => ({ ...f, always: f.altitude > EVEREST }));
+    buildRuler();
+  }
+
+  return { setAltitude, climb, setCamps, plantFlag, replay, note, setFacts, get altitude() { return altitude; } };
 }

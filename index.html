@@ -62,10 +62,7 @@
           <p class="result-big" id="result-found"></p>
           <p class="result-metres" id="result-metres"></p>
           <ul class="recap" id="result-recap"></ul>
-          <details class="missed">
-            <summary id="missed-summary">Answers you missed</summary>
-            <ul id="missed-list"></ul>
-          </details>
+          <div class="board" id="result-board"></div>
           <section class="unmatched" id="unmatched" hidden>
             <h2 class="unmatched-head">Typed but not accepted</h2>
             <ul class="unmatched-list" id="unmatched-list"></ul>
@@ -83,16 +80,14 @@
           <p class="finish-title" id="finish-title"></p>
           <p id="finish-mountain"></p>
           <p class="note"><span id="finish-next"></span> <span id="finish-temp"></span></p>
+          <ul class="recap" id="finish-highlights"></ul>
           <table class="rounds-table"><tbody id="finish-rows"></tbody></table>
           <div class="stats" id="finish-stats">
             <p class="stat"><b id="stat-streak"></b><span>day streak</span></p>
             <p class="stat"><b id="stat-best"></b><span>best height</span></p>
             <p class="stat"><b id="stat-played"></b><span>climbs</span></p>
           </div>
-          <details class="missed" id="finish-missed">
-            <summary>Answers you missed</summary>
-            <div id="finish-missed-list"></div>
-          </details>
+          <section class="finish-board"><h2 class="unmatched-head">The answer boards</h2><div id="finish-board"></div></section>
           <div class="screen" id="share-box">
             <div class="btn-row">
               <button type="button" class="btn" id="share">Share your climb</button>

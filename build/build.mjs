@@ -13,6 +13,7 @@ import { targetFor } from '../js/scoring.js';
 import { buildSchedule } from '../js/daily.js';
 import { variants, shortenings, initialism, goodWikidataAlias, acceptAliases, expand } from './aliases.mjs';
 import { matchWikidata } from './wikidata-match.mjs';
+import { groupAnswers } from './groups.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const raw = (name) => JSON.parse(readFileSync(join(ROOT, 'data/raw', name + '.json'), 'utf8')).results.bindings;
@@ -62,12 +63,12 @@ function wikidataAnswers(kind, id) {
     case 'metals':
     case 'element_symbols': {
       const rows = new Map();
-      for (const b of raw('elements')) rows.set(Number(b.number.value), { name: label(b), symbol: b.symbol.value });
+      for (const b of raw('elements')) rows.set(Number(b.number.value), { name: label(b), symbol: b.symbol.value, z: Number(b.number.value) });
       const list = [...rows.entries()].sort((a, b) => a[0] - b[0]).map(([, r]) => r);
       const cap = (s) => s[0].toUpperCase() + s.slice(1);
-      if (kind === 'element_symbols') return list.map((r) => ({ label: r.symbol, aliases: [], hint: cap(r.name) }));
+      if (kind === 'element_symbols') return list.map((r) => ({ label: r.symbol, aliases: [], hint: cap(r.name), z: r.z }));
       return list.filter((r) => kind === 'elements' || !NON_METALS.includes(r.symbol))
-        .map((r) => ({ label: cap(r.name), aliases: ELEMENT_ALIASES[cap(r.name)] || [] }));
+        .map((r) => ({ label: cap(r.name), aliases: ELEMENT_ALIASES[cap(r.name)] || [], z: r.z }));
     }
     case 'us_states':
       return raw('us_states').map((b) => ({ label: label(b), aliases: label(b) === 'Washington' ? ['Washington State'] : [] }));
@@ -126,8 +127,14 @@ function applyOverrides(id, answers, log) {
 // ---------- build ----------
 
 const slug = (s) => toKey(s).slice(0, 40) || 'x';
+const fallbackGroups = [];
+const EXTRA = existsSync(join(ROOT, 'data/raw/wd-extra.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/raw/wd-extra.json'), 'utf8')) : {};
 const ALIASES = existsSync(join(ROOT, 'data/aliases.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/aliases.json'), 'utf8')) : {};
 const WD = existsSync(join(ROOT, 'data/raw/wd-labels.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/raw/wd-labels.json'), 'utf8')) : null;
+// The chosen item per answer, saved so builds work without the large lookup cache.
+const PICKED_PATH = join(ROOT, 'data/raw/wd-picked.json');
+const PICKED = !WD && existsSync(PICKED_PATH) ? JSON.parse(readFileSync(PICKED_PATH, 'utf8')) : {};
+const picked = {};
 // Short Wikidata aliases (3 letters or fewer) only where abbreviations are normal, never country codes.
 const SHORT_OK = new Set(['tech', 'film', 'sport', 'music', 'space']);
 // Titles that can be named by their first words when that is unambiguous.
@@ -142,7 +149,7 @@ for (const def of PROMPTS) {
   let source;
   if (def.list) { answers = parseList(def.list); source = 'Curated list'; }
   else if (def.union) {
-    answers = def.union.flatMap(parseList);
+    answers = def.union.flatMap((list, i) => parseList(list).map((a) => ({ ...a, from: def.unionNames[i] })));
     source = 'Curated: union of the mammal, bird, reptile, fish, insect and sea creature lists';
   } else if (def.countries) { answers = fromCountries(def.countries); source = 'Curated country table (build/curated/countries.mjs)'; }
   else if (def.capitals) { answers = fromCapitals(def.capitals); source = 'Curated country table, capitals column'; }
@@ -162,7 +169,7 @@ for (const def of PROMPTS) {
       if (!def.union) log.push(`duplicate merged: "${a.label}"`);
       continue;
     }
-    const entry = { label: a.label, aliases: [...a.aliases], hint: a.hint };
+    const entry = { label: a.label, aliases: [...a.aliases], hint: a.hint, z: a.z, from: a.from };
     byKey.set(k, entry);
     merged.push(entry);
   }
@@ -179,7 +186,9 @@ for (const def of PROMPTS) {
   const extra = [];
   const userAliases = { ...(ALIASES.global || {}), ...((ALIASES.prompts || {})[def.id] || {}) };
   merged.forEach((a, i) => { for (const t of userAliases[a.label] || []) extra.push({ answer: i, text: t, src: 'a' }); });
-  const wd = matchWikidata(merged, WD);
+  const wd = WD ? matchWikidata(merged, WD) : merged.map((a) => (PICKED[def.id] || {})[a.label] || null);
+  picked[def.id] = {};
+  merged.forEach((a, i) => { if (wd[i]) picked[def.id][a.label] = { ...wd[i], c: undefined }; });
   const allowShort = SHORT_OK.has(def.category) || SHORT_OK.has(def.id);
   merged.forEach((a, i) => {
     const item = wd[i];
@@ -200,6 +209,15 @@ for (const def of PROMPTS) {
   });
   const aliasCollisions = accepted.dropped.filter((d) => d.src !== 'g');
   const aliasSources = merged.map((a) => a.aliases.map((x) => x.src));
+  // Board groups, using Wikidata dates and continents where the prompt groups by them.
+  for (const a of merged) {
+    const x = a.wd ? EXTRA[a.wd.q] : null;
+    a.year = a.wd ? a.wd.y : null;
+    a.continent = x ? x.continent : null;
+    a.born = x ? x.born : null;
+  }
+  const grouping = groupAnswers(def, merged, (name) => countries.find((c) => c.label === name));
+  if (grouping.fallback) fallbackGroups.push(def.id);
   for (const a of merged) a.aliases = a.aliases.map((x) => x.text);
 
   // Collisions: one alias that belongs to two answers.
@@ -252,14 +270,16 @@ for (const def of PROMPTS) {
     size: merged.length,
     target: targetFor(merged.length, def.difficulty),
     source,
+    groupBy: grouping.by,
+    groups: grouping.groups,
     answers: merged.map((a, i) => ({
-      id: i, label: a.label, aliases: a.aliases, src: aliasSources[i].join(' '),
+      id: i, label: a.label, aliases: a.aliases, src: aliasSources[i].join(' '), group: grouping.list[i],
       ...(a.hint ? { hint: a.hint } : {}),
       ...(a.wd ? { qid: a.wd.q, desc: a.wd.d || undefined, fame: a.wd.sl, year: a.wd.y ?? undefined } : {}),
     })),
   };
   out.push(prompt);
-  report.push({ id: def.id, aliasCollisions, suggestions: suggestions.slice(0, 80), wikidataMatched: wd.filter(Boolean).length, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
+  report.push({ id: def.id, groupBy: grouping.by, groupFallback: grouping.fallback, descriptions: merged.filter((a) => a.wd && a.wd.d).length, aliasCollisions, suggestions: suggestions.slice(0, 80), wikidataMatched: wd.filter(Boolean).length, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
 }
 
 // Category rules: at least 12 categories with 10 prompts each.
@@ -269,6 +289,8 @@ for (const [c, n] of Object.entries(perCat)) if (n < 10) errors.push(`category $
 const ids = new Set();
 for (const p of out) { if (ids.has(p.id)) errors.push(`duplicate prompt id ${p.id}`); ids.add(p.id); }
 
+console.log(`A to Z fallback groups: ${fallbackGroups.length} prompts`);
+if (WD) writeFileSync(PICKED_PATH, JSON.stringify(picked));
 writeFileSync(join(ROOT, 'data/prompts.json'), JSON.stringify({ version: 1, built: new Date().toISOString().slice(0, 10), categories: CATEGORIES, prompts: out }));
 // The game loads a light index plus only the day's prompts.
 rmSync(join(ROOT, 'data/p'), { recursive: true, force: true });
