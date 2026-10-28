@@ -445,7 +445,7 @@ export function createScene(root) {
       const f = facts[Number(el.dataset.fact)];
       const passed = altitude + 0.5 >= f.altitude;
       el.classList.toggle('is-on', passed || !!f.always);
-      if (passed && f.altitude < EVEREST + 1) latest = f;
+      if (passed && f.altitude > 0 && f.altitude < EVEREST + 1) latest = f;
     }
     const strip = q('.fact-strip');
     strip.hidden = !latest;

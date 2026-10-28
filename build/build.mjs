@@ -14,6 +14,7 @@ import { buildSchedule } from '../js/daily.js';
 import { variants, shortenings, initialism, goodWikidataAlias, acceptAliases, expand } from './aliases.mjs';
 import { matchWikidata } from './wikidata-match.mjs';
 import { groupAnswers } from './groups.mjs';
+import { NOUNS } from './nouns.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const raw = (name) => JSON.parse(readFileSync(join(ROOT, 'data/raw', name + '.json'), 'utf8')).results.bindings;
@@ -136,7 +137,7 @@ const PICKED_PATH = join(ROOT, 'data/raw/wd-picked.json');
 const PICKED = !WD && existsSync(PICKED_PATH) ? JSON.parse(readFileSync(PICKED_PATH, 'utf8')) : {};
 const picked = {};
 // Short Wikidata aliases (3 letters or fewer) only where abbreviations are normal, never country codes.
-const SHORT_OK = new Set(['tech', 'film', 'sport', 'music', 'space']);
+const SHORT_OK = new Set(['tech', 'film', 'sport', 'music']);
 // Titles that can be named by their first words when that is unambiguous.
 const TITLE_PROMPTS = new Set(['film', 'tech', 'video-games', 'beatles-songs', 'musicals', 'paintings', 'roald-dahl', 'shakespeare', 'missions']);
 const errors = [];
@@ -186,7 +187,7 @@ for (const def of PROMPTS) {
   const extra = [];
   const userAliases = { ...(ALIASES.global || {}), ...((ALIASES.prompts || {})[def.id] || {}) };
   merged.forEach((a, i) => { for (const t of userAliases[a.label] || []) extra.push({ answer: i, text: t, src: 'a' }); });
-  const wd = WD ? matchWikidata(merged, WD) : merged.map((a) => (PICKED[def.id] || {})[a.label] || null);
+  const wd = WD ? matchWikidata(merged, WD, def.id) : merged.map((a) => (PICKED[def.id] || {})[a.label] || null);
   picked[def.id] = {};
   merged.forEach((a, i) => { if (wd[i]) picked[def.id][a.label] = { ...wd[i], c: undefined }; });
   const allowShort = SHORT_OK.has(def.category) || SHORT_OK.has(def.id);
@@ -275,7 +276,9 @@ for (const def of PROMPTS) {
     answers: merged.map((a, i) => ({
       id: i, label: a.label, aliases: a.aliases, src: aliasSources[i].join(' '), group: grouping.list[i],
       ...(a.hint ? { hint: a.hint } : {}),
-      ...(a.wd ? { qid: a.wd.q, desc: a.wd.d || undefined, fame: a.wd.sl, year: a.wd.y ?? undefined } : {}),
+      ...(a.wd ? { qid: a.wd.q, fame: a.wd.sl, year: a.wd.y ?? undefined } : {}),
+      desc: (a.wd && a.wd.d) || (a.hint && def.wikidata === 'element_symbols' ? `Symbol for ${a.hint.toLowerCase()}` : NOUNS[def.id]),
+      ...(a.wd && a.wd.d ? {} : { descGeneric: true }),
     })),
   };
   out.push(prompt);
@@ -287,7 +290,7 @@ const perCat = {};
 for (const p of out) perCat[p.category] = (perCat[p.category] || 0) + 1;
 for (const [c, n] of Object.entries(perCat)) if (n < 10) errors.push(`category ${c} has only ${n} prompts (minimum 10)`);
 const ids = new Set();
-for (const p of out) { if (ids.has(p.id)) errors.push(`duplicate prompt id ${p.id}`); ids.add(p.id); }
+for (const p of out) { if (ids.has(p.id)) errors.push(`duplicate prompt id ${p.id}`); ids.add(p.id); if (!NOUNS[p.id]) errors.push(`${p.id}: no fallback description in build/nouns.mjs`); }
 
 console.log(`A to Z fallback groups: ${fallbackGroups.length} prompts`);
 if (WD) writeFileSync(PICKED_PATH, JSON.stringify(picked));

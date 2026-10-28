@@ -3,9 +3,9 @@
  "prompts": [
   {
    "id": "countries-africa",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
-   "descriptions": 54,
+   "descriptions": 52,
    "aliasCollisions": [
     {
      "text": "Congo",
@@ -29,7 +29,7 @@
     "South Africa: SA",
     "South Sudan: SS"
    ],
-   "wikidataMatched": 54,
+   "wikidataMatched": 52,
    "collisions": [
     {
      "alias": "congo",
@@ -54,7 +54,7 @@
   },
   {
    "id": "countries-europe",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
    "descriptions": 50,
    "aliasCollisions": [],
@@ -78,7 +78,7 @@
   },
   {
    "id": "countries-asia",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
    "descriptions": 49,
    "aliasCollisions": [],
@@ -100,23 +100,22 @@
     }
    ],
    "near": [
-    "Bahrain / Jordan",
     "North Korea / South Korea",
     "North Korea / South Korea",
     "North Korea / South Korea",
     "North Korea / South Korea",
     "North Korea / South Korea"
    ],
-   "nearCount": 6,
+   "nearCount": 5,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
   },
   {
    "id": "countries-americas",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
-   "descriptions": 35,
+   "descriptions": 34,
    "aliasCollisions": [],
    "suggestions": [
     "Antigua and Barbuda: AB",
@@ -128,13 +127,12 @@
     "Saint Vincent and the Grenadines: SVG",
     "Trinidad and Tobago: TT"
    ],
-   "wikidataMatched": 35,
+   "wikidataMatched": 34,
    "collisions": [],
    "near": [
-    "Dominica / Dominican Republic",
-    "Mexico / United States"
+    "Dominica / Dominican Republic"
    ],
-   "nearCount": 2,
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -143,7 +141,7 @@
    "id": "countries-world",
    "groupBy": "Continent",
    "groupFallback": false,
-   "descriptions": 195,
+   "descriptions": 192,
    "aliasCollisions": [
     {
      "text": "Congo",
@@ -186,7 +184,7 @@
     "Trinidad and Tobago: TT",
     "Vatican City: VC"
    ],
-   "wikidataMatched": 195,
+   "wikidataMatched": 192,
    "collisions": [
     {
      "alias": "congo",
@@ -205,8 +203,6 @@
    ],
    "near": [
     "Australia / Syria",
-    "Bahrain / Jordan",
-    "Belarus / Palau",
     "Republic of the Congo / DR Congo",
     "Dominica / Dominican Republic",
     "Gambia / Zambia",
@@ -214,7 +210,6 @@
     "Iceland / Ireland",
     "Malawi / Mali",
     "Mali / Malta",
-    "Mexico / United States",
     "Namibia / Zambia",
     "North Korea / South Korea",
     "North Korea / South Korea",
@@ -225,7 +220,7 @@
     "Slovakia / Slovenia",
     "South Sudan / Sudan"
    ],
-   "nearCount": 20,
+   "nearCount": 17,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -273,7 +268,7 @@
   },
   {
    "id": "countries-eu",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
    "descriptions": 27,
    "aliasCollisions": [],
@@ -292,17 +287,8 @@
    "id": "capitals-world",
    "groupBy": "Continent",
    "groupFallback": false,
-   "descriptions": 193,
-   "aliasCollisions": [
-    {
-     "text": "The Garden City",
-     "src": "w",
-     "answers": [
-      "Belmopan",
-      "Singapore"
-     ]
-    }
-   ],
+   "descriptions": 179,
+   "aliasCollisions": [],
    "suggestions": [
     "Andorra la Vella: ALV",
     "Saint John's: SJ",
@@ -337,7 +323,7 @@
     "Port Vila: PV",
     "Vatican City: VC"
    ],
-   "wikidataMatched": 193,
+   "wikidataMatched": 179,
    "collisions": [],
    "near": [
     "Manama / Panama City",
@@ -351,9 +337,9 @@
   },
   {
    "id": "capitals-europe",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
-   "descriptions": 50,
+   "descriptions": 44,
    "aliasCollisions": [],
    "suggestions": [
     "Andorra la Vella: ALV",
@@ -361,7 +347,7 @@
     "City of San Marino: CSM",
     "Vatican City: VC"
    ],
-   "wikidataMatched": 50,
+   "wikidataMatched": 44,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -371,9 +357,9 @@
   },
   {
    "id": "capitals-asia",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
-   "descriptions": 48,
+   "descriptions": 46,
    "aliasCollisions": [],
    "suggestions": [
     "Bandar Seri Begawan: BSB",
@@ -383,7 +369,7 @@
     "Sri Jayawardenepura Kotte: SJK",
     "Abu Dhabi: AD"
    ],
-   "wikidataMatched": 48,
+   "wikidataMatched": 46,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -393,9 +379,9 @@
   },
   {
    "id": "capitals-africa",
-   "groupBy": "Continent",
+   "groupBy": "Region",
    "groupFallback": false,
-   "descriptions": 55,
+   "descriptions": 53,
    "aliasCollisions": [],
    "suggestions": [
     "Porto-Novo: PN",
@@ -405,7 +391,7 @@
     "Sao Tome: ST",
     "Cape Town: CT"
    ],
-   "wikidataMatched": 55,
+   "wikidataMatched": 53,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -434,23 +420,14 @@
    "wikidataMatched": 50,
    "collisions": [],
    "near": [
-    "California / New Jersey",
-    "Massachusetts / Connecticut",
-    "Massachusetts / Rhode Island",
-    "Massachusetts / Louisiana",
-    "Connecticut / Rhode Island",
-    "Connecticut / Louisiana",
     "North Dakota / South Dakota",
     "North Dakota / South Dakota",
     "North Dakota / South Dakota",
-    "North Dakota / South Dakota",
-    "Rhode Island / Louisiana",
-    "Georgia / Oklahoma",
     "North Carolina / South Carolina",
     "North Carolina / South Carolina",
     "Kansas / Arkansas"
    ],
-   "nearCount": 15,
+   "nearCount": 6,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -460,16 +437,7 @@
    "groupBy": "Region",
    "groupFallback": false,
    "descriptions": 50,
-   "aliasCollisions": [
-    {
-     "text": "City of Trees",
-     "src": "w",
-     "answers": [
-      "Sacramento",
-      "Boise"
-     ]
-    }
-   ],
+   "aliasCollisions": [],
    "suggestions": [
     "Little Rock: LR",
     "Des Moines: DM",
@@ -495,7 +463,7 @@
    "id": "australian-cities",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 114,
+   "descriptions": 108,
    "aliasCollisions": [],
    "suggestions": [
     "Gold Coast: GC",
@@ -523,7 +491,7 @@
     "Glen Innes: GI",
     "Tweed Heads: TH"
    ],
-   "wikidataMatched": 114,
+   "wikidataMatched": 108,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -535,7 +503,7 @@
    "id": "rivers",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 187,
+   "descriptions": 84,
    "aliasCollisions": [
     {
      "text": "Red River",
@@ -564,17 +532,25 @@
     "Red River of the North: RRN",
     "San Joaquin: SJ"
    ],
-   "wikidataMatched": 201,
+   "wikidataMatched": 84,
    "collisions": [],
    "near": [
+    "Nile / Niger",
+    "Nile / Niger",
+    "Ob / Oka",
     "Congo / Red River",
     "Volga / Volta",
     "Rhine / Rhone",
+    "Rhine / Seine",
     "Dnieper / Dniester",
+    "Don / Inn",
+    "Don / Red River",
+    "Red River / Pearl River",
     "Red River / Swan River",
-    "Dvina / Daugava"
+    "Neva / Neman",
+    "Kama / Kura"
    ],
-   "nearCount": 6,
+   "nearCount": 14,
    "suspicious": [
     "Ob: very short",
     "Po: very short"
@@ -584,18 +560,10 @@
   },
   {
    "id": "seas-oceans",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 85,
+   "groupBy": "Continent",
+   "groupFallback": false,
+   "descriptions": 81,
    "aliasCollisions": [
-    {
-     "text": "Eastern Sea",
-     "src": "w",
-     "answers": [
-      "Indian Ocean",
-      "East China Sea"
-     ]
-    },
     {
      "text": "Indian Sea",
      "src": "w",
@@ -605,36 +573,19 @@
      ]
     },
     {
-     "text": "British Ocean",
-     "src": "w",
-     "answers": [
-      "North Sea",
-      "English Channel"
-     ]
-    },
-    {
-     "text": "Arabian Gulf",
-     "src": "w",
-     "answers": [
-      "Persian Gulf",
-      "Red Sea"
-     ]
-    },
-    {
-     "text": "Erythraean Sea",
-     "src": "w",
-     "answers": [
-      "Red Sea",
-      "Arabian Sea"
-     ]
-    },
-    {
      "text": "East Sea",
      "src": "w",
      "answers": [
       "Sea of Japan",
-      "South China Sea",
       "East China Sea"
+     ]
+    },
+    {
+     "text": "The Gulf",
+     "src": "w",
+     "answers": [
+      "Gulf of Mexico",
+      "Persian Gulf"
      ]
     }
    ],
@@ -720,21 +671,15 @@
     "Savu Sea: SS",
     "Halmahera Sea: HS"
    ],
-   "wikidataMatched": 85,
+   "wikidataMatched": 81,
    "collisions": [],
    "near": [
     "North Sea / South China Sea",
-    "North Sea / Barents Sea",
     "Baltic Sea / Celtic Sea",
-    "Caspian Sea / Arabian Sea",
     "Aral Sea / Arabian Sea",
-    "South China Sea / Philippine Sea",
-    "Coral Sea / Ceram Sea",
-    "Andaman Sea / Barents Sea",
-    "Irish Sea / Balearic Sea",
-    "Persian Gulf / Gulf of Oman"
+    "Coral Sea / Ceram Sea"
    ],
-   "nearCount": 10,
+   "nearCount": 4,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -743,7 +688,7 @@
    "id": "islands",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 203,
+   "descriptions": 155,
    "aliasCollisions": [],
    "suggestions": [
     "New Guinea: NG",
@@ -827,21 +772,17 @@
     "Wake Island: WI",
     "Diego Garcia: DG"
    ],
-   "wikidataMatched": 207,
+   "wikidataMatched": 155,
    "collisions": [],
    "near": [
-    "Sumatra / Socotra",
     "South Island / North Island",
     "Iceland / Ireland",
     "Lanai / Lantau Island",
     "Lanai / Lantau Island",
     "Easter Island / Ellis Island",
-    "Cebu / Jeju",
-    "Cebu / Jeju",
-    "Lantau Island / Espiritu Santo",
-    "Wake Island / Yakushima"
+    "Cebu / Jeju"
    ],
-   "nearCount": 10,
+   "nearCount": 6,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -850,65 +791,8 @@
    "id": "animals",
    "groupBy": "Kind of animal",
    "groupFallback": false,
-   "descriptions": 692,
+   "descriptions": 439,
    "aliasCollisions": [
-    {
-     "text": "grizzly bear",
-     "src": "w",
-     "answers": [
-      "Grizzly bear",
-      "Brown bear"
-     ]
-    },
-    {
-     "text": "buffalo",
-     "src": "w",
-     "answers": [
-      "Water buffalo",
-      "African buffalo",
-      "Bison"
-     ]
-    },
-    {
-     "text": "Blue Fox",
-     "src": "w",
-     "answers": [
-      "Fox",
-      "Arctic fox"
-     ]
-    },
-    {
-     "text": "jackrabbit",
-     "src": "w",
-     "answers": [
-      "Jackrabbit",
-      "Hare"
-     ]
-    },
-    {
-     "text": "urchin",
-     "src": "w",
-     "answers": [
-      "Sea urchin",
-      "Hedgehog"
-     ]
-    },
-    {
-     "text": "panther",
-     "src": "w",
-     "answers": [
-      "Panther",
-      "Leopard"
-     ]
-    },
-    {
-     "text": "possum",
-     "src": "w",
-     "answers": [
-      "Possum",
-      "Opossum"
-     ]
-    },
     {
      "text": "gator",
      "src": "w",
@@ -918,27 +802,11 @@
      ]
     },
     {
-     "text": "pilchard",
-     "src": "w",
-     "answers": [
-      "Pilchard",
-      "Sardine"
-     ]
-    },
-    {
      "text": "roach",
      "src": "w",
      "answers": [
       "Roach",
       "Cockroach"
-     ]
-    },
-    {
-     "text": "bluebottle",
-     "src": "w",
-     "answers": [
-      "Bluebottle",
-      "Portuguese man o' war"
      ]
     }
    ],
@@ -1024,7 +892,7 @@
     "King penguin: KP",
     "Adelie penguin: AP"
    ],
-   "wikidataMatched": 706,
+   "wikidataMatched": 439,
    "collisions": [
     {
      "alias": "buffalo",
@@ -1044,19 +912,13 @@
    "near": [
     "Beaver / Weaver",
     "Water buffalo / African buffalo",
-    "Bongo / Orangutan",
     "Cat / Goat",
-    "Cat / Guinea pig",
-    "Cheetah / Leopard",
-    "Colobus / Jackdaw",
     "Dog / Pig",
     "Dog / Guppy",
     "Donkey / Monkey",
-    "Arctic hare / Bowhead whale",
+    "Goat / Gnat",
     "Arctic hare / Char",
     "Arctic hare / Char",
-    "Jaguar / Panther",
-    "Jaguar / Snow leopard",
     "Marten / Martin",
     "Mole / Sole",
     "Moose / Mouse",
@@ -1064,25 +926,23 @@
     "Mouse / Louse",
     "Opossum / Possum",
     "Porpoise / Tortoise",
-    "Rabbit / Pollock",
     "Skunk / Skink",
     "Red squirrel / Grey squirrel",
     "Woodchuck / Woodcock",
     "Woodchuck / Wood duck",
     "Chicken / Mackerel",
-    "Chicken / Pike",
     "Corncrake / Corn snake",
+    "Crow / Crocodile",
     "Dipper / Kipper",
     "Goldfinch / Goldfish",
+    "Kite / Kingbird",
     "Lovebird / Lyrebird",
     "Lovebird / Ovenbird",
-    "Mallard / Wood duck",
     "Martin / Marlin",
     "Merlin / Marlin",
     "Pigeon / Wigeon",
     "Woodcock / Wood duck",
     "Kingfisher / Kingfish",
-    "Box turtle / Terrapin",
     "Coral snake / Corn snake",
     "Slow worm / Glow-worm",
     "Sea snake / Sea snail",
@@ -1097,13 +957,20 @@
     "Goldfish / Toadfish",
     "Lionfish / Opah",
     "Lungfish / Kingfish",
-    "Mackerel / Pike",
     "Monkfish / Opah",
-    "Pollock / Toadfish",
-    "Pollock / Spiny lobster",
-    "Roach / Loach"
+    "Roach / Loach",
+    "Roach / Cockroach",
+    "Pipefish / Viperfish",
+    "Pipefish / Tilefish",
+    "Great white shark / Whale shark",
+    "Bull shark / Blue shark",
+    "Sole / Stonefish",
+    "Sole / Tilefish",
+    "Loach / Cockroach",
+    "Housefly / Horsefly",
+    "Stick insect / Shield bug"
    ],
-   "nearCount": 71,
+   "nearCount": 59,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1112,42 +979,8 @@
    "id": "mammals",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 219,
-   "aliasCollisions": [
-    {
-     "text": "grizzly bear",
-     "src": "w",
-     "answers": [
-      "Grizzly bear",
-      "Brown bear"
-     ]
-    },
-    {
-     "text": "buffalo",
-     "src": "w",
-     "answers": [
-      "Water buffalo",
-      "African buffalo",
-      "Bison"
-     ]
-    },
-    {
-     "text": "jackrabbit",
-     "src": "w",
-     "answers": [
-      "Jackrabbit",
-      "Hare"
-     ]
-    },
-    {
-     "text": "panther",
-     "src": "w",
-     "answers": [
-      "Panther",
-      "Leopard"
-     ]
-    }
-   ],
+   "descriptions": 166,
+   "aliasCollisions": [],
    "suggestions": [
     "Aye-aye: AA",
     "Honey badger: HB",
@@ -1215,7 +1048,7 @@
     "Ground squirrel: GS",
     "Hamadryas baboon: HB"
    ],
-   "wikidataMatched": 220,
+   "wikidataMatched": 166,
    "collisions": [
     {
      "alias": "buffalo",
@@ -1227,20 +1060,14 @@
    ],
    "near": [
     "Water buffalo / African buffalo",
-    "Bongo / Orangutan",
     "Cat / Goat",
-    "Cat / Guinea pig",
-    "Cheetah / Leopard",
     "Dog / Pig",
     "Donkey / Monkey",
-    "Arctic hare / Bowhead whale",
-    "Jaguar / Panther",
-    "Jaguar / Snow leopard",
     "Moose / Mouse",
     "Opossum / Possum",
     "Red squirrel / Grey squirrel"
    ],
-   "nearCount": 13,
+   "nearCount": 7,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1249,7 +1076,7 @@
    "id": "ocean-mammals",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 36,
+   "descriptions": 32,
    "aliasCollisions": [],
    "suggestions": [
     "Blue whale: BW",
@@ -1296,7 +1123,7 @@
     "Marine otter: MO",
     "Polar bear: PB"
    ],
-   "wikidataMatched": 36,
+   "wikidataMatched": 32,
    "collisions": [],
    "near": [
     "Bowhead whale / Pilot whale"
@@ -1310,7 +1137,7 @@
    "id": "birds",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 179,
+   "descriptions": 80,
    "aliasCollisions": [],
    "suggestions": [
     "Barn owl: BO",
@@ -1348,15 +1175,16 @@
     "Whip-poor-will: WPW",
     "Bearded tit: BT"
    ],
-   "wikidataMatched": 187,
+   "wikidataMatched": 80,
    "collisions": [],
    "near": [
+    "Kite / Kingbird",
     "Lovebird / Lyrebird",
     "Lovebird / Ovenbird",
     "Pigeon / Wigeon",
     "Woodcock / Wood duck"
    ],
-   "nearCount": 4,
+   "nearCount": 5,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1365,7 +1193,7 @@
    "id": "dog-breeds",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 80,
+   "descriptions": 65,
    "aliasCollisions": [
     {
      "text": "Akita Inu",
@@ -1458,14 +1286,12 @@
     "Tibetan mastiff: TM",
     "Tibetan spaniel: TS"
    ],
-   "wikidataMatched": 80,
+   "wikidataMatched": 65,
    "collisions": [],
    "near": [
-    "Dalmatian / German shepherd",
-    "Poodle / Labradoodle",
-    "Kai Ken / Tosa"
+    "Dalmatian / German shepherd"
    ],
-   "nearCount": 3,
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1474,7 +1300,7 @@
    "id": "cat-breeds",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 35,
+   "descriptions": 28,
    "aliasCollisions": [],
    "suggestions": [
     "American bobtail: AB",
@@ -1500,7 +1326,7 @@
     "Turkish angora: TA",
     "Turkish van: TV"
    ],
-   "wikidataMatched": 35,
+   "wikidataMatched": 28,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -1512,7 +1338,7 @@
    "id": "insects",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 51,
+   "descriptions": 27,
    "aliasCollisions": [],
    "suggestions": [
     "Fire ant: FA",
@@ -1564,7 +1390,7 @@
     "Velvet ant: VA",
     "Gall wasp: GW"
    ],
-   "wikidataMatched": 53,
+   "wikidataMatched": 27,
    "collisions": [],
    "near": [
     "Housefly / Horsefly",
@@ -1579,7 +1405,7 @@
    "id": "reptiles",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 68,
+   "descriptions": 53,
    "aliasCollisions": [
     {
      "text": "gator",
@@ -1587,30 +1413,6 @@
      "answers": [
       "Alligator",
       "American alligator"
-     ]
-    },
-    {
-     "text": "tortoise",
-     "src": "w",
-     "answers": [
-      "Tortoise",
-      "Turtle"
-     ]
-    },
-    {
-     "text": "sea turtle",
-     "src": "w",
-     "answers": [
-      "Sea turtle",
-      "Turtle"
-     ]
-    },
-    {
-     "text": "terrapin",
-     "src": "w",
-     "answers": [
-      "Terrapin",
-      "Turtle"
      ]
     }
    ],
@@ -1675,13 +1477,12 @@
     "Crested gecko: CG",
     "Mata mata: MM"
    ],
-   "wikidataMatched": 68,
+   "wikidataMatched": 53,
    "collisions": [],
    "near": [
-    "Box turtle / Terrapin",
     "Coral snake / Corn snake"
    ],
-   "nearCount": 2,
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1690,17 +1491,8 @@
    "id": "fish",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 141,
-   "aliasCollisions": [
-    {
-     "text": "pilchard",
-     "src": "w",
-     "answers": [
-      "Pilchard",
-      "Sardine"
-     ]
-    }
-   ],
+   "descriptions": 87,
+   "aliasCollisions": [],
    "suggestions": [
     "Sea bass: SB",
     "Largemouth bass: LB",
@@ -1742,7 +1534,7 @@
     "Skipjack tuna: ST",
     "Mackerel shark: MS"
    ],
-   "wikidataMatched": 144,
+   "wikidataMatched": 87,
    "collisions": [],
    "near": [
     "Angelfish / Anglerfish",
@@ -1754,21 +1546,17 @@
     "Goldfish / Sole",
     "Goldfish / Toadfish",
     "Lionfish / Opah",
-    "Lungfish / Tuna",
     "Lungfish / Kingfish",
-    "Mackerel / Pike",
     "Monkfish / Opah",
-    "Pollock / Toadfish",
     "Roach / Loach",
     "Pipefish / Viperfish",
     "Pipefish / Tilefish",
     "Great white shark / Whale shark",
     "Bull shark / Blue shark",
     "Sole / Stonefish",
-    "Sole / Tilefish",
-    "Rainbow trout / Brown trout"
+    "Sole / Tilefish"
    ],
-   "nearCount": 22,
+   "nearCount": 18,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1777,17 +1565,8 @@
    "id": "sea-creatures",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 95,
-   "aliasCollisions": [
-    {
-     "text": "prawn",
-     "src": "w",
-     "answers": [
-      "Prawn",
-      "Shrimp"
-     ]
-    }
-   ],
+   "descriptions": 64,
+   "aliasCollisions": [],
    "suggestions": [
     "Blue whale: BW",
     "Humpback whale: HW",
@@ -1839,7 +1618,7 @@
     "Tube worm: TW",
     "Fan worm: FW"
    ],
-   "wikidataMatched": 97,
+   "wikidataMatched": 64,
    "collisions": [],
    "near": [
     "Great white shark / Whale shark",
@@ -1857,10 +1636,10 @@
    "id": "dinosaurs",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 94,
+   "descriptions": 90,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 94,
+   "wikidataMatched": 90,
    "collisions": [],
    "near": [
     "Allosaurus / Plateosaurus",
@@ -1881,7 +1660,7 @@
    "id": "horse-breeds",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 52,
+   "descriptions": 43,
    "aliasCollisions": [],
    "suggestions": [
     "Bashkir Curly: BC",
@@ -1919,12 +1698,10 @@
     "Eriskay pony: EP",
     "Chincoteague pony: CP"
    ],
-   "wikidataMatched": 52,
+   "wikidataMatched": 43,
    "collisions": [],
-   "near": [
-    "Tennessee Walking Horse / Waler"
-   ],
-   "nearCount": 1,
+   "near": [],
+   "nearCount": 0,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1933,7 +1710,7 @@
    "id": "trees",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 102,
+   "descriptions": 19,
    "aliasCollisions": [],
    "suggestions": [
     "Bald cypress: BC",
@@ -1970,14 +1747,13 @@
     "Bodhi tree: BT",
     "Rain tree: RT"
    ],
-   "wikidataMatched": 104,
+   "wikidataMatched": 19,
    "collisions": [],
    "near": [
     "Alder / Elder",
-    "Balsa / Lime",
     "Kauri / Karri"
    ],
-   "nearCount": 3,
+   "nearCount": 2,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -1986,17 +1762,8 @@
    "id": "flowers",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 129,
-   "aliasCollisions": [
-    {
-     "text": "marigold",
-     "src": "w",
-     "answers": [
-      "Marigold",
-      "Calendula"
-     ]
-    }
-   ],
+   "descriptions": 66,
+   "aliasCollisions": [],
    "suggestions": [
     "African violet: AV",
     "Bird of paradise: BP",
@@ -2020,17 +1787,15 @@
     "Wood anemone: WA",
     "Lady's slipper: LS"
    ],
-   "wikidataMatched": 131,
+   "wikidataMatched": 66,
    "collisions": [],
    "near": [
-    "Calendula / Marigold",
     "Campanula / Wallflower",
     "Canna / Calla lily",
-    "Columbine / Aquilegia",
     "Cornflower / Coneflower",
-    "Gerbera / Gazania"
+    "Violet / Viola"
    ],
-   "nearCount": 6,
+   "nearCount": 4,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2039,7 +1804,7 @@
    "id": "houseplants",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 36,
+   "descriptions": 31,
    "aliasCollisions": [],
    "suggestions": [
     "Aloe vera: AV",
@@ -2083,7 +1848,7 @@
     "Majesty palm: MP",
     "Lucky bamboo: LB"
    ],
-   "wikidataMatched": 36,
+   "wikidataMatched": 31,
    "collisions": [],
    "near": [
     "String of pearls / String of hearts"
@@ -2097,27 +1862,18 @@
    "id": "gemstones",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 74,
-   "aliasCollisions": [
-    {
-     "text": "blood stone",
-     "src": "w",
-     "answers": [
-      "Bloodstone",
-      "Hematite"
-     ]
-    }
-   ],
+   "descriptions": 56,
+   "aliasCollisions": [],
    "suggestions": [
     "Lapis lazuli: LL",
     "Rose quartz: RQ",
     "Smoky quartz: SQ",
     "Tiger's eye: TE"
    ],
-   "wikidataMatched": 75,
+   "wikidataMatched": 56,
    "collisions": [],
    "near": [
-    "Obsidian / Zircon"
+    "Galena / Selenite"
    ],
    "nearCount": 1,
    "suspicious": [],
@@ -2128,22 +1884,13 @@
    "id": "rocks",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 37,
-   "aliasCollisions": [
-    {
-     "text": "tuff",
-     "src": "w",
-     "answers": [
-      "Tuff",
-      "Tufa"
-     ]
-    }
-   ],
+   "descriptions": 0,
+   "aliasCollisions": [],
    "suggestions": [
     "Oil shale: OS",
     "Rock salt: RS"
    ],
-   "wikidataMatched": 37,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Rhyolite / Phyllite",
@@ -2159,17 +1906,8 @@
    "id": "weather",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 57,
-   "aliasCollisions": [
-    {
-     "text": "sandstorm",
-     "src": "w",
-     "answers": [
-      "Sandstorm",
-      "Dust storm"
-     ]
-    }
-   ],
+   "descriptions": 0,
+   "aliasCollisions": [],
    "suggestions": [
     "Hoar frost: HF",
     "Black ice: BI",
@@ -2191,7 +1929,7 @@
     "Low pressure: LP",
     "High pressure: HP"
    ],
-   "wikidataMatched": 59,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Hailstorm / Rainstorm"
@@ -2205,7 +1943,7 @@
    "id": "disasters",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 31,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Volcanic eruption: VE",
@@ -2226,7 +1964,7 @@
     "Coastal erosion: CE",
     "Crop failure: CF"
    ],
-   "wikidataMatched": 31,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Ice storm / Firestorm",
@@ -2241,7 +1979,7 @@
    "id": "volcanoes",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 69,
+   "descriptions": 52,
    "aliasCollisions": [],
    "suggestions": [
     "Mount Vesuvius: MV",
@@ -2291,7 +2029,7 @@
     "Mount Garibaldi: MG",
     "Olympus Mons: OM"
    ],
-   "wikidataMatched": 69,
+   "wikidataMatched": 52,
    "collisions": [],
    "near": [
     "Mauna Loa / Mauna Kea"
@@ -2305,7 +2043,7 @@
    "id": "deserts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 41,
+   "descriptions": 33,
    "aliasCollisions": [
     {
      "text": "Arabian Desert",
@@ -2357,7 +2095,7 @@
     "Tabernas Desert: TD",
     "Bardenas Reales: BR"
    ],
-   "wikidataMatched": 42,
+   "wikidataMatched": 34,
    "collisions": [],
    "near": [
     "Dasht-e Lut / Cholistan Desert",
@@ -2370,19 +2108,10 @@
   },
   {
    "id": "mountains",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 117,
-   "aliasCollisions": [
-    {
-     "text": "Monte Rosa",
-     "src": "w",
-     "answers": [
-      "Monte Rosa",
-      "Dufourspitze"
-     ]
-    }
-   ],
+   "groupBy": "Continent",
+   "groupFallback": false,
+   "descriptions": 101,
+   "aliasCollisions": [],
    "suggestions": [
     "Cho Oyu: CO",
     "Nanga Parbat: NP",
@@ -2458,7 +2187,7 @@
     "Nevado Sajama: NS",
     "Mount Roraima: MR"
    ],
-   "wikidataMatched": 118,
+   "wikidataMatched": 102,
    "collisions": [],
    "near": [
     "Mount Hood / Aoraki",
@@ -2478,82 +2207,18 @@
    "groupBy": "Element family",
    "groupFallback": false,
    "descriptions": 118,
-   "aliasCollisions": [
-    {
-     "text": "ununnilium",
-     "src": "w",
-     "answers": [
-      "Darmstadtium",
-      "Roentgenium"
-     ]
-    }
-   ],
+   "aliasCollisions": [],
    "suggestions": [],
    "wikidataMatched": 118,
    "collisions": [],
    "near": [
-    "Hydrogen / Helium",
-    "Hydrogen / Lithium",
-    "Hydrogen / Beryllium",
-    "Hydrogen / Boron",
-    "Hydrogen / Carbon",
-    "Hydrogen / Nitrogen",
-    "Hydrogen / Oxygen",
-    "Hydrogen / Fluorine",
-    "Hydrogen / Neon",
-    "Hydrogen / Sodium",
-    "Hydrogen / Magnesium",
-    "Hydrogen / Aluminium",
-    "Hydrogen / Silicon",
-    "Hydrogen / Phosphorus",
-    "Hydrogen / Sulfur",
-    "Hydrogen / Chlorine",
-    "Hydrogen / Argon",
-    "Hydrogen / Potassium",
-    "Hydrogen / Calcium",
-    "Hydrogen / Scandium",
-    "Hydrogen / Titanium",
-    "Hydrogen / Vanadium",
-    "Hydrogen / Chromium",
-    "Hydrogen / Manganese",
-    "Hydrogen / Iron",
-    "Hydrogen / Cobalt",
-    "Hydrogen / Nickel",
-    "Hydrogen / Copper",
-    "Hydrogen / Zinc",
-    "Hydrogen / Gallium",
-    "Hydrogen / Germanium",
-    "Hydrogen / Arsenic",
-    "Hydrogen / Selenium",
-    "Hydrogen / Bromine",
-    "Hydrogen / Krypton",
-    "Hydrogen / Rubidium",
-    "Hydrogen / Strontium",
-    "Hydrogen / Yttrium",
-    "Hydrogen / Zirconium",
-    "Hydrogen / Niobium",
-    "Hydrogen / Molybdenum",
-    "Hydrogen / Technetium",
-    "Hydrogen / Ruthenium",
-    "Hydrogen / Rhodium",
-    "Hydrogen / Palladium",
-    "Hydrogen / Silver",
-    "Hydrogen / Cadmium",
-    "Hydrogen / Indium",
-    "Hydrogen / Tin",
-    "Hydrogen / Antimony",
-    "Hydrogen / Tellurium",
-    "Hydrogen / Iodine",
-    "Hydrogen / Xenon",
-    "Hydrogen / Caesium",
-    "Hydrogen / Barium",
-    "Hydrogen / Lanthanum",
-    "Hydrogen / Cerium",
-    "Hydrogen / Praseodymium",
-    "Hydrogen / Neodymium",
-    "Hydrogen / Promethium"
+    "Beryllium / Berkelium",
+    "Caesium / Cerium",
+    "Cerium / Curium",
+    "Terbium / Erbium",
+    "Hafnium / Dubnium"
    ],
-   "nearCount": 5555,
+   "nearCount": 5,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2563,82 +2228,18 @@
    "groupBy": "Element family",
    "groupFallback": false,
    "descriptions": 92,
-   "aliasCollisions": [
-    {
-     "text": "ununnilium",
-     "src": "w",
-     "answers": [
-      "Darmstadtium",
-      "Roentgenium"
-     ]
-    }
-   ],
+   "aliasCollisions": [],
    "suggestions": [],
    "wikidataMatched": 92,
    "collisions": [],
    "near": [
-    "Lithium / Beryllium",
-    "Lithium / Sodium",
-    "Lithium / Magnesium",
-    "Lithium / Aluminium",
-    "Lithium / Potassium",
-    "Lithium / Calcium",
-    "Lithium / Scandium",
-    "Lithium / Titanium",
-    "Lithium / Vanadium",
-    "Lithium / Chromium",
-    "Lithium / Manganese",
-    "Lithium / Iron",
-    "Lithium / Cobalt",
-    "Lithium / Nickel",
-    "Lithium / Copper",
-    "Lithium / Zinc",
-    "Lithium / Gallium",
-    "Lithium / Rubidium",
-    "Lithium / Strontium",
-    "Lithium / Yttrium",
-    "Lithium / Zirconium",
-    "Lithium / Niobium",
-    "Lithium / Molybdenum",
-    "Lithium / Technetium",
-    "Lithium / Ruthenium",
-    "Lithium / Rhodium",
-    "Lithium / Palladium",
-    "Lithium / Silver",
-    "Lithium / Cadmium",
-    "Lithium / Indium",
-    "Lithium / Tin",
-    "Lithium / Caesium",
-    "Lithium / Barium",
-    "Lithium / Lanthanum",
-    "Lithium / Cerium",
-    "Lithium / Praseodymium",
-    "Lithium / Neodymium",
-    "Lithium / Promethium",
-    "Lithium / Samarium",
-    "Lithium / Europium",
-    "Lithium / Gadolinium",
-    "Lithium / Terbium",
-    "Lithium / Dysprosium",
-    "Lithium / Holmium",
-    "Lithium / Erbium",
-    "Lithium / Thulium",
-    "Lithium / Ytterbium",
-    "Lithium / Lutetium",
-    "Lithium / Hafnium",
-    "Lithium / Tantalum",
-    "Lithium / Tungsten",
-    "Lithium / Rhenium",
-    "Lithium / Osmium",
-    "Lithium / Iridium",
-    "Lithium / Platinum",
-    "Lithium / Gold",
-    "Lithium / Mercury",
-    "Lithium / Thallium",
-    "Lithium / Lead",
-    "Lithium / Bismuth"
+    "Beryllium / Berkelium",
+    "Caesium / Cerium",
+    "Cerium / Curium",
+    "Terbium / Erbium",
+    "Hafnium / Dubnium"
    ],
-   "nearCount": 3227,
+   "nearCount": 5,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2647,20 +2248,13 @@
    "id": "element-symbols",
    "groupBy": "Element family",
    "groupFallback": false,
-   "descriptions": 86,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 93,
+   "wikidataMatched": 0,
    "collisions": [],
-   "near": [
-    "Cl / Np",
-    "Ti / Po",
-    "Sb / Np",
-    "Pt / Fl",
-    "Po / Fr",
-    "Am / Ts"
-   ],
-   "nearCount": 6,
+   "near": [],
+   "nearCount": 0,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2669,7 +2263,7 @@
    "id": "units",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 118,
+   "descriptions": 55,
    "aliasCollisions": [
     {
      "text": "calorie",
@@ -2689,7 +2283,7 @@
     "Kilowatt-hour: KH",
     "Pounds per square inch: PPSI"
    ],
-   "wikidataMatched": 121,
+   "wikidataMatched": 55,
    "collisions": [],
    "near": [
     "Millimetre / Millilitre",
@@ -2707,9 +2301,9 @@
   },
   {
    "id": "scientists",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 142,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 141,
    "aliasCollisions": [],
    "suggestions": [
     "Albert Einstein: AE",
@@ -2793,7 +2387,7 @@
     "Christiaan Huygens: CH",
     "Anders Celsius: AC"
    ],
-   "wikidataMatched": 143,
+   "wikidataMatched": 141,
    "collisions": [],
    "near": [
     "J. J. Thomson / William Thomson"
@@ -2807,7 +2401,7 @@
    "id": "particles",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 68,
+   "descriptions": 59,
    "aliasCollisions": [
     {
      "text": "s quark",
@@ -2845,12 +2439,10 @@
     "Sterile neutrino: SN",
     "Cooper pair: CP"
    ],
-   "wikidataMatched": 68,
+   "wikidataMatched": 59,
    "collisions": [],
    "near": [
     "Proton / Photon",
-    "Proton / Deuteron",
-    "Proton / Triton",
     "Neutron / Neutrino",
     "Electron / Selectron",
     "Electron / Selectron",
@@ -2881,16 +2473,13 @@
     "W boson / Boson",
     "W boson / Z boson",
     "W boson / Boson",
-    "W boson / Z boson",
     "Z boson / Boson",
     "Z boson / Boson",
     "Graviton / Gravitino",
     "Kaon / Meson",
-    "Fermion / Sfermion",
-    "Deuteron / Triton",
-    "Deuteron / Triton"
+    "Fermion / Sfermion"
    ],
-   "nearCount": 41,
+   "nearCount": 36,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2899,7 +2488,7 @@
    "id": "shapes",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 72,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Scalene triangle: ST",
@@ -2915,17 +2504,14 @@
     "Mobius strip: MS",
     "Truncated icosahedron: TI"
    ],
-   "wikidataMatched": 72,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Pentagon / Heptagon",
     "Pentagon / Heptagon",
-    "Decagon / Hendecagon",
-    "Decagon / Dodecagon",
-    "Hendecagon / Dodecagon",
     "Hendecagon / Dodecagon"
    ],
-   "nearCount": 6,
+   "nearCount": 3,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2934,25 +2520,8 @@
    "id": "lab-equipment",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 61,
-   "aliasCollisions": [
-    {
-     "text": "pipette",
-     "src": "w",
-     "answers": [
-      "Pipette",
-      "Dropper"
-     ]
-    },
-    {
-     "text": "spectrophotometer",
-     "src": "w",
-     "answers": [
-      "Spectrophotometer",
-      "Colorimeter"
-     ]
-    }
-   ],
+   "descriptions": 31,
+   "aliasCollisions": [],
    "suggestions": [
     "Test tube: TT",
     "Test tube rack: TTR",
@@ -3008,7 +2577,7 @@
     "Chromatography paper: CP",
     "Bunsen valve: BV"
    ],
-   "wikidataMatched": 61,
+   "wikidataMatched": 31,
    "collisions": [],
    "near": [
     "Calorimeter / Colorimeter",
@@ -3025,25 +2594,8 @@
    "id": "quantities",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 75,
-   "aliasCollisions": [
-    {
-     "text": "weight",
-     "src": "w",
-     "answers": [
-      "Weight",
-      "Mass"
-     ]
-    },
-    {
-     "text": "volume",
-     "src": "w",
-     "answers": [
-      "Volume",
-      "Loudness"
-     ]
-    }
-   ],
+   "descriptions": 43,
+   "aliasCollisions": [],
    "suggestions": [
     "Kinetic energy: KE",
     "Potential energy: PE",
@@ -3064,7 +2616,7 @@
     "Mass number: MN",
     "Speed of light: SL"
    ],
-   "wikidataMatched": 76,
+   "wikidataMatched": 43,
    "collisions": [],
    "near": [
     "Weight / Height",
@@ -3079,7 +2631,7 @@
    "id": "compounds",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 95,
+   "descriptions": 75,
    "aliasCollisions": [
     {
      "text": "carbon oxide",
@@ -3087,65 +2639,6 @@
      "answers": [
       "Carbon dioxide",
       "Carbon monoxide"
-     ]
-    },
-    {
-     "text": "gasotransmitter",
-     "src": "w",
-     "answers": [
-      "Methane",
-      "Hydrogen sulfide",
-      "Ethylene"
-     ]
-    },
-    {
-     "text": "gasocrine signal",
-     "src": "w",
-     "answers": [
-      "Methane",
-      "Hydrogen sulfide",
-      "Ethylene"
-     ]
-    },
-    {
-     "text": "nonessential gasotransmitter",
-     "src": "w",
-     "answers": [
-      "Methane",
-      "Hydrogen sulfide",
-      "Ethylene"
-     ]
-    },
-    {
-     "text": "gaseous signaling molecule",
-     "src": "w",
-     "answers": [
-      "Methane",
-      "Hydrogen sulfide"
-     ]
-    },
-    {
-     "text": "caustic lime",
-     "src": "w",
-     "answers": [
-      "Calcium hydroxide",
-      "Calcium oxide"
-     ]
-    },
-    {
-     "text": "limestone",
-     "src": "w",
-     "answers": [
-      "Calcium carbonate",
-      "Calcium oxide"
-     ]
-    },
-    {
-     "text": "Niter",
-     "src": "w",
-     "answers": [
-      "Potassium nitrate",
-      "Sodium nitrate"
      ]
     }
    ],
@@ -3199,40 +2692,25 @@
     "Boric acid: BA",
     "Calcium phosphate: CP"
    ],
-   "wikidataMatched": 95,
+   "wikidataMatched": 75,
    "collisions": [],
    "near": [
-    "Water / Hydrogen peroxide",
-    "Carbon monoxide / Methanol",
     "Carbon monoxide / Iron oxide",
-    "Ammonia / Nitric acid",
     "Methane / Ethane",
-    "Methane / Methanol",
-    "Methane / Methanol",
     "Ethane / Ethylene",
-    "Ethane / Acetylene",
     "Ethane / Acetylene",
     "Butane / Octane",
     "Ethanol / Methanol",
     "Ethanol / Methanol",
-    "Ethanol / Methanol",
-    "Ethanol / Methanol",
-    "Ethanol / Methanol",
-    "Ethanol / Methanol",
-    "Methanol / Formaldehyde",
-    "Sulfuric acid / Hydrogen sulfide",
     "Nitric acid / Citric acid",
     "Acetic acid / Lactic acid",
     "Acetic acid / Formic acid",
     "Acetic acid / Formic acid",
     "Formic acid / Boric acid",
-    "Calcium hydroxide / Calcium oxide",
     "Sodium bicarbonate / Sodium carbonate",
-    "Potassium nitrate / Nitrous oxide",
-    "Ethylene / Acetylene",
     "Ethylene / Acetylene"
    ],
-   "nearCount": 29,
+   "nearCount": 14,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3241,74 +2719,13 @@
    "id": "moons",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 100,
+   "descriptions": 46,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 101,
+   "wikidataMatched": 46,
    "collisions": [],
-   "near": [
-    "Ganymede / Himalia",
-    "Ganymede / Himalia",
-    "Ganymede / Elara",
-    "Ganymede / Pasiphae",
-    "Ganymede / Carme",
-    "Ganymede / Ananke",
-    "Ganymede / Thebe",
-    "Ganymede / Callirrhoe",
-    "Ganymede / Amalthea",
-    "Ganymede / Amalthea",
-    "Ganymede / Himalia",
-    "Ganymede / Himalia",
-    "Ganymede / Elara",
-    "Ganymede / Pasiphae",
-    "Ganymede / Carme",
-    "Ganymede / Carme",
-    "Ganymede / Ananke",
-    "Ganymede / Thebe",
-    "Ganymede / Adrastea",
-    "Ganymede / Adrastea",
-    "Amalthea / Himalia",
-    "Amalthea / Himalia",
-    "Amalthea / Elara",
-    "Amalthea / Elara",
-    "Amalthea / Pasiphae",
-    "Amalthea / Carme",
-    "Amalthea / Carme",
-    "Amalthea / Ananke",
-    "Amalthea / Thebe",
-    "Amalthea / Thebe",
-    "Amalthea / Adrastea",
-    "Amalthea / Adrastea",
-    "Amalthea / Himalia",
-    "Amalthea / Himalia",
-    "Amalthea / Elara",
-    "Amalthea / Pasiphae",
-    "Amalthea / Carme",
-    "Amalthea / Carme",
-    "Amalthea / Ananke",
-    "Amalthea / Thebe",
-    "Amalthea / Adrastea",
-    "Amalthea / Adrastea",
-    "Amalthea / Thebe",
-    "Himalia / Elara",
-    "Himalia / Elara",
-    "Himalia / Pasiphae",
-    "Himalia / Pasiphae",
-    "Himalia / Carme",
-    "Himalia / Carme",
-    "Himalia / Ananke",
-    "Himalia / Ananke",
-    "Himalia / Thebe",
-    "Himalia / Thebe",
-    "Himalia / Adrastea",
-    "Himalia / Adrastea",
-    "Himalia / Callirrhoe",
-    "Himalia / Elara",
-    "Himalia / Pasiphae",
-    "Himalia / Carme",
-    "Himalia / Carme"
-   ],
-   "nearCount": 439,
+   "near": [],
+   "nearCount": 0,
    "suspicious": [
     "Io: very short"
    ],
@@ -3319,7 +2736,7 @@
    "id": "constellations",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 88,
+   "descriptions": 86,
    "aliasCollisions": [],
    "suggestions": [
     "Canes Venatici: CV",
@@ -3334,7 +2751,7 @@
     "Ursa Major: UM",
     "Ursa Minor: UM"
    ],
-   "wikidataMatched": 88,
+   "wikidataMatched": 86,
    "collisions": [],
    "near": [
     "Canis Major / Canis Minor",
@@ -3373,9 +2790,9 @@
   },
   {
    "id": "astronauts",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 109,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 107,
    "aliasCollisions": [],
    "suggestions": [
     "Neil Armstrong: NA",
@@ -3459,7 +2876,7 @@
     "Alexander Gerst: AG",
     "Frank De Winne: FDW"
    ],
-   "wikidataMatched": 110,
+   "wikidataMatched": 107,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -3471,7 +2888,7 @@
    "id": "missions",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 94,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Apollo program: AP",
@@ -3489,7 +2906,7 @@
     "Lunar Gateway: LG",
     "Lunar Prospector: LP"
    ],
-   "wikidataMatched": 99,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Apollo 11 / Apollo 13",
@@ -3497,13 +2914,11 @@
     "Apollo 11 / Apollo 12",
     "Apollo 11 / Apollo 14",
     "Apollo 11 / Apollo 15",
-    "Apollo 11 / Apollo 15",
     "Apollo 11 / Apollo 16",
     "Apollo 11 / Apollo 17",
     "Apollo 13 / Apollo 1",
     "Apollo 13 / Apollo 12",
     "Apollo 13 / Apollo 14",
-    "Apollo 13 / Apollo 15",
     "Apollo 13 / Apollo 15",
     "Apollo 13 / Apollo 16",
     "Apollo 13 / Apollo 17",
@@ -3517,28 +2932,14 @@
     "Apollo 1 / Apollo program",
     "Apollo 12 / Apollo 14",
     "Apollo 12 / Apollo 15",
-    "Apollo 12 / Apollo 15",
     "Apollo 12 / Apollo 16",
     "Apollo 12 / Apollo 17",
-    "Apollo 12 / Apollo 14",
-    "Apollo 12 / Apollo 15",
-    "Apollo 12 / Apollo 16",
-    "Apollo 12 / Apollo 17",
-    "Apollo 14 / Apollo 15",
-    "Apollo 14 / Apollo 15",
-    "Apollo 14 / Apollo 16",
-    "Apollo 14 / Apollo 17",
     "Apollo 14 / Apollo 15",
     "Apollo 14 / Apollo 16",
     "Apollo 14 / Apollo 17",
     "Apollo 15 / Apollo 16",
     "Apollo 15 / Apollo 17",
     "Apollo 15 / Apollo 16",
-    "Apollo 15 / Apollo 16",
-    "Apollo 15 / Apollo 16",
-    "Apollo 15 / Apollo 17",
-    "Apollo 15 / Apollo 17",
-    "Apollo 16 / Apollo 17",
     "Apollo 16 / Apollo 17",
     "Artemis / Artemis I",
     "Artemis / Artemis I",
@@ -3549,11 +2950,23 @@
     "Artemis I / Artemis II",
     "Sputnik / Sputnik 2",
     "Sputnik / Sputnik 2",
-    "Discovery / Lunar Prospector",
-    "Discovery / Lunar Prospector",
-    "Voyager 1 / Voyager 2"
+    "Voyager 1 / Voyager 2",
+    "Voyager 1 / Voyager",
+    "Voyager 2 / Voyager",
+    "Pioneer 10 / Pioneer 11",
+    "Viking 1 / Viking 2",
+    "Viking 1 / Viking 2",
+    "Mariner 4 / Mariner 9",
+    "Mariner 4 / Mariner 10",
+    "Mariner 4 / Mariner 9",
+    "Mariner 9 / Mariner 10",
+    "Luna 2 / Luna 9",
+    "Hayabusa / Hayabusa2",
+    "Chandrayaan / Chandrayaan-3",
+    "Chandrayaan / Chandrayaan-3",
+    "Chang'e / Chang'e 4"
    ],
-   "nearCount": 78,
+   "nearCount": 56,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3562,7 +2975,7 @@
    "id": "stars",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 85,
+   "descriptions": 44,
    "aliasCollisions": [],
    "suggestions": [
     "Alpha Centauri: AC",
@@ -3578,71 +2991,13 @@
     "Pistol Star: PS",
     "Tabby's Star: TS"
    ],
-   "wikidataMatched": 85,
+   "wikidataMatched": 44,
    "collisions": [],
    "near": [
-    "Achernar / Betelgeuse",
-    "Betelgeuse / Bellatrix",
-    "Betelgeuse / Alnilam",
-    "Betelgeuse / Alnitak",
-    "Betelgeuse / Mintaka",
-    "Betelgeuse / Alnitak",
-    "Betelgeuse / Aldebaran",
-    "Betelgeuse / Saiph",
     "Altair / Alnair",
-    "Altair / Vindemiatrix",
-    "Acrux / Gacrux",
-    "Aldebaran / Vindemiatrix",
-    "Aldebaran / Electra",
-    "Aldebaran / Atlas",
-    "Aldebaran / Ross 128",
-    "Aldebaran / Merak",
-    "Aldebaran / Taygeta",
-    "Spica / Vindemiatrix",
-    "Spica / Ross 128",
-    "Spica / Vindemiatrix",
-    "Spica / Eta Carinae",
-    "Spica / Alkaid",
-    "Pollux / Avior",
-    "Pollux / Vindemiatrix",
-    "Bellatrix / Mintaka",
-    "Bellatrix / Saiph",
-    "Bellatrix / Mintaka",
-    "Bellatrix / Saiph",
-    "Bellatrix / Peacock",
-    "Bellatrix / Alnilam",
-    "Bellatrix / Alnitak",
-    "Bellatrix / Mintaka",
-    "Bellatrix / Mintaka",
-    "Bellatrix / Mintaka",
-    "Bellatrix / Saiph",
-    "Bellatrix / Peacock",
-    "Bellatrix / Saiph",
-    "Alnilam / Alnitak",
-    "Alnilam / Mintaka",
-    "Alnitak / Mintaka",
-    "Alnitak / Mintaka",
-    "Alnitak / Saiph",
-    "Mintaka / Denebola",
-    "Mintaka / Saiph",
-    "Saiph / Eta Carinae",
-    "Alioth / Dubhe",
-    "Alioth / Merak",
-    "Alioth / Phecda",
-    "Alioth / Megrez",
-    "Alioth / Alcor",
-    "Alioth / Alcor",
-    "Alioth / Alkaid",
-    "Alioth / Vindemiatrix",
-    "Alioth / Gacrux",
-    "Dubhe / Merak",
-    "Dubhe / Phecda",
-    "Dubhe / Megrez",
-    "Dubhe / Alcor",
-    "Dubhe / Alcor",
-    "Dubhe / Alkaid"
+    "Acrux / Gacrux"
    ],
-   "nearCount": 107,
+   "nearCount": 2,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3651,7 +3006,7 @@
    "id": "galaxies",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 30,
+   "descriptions": 22,
    "aliasCollisions": [],
    "suggestions": [
     "Milky Way: MW",
@@ -3693,17 +3048,14 @@
     "Andromeda II: AI",
     "Pegasus Dwarf: PD"
    ],
-   "wikidataMatched": 31,
+   "wikidataMatched": 22,
    "collisions": [],
    "near": [
     "Andromeda / Andromeda II",
     "Andromeda / Andromeda II",
-    "Black Eye Galaxy / Sunflower Galaxy",
-    "Black Eye Galaxy / Messier 87",
-    "Sunflower Galaxy / Messier 87",
     "Maffei 1 / Maffei 2"
    ],
-   "nearCount": 6,
+   "nearCount": 3,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3712,17 +3064,8 @@
    "id": "space-agencies",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 31,
-   "aliasCollisions": [
-    {
-     "text": "ISA",
-     "src": "w",
-     "answers": [
-      "Iranian Space Agency",
-      "Israel Space Agency"
-     ]
-    }
-   ],
+   "descriptions": 26,
+   "aliasCollisions": [],
    "suggestions": [
     "UK Space Agency: USA",
     "UAE Space Agency: USA",
@@ -3742,7 +3085,7 @@
     "Intuitive Machines: IM",
     "Virgin Orbit: VO"
    ],
-   "wikidataMatched": 31,
+   "wikidataMatched": 26,
    "collisions": [],
    "near": [
     "UK Space Agency / UAE Space Agency",
@@ -3757,7 +3100,7 @@
    "id": "rockets",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 72,
+   "descriptions": 42,
    "aliasCollisions": [],
    "suggestions": [
     "Saturn V: SV",
@@ -3788,7 +3131,7 @@
     "Mercury-Atlas: MA",
     "Titan IIIC: TI"
    ],
-   "wikidataMatched": 72,
+   "wikidataMatched": 42,
    "collisions": [],
    "near": [
     "Saturn V / Saturn I",
@@ -3800,28 +3143,20 @@
     "Atlas V / Atlas",
     "Atlas V / Atlas",
     "Delta IV / Delta II",
-    "Delta IV / Delta IV Heavy",
-    "Delta IV / Delta II",
-    "Delta IV / Delta II",
     "Delta IV / Delta II",
     "Titan II / Titan IV",
     "Titan II / Titan IV",
     "Titan II / Titan",
     "Titan IV / Titan",
-    "Antares / Taurus",
-    "Ariane 5 / Ariane 6",
-    "Ariane 5 / Ariane 4",
-    "Ariane 5 / Ariane",
     "Ariane 5 / Ariane 6",
     "Ariane 5 / Ariane 4",
     "Ariane 5 / Ariane",
     "Ariane 6 / Ariane 4",
     "Ariane 6 / Ariane",
     "Ariane 4 / Ariane",
-    "Long March / Long March 5",
     "Long March / Long March 5"
    ],
-   "nearCount": 29,
+   "nearCount": 21,
    "suspicious": [
     "N1: very short",
     "R-7: very short",
@@ -3835,7 +3170,7 @@
    "id": "solar-system",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 60,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Halley's Comet: HC",
@@ -3861,12 +3196,10 @@
     "Maxwell Montes: MM",
     "Sputnik Planitia: SP"
    ],
-   "wikidataMatched": 62,
+   "wikidataMatched": 0,
    "collisions": [],
-   "near": [
-    "Uranus / Umbriel"
-   ],
-   "nearCount": 1,
+   "near": [],
+   "nearCount": 0,
    "suspicious": [
     "Io: very short"
    ],
@@ -3877,11 +3210,12 @@
    "id": "space-words",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 89,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Dwarf planet: DP",
     "Shooting star: SS",
+    "Black hole: BH",
     "Neutron star: NS",
     "White dwarf: WD",
     "Red dwarf: RD",
@@ -3890,6 +3224,7 @@
     "Blue giant: BG",
     "Star cluster: SC",
     "Globular cluster: GC",
+    "Open cluster: OC",
     "Space station: SS",
     "Space probe: SP",
     "Solar eclipse: SE",
@@ -3929,7 +3264,7 @@
     "Roche limit: RL",
     "Goldilocks zone: GZ"
    ],
-   "wikidataMatched": 90,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Spacecraft / Space suit"
@@ -3943,7 +3278,7 @@
    "id": "fruits",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 96,
+   "descriptions": 41,
    "aliasCollisions": [],
    "suggestions": [
     "Dragon fruit: DF",
@@ -3965,18 +3300,16 @@
     "Galia melon: GM",
     "Charentais melon: CM"
    ],
-   "wikidataMatched": 96,
+   "wikidataMatched": 41,
    "collisions": [],
    "near": [
-    "Banana / Pineapple",
-    "Banana / Pineapple",
     "Blueberry / Sloe",
     "Mulberry / Bilberry",
     "Raspberry / Wineberry",
     "Barberry / Bilberry",
     "Barberry / Tayberry"
    ],
-   "nearCount": 7,
+   "nearCount": 5,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3985,24 +3318,8 @@
    "id": "vegetables",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 78,
+   "descriptions": 19,
    "aliasCollisions": [
-    {
-     "text": "bok choy",
-     "src": "w",
-     "answers": [
-      "Bok choy",
-      "Chinese cabbage"
-     ]
-    },
-    {
-     "text": "pak choi",
-     "src": "w",
-     "answers": [
-      "Bok choy",
-      "Chinese cabbage"
-     ]
-    },
     {
      "text": "potato",
      "src": "w",
@@ -4054,12 +3371,10 @@
     "Mung bean: MB",
     "New potato: NP"
    ],
-   "wikidataMatched": 79,
+   "wikidataMatched": 19,
    "collisions": [],
-   "near": [
-    "Green bean / Pea"
-   ],
-   "nearCount": 1,
+   "near": [],
+   "nearCount": 0,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -4068,7 +3383,7 @@
    "id": "herbs-spices",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 67,
+   "descriptions": 34,
    "aliasCollisions": [],
    "suggestions": [
     "Star anise: SA",
@@ -4106,7 +3421,7 @@
     "Jerk seasoning: JS",
     "Old Bay: OB"
    ],
-   "wikidataMatched": 68,
+   "wikidataMatched": 34,
    "collisions": [],
    "near": [
     "Coriander / Culantro"
@@ -4120,17 +3435,8 @@
    "id": "cheeses",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 65,
-   "aliasCollisions": [
-    {
-     "text": "cottage cheese",
-     "src": "w",
-     "answers": [
-      "Cottage cheese",
-      "Tvorog"
-     ]
-    }
-   ],
+   "descriptions": 37,
+   "aliasCollisions": [],
    "suggestions": [
     "Buffalo mozzarella: BM",
     "Grana Padano: GP",
@@ -4167,7 +3473,7 @@
     "Curd cheese: CC",
     "Cheese curds: CC"
    ],
-   "wikidataMatched": 65,
+   "wikidataMatched": 37,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -4179,32 +3485,15 @@
    "id": "pasta",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 60,
-   "aliasCollisions": [
-    {
-     "text": "rotini",
-     "src": "w",
-     "answers": [
-      "Rotini",
-      "Fusilli"
-     ]
-    },
-    {
-     "text": "fideo",
-     "src": "w",
-     "answers": [
-      "Fideos",
-      "Vermicelli"
-     ]
-    }
-   ],
+   "descriptions": 56,
+   "aliasCollisions": [],
    "suggestions": [
     "Elbow macaroni: EM",
     "Alphabet pasta: AP",
     "Acini di pepe: ADP",
     "Mezze maniche: MM"
    ],
-   "wikidataMatched": 60,
+   "wikidataMatched": 56,
    "collisions": [],
    "near": [
     "Spaghetti / Spaghettini",
@@ -4223,7 +3512,7 @@
    "id": "cocktails",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 66,
+   "descriptions": 56,
    "aliasCollisions": [],
    "suggestions": [
     "Dry martini: DM",
@@ -4286,7 +3575,7 @@
     "Frozen margarita: FM",
     "Gin rickey: GR"
    ],
-   "wikidataMatched": 67,
+   "wikidataMatched": 56,
    "collisions": [],
    "near": [
     "Godfather / Godmother"
@@ -4300,7 +3589,7 @@
    "id": "breads",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 49,
+   "descriptions": 30,
    "aliasCollisions": [],
    "suggestions": [
     "Rye bread: RB",
@@ -4331,7 +3620,7 @@
     "Hokkaido milk bread: HMB",
     "Pane pugliese: PP"
    ],
-   "wikidataMatched": 50,
+   "wikidataMatched": 31,
    "collisions": [],
    "near": [
     "Rye bread / Fry bread"
@@ -4345,17 +3634,8 @@
    "id": "desserts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 54,
-   "aliasCollisions": [
-    {
-     "text": "custard",
-     "src": "w",
-     "answers": [
-      "Custard",
-      "Natillas"
-     ]
-    }
-   ],
+   "descriptions": 27,
+   "aliasCollisions": [],
    "suggestions": [
     "Apple pie: AP",
     "Apple crumble: AC",
@@ -4428,7 +3708,7 @@
     "Bread pudding: BP",
     "Granola bar: GB"
    ],
-   "wikidataMatched": 55,
+   "wikidataMatched": 27,
    "collisions": [],
    "near": [
     "Macaron / Macaroon"
@@ -4442,16 +3722,8 @@
    "id": "nuts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 30,
+   "descriptions": 17,
    "aliasCollisions": [
-    {
-     "text": "candlenut",
-     "src": "w",
-     "answers": [
-      "Candlenut",
-      "Kukui nut"
-     ]
-    },
     {
      "text": "melon seed",
      "src": "w",
@@ -4489,7 +3761,7 @@
     "Jackfruit seed: JS",
     "Melon seed: MS"
    ],
-   "wikidataMatched": 30,
+   "wikidataMatched": 17,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -4501,7 +3773,7 @@
    "id": "coffee",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 29,
+   "descriptions": 22,
    "aliasCollisions": [
     {
      "text": "filter coffee",
@@ -4552,7 +3824,7 @@
     "Flat black: FB",
     "Long macchiato: LM"
    ],
-   "wikidataMatched": 29,
+   "wikidataMatched": 22,
    "collisions": [],
    "near": [
     "Cappuccino / Frappuccino",
@@ -4567,7 +3839,7 @@
    "id": "indian-dishes",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 59,
+   "descriptions": 29,
    "aliasCollisions": [],
    "suggestions": [
     "Butter chicken: BC",
@@ -4618,7 +3890,7 @@
     "Laal maas: LM",
     "Rogan josh: RJ"
    ],
-   "wikidataMatched": 59,
+   "wikidataMatched": 29,
    "collisions": [],
    "near": [
     "Pani puri / Dahi puri"
@@ -4632,17 +3904,8 @@
    "id": "teas",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 31,
-   "aliasCollisions": [
-    {
-     "text": "red tea",
-     "src": "w",
-     "answers": [
-      "Black tea",
-      "Rooibos"
-     ]
-    }
-   ],
+   "descriptions": 20,
+   "aliasCollisions": [],
    "suggestions": [
     "Black tea: BT",
     "Green tea: GT",
@@ -4694,7 +3957,7 @@
     "Russian tea: RT",
     "Sun tea: ST"
    ],
-   "wikidataMatched": 31,
+   "wikidataMatched": 20,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -4706,17 +3969,8 @@
    "id": "sauces",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 55,
-   "aliasCollisions": [
-    {
-     "text": "brown sauce",
-     "src": "w",
-     "answers": [
-      "Brown sauce",
-      "Demi-glace"
-     ]
-    }
-   ],
+   "descriptions": 42,
+   "aliasCollisions": [],
    "suggestions": [
     "Tomato ketchup: TK",
     "English mustard: EM",
@@ -4779,7 +4033,7 @@
     "Tamarind sauce: TS",
     "Hoisin sauce: HS"
    ],
-   "wikidataMatched": 56,
+   "wikidataMatched": 43,
    "collisions": [],
    "near": [
     "Mustard / Custard",
@@ -4795,16 +4049,8 @@
    "id": "instruments",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 124,
+   "descriptions": 105,
    "aliasCollisions": [
-    {
-     "text": "harp",
-     "src": "w",
-     "answers": [
-      "Harp",
-      "Harmonica"
-     ]
-    },
     {
      "text": "pianoforte",
      "src": "w",
@@ -4814,35 +4060,11 @@
      ]
     },
     {
-     "text": "spinet",
-     "src": "w",
-     "answers": [
-      "Spinet",
-      "Piano"
-     ]
-    },
-    {
      "text": "fortepiano",
      "src": "w",
      "answers": [
       "Fortepiano",
       "Piano"
-     ]
-    },
-    {
-     "text": "spinnet",
-     "src": "w",
-     "answers": [
-      "Piano",
-      "Spinet"
-     ]
-    },
-    {
-     "text": "fiddle",
-     "src": "w",
-     "answers": [
-      "Fiddle",
-      "Violin"
      ]
     }
    ],
@@ -4891,20 +4113,17 @@
     "Glass harmonica: GH",
     "Ondes Martenot: OM"
    ],
-   "wikidataMatched": 127,
+   "wikidataMatched": 105,
    "collisions": [],
    "near": [
     "Bagpipes / Panpipes",
     "Clarinet / Clavinet",
-    "French horn / Harmonica",
     "Guitar / Electric guitar",
     "Harmonica / Harmonium",
-    "Melodica / Glass harmonica",
-    "Grand piano / Mbira",
     "Saxophone / Alto saxophone",
     "Xylophone / Stylophone"
    ],
-   "nearCount": 9,
+   "nearCount": 6,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -4913,7 +4132,7 @@
    "id": "genres",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 192,
+   "descriptions": 150,
    "aliasCollisions": [
     {
      "text": "light rock",
@@ -4921,14 +4140,6 @@
      "answers": [
       "Soft rock",
       "Yacht rock"
-     ]
-    },
-    {
-     "text": "madchester",
-     "src": "w",
-     "answers": [
-      "Madchester",
-      "Baggy"
      ]
     },
     {
@@ -5020,22 +4231,15 @@
     "Spoken word: SW",
     "A cappella: AC"
    ],
-   "wikidataMatched": 193,
+   "wikidataMatched": 150,
    "collisions": [],
    "near": [
-    "R&B / Drum and bass",
-    "Soul / Son",
-    "Ska / Son",
     "Soft rock / Post-rock",
     "Afrobeat / Afrobeats",
-    "Afrobeat / Afroswing",
-    "Afrobeats / Afroswing",
-    "Breakbeat / Chillwave",
-    "Chillwave / Cloud rap",
     "Raga / Ragga",
     "A cappella / Acapella"
    ],
-   "nearCount": 11,
+   "nearCount": 4,
    "suspicious": [
     "Oi: very short"
    ],
@@ -5044,9 +4248,9 @@
   },
   {
    "id": "composers",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 132,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 129,
    "aliasCollisions": [],
    "suggestions": [
     "Johann Sebastian Bach: JSB",
@@ -5130,7 +4334,7 @@
     "Terry Riley: TR",
     "Scott Joplin: SJ"
    ],
-   "wikidataMatched": 132,
+   "wikidataMatched": 129,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -5142,7 +4346,7 @@
    "id": "bands",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 265,
+   "descriptions": 242,
    "aliasCollisions": [],
    "suggestions": [
     "The Beatles: TB",
@@ -5177,7 +4381,6 @@
     "Tears for Fears: TF",
     "Simple Minds: SM",
     "Talking Heads: TH",
-    "Pearl Jam: PJ",
     "Alice in Chains: AC",
     "Foo Fighters: FF",
     "Green Day: GD",
@@ -5224,9 +4427,10 @@
     "The Lumineers: TL",
     "Kings of Convenience: KC",
     "Beastie Boys: BB",
-    "Run-DMC: RD"
+    "Run-DMC: RD",
+    "Wu-Tang Clan: WTC"
    ],
-   "wikidataMatched": 265,
+   "wikidataMatched": 242,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -5240,7 +4444,7 @@
    "id": "musical-terms",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 146,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Mezzo forte: MF",
@@ -5260,14 +4464,13 @@
     "Prima donna: PD",
     "Tuning fork: TF"
    ],
-   "wikidataMatched": 153,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "A tempo / Tempo",
-    "Crescendo / Diminuendo",
-    "Tonic / Riff"
+    "Crescendo / Diminuendo"
    ],
-   "nearCount": 3,
+   "nearCount": 2,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -5276,17 +4479,8 @@
    "id": "beatles-songs",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 204,
-   "aliasCollisions": [
-    {
-     "text": "Revolution 1",
-     "src": "w",
-     "answers": [
-      "Revolution 1",
-      "Revolution"
-     ]
-    }
-   ],
+   "descriptions": 197,
+   "aliasCollisions": [],
    "suggestions": [
     "Love Me Do: LMD",
     "Please Please Me: PPM",
@@ -5369,7 +4563,7 @@
     "Golden Slumbers: GS",
     "Carry That Weight: CTW"
    ],
-   "wikidataMatched": 204,
+   "wikidataMatched": 197,
    "collisions": [],
    "near": [
     "Revolution / Revolution 1",
@@ -5390,25 +4584,8 @@
    "id": "percussion",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 60,
-   "aliasCollisions": [
-    {
-     "text": "drums",
-     "src": "w",
-     "answers": [
-      "Drum",
-      "Drum kit"
-     ]
-    },
-    {
-     "text": "ganzá",
-     "src": "w",
-     "answers": [
-      "Ganza",
-      "Egg shaker"
-     ]
-    }
-   ],
+   "descriptions": 40,
+   "aliasCollisions": [],
    "suggestions": [
     "Drum kit: DK",
     "Snare drum: SD",
@@ -5440,7 +4617,7 @@
     "Electronic drum kit: EDK",
     "Roto-tom: RT"
    ],
-   "wikidataMatched": 62,
+   "wikidataMatched": 40,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -5452,41 +4629,8 @@
    "id": "string-instruments",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 71,
-   "aliasCollisions": [
-    {
-     "text": "fiddle",
-     "src": "w",
-     "answers": [
-      "Fiddle",
-      "Violin"
-     ]
-    },
-    {
-     "text": "banjolele",
-     "src": "w",
-     "answers": [
-      "Banjolele",
-      "Ukulele"
-     ]
-    },
-    {
-     "text": "Chinese zither",
-     "src": "w",
-     "answers": [
-      "Guzheng",
-      "Guqin"
-     ]
-    },
-    {
-     "text": "lyre",
-     "src": "w",
-     "answers": [
-      "Lyre",
-      "Guqin"
-     ]
-    }
-   ],
+   "descriptions": 49,
+   "aliasCollisions": [],
    "suggestions": [
     "Double bass: DB",
     "Acoustic guitar: AG",
@@ -5509,15 +4653,13 @@
     "Viola d'amore: VD",
     "Cello piccolo: CP"
    ],
-   "wikidataMatched": 72,
+   "wikidataMatched": 49,
    "collisions": [],
    "near": [
     "Guitar / Electric guitar",
-    "Tanpura / Dombra",
-    "Pipa / Guqin",
     "Dombra / Domra"
    ],
-   "nearCount": 4,
+   "nearCount": 2,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -5526,7 +4668,7 @@
    "id": "one-name-musicians",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 100,
+   "descriptions": 84,
    "aliasCollisions": [],
    "suggestions": [
     "Ne-Yo: NY",
@@ -5535,7 +4677,7 @@
     "Debbie Gibson: DG",
     "Kim Wilde: KW"
    ],
-   "wikidataMatched": 100,
+   "wikidataMatched": 84,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -5551,7 +4693,7 @@
    "id": "musicals",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 117,
+   "descriptions": 105,
    "aliasCollisions": [],
    "suggestions": [
     "Les Miserables: LM",
@@ -5632,7 +4774,7 @@
     "Saturday Night Fever: SNF",
     "Wonderful Town: WT"
    ],
-   "wikidataMatched": 118,
+   "wikidataMatched": 105,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -5644,46 +4786,14 @@
    "id": "dances",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 110,
+   "descriptions": 86,
    "aliasCollisions": [
-    {
-     "text": "vogue",
-     "src": "w",
-     "answers": [
-      "Voguing",
-      "Ballroom"
-     ]
-    },
-    {
-     "text": "barn dance",
-     "src": "w",
-     "answers": [
-      "Barn dance",
-      "Polka"
-     ]
-    },
     {
      "text": "horo",
      "src": "w",
      "answers": [
       "Horo",
       "Hora"
-     ]
-    },
-    {
-     "text": "clogging",
-     "src": "w",
-     "answers": [
-      "Clog dancing",
-      "Gigue"
-     ]
-    },
-    {
-     "text": "step dancing",
-     "src": "w",
-     "answers": [
-      "Step dancing",
-      "Gigue"
      ]
     }
    ],
@@ -5727,15 +4837,14 @@
     "Ghost dance: GD",
     "Pow wow: PW"
    ],
-   "wikidataMatched": 110,
+   "wikidataMatched": 86,
    "collisions": [],
    "near": [
     "Rumba / Zumba",
     "Barn dance / Rain dance",
-    "Pole dancing / Kolo",
-    "Lap dance / Gigue"
+    "Pole dancing / Kolo"
    ],
-   "nearCount": 4,
+   "nearCount": 3,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -5773,7 +4882,6 @@
     "Toy Story 2 / Toy Story 3",
     "Toy Story 2 / Toy Story 4",
     "Toy Story 2 / Toy Story 5",
-    "Finding Nemo / Finding Dory",
     "The Incredibles / Incredibles 2",
     "Toy Story 3 / Toy Story 4",
     "Toy Story 3 / Toy Story 5",
@@ -5781,7 +4889,7 @@
     "Inside Out / Inside Out 2",
     "Toy Story 4 / Toy Story 5"
    ],
-   "nearCount": 14,
+   "nearCount": 13,
    "suspicious": [
     "Up: very short"
    ],
@@ -5826,7 +4934,6 @@
     "The Black Cauldron: BC",
     "The Great Mouse Detective: GMD",
     "Oliver & Company: OC",
-    "The Little Mermaid: LM",
     "The Rescuers Down Under: RDU",
     "Beauty and the Beast: BB",
     "The Lion King: LK",
@@ -5851,14 +4958,12 @@
    "wikidataMatched": 64,
    "collisions": [],
    "near": [
-    "Wreck-It Ralph / Ralph Breaks the Internet",
-    "Wreck-It Ralph / Ralph Breaks the Internet",
     "Frozen / Frozen II",
     "Zootopia / Zootopia 2",
     "Zootopia / Zootopia 2",
     "Moana / Moana 2"
    ],
-   "nearCount": 6,
+   "nearCount": 4,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -5867,7 +4972,7 @@
    "id": "best-picture",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 98,
+   "descriptions": 97,
    "aliasCollisions": [],
    "suggestions": [
     "The Sound of Music: SM",
@@ -5937,7 +5042,7 @@
     "Green Book: GB",
     "One Battle After Another: OBAA"
    ],
-   "wikidataMatched": 98,
+   "wikidataMatched": 97,
    "collisions": [],
    "near": [
     "The Godfather Part II / The Godfather",
@@ -5956,7 +5061,7 @@
    "id": "mcu-films",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 38,
+   "descriptions": 37,
    "aliasCollisions": [],
    "suggestions": [
     "Iron Man: IM",
@@ -5993,44 +5098,21 @@
     "The Fantastic Four: First Steps: FFFS",
     "Spider-Man: Brand New Day: SMBND"
    ],
-   "wikidataMatched": 38,
+   "wikidataMatched": 37,
    "collisions": [],
    "near": [
     "Iron Man / Iron Man 2",
     "Iron Man / Iron Man 3",
     "Iron Man 2 / Iron Man 3",
-    "Captain America: The First Avenger / Captain America: The Winter Soldier",
-    "Captain America: The First Avenger / Captain America: Civil War",
-    "Captain America: The First Avenger / Captain America: Brave New World",
-    "The Avengers / Avengers: Age of Ultron",
-    "The Avengers / Captain America: Civil War",
-    "Thor: The Dark World / Thor: Ragnarok",
-    "Thor: The Dark World / Thor: Love and Thunder",
-    "Captain America: The Winter Soldier / Captain America: Civil War",
-    "Captain America: The Winter Soldier / Captain America: Brave New World",
     "Guardians of the Galaxy / Guardians of the Galaxy Vol. 2",
     "Guardians of the Galaxy / Guardians of the Galaxy Vol. 3",
-    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 2",
-    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 3",
-    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 2",
-    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 3",
-    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 3",
-    "Avengers: Age of Ultron / Captain America: Civil War",
-    "Ant-Man / Ant-Man and the Wasp",
-    "Ant-Man / Ant-Man and the Wasp: Quantumania",
-    "Captain America: Civil War / Captain America: Brave New World",
     "Doctor Strange / Doctor Strange in the Multiverse of Madness",
     "Guardians of the Galaxy Vol. 2 / Guardians of the Galaxy Vol. 3",
     "Guardians of the Galaxy Vol. 2 / Guardians of the Galaxy Vol. 3",
-    "Guardians of the Galaxy Vol. 2 / Guardians of the Galaxy Vol. 3",
-    "Thor: Ragnarok / Thor: Love and Thunder",
     "Black Panther / Black Panther: Wakanda Forever",
-    "Black Panther / Black Panther: Wakanda Forever",
-    "Ant-Man and the Wasp / Ant-Man and the Wasp: Quantumania",
-    "Ant-Man and the Wasp / Ant-Man and the Wasp: Quantumania",
-    "Captain Marvel / The Marvels"
+    "Black Panther / Black Panther: Wakanda Forever"
    ],
-   "nearCount": 33,
+   "nearCount": 10,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -6039,7 +5121,7 @@
    "id": "ghibli",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 25,
+   "descriptions": 24,
    "aliasCollisions": [],
    "suggestions": [
     "Nausicaa of the Valley of the Wind: NVW",
@@ -6066,7 +5148,7 @@
     "Earwig and the Witch: EW",
     "The Boy and the Heron: BH"
    ],
-   "wikidataMatched": 25,
+   "wikidataMatched": 24,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -6110,7 +5192,7 @@
   },
   {
    "id": "pokemon-gen1",
-   "groupBy": "Era",
+   "groupBy": "Pokédex number",
    "groupFallback": false,
    "descriptions": 151,
    "aliasCollisions": [],
@@ -6130,22 +5212,15 @@
     }
    ],
    "near": [
-    "Bulbasaur / Venusaur",
-    "Charmeleon / Charizard",
     "Pidgeotto / Pidgeot",
     "Nidoran female / Nidoran male",
     "Nidoran female / Nidoran male",
     "Nidorina / Nidorino",
     "Nidorina / Nidoking",
     "Nidorino / Nidoking",
-    "Jigglypuff / Wigglytuff",
-    "Poliwag / Poliwhirl",
-    "Grimer / Muk",
-    "Drowzee / Hypno",
-    "Cubone / Marowak",
-    "Jolteon / Zapdos"
+    "Jigglypuff / Wigglytuff"
    ],
-   "nearCount": 14,
+   "nearCount": 7,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -6154,17 +5229,8 @@
    "id": "star-wars",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 150,
-   "aliasCollisions": [
-    {
-     "text": "Galen Marek",
-     "src": "w",
-     "answers": [
-      "Galen Marek",
-      "Starkiller"
-     ]
-    }
-   ],
+   "descriptions": 128,
+   "aliasCollisions": [],
    "suggestions": [
     "Luke Skywalker: LS",
     "Leia Organa: LO",
@@ -6247,7 +5313,7 @@
     "Nien Nunb: NN",
     "Admiral Piett: AP"
    ],
-   "wikidataMatched": 153,
+   "wikidataMatched": 131,
    "collisions": [],
    "near": [
     "Lando Calrissian / Din Djarin",
@@ -6266,7 +5332,7 @@
    "id": "simpsons",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 126,
+   "descriptions": 106,
    "aliasCollisions": [],
    "suggestions": [
     "Homer Simpson: HS",
@@ -6350,7 +5416,7 @@
     "Mr. Plow: MP",
     "Radioactive Man: RM"
    ],
-   "wikidataMatched": 127,
+   "wikidataMatched": 107,
    "collisions": [],
    "near": [
     "Marge Simpson / Maggie Simpson",
@@ -6366,7 +5432,7 @@
    "id": "sitcoms",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 154,
+   "descriptions": 147,
    "aliasCollisions": [],
    "suggestions": [
     "The Simpsons: TS",
@@ -6450,7 +5516,7 @@
     "Yes, Prime Minister: YPM",
     "The Young Ones: YO"
    ],
-   "wikidataMatched": 154,
+   "wikidataMatched": 147,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -6462,56 +5528,8 @@
    "id": "superheroes",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 157,
+   "descriptions": 138,
    "aliasCollisions": [
-    {
-     "text": "Shazam!",
-     "src": "w",
-     "answers": [
-      "Shazam",
-      "Captain Marvel"
-     ]
-    },
-    {
-     "text": "Captain America",
-     "src": "w",
-     "answers": [
-      "Captain America",
-      "Falcon"
-     ]
-    },
-    {
-     "text": "Iron Man",
-     "src": "w",
-     "answers": [
-      "Iron Man",
-      "War Machine"
-     ]
-    },
-    {
-     "text": "Star-Lord",
-     "src": "w",
-     "answers": [
-      "Star-Lord",
-      "Kitty Pryde"
-     ]
-    },
-    {
-     "text": "Human Torch",
-     "src": "w",
-     "answers": [
-      "Human Torch",
-      "Nova"
-     ]
-    },
-    {
-     "text": "Gwen Stacy",
-     "src": "w",
-     "answers": [
-      "Spider-Gwen",
-      "Spider-Woman"
-     ]
-    },
     {
      "text": "Spider-Gwen",
      "src": "w",
@@ -6529,50 +5547,10 @@
      ]
     },
     {
-     "text": "Daredevil",
-     "src": "w",
-     "answers": [
-      "Daredevil",
-      "Elektra"
-     ]
-    },
-    {
-     "text": "Black Widow",
-     "src": "w",
-     "answers": [
-      "Black Widow",
-      "Yelena Belova"
-     ]
-    },
-    {
-     "text": "Kara Zor-El",
-     "src": "w",
-     "answers": [
-      "Supergirl",
-      "Power Girl"
-     ]
-    },
-    {
-     "text": "Batgirl",
-     "src": "w",
-     "answers": [
-      "Batgirl",
-      "Huntress"
-     ]
-    },
-    {
      "text": "Supergirl",
      "src": "w",
      "answers": [
       "Supergirl",
-      "Power Girl"
-     ]
-    },
-    {
-     "text": "Nightwing",
-     "src": "w",
-     "answers": [
-      "Nightwing",
       "Power Girl"
      ]
     }
@@ -6634,6 +5612,7 @@
     "Omni-Man: OM",
     "Atom Eve: AE",
     "Mr. Incredible: MI",
+    "Teenage Mutant Ninja Turtles: TMNT",
     "Captain Planet: CP",
     "Darkwing Duck: DD",
     "Danger Mouse: DM",
@@ -6651,18 +5630,15 @@
     "Captain Britain: CB",
     "Moon Girl: MG"
    ],
-   "wikidataMatched": 158,
+   "wikidataMatched": 138,
    "collisions": [],
    "near": [
     "Spider-Man / Spider-Woman",
-    "Hawkeye / Robin",
-    "Jessica Jones / Luke Cage",
     "Ghost Rider / Spider-Gwen",
     "Batwoman / Catwoman",
-    "Starfire / Stargirl",
-    "Mr. Incredible / Elastigirl"
+    "Starfire / Stargirl"
    ],
-   "nearCount": 7,
+   "nearCount": 4,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -6825,7 +5801,7 @@
    "id": "roald-dahl",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 28,
+   "descriptions": 27,
    "aliasCollisions": [],
    "suggestions": [
     "The Gremlins: TG",
@@ -6857,7 +5833,7 @@
     "Sometime Never: SN",
     "Skin and Other Stories: SOS"
    ],
-   "wikidataMatched": 28,
+   "wikidataMatched": 27,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -6869,7 +5845,7 @@
    "id": "harry-potter",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 147,
+   "descriptions": 143,
    "aliasCollisions": [
     {
      "text": "James Potter",
@@ -6970,7 +5946,7 @@
     "Justin Finch-Fletchley: JFF",
     "Hannah Abbott: HA"
    ],
-   "wikidataMatched": 163,
+   "wikidataMatched": 158,
    "collisions": [],
    "near": [
     "Ron Weasley / Rose Granger-Weasley",
@@ -6992,17 +5968,8 @@
    "id": "art-movements",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 93,
-   "aliasCollisions": [
-    {
-     "text": "Neo-Dada",
-     "src": "w",
-     "answers": [
-      "Neo-Dada",
-      "Fluxus"
-     ]
-    }
-   ],
+   "descriptions": 65,
+   "aliasCollisions": [],
    "suggestions": [
     "High Renaissance: HR",
     "Early Renaissance: ER",
@@ -7051,7 +6018,7 @@
     "Vienna Secession: VS",
     "Ukiyo-e: UE"
    ],
-   "wikidataMatched": 93,
+   "wikidataMatched": 65,
    "collisions": [],
    "near": [
     "Impressionism / Expressionism",
@@ -7065,9 +6032,9 @@
   },
   {
    "id": "painters",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 174,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 152,
    "aliasCollisions": [],
    "suggestions": [
     "Leonardo da Vinci: LDV",
@@ -7151,23 +6118,9 @@
     "Rene Magritte: RM",
     "Giorgio de Chirico: GDC"
    ],
-   "wikidataMatched": 176,
+   "wikidataMatched": 152,
    "collisions": [],
    "near": [
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
-    "Anthony van Dyck / Jan van Eyck",
     "Anthony van Dyck / Jan van Eyck",
     "Anthony van Dyck / Jan van Eyck",
     "Anthony van Dyck / Jan van Eyck",
@@ -7197,7 +6150,7 @@
     "Hieronymus Bosch / Gerard ter Borch",
     "Edouard Manet / Claude Monet"
    ],
-   "nearCount": 42,
+   "nearCount": 28,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -7206,7 +6159,7 @@
    "id": "paintings",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 103,
+   "descriptions": 91,
    "aliasCollisions": [],
    "suggestions": [
     "Mona Lisa: ML",
@@ -7290,7 +6243,7 @@
     "Salvator Mundi: SM",
     "The Virgin of the Rocks: VR"
    ],
-   "wikidataMatched": 104,
+   "wikidataMatched": 91,
    "collisions": [],
    "near": [
     "The Nightmare / The Night Cafe"
@@ -7307,19 +6260,10 @@
   },
   {
    "id": "authors",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 180,
-   "aliasCollisions": [
-    {
-     "text": "Lemuel Gulliver",
-     "src": "w",
-     "answers": [
-      "Jonathan Swift",
-      "Henry Fielding"
-     ]
-    }
-   ],
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 176,
+   "aliasCollisions": [],
    "suggestions": [
     "William Shakespeare: WS",
     "Charles Dickens: CD",
@@ -7402,7 +6346,7 @@
     "Evelyn Waugh: EW",
     "Graham Greene: GG"
    ],
-   "wikidataMatched": 180,
+   "wikidataMatched": 176,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -7414,7 +6358,7 @@
    "id": "lotr",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 82,
+   "descriptions": 61,
    "aliasCollisions": [],
    "suggestions": [
     "Frodo Baggins: FB",
@@ -7446,26 +6390,25 @@
     "Master of Lake-town: MLT",
     "Helm Hammerhand: HH"
    ],
-   "wikidataMatched": 88,
+   "wikidataMatched": 66,
    "collisions": [],
    "near": [
-    "Sauron / Radagast",
     "Bifur / Bofur",
     "Hurin / Turin Turambar",
     "Hurin / Durin",
     "Turin Turambar / Durin",
     "Otho Sackville-Baggins / Lotho Sackville-Baggins"
    ],
-   "nearCount": 6,
+   "nearCount": 5,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
   },
   {
    "id": "poets",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 139,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 131,
    "aliasCollisions": [],
    "suggestions": [
     "William Shakespeare: WS",
@@ -7549,7 +6492,7 @@
     "Amanda Gorman: AG",
     "Rupi Kaur: RK"
    ],
-   "wikidataMatched": 141,
+   "wikidataMatched": 131,
    "collisions": [],
    "near": [
     "John Keats / W. B. Yeats"
@@ -7563,25 +6506,8 @@
    "id": "literary-genres",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 80,
-   "aliasCollisions": [
-    {
-     "text": "folk tale",
-     "src": "w",
-     "answers": [
-      "Folk tale",
-      "Legend"
-     ]
-    },
-    {
-     "text": "fairy tale",
-     "src": "w",
-     "answers": [
-      "Fairy tale",
-      "Folk tale"
-     ]
-    }
-   ],
+   "descriptions": 31,
+   "aliasCollisions": [],
    "suggestions": [
     "Non-fiction: NF",
     "Short story: SS",
@@ -7621,7 +6547,7 @@
     "Weird fiction: WF",
     "Absurdist fiction: AF"
    ],
-   "wikidataMatched": 81,
+   "wikidataMatched": 31,
    "collisions": [],
    "near": [
     "Non-fiction / Flash fiction",
@@ -7638,7 +6564,7 @@
    "id": "dickens",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 56,
+   "descriptions": 26,
    "aliasCollisions": [],
    "suggestions": [
     "Ebenezer Scrooge: ES",
@@ -7722,7 +6648,7 @@
     "John Jasper: JJ",
     "Rosa Bud: RB"
    ],
-   "wikidataMatched": 56,
+   "wikidataMatched": 26,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -7739,11 +6665,19 @@
    "descriptions": 45,
    "aliasCollisions": [
     {
-     "text": "President Johnson",
+     "text": "John Adams",
      "src": "w",
      "answers": [
-      "Andrew Johnson",
-      "Lyndon B. Johnson"
+      "John Adams",
+      "John Quincy Adams"
+     ]
+    },
+    {
+     "text": "President Harrison",
+     "src": "w",
+     "answers": [
+      "William Henry Harrison",
+      "Benjamin Harrison"
      ]
     }
    ],
@@ -7782,7 +6716,6 @@
     "Gerald Ford: GF",
     "Jimmy Carter: JC",
     "Ronald Reagan: RR",
-    "George H. W. Bush: GHWB",
     "Bill Clinton: BC",
     "George W. Bush: GWB",
     "Barack Obama: BO",
@@ -7836,17 +6769,25 @@
    ],
    "near": [
     "John Adams / John Quincy Adams",
+    "John Adams / John Quincy Adams",
+    "John Adams / John Quincy Adams",
+    "William Henry Harrison / Benjamin Harrison",
+    "William Henry Harrison / Benjamin Harrison",
+    "William Henry Harrison / Benjamin Harrison",
     "William Henry Harrison / Benjamin Harrison",
     "Andrew Johnson / Lyndon B. Johnson",
     "Theodore Roosevelt / Franklin D. Roosevelt",
-    "Harry S. Truman / Donald Trump",
+    "Theodore Roosevelt / Franklin D. Roosevelt",
+    "George H. W. Bush / George W. Bush",
+    "George H. W. Bush / George W. Bush",
+    "George H. W. Bush / George W. Bush",
     "George H. W. Bush / George W. Bush",
     "George H. W. Bush / George W. Bush",
     "George H. W. Bush / George W. Bush",
     "George H. W. Bush / George W. Bush",
     "George H. W. Bush / George W. Bush"
    ],
-   "nearCount": 10,
+   "nearCount": 18,
    "suspicious": [],
    "log": [],
    "sourceCheck": {
@@ -7858,7 +6799,7 @@
    "id": "uk-prime-ministers",
    "groupBy": "Century",
    "groupFallback": false,
-   "descriptions": 57,
+   "descriptions": 53,
    "aliasCollisions": [],
    "suggestions": [
     "Robert Walpole: RW",
@@ -7920,7 +6861,7 @@
     "Rishi Sunak: RS",
     "Keir Starmer: KS"
    ],
-   "wikidataMatched": 57,
+   "wikidataMatched": 53,
    "collisions": [
     {
      "alias": "grenville",
@@ -7968,48 +6909,8 @@
    "id": "roman-emperors",
    "groupBy": "Era",
    "groupFallback": false,
-   "descriptions": 85,
+   "descriptions": 84,
    "aliasCollisions": [
-    {
-     "text": "Gaius Caesar",
-     "src": "w",
-     "answers": [
-      "Augustus",
-      "Caligula"
-     ]
-    },
-    {
-     "text": "Antoninus",
-     "src": "w",
-     "answers": [
-      "Antoninus Pius",
-      "Marcus Aurelius"
-     ]
-    },
-    {
-     "text": "Jovius",
-     "src": "w",
-     "answers": [
-      "Diocletian",
-      "Galerius"
-     ]
-    },
-    {
-     "text": "Maximianus",
-     "src": "w",
-     "answers": [
-      "Maximian",
-      "Galerius"
-     ]
-    },
-    {
-     "text": "Herculius",
-     "src": "w",
-     "answers": [
-      "Maximian",
-      "Constantius I"
-     ]
-    },
     {
      "text": "Flavius Constantius",
      "src": "w",
@@ -8059,7 +6960,7 @@
     "Julius Nepos: JN",
     "Romulus Augustulus: RA"
    ],
-   "wikidataMatched": 85,
+   "wikidataMatched": 84,
    "collisions": [
     {
      "alias": "gordian",
@@ -8086,7 +6987,6 @@
     }
    ],
    "near": [
-    "Tiberius / Elagabalus",
     "Claudius / Claudius Gothicus",
     "Claudius / Claudius Gothicus",
     "Claudius / Claudius Gothicus",
@@ -8113,11 +7013,10 @@
     "Didius Julianus / Julian",
     "Septimius Severus / Severus II",
     "Macrinus / Marcian",
-    "Severus Alexander / Valerian",
-    "Maximinus Thrax / Galerius",
+    "Maximinus Thrax / Maximian",
     "Maximinus Thrax / Maximinus Daza",
     "Maximinus Thrax / Maximinus Daza",
-    "Maximinus Thrax / Galerius",
+    "Maximinus Thrax / Maximian",
     "Maximinus Thrax / Maximinus Daza",
     "Maximinus Thrax / Maximinus Daza",
     "Gordian I / Gordian II",
@@ -8135,19 +7034,21 @@
     "Gordian I / Gordian II",
     "Gordian I / Gordian III",
     "Gordian I / Gordian III",
-    "Gordian I / Gordian II",
-    "Gordian I / Gordian II",
-    "Gordian I / Gordian II",
-    "Gordian I / Gordian II",
     "Gordian I / Gordian II",
     "Gordian I / Gordian III",
     "Gordian I / Gordian III",
     "Gordian I / Gordian III",
     "Gordian I / Gordian III",
     "Gordian II / Gordian III",
-    "Gordian II / Gordian III"
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Carus / Carinus",
+    "Carus / Carinus"
    ],
-   "nearCount": 184,
+   "nearCount": 167,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -8156,7 +7057,7 @@
    "id": "pharaohs",
    "groupBy": "Era",
    "groupFallback": false,
-   "descriptions": 82,
+   "descriptions": 81,
    "aliasCollisions": [
     {
      "text": "Rameses",
@@ -8224,7 +7125,7 @@
     "Seqenenre Tao: ST",
     "Neferhotep I: NI"
    ],
-   "wikidataMatched": 82,
+   "wikidataMatched": 81,
    "collisions": [],
    "near": [
     "Pepi I / Pepi II",
@@ -8272,7 +7173,6 @@
     "Ahmose I / Amasis II",
     "Ahmose I / Amasis II",
     "Ahmose I / Amasis II",
-    "Ahmose I / Amasis II",
     "Amenhotep I / Amenhotep II",
     "Amenhotep I / Amenhotep II",
     "Amenhotep I / Amenhotep II",
@@ -8286,9 +7186,10 @@
     "Amenhotep I / Amenhotep II",
     "Amenhotep I / Amenhotep III",
     "Amenhotep I / Akhenaten",
-    "Amenhotep I / Akhenaten"
+    "Amenhotep I / Akhenaten",
+    "Thutmose I / Thutmose II"
    ],
-   "nearCount": 323,
+   "nearCount": 310,
    "suspicious": [
     "Ay: very short"
    ],
@@ -8299,7 +7200,7 @@
    "id": "monarchs",
    "groupBy": "Era",
    "groupFallback": false,
-   "descriptions": 56,
+   "descriptions": 38,
    "aliasCollisions": [
     {
      "text": "Edward I",
@@ -8315,22 +7216,6 @@
      "answers": [
       "Edward I",
       "Edward the Elder"
-     ]
-    },
-    {
-     "text": "Eadweard",
-     "src": "w",
-     "answers": [
-      "Edward the Elder",
-      "Edward the Martyr"
-     ]
-    },
-    {
-     "text": "Eduuard",
-     "src": "w",
-     "answers": [
-      "Edward the Elder",
-      "Edward the Martyr"
      ]
     },
     {
@@ -8355,14 +7240,6 @@
      "answers": [
       "Edward II",
       "Edward the Martyr"
-     ]
-    },
-    {
-     "text": "Bertie",
-     "src": "w",
-     "answers": [
-      "Edward VII",
-      "George VI"
      ]
     },
     {
@@ -8427,20 +7304,11 @@
     "Elizabeth II: EI",
     "Charles III: CI"
    ],
-   "wikidataMatched": 57,
+   "wikidataMatched": 38,
    "collisions": [],
    "near": [
-    "Edward the Elder / Edward the Martyr",
-    "Edward the Elder / Edward the Martyr",
-    "Edward the Elder / Edward the Martyr",
     "Edward the Elder / Edward VII",
     "Edward the Elder / Edward VIII",
-    "Edward the Martyr / Edward VII",
-    "Edward the Martyr / Edward VII",
-    "Edward the Martyr / Edward VIII",
-    "Edward the Martyr / Edward VIII",
-    "Edward the Martyr / Edward VII",
-    "Edward the Martyr / Edward VIII",
     "Harold Harefoot / Harold Godwinson",
     "Harold Harefoot / Harold Godwinson",
     "Harold Harefoot / Harold Godwinson",
@@ -8489,9 +7357,18 @@
     "Henry II / Henry VII",
     "Henry II / Henry III",
     "Henry II / Henry IV",
-    "Henry II / Henry V"
+    "Henry II / Henry V",
+    "Henry II / Henry V",
+    "Henry II / Henry VI",
+    "Henry II / Henry VII",
+    "Henry II / Henry VIII",
+    "Henry II / Henry VI",
+    "Henry II / Henry VII",
+    "Richard I / Richard II",
+    "Richard I / Richard II",
+    "Richard I / Richard III"
    ],
-   "nearCount": 251,
+   "nearCount": 237,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -8500,16 +7377,8 @@
    "id": "wars",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 78,
+   "descriptions": 87,
    "aliasCollisions": [
-    {
-     "text": "Iraq War",
-     "src": "w",
-     "answers": [
-      "Iraq War",
-      "Gulf War"
-     ]
-    },
     {
      "text": "Chechen War",
      "src": "w",
@@ -8601,37 +7470,26 @@
     "Turkish War of Independence: TWI",
     "Polish-Soviet War: PSW"
    ],
-   "wikidataMatched": 78,
+   "wikidataMatched": 87,
    "collisions": [],
    "near": [
     "World War I / World War II",
     "World War I / World War II",
     "World War I / World War II",
     "World War I / World War II",
-    "Hundred Years' War / Eighty Years' War",
-    "Seven Years' War / Eighty Years' War",
     "Seven Years' War / Nine Years' War",
-    "Eighty Years' War / Nine Years' War",
-    "American Civil War / Mexican Revolution",
-    "American Revolutionary War / Mexican War of Independence",
-    "War of 1812 / Franco-Prussian War",
-    "Gulf War / Iraq War",
-    "Gulf War / Iraq War",
-    "Gulf War / Iraq War",
-    "Gulf War / Iraq War",
-    "Gulf War / Iraq War",
-    "Six-Day War / Yom Kippur War"
+    "American Revolutionary War / Mexican War of Independence"
    ],
-   "nearCount": 17,
+   "nearCount": 6,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
   },
   {
    "id": "explorers",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 114,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 106,
    "aliasCollisions": [],
    "suggestions": [
     "Christopher Columbus: CC",
@@ -8715,7 +7573,7 @@
     "James Cameron: JC",
     "Pedro Alvares Cabral: PAC"
    ],
-   "wikidataMatched": 117,
+   "wikidataMatched": 106,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -8727,86 +7585,8 @@
    "id": "chinese-dynasties",
    "groupBy": "Era",
    "groupFallback": false,
-   "descriptions": 33,
-   "aliasCollisions": [
-    {
-     "text": "Chou Empire",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Western Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Chou Kingdom",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Western Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Kingdom of Chou",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Western Zhou"
-     ]
-    },
-    {
-     "text": "Kingdom of Zhou",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Western Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Zhou Empire",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Western Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Zhou Kingdom",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Western Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Chou Dynasty",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Zhou Dynasty",
-     "src": "w",
-     "answers": [
-      "Zhou",
-      "Eastern Zhou"
-     ]
-    },
-    {
-     "text": "Later Han",
-     "src": "w",
-     "answers": [
-      "Later Han",
-      "Eastern Han"
-     ]
-    }
-   ],
+   "descriptions": 0,
+   "aliasCollisions": [],
    "suggestions": [
     "Western Zhou: WZ",
     "Eastern Zhou: EZ",
@@ -8832,7 +7612,7 @@
     "Northern Qi: NQ",
     "Northern Zhou: NZ"
    ],
-   "wikidataMatched": 33,
+   "wikidataMatched": 0,
    "collisions": [
     {
      "alias": "jin",
@@ -8843,68 +7623,53 @@
     }
    ],
    "near": [
-    "Xia / Shang",
-    "Xia / Zhou",
     "Xia / Qin",
     "Xia / Xin",
     "Xia / Jin",
     "Xia / Liao",
-    "Xia / Shang",
-    "Xia / Zhou",
-    "Xia / Qin",
-    "Xia / Han",
-    "Xia / Xin",
-    "Xia / Xin",
-    "Xia / Jin",
-    "Xia / Liao",
-    "Xia / Xin",
     "Shang / Han",
     "Shang / Liang",
     "Shang / Tang",
-    "Shang / Tang",
     "Shang / Song",
-    "Shang / Song",
-    "Shang / Song",
-    "Shang / Qing",
-    "Shang / Han",
-    "Shang / Liang",
-    "Shang / Chen",
-    "Shang / Tang",
-    "Shang / Tang",
-    "Shang / Qing",
-    "Shang / Qin",
-    "Shang / Xin",
-    "Shang / Xin",
-    "Shang / Jin",
-    "Shang / Ming",
-    "Shang / Qing",
-    "Shang / Zhou",
-    "Shang / Qin",
-    "Shang / Han",
-    "Shang / Xin",
-    "Shang / Xin",
-    "Shang / Jin",
-    "Shang / Yuan",
-    "Shang / Ming",
-    "Shang / Qing",
-    "Zhou / Xin",
-    "Zhou / Chen",
-    "Zhou / Qin",
-    "Zhou / Xin",
-    "Zhou / Jin",
-    "Zhou / Sui",
-    "Western Zhou / Eastern Zhou",
-    "Western Zhou / Eastern Zhou",
-    "Western Zhou / Eastern Zhou",
-    "Western Zhou / Eastern Zhou",
-    "Western Zhou / Eastern Zhou",
     "Western Zhou / Eastern Zhou",
     "Qin / Han",
     "Qin / Xin",
-    "Qin / Xin",
-    "Qin / Jin"
+    "Qin / Jin",
+    "Qin / Ming",
+    "Qin / Qing",
+    "Han / Xin",
+    "Han / Jin",
+    "Han / Chen",
+    "Han / Tang",
+    "Han / Yuan",
+    "Western Han / Eastern Han",
+    "Western Han / Jin",
+    "Eastern Han / Eastern Jin",
+    "Xin / Jin",
+    "Xin / Ming",
+    "Xin / Qing",
+    "Jin / Ming",
+    "Jin / Qing",
+    "Jin / Eastern Jin",
+    "Jin / Western Xia",
+    "Northern Wei / Northern Qi",
+    "Southern Qi / Northern Qi",
+    "Liang / Tang",
+    "Liang / Liao",
+    "Liang / Ming",
+    "Liang / Qing",
+    "Tang / Song",
+    "Tang / Ming",
+    "Tang / Qing",
+    "Later Liang / Later Tang",
+    "Later Tang / Later Han",
+    "Later Jin / Later Han",
+    "Song / Ming",
+    "Song / Qing",
+    "Northern Song / Southern Song",
+    "Ming / Qing"
    ],
-   "nearCount": 159,
+   "nearCount": 45,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -8913,17 +7678,8 @@
    "id": "civilisations",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 88,
-   "aliasCollisions": [
-    {
-     "text": "Phoenicians",
-     "src": "w",
-     "answers": [
-      "Phoenicia",
-      "Canaanites"
-     ]
-    }
-   ],
+   "descriptions": 45,
+   "aliasCollisions": [],
    "suggestions": [
     "Ancient Egypt: AE",
     "Ancient Greece: AG",
@@ -8939,7 +7695,7 @@
     "Rapa Nui: RN",
     "Cucuteni-Trypillia: CT"
    ],
-   "wikidataMatched": 90,
+   "wikidataMatched": 45,
    "collisions": [],
    "near": [
     "Kush / Kassites"
@@ -8953,7 +7709,7 @@
    "id": "empires",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 70,
+   "descriptions": 71,
    "aliasCollisions": [
     {
      "text": "Roman Empire",
@@ -8961,30 +7717,6 @@
      "answers": [
       "Roman Empire",
       "Byzantine Empire"
-     ]
-    },
-    {
-     "text": "French Empire",
-     "src": "w",
-     "answers": [
-      "French Empire",
-      "Napoleonic Empire"
-     ]
-    },
-    {
-     "text": "German Reich",
-     "src": "w",
-     "answers": [
-      "German Empire",
-      "Third Reich"
-     ]
-    },
-    {
-     "text": "Frankish Empire",
-     "src": "w",
-     "answers": [
-      "Frankish Empire",
-      "Carolingian Empire"
      ]
     }
    ],
@@ -9070,7 +7802,7 @@
     "Durrani Empire: DE",
     "Chagatai Khanate: CK"
    ],
-   "wikidataMatched": 70,
+   "wikidataMatched": 71,
    "collisions": [],
    "near": [
     "Holy Roman Empire / Oyo Empire",
@@ -9104,7 +7836,7 @@
    "id": "ships",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 80,
+   "descriptions": 34,
    "aliasCollisions": [],
    "suggestions": [
     "Mary Rose: MR",
@@ -9141,7 +7873,7 @@
     "Sovereign of the Seas: SS",
     "Royal Charles: RC"
    ],
-   "wikidataMatched": 83,
+   "wikidataMatched": 35,
    "collisions": [],
    "near": [
     "Queen Elizabeth / Queen Elizabeth 2",
@@ -9157,12 +7889,12 @@
   },
   {
    "id": "greek-letters",
-   "groupBy": "Era",
+   "groupBy": "Place in the alphabet",
    "groupFallback": false,
-   "descriptions": 24,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 24,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Epsilon / Upsilon"
@@ -9179,14 +7911,14 @@
   },
   {
    "id": "nato-alphabet",
-   "groupBy": "Era",
+   "groupBy": "Letter",
    "groupFallback": false,
-   "descriptions": 25,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "X-ray: XR"
    ],
-   "wikidataMatched": 25,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -9198,16 +7930,8 @@
    "id": "colours",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 166,
+   "descriptions": 104,
    "aliasCollisions": [
-    {
-     "text": "Wine red",
-     "src": "w",
-     "answers": [
-      "Burgundy",
-      "Wine"
-     ]
-    },
     {
      "text": "burnt umber",
      "src": "w",
@@ -9246,7 +7970,7 @@
     "Chrome yellow: CY",
     "Eau de Nil: EDN"
    ],
-   "wikidataMatched": 167,
+   "wikidataMatched": 104,
    "collisions": [],
    "near": [
     "Pink / Wine",
@@ -9258,10 +7982,9 @@
     "Rose / Rust",
     "Rose / Rust",
     "Amber / Umber",
-    "Navy / Baby blue",
-    "Mauve / Fallow"
+    "Navy / Baby blue"
    ],
-   "nearCount": 11,
+   "nearCount": 10,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -9270,23 +7993,14 @@
    "id": "languages",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 200,
+   "descriptions": 183,
    "aliasCollisions": [
-    {
-     "text": "Moldovan",
-     "src": "w",
-     "answers": [
-      "Moldovan",
-      "Romanian"
-     ]
-    },
     {
      "text": "Gaelic",
      "src": "w",
      "answers": [
       "Irish",
-      "Scottish Gaelic",
-      "Manx"
+      "Scottish Gaelic"
      ]
     }
    ],
@@ -9299,29 +8013,22 @@
     "Haitian Creole: HC",
     "Sign language: SL"
    ],
-   "wikidataMatched": 200,
+   "wikidataMatched": 183,
    "collisions": [],
    "near": [
     "English / Old English",
     "Spanish / Danish",
-    "Italian / Persian",
     "Hungarian / Bulgarian",
-    "Hungarian / Maya",
     "Hungarian / Bulgarian",
     "Slovak / Slovene",
     "Slovak / Slovene",
     "Serbian / Persian",
-    "Serbian / Syriac",
-    "Romanian / Romani",
-    "Romanian / Romani",
     "Romanian / Romani",
     "Latvian / Lao",
     "Latvian / Latin",
     "Greek / Cree",
     "Tajik / Tamil",
     "Tatar / Afar",
-    "Persian / Dari",
-    "Persian / Arabic",
     "Dari / Pali",
     "Somali / Romani",
     "Oromo / Romani",
@@ -9331,29 +8038,22 @@
     "Lingala / Sinhala",
     "Hindi / Sindhi",
     "Gujarati / Guarani",
-    "Assamese / Thai",
     "Nepali / Pali",
     "Mandarin / Elvish",
     "Japanese / Javanese",
     "Japanese / Javanese",
-    "Thai / Akan",
     "Lao / Latin",
     "Lao / Haitian Creole",
-    "Khmer / Welsh",
-    "Khmer / Welsh",
     "Malay / Maya",
     "Tongan / Tsonga",
     "Tahitian / Haitian Creole",
     "Irish / Yiddish",
     "Manx / Maya",
     "Romansh / Romani",
-    "Romansh / Romani",
-    "Ojibwe / Chichewa",
     "Akan / Afar",
-    "Akan / Ewe",
     "Sango / Kongo"
    ],
-   "nearCount": 50,
+   "nearCount": 36,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -9362,10 +8062,10 @@
    "id": "palindromes",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 53,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 58,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -9377,7 +8077,7 @@
    "id": "punctuation",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 38,
+   "descriptions": 15,
    "aliasCollisions": [
     {
      "text": "bracket",
@@ -9406,15 +8106,14 @@
     "Inverted exclamation mark: IEM",
     "Grave accent: GA"
    ],
-   "wikidataMatched": 38,
+   "wikidataMatched": 15,
    "collisions": [],
    "near": [
     "En dash / Em dash",
     "En dash / Em dash",
-    "Angle brackets / Caret",
     "Asterisk / Asterism"
    ],
-   "nearCount": 4,
+   "nearCount": 3,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -9423,7 +8122,7 @@
    "id": "synonyms-happy",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 65,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Light-hearted: LH",
@@ -9440,7 +8139,7 @@
     "At ease: AE",
     "Easy-going: EG"
    ],
-   "wikidataMatched": 65,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -9452,7 +8151,7 @@
    "id": "synonyms-big",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 48,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "King-size: KS",
@@ -9464,7 +8163,7 @@
     "Never-ending: NE",
     "Sky-high: SH"
    ],
-   "wikidataMatched": 50,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Enormous / Ginormous",
@@ -9480,10 +8179,10 @@
    "id": "baby-animals",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 46,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 49,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -9495,49 +8194,8 @@
    "id": "shades-of-blue",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 49,
-   "aliasCollisions": [
-    {
-     "text": "celeste",
-     "src": "w",
-     "answers": [
-      "Celeste",
-      "Sky blue"
-     ]
-    },
-    {
-     "text": "sky blue",
-     "src": "w",
-     "answers": [
-      "Sky blue",
-      "Azure"
-     ]
-    },
-    {
-     "text": "blue-green",
-     "src": "w",
-     "answers": [
-      "Blue-green",
-      "Cyan"
-     ]
-    },
-    {
-     "text": "blue gray",
-     "src": "w",
-     "answers": [
-      "Blue-grey",
-      "Slate blue"
-     ]
-    },
-    {
-     "text": "blue grey",
-     "src": "w",
-     "answers": [
-      "Blue-grey",
-      "Slate blue"
-     ]
-    }
-   ],
+   "descriptions": 37,
+   "aliasCollisions": [],
    "suggestions": [
     "Royal blue: RB",
     "Sky blue: SB",
@@ -9600,7 +8258,7 @@
     "Bleu de France: BDF",
     "YInMn blue: YB"
    ],
-   "wikidataMatched": 49,
+   "wikidataMatched": 37,
    "collisions": [],
    "near": [
     "Navy / Baby blue",
@@ -9620,7 +8278,7 @@
    "id": "rhymes-cat",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 42,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Fruit bat: FB",
@@ -9634,7 +8292,7 @@
     "Tit for tat: TT",
     "Rat-a-tat: RT"
    ],
-   "wikidataMatched": 43,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [
     "Splat / Sprat",
@@ -9652,10 +8310,10 @@
    "id": "ology-words",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 13,
+   "descriptions": 85,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 13,
+   "wikidataMatched": 85,
    "collisions": [],
    "near": [
     "Archaeology / Arachnology",
@@ -9670,9 +8328,11 @@
     "Audiology / Apiology",
     "Audiology / Andrology",
     "Biology / Ecology",
+    "Biology / Zoology",
     "Cardiology / Radiology",
     "Climatology / Primatology",
     "Cosmology / Pomology",
+    "Cosmology / Scatology",
     "Cryptology / Cytology",
     "Cryptology / Egyptology",
     "Cytology / Mycology",
@@ -9684,8 +8344,11 @@
     "Dermatology / Gemology",
     "Dermatology / Gemology",
     "Ecology / Oenology",
+    "Ecology / Zoology",
     "Embryology / Bryology",
     "Entomology / Etymology",
+    "Entomology / Mycology",
+    "Entomology / Bryology",
     "Etymology / Ethology",
     "Etymology / Ethnology",
     "Ethology / Mythology",
@@ -9712,14 +8375,9 @@
     "Hydrology / Horology",
     "Lexicology / Toxicology",
     "Meteorology / Methodology",
-    "Meteorology / Metrology",
-    "Mycology / Mythology",
-    "Mycology / Oncology",
-    "Mycology / Phycology",
-    "Mythology / Pathology",
-    "Mythology / Metrology"
+    "Meteorology / Metrology"
    ],
-   "nearCount": 128,
+   "nearCount": 140,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -9728,7 +8386,7 @@
    "id": "bones",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 40,
    "aliasCollisions": [],
    "suggestions": [
     "Frontal bone: FB",
@@ -9744,7 +8402,7 @@
     "Lumbar vertebrae: LV",
     "Xiphoid process: XP"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 41,
    "collisions": [],
    "near": [
     "Zygomatic bone / Calcaneus",
@@ -9760,7 +8418,7 @@
    "id": "muscles",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 10,
    "aliasCollisions": [],
    "suggestions": [
     "Pectoralis major: PM",
@@ -9803,7 +8461,7 @@
     "Obturator internus: OI",
     "Levator ani: LA"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 10,
    "collisions": [],
    "near": [
     "Pectoralis major / Pectoralis minor",
@@ -9823,7 +8481,7 @@
    "id": "organs",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 40,
    "aliasCollisions": [],
    "suggestions": [
     "Small intestine: SI",
@@ -9837,7 +8495,7 @@
     "Bone marrow: BM",
     "Spinal cord: SC"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 40,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -9849,7 +8507,7 @@
    "id": "body-parts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 14,
+   "descriptions": 82,
    "aliasCollisions": [],
    "suggestions": [
     "Adam's apple: AA",
@@ -9870,13 +8528,14 @@
     "Cleft chin: CC",
     "Vocal cords: VC"
    ],
-   "wikidataMatched": 15,
+   "wikidataMatched": 82,
    "collisions": [],
    "near": [
     "Upper arm / Armpit",
-    "Wrist / Waist"
+    "Wrist / Waist",
+    "Middle finger / Ring finger"
    ],
-   "nearCount": 2,
+   "nearCount": 3,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -9885,7 +8544,7 @@
    "id": "diseases",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 109,
    "aliasCollisions": [],
    "suggestions": [
     "Common cold: CC",
@@ -9926,7 +8585,6 @@
     "Carpal tunnel syndrome: CTS",
     "Tennis elbow: TE",
     "Plantar fasciitis: PF",
-    "Hand, foot and mouth disease: HFMD",
     "Slapped cheek: SC",
     "Bird flu: BF",
     "Swine flu: SF",
@@ -9936,7 +8594,7 @@
     "River blindness: RB",
     "Q fever: QF"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 109,
    "collisions": [],
    "near": [
     "Hepatitis / Hepatitis A",
@@ -9944,11 +8602,20 @@
     "Hepatitis / Hepatitis C",
     "Hepatitis A / Hepatitis B",
     "Hepatitis A / Hepatitis C",
+    "Hepatitis A / Hepatitis B",
+    "Hepatitis A / Hepatitis C",
+    "Hepatitis A / Hepatitis B",
+    "Hepatitis A / Hepatitis C",
+    "Hepatitis A / Hepatitis B",
+    "Hepatitis A / Hepatitis C",
+    "Hepatitis B / Hepatitis C",
+    "Hepatitis B / Hepatitis C",
+    "Hepatitis B / Hepatitis C",
     "Hepatitis B / Hepatitis C",
     "Type 1 diabetes / Type 2 diabetes",
     "Hypothyroidism / Hyperthyroidism"
    ],
-   "nearCount": 8,
+   "nearCount": 17,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -9957,14 +8624,14 @@
    "id": "hormones",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 18,
    "aliasCollisions": [],
    "suggestions": [
     "Parathyroid hormone: PH",
     "Growth hormone: GH",
     "Gonadotropin-releasing hormone: GRH"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 18,
    "collisions": [],
    "near": [
     "Cortisol / Cortisone",
@@ -9979,7 +8646,7 @@
    "id": "eye-parts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 23,
    "aliasCollisions": [],
    "suggestions": [
     "Ciliary body: CB",
@@ -10005,7 +8672,7 @@
     "Pupillary dilator: PD",
     "Tear film: TF"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 23,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -10017,7 +8684,7 @@
    "id": "brain-parts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 44,
    "aliasCollisions": [],
    "suggestions": [
     "Medulla oblongata: MO",
@@ -10064,7 +8731,7 @@
     "Lateral sulcus: LS",
     "Longitudinal fissure: LF"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 44,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -10076,7 +8743,7 @@
    "id": "vitamins",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 20,
+   "descriptions": 19,
    "aliasCollisions": [],
    "suggestions": [
     "Vitamin A: VA",
@@ -10093,7 +8760,7 @@
     "Vitamin E: VE",
     "Vitamin K: VK"
    ],
-   "wikidataMatched": 20,
+   "wikidataMatched": 19,
    "collisions": [],
    "near": [
     "Vitamin A / Vitamin B1",
@@ -10157,7 +8824,7 @@
     "Vitamin B7 / Vitamin C",
     "Vitamin B7 / Vitamin D"
    ],
-   "nearCount": 245,
+   "nearCount": 73,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10166,7 +8833,7 @@
    "id": "specialties",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 51,
    "aliasCollisions": [],
    "suggestions": [
     "Emergency medicine: EM",
@@ -10196,7 +8863,7 @@
     "Colorectal surgery: CS",
     "Hand surgery: HS"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 51,
    "collisions": [],
    "near": [
     "Cardiology / Radiology",
@@ -10219,7 +8886,7 @@
    "id": "face",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 21,
    "aliasCollisions": [],
    "suggestions": [
     "Bridge of the nose: BN",
@@ -10237,7 +8904,7 @@
     "Cleft chin: CC",
     "Corner of the mouth: CM"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 21,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -10249,20 +8916,23 @@
    "id": "programming-languages",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 22,
+   "descriptions": 77,
    "aliasCollisions": [],
    "suggestions": [
     "Objective-C: OC",
-    "Common Lisp: CL",
     "T-SQL: TS",
     "Standard ML: SM"
    ],
-   "wikidataMatched": 23,
+   "wikidataMatched": 77,
    "collisions": [],
    "near": [
-    "C# / F#"
+    "Java / Ada",
+    "C# / F#",
+    "Rust / Ruby",
+    "Rust / Ruby",
+    "Zig / Nim"
    ],
-   "nearCount": 1,
+   "nearCount": 5,
    "suspicious": [
     "C: very short",
     "Go: very short",
@@ -10278,7 +8948,7 @@
    "id": "car-brands",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 17,
+   "descriptions": 82,
    "aliasCollisions": [],
    "suggestions": [
     "Mercedes-Benz: MB",
@@ -10290,7 +8960,7 @@
     "Lynk & Co: LC",
     "Maruti Suzuki: MS"
    ],
-   "wikidataMatched": 17,
+   "wikidataMatched": 83,
    "collisions": [],
    "near": [
     "Chevrolet / Chery",
@@ -10374,17 +9044,15 @@
    "id": "tech-companies",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 88,
    "aliasCollisions": [],
    "suggestions": [
-    "Texas Instruments: TI",
     "SK Hynix: SH",
-    "Western Digital: WD",
     "Red Hat: RH",
     "Epic Games: EG",
     "Raspberry Pi: RP"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 88,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -10399,19 +9067,16 @@
    "id": "consoles",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 45,
    "aliasCollisions": [],
    "suggestions": [
     "PlayStation Portable: PP",
     "PlayStation Vita: PV",
     "Xbox One: XO",
-    "Xbox Series X: XSX",
-    "Xbox Series S: XSS",
     "Super Nintendo: SN",
     "Wii U: WU",
     "Nintendo Switch: NS",
     "Nintendo Switch 2: NS",
-    "Game Boy: GB",
     "Game Boy Color: GBC",
     "Nintendo DS: ND",
     "Virtual Boy: VB",
@@ -10446,10 +9111,8 @@
     "Xbox Ally: XA",
     "Sega Nomad: SN",
     "Game Boy Pocket: GBP",
-    "Game Boy Micro: GBM",
     "Nintendo DSi: ND",
     "New Nintendo 3DS: NN",
-    "Switch Lite: SL",
     "PS One: PO",
     "PlayStation Portal: PP",
     "Xbox One X: XOX",
@@ -10463,7 +9126,7 @@
     "Mega Drive Mini: MDM",
     "PlayStation Classic: PC"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 45,
    "collisions": [],
    "near": [
     "PlayStation / PlayStation 2",
@@ -10491,7 +9154,10 @@
     "Xbox One / Xbox One S",
     "Xbox Series X / Xbox Series S",
     "Xbox Series X / Xbox Series S",
+    "Xbox Series X / Xbox Series S",
     "Nintendo 64 / Nintendo DS",
+    "Wii / Wii U",
+    "Wii / Nintendo DSi",
     "Nintendo Switch / Nintendo Switch 2",
     "Nintendo Switch / Nintendo Switch 2",
     "Nintendo DS / Nintendo 3DS",
@@ -10505,10 +9171,11 @@
     "Nintendo DSi / Nintendo 2DS",
     "Xbox One X / Xbox One S",
     "Xbox One X / Xbox One S",
+    "Xbox One X / Xbox One S",
     "PS4 Pro / PS5 Pro",
     "SNES Classic / NES Classic"
    ],
-   "nearCount": 41,
+   "nearCount": 45,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10594,7 +9261,7 @@
    "id": "browsers",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 11,
+   "descriptions": 29,
    "aliasCollisions": [],
    "suggestions": [
     "Google Chrome: GC",
@@ -10612,10 +9279,12 @@
     "Firefox Focus: FF",
     "Kiwi Browser: KB"
    ],
-   "wikidataMatched": 11,
+   "wikidataMatched": 29,
    "collisions": [],
-   "near": [],
-   "nearCount": 0,
+   "near": [
+    "Arc / UC Browser"
+   ],
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10624,7 +9293,7 @@
    "id": "operating-systems",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 39,
    "aliasCollisions": [],
    "suggestions": [
     "Windows ME: WM",
@@ -10644,7 +9313,6 @@
     "RISC OS: RO",
     "BlackBerry OS: BO",
     "Palm OS: PO",
-    "Windows Phone: WP",
     "Windows Mobile: WM",
     "Firefox OS: FO",
     "Alpine Linux: AL",
@@ -10654,11 +9322,12 @@
     "Wear OS: WO",
     "Fire OS: FO"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 39,
    "collisions": [],
    "near": [
     "Windows / Windows 7",
     "Windows / Windows 8",
+    "Windows / Windows 95",
     "Windows 95 / Windows 98",
     "Windows 95 / Windows ME",
     "Windows 95 / Windows XP",
@@ -10698,7 +9367,7 @@
     "Windows 10 / Windows NT",
     "Windows 11 / Windows NT"
    ],
-   "nearCount": 40,
+   "nearCount": 41,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10707,53 +9376,50 @@
    "id": "video-games",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
-   "aliasCollisions": [],
+   "descriptions": 164,
+   "aliasCollisions": [
+    {
+     "text": "DS",
+     "src": "w",
+     "answers": [
+      "Dark Souls",
+      "Death Stranding"
+     ]
+    }
+   ],
    "suggestions": [
-    "Super Mario Bros.: SMB",
     "Super Mario 64: SM",
     "Super Mario Kart: SMK",
     "Mario Kart 8: MK",
     "Super Mario Odyssey: SMO",
     "Super Mario World: SMW",
-    "Super Mario Galaxy: SMG",
-    "The Legend of Zelda: LZ",
     "Ocarina of Time: OT",
     "Breath of the Wild: BW",
     "Tears of the Kingdom: TK",
     "Pokemon Red and Blue: PRB",
     "Pokemon Go: PG",
-    "Super Smash Bros.: SSB",
     "Donkey Kong: DK",
     "Pac-Man: PM",
     "Space Invaders: SI",
     "Street Fighter II: SFI",
-    "Mortal Kombat: MK",
     "Sonic the Hedgehog: SH",
     "Grand Theft Auto: San Andreas: GTASA",
     "Grand Theft Auto VI: GTAV",
-    "Red Dead Redemption: RDR",
     "Red Dead Redemption 2: RDR",
     "The Elder Scrolls V: Skyrim: ESVS",
-    "Fallout: New Vegas: FNV",
     "The Witcher 3: TW",
     "Baldur's Gate 3: BG",
     "Elden Ring: ER",
     "Dark Souls: DS",
-    "Half-Life: HL",
     "Half-Life 2: HL",
     "Team Fortress 2: TF",
     "Left 4 Dead: LD",
-    "Metal Gear Solid: MGS",
-    "Final Fantasy: FF",
     "Final Fantasy VII: FFV",
-    "Kingdom Hearts: KH",
     "Dragon Quest: DQ",
     "Chrono Trigger: CT",
     "Resident Evil: RE",
     "Silent Hill: SH",
     "The Last of Us: LU",
-    "God of War: GW",
     "Horizon Zero Dawn: HZD",
     "Ghost of Tsushima: GT",
     "Spider-Man: SM",
@@ -10763,8 +9429,6 @@
     "Assassin's Creed: AC",
     "Far Cry: FC",
     "The Sims: TS",
-    "Apex Legends: AL",
-    "Rocket League: RL",
     "Among Us: AU",
     "Fall Guys: FG",
     "Stardew Valley: SV",
@@ -10772,7 +9436,6 @@
     "Shadow of the Colossus: SC",
     "Katamari Damacy: KD",
     "Dragon Age: DA",
-    "Star Wars: Knights of the Old Republic: SWKOR",
     "The Walking Dead: WD",
     "Life Is Strange: LIS",
     "Detroit: Become Human: DBH",
@@ -10781,7 +9444,6 @@
     "Metroid Prime: MP",
     "Animal Crossing: AC",
     "Fire Emblem: FE",
-    "Xenoblade Chronicles: XC",
     "Banjo-Kazooie: BK",
     "Conker's Bad Fur Day: CBFD",
     "Perfect Dark: PD",
@@ -10789,12 +9451,34 @@
     "Championship Manager: CM",
     "Football Manager: FM",
     "EA Sports FC: ESF",
-    "Madden NFL: MN"
+    "Madden NFL: MN",
+    "Guitar Hero: GH",
+    "Rock Band: RB",
+    "Just Dance: JD",
+    "Wii Sports: WS",
+    "Wii Fit: WF",
+    "Brain Training: BT",
+    "Professor Layton: PL",
+    "Phoenix Wright: PW",
+    "Candy Crush: CC",
+    "Angry Birds: AB",
+    "Flappy Bird: FB",
+    "Fruit Ninja: FN",
+    "Temple Run: TR",
+    "Subway Surfers: SS",
+    "Clash Royale: CR",
+    "Genshin Impact: GI"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 164,
    "collisions": [],
    "near": [
+    "Super Mario Bros. / Super Mario 64",
+    "Super Mario Bros. / Super Mario 64",
+    "Super Mario Bros. / Super Mario 64",
+    "Super Mario Bros. / Super Mario 64",
     "Super Mario Kart / Mario Kart 8",
+    "Super Mario Kart / Mario Kart 8",
+    "Animal Crossing: New Horizons / Animal Crossing",
     "Grand Theft Auto / Grand Theft Auto V",
     "Grand Theft Auto / Grand Theft Auto V",
     "Grand Theft Auto / Grand Theft Auto VI",
@@ -10804,14 +9488,19 @@
     "Grand Theft Auto V / Grand Theft Auto VI",
     "Grand Theft Auto V / Grand Theft Auto VI",
     "Red Dead Redemption / Red Dead Redemption 2",
+    "Red Dead Redemption / Red Dead Redemption 2",
     "Fallout / Fallout 3",
+    "Half-Life / Half-Life 2",
     "Half-Life / Half-Life 2",
     "Portal / Portal 2",
     "GoldenEye 007 / Golden Axe",
     "Final Fantasy / Final Fantasy VII",
+    "Final Fantasy / Final Fantasy VII",
+    "Final Fantasy / Final Fantasy VII",
+    "Final Fantasy / Final Fantasy VII",
     "StarCraft / Warcraft"
    ],
-   "nearCount": 16,
+   "nearCount": 27,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10820,7 +9509,7 @@
    "id": "keyboard-keys",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 19,
+   "descriptions": 0,
    "aliasCollisions": [],
    "suggestions": [
     "Left Shift: LS",
@@ -10856,7 +9545,7 @@
     "Globe key: GK",
     "Emoji key: EK"
    ],
-   "wikidataMatched": 19,
+   "wikidataMatched": 0,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -10878,25 +9567,17 @@
    "id": "greek-gods",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 32,
+   "descriptions": 57,
    "aliasCollisions": [],
    "suggestions": [
     "The Fates: TF",
     "The Graces: TG",
     "The Furies: TF"
    ],
-   "wikidataMatched": 32,
+   "wikidataMatched": 57,
    "collisions": [],
-   "near": [
-    "Hyperion / Epimetheus",
-    "Hyperion / Pan",
-    "Hyperion / Dione",
-    "Hyperion / Dione",
-    "Hyperion / Epimetheus",
-    "Epimetheus / Dione",
-    "Epimetheus / Dione"
-   ],
-   "nearCount": 7,
+   "near": [],
+   "nearCount": 0,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10905,19 +9586,24 @@
    "id": "roman-gods",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 19,
+   "descriptions": 75,
    "aliasCollisions": [],
    "suggestions": [
     "Mater Matuta: MM",
     "Bona Dea: BD",
     "Vica Pota: VP"
    ],
-   "wikidataMatched": 19,
+   "wikidataMatched": 76,
    "collisions": [],
    "near": [
-    "Bacchus / Libera"
+    "Jupiter / Pluto",
+    "Jupiter / Pluto",
+    "Bacchus / Libera",
+    "Fortuna / Vertumnus",
+    "Vertumnus / Portunus",
+    "Vertumnus / Volturnus"
    ],
-   "nearCount": 1,
+   "nearCount": 6,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -10926,10 +9612,10 @@
    "id": "norse",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 26,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 0,
+   "wikidataMatched": 26,
    "collisions": [],
    "near": [
     "Freya / Freyr"
@@ -10945,13 +9631,13 @@
    "id": "egyptian-gods",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 64,
    "aliasCollisions": [],
    "suggestions": [
     "Amun-Ra: AR",
     "Raet-Tawy: RT"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 64,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -10966,17 +9652,8 @@
    "id": "mythical-creatures",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 25,
-   "aliasCollisions": [
-    {
-     "text": "wyrm",
-     "src": "w",
-     "answers": [
-      "Wyrm",
-      "Dragon"
-     ]
-    }
-   ],
+   "descriptions": 45,
+   "aliasCollisions": [],
    "suggestions": [
     "Will-o'-the-wisp: WOW",
     "Loch Ness Monster: LNM",
@@ -10992,7 +9669,7 @@
     "Ceryneian hind: CH",
     "La Llorona: LL"
    ],
-   "wikidataMatched": 25,
+   "wikidataMatched": 46,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11004,7 +9681,7 @@
    "id": "arthurian",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 39,
    "aliasCollisions": [],
    "suggestions": [
     "King Arthur: KA",
@@ -11022,13 +9699,15 @@
     "Lady Ragnell: LR",
     "Ambrosius Aurelianus: AA"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 39,
    "collisions": [],
    "near": [
+    "Morgan le Fay / Morgause",
+    "Morgan le Fay / Morgause",
     "Ector / Hector",
     "Balin / Balan"
    ],
-   "nearCount": 2,
+   "nearCount": 4,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -11037,8 +9716,25 @@
    "id": "fairy-tales",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 7,
-   "aliasCollisions": [],
+   "descriptions": 55,
+   "aliasCollisions": [
+    {
+     "text": "The Six Swans",
+     "src": "w",
+     "answers": [
+      "The Six Swans",
+      "The Wild Swans"
+     ]
+    },
+    {
+     "text": "The 6 Swans",
+     "src": "w",
+     "answers": [
+      "The Six Swans",
+      "The Wild Swans"
+     ]
+    }
+   ],
    "suggestions": [
     "Snow White: SW",
     "Sleeping Beauty: SB",
@@ -11113,10 +9809,12 @@
     "The Old Woman Who Lived in a Shoe: OWWLS",
     "Fitcher's Bird: FB"
    ],
-   "wikidataMatched": 7,
+   "wikidataMatched": 55,
    "collisions": [],
-   "near": [],
-   "nearCount": 0,
+   "near": [
+    "Thumbelina / Tom Thumb"
+   ],
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -11125,17 +9823,18 @@
    "id": "hindu-gods",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 9,
+   "descriptions": 36,
    "aliasCollisions": [],
    "suggestions": [
     "Santoshi Mata: SM"
    ],
-   "wikidataMatched": 9,
+   "wikidataMatched": 36,
    "collisions": [],
    "near": [
+    "Ganesha / Ganga",
     "Buddha / Budha"
    ],
-   "nearCount": 1,
+   "nearCount": 2,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -11144,10 +9843,10 @@
    "id": "greek-heroes",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 20,
+   "descriptions": 77,
    "aliasCollisions": [],
    "suggestions": [],
-   "wikidataMatched": 20,
+   "wikidataMatched": 77,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11161,21 +9860,21 @@
    "id": "trojan-war",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 8,
+   "descriptions": 73,
    "aliasCollisions": [
     {
-     "text": "Apollo",
+     "text": "Ajax",
      "src": "w",
      "answers": [
-      "Apollo",
-      "Phoenix"
+      "Ajax",
+      "Ajax the Lesser"
      ]
     }
    ],
    "suggestions": [
     "Ajax the Lesser: AL"
    ],
-   "wikidataMatched": 8,
+   "wikidataMatched": 73,
    "collisions": [],
    "near": [
     "Chryseis / Chryses"
@@ -11189,8 +9888,33 @@
    "id": "sports",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
-   "aliasCollisions": [],
+   "descriptions": 111,
+   "aliasCollisions": [
+    {
+     "text": "rugby",
+     "src": "w",
+     "answers": [
+      "Rugby",
+      "Rugby union"
+     ]
+    },
+    {
+     "text": "football",
+     "src": "w",
+     "answers": [
+      "Football",
+      "Australian rules football"
+     ]
+    },
+    {
+     "text": "hockey",
+     "src": "w",
+     "answers": [
+      "Field hockey",
+      "Ice hockey"
+     ]
+    }
+   ],
    "suggestions": [
     "American football: AF",
     "Rugby union: RU",
@@ -11252,17 +9976,19 @@
     "Air racing: AR",
     "Dragon boat racing: DBR"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 111,
    "collisions": [],
    "near": [
     "Football / Softball",
     "Football / Floorball",
     "Baseball / Basketball",
+    "Basketball / Racquetball",
     "Curling / Hurling",
     "Heptathlon / Pentathlon",
-    "Triathlon / Biathlon"
+    "Triathlon / Biathlon",
+    "Water skiing / Skiing"
    ],
-   "nearCount": 6,
+   "nearCount": 8,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -11271,8 +9997,17 @@
    "id": "olympic-sports",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
-   "aliasCollisions": [],
+   "descriptions": 61,
+   "aliasCollisions": [
+    {
+     "text": "hockey",
+     "src": "w",
+     "answers": [
+      "Hockey",
+      "Ice hockey"
+     ]
+    }
+   ],
    "suggestions": [
     "Water polo: WP",
     "Marathon swimming: MS",
@@ -11299,7 +10034,7 @@
     "Tug of war: TW",
     "Jeu de paume: JDP"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 61,
    "collisions": [],
    "near": [
     "Basketball / Baseball",
@@ -11315,7 +10050,7 @@
    "id": "premier-league",
    "groupBy": "Region",
    "groupFallback": false,
-   "descriptions": 0,
+   "descriptions": 35,
    "aliasCollisions": [
     {
      "text": "Albion",
@@ -11360,7 +10095,7 @@
     "Wigan Athletic: WA",
     "Wolverhampton Wanderers: WW"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 35,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11372,7 +10107,7 @@
    "id": "nba-teams",
    "groupBy": "Conference",
    "groupFallback": false,
-   "descriptions": 4,
+   "descriptions": 30,
    "aliasCollisions": [],
    "suggestions": [
     "Boston Celtics: BC",
@@ -11383,7 +10118,6 @@
     "Dallas Mavericks: DM",
     "Denver Nuggets: DN",
     "Detroit Pistons: DP",
-    "Golden State Warriors: GSW",
     "Houston Rockets: HR",
     "Indiana Pacers: IP",
     "LA Clippers: LC",
@@ -11393,7 +10127,6 @@
     "Milwaukee Bucks: MB",
     "Minnesota Timberwolves: MT",
     "New Orleans Pelicans: NOP",
-    "New York Knicks: NYK",
     "Oklahoma City Thunder: OCT",
     "Orlando Magic: OM",
     "Phoenix Suns: PS",
@@ -11404,7 +10137,7 @@
     "Utah Jazz: UJ",
     "Washington Wizards: WW"
    ],
-   "wikidataMatched": 4,
+   "wikidataMatched": 30,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11416,7 +10149,7 @@
    "id": "nfl-teams",
    "groupBy": "Conference",
    "groupFallback": false,
-   "descriptions": 0,
+   "descriptions": 32,
    "aliasCollisions": [],
    "suggestions": [
     "Arizona Cardinals: AC",
@@ -11442,7 +10175,6 @@
     "Minnesota Vikings: MV",
     "New England Patriots: NEP",
     "New Orleans Saints: NOS",
-    "New York Giants: NYG",
     "New York Jets: NYJ",
     "Philadelphia Eagles: PE",
     "Pittsburgh Steelers: PS",
@@ -11452,7 +10184,7 @@
     "Tennessee Titans: TT",
     "Washington Commanders: WC"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 32,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11464,7 +10196,7 @@
    "id": "mlb-teams",
    "groupBy": "League",
    "groupFallback": false,
-   "descriptions": 0,
+   "descriptions": 30,
    "aliasCollisions": [],
    "suggestions": [
     "Arizona Diamondbacks: AD",
@@ -11478,29 +10210,22 @@
     "Colorado Rockies: CR",
     "Detroit Tigers: DT",
     "Houston Astros: HA",
-    "Kansas City Royals: KCR",
-    "Los Angeles Angels: LAA",
-    "Los Angeles Dodgers: LAD",
     "Miami Marlins: MM",
     "Milwaukee Brewers: MB",
     "Minnesota Twins: MT",
-    "New York Mets: NYM",
-    "New York Yankees: NYY",
     "Philadelphia Phillies: PP",
     "Pittsburgh Pirates: PP",
-    "San Diego Padres: SDP",
-    "San Francisco Giants: SFG",
     "Seattle Mariners: SM",
     "St. Louis Cardinals: SLC",
-    "Tampa Bay Rays: TBR",
     "Texas Rangers: TR",
-    "Toronto Blue Jays: TBJ",
     "Washington Nationals: WN"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 30,
    "collisions": [],
-   "near": [],
-   "nearCount": 0,
+   "near": [
+    "Chicago Cubs / Chicago White Sox"
+   ],
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -11509,7 +10234,7 @@
    "id": "nhl-teams",
    "groupBy": "Conference",
    "groupFallback": false,
-   "descriptions": 4,
+   "descriptions": 32,
    "aliasCollisions": [],
    "suggestions": [
     "Anaheim Ducks: AD",
@@ -11545,7 +10270,7 @@
     "Washington Capitals: WC",
     "Winnipeg Jets: WJ"
    ],
-   "wikidataMatched": 4,
+   "wikidataMatched": 32,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11557,8 +10282,17 @@
    "id": "f1-champions",
    "groupBy": "First title",
    "groupFallback": false,
-   "descriptions": 0,
-   "aliasCollisions": [],
+   "descriptions": 33,
+   "aliasCollisions": [
+    {
+     "text": "Rosberg",
+     "src": "w",
+     "answers": [
+      "Keke Rosberg",
+      "Nico Rosberg"
+     ]
+    }
+   ],
    "suggestions": [
     "Nino Farina: NF",
     "Juan Manuel Fangio: JMF",
@@ -11595,7 +10329,7 @@
     "Max Verstappen: MV",
     "Lando Norris: LN"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 33,
    "collisions": [
     {
      "alias": "hill",
@@ -11625,7 +10359,7 @@
    "id": "martial-arts",
    "groupBy": "A to Z",
    "groupFallback": true,
-   "descriptions": 0,
+   "descriptions": 44,
    "aliasCollisions": [],
    "suggestions": [
     "Kung fu: KF",
@@ -11636,7 +10370,6 @@
     "Greco-Roman wrestling: GRW",
     "Krav Maga: KM",
     "Wing Chun: WC",
-    "Jeet Kune Do: JKD",
     "Shaolin kung fu: SKF",
     "Hung Gar: HG",
     "Choy Li Fut: CLF",
@@ -11645,7 +10378,6 @@
     "Shorinji Kempo: SK",
     "Catch wrestling: CW",
     "Lucha libre: LL",
-    "Shoot boxing: SB",
     "Combat sambo: CS",
     "Vale tudo: VT",
     "Luta livre: LL",
@@ -11653,7 +10385,7 @@
     "Yaw-Yan: YY",
     "Pradal serey: PS"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 44,
    "collisions": [],
    "near": [
     "Kendo / Kempo",
@@ -11669,7 +10401,7 @@
    "id": "olympic-hosts",
    "groupBy": "Games",
    "groupFallback": false,
-   "descriptions": 20,
+   "descriptions": 32,
    "aliasCollisions": [],
    "suggestions": [
     "St. Louis: SL",
@@ -11682,7 +10414,7 @@
     "Squaw Valley: SV",
     "Salt Lake City: SLC"
    ],
-   "wikidataMatched": 20,
+   "wikidataMatched": 32,
    "collisions": [],
    "near": [],
    "nearCount": 0,
@@ -11692,9 +10424,9 @@
   },
   {
    "id": "footballers",
-   "groupBy": "A to Z",
-   "groupFallback": true,
-   "descriptions": 0,
+   "groupBy": "Born",
+   "groupFallback": false,
+   "descriptions": 171,
    "aliasCollisions": [],
    "suggestions": [
     "Diego Maradona: DM",
@@ -11778,7 +10510,7 @@
     "Gary Lineker: GL",
     "Paul Gascoigne: PG"
    ],
-   "wikidataMatched": 0,
+   "wikidataMatched": 171,
    "collisions": [
     {
      "alias": "ronaldo",

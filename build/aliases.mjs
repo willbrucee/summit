@@ -107,13 +107,33 @@ export function initialism(label) {
   return out.length ? [...new Set(out)] : null;
 }
 
-// Is this Wikidata alias worth offering? Junk, codes and foreign scripts are filtered out.
+// Letter pairs shared by two keys, from 0 to 1.
+function similarity(a, b) {
+  const pairs = (s) => { const out = new Map(); for (let i = 0; i < s.length - 1; i++) { const p = s.slice(i, i + 2); out.set(p, (out.get(p) || 0) + 1); } return out; };
+  const pa = pairs(a);
+  const pb = pairs(b);
+  let common = 0;
+  for (const [p, n] of pa) common += Math.min(n, pb.get(p) || 0);
+  return (2 * common) / Math.max(1, a.length - 1 + b.length - 1);
+}
+
+// Only plain letters and the accents found in Western European names.
+const PLAIN = /^[A-Za-z0-9\u00C0-\u00FF\s'’.&+:!?\-/]+$/;
+
+// Is this Wikidata alias worth offering? Junk, codes, pen names, other scripts and catalogue
+// notes are filtered out. An alias must look like the name, contain it, or be its initialism.
 export function goodWikidataAlias(alias, label, allowShort) {
   const s = alias.trim();
   const k = toKey(s);
-  if (!k || k === toKey(label)) return false;
-  if (!isLatin(s) || s.length > 50 || /[(),;[\]{}"]/.test(s)) return false;
-  if (/^\d+$/.test(k)) return false;
+  const lk = toKey(label);
+  if (!k || k === lk) return false;
+  if (!PLAIN.test(s) || s.length > 50 || /[(),;[\]{}"]/.test(s)) return false;
+  if (/\b(kopie|copy|after|naar|nach|workshop|attributed|circle of|school of)\b/i.test(s)) return false;
+  if (/\d/.test(s) && !/\d/.test(label)) return false;
+  if (s.split(/\s+/).length > label.split(/\s+/).length + 2) return false;
+  const ini = initialism(label) || [];
+  if (!(k.includes(lk) || lk.includes(k) || ini.includes(k) || similarity(k, lk) >= 0.45)) return false;
+  if (/^\d+$/.test(k) || /^q\d+$/i.test(s)) return false;
   if (k.length <= 3 && !allowShort) return false; // ISO-style codes would make some prompts trivial
   if (k.length <= 2 && !/[A-Z]/.test(s)) return false;
   if (k.length <= 4 && COMMON_WORDS.has(k)) return false;

@@ -134,4 +134,10 @@ test('Wikidata aliases: no codes, no other scripts, no junk', () => {
   assert.equal(goodWikidataAlias('CoD', 'Call of Duty', true), true);
   assert.equal(goodWikidataAlias('the', 'Them', true), false);
   assert.equal(goodWikidataAlias('Kenya (country)', 'Kenya', false), false);
+  assert.equal(goodWikidataAlias('David Winter', 'Winston Churchill', false), false); // a pen name
+  assert.equal(goodWikidataAlias('Kopie naar Anthony van Dyck', 'Anthony van Dyck', false), false);
+  assert.equal(goodWikidataAlias('Rainer Mariyah Rilḳeh', 'Rainer Maria Rilke', false), false);
+  assert.equal(goodWikidataAlias('Claudius 1', 'Claudius', false), false);
+  assert.equal(goodWikidataAlias('Debussy', 'Claude Debussy', false), true);
+  assert.equal(goodWikidataAlias('Republic of Turkey', 'Turkey', false), true);
 });

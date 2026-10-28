@@ -117,7 +117,7 @@ async function init() {
     return;
   }
   $('mode-label').textContent = MODE === 'daily' ? `Day ${game.day}` : MODE === 'practice' ? 'Practice' : 'Test round';
-  if (MODE !== 'daily') { $('mode-switch').textContent = "Today's climb"; $('mode-switch').href = '#daily'; }
+  if (MODE !== 'daily') { $('mode-switch').textContent = 'Today'; $('mode-switch').href = '#daily'; }
   emit('ready', { altitude: altitude(game.current), mode: MODE });
   resume();
 }

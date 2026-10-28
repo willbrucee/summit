@@ -6,6 +6,7 @@ import { join } from 'node:path';
 import { spawnSync } from 'node:child_process';
 
 const data = JSON.parse(readFileSync(new URL('../data/prompts.json', import.meta.url), 'utf8'));
+const facts = JSON.parse(readFileSync(new URL('../data/altitude-facts.json', import.meta.url), 'utf8')).facts;
 const lines = [];
 for (const p of data.prompts) {
   lines.push(`[${p.id}] ${p.text}`, `[${p.id}] ${p.note}`);
@@ -13,8 +14,10 @@ for (const p of data.prompts) {
   for (const a of p.answers) {
     const src = (a.src || '').split(' ');
     lines.push(`[${p.id}] ${[a.label, ...a.aliases.filter((_, i) => !/^[wag]/.test(src[i] || ''))].join(' | ')}`);
+    if (a.desc) lines.push(`[${p.id}] ${a.label}: ${a.desc}`);
   }
 }
+for (const f of facts) lines.push(`[altitude-facts] ${f.text} ${f.past}`);
 const dir = mkdtempSync(join(tmpdir(), 'summit-spell-'));
 const file = join(dir, 'labels.txt');
 writeFileSync(file, lines.join('\n'));

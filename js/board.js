@@ -56,7 +56,7 @@ export function renderBoard(root, prompt, round, { title } = {}) {
       if (open) return;
       b.classList.add('is-open');
       b.setAttribute('aria-expanded', 'true');
-      const what = a.desc ? a.desc.charAt(0).toUpperCase() + a.desc.slice(1) : 'No note for this one yet';
+      const what = a.desc ? a.desc.charAt(0).toUpperCase() + a.desc.slice(1) : 'On the list';
       b.append(h('span', { className: 'tile-desc', textContent: `${isFound ? 'You got this one. ' : ''}${what}.` }));
     });
     return b;

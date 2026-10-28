@@ -4,6 +4,33 @@
 const CONTINENT = { AF: 'Africa', EU: 'Europe', AS: 'Asia', NA: 'North America', SA: 'South America', OC: 'Oceania' };
 export const CONTINENT_ORDER = ['Africa', 'Asia', 'Europe', 'North America', 'South America', 'Oceania', 'Antarctica'];
 
+// UN geoscheme subregions, for prompts that sit inside one continent.
+const SUBREGION = {
+  'Northern Africa': 'Algeria|Egypt|Libya|Morocco|Sudan|Tunisia',
+  'Western Africa': 'Benin|Burkina Faso|Cabo Verde|Ivory Coast|Gambia|Ghana|Guinea|Guinea-Bissau|Liberia|Mali|Mauritania|Niger|Nigeria|Senegal|Sierra Leone|Togo',
+  'Middle Africa': 'Angola|Cameroon|Central African Republic|Chad|Republic of the Congo|DR Congo|Equatorial Guinea|Gabon|Sao Tome and Principe',
+  'Eastern Africa': 'Burundi|Comoros|Djibouti|Eritrea|Ethiopia|Kenya|Madagascar|Malawi|Mauritius|Mozambique|Rwanda|Seychelles|Somalia|South Sudan|Tanzania|Uganda|Zambia|Zimbabwe',
+  'Southern Africa': 'Botswana|Eswatini|Lesotho|Namibia|South Africa',
+  'Northern Europe': 'Denmark|Estonia|Finland|Iceland|Ireland|Latvia|Lithuania|Norway|Sweden|United Kingdom',
+  'Western Europe': 'Austria|Belgium|France|Germany|Liechtenstein|Luxembourg|Monaco|Netherlands|Switzerland',
+  'Eastern Europe': 'Belarus|Bulgaria|Czechia|Hungary|Moldova|Poland|Romania|Russia|Slovakia|Ukraine',
+  'Southern Europe': 'Albania|Andorra|Bosnia and Herzegovina|Croatia|Greece|Italy|Malta|Montenegro|North Macedonia|Portugal|San Marino|Serbia|Slovenia|Spain|Vatican City',
+  'Central Asia': 'Kazakhstan|Kyrgyzstan|Tajikistan|Turkmenistan|Uzbekistan',
+  'Eastern Asia': 'China|Japan|Mongolia|North Korea|South Korea',
+  'South-eastern Asia': 'Brunei|Cambodia|Indonesia|Laos|Malaysia|Myanmar|Philippines|Singapore|Thailand|Timor-Leste|Vietnam',
+  'Southern Asia': 'Afghanistan|Bangladesh|Bhutan|India|Iran|Maldives|Nepal|Pakistan|Sri Lanka',
+  'Western Asia': 'Armenia|Azerbaijan|Bahrain|Cyprus|Georgia|Iraq|Israel|Jordan|Kuwait|Lebanon|Oman|Palestine|Qatar|Saudi Arabia|Syria|Turkey|United Arab Emirates|Yemen',
+  Caribbean: 'Antigua and Barbuda|Bahamas|Barbados|Cuba|Dominica|Dominican Republic|Grenada|Haiti|Jamaica|Saint Kitts and Nevis|Saint Lucia|Saint Vincent and the Grenadines|Trinidad and Tobago',
+  'Central America': 'Belize|Costa Rica|El Salvador|Guatemala|Honduras|Mexico|Nicaragua|Panama',
+  'South America': 'Argentina|Bolivia|Brazil|Chile|Colombia|Ecuador|Guyana|Paraguay|Peru|Suriname|Uruguay|Venezuela',
+  'Northern America': 'Canada|United States',
+  'Australia and New Zealand': 'Australia|New Zealand',
+  Melanesia: 'Fiji|Papua New Guinea|Solomon Islands|Vanuatu',
+  Micronesia: 'Kiribati|Marshall Islands|Micronesia|Nauru|Palau',
+  Polynesia: 'Samoa|Tonga|Tuvalu',
+};
+const ONE_CONTINENT = new Set(['countries-africa', 'countries-europe', 'countries-asia', 'countries-americas', 'countries-eu', 'capitals-europe', 'capitals-asia', 'capitals-africa']);
+
 const US_REGION = {
   Northeast: 'Connecticut Maine Massachusetts New_Hampshire Rhode_Island Vermont New_Jersey New_York Pennsylvania',
   Midwest: 'Illinois Indiana Michigan Ohio Wisconsin Iowa Kansas Minnesota Missouri Nebraska North_Dakota South_Dakota',
@@ -89,13 +116,14 @@ export function groupAnswers(def, answers, countryOf) {
   let list = null;
   let order = null;
   const labels = answers.map((a) => a.label);
-  if (def.countries) { by = 'Continent'; list = answers.map((a) => CONTINENT[countryOf(a.label)?.tags.find((t) => CONTINENT[t])]); order = CONTINENT_ORDER; }
+  if (ONE_CONTINENT.has(id)) { by = 'Region'; list = answers.map((a) => inList(SUBREGION, def.capitals ? a.hint : a.label)); order = Object.keys(SUBREGION); }
+  else if (def.countries) { by = 'Continent'; list = answers.map((a) => CONTINENT[countryOf(a.label)?.tags.find((t) => CONTINENT[t])]); order = CONTINENT_ORDER; }
   else if (def.capitals) { by = 'Continent'; list = answers.map((a) => CONTINENT[countryOf(a.hint)?.tags.find((t) => CONTINENT[t])]); order = CONTINENT_ORDER; }
   else if (id === 'us-states') { by = 'Region'; list = labels.map(regionOfState); order = Object.keys(US_REGION); }
   else if (id === 'us-state-capitals') { by = 'Region'; list = labels.map((_, i) => regionOfState(STATES_AZ[i].replace(/_/g, ' '))); order = Object.keys(US_REGION); }
   else if (id === 'us-presidents') { by = 'Century in office'; list = labels.map((_, i) => `${Math.floor(PRESIDENT_YEARS[i] / 100) * 100}s`); }
   else if (ORDERED[id]) {
-    by = id === 'uk-prime-ministers' ? 'Century' : 'Era';
+    by = { 'uk-prime-ministers': 'Century', 'pokemon-gen1': 'Pokédex number', 'greek-letters': 'Place in the alphabet', 'nato-alphabet': 'Letter' }[id] || 'Era';
     const starts = ORDERED[id];
     let g = starts[0][1];
     list = labels.map((l) => { const hit = starts.find(([first]) => first === l); if (hit) g = hit[1]; return g; });
@@ -119,7 +147,7 @@ export function groupAnswers(def, answers, countryOf) {
 
   // Enough coverage, or fall back to A to Z sections.
   const known = list ? list.filter(Boolean).length : 0;
-  if (!list || known < answers.length * 0.7) {
+  if (!list || known < answers.length * 0.7 || new Set(list.filter(Boolean)).size < 2) {
     return { by: 'A to Z', fallback: true, groups: ALPHA_ORDER.filter((g) => labels.some((l) => alphaGroup(l) === g)), list: labels.map(alphaGroup) };
   }
   const filled = list.map((g) => g || 'Other');
