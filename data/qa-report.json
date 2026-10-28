@@ -11,16 +11,7 @@
    "groupBy": "Continent",
    "groupFallback": false,
    "descriptions": 192,
-   "aliasCollisions": [
-    {
-     "text": "Congo",
-     "src": "w",
-     "answers": [
-      "Republic of the Congo",
-      "DR Congo"
-     ]
-    }
-   ],
+   "aliasCollisions": [],
    "suggestions": [
     "Antigua and Barbuda: AB",
     "Bosnia and Herzegovina: BH",
@@ -54,25 +45,9 @@
     "Vatican City: VC"
    ],
    "wikidataMatched": 192,
-   "collisions": [
-    {
-     "alias": "congo",
-     "answers": [
-      "Republic of the Congo",
-      "DR Congo"
-     ]
-    },
-    {
-     "alias": "korea",
-     "answers": [
-      "North Korea",
-      "South Korea"
-     ]
-    }
-   ],
+   "collisions": [],
    "near": [
     "Australia / Syria",
-    "Republic of the Congo / DR Congo",
     "Dominica / Dominican Republic",
     "Gambia / Zambia",
     "Iceland / Ireland",
@@ -82,14 +57,11 @@
     "Namibia / Zambia",
     "North Korea / South Korea",
     "North Korea / South Korea",
-    "North Korea / South Korea",
-    "North Korea / South Korea",
-    "North Korea / South Korea",
     "Rwanda / Uganda",
     "Slovakia / Slovenia",
     "South Sudan / Sudan"
    ],
-   "nearCount": 17,
+   "nearCount": 13,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -105,14 +77,6 @@
    "groupFallback": false,
    "descriptions": 105,
    "aliasCollisions": [
-    {
-     "text": "Congo",
-     "src": "w",
-     "answers": [
-      "Republic of the Congo",
-      "DR Congo"
-     ]
-    },
     {
      "text": "Republic of Djibouti",
      "src": "w",
@@ -144,13 +108,6 @@
    "wikidataMatched": 105,
    "collisions": [
     {
-     "alias": "congo",
-     "answers": [
-      "Republic of the Congo",
-      "DR Congo"
-     ]
-    },
-    {
      "alias": "djibouti",
      "answers": [
       "Djibouti",
@@ -166,7 +123,6 @@
     }
    ],
    "near": [
-    "Republic of the Congo / DR Congo",
     "Djibouti / Djibouti City",
     "Gambia / Zambia",
     "Malawi / Mali",
@@ -175,7 +131,7 @@
     "Sao Tome and Principe / Sao Tome",
     "South Sudan / Sudan"
    ],
-   "nearCount": 8,
+   "nearCount": 7,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -266,23 +222,12 @@
     "Abu Dhabi: AD"
    ],
    "wikidataMatched": 94,
-   "collisions": [
-    {
-     "alias": "korea",
-     "answers": [
-      "North Korea",
-      "South Korea"
-     ]
-    }
-   ],
+   "collisions": [],
    "near": [
-    "North Korea / South Korea",
-    "North Korea / South Korea",
-    "North Korea / South Korea",
     "North Korea / South Korea",
     "North Korea / South Korea"
    ],
-   "nearCount": 5,
+   "nearCount": 2,
    "suspicious": [],
    "log": [
     "duplicate merged: \"Singapore\""
@@ -2374,7 +2319,6 @@
     "Inside Out 2 / Inside Out",
     "Frozen 2 / Frozen",
     "Black Panther / Black Panther: Wakanda Forever",
-    "Black Panther / Black Panther: Wakanda Forever",
     "Toy Story 5 / Toy Story 4",
     "Toy Story 5 / Toy Story 3",
     "Toy Story 4 / Toy Story 3",
@@ -2387,7 +2331,7 @@
     "Despicable Me 2 / Despicable Me 4",
     "Guardians of the Galaxy Vol. 3 / Guardians of the Galaxy"
    ],
-   "nearCount": 16,
+   "nearCount": 15,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -2613,12 +2557,9 @@
    "wikidataMatched": 97,
    "collisions": [],
    "near": [
-    "The Godfather Part II / The Godfather",
-    "The Godfather Part II / The Godfather",
-    "The Godfather Part II / The Godfather",
     "The Godfather Part II / The Godfather"
    ],
-   "nearCount": 4,
+   "nearCount": 1,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3178,13 +3119,12 @@
     "Lord Voldemort / Tom Riddle Sr",
     "Molly Weasley / Arthur Weasley",
     "James Potter / James Sirius Potter",
-    "James Potter / James Sirius Potter",
     "Lily Potter / Lily Luna Potter",
     "Barty Crouch Jr / Barty Crouch",
     "Barty Crouch Jr / Barty Crouch",
     "Vernon Dursley / Petunia Dursley"
    ],
-   "nearCount": 9,
+   "nearCount": 8,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -3433,7 +3373,9 @@
     "Love Yourself / Lose Yourself"
    ],
    "nearCount": 1,
-   "suspicious": [],
+   "suspicious": [
+    "Seven: very short"
+   ],
    "log": [],
    "sourceCheck": null
   },
@@ -3735,13 +3677,13 @@
   {
    "id": "bands",
    "size": 283,
-   "known": 237,
+   "known": 236,
    "outside": 0,
    "topic": "music",
    "text": "Name bands",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 242,
+   "descriptions": 241,
    "aliasCollisions": [],
    "suggestions": [
     "The Beatles: TB",
@@ -3825,12 +3767,13 @@
     "Run-DMC: RD",
     "Wu-Tang Clan: WTC"
    ],
-   "wikidataMatched": 242,
+   "wikidataMatched": 241,
    "collisions": [],
    "near": [],
    "nearCount": 0,
    "suspicious": [
-    "U2: very short"
+    "U2: very short",
+    "Seventeen: very short"
    ],
    "log": [],
    "sourceCheck": null
@@ -3959,7 +3902,9 @@
    "collisions": [],
    "near": [],
    "nearCount": 0,
-   "suspicious": [],
+   "suspicious": [
+    "Six: very short"
+   ],
    "log": [],
    "sourceCheck": null
   },
@@ -4248,14 +4193,14 @@
   },
   {
    "id": "best-selling-games",
-   "size": 1213,
+   "size": 1212,
    "known": 583,
    "outside": 202,
    "topic": "games",
    "text": "Name best-selling video games",
    "groupBy": "Decade",
    "groupFallback": false,
-   "descriptions": 1205,
+   "descriptions": 1204,
    "aliasCollisions": [],
    "suggestions": [
     "Red Dead Redemption 2: RDR",
@@ -4339,7 +4284,7 @@
     "Dark Souls Remastered: DSR",
     "Kingdom Hearts HD 1.5 + 2.5 Remix: KHHR"
    ],
-   "wikidataMatched": 1211,
+   "wikidataMatched": 1210,
    "collisions": [
     {
      "alias": "modernwarfare",
@@ -4349,7 +4294,7 @@
      ]
     },
     {
-     "alias": "finalfantasyvii",
+     "alias": "finalfantasy7",
      "answers": [
       "Final Fantasy VII",
       "Dirge of Cerberus: Final Fantasy VII"
@@ -4363,61 +4308,31 @@
      ]
     },
     {
-     "alias": "supermariobrosthree",
-     "answers": [
-      "Super Mario Bros. 3",
-      "Super Mario Advance 4: Super Mario Bros. 3"
-     ]
-    },
-    {
      "alias": "mahjong",
      "answers": [
       "Simple 1500 Series Vol. 1: The Mahjong",
       "Mah-Jong"
-     ]
-    },
-    {
-     "alias": "megaman2",
-     "answers": [
-      "Mega Man 2",
-      "Mega Man II"
-     ]
-    },
-    {
-     "alias": "megamantwo",
-     "answers": [
-      "Mega Man 2",
-      "Mega Man II"
      ]
     }
    ],
    "near": [
     "Tetris / Tetris 2",
     "Grand Theft Auto V / Grand Theft Auto IV",
-    "Grand Theft Auto V / Grand Theft Auto IV",
     "Grand Theft Auto V / Grand Theft Auto III",
     "Grand Theft Auto V / Grand Theft Auto 2",
-    "Grand Theft Auto V / Grand Theft Auto IV",
-    "Grand Theft Auto V / Grand Theft Auto IV",
-    "Grand Theft Auto V / Grand Theft Auto III",
-    "Grand Theft Auto V / Grand Theft Auto 2",
-    "Grand Theft Auto V / Grand Theft Auto IV",
-    "Red Dead Redemption 2 / Red Dead Redemption",
     "Red Dead Redemption 2 / Red Dead Redemption",
     "Mario Kart 8 / Mario Party 8",
     "Mario Kart 8 / Mario Kart DS",
     "Mario Kart 8 / Mario Kart 7",
-    "Mario Kart 8 / Mario Party 8",
     "Mario Kart 8 / Mario Kart DS",
     "Mario Kart 8 / Mario Kart 7",
     "Mario Kart 8 / Mario Kart Wii",
     "Super Mario Bros. / Super Mario Bros. 3",
     "Super Mario Bros. / Super Mario Bros. 2",
     "Super Mario Bros. / Super Mario Advance 4: Super Mario Bros. 3",
-    "Call of Duty: Black Ops III / Call of Duty: Black Ops II",
     "Call of Duty: Black Ops III / Call of Duty: Black Ops",
     "Call of Duty: Black Ops III / Call of Duty: Black Ops II",
-    "Call of Duty: Black Ops III / Call of Duty: Black Ops II",
+    "Call of Duty: Black Ops III / Call of Duty: Black Ops",
     "Call of Duty: Black Ops III / Call of Duty: Black Ops II",
     "Call of Duty: Modern Warfare / Call of Duty: Modern Warfare 3",
     "Call of Duty: Modern Warfare / Call of Duty: Modern Warfare 2",
@@ -4433,17 +4348,11 @@
     "Call of Duty: Modern Warfare 3 / Call of Duty 4: Modern Warfare",
     "Call of Duty: Black Ops / Call of Duty: Black Ops II",
     "Call of Duty: Black Ops / Call of Duty: Black Ops II",
-    "Call of Duty: Black Ops / Call of Duty: Black Ops II",
-    "Grand Theft Auto IV / Grand Theft Auto III",
-    "Grand Theft Auto IV / Grand Theft Auto III",
-    "Grand Theft Auto IV / Grand Theft Auto 2",
     "Grand Theft Auto IV / Grand Theft Auto III",
     "Grand Theft Auto IV / Grand Theft Auto 2",
     "Marvel's Spider-Man / Marvel's Spider-Man 2",
     "God of War / God of War III Remastered",
     "God of War / God of War II",
-    "God of War / God of War II",
-    "Star Wars Battlefront / Star Wars: Battlefront II",
     "Star Wars Battlefront / Star Wars: Battlefront II",
     "Tekken 7 / Tekken 5",
     "Tekken 7 / Tekken 4",
@@ -4451,9 +4360,24 @@
     "Tekken 7 / Tekken 2",
     "Tekken 7 / Tekken",
     "God of War III Remastered / God of War II",
-    "God of War III Remastered / God of War II"
+    "LittleBigPlanet 3 / LittleBigPlanet",
+    "Dragon Ball Xenoverse 2 / Dragon Ball: Xenoverse",
+    "Dark Souls III / Dark Souls Remastered",
+    "Dark Souls III / Dark Souls II: Scholar of the First Sin",
+    "FIFA 17 / FIFA 18",
+    "FIFA 17 / FIFA 19",
+    "FIFA 17 / FIFA 11",
+    "FIFA 17 / FIFA 12",
+    "FIFA 17 / FIFA 13",
+    "FIFA 17 / FIFA 14",
+    "FIFA 17 / FIFA 16",
+    "Final Fantasy XV / Final Fantasy VII",
+    "Final Fantasy XV / Final Fantasy X",
+    "Final Fantasy XV / Final Fantasy XII",
+    "Final Fantasy XV / Final Fantasy X-2",
+    "Final Fantasy XV / Dirge of Cerberus: Final Fantasy VII"
    ],
-   "nearCount": 631,
+   "nearCount": 490,
    "suspicious": [
     "Naruto Shippuden: Ultimate Ninja Storm Trilogy: very long",
     "Pokémon: Let's Go, Pikachu! and Let's Go, Eevee!: very long",
@@ -4471,7 +4395,8 @@
     "Yu-Gi-Oh! Worldwide Edition: Stairway to the Destined Duel: very long"
    ],
    "log": [
-    "duplicate merged: \"Star Wars: Battlefront\""
+    "duplicate merged: \"Star Wars: Battlefront\"",
+    "duplicate merged: \"Mega Man II\""
    ],
    "sourceCheck": null
   },
@@ -4577,62 +4502,62 @@
     "Super Mario Bros. / Super Mario 64",
     "Super Mario Bros. / Super Mario 64",
     "Mega Man 2 / Mega Man X",
-    "Mega Man 2 / Mega Man X",
-    "Mega Man 2 / Mega Man X",
     "Super Mario Bros. 3 / Super Mario 64",
     "Super Mario Bros. 3 / Super Mario 64",
     "Civilization / Civilization II",
-    "Civilization / Civilization II",
-    "Civilization / Civilization IV",
     "Civilization / Civilization IV",
     "Civilization / Civilization V",
-    "Civilization / Civilization V",
-    "Final Fantasy IV / Final Fantasy VI",
-    "Final Fantasy IV / Final Fantasy VI",
-    "Final Fantasy IV / Final Fantasy VI",
-    "Final Fantasy IV / Final Fantasy VII",
-    "Final Fantasy IV / Final Fantasy VII",
-    "Final Fantasy IV / Final Fantasy VIII",
-    "Final Fantasy IV / Final Fantasy IX",
-    "Final Fantasy IV / Final Fantasy IX",
-    "Final Fantasy IV / Final Fantasy X",
-    "Final Fantasy IV / Final Fantasy X",
-    "Final Fantasy IV / Final Fantasy VI",
     "Final Fantasy IV / Final Fantasy VI",
     "Final Fantasy IV / Final Fantasy VII",
     "Final Fantasy IV / Final Fantasy VIII",
     "Final Fantasy IV / Final Fantasy IX",
-    "Final Fantasy IV / Final Fantasy IX",
-    "Final Fantasy IV / Final Fantasy X",
     "Final Fantasy IV / Final Fantasy X",
     "Sonic the Hedgehog / Sonic the Hedgehog 2",
     "Sonic the Hedgehog / Sonic the Hedgehog 2",
-    "Sonic the Hedgehog / Sonic the Hedgehog 2",
-    "Street Fighter II / Street Fighter IV",
-    "Street Fighter II / Street Fighter IV",
-    "Street Fighter II / Street Fighter IV",
     "Street Fighter II / Street Fighter IV",
     "Mortal Kombat / Mortal Kombat II",
-    "Mortal Kombat / Mortal Kombat II",
-    "Final Fantasy VI / Final Fantasy VII",
-    "Final Fantasy VI / Final Fantasy VII",
-    "Final Fantasy VI / Final Fantasy VIII",
-    "Final Fantasy VI / Final Fantasy VIII",
-    "Final Fantasy VI / Final Fantasy IX",
-    "Final Fantasy VI / Final Fantasy IX",
-    "Final Fantasy VI / Final Fantasy X",
-    "Final Fantasy VI / Final Fantasy X",
     "Final Fantasy VI / Final Fantasy VII",
     "Final Fantasy VI / Final Fantasy VIII",
     "Final Fantasy VI / Final Fantasy IX",
-    "Final Fantasy VI / Final Fantasy IX",
     "Final Fantasy VI / Final Fantasy X",
-    "Final Fantasy VI / Final Fantasy X",
-    "Final Fantasy VI / Final Fantasy VII",
-    "Final Fantasy VI / Final Fantasy IX",
-    "Final Fantasy VI / Final Fantasy X"
+    "Virtua Fighter 2 / Virtua Fighter 4",
+    "Virtua Fighter 2 / Virtua Fighter 5",
+    "Civilization II / Civilization IV",
+    "Civilization II / Civilization V",
+    "Mario Kart 64 / Mario Kart 8",
+    "Mario Kart 64 / Mario Kart 8",
+    "Quake / Quake II",
+    "Quake / Quake II",
+    "Resident Evil / Resident Evil 2",
+    "Resident Evil / Resident Evil 4",
+    "Age of Empires / Age of Empires II",
+    "Diablo / Diablo II",
+    "Fallout / Fallout 2",
+    "Fallout / Fallout 3",
+    "Final Fantasy VII / Final Fantasy VIII",
+    "Final Fantasy VII / Final Fantasy IX",
+    "Final Fantasy VII / Final Fantasy X",
+    "Gran Turismo / Gran Turismo 2",
+    "Gran Turismo / Gran Turismo 4",
+    "Grand Theft Auto / Grand Theft Auto III",
+    "Grand Theft Auto / Grand Theft Auto IV",
+    "Grand Theft Auto / Grand Theft Auto V",
+    "Baldur's Gate / Baldur's Gate 3",
+    "Fallout 2 / Fallout 3",
+    "Half-Life / Half-Life 2",
+    "Resident Evil 2 / Resident Evil 4",
+    "Soulcalibur / Soulcalibur II",
+    "Final Fantasy VIII / Final Fantasy IX",
+    "Final Fantasy VIII / Final Fantasy X",
+    "Gran Turismo 2 / Gran Turismo 4",
+    "Silent Hill / Silent Hill 2",
+    "Tony Hawk's Pro Skater / Tony Hawk's Pro Skater 2",
+    "Tony Hawk's Pro Skater / Tony Hawk's Pro Skater 3",
+    "Final Fantasy IX / Final Fantasy X",
+    "Tony Hawk's Pro Skater 2 / Tony Hawk's Pro Skater 3",
+    "Animal Crossing / Animal Crossing: New Horizons"
    ],
-   "nearCount": 159,
+   "nearCount": 85,
    "suspicious": [
     "The Chronicles of Riddick: Escape from Butcher Bay: very long"
    ],
@@ -5076,8 +5001,7 @@
     "VfB Stuttgart: VS",
     "VfL Wolfsburg: VW",
     "Le Havre: LH",
-    "Paris FC: PF",
-    "Paris Saint-Germain: PSG"
+    "Paris FC: PF"
    ],
    "wikidataMatched": 93,
    "collisions": [],
@@ -5228,12 +5152,9 @@
     "World War I / World War II",
     "World War I / World War II",
     "World War I / World War II",
-    "World War I / World War II",
-    "World War I / World War II",
-    "World War I / World War II",
     "World War I / World War II"
    ],
-   "nearCount": 7,
+   "nearCount": 4,
    "suspicious": [],
    "log": [],
    "sourceCheck": null
@@ -6683,12 +6604,15 @@
    "near": [
     "World War I / World War II",
     "World War I / World War II",
-    "World War I / World War II",
-    "World War I / World War II",
+    "Thirty Years' War / Seven Years' War",
+    "Thirty Years' War / Eighty Years' War",
+    "Thirty Years' War / Nine Years' War",
+    "Seven Years' War / Eighty Years' War",
     "Seven Years' War / Nine Years' War",
+    "Eighty Years' War / Nine Years' War",
     "American Revolutionary War / Mexican War of Independence"
    ],
-   "nearCount": 6,
+   "nearCount": 9,
    "suspicious": [],
    "log": [],
    "sourceCheck": null

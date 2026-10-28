@@ -41,8 +41,8 @@ Chile ; SA ; Santiago
 China | People's Republic of China | PRC ; AS ; Beijing | Peking
 Colombia ; SA ; Bogota | Bogotá
 Comoros ; AF ; Moroni
-Republic of the Congo | Congo | Congo-Brazzaville | Republic of Congo | Congo Republic ; AF ; Brazzaville
-DR Congo | Democratic Republic of the Congo | Democratic Republic of Congo | DRC | Congo | Congo-Kinshasa | Zaire ; AF ; Kinshasa
+Republic of the Congo | Congo-Brazzaville | Republic of Congo | Congo Republic ; AF ; Brazzaville
+DR Congo | Democratic Republic of the Congo | Democratic Republic of Congo | DRC | Congo-Kinshasa | Zaire ; AF ; Kinshasa
 Costa Rica ; NA ; San Jose | San José
 Croatia ; EU MED EUU ; Zagreb
 Cuba ; NA ; Havana | La Habana
@@ -129,7 +129,7 @@ New Zealand | NZ | Aotearoa ; OC ; Wellington
 Nicaragua ; NA ; Managua
 Niger ; AF LL ; Niamey
 Nigeria ; AF ; Abuja
-North Korea | DPRK | Korea ; AS ; Pyongyang
+North Korea | DPRK ; AS ; Pyongyang
 North Macedonia | Macedonia ; EU LL ; Skopje
 Norway ; EU ; Oslo
 Oman ; AS ; Muscat
@@ -164,7 +164,7 @@ Slovenia ; EU MED EUU ; Ljubljana
 Solomon Islands | Solomons ; OC ; Honiara
 Somalia ; AF ; Mogadishu
 South Africa ; AF ; Pretoria ; Cape Town
-South Korea | Republic of Korea | Korea ; AS ; Seoul
+South Korea | Republic of Korea ; AS ; Seoul
 South Sudan ; AF LL ; Juba
 Spain ; EU MED EUU ; Madrid
 Sri Lanka | Ceylon ; AS ; Sri Jayawardenepura Kotte | Kotte ; Colombo

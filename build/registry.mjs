@@ -83,16 +83,16 @@ export const PROMPTS = [
   { id: 'lotr', category: 'screen', text: 'Name characters from Tolkien', note: 'The Hobbit, The Lord of the Rings and The Silmarillion.', difficulty: 2, finite: false, list: B.LOTR },
 
   // Music
-  { id: 'best-selling-artists', category: 'music', text: 'Name best-selling music artists', note: "Any of the {n} acts on Wikipedia's best-selling music artists list (75 million or more records claimed), 2026.", difficulty: 1, finite: true, wiki: 'best-selling-artists', outsideLine: "That's a real star, just outside the best-seller list" },
+  { id: 'best-selling-artists', people: true, category: 'music', text: 'Name best-selling music artists', note: "Any of the {n} acts on Wikipedia's best-selling music artists list (75 million or more records claimed), 2026.", difficulty: 1, finite: true, wiki: 'best-selling-artists', outsideLine: "That's a real star, just outside the best-seller list" },
   { id: 'spotify-songs', groupBy: 'decade', category: 'music', text: 'Name the most-streamed songs on Spotify', note: 'Any of the {n} most-streamed songs of all time on Spotify, 2026.', difficulty: 2, finite: true, wiki: 'spotify-songs', outsideLine: "That's a real hit, just outside the Spotify top 100" },
   { id: 'best-selling-albums', groupBy: 'decade', category: 'music', text: 'Name the best-selling albums ever', note: "Any of the {n} albums on Wikipedia's list with 20 million or more certified copies, 2026.", difficulty: 3, finite: true, wiki: 'best-selling-albums' },
   { id: 'instruments', category: 'music', text: 'Name musical instruments', difficulty: 1, finite: false, list: M.INSTRUMENTS },
   { id: 'genres', category: 'music', text: 'Name music genres', difficulty: 1, finite: false, list: M.GENRES },
   { id: 'bands', groupBy: 'decade', category: 'music', text: 'Name bands', difficulty: 1, finite: false, list: M.BANDS },
-  { id: 'one-name-musicians', groupBy: 'born', category: 'music', text: 'Name musicians known by one name', note: 'Single-word stage names, like Adele or Drake.', difficulty: 2, finite: false, list: M.ONE_NAME_SINGERS },
+  { id: 'one-name-musicians', people: true, groupBy: 'born', category: 'music', text: 'Name musicians known by one name', note: 'Single-word stage names, like Adele or Drake.', difficulty: 2, finite: false, list: M.ONE_NAME_SINGERS },
   { id: 'musicals', groupBy: 'decade', category: 'music', text: 'Name stage musicals', difficulty: 2, finite: false, list: M.MUSICALS },
   { id: 'dances', category: 'music', text: 'Name dances', difficulty: 1, finite: false, list: M.DANCES },
-  { id: 'composers', groupBy: 'born', category: 'music', text: 'Name composers', note: 'Surnames are fine.', difficulty: 3, finite: false, list: M.COMPOSERS },
+  { id: 'composers', people: true, groupBy: 'born', category: 'music', text: 'Name composers', note: 'Surnames are fine.', difficulty: 3, finite: false, list: M.COMPOSERS },
   { id: 'beatles-songs', groupBy: 'decade', category: 'music', text: 'Name songs by The Beatles', difficulty: 2, finite: true, list: M.BEATLES_SONGS },
 
   // Video games
@@ -105,9 +105,9 @@ export const PROMPTS = [
   { id: 'us-teams', groupTitle: 'League', category: 'sport', text: 'Name NBA, NFL, MLB or NHL teams', note: 'The {n} current teams. The nickname is enough.', difficulty: 2, finite: true, parts: [{ from: 'NBA', list: SPO.NBA }, { from: 'NFL', list: SPO.NFL }, { from: 'MLB', list: SPO.MLB }, { from: 'NHL', list: SPO.NHL }] },
   { id: 'football-clubs', groupBy: 'from', groupTitle: 'League', category: 'sport', text: "Name clubs in Europe's big five leagues", note: 'The {n} clubs in the 2025-26 Premier League, La Liga, Serie A, Bundesliga and Ligue 1.', difficulty: 2, finite: true, wiki: 'football-clubs' },
   { id: 'world-cup-nations', category: 'sport', text: 'Name countries that have played at a World Cup', note: "Any of the {n} nations to reach a men's FIFA World Cup, 1930 to 2026. West Germany counts as Germany, the Soviet Union as Russia.", difficulty: 1, finite: true, wiki: 'world-cup-nations' },
-  { id: 'grand-slam-champions', groupBy: 'from', groupTitle: 'Singles', category: 'sport', text: 'Name Grand Slam tennis champions', note: 'Anyone who has won a Grand Slam singles title, men or women, up to 2026. Surnames are fine.', difficulty: 2, finite: true, wiki: 'grand-slam-champions' },
-  { id: 'f1-winners', groupBy: 'born', category: 'sport', text: 'Name Formula One race winners', note: 'Any of the {n} drivers who have won a Grand Prix, up to 2026. Surnames are fine.', difficulty: 3, finite: true, wiki: 'f1-winners' },
-  { id: 'footballers', groupBy: 'born', category: 'sport', text: 'Name footballers', note: 'Soccer players, past or present. Surnames are fine.', difficulty: 1, finite: false, list: SPO.FOOTBALLERS },
+  { id: 'grand-slam-champions', people: true, groupBy: 'from', groupTitle: 'Singles', category: 'sport', text: 'Name Grand Slam tennis champions', note: 'Anyone who has won a Grand Slam singles title, men or women, up to 2026. Surnames are fine.', difficulty: 2, finite: true, wiki: 'grand-slam-champions' },
+  { id: 'f1-winners', people: true, groupBy: 'born', category: 'sport', text: 'Name Formula One race winners', note: 'Any of the {n} drivers who have won a Grand Prix, up to 2026. Surnames are fine.', difficulty: 3, finite: true, wiki: 'f1-winners' },
+  { id: 'footballers', people: true, groupBy: 'born', category: 'sport', text: 'Name footballers', note: 'Soccer players, past or present. Surnames are fine.', difficulty: 1, finite: false, list: SPO.FOOTBALLERS },
 
   // Brands
   { id: 'car-brands', category: 'brands', text: 'Name car brands', note: 'Past or present.', difficulty: 1, finite: false, list: T.CAR_BRANDS },
@@ -118,7 +118,7 @@ export const PROMPTS = [
   { id: 'elements', category: 'science', text: 'Name chemical elements', difficulty: 1, finite: true, wikidata: 'elements' },
   { id: 'metals', category: 'science', text: 'Name elements that are metals', note: 'Metalloids like silicon and arsenic do not count.', difficulty: 2, finite: true, wikidata: 'metals' },
   { id: 'units', category: 'science', text: 'Name units of measurement', difficulty: 1, finite: false, list: S.UNITS },
-  { id: 'scientists', groupBy: 'born', category: 'science', text: 'Name famous scientists', note: 'Surnames are fine.', difficulty: 2, finite: false, list: S.SCIENTISTS },
+  { id: 'scientists', people: true, groupBy: 'born', category: 'science', text: 'Name famous scientists', note: 'Surnames are fine.', difficulty: 2, finite: false, list: S.SCIENTISTS },
   { id: 'constellations', category: 'science', text: 'Name constellations', note: 'The 88 modern constellations.', difficulty: 3, finite: true, wikidata: 'constellations' },
   { id: 'trees', category: 'science', text: 'Name trees', difficulty: 1, finite: false, list: N.TREES },
   { id: 'flowers', category: 'science', text: 'Name flowers', difficulty: 1, finite: false, list: N.FLOWERS },
@@ -131,14 +131,14 @@ export const PROMPTS = [
   { id: 'diseases', category: 'science', text: 'Name illnesses and diseases', difficulty: 1, finite: false, list: BO.DISEASES },
 
   // History and people
-  { id: 'leaders', groupTitle: 'Office', category: 'history', text: 'Name US presidents or British prime ministers', note: 'Surnames are fine. Type Bush or Adams twice to get both.', difficulty: 1, finite: true, parts: [{ from: 'US presidents', wikidata: 'us_presidents' }, { from: 'British prime ministers', wikidata: 'uk_prime_ministers' }] },
+  { id: 'leaders', people: true, groupTitle: 'Office', category: 'history', text: 'Name US presidents or British prime ministers', note: 'Surnames are fine. Type Bush or Adams twice to get both.', difficulty: 1, finite: true, parts: [{ from: 'US presidents', wikidata: 'us_presidents' }, { from: 'British prime ministers', wikidata: 'uk_prime_ministers' }] },
   { id: 'wars', category: 'history', text: 'Name wars', difficulty: 2, finite: false, list: H.WARS },
-  { id: 'explorers', groupBy: 'born', category: 'history', text: 'Name explorers', note: 'Surnames are fine.', difficulty: 2, finite: false, list: H.EXPLORERS },
+  { id: 'explorers', people: true, groupBy: 'born', category: 'history', text: 'Name explorers', note: 'Surnames are fine.', difficulty: 2, finite: false, list: H.EXPLORERS },
   { id: 'civilisations', category: 'history', text: 'Name ancient civilisations', difficulty: 2, finite: false, list: H.CIVILISATIONS },
   { id: 'empires', category: 'history', text: 'Name empires', difficulty: 2, finite: false, list: H.EMPIRES },
-  { id: 'painters', groupBy: 'born', category: 'history', text: 'Name painters', note: 'Surnames are fine.', difficulty: 2, finite: false, list: B.PAINTERS },
+  { id: 'painters', people: true, groupBy: 'born', category: 'history', text: 'Name painters', note: 'Surnames are fine.', difficulty: 2, finite: false, list: B.PAINTERS },
   { id: 'paintings', category: 'history', text: 'Name famous paintings', difficulty: 3, finite: false, list: B.PAINTINGS },
-  { id: 'authors', groupBy: 'born', category: 'history', text: 'Name novelists and authors', note: 'Surnames are fine.', difficulty: 1, finite: false, list: B.AUTHORS },
+  { id: 'authors', people: true, groupBy: 'born', category: 'history', text: 'Name novelists and authors', note: 'Surnames are fine.', difficulty: 1, finite: false, list: B.AUTHORS },
 
   // Words and general knowledge
   { id: 'colours', category: 'words', text: 'Name colours', difficulty: 1, finite: false, list: L.COLOURS },

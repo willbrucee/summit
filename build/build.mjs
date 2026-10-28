@@ -360,6 +360,7 @@ for (const def of PROMPTS) {
     text: def.text,
     note: (def.note || '').replace('{n}', merged.length.toLocaleString('en')),
     ...(def.outsideLine ? { outsideLine: def.outsideLine } : {}),
+    ...(def.people ? { people: true } : {}),
     difficulty: def.difficulty,
     finite: def.finite,
     size: merged.length,

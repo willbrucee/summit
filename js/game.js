@@ -137,7 +137,7 @@ function loadPrompt(i) {
   if (!loading.has(i)) {
     loading.set(i, getJSON(`data/p/${game.ids[i]}.json`).then((p) => {
       prompts[i] = p;
-      indexes[i] = buildIndex(p.answers);
+      indexes[i] = buildIndex(p.answers, { people: p.people });
       outsideIndexes[i] = p.outside ? buildIndex(p.outside) : null;
       return p;
     }));
@@ -432,9 +432,20 @@ function onInput() {
     return onInput();
   }
   const state = typedState(index, value);
-  if (state === 'now') { submitGuess(); return; }
+  // Instant only for a clear accept (or a repeat); "Korea" waits for Enter or more letters.
+  if (state === 'now') {
+    const g = classifyGuess(index, value, new Set(current().found), outsideIndexes[game.current]);
+    if (g.state === 'accepted' || g.state === 'duplicate') submitGuess(g);
+    return;
+  }
   const later = (ms, fn) => { pending = setTimeout(() => { pending = null; if ($('guess').value === value) fn(); }, ms); };
-  if (state === 'wait') { later(WAIT_FOR_LONGER_MS, () => submitGuess()); return; }
+  if (state === 'wait') {
+    later(WAIT_FOR_LONGER_MS, () => {
+      const g = classifyGuess(index, value, new Set(current().found), outsideIndexes[game.current]);
+      if (g.state === 'accepted' || g.state === 'duplicate') submitGuess(g);
+    });
+    return;
+  }
   if (toKey(value).length >= 5) {
     later(TYPO_IDLE_MS, () => {
       const r = current();

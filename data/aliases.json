@@ -1,34 +1,199 @@
 {
   "_readme": "Extra aliases applied on every build. 'global' entries apply to any prompt with that answer label; 'prompts' entries apply to one prompt id. An alias that could mean two answers in a prompt is dropped and listed on the QA page.",
   "global": {
-    "Tom Clancy's Rainbow Six Siege": ["R6", "R6S", "Siege", "Rainbow Six", "Rainbow 6 Siege"],
-    "Call of Duty": ["CoD"],
-    "Call of Duty: Modern Warfare": ["CoD MW", "MW"],
-    "Grand Theft Auto": ["GTA"],
-    "Grand Theft Auto V": ["GTA5", "GTAV"],
-    "World of Warcraft": ["WoW"],
-    "League of Legends": ["LoL"],
-    "Counter-Strike": ["CS", "CSGO", "Counter Strike 2"],
-    "The Legend of Zelda": ["LoZ"],
-    "Animal Crossing: New Horizons": ["ACNH"],
-    "Red Dead Redemption 2": ["RDR2"],
-    "Super Smash Bros.": ["Smash"],
-    "New York City": ["NYC", "New York", "NY"],
-    "Los Angeles": ["LA", "L.A."],
-    "United Kingdom": ["UK", "U.K."],
-    "United Arab Emirates": ["UAE"],
-    "DR Congo": ["DRC"],
-    "Manchester United": ["Man U", "Man Utd", "Man United", "MUFC"],
-    "Manchester City": ["Man City", "MCFC"],
-    "Tottenham Hotspur": ["Spurs", "THFC"],
-    "FC Barcelona": ["Barca", "Barça"],
-    "Wolverhampton Wanderers": ["Wolves"],
-    "Queens Park Rangers": ["QPR"],
-    "West Bromwich Albion": ["West Brom", "Albion"],
-    "Brighton & Hove Albion": ["Brighton", "Albion"],
-    "Philadelphia 76ers": ["Sixers"],
-    "San Francisco 49ers": ["Niners", "SF 49ers"],
-    "Oklahoma City Thunder": ["OKC"]
+    "Tom Clancy's Rainbow Six Siege": [
+      "R6",
+      "R6S",
+      "Siege",
+      "Rainbow Six",
+      "Rainbow 6 Siege"
+    ],
+    "Call of Duty": [
+      "CoD"
+    ],
+    "Call of Duty: Modern Warfare": [
+      "CoD MW",
+      "MW"
+    ],
+    "Grand Theft Auto": [
+      "GTA"
+    ],
+    "Grand Theft Auto V": [
+      "GTA5",
+      "GTAV"
+    ],
+    "World of Warcraft": [
+      "WoW"
+    ],
+    "League of Legends": [
+      "LoL"
+    ],
+    "Counter-Strike": [
+      "CS",
+      "CSGO",
+      "Counter Strike 2"
+    ],
+    "The Legend of Zelda": [
+      "LoZ"
+    ],
+    "Animal Crossing: New Horizons": [
+      "ACNH"
+    ],
+    "Red Dead Redemption 2": [
+      "RDR2"
+    ],
+    "Super Smash Bros.": [
+      "Smash"
+    ],
+    "New York City": [
+      "NYC",
+      "New York",
+      "NY"
+    ],
+    "Los Angeles": [
+      "LA",
+      "L.A."
+    ],
+    "United Kingdom": [
+      "UK",
+      "U.K."
+    ],
+    "United Arab Emirates": [
+      "UAE"
+    ],
+    "DR Congo": [
+      "DRC"
+    ],
+    "Manchester United": [
+      "Man U",
+      "Man Utd",
+      "Man United",
+      "MUFC"
+    ],
+    "Manchester City": [
+      "Man City",
+      "MCFC"
+    ],
+    "Tottenham Hotspur": [
+      "Spurs",
+      "THFC",
+      "Tottenham"
+    ],
+    "FC Barcelona": [
+      "Barca",
+      "Barça"
+    ],
+    "Wolverhampton Wanderers": [
+      "Wolves"
+    ],
+    "Queens Park Rangers": [
+      "QPR"
+    ],
+    "West Bromwich Albion": [
+      "West Brom",
+      "Albion"
+    ],
+    "Brighton & Hove Albion": [
+      "Brighton",
+      "Albion"
+    ],
+    "Philadelphia 76ers": [
+      "Sixers"
+    ],
+    "San Francisco 49ers": [
+      "Niners",
+      "SF 49ers"
+    ],
+    "Oklahoma City Thunder": [
+      "OKC"
+    ],
+    "Newcastle United": [
+      "Newcastle",
+      "Toon"
+    ],
+    "West Ham United": [
+      "West Ham"
+    ],
+    "Nottingham Forest": [
+      "Forest",
+      "Notts Forest"
+    ],
+    "Leeds United": [
+      "Leeds"
+    ],
+    "Paris Saint-Germain": [
+      "PSG",
+      "Paris SG"
+    ],
+    "Inter Milan": [
+      "Inter",
+      "Internazionale"
+    ],
+    "AC Milan": [
+      "Milan"
+    ],
+    "Bayern Munich": [
+      "Bayern",
+      "Bayern Munchen"
+    ],
+    "Borussia Dortmund": [
+      "Dortmund",
+      "BVB"
+    ],
+    "Borussia Mönchengladbach": [
+      "Gladbach",
+      "Monchengladbach"
+    ],
+    "Bayer Leverkusen": [
+      "Leverkusen"
+    ],
+    "RB Leipzig": [
+      "Leipzig"
+    ],
+    "Atlético Madrid": [
+      "Atletico",
+      "Atleti",
+      "Atletico Madrid"
+    ],
+    "Barcelona": [
+      "Barca",
+      "FC Barcelona"
+    ],
+    "Juventus": [
+      "Juve"
+    ],
+    "Olympique de Marseille": [
+      "Marseille",
+      "OM"
+    ],
+    "Marseille": [
+      "OM"
+    ],
+    "Olympique Lyonnais": [
+      "Lyon"
+    ],
+    "Lyon": [
+      "Olympique Lyonnais"
+    ],
+    "Athletic Bilbao": [
+      "Bilbao",
+      "Athletic Club"
+    ],
+    "Real Betis": [
+      "Betis"
+    ],
+    "Real Sociedad": [
+      "Sociedad"
+    ],
+    "Eintracht Frankfurt": [
+      "Frankfurt"
+    ],
+    "VfB Stuttgart": [
+      "Stuttgart"
+    ],
+    "Napoli": [
+      "SSC Napoli"
+    ]
   },
   "prompts": {}
 }

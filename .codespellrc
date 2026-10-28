@@ -1,3 +1,3 @@
 [codespell]
-skip = ./node_modules,./package-lock.json,./data/raw,./data/p,./data/prompts.json,./data/qa-report.json,./data/schedule.json,./data/index.json,./screenshots,./.git
+skip = ./node_modules,./tests/spelling.test.mjs,./tests/matcher.test.mjs,./package-lock.json,./data/raw,./data/p,./data/prompts.json,./data/qa-report.json,./data/schedule.json,./data/index.json,./screenshots,./.git
 ignore-words = .codespell-ignore
