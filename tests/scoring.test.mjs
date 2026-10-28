@@ -1,6 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { EVEREST, ROUNDS, targetFor, roundMetres, totalMetres, OVERFLOW_CAP } from '../js/scoring.js';
+import { verdict } from '../js/board.js';
 
 const share = EVEREST / ROUNDS;
 
@@ -21,4 +22,9 @@ test('answers past the target add a small, capped bonus', () => {
 test('the climb never goes past Everest', () => {
   assert.equal(totalMetres([share * 1.15, share * 1.15, share * 1.15, share * 1.15, share * 1.15]), EVEREST);
   assert.equal(totalMetres([100, 200]), 300);
+});
+test('verdicts are words, so colour is never the only signal', () => {
+  assert.equal(verdict(9, 10), 'Strong');
+  assert.equal(verdict(5, 10), 'Steady');
+  assert.equal(verdict(2, 10), 'Slow start');
 });

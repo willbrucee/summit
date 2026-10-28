@@ -24,7 +24,7 @@ function ring(found, total) {
   svg.setAttribute('class', 'board-ring');
   svg.setAttribute('aria-hidden', 'true');
   svg.innerHTML = `<circle cx="32" cy="32" r="${r}" fill="none" stroke="var(--paper-2)" stroke-width="9"/>
-    <circle cx="32" cy="32" r="${r}" fill="none" stroke="var(--glacier)" stroke-width="9" stroke-linecap="round"
+    <circle cx="32" cy="32" r="${r}" fill="none" stroke="var(--round, var(--glacier))" stroke-width="9" stroke-linecap="round"
       stroke-dasharray="${(share * c).toFixed(1)} ${c.toFixed(1)}" transform="rotate(-90 32 32)"/>
     <circle cx="32" cy="32" r="${r + 5}" fill="none" stroke="var(--ink)" stroke-width="2.5"/>
     <circle cx="32" cy="32" r="${r - 5}" fill="none" stroke="var(--ink)" stroke-width="2.5"/>`;
@@ -39,7 +39,9 @@ function timeline(times) {
   return bar;
 }
 
-export function renderBoard(root, prompt, round, { title } = {}) {
+// Each round has its own colour, carried by data-round on the board (see --r1 to --r5).
+export function renderBoard(root, prompt, round, { title, index } = {}) {
+  if (index !== undefined) root.dataset.round = String((index % 5) + 1);
   const found = new Set(round.found);
   const answers = prompt.answers;
   const total = answers.length;
@@ -136,7 +138,7 @@ export function renderRounds(root, prompts, rounds) {
   const holder = h('div', { className: 'board' });
   const show = (i) => {
     for (const b of tabs.children) b.setAttribute('aria-selected', String(Number(b.dataset.i) === i));
-    renderBoard(holder, prompts[i], rounds[i]);
+    renderBoard(holder, prompts[i], rounds[i], { index: i });
   };
   prompts.forEach((p, i) => {
     const b = h('button', { type: 'button', role: 'tab', className: 'board-tab', textContent: `Round ${i + 1}`, dataset: { i: String(i) } });
@@ -145,4 +147,23 @@ export function renderRounds(root, prompts, rounds) {
   });
   root.replaceChildren(tabs, holder);
   show(0);
+}
+
+// The verdict for a round, in words so colour is never the only signal.
+export function verdict(found, target) {
+  const r = target ? found / target : 0;
+  return r >= 0.8 ? 'Strong' : r >= 0.45 ? 'Steady' : 'Slow start';
+}
+
+// A round's result card: prompt, found count, a bar against the target, metres and a verdict.
+export function roundCard(prompt, round, i, metres, target, formatMetres) {
+  const n = round.found.length;
+  const share = target ? Math.min(1, n / target) : 0;
+  const word = verdict(n, target);
+  return h('article', { className: 'round-card', dataset: { round: String((i % 5) + 1), verdict: word.toLowerCase().replace(' ', '-') } },
+    h('p', { className: 'rc-top' }, h('span', { className: 'rc-num', textContent: `Round ${i + 1}` }), h('span', { className: 'rc-verdict', textContent: word })),
+    h('h3', { className: 'rc-prompt', textContent: prompt.text }),
+    h('p', { className: 'rc-found', textContent: prompt.finite ? `found ${n} of ${prompt.size}` : `found ${n}` }),
+    h('div', { className: 'rc-bar', role: 'img', ariaLabel: `${n} of a target of ${target}` }, h('i', { style: `width:${(share * 100).toFixed(1)}%` }), h('span', { className: 'rc-target', textContent: `target ${target}` })),
+    h('p', { className: 'rc-metres', textContent: `+${formatMetres(metres)}` }));
 }

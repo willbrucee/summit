@@ -13,6 +13,9 @@ const pairs = [
   ['ink', 'paper', 4.5], ['ink-soft', 'paper', 4.5], ['ink', 'signal', 4.5], ['paper', 'ink', 4.5],
   ['glacier', 'paper', 4.5], ['ink', 'found-bg', 4.5], ['ink', 'already-bg', 4.5], ['ink', 'wrong-bg', 4.5], ['ink-soft', 'paper-2', 4.5],
 ];
+// Round cards and the answer board: white on each round colour, ink on each tint.
+tokens.white = '#ffffff';
+for (let r = 1; r <= 5; r++) { pairs.push(['white', `r${r}`, 4.5], ['ink', `r${r}-tint`, 4.5], ['ink-soft', `r${r}-tint`, 4.5], [`r${r}`, 'paper', 3]); }
 // The Everest celebration and gold finish.
 pairs.push(['ink', 'gold', 4.5], ['gold-ink', 'gold', 4.5], ['paper', 'night', 4.5], ['ink', 'dawn-glow', 4.5]);
 for (const z of ['beach', 'coast', 'meadow', 'treeline', 'snow', 'death', 'summit']) {

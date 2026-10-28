@@ -58,7 +58,7 @@
 
         <div class="screen" id="result" hidden>
           <p class="eyebrow"><span class="tag">Camp</span><span id="result-prompt"></span></p>
-          <p class="result-big" id="result-found"></p>
+          <div id="result-card"></div>
           <p class="result-metres" id="result-metres"></p>
           <ul class="recap" id="result-recap"></ul>
           <div class="board" id="result-board"></div>
@@ -77,15 +77,15 @@
           <p class="eyebrow"><span class="tag" id="finish-day"></span><span>Your summit</span></p>
           <h1 class="finish-alt" id="finish-altitude"></h1>
           <p class="finish-title" id="finish-title"></p>
-          <p id="finish-mountain"></p>
+          <p class="callout" id="finish-callout"><svg class="callout-mark" viewBox="0 0 40 28" aria-hidden="true"><path d="M2 26 L16 6 L22 14 L27 8 L38 26 Z" fill="var(--signal)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/></svg><span id="finish-mountain"></span></p>
           <p class="k2-banner" id="finish-k2" hidden><svg viewBox="0 0 40 28" aria-hidden="true"><path d="M2 26 L16 6 L22 14 L27 8 L38 26 Z" fill="var(--m-snow)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/></svg><span>You passed K2, the savage mountain. Only Everest stands higher.</span></p>
           <p class="note"><span id="finish-next"></span> <span id="finish-temp"></span></p>
           <ul class="recap" id="finish-highlights"></ul>
-          <table class="rounds-table"><tbody id="finish-rows"></tbody></table>
+          <div class="round-cards" id="finish-rows"></div>
           <div class="stats" id="finish-stats">
-            <p class="stat"><b id="stat-streak"></b><span>day streak</span></p>
-            <p class="stat"><b id="stat-best"></b><span>best height</span></p>
-            <p class="stat"><b id="stat-played"></b><span>climbs</span></p>
+            <p class="stat"><span>Day streak</span><b id="stat-streak"></b></p>
+            <p class="stat"><span>Best height</span><b id="stat-best"></b></p>
+            <p class="stat"><span>Climbs</span><b id="stat-played"></b></p>
           </div>
           <section class="finish-board"><h2 class="unmatched-head">The answer boards</h2><div id="finish-board"></div></section>
           <div class="screen" id="share-box">

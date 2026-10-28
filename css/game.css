@@ -56,6 +56,13 @@
   --m-ice: #dbe7f2;      --m-ice-shade: #a5bad4;
   --m-sea: #16b5c1;      --m-sea-deep: #0b8fa6;
 
+  /* Round colours: a strong colour (white text passes AA on it) and a light tint (ink text) */
+  --r1: #0e7570; --r1-tint: #dff3ef;
+  --r2: #b4451f; --r2-tint: #fde6dc;
+  --r3: #3d6b1f; --r3-tint: #e6f2d9;
+  --r4: #2f5d9e; --r4-tint: #e0eaf7;
+  --r5: #8a5a00; --r5-tint: #fdf0cf;
+
   /* Summit celebration */
   --night: #0b1a38;
   --dawn: #ff8a4c;
@@ -110,8 +117,6 @@ p { margin: 0; }
   min-width: 0;
   min-height: 0;
   background-color: var(--paper);
-  /* Faint contour lines, the panel is an expedition map */
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240' viewBox='0 0 240 240'%3E%3Cg fill='none' stroke='%23e7e1cf' stroke-width='1.5'%3E%3Cpath d='M-20 60c40-30 80 10 120-10s70-40 160-5'/%3E%3Cpath d='M-20 100c50-25 90 15 130-5s60-35 150 0'/%3E%3Cpath d='M-20 150c45-20 85 20 135 0s65-30 145 5'/%3E%3Cpath d='M-20 200c40-25 95 15 140-5s60-30 140 0'/%3E%3C/g%3E%3C/svg%3E");
 }
 .panel-head {
   display: flex;
@@ -272,7 +277,6 @@ p { margin: 0; }
 
 /* ---------- Result ---------- */
 
-.result-big { font-family: var(--font-display); font-weight: 800; font-size: var(--step-3); line-height: 1; }
 .result-metres { font-weight: 700; }
 .missed { border: 2px dashed var(--ink-soft); border-radius: 8px; padding: var(--space-2) var(--space-3); }
 .missed summary { cursor: pointer; font-weight: 700; }
@@ -323,14 +327,10 @@ p { margin: 0; }
 
 .finish-alt { font-size: clamp(3rem, 9vw, 4.75rem); letter-spacing: -0.03em; }
 .finish-title { display: inline-block; background: var(--ink); color: var(--paper); padding: 2px 10px; font-weight: 700; transform: rotate(-1.5deg); align-self: flex-start; }
-.rounds-table { width: 100%; border-collapse: collapse; font-size: var(--step--1); }
-.rounds-table td { padding: 6px 4px; border-bottom: 2px solid var(--contour); vertical-align: top; }
-.rounds-table td:nth-child(n+2) { text-align: right; white-space: nowrap; font-variant-numeric: tabular-nums; }
-.rounds-table td:last-child { font-weight: 700; }
-.stats { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--space-2); }
-.stat { border-top: var(--line) solid var(--ink); padding-top: var(--space-1); }
-.stat b { display: block; font-family: var(--font-display); font-size: var(--step-2); line-height: 1.1; font-variant-numeric: tabular-nums; }
-.stat span { font-size: var(--step--1); color: var(--ink-soft); }
+.stats { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-2); }
+.stat { margin: 0; background: var(--paper); border: 2px solid var(--ink); border-radius: 8px 2px 8px 2px; padding: var(--space-2); display: flex; flex-direction: column; gap: 2px; min-width: 0; box-shadow: 3px 3px 0 var(--signal); }
+.stat b { display: block; font-family: var(--font-display); font-size: clamp(1.25rem, 5.5vw, var(--step-2)); line-height: 1.1; font-variant-numeric: tabular-nums; overflow-wrap: anywhere; }
+.stat span { font-size: 12px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--ink-soft); }
 .share-text { width: 100%; border: 2px solid var(--ink); border-radius: 8px; padding: var(--space-2); background: var(--paper); font-family: ui-monospace, monospace; font-size: var(--step--1); resize: vertical; }
 .next-puzzle { font-weight: 700; }
 .next-puzzle span { font-family: var(--font-display); font-variant-numeric: tabular-nums; }
@@ -495,6 +495,40 @@ p { margin: 0; }
   .countdown { font-size: 3.5rem; }
   .prompt-small { font-size: var(--step-1); }
 }
+
+/* ---------- Round colours, result cards, callout ---------- */
+[data-round="1"] { --round: var(--r1); --round-tint: var(--r1-tint); }
+[data-round="2"] { --round: var(--r2); --round-tint: var(--r2-tint); }
+[data-round="3"] { --round: var(--r3); --round-tint: var(--r3-tint); }
+[data-round="4"] { --round: var(--r4); --round-tint: var(--r4-tint); }
+[data-round="5"] { --round: var(--r5); --round-tint: var(--r5-tint); }
+
+.round-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 15rem), 1fr)); gap: var(--space-3); }
+.round-card {
+  background: var(--round-tint, var(--paper-2)); border: 2px solid var(--ink); border-top: 8px solid var(--round, var(--ink));
+  border-radius: 10px 3px 10px 3px; padding: var(--space-3); display: grid; gap: var(--space-1); min-width: 0;
+}
+.rc-top { display: flex; justify-content: space-between; align-items: center; gap: var(--space-2); font-size: var(--step--1); font-weight: 700; }
+.rc-num { text-transform: uppercase; letter-spacing: 0.06em; }
+.rc-verdict { background: var(--round, var(--ink)); color: #fff; padding: 1px 10px; border-radius: 999px; border: 2px solid var(--ink); }
+.round-card[data-verdict="slow-start"] .rc-verdict { background: var(--paper); color: var(--ink); border-style: dashed; }
+.rc-prompt { font-size: var(--step-0); line-height: 1.25; overflow-wrap: anywhere; }
+.rc-found { font-family: var(--font-display); font-weight: 800; font-size: var(--step-2); line-height: 1.1; }
+.rc-bar { position: relative; height: 18px; border: 2px solid var(--ink); border-radius: 999px; background: var(--paper); overflow: hidden; }
+.rc-bar i { display: block; height: 100%; background: var(--round, var(--glacier)); }
+.rc-target { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); font-size: 11px; font-weight: 700; background: var(--paper); padding: 0 4px; border-radius: 4px; }
+.rc-metres { justify-self: start; font-weight: 800; font-variant-numeric: tabular-nums; background: var(--ink); color: var(--paper); padding: 1px 10px; transform: rotate(-1.5deg); }
+
+.callout { display: flex; align-items: center; gap: var(--space-3); background: var(--paper-2); border: 2px solid var(--ink); border-radius: 10px 3px 10px 3px; padding: var(--space-2) var(--space-3); font-weight: 700; box-shadow: 3px 3px 0 var(--ink); }
+.callout-mark { width: 40px; height: 28px; flex: none; }
+
+/* Answer board in the round's colour: found tiles filled, misses outlined. */
+.board .tile.is-found { background: var(--round, var(--glacier)); color: #fff; border-color: var(--ink); box-shadow: 2px 2px 0 var(--ink); }
+.board .tile.is-found .tile-desc { color: #fff; }
+.board .tile.is-missed { border: 2px solid var(--round, var(--ink-soft)); background: var(--paper); }
+.board .board-group h3 { background: var(--round-tint, var(--paper-2)); border-left: 6px solid var(--round, var(--ink)); padding: 4px 8px; }
+.board .gb-bar i { background: var(--round, var(--glacier)); }
+.board .tile.is-found .tile-name::before { content: "✓ "; }
 
 /* ---------- Everest celebration ----------
    One sequence, about 4.5 seconds: flag planted with arms up, sunrise and aurora, a burst of
