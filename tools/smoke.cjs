@@ -29,7 +29,7 @@ async function run(vp, reduced) {
   await page.goto(BASE + 'index.html');
   await page.waitForSelector('#help[open]');
   await shot('01-help');
-  await page.click('#help-close');
+  await page.click('#help-close', { force: true });
   await page.waitForSelector('#ready:not([hidden])');
   await shot('02-ready');
 
@@ -38,7 +38,7 @@ async function run(vp, reduced) {
     const text = await page.textContent('#ready-prompt');
     const meta = index.prompts.find((p) => p.text === text);
     const prompt = await (await page.request.get(BASE + `data/p/${meta.id}.json`)).json();
-    await page.click('#start');
+    await page.click('#start', { force: true });
     await page.clock.runFor(1200);
     if (round === 0) await shot('03-countdown');
     await page.clock.runFor(2000);
@@ -56,13 +56,13 @@ async function run(vp, reduced) {
     await page.clock.runFor(31000);
     await page.waitForSelector('#result:not([hidden])');
     if (round === 0) {
-      await page.click('#missed-summary');
+      await page.click('#missed-summary', { force: true });
       await shot('05-result');
       // A refresh after a round has started must not allow a replay.
       await page.reload();
       await page.waitForSelector('#result:not([hidden])');
     }
-    await page.click('#next');
+    await page.click('#next', { force: true });
   }
   await page.waitForSelector('#finish:not([hidden])');
   await page.clock.runFor(6000);

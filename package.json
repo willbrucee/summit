@@ -7,6 +7,8 @@
     "fetch": "bash build/fetch-wikidata.sh",
     "spell": "node tools/spell.mjs",
     "simulate": "node tools/simulate.mjs",
-    "smoke": "node tools/smoke.cjs screenshots"
+    "smoke": "node tools/smoke.cjs screenshots",
+    "contrast": "node tools/contrast.mjs",
+    "shots": "node tools/shots.cjs screenshots"
   }
 }

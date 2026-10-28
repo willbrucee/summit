@@ -6,6 +6,7 @@ import { roundMetres, milestoneAt, nextMilestone, titleFor, formatMetres, temper
 import { load, save } from './store.js';
 import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
+import { createScene } from './scene.js';
 
 const $ = (id) => document.getElementById(id);
 // Modes come from the hash: #practice, or #test-<prompt id> from the QA page.
@@ -20,6 +21,21 @@ let game;
 let prompts = [];
 let indexes = [];
 let clock = null;
+const scene = createScene($('scene'));
+window.summitScene = scene; // for screenshots and the QA page
+
+// Altitudes where the climber camped: the end of each finished round.
+function camps() {
+  const out = [];
+  let total = 0;
+  game.rounds.forEach((r, i) => { if (r.status === 'done') { total += metresFor(i); out.push(total); } });
+  return out;
+}
+
+document.addEventListener('summit:ready', (e) => { scene.setAltitude(e.detail.altitude, true); scene.setCamps(camps()); });
+document.addEventListener('summit:climb', (e) => scene.climb(e.detail.from, e.detail.to, e.detail.gained));
+document.addEventListener('summit:round-end', () => scene.setCamps(camps()));
+document.addEventListener('summit:finish', (e) => { scene.setCamps(camps().slice(0, -1)); scene.setAltitude(e.detail.altitude, true); scene.plantFlag(e.detail.altitude); });
 
 // ---------- helpers ----------
 
@@ -36,7 +52,9 @@ function announce(text) {
 
 function show(screen) {
   for (const id of ['ready', 'play', 'result', 'finish', 'loading', 'error']) $(id).hidden = id !== screen;
+  $('guess-bar').hidden = screen !== 'play';
   document.body.dataset.screen = screen;
+  document.querySelector('.panel-body').scrollTop = 0;
 }
 
 function persist() {
@@ -93,7 +111,8 @@ async function init() {
     show('error');
     return;
   }
-  $('mode-label').textContent = MODE === 'daily' ? `Day ${game.day}` : MODE === 'practice' ? 'Practice climb' : 'Test round';
+  $('mode-label').textContent = MODE === 'daily' ? `Day ${game.day}` : MODE === 'practice' ? 'Practice' : 'Test round';
+  if (MODE !== 'daily') { $('mode-switch').textContent = "Today's climb"; $('mode-switch').href = '#daily'; }
   emit('ready', { altitude: altitude(game.current), mode: MODE });
   resume();
 }
@@ -121,6 +140,14 @@ function showReady() {
   $('ready-note').textContent = p.note;
   $('ready-note').hidden = !p.note;
   $('ready-size').textContent = p.finite ? `${p.size} to find. Aim for ${p.target}.` : `Aim for ${p.target}.`;
+  $('route').replaceChildren(...prompts.map((q, i) => {
+    const li = document.createElement('li');
+    const state = i < game.current ? 'done' : i === game.current ? 'now' : 'ahead';
+    li.className = 'is-' + state;
+    li.append(Object.assign(document.createElement('span'), { textContent: q.categoryName }));
+    li.append(Object.assign(document.createElement('span'), { className: 'metres', textContent: state === 'done' ? '+' + formatMetres(metresFor(i)) : state === 'now' ? 'Up next' : '' }));
+    return li;
+  }));
   show('ready');
   $('start').focus();
 }
@@ -339,11 +366,20 @@ function finish() {
   const isDaily = MODE === 'daily';
   const stats = isDaily ? recordGame(game.date, total) : getStats();
   $('finish-altitude').textContent = formatMetres(total);
+  $('finish-day').textContent = MODE === 'daily' ? `Day ${game.day}` : 'Practice';
+  $('finish-missed-list').replaceChildren(...prompts.map((p, i) => {
+    const missed = p.answers.filter((a) => !game.rounds[i].found.includes(a.id)).map((a) => a.label).sort((a, b) => a.localeCompare(b));
+    const box = document.createElement('div');
+    box.append(Object.assign(document.createElement('h3'), { textContent: `${p.text} (${missed.length})`, className: 'missed-head' }));
+    box.append(Object.assign(document.createElement('ul'), {}));
+    box.lastChild.append(...missed.map((m) => Object.assign(document.createElement('li'), { textContent: m })));
+    return box;
+  }));
   $('finish-mountain').textContent = total + 0.5 >= EVEREST ? 'You stood on top of Everest.'
     : reached.height === 0 ? 'Still at sea level.' : `Higher than ${reached.name} (${formatMetres(reached.height)}).`;
   $('finish-next').textContent = upNext && total + 0.5 < EVEREST ? `${formatMetres(upNext.height - total)} short of ${upNext.name}.` : '';
   $('finish-title').textContent = titleFor(total);
-  $('finish-temp').textContent = `${Math.round(temperatureAt(total))} °C up here`;
+  $('finish-temp').textContent = `It is ${Math.round(temperatureAt(total))} °C up here.`;
   const rows = prompts.map((p, i) => {
     const tr = document.createElement('tr');
     const cells = [p.text, p.finite ? `${game.rounds[i].found.length} of ${p.size}` : String(game.rounds[i].found.length), '+' + formatMetres(metresFor(i))];
@@ -399,13 +435,30 @@ async function copyShare() {
 $('start').addEventListener('click', startRound);
 $('guess-form').addEventListener('submit', (e) => { e.preventDefault(); submitGuess(); });
 $('guess').addEventListener('input', onInput);
+// The Add button must not take focus from the box, or the phone keyboard drops.
+$('guess-send').addEventListener('pointerdown', (e) => e.preventDefault());
 $('next').addEventListener('click', next);
 $('copy-share').addEventListener('click', copyShare);
+$('share').addEventListener('click', copyShare);
+$('save-card').hidden = true;
 // Keep the box focused while playing, so the phone keyboard stays up.
 $('play').addEventListener('pointerup', () => { if (!$('guess').disabled) $('guess').focus(); });
 document.addEventListener('visibilitychange', () => {
   if (document.visibilityState === 'visible' && game && current() && current().status === 'playing' && Date.now() >= current().startedAt + ROUND_MS) endRound();
 });
+
+// Fit the app to the visible area, so an open phone keyboard never covers the climber or the box.
+function fitViewport() {
+  const vv = window.visualViewport;
+  const h = vv ? vv.height : window.innerHeight;
+  document.documentElement.style.setProperty('--app-height', `${Math.round(h)}px`);
+  if (vv && vv.offsetTop) window.scrollTo(0, 0);
+}
+if (window.visualViewport) {
+  window.visualViewport.addEventListener('resize', fitViewport);
+  window.visualViewport.addEventListener('scroll', fitViewport);
+}
+fitViewport();
 
 const help = $('help');
 $('help-open').addEventListener('click', () => help.showModal());
