@@ -9,7 +9,11 @@ const data = JSON.parse(readFileSync(new URL('../data/prompts.json', import.meta
 const lines = [];
 for (const p of data.prompts) {
   lines.push(`[${p.id}] ${p.text}`, `[${p.id}] ${p.note}`);
-  for (const a of p.answers) lines.push(`[${p.id}] ${[a.label, ...a.aliases].join(' | ')}`);
+  // Curated text only. Wikidata aliases include common misspellings on purpose, so players are accepted.
+  for (const a of p.answers) {
+    const src = (a.src || '').split(' ');
+    lines.push(`[${p.id}] ${[a.label, ...a.aliases.filter((_, i) => !/^[wag]/.test(src[i] || ''))].join(' | ')}`);
+  }
 }
 const dir = mkdtempSync(join(tmpdir(), 'summit-spell-'));
 const file = join(dir, 'labels.txt');
