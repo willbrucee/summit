@@ -1,0 +1,2966 @@
+{
+ "errors": [],
+ "prompts": [
+  {
+   "id": "countries-africa",
+   "collisions": [
+    {
+     "alias": "congo",
+     "answers": [
+      "Republic of the Congo",
+      "DR Congo"
+     ]
+    }
+   ],
+   "near": [
+    "Republic of the Congo / DR Congo",
+    "Gambia / Zambia"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-europe",
+   "collisions": [],
+   "near": [
+    "Iceland / Ireland",
+    "Slovakia / Slovenia"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-asia",
+   "collisions": [
+    {
+     "alias": "korea",
+     "answers": [
+      "North Korea",
+      "South Korea"
+     ]
+    }
+   ],
+   "near": [
+    "North Korea / South Korea",
+    "North Korea / South Korea"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-americas",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-world",
+   "collisions": [
+    {
+     "alias": "congo",
+     "answers": [
+      "Republic of the Congo",
+      "DR Congo"
+     ]
+    },
+    {
+     "alias": "korea",
+     "answers": [
+      "North Korea",
+      "South Korea"
+     ]
+    }
+   ],
+   "near": [
+    "Republic of the Congo / DR Congo",
+    "Gambia / Zambia",
+    "Iceland / Ireland",
+    "North Korea / South Korea",
+    "North Korea / South Korea",
+    "Slovakia / Slovenia"
+   ],
+   "nearCount": 6,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-landlocked",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-mediterranean",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "countries-eu",
+   "collisions": [],
+   "near": [
+    "Slovakia / Slovenia"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "capitals-world",
+   "collisions": [],
+   "near": [
+    "Praia / Prague",
+    "Kingston / Kingstown"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "capitals-europe",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "capitals-asia",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "capitals-africa",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "us-states",
+   "collisions": [],
+   "near": [
+    "North Dakota / South Dakota",
+    "North Carolina / South Carolina"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "us-state-capitals",
+   "collisions": [],
+   "near": [
+    "Columbus / Columbia"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "australian-cities",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "rivers",
+   "collisions": [],
+   "near": [
+    "Volga / Volta",
+    "Rhine / Rhone"
+   ],
+   "nearCount": 2,
+   "suspicious": [
+    "Ob: very short",
+    "Po: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "seas-oceans",
+   "collisions": [],
+   "near": [
+    "Baltic Sea / Celtic Sea",
+    "Coral Sea / Ceram Sea"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "islands",
+   "collisions": [],
+   "near": [
+    "South Island / North Island",
+    "Iceland / Ireland"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "animals",
+   "collisions": [
+    {
+     "alias": "buffalo",
+     "answers": [
+      "Water buffalo",
+      "African buffalo"
+     ]
+    },
+    {
+     "alias": "roach",
+     "answers": [
+      "Roach",
+      "Cockroach"
+     ]
+    }
+   ],
+   "near": [
+    "Beaver / Weaver",
+    "Water buffalo / African buffalo",
+    "Dog / Guppy",
+    "Donkey / Monkey",
+    "Arctic hare / Char",
+    "Marten / Martin",
+    "Moose / Mouse",
+    "Moose / Goose",
+    "Mouse / Louse",
+    "Opossum / Possum",
+    "Porpoise / Tortoise",
+    "Skunk / Skink",
+    "Red squirrel / Grey squirrel",
+    "Woodchuck / Woodcock",
+    "Woodchuck / Wood duck",
+    "Chicken / Mackerel",
+    "Corncrake / Corn snake",
+    "Dipper / Kipper",
+    "Goldfinch / Goldfish",
+    "Lovebird / Lyrebird",
+    "Lovebird / Ovenbird",
+    "Martin / Marlin",
+    "Merlin / Marlin",
+    "Pigeon / Wigeon",
+    "Woodcock / Wood duck",
+    "Kingfisher / Kingfish",
+    "Coral snake / Corn snake",
+    "Slow worm / Glow-worm",
+    "Sea snake / Sea snail",
+    "Angelfish / Anglerfish",
+    "Blobfish / Bluefish",
+    "Blobfish / Pufferfish",
+    "Bluefish / Pufferfish",
+    "Brill / Krill",
+    "Clownfish / Pufferfish",
+    "Garfish / Oarfish",
+    "Goldfish / Toadfish",
+    "Lionfish / Opah",
+    "Lungfish / Kingfish",
+    "Monkfish / Opah",
+    "Roach / Loach",
+    "Roach / Cockroach",
+    "Pipefish / Viperfish",
+    "Pipefish / Tilefish",
+    "Great white shark / Whale shark",
+    "Bull shark / Blue shark",
+    "Loach / Cockroach",
+    "Housefly / Horsefly",
+    "Stick insect / Shield bug"
+   ],
+   "nearCount": 49,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "mammals",
+   "collisions": [
+    {
+     "alias": "buffalo",
+     "answers": [
+      "Water buffalo",
+      "African buffalo"
+     ]
+    }
+   ],
+   "near": [
+    "Water buffalo / African buffalo",
+    "Donkey / Monkey",
+    "Moose / Mouse",
+    "Opossum / Possum",
+    "Red squirrel / Grey squirrel"
+   ],
+   "nearCount": 5,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "ocean-mammals",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "birds",
+   "collisions": [],
+   "near": [
+    "Lovebird / Lyrebird",
+    "Lovebird / Ovenbird",
+    "Pigeon / Wigeon",
+    "Woodcock / Wood duck"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "dog-breeds",
+   "collisions": [],
+   "near": [
+    "Dalmatian / German shepherd"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "cat-breeds",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "insects",
+   "collisions": [],
+   "near": [
+    "Housefly / Horsefly",
+    "Stick insect / Shield bug"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "reptiles",
+   "collisions": [],
+   "near": [
+    "Coral snake / Corn snake"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "fish",
+   "collisions": [],
+   "near": [
+    "Angelfish / Anglerfish",
+    "Blobfish / Bluefish",
+    "Blobfish / Pufferfish",
+    "Bluefish / Pufferfish",
+    "Clownfish / Pufferfish",
+    "Garfish / Oarfish",
+    "Goldfish / Toadfish",
+    "Lionfish / Opah",
+    "Lungfish / Kingfish",
+    "Monkfish / Opah",
+    "Roach / Loach",
+    "Pipefish / Viperfish",
+    "Pipefish / Tilefish",
+    "Great white shark / Whale shark",
+    "Bull shark / Blue shark"
+   ],
+   "nearCount": 15,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "sea-creatures",
+   "collisions": [],
+   "near": [
+    "Sea snail / Sea snake",
+    "Clownfish / Pufferfish",
+    "Pufferfish / Blobfish"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "dinosaurs",
+   "collisions": [],
+   "near": [
+    "Camarasaurus / Amargasaurus",
+    "Kentrosaurus / Centrosaurus",
+    "Spinosaurus / Shunosaurus",
+    "Torosaurus / Nodosaurus",
+    "Torosaurus / Tarbosaurus",
+    "Chasmosaurus / Elasmosaurus"
+   ],
+   "nearCount": 6,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "horse-breeds",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "trees",
+   "collisions": [],
+   "near": [
+    "Alder / Elder",
+    "Kauri / Karri"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "flowers",
+   "collisions": [],
+   "near": [
+    "Campanula / Wallflower",
+    "Canna / Calla lily",
+    "Cornflower / Coneflower"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "houseplants",
+   "collisions": [],
+   "near": [
+    "String of pearls / String of hearts"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "gemstones",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "rocks",
+   "collisions": [],
+   "near": [
+    "Rhyolite / Phyllite",
+    "Dolerite / Dolomite",
+    "Pegmatite / Migmatite"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "weather",
+   "collisions": [],
+   "near": [
+    "Hailstorm / Rainstorm"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "disasters",
+   "collisions": [],
+   "near": [
+    "Ice storm / Firestorm",
+    "Sandstorm / Windstorm"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "volcanoes",
+   "collisions": [],
+   "near": [
+    "Mauna Loa / Mauna Kea"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "deserts",
+   "collisions": [],
+   "near": [
+    "Western Desert / Eastern Desert"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "mountains",
+   "collisions": [],
+   "near": [
+    "Mount Hood / Aoraki",
+    "Mount Elgon / Mount Pelion",
+    "Mauna Kea / Mauna Loa",
+    "Mount Ida / Mount Hua"
+   ],
+   "nearCount": 4,
+   "suspicious": [
+    "K2: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "elements",
+   "collisions": [],
+   "near": [
+    "Beryllium / Berkelium",
+    "Caesium / Cerium",
+    "Cerium / Curium",
+    "Terbium / Erbium"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "metals",
+   "collisions": [],
+   "near": [
+    "Beryllium / Berkelium",
+    "Caesium / Cerium",
+    "Cerium / Curium",
+    "Terbium / Erbium"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "element-symbols",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "units",
+   "collisions": [],
+   "near": [
+    "Millimetre / Millilitre",
+    "Millimetre / Millilitre",
+    "Megahertz / Gigahertz",
+    "Megabyte / Gigabyte",
+    "Megabyte / Terabyte",
+    "Megabyte / Petabyte",
+    "Terabyte / Petabyte"
+   ],
+   "nearCount": 7,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "scientists",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "particles",
+   "collisions": [],
+   "near": [
+    "Proton / Photon",
+    "Electron / Selectron",
+    "Photon / Phonon",
+    "Neutrino / Neutralino",
+    "Quark / Squark",
+    "W boson / Z boson",
+    "W boson / Boson",
+    "Z boson / Boson",
+    "Graviton / Gravitino",
+    "Kaon / Meson",
+    "Fermion / Sfermion"
+   ],
+   "nearCount": 11,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "shapes",
+   "collisions": [],
+   "near": [
+    "Pentagon / Heptagon",
+    "Pentagon / Heptagon",
+    "Hendecagon / Dodecagon"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "lab-equipment",
+   "collisions": [],
+   "near": [
+    "Calorimeter / Colorimeter",
+    "Calorimeter / Colorimeter",
+    "Manometer / Barometer"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "quantities",
+   "collisions": [],
+   "near": [
+    "Weight / Height",
+    "Conductance / Inductance"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "compounds",
+   "collisions": [],
+   "near": [
+    "Methane / Ethane",
+    "Ethane / Ethylene",
+    "Ethane / Acetylene",
+    "Ethanol / Methanol",
+    "Ethanol / Methanol",
+    "Nitric acid / Citric acid",
+    "Acetic acid / Lactic acid",
+    "Formic acid / Boric acid",
+    "Sodium bicarbonate / Sodium carbonate",
+    "Ethylene / Acetylene"
+   ],
+   "nearCount": 10,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "moons",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "Io: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "constellations",
+   "collisions": [],
+   "near": [
+    "Canis Major / Canis Minor",
+    "Corona Australis / Corona Borealis",
+    "Corona Australis / Crux",
+    "Corona Borealis / Cygnus",
+    "Crux / Cygnus",
+    "Lepus / Lupus",
+    "Ursa Major / Ursa Minor"
+   ],
+   "nearCount": 7,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": {
+    "wikidataOnly": [
+     "Sah",
+     "Q2429974 (no English label)",
+     "Q4158896 (no English label)",
+     "Gladii Electorales Saxonici",
+     "Q10725612 (no English label)",
+     "Left Wall of the Heavenly Market Enclosure",
+     "Gladii Electorales Saxonici",
+     "Sciurus Volans",
+     "Marmor Sculptile",
+     "Yakana",
+     "Anta do Norte"
+    ],
+    "curatedOnly": [
+     "Aries",
+     "Cancer"
+    ]
+   }
+  },
+  {
+   "id": "astronauts",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "missions",
+   "collisions": [],
+   "near": [
+    "Apollo 11 / Apollo 13",
+    "Apollo 11 / Apollo 1",
+    "Apollo 11 / Apollo 12",
+    "Apollo 11 / Apollo 14",
+    "Apollo 11 / Apollo 15",
+    "Apollo 11 / Apollo 16",
+    "Apollo 11 / Apollo 17",
+    "Apollo 13 / Apollo 1",
+    "Apollo 13 / Apollo 12",
+    "Apollo 13 / Apollo 14",
+    "Apollo 13 / Apollo 15",
+    "Apollo 13 / Apollo 16",
+    "Apollo 13 / Apollo 17",
+    "Apollo 8 / Apollo 1",
+    "Apollo 8 / Apollo program",
+    "Apollo 1 / Apollo 12",
+    "Apollo 1 / Apollo 14",
+    "Apollo 1 / Apollo 15",
+    "Apollo 1 / Apollo 16",
+    "Apollo 1 / Apollo 17",
+    "Apollo 1 / Apollo program",
+    "Apollo 12 / Apollo 14",
+    "Apollo 12 / Apollo 15",
+    "Apollo 12 / Apollo 16",
+    "Apollo 12 / Apollo 17",
+    "Apollo 14 / Apollo 15",
+    "Apollo 14 / Apollo 16",
+    "Apollo 14 / Apollo 17",
+    "Apollo 15 / Apollo 16",
+    "Apollo 15 / Apollo 17",
+    "Apollo 16 / Apollo 17",
+    "Artemis / Artemis I",
+    "Artemis / Artemis I",
+    "Artemis / Artemis II",
+    "Artemis I / Artemis II",
+    "Artemis I / Artemis II",
+    "Artemis I / Artemis II",
+    "Artemis I / Artemis II",
+    "Sputnik / Sputnik 2",
+    "Sputnik / Sputnik 2",
+    "Voyager 1 / Voyager 2",
+    "Voyager 1 / Voyager",
+    "Voyager 2 / Voyager",
+    "Pioneer 10 / Pioneer 11",
+    "Viking 1 / Viking 2",
+    "Viking 1 / Viking 2",
+    "Mariner 4 / Mariner 9",
+    "Mariner 4 / Mariner 10",
+    "Mariner 4 / Mariner 9",
+    "Mariner 9 / Mariner 10",
+    "Luna 2 / Luna 9",
+    "Hayabusa / Hayabusa2",
+    "Chandrayaan / Chandrayaan-3",
+    "Chandrayaan / Chandrayaan-3",
+    "Chang'e / Chang'e 4"
+   ],
+   "nearCount": 55,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "stars",
+   "collisions": [],
+   "near": [
+    "Altair / Alnair",
+    "Acrux / Gacrux"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "galaxies",
+   "collisions": [],
+   "near": [
+    "Andromeda / Andromeda II",
+    "Andromeda / Andromeda II",
+    "Maffei 1 / Maffei 2"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "space-agencies",
+   "collisions": [],
+   "near": [
+    "UK Space Agency / UAE Space Agency",
+    "ASI / Iranian Space Agency"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "rockets",
+   "collisions": [],
+   "near": [
+    "Saturn V / Saturn I",
+    "Saturn V / Saturn I",
+    "Saturn V / Saturn I",
+    "Saturn V / Saturn I",
+    "Saturn IB / Saturn I",
+    "Falcon 9 / Falcon 1",
+    "Atlas V / Atlas",
+    "Atlas V / Atlas",
+    "Delta IV / Delta II",
+    "Delta IV / Delta II",
+    "Titan II / Titan IV",
+    "Titan II / Titan IV",
+    "Titan II / Titan",
+    "Titan IV / Titan",
+    "Ariane 5 / Ariane 6",
+    "Ariane 5 / Ariane 4",
+    "Ariane 5 / Ariane",
+    "Ariane 6 / Ariane 4",
+    "Ariane 6 / Ariane",
+    "Ariane 4 / Ariane",
+    "Long March / Long March 5"
+   ],
+   "nearCount": 21,
+   "suspicious": [
+    "N1: very short",
+    "R-7: very short",
+    "H3: very short",
+    "V-2: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "solar-system",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "Io: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "space-words",
+   "collisions": [],
+   "near": [
+    "Spacecraft / Space suit"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "fruits",
+   "collisions": [],
+   "near": [
+    "Mulberry / Bilberry",
+    "Barberry / Bilberry",
+    "Barberry / Tayberry"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "vegetables",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "herbs-spices",
+   "collisions": [],
+   "near": [
+    "Coriander / Culantro"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "cheeses",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "pasta",
+   "collisions": [],
+   "near": [
+    "Spaghetti / Spaghettini",
+    "Tortellini / Tortelloni",
+    "Tortellini / Tortelli",
+    "Tortelloni / Tortelli",
+    "Tagliolini / Tagliarini",
+    "Tagliolini / Tagliarini"
+   ],
+   "nearCount": 6,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "cocktails",
+   "collisions": [],
+   "near": [
+    "Godfather / Godmother"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "breads",
+   "collisions": [],
+   "near": [
+    "Rye bread / Fry bread"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "desserts",
+   "collisions": [],
+   "near": [
+    "Macaron / Macaroon"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "nuts",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "coffee",
+   "collisions": [],
+   "near": [
+    "Cappuccino / Frappuccino"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "indian-dishes",
+   "collisions": [],
+   "near": [
+    "Pani puri / Dahi puri"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "teas",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "sauces",
+   "collisions": [],
+   "near": [
+    "Mustard / Custard",
+    "Soy sauce / Hot sauce",
+    "Ranch / Vinaigrette"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "instruments",
+   "collisions": [],
+   "near": [
+    "Bagpipes / Panpipes",
+    "Clarinet / Clavinet",
+    "Harmonica / Harmonium",
+    "Xylophone / Stylophone"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "genres",
+   "collisions": [],
+   "near": [
+    "Soft rock / Post-rock",
+    "Afrobeat / Afrobeats",
+    "A cappella / Acapella"
+   ],
+   "nearCount": 3,
+   "suspicious": [
+    "Oi: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "composers",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "bands",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "U2: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "musical-terms",
+   "collisions": [],
+   "near": [
+    "A tempo / Tempo",
+    "Crescendo / Diminuendo"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "beatles-songs",
+   "collisions": [],
+   "near": [
+    "Revolution / Revolution 1",
+    "Revolution / Revolution 9",
+    "Revolution 1 / Revolution 9"
+   ],
+   "nearCount": 3,
+   "suspicious": [
+    "I Want You (She's So Heavy): has brackets",
+    "Anna (Go to Him): has brackets",
+    "Money (That's What I Want): has brackets"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "percussion",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "string-instruments",
+   "collisions": [],
+   "near": [
+    "Dombra / Domra"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "one-name-musicians",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "RM: very short",
+    "IU: very short",
+    "CL: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "musicals",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "dances",
+   "collisions": [],
+   "near": [
+    "Rumba / Zumba",
+    "Barn dance / Rain dance"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "pixar",
+   "collisions": [],
+   "near": [
+    "Toy Story / Toy Story 2",
+    "Toy Story / Toy Story 3",
+    "Toy Story / Toy Story 4",
+    "Toy Story / Toy Story 5",
+    "Toy Story 2 / Toy Story 3",
+    "Toy Story 2 / Toy Story 4",
+    "Toy Story 2 / Toy Story 5",
+    "The Incredibles / Incredibles 2",
+    "Toy Story 3 / Toy Story 4",
+    "Toy Story 3 / Toy Story 5",
+    "Cars 2 / Cars 3",
+    "Inside Out / Inside Out 2",
+    "Toy Story 4 / Toy Story 5"
+   ],
+   "nearCount": 13,
+   "suspicious": [
+    "Up: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "disney-animated",
+   "collisions": [],
+   "near": [
+    "Frozen / Frozen II",
+    "Zootopia / Zootopia 2",
+    "Zootopia / Zootopia 2",
+    "Moana / Moana 2"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "best-picture",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "mcu-films",
+   "collisions": [],
+   "near": [
+    "Iron Man / Iron Man 2",
+    "Iron Man / Iron Man 3",
+    "Iron Man 2 / Iron Man 3",
+    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 2",
+    "Guardians of the Galaxy / Guardians of the Galaxy Vol. 3",
+    "Doctor Strange / Doctor Strange in the Multiverse of Madness",
+    "Guardians of the Galaxy Vol. 2 / Guardians of the Galaxy Vol. 3",
+    "Guardians of the Galaxy Vol. 2 / Guardians of the Galaxy Vol. 3"
+   ],
+   "nearCount": 8,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "ghibli",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "bond-films",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "pokemon-gen1",
+   "collisions": [
+    {
+     "alias": "nidoran",
+     "answers": [
+      "Nidoran female",
+      "Nidoran male"
+     ]
+    }
+   ],
+   "near": [
+    "Nidoran female / Nidoran male",
+    "Nidoran female / Nidoran male",
+    "Nidorina / Nidorino",
+    "Nidorina / Nidoking",
+    "Nidorino / Nidoking",
+    "Jigglypuff / Wigglytuff"
+   ],
+   "nearCount": 6,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "star-wars",
+   "collisions": [],
+   "near": [
+    "Lando Calrissian / Din Djarin",
+    "Vice Admiral Holdo / Hondo Ohnaka"
+   ],
+   "nearCount": 2,
+   "suspicious": [
+    "DJ: very short",
+    "KB: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "simpsons",
+   "collisions": [],
+   "near": [
+    "Marge Simpson / Maggie Simpson",
+    "Ned Flanders / Rod Flanders",
+    "Rod Flanders / Todd Flanders"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "sitcoms",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "superheroes",
+   "collisions": [],
+   "near": [
+    "Spider-Man / Spider-Woman",
+    "Ghost Rider / Spider-Gwen",
+    "Batwoman / Catwoman",
+    "Starfire / Stargirl"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "shakespeare",
+   "collisions": [
+    {
+     "alias": "henryiv",
+     "answers": [
+      "Henry IV, Part 1",
+      "Henry IV, Part 2"
+     ]
+    },
+    {
+     "alias": "henry4",
+     "answers": [
+      "Henry IV, Part 1",
+      "Henry IV, Part 2"
+     ]
+    },
+    {
+     "alias": "henryvi",
+     "answers": [
+      "Henry VI, Part 1",
+      "Henry VI, Part 2",
+      "Henry VI, Part 3"
+     ]
+    },
+    {
+     "alias": "henry6",
+     "answers": [
+      "Henry VI, Part 1",
+      "Henry VI, Part 2",
+      "Henry VI, Part 3"
+     ]
+    }
+   ],
+   "near": [
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 3",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 3",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry V",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 3",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 3",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry IV, Part 2",
+    "Henry IV, Part 1 / Henry V",
+    "Henry IV, Part 1 / Henry V",
+    "Henry IV, Part 1 / Henry VI, Part 1",
+    "Henry IV, Part 1 / Henry VI, Part 2",
+    "Henry IV, Part 1 / Henry VI, Part 3",
+    "Henry IV, Part 1 / Henry VIII",
+    "Henry IV, Part 2 / Henry VI, Part 1",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 3",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 1",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 3",
+    "Henry IV, Part 2 / Henry V",
+    "Henry IV, Part 2 / Henry VI, Part 1",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 3",
+    "Henry IV, Part 2 / Henry VI, Part 1",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 3",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry VI, Part 2",
+    "Henry IV, Part 2 / Henry V",
+    "Henry IV, Part 2 / Henry V",
+    "Henry IV, Part 2 / Henry VI, Part 1",
+    "Henry IV, Part 2 / Henry VI, Part 2"
+   ],
+   "nearCount": 109,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "roald-dahl",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "harry-potter",
+   "collisions": [],
+   "near": [
+    "Lord Voldemort / Tom Riddle Sr",
+    "Molly Weasley / Arthur Weasley",
+    "Barty Crouch Jr / Barty Crouch",
+    "Barty Crouch Jr / Barty Crouch"
+   ],
+   "nearCount": 4,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "art-movements",
+   "collisions": [],
+   "near": [
+    "Impressionism / Expressionism",
+    "Neo-Impressionism / Neo-expressionism",
+    "Pop art / Op art"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "painters",
+   "collisions": [],
+   "near": [
+    "Anthony van Dyck / Jan van Eyck",
+    "Edouard Manet / Claude Monet"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "paintings",
+   "collisions": [],
+   "near": [
+    "The Nightmare / The Night Cafe"
+   ],
+   "nearCount": 1,
+   "suspicious": [
+    "A Sunday Afternoon on the Island of La Grande Jatte: very long",
+    "Self-Portrait with Thorn Necklace and Hummingbird: very long",
+    "Where Do We Come From? What Are We? Where Are We Going?: very long",
+    "Portrait of an Artist (Pool with Two Figures): has brackets"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "authors",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "lotr",
+   "collisions": [],
+   "near": [
+    "Bifur / Bofur",
+    "Hurin / Turin Turambar",
+    "Hurin / Durin",
+    "Turin Turambar / Durin",
+    "Otho Sackville-Baggins / Lotho Sackville-Baggins"
+   ],
+   "nearCount": 5,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "poets",
+   "collisions": [],
+   "near": [
+    "John Keats / W. B. Yeats"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "literary-genres",
+   "collisions": [],
+   "near": [
+    "Non-fiction / Fan fiction"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "dickens",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "Jo: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "us-presidents",
+   "collisions": [
+    {
+     "alias": "adams",
+     "answers": [
+      "John Adams",
+      "John Quincy Adams"
+     ]
+    },
+    {
+     "alias": "harrison",
+     "answers": [
+      "William Henry Harrison",
+      "Benjamin Harrison"
+     ]
+    },
+    {
+     "alias": "johnson",
+     "answers": [
+      "Andrew Johnson",
+      "Lyndon B. Johnson"
+     ]
+    },
+    {
+     "alias": "roosevelt",
+     "answers": [
+      "Theodore Roosevelt",
+      "Franklin D. Roosevelt"
+     ]
+    },
+    {
+     "alias": "bush",
+     "answers": [
+      "George H. W. Bush",
+      "George W. Bush"
+     ]
+    },
+    {
+     "alias": "georgebush",
+     "answers": [
+      "George H. W. Bush",
+      "George W. Bush"
+     ]
+    }
+   ],
+   "near": [
+    "John Adams / John Quincy Adams",
+    "William Henry Harrison / Benjamin Harrison",
+    "Andrew Johnson / Lyndon B. Johnson",
+    "Theodore Roosevelt / Franklin D. Roosevelt",
+    "George H. W. Bush / George W. Bush",
+    "George H. W. Bush / George W. Bush",
+    "George H. W. Bush / George W. Bush",
+    "George H. W. Bush / George W. Bush",
+    "George H. W. Bush / George W. Bush"
+   ],
+   "nearCount": 9,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": {
+    "wikidataOnly": [],
+    "curatedOnly": []
+   }
+  },
+  {
+   "id": "uk-prime-ministers",
+   "collisions": [
+    {
+     "alias": "grenville",
+     "answers": [
+      "George Grenville",
+      "William Grenville"
+     ]
+    },
+    {
+     "alias": "williampitt",
+     "answers": [
+      "William Pitt the Elder",
+      "William Pitt the Younger"
+     ]
+    },
+    {
+     "alias": "pitt",
+     "answers": [
+      "William Pitt the Elder",
+      "William Pitt the Younger"
+     ]
+    }
+   ],
+   "near": [
+    "Spencer Compton / Arthur Wellesley",
+    "George Grenville / William Grenville",
+    "William Pitt the Elder / William Petty",
+    "William Pitt the Elder / William Pitt the Younger",
+    "William Petty / William Pitt the Younger"
+   ],
+   "nearCount": 5,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": {
+    "wikidataOnly": [
+     "Andy Burnham",
+     "Basil Feilding, 6th Earl of Denbigh"
+    ],
+    "curatedOnly": [
+     "William Pitt the Elder"
+    ]
+   }
+  },
+  {
+   "id": "roman-emperors",
+   "collisions": [
+    {
+     "alias": "gordian",
+     "answers": [
+      "Gordian I",
+      "Gordian II",
+      "Gordian III"
+     ]
+    },
+    {
+     "alias": "valentinian",
+     "answers": [
+      "Valentinian I",
+      "Valentinian II",
+      "Valentinian III"
+     ]
+    },
+    {
+     "alias": "theodosius",
+     "answers": [
+      "Theodosius I",
+      "Theodosius II"
+     ]
+    }
+   ],
+   "near": [
+    "Claudius / Claudius Gothicus",
+    "Claudius / Claudius Gothicus",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian III",
+    "Gordian I / Gordian III",
+    "Gordian I / Gordian III",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian III",
+    "Gordian I / Gordian III",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian II",
+    "Gordian I / Gordian III",
+    "Gordian I / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Gordian II / Gordian III",
+    "Constantius I / Constantine the Great",
+    "Constantius I / Constantius II",
+    "Constantius I / Constantius II",
+    "Constantius I / Constantius III",
+    "Constantius I / Constantius III",
+    "Constantius I / Constantine the Great",
+    "Constantius I / Constantius II",
+    "Constantius I / Constantius II",
+    "Constantius I / Constantius III",
+    "Constantine the Great / Constantine II",
+    "Constantine the Great / Constantine II",
+    "Constantine the Great / Constantine II",
+    "Constantine the Great / Constantine II",
+    "Constantine the Great / Constantine II",
+    "Constantine the Great / Constantine II",
+    "Constantine II / Constantius II",
+    "Constantine II / Constantius II",
+    "Constantius II / Constantius III",
+    "Constantius II / Constantius III",
+    "Constantius II / Constantius III",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian III",
+    "Valentinian I / Valentinian III",
+    "Valentinian I / Valentinian III",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian III",
+    "Valentinian I / Valentinian III",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian II",
+    "Valentinian I / Valentinian III",
+    "Valentinian I / Valentinian III",
+    "Valentinian II / Valentinian III"
+   ],
+   "nearCount": 75,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "pharaohs",
+   "collisions": [],
+   "near": [
+    "Pepi I / Pepi II",
+    "Pepi I / Pepi II",
+    "Pepi I / Pepi II",
+    "Amenemhat I / Amenemhat II",
+    "Amenemhat I / Amenemhat II",
+    "Amenemhat I / Amenemhat III",
+    "Amenemhat I / Amenemhat III",
+    "Amenemhat I / Amenemhat II",
+    "Amenemhat I / Amenemhat II",
+    "Amenemhat I / Amenemhat III",
+    "Senusret I / Senusret II",
+    "Senusret I / Senusret II",
+    "Senusret I / Senusret III",
+    "Senusret I / Senusret III",
+    "Senusret I / Senusret III",
+    "Senusret I / Senusret III",
+    "Senusret I / Senusret II",
+    "Senusret I / Senusret II",
+    "Senusret I / Senusret III",
+    "Senusret I / Senusret III",
+    "Amenemhat II / Amenemhat III",
+    "Amenemhat II / Amenemhat III",
+    "Amenemhat II / Amenemhat III",
+    "Senusret II / Senusret III",
+    "Senusret II / Senusret III",
+    "Senusret II / Senusret III",
+    "Ahmose I / Amasis II",
+    "Ahmose I / Amasis II",
+    "Ahmose I / Amasis II",
+    "Ahmose I / Amasis II",
+    "Amenhotep I / Amenhotep II",
+    "Amenhotep I / Amenhotep II",
+    "Amenhotep I / Amenhotep III",
+    "Amenhotep I / Amenhotep III",
+    "Amenhotep I / Akhenaten",
+    "Amenhotep I / Akhenaten",
+    "Amenhotep I / Amenhotep II",
+    "Amenhotep I / Amenhotep II",
+    "Amenhotep I / Amenhotep III",
+    "Amenhotep I / Akhenaten",
+    "Amenhotep I / Akhenaten",
+    "Thutmose I / Thutmose II",
+    "Thutmose I / Thutmose II",
+    "Thutmose I / Thutmose III",
+    "Thutmose I / Thutmose III",
+    "Thutmose I / Thutmose IV",
+    "Thutmose I / Thutmose IV",
+    "Thutmose I / Thutmose III",
+    "Thutmose I / Thutmose III",
+    "Thutmose I / Thutmose II",
+    "Thutmose I / Thutmose II",
+    "Thutmose I / Thutmose III",
+    "Thutmose I / Thutmose IV",
+    "Thutmose I / Thutmose IV",
+    "Thutmose I / Thutmose III",
+    "Thutmose II / Thutmose III",
+    "Thutmose II / Thutmose III",
+    "Thutmose II / Thutmose IV",
+    "Thutmose II / Thutmose IV",
+    "Thutmose II / Thutmose III"
+   ],
+   "nearCount": 265,
+   "suspicious": [
+    "Ay: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "monarchs",
+   "collisions": [],
+   "near": [
+    "Harold Harefoot / Harold Godwinson",
+    "Harold Harefoot / Harold Godwinson",
+    "Harold Harefoot / Harold Godwinson",
+    "William I / William II",
+    "William I / William II",
+    "William I / William III",
+    "William I / William III",
+    "William I / William IV",
+    "William I / William IV",
+    "William I / William II",
+    "William I / William II",
+    "William I / William III",
+    "William I / William IV",
+    "William I / William IV",
+    "William II / William III",
+    "William II / William III",
+    "William II / William IV",
+    "William II / William IV",
+    "William II / William III",
+    "William II / William IV",
+    "William II / William IV",
+    "Henry I / Henry II",
+    "Henry I / Henry II",
+    "Henry I / Henry III",
+    "Henry I / Henry IV",
+    "Henry I / Henry IV",
+    "Henry I / Henry V",
+    "Henry I / Henry V",
+    "Henry I / Henry VI",
+    "Henry I / Henry VI",
+    "Henry I / Henry VII",
+    "Henry I / Henry VIII",
+    "Henry I / Henry II",
+    "Henry I / Henry III",
+    "Henry I / Henry IV",
+    "Henry I / Henry V",
+    "Henry I / Henry V",
+    "Henry I / Henry VI",
+    "Henry I / Henry VII",
+    "Henry I / Henry VIII",
+    "Henry II / Henry III",
+    "Henry II / Henry IV",
+    "Henry II / Henry VI",
+    "Henry II / Henry VII",
+    "Henry II / Henry III",
+    "Henry II / Henry IV",
+    "Henry II / Henry V",
+    "Henry II / Henry V",
+    "Henry II / Henry VI",
+    "Henry II / Henry VII",
+    "Henry II / Henry VIII",
+    "Richard I / Richard II",
+    "Richard I / Richard II",
+    "Richard I / Richard III",
+    "Richard I / Richard III",
+    "Richard I / Richard II",
+    "Richard I / Richard II",
+    "Richard I / Richard III",
+    "Henry III / Henry VII",
+    "Henry III / Henry VIII"
+   ],
+   "nearCount": 212,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "wars",
+   "collisions": [],
+   "near": [
+    "World War I / World War II",
+    "World War I / World War II",
+    "World War I / World War II",
+    "World War I / World War II",
+    "American Revolutionary War / Mexican War of Independence"
+   ],
+   "nearCount": 5,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "explorers",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "chinese-dynasties",
+   "collisions": [
+    {
+     "alias": "jin",
+     "answers": [
+      "Jin",
+      "Jurchen Jin"
+     ]
+    }
+   ],
+   "near": [
+    "Xia / Qin",
+    "Xia / Xin",
+    "Xia / Jin",
+    "Xia / Liao",
+    "Shang / Han",
+    "Shang / Liang",
+    "Shang / Tang",
+    "Shang / Song",
+    "Western Zhou / Eastern Zhou",
+    "Qin / Han",
+    "Qin / Xin",
+    "Qin / Jin",
+    "Qin / Ming",
+    "Qin / Qing",
+    "Han / Xin",
+    "Han / Jin",
+    "Han / Chen",
+    "Han / Tang",
+    "Han / Yuan",
+    "Western Han / Eastern Han",
+    "Western Han / Jin",
+    "Eastern Han / Eastern Jin",
+    "Xin / Jin",
+    "Xin / Ming",
+    "Xin / Qing",
+    "Jin / Ming",
+    "Jin / Qing",
+    "Jin / Eastern Jin",
+    "Jin / Western Xia",
+    "Northern Wei / Northern Qi",
+    "Southern Qi / Northern Qi",
+    "Liang / Tang",
+    "Liang / Liao",
+    "Liang / Ming",
+    "Liang / Qing",
+    "Tang / Song",
+    "Tang / Ming",
+    "Tang / Qing",
+    "Later Liang / Later Tang",
+    "Later Tang / Later Han",
+    "Later Jin / Later Han",
+    "Song / Ming",
+    "Song / Qing",
+    "Northern Song / Southern Song",
+    "Ming / Qing"
+   ],
+   "nearCount": 45,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "civilisations",
+   "collisions": [],
+   "near": [
+    "Kush / Kassites"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "empires",
+   "collisions": [],
+   "near": [
+    "Spanish Empire / Danish Empire",
+    "Austrian Empire / Assyrian Empire",
+    "Maurya Empire / Maya Empire",
+    "Persian Empire / Serbian Empire",
+    "Mali Empire / Maya Empire",
+    "Ghana Empire / Han Empire",
+    "Qing Empire / Ming Empire",
+    "Qing Empire / Tang Empire",
+    "Ming Empire / Tang Empire",
+    "Han Empire / Tang Empire",
+    "Han Empire / Yuan Empire",
+    "Mexican Empire / American Empire"
+   ],
+   "nearCount": 12,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "ships",
+   "collisions": [],
+   "near": [
+    "Queen Elizabeth / Queen Elizabeth 2",
+    "Great Eastern / Great Western",
+    "Great Eastern / Great Western",
+    "Britannic / Royal Yacht Britannia",
+    "Queen Mary / Queen Mary 2"
+   ],
+   "nearCount": 5,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "greek-letters",
+   "collisions": [],
+   "near": [
+    "Epsilon / Upsilon"
+   ],
+   "nearCount": 1,
+   "suspicious": [
+    "Mu: very short",
+    "Nu: very short",
+    "Xi: very short",
+    "Pi: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "nato-alphabet",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "colours",
+   "collisions": [],
+   "near": [
+    "Amber / Umber",
+    "Navy / Baby blue"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "languages",
+   "collisions": [],
+   "near": [
+    "Hungarian / Bulgarian",
+    "Mandarin / Elvish",
+    "Japanese / Javanese"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "palindromes",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "punctuation",
+   "collisions": [],
+   "near": [
+    "En dash / Em dash",
+    "En dash / Em dash",
+    "Asterisk / Asterism"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "synonyms-happy",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "synonyms-big",
+   "collisions": [],
+   "near": [
+    "Enormous / Ginormous",
+    "Extensive / Expansive",
+    "Spacious / Capacious"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "baby-animals",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "shades-of-blue",
+   "collisions": [],
+   "near": [
+    "Navy / Baby blue",
+    "Navy / Savoy blue",
+    "Yale blue / Pale blue",
+    "Light blue / Bright blue",
+    "Blue-green / Blue-grey"
+   ],
+   "nearCount": 5,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "rhymes-cat",
+   "collisions": [],
+   "near": [
+    "Splat / Sprat",
+    "Autocrat / Plutocrat",
+    "Wombat / Combat"
+   ],
+   "nearCount": 3,
+   "suspicious": [
+    "At: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "ology-words",
+   "collisions": [],
+   "near": [
+    "Archaeology / Arachnology",
+    "Archaeology / Rheology",
+    "Astrology / Osteology",
+    "Astrology / Petrology",
+    "Astrology / Agrology",
+    "Astrology / Andrology",
+    "Astrology / Metrology",
+    "Audiology / Cardiology",
+    "Audiology / Radiology",
+    "Audiology / Apiology",
+    "Audiology / Andrology",
+    "Cardiology / Radiology",
+    "Climatology / Primatology",
+    "Cosmology / Pomology",
+    "Cryptology / Cytology",
+    "Cryptology / Egyptology",
+    "Cytology / Mycology",
+    "Cytology / Mythology",
+    "Cytology / Ontology",
+    "Cytology / Cetology",
+    "Cytology / Scatology",
+    "Dermatology / Haematology",
+    "Ecology / Oenology",
+    "Embryology / Bryology",
+    "Entomology / Etymology",
+    "Etymology / Ethology",
+    "Etymology / Ethnology",
+    "Ethology / Mythology",
+    "Ethology / Pathology",
+    "Ethology / Theology",
+    "Ethology / Petrology",
+    "Ethology / Cetology",
+    "Ethology / Ethnology",
+    "Ethology / Metrology",
+    "Gemology / Geology",
+    "Gemology / Oenology",
+    "Gemology / Pomology",
+    "Gemology / Sexology",
+    "Gemology / Semiology",
+    "Gemology / Cetology",
+    "Gemology / Penology",
+    "Gemology / Semiology",
+    "Haematology / Hepatology",
+    "Haematology / Rheumatology",
+    "Haematology / Hepatology",
+    "Herpetology / Hepatology",
+    "Histology / Christology",
+    "Hydrology / Andrology",
+    "Hydrology / Horology",
+    "Lexicology / Toxicology",
+    "Meteorology / Methodology",
+    "Meteorology / Metrology",
+    "Mycology / Mythology",
+    "Mycology / Oncology",
+    "Mycology / Phycology",
+    "Mythology / Pathology",
+    "Mythology / Metrology",
+    "Nephrology / Neurology",
+    "Neurology / Petrology",
+    "Neurology / Metrology"
+   ],
+   "nearCount": 125,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "bones",
+   "collisions": [],
+   "near": [
+    "Zygomatic bone / Calcaneus",
+    "Metacarpals / Metatarsals",
+    "Metacarpals / Metatarsals"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "muscles",
+   "collisions": [],
+   "near": [
+    "Pectoralis major / Pectoralis minor",
+    "Gluteus maximus / Gluteus minimus",
+    "Adductors / Abductors",
+    "Adductors / Abductors",
+    "Adductors / Abductors",
+    "Adductors / Abductors",
+    "Teres major / Teres minor"
+   ],
+   "nearCount": 7,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "organs",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "body-parts",
+   "collisions": [],
+   "near": [
+    "Upper arm / Armpit",
+    "Wrist / Waist"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "diseases",
+   "collisions": [],
+   "near": [
+    "Hepatitis / Hepatitis A",
+    "Hepatitis / Hepatitis B",
+    "Hepatitis / Hepatitis C",
+    "Hepatitis A / Hepatitis B",
+    "Hepatitis A / Hepatitis C",
+    "Hepatitis B / Hepatitis C",
+    "Type 1 diabetes / Type 2 diabetes",
+    "Hypothyroidism / Hyperthyroidism"
+   ],
+   "nearCount": 8,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "hormones",
+   "collisions": [],
+   "near": [
+    "Cortisol / Cortisone",
+    "Secretin / Incretin"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "eye-parts",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "brain-parts",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "vitamins",
+   "collisions": [],
+   "near": [
+    "Vitamin A / Vitamin B1",
+    "Vitamin A / Vitamin B2",
+    "Vitamin A / Vitamin B3",
+    "Vitamin A / Vitamin B5",
+    "Vitamin A / Vitamin B6",
+    "Vitamin A / Vitamin B7",
+    "Vitamin A / Vitamin B9",
+    "Vitamin A / Vitamin C",
+    "Vitamin A / Vitamin D",
+    "Vitamin A / Vitamin E",
+    "Vitamin A / Vitamin K",
+    "Vitamin B1 / Vitamin B2",
+    "Vitamin B1 / Vitamin B3",
+    "Vitamin B1 / Vitamin B5",
+    "Vitamin B1 / Vitamin B6",
+    "Vitamin B1 / Vitamin B7",
+    "Vitamin B1 / Vitamin B9",
+    "Vitamin B1 / Vitamin B12",
+    "Vitamin B1 / Vitamin C",
+    "Vitamin B1 / Vitamin D",
+    "Vitamin B1 / Vitamin E",
+    "Vitamin B1 / Vitamin K",
+    "Vitamin B2 / Vitamin B3",
+    "Vitamin B2 / Vitamin B5",
+    "Vitamin B2 / Vitamin B6",
+    "Vitamin B2 / Vitamin B7",
+    "Vitamin B2 / Vitamin B9",
+    "Vitamin B2 / Vitamin B12",
+    "Vitamin B2 / Vitamin C",
+    "Vitamin B2 / Vitamin D",
+    "Vitamin B2 / Vitamin E",
+    "Vitamin B2 / Vitamin K",
+    "Vitamin B3 / Vitamin B5",
+    "Vitamin B3 / Vitamin B6",
+    "Vitamin B3 / Vitamin B7",
+    "Vitamin B3 / Vitamin B9",
+    "Vitamin B3 / Vitamin B12",
+    "Vitamin B3 / Vitamin C",
+    "Vitamin B3 / Vitamin D",
+    "Vitamin B3 / Vitamin E",
+    "Vitamin B3 / Vitamin K",
+    "Vitamin B5 / Vitamin B6",
+    "Vitamin B5 / Vitamin B7",
+    "Vitamin B5 / Vitamin B9",
+    "Vitamin B5 / Vitamin B12",
+    "Vitamin B5 / Vitamin C",
+    "Vitamin B5 / Vitamin D",
+    "Vitamin B5 / Vitamin E",
+    "Vitamin B5 / Vitamin K",
+    "Vitamin B6 / Vitamin B7",
+    "Vitamin B6 / Vitamin B9",
+    "Vitamin B6 / Vitamin B12",
+    "Vitamin B6 / Vitamin C",
+    "Vitamin B6 / Vitamin D",
+    "Vitamin B6 / Vitamin E",
+    "Vitamin B6 / Vitamin K",
+    "Vitamin B7 / Vitamin B9",
+    "Vitamin B7 / Vitamin B12",
+    "Vitamin B7 / Vitamin C",
+    "Vitamin B7 / Vitamin D"
+   ],
+   "nearCount": 73,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "specialties",
+   "collisions": [],
+   "near": [
+    "Cardiology / Radiology",
+    "Cardiology / Audiology",
+    "Dermatology / Haematology",
+    "Neurology / Nephrology",
+    "Paediatrics / Geriatrics",
+    "Radiology / Audiology",
+    "Haematology / Hepatology",
+    "Haematology / Rheumatology",
+    "Haematology / Hepatology",
+    "Audiology / Andrology"
+   ],
+   "nearCount": 10,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "face",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "programming-languages",
+   "collisions": [],
+   "near": [
+    "C# / F#"
+   ],
+   "nearCount": 1,
+   "suspicious": [
+    "C: very short",
+    "Go: very short",
+    "R: very short",
+    "ML: very short",
+    "Io: very short",
+    "Hy: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "car-brands",
+   "collisions": [],
+   "near": [
+    "Chevrolet / Chery",
+    "Hummer / Humber"
+   ],
+   "nearCount": 2,
+   "suspicious": [
+    "MG: very short",
+    "DS: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "computer-parts",
+   "collisions": [],
+   "near": [
+    "CPU / Co-processor",
+    "Northbridge / Southbridge"
+   ],
+   "nearCount": 2,
+   "suspicious": [
+    "M.2: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "file-extensions",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "tech-companies",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "HP: very short",
+    "LG: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "consoles",
+   "collisions": [],
+   "near": [
+    "PlayStation / PlayStation 2",
+    "PlayStation / PlayStation 3",
+    "PlayStation / PlayStation 4",
+    "PlayStation / PlayStation 5",
+    "PlayStation / PlayStation VR",
+    "PlayStation / PlayStation 2",
+    "PlayStation / PlayStation 3",
+    "PlayStation / PlayStation 4",
+    "PlayStation / PlayStation 5",
+    "PlayStation / PlayStation VR",
+    "PlayStation 2 / PlayStation 3",
+    "PlayStation 2 / PlayStation 4",
+    "PlayStation 2 / PlayStation 5",
+    "PlayStation 2 / PlayStation VR",
+    "PlayStation 3 / PlayStation 4",
+    "PlayStation 3 / PlayStation 5",
+    "PlayStation 3 / PlayStation VR",
+    "PlayStation 4 / PlayStation 5",
+    "PlayStation 4 / PlayStation VR",
+    "PlayStation 5 / PlayStation VR",
+    "PlayStation Portable / PlayStation Portal",
+    "Xbox One / Xbox One X",
+    "Xbox One / Xbox One S",
+    "Xbox Series X / Xbox Series S",
+    "Xbox Series X / Xbox Series S",
+    "Nintendo 64 / Nintendo DS",
+    "Nintendo Switch / Nintendo Switch 2",
+    "Nintendo Switch / Nintendo Switch 2",
+    "Nintendo DS / Nintendo 3DS",
+    "Nintendo DS / Nintendo DSi",
+    "Nintendo DS / Nintendo 2DS",
+    "Nintendo 3DS / Nintendo DSi",
+    "Nintendo 3DS / Nintendo 2DS",
+    "Atari 2600 / Atari 5200",
+    "Atari 2600 / Atari 7800",
+    "Atari 5200 / Atari 7800",
+    "Nintendo DSi / Nintendo 2DS",
+    "Xbox One X / Xbox One S",
+    "Xbox One X / Xbox One S",
+    "PS4 Pro / PS5 Pro",
+    "SNES Classic / NES Classic"
+   ],
+   "nearCount": 41,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "inventions",
+   "collisions": [],
+   "near": [
+    "Telephone / Mobile phone",
+    "Photography / Phonograph",
+    "Refrigerator / Bridge",
+    "Hair dryer / Air fryer"
+   ],
+   "nearCount": 4,
+   "suspicious": [
+    "CD: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "browsers",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "operating-systems",
+   "collisions": [],
+   "near": [
+    "Windows / Windows 7",
+    "Windows / Windows 8",
+    "Windows 95 / Windows 98",
+    "Windows 95 / Windows ME",
+    "Windows 95 / Windows XP",
+    "Windows 95 / Windows 7",
+    "Windows 95 / Windows 8",
+    "Windows 95 / Windows 10",
+    "Windows 95 / Windows 11",
+    "Windows 95 / Windows NT",
+    "Windows 98 / Windows ME",
+    "Windows 98 / Windows XP",
+    "Windows 98 / Windows 7",
+    "Windows 98 / Windows 8",
+    "Windows 98 / Windows 10",
+    "Windows 98 / Windows 11",
+    "Windows 98 / Windows NT",
+    "Windows ME / Windows XP",
+    "Windows ME / Windows 7",
+    "Windows ME / Windows 8",
+    "Windows ME / Windows 10",
+    "Windows ME / Windows 11",
+    "Windows ME / Windows NT",
+    "Windows XP / Windows 7",
+    "Windows XP / Windows 8",
+    "Windows XP / Windows 10",
+    "Windows XP / Windows 11",
+    "Windows XP / Windows NT",
+    "Windows 7 / Windows 8",
+    "Windows 7 / Windows 10",
+    "Windows 7 / Windows 11",
+    "Windows 7 / Windows NT",
+    "Windows 8 / Windows 10",
+    "Windows 8 / Windows 11",
+    "Windows 8 / Windows NT",
+    "Windows 10 / Windows 11",
+    "Windows 10 / Windows NT",
+    "Windows 11 / Windows NT"
+   ],
+   "nearCount": 38,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "video-games",
+   "collisions": [],
+   "near": [
+    "Super Mario Kart / Mario Kart 8",
+    "Grand Theft Auto / Grand Theft Auto V",
+    "Grand Theft Auto / Grand Theft Auto V",
+    "Grand Theft Auto / Grand Theft Auto VI",
+    "Grand Theft Auto / Grand Theft Auto VI",
+    "Grand Theft Auto V / Grand Theft Auto VI",
+    "Grand Theft Auto V / Grand Theft Auto VI",
+    "Grand Theft Auto V / Grand Theft Auto VI",
+    "Grand Theft Auto V / Grand Theft Auto VI",
+    "Red Dead Redemption / Red Dead Redemption 2",
+    "Fallout / Fallout 3",
+    "Half-Life / Half-Life 2",
+    "Portal / Portal 2",
+    "GoldenEye 007 / Golden Axe",
+    "Final Fantasy / Final Fantasy VII",
+    "StarCraft / Warcraft"
+   ],
+   "nearCount": 16,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "keyboard-keys",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "F1: very short",
+    "F2: very short",
+    "F3: very short",
+    "F4: very short",
+    "F5: very short",
+    "F6: very short",
+    "F7: very short",
+    "F8: very short",
+    "F9: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "greek-gods",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "roman-gods",
+   "collisions": [],
+   "near": [
+    "Bacchus / Libera"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "norse",
+   "collisions": [],
+   "near": [
+    "Freya / Freyr"
+   ],
+   "nearCount": 1,
+   "suspicious": [
+    "Ve: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "egyptian-gods",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "Ra: very short",
+    "Hu: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "mythical-creatures",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "arthurian",
+   "collisions": [],
+   "near": [
+    "Ector / Hector",
+    "Balin / Balan"
+   ],
+   "nearCount": 2,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "fairy-tales",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "hindu-gods",
+   "collisions": [],
+   "near": [
+    "Buddha / Budha"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "greek-heroes",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [
+    "Io: very short"
+   ],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "trojan-war",
+   "collisions": [],
+   "near": [
+    "Chryseis / Chryses"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "sports",
+   "collisions": [],
+   "near": [
+    "Football / Softball",
+    "Football / Floorball",
+    "Baseball / Basketball",
+    "Curling / Hurling",
+    "Heptathlon / Pentathlon",
+    "Triathlon / Biathlon"
+   ],
+   "nearCount": 6,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "olympic-sports",
+   "collisions": [],
+   "near": [
+    "Basketball / Baseball",
+    "Football / Softball",
+    "Triathlon / Biathlon"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "premier-league",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "nba-teams",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "nfl-teams",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "mlb-teams",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "nhl-teams",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "f1-champions",
+   "collisions": [
+    {
+     "alias": "hill",
+     "answers": [
+      "Phil Hill",
+      "Graham Hill",
+      "Damon Hill"
+     ]
+    },
+    {
+     "alias": "rosberg",
+     "answers": [
+      "Keke Rosberg",
+      "Nico Rosberg"
+     ]
+    }
+   ],
+   "near": [
+    "Keke Rosberg / Nico Rosberg"
+   ],
+   "nearCount": 1,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "martial-arts",
+   "collisions": [],
+   "near": [
+    "Kendo / Kempo",
+    "Kenjutsu / Ninjutsu",
+    "Sojutsu / Bojutsu"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "olympic-hosts",
+   "collisions": [],
+   "near": [],
+   "nearCount": 0,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  },
+  {
+   "id": "footballers",
+   "collisions": [
+    {
+     "alias": "ronaldo",
+     "answers": [
+      "Cristiano Ronaldo",
+      "Ronaldo Nazario"
+     ]
+    }
+   ],
+   "near": [
+    "Cristiano Ronaldo / Ronaldo Nazario",
+    "Lothar Matthaus / Stanley Matthews",
+    "David Villa / Roger Milla"
+   ],
+   "nearCount": 3,
+   "suspicious": [],
+   "log": [],
+   "sourceCheck": null
+  }
+ ]
+}

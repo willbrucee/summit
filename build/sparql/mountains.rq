@@ -1,0 +1,5 @@
+SELECT ?item ?itemLabel ?height WHERE {
+  VALUES ?item { wd:Q513 wd:Q43512 wd:Q170089 wd:Q39739 wd:Q130018 wd:Q7296 wd:Q43105 wd:Q172070 wd:Q583 wd:Q1374 wd:Q39231 wd:Q80344 wd:Q178167 wd:Q104674 wd:Q213360 wd:Q217142 wd:Q33910 wd:Q712311 }
+  ?item wdt:P2044 ?height.
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
+}

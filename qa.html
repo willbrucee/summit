@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Summit answer check</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="css/qa.css">
+</head>
+<body>
+  <header class="qa-head">
+    <h1>Answer check</h1>
+    <p id="qa-summary">Loading...</p>
+    <ul id="qa-errors"></ul>
+  </header>
+
+  <section class="qa-tools" aria-label="Filters">
+    <label>Search <input id="qa-search" type="search" placeholder="Prompt or answer"></label>
+    <label>Category <select id="qa-category"><option value="">All</option></select></label>
+    <label><input id="qa-flagged" type="checkbox"> Only prompts with flags</label>
+  </section>
+
+  <main id="qa-list"></main>
+
+  <section class="qa-notes">
+    <h2>Mountain heights</h2>
+    <p>The game uses the official figures. Wikidata's P2044 value is shown beside each one.</p>
+    <table id="qa-heights"><thead><tr><th>Mountain</th><th>Used</th><th>Wikidata</th></tr></thead><tbody></tbody></table>
+
+    <h2>Fixing an answer</h2>
+    <p>Edit <code>data/overrides.json</code> and run <code>npm run build</code>. Each prompt id takes three lists:</p>
+<pre>{
+  "countries-africa": {
+    "add": ["Somaliland | Republic of Somaliland"],
+    "remove": ["Western Sahara"],
+    "alias": { "Ivory Coast": ["Cote dIvoire"] }
+  }
+}</pre>
+    <p>Add lines use the same format as the lists: the label, then aliases split by <code>|</code>.</p>
+  </section>
+
+  <script type="module" src="js/qa.js"></script>
+</body>
+</html>
