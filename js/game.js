@@ -7,7 +7,7 @@ import { load, save } from './store.js';
 import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
 import { createScene } from './scene.js';
-import { classifyGuess, diffMarks, nextCombo, bestBurst, WRONG_LINES, COMBO_MAX } from './feedback.js';
+import { classifyGuess, diffMarks, nextCombo, bestBurst, unmatchedWorthReporting, WRONG_LINES, COMBO_MAX } from './feedback.js';
 
 const $ = (id) => document.getElementById(id);
 // Modes come from the hash: #practice, or #test-<prompt id> from the QA page.
@@ -390,6 +390,10 @@ function showResult() {
   $('missed-summary').textContent = `Answers you missed (${missed.length})`;
   $('missed-list').replaceChildren(...missed.map((m) => Object.assign(document.createElement('li'), { textContent: m })));
   $('report').href = reportUrl(p, r);
+  const typed = unmatchedWorthReporting(r.wrong || []).slice(0, 25);
+  $('unmatched').hidden = !typed.length;
+  $('unmatched-list').replaceChildren(...typed.map((t) => Object.assign(document.createElement('li'), { textContent: t })));
+  $('unmatched-report').href = missingReportUrl(p, typed);
   const last = i === prompts.length - 1;
   $('next').textContent = last ? (MODE === 'test' ? 'Play it again' : 'See your summit') : 'Next round';
   show('result');
@@ -408,6 +412,13 @@ function reportUrl(p, r) {
     r.wrong.length ? `My guesses that were not accepted: ${r.wrong.slice(0, 20).join(', ')}` : '',
   ].join('\n');
   return `https://github.com/${CONFIG.repo}/issues/new?labels=answers&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+}
+
+// A prefilled issue with the prompt id and the typed words only. Nothing personal is sent.
+function missingReportUrl(p, typed) {
+  const title = `Possible missing answers: ${p.text}`;
+  const body = [`Prompt: ${p.text}`, `Prompt id: ${p.id}`, '', 'Typed but not accepted:', ...typed.map((t) => `- ${t}`), '', 'Which of these should count, and why:'].join('\n');
+  return `https://github.com/${CONFIG.repo}/issues/new?labels=missing-answer&title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
 }
 
 function next() {

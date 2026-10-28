@@ -1306,6 +1306,12 @@ Return of the Obra Dinn
 It Takes Two
 Split Fiction
 Animal Well
+Tom Clancy's Rainbow Six Siege
+Call of Duty: Warzone | Warzone
+Destiny 2
+Sea of Thieves
+Gran Turismo
+Forza Horizon
 `;
 
 export const KEYBOARD_KEYS = `

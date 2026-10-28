@@ -267,6 +267,10 @@ p { margin: 0; }
 .missed summary { cursor: pointer; font-weight: 700; }
 .missed ul { columns: 2 10rem; padding-left: var(--space-4); margin: var(--space-2) 0 0; font-size: var(--step--1); }
 .report { font-size: var(--step--1); }
+.unmatched { display: flex; flex-direction: column; gap: var(--space-2); align-items: flex-start; }
+.unmatched-head { font-size: var(--step-0); }
+.unmatched-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.unmatched-list li { border: 2px dashed var(--ink-soft); border-radius: 6px; padding: 1px 8px; font-size: var(--step--1); }
 .missed-head { font-size: var(--step-0); margin-top: var(--space-3); }
 #finish-missed ul { columns: 2 10rem; padding-left: var(--space-4); margin: var(--space-1) 0 0; font-size: var(--step--1); }
 

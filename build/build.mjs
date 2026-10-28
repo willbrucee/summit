@@ -11,6 +11,8 @@ import { PRESIDENT_ALIASES, PM_ALIASES } from './curated/history.mjs';
 import { toKey, editDistance, allowedTypos } from '../js/matcher.js';
 import { targetFor } from '../js/scoring.js';
 import { buildSchedule } from '../js/daily.js';
+import { variants, shortenings, initialism, goodWikidataAlias, acceptAliases, expand } from './aliases.mjs';
+import { matchWikidata } from './wikidata-match.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const raw = (name) => JSON.parse(readFileSync(join(ROOT, 'data/raw', name + '.json'), 'utf8')).results.bindings;
@@ -24,25 +26,6 @@ function parseList(text) {
     const [first, ...rest] = line.split('|').map((s) => s.trim()).filter(Boolean);
     return { label: first, aliases: rest };
   });
-}
-
-const ROMAN = { I: 1, II: 2, III: 3, IV: 4, V: 5, VI: 6, VII: 7, VIII: 8, IX: 9, X: 10, XI: 11, XII: 12, XIII: 13, XIV: 14, XV: 15 };
-const SPELLINGS = [['colour', 'color'], ['grey', 'gray'], ['centre', 'center'], ['theatre', 'theater'], ['harbour', 'harbor'], ['armour', 'armor']];
-
-// Spelling variants people type without thinking: Henry 8, gray, color.
-function autoAliases(text) {
-  const out = new Set();
-  const words = text.split(' ');
-  const roman = (w, i) => (i > 0 && words[i - 1] !== 'Series' ? ROMAN[w.replace(/[,.:]$/, '')] : undefined);
-  if (words.some(roman)) out.add(words.map((w, i) => (roman(w, i) ? String(roman(w, i)) : w)).join(' '));
-  for (const [a, b] of SPELLINGS) {
-    const lower = text.toLowerCase();
-    if (lower.includes(a)) out.add(lower.replaceAll(a, b));
-    if (lower.includes(b)) out.add(lower.replaceAll(b, a));
-  }
-  // "Title: Subtitle" films and games can be named by the subtitle alone.
-  if (/: /.test(text)) out.add(text.split(': ').slice(1).join(': '));
-  return [...out];
 }
 
 // ---------- sources ----------
@@ -143,6 +126,12 @@ function applyOverrides(id, answers, log) {
 // ---------- build ----------
 
 const slug = (s) => toKey(s).slice(0, 40) || 'x';
+const ALIASES = existsSync(join(ROOT, 'data/aliases.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/aliases.json'), 'utf8')) : {};
+const WD = existsSync(join(ROOT, 'data/raw/wd-labels.json')) ? JSON.parse(readFileSync(join(ROOT, 'data/raw/wd-labels.json'), 'utf8')) : null;
+// Short Wikidata aliases (3 letters or fewer) only where abbreviations are normal, never country codes.
+const SHORT_OK = new Set(['tech', 'film', 'sport', 'music', 'space']);
+// Titles that can be named by their first words when that is unambiguous.
+const TITLE_PROMPTS = new Set(['film', 'tech', 'video-games', 'beatles-songs', 'musicals', 'paintings', 'roald-dahl', 'shakespeare', 'missions']);
 const errors = [];
 const report = [];
 const out = [];
@@ -178,13 +167,40 @@ for (const def of PROMPTS) {
     merged.push(entry);
   }
 
-  // Tidy aliases: add automatic variants, drop repeats of the label.
+  // Aliases, in order: curated, curated variants, data/aliases.json, Wikidata, generated.
   for (const a of merged) {
-    const base = [a.label, ...a.aliases];
-    const all = [...base, ...base.flatMap(autoAliases)];
     const seen = new Set([toKey(a.label)]);
-    a.aliases = all.slice(1).filter((s) => { const k = toKey(s); if (!k || seen.has(k)) return false; seen.add(k); return true; });
+    const list = [];
+    const add = (text, src) => { const k = toKey(text); if (k && !seen.has(k)) { seen.add(k); list.push({ text, src }); } };
+    for (const t of a.aliases) add(t, 'c');
+    for (const t of [a.label, ...a.aliases]) for (const v of variants(t)) add(v, 'v');
+    a.aliases = list;
   }
+  const extra = [];
+  const userAliases = { ...(ALIASES.global || {}), ...((ALIASES.prompts || {})[def.id] || {}) };
+  merged.forEach((a, i) => { for (const t of userAliases[a.label] || []) extra.push({ answer: i, text: t, src: 'a' }); });
+  const wd = matchWikidata(merged, WD);
+  const allowShort = SHORT_OK.has(def.category) || SHORT_OK.has(def.id);
+  merged.forEach((a, i) => {
+    const item = wd[i];
+    if (item) {
+      a.wd = item;
+      for (const t of [...item.s, ...item.a]) if (goodWikidataAlias(t, a.label, allowShort)) extra.push({ answer: i, text: t, src: 'w' });
+    }
+    if (TITLE_PROMPTS.has(def.category) || TITLE_PROMPTS.has(def.id)) for (const t of shortenings(a.label)) extra.push({ answer: i, text: t, src: 'g' });
+  });
+  const accepted = acceptAliases(merged, expand(extra));
+  // Initialisms are only suggested. They count when Wikidata or the curated list already has them.
+  const suggestions = [];
+  merged.forEach((a) => {
+    const ini = initialism(a.label);
+    if (!ini) return;
+    for (const x of a.aliases) if (ini.includes(toKey(x.text)) && x.src !== 'c') x.src += 'g';
+    if (!a.aliases.some((x) => ini.includes(toKey(x.text)))) suggestions.push(`${a.label}: ${ini[ini.length - 1].toUpperCase()}`);
+  });
+  const aliasCollisions = accepted.dropped.filter((d) => d.src !== 'g');
+  const aliasSources = merged.map((a) => a.aliases.map((x) => x.src));
+  for (const a of merged) a.aliases = a.aliases.map((x) => x.text);
 
   // Collisions: one alias that belongs to two answers.
   const owners = new Map();
@@ -236,10 +252,14 @@ for (const def of PROMPTS) {
     size: merged.length,
     target: targetFor(merged.length, def.difficulty),
     source,
-    answers: merged.map((a, i) => ({ id: i, label: a.label, aliases: a.aliases, ...(a.hint ? { hint: a.hint } : {}) })),
+    answers: merged.map((a, i) => ({
+      id: i, label: a.label, aliases: a.aliases, src: aliasSources[i].join(' '),
+      ...(a.hint ? { hint: a.hint } : {}),
+      ...(a.wd ? { qid: a.wd.q, desc: a.wd.d || undefined, fame: a.wd.sl, year: a.wd.y ?? undefined } : {}),
+    })),
   };
   out.push(prompt);
-  report.push({ id: def.id, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
+  report.push({ id: def.id, aliasCollisions, suggestions: suggestions.slice(0, 80), wikidataMatched: wd.filter(Boolean).length, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
 }
 
 // Category rules: at least 12 categories with 10 prompts each.

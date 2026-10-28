@@ -32,3 +32,12 @@ pre { background: #fff; border: 1px solid var(--qa-line); padding: 12px; overflo
 .qa-notes { margin-top: 32px; }
 table { border-collapse: collapse; }
 td, th { text-align: left; padding: 4px 12px 4px 0; border-bottom: 1px solid var(--qa-line); }
+
+.qa-alias { border-bottom: 2px solid var(--qa-line); }
+.qa-src-w { border-color: #3b7dd8; }
+.qa-src-a { border-color: #2e9a5c; }
+.qa-src-g { border-color: #c2410c; }
+.qa-src-v { border-color: #9ca3af; }
+.qa-all sup { font-size: .7em; color: var(--qa-muted); margin-left: 1px; }
+.qa-desc { color: var(--qa-muted); font-style: italic; }
+#qa-collisions ul { columns: 2 22rem; font-size: .9em; }
