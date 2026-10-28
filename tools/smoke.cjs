@@ -27,7 +27,7 @@ async function run(vp, reduced) {
   const tag = `${vp.name}${reduced ? '-reduced' : ''}`;
   const shot = (name) => page.screenshot({ path: path.join(OUT, `${tag}-${name}.png`) });
 
-  const index = await (await page.request.get(BASE + 'data/index.json')).json();
+  const all = await (await page.request.get(BASE + 'data/prompts.json')).json();
   await page.goto(BASE + 'index.html');
   await page.waitForSelector('#help[open]');
   await shot('01-help');
@@ -37,13 +37,13 @@ async function run(vp, reduced) {
 
   for (let round = 0; round < 5; round++) {
     await page.waitForSelector('#ready:not([hidden])');
-    const text = await page.textContent('#ready-prompt');
-    const meta = index.prompts.find((p) => p.text === text);
-    const prompt = await (await page.request.get(BASE + `data/p/${meta.id}.json`)).json();
     await page.locator('#start').dispatchEvent('click');
     await page.clock.runFor(1200);
     if (round === 0) await shot('03-countdown');
     await page.clock.runFor(2000);
+    await page.waitForSelector('#play-head:not([hidden])');
+    const text = await page.textContent('#play-prompt');
+    const prompt = all.prompts.find((p) => p.text === text);
     // A mix: right answers, a typo, a repeat and a miss.
     const answers = prompt.answers.slice(0, 4 + round * 3).map((a) => a.label);
     for (const a of answers) { await page.fill('#guess', a); await page.press('#guess', 'Enter'); }

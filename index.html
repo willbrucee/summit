@@ -35,16 +35,15 @@
         <div class="screen" id="error" hidden><p id="error-text"></p></div>
 
         <div class="screen" id="ready" hidden>
-          <p class="eyebrow"><span class="tag" id="ready-round"></span><span id="ready-category"></span></p>
-          <h1 class="prompt-big" id="ready-prompt"></h1>
-          <p class="note" id="ready-note"></p>
-          <p class="aim"><svg viewBox="0 0 22 22" aria-hidden="true"><line x1="5" y1="2" x2="5" y2="21" stroke="var(--ink)" stroke-width="2.5" stroke-linecap="round"/><path d="M6 3 L19 7 L6 12 Z" fill="var(--signal)" stroke="var(--ink)" stroke-width="2" stroke-linejoin="round"/></svg><span id="ready-size"></span></p>
+          <p class="eyebrow"><span class="tag" id="ready-round"></span></p>
+          <h1 class="prompt-big">Ready when you are</h1>
+          <p class="note">The prompt appears when the clock starts. You get 30 seconds.</p>
           <div class="ready-start"><button type="button" class="btn" id="start">Start the climb</button></div>
           <ol class="route" id="route" aria-label="Today's route"></ol>
         </div>
 
         <div class="screen" id="play" hidden>
-          <div class="play-head">
+          <div class="play-head" id="play-head" hidden>
             <h1 class="prompt-small" id="play-prompt"></h1>
             <p class="note" id="play-note"></p>
           </div>

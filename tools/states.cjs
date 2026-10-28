@@ -1,5 +1,6 @@
 // Screenshots of the answer box states on a phone: node tools/states.cjs outDir
 const { chromium } = require('playwright');
+const keyOf = (id) => require('crypto').createHash('sha256').update('summit-prompt:' + id).digest('hex').slice(0, 12);
 const OUT = process.argv[2] || 'screenshots';
 (async () => {
   const b = await chromium.launch();
@@ -8,7 +9,7 @@ const OUT = process.argv[2] || 'screenshots';
   page.on('pageerror', (e) => errs.push(e.message));
   page.on('console', (m) => { if (m.type() === 'error') errs.push(m.text()); });
   await page.addInitScript(() => localStorage.setItem('summit:seen-help', 'true'));
-  await page.goto('http://localhost:8123/index.html#test-countries-world');
+  await page.goto('http://localhost:8123/index.html#test-' + keyOf('countries-world'));
   await page.waitForSelector('#ready:not([hidden])');
   await page.click('#start', { force: true });
   await page.waitForSelector('#guess:not([disabled])', { timeout: 6000 });

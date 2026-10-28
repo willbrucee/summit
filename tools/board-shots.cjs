@@ -1,5 +1,6 @@
 // Screenshots of the answer board after a test round: node tools/board-shots.cjs outDir [promptId]
 const { chromium } = require('playwright');
+const keyOf = (id) => require('crypto').createHash('sha256').update('summit-prompt:' + id).digest('hex').slice(0, 12);
 const OUT = process.argv[2] || 'screenshots';
 const ID = process.argv[3] || 'countries-africa';
 (async () => {
@@ -11,7 +12,7 @@ const ID = process.argv[3] || 'countries-africa';
     page.on('console', (m) => { if (m.type() === 'error') errs.push(m.text()); });
     await page.clock.install();
     await page.addInitScript(() => localStorage.setItem('summit:seen-help', 'true'));
-    await page.goto(`http://localhost:8123/index.html#test-${ID}`);
+    await page.goto(`http://localhost:8123/index.html#test-${keyOf(ID)}`);
     await page.waitForSelector('#ready:not([hidden])');
     await page.locator('#start').dispatchEvent('click');
     await page.clock.runFor(3500);

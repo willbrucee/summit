@@ -20,6 +20,9 @@ const ROUND_MS = CONFIG.roundSeconds * 1000;
 const COUNT_MS = CONFIG.countdownSeconds * 1000;
 
 let game;
+// metas: what the index knows about each round (key, difficulty, target), never the prompt itself.
+// prompts: the full prompt, fetched only when its round starts. Until then the slot is null.
+let metas = [];
 let prompts = [];
 let indexes = [];
 let clock = null;
@@ -66,7 +69,7 @@ function persist() {
 
 const current = () => game.rounds[game.current];
 const currentPrompt = () => prompts[game.current];
-const metresFor = (i) => roundMetres(game.rounds[i].found.length, prompts[i].target);
+const metresFor = (i) => roundMetres(game.rounds[i].found.length, metas[i].target);
 
 function altitude(upTo = game.rounds.length) {
   let total = 0;
@@ -109,8 +112,11 @@ async function init() {
       rounds: ids.map((id) => ({ id, status: 'ready', startedAt: null, found: [], times: [], fixed: 0, wrong: [] })),
       done: false,
     };
-    prompts = await Promise.all(ids.map((id) => getJSON(`data/p/${id}.json`)));
-    indexes = prompts.map((p) => buildIndex(p.answers));
+    metas = chosen;
+    prompts = ids.map(() => null);
+    indexes = ids.map(() => null);
+    // Rounds already started or played are needed for results and the summit screen.
+    await Promise.all(game.rounds.map((r, i) => (r.status !== 'ready' ? loadPrompt(i) : null)));
   } catch (err) {
     $('error-text').textContent = 'The map would not load. Check your connection and refresh. (' + err.message + ')';
     show('error');
@@ -122,9 +128,23 @@ async function init() {
   resume();
 }
 
+// Fetches a round's prompt. Called when the round starts, never before.
+const loading = new Map();
+function loadPrompt(i) {
+  if (prompts[i]) return Promise.resolve(prompts[i]);
+  if (!loading.has(i)) {
+    loading.set(i, getJSON(`data/p/${game.ids[i]}.json`).then((p) => {
+      prompts[i] = p;
+      indexes[i] = buildIndex(p.answers);
+      return p;
+    }));
+  }
+  return loading.get(i);
+}
+
 // Pick up wherever the player left off.
 function resume() {
-  if (game.done) return finish();
+  if (game.done) return Promise.all(metas.map((_, i) => loadPrompt(i))).then(finish);
   const r = current();
   if (r.status === 'ready') return showReady();
   if (r.status === 'playing') {
@@ -138,19 +158,14 @@ function resume() {
 // ---------- ready ----------
 
 function showReady() {
-  const p = currentPrompt();
-  $('ready-round').textContent = `Round ${game.current + 1} of ${prompts.length}`;
-  $('ready-category').textContent = p.categoryName;
-  $('ready-prompt').textContent = p.text;
-  $('ready-note').textContent = p.note;
-  $('ready-note').hidden = !p.note;
-  $('ready-size').textContent = p.finite ? `${p.size} to find. Aim for ${p.target}.` : `Aim for ${p.target}.`;
-  $('route').replaceChildren(...prompts.map((q, i) => {
+  // Nothing about the coming prompt: just the round number and the route so far.
+  $('ready-round').textContent = `Round ${game.current + 1} of ${metas.length}`;
+  $('route').replaceChildren(...metas.map((q, i) => {
     const li = document.createElement('li');
     const state = i < game.current ? 'done' : i === game.current ? 'now' : 'ahead';
     li.className = 'is-' + state;
-    li.append(Object.assign(document.createElement('span'), { textContent: q.categoryName }));
-    li.append(Object.assign(document.createElement('span'), { className: 'metres', textContent: state === 'done' ? '+' + formatMetres(metresFor(i)) : state === 'now' ? 'Up next' : '' }));
+    li.append(Object.assign(document.createElement('span'), { textContent: state === 'done' ? 'Climbed' : state === 'now' ? 'Up next' : 'Ahead' }));
+    li.append(Object.assign(document.createElement('span'), { className: 'metres', textContent: state === 'done' ? '+' + formatMetres(metresFor(i)) : '' }));
     return li;
   }));
   show('ready');
@@ -163,30 +178,47 @@ function startRound() {
   r.status = 'playing';
   r.startedAt = Date.now() + COUNT_MS;
   persist();
+  loadPrompt(game.current).catch(() => {});
   runRound();
 }
 
 // ---------- playing ----------
 
 function runRound() {
-  const p = currentPrompt();
   const r = current();
-  $('play-prompt').textContent = p.text;
-  $('play-note').textContent = p.note;
-  $('play-note').hidden = !p.note;
+  const i = game.current;
+  // The prompt is not in the page until the clock starts. Reading time counts.
+  $('play-prompt').textContent = '';
+  $('play-note').textContent = '';
+  $('play-note').hidden = true;
+  $('play-head').hidden = true;
   $('found-list').replaceChildren();
-  for (const id of [...r.found].reverse()) addChip(p.answers[id].label, id);
+  $('found-count').textContent = '';
   combo = { level: 0, lastAt: null };
   showCombo();
-  updateCount();
   $('feedback').textContent = '';
   show('play');
 
   const input = $('guess');
   input.value = '';
   // Translate the saved wall-clock start into this page's monotonic clock.
-  const startPerf = performance.now() + (r.startedAt - Date.now());
-  const endPerf = startPerf + ROUND_MS;
+  let startPerf = performance.now() + (r.startedAt - Date.now());
+  let endPerf = startPerf + ROUND_MS;
+  let waiting = false;
+  // If the prompt is slow to arrive, the clock waits for it rather than starting blind.
+  loadPrompt(i).then(() => {
+    if (waiting && clock) {
+      waiting = false;
+      r.startedAt = Date.now();
+      persist();
+      startPerf = performance.now();
+      endPerf = startPerf + ROUND_MS;
+      tick();
+    }
+  }).catch(() => {
+    $('error-text').textContent = 'This round would not load. Check your connection and refresh.';
+    show('error');
+  });
   let lastSecond = null;
   let started = false;
   const spoken = new Set();
@@ -206,11 +238,21 @@ function runRound() {
       return;
     }
     if (!started) {
+      if (!prompts[i]) { waiting = true; return; }
       started = true;
+      const p = prompts[i];
+      // The prompt appears in the same frame the timer starts.
+      $('play-prompt').textContent = p.text;
+      $('play-note').textContent = p.note;
+      $('play-note').hidden = !p.note;
+      $('play-head').hidden = false;
+      for (const id of [...r.found].reverse()) addChip(p.answers[id].label, id);
+      updateCount();
+      window.__summitTimerStartedAt = performance.now();
       $('countdown').hidden = true;
       input.disabled = false;
       input.focus();
-      announce('Go');
+      announce(`Go. ${p.text}`);
     }
     const left = Math.max(0, endPerf - now);
     $('timer-fill').style.transform = `scaleX(${left / ROUND_MS})`;

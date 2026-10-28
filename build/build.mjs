@@ -1,6 +1,7 @@
 // Builds data/prompts.json, data/qa-report.json and data/schedule.json.
 // Run: node build/build.mjs   (use build/fetch-wikidata.sh first to refresh data/raw)
 import { readFileSync, writeFileSync, existsSync, mkdirSync, rmSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { PROMPTS, CATEGORIES } from './registry.mjs';
@@ -292,21 +293,32 @@ for (const [c, n] of Object.entries(perCat)) if (n < 10) errors.push(`category $
 const ids = new Set();
 for (const p of out) { if (ids.has(p.id)) errors.push(`duplicate prompt id ${p.id}`); ids.add(p.id); if (!NOUNS[p.id]) errors.push(`${p.id}: no fallback description in build/nouns.mjs`); }
 
+// The game must not learn a prompt before its timer starts, so each prompt is filed under an opaque key.
+const keyOf = (id) => createHash('sha256').update('summit-prompt:' + id).digest('hex').slice(0, 12);
+for (const p of out) p.key = keyOf(p.id);
 console.log(`A to Z fallback groups: ${fallbackGroups.length} prompts`);
 if (WD) writeFileSync(PICKED_PATH, JSON.stringify(picked));
 writeFileSync(join(ROOT, 'data/prompts.json'), JSON.stringify({ version: 1, built: new Date().toISOString().slice(0, 10), categories: CATEGORIES, prompts: out }));
-// The game loads a light index plus only the day's prompts.
+// The game must not learn a prompt before its timer starts. Each prompt file gets an opaque key,
+// and the index the game loads holds only keys, a hidden topic number, difficulty and target.
+const TOPICS = Object.keys(CATEGORIES);
 rmSync(join(ROOT, 'data/p'), { recursive: true, force: true });
 mkdirSync(join(ROOT, 'data/p'));
-for (const p of out) writeFileSync(join(ROOT, 'data/p', p.id + '.json'), JSON.stringify(p));
-const index = out.map(({ answers, source, ...meta }) => meta);
-writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ categories: CATEGORIES, prompts: index }));
+for (const p of out) writeFileSync(join(ROOT, 'data/p', p.key + '.json'), JSON.stringify(p));
+const index = out.map((p) => ({ id: p.key, category: `t${TOPICS.indexOf(p.category)}`, difficulty: p.difficulty, target: p.target }));
+writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ prompts: index }));
 writeFileSync(join(ROOT, 'data/qa-report.json'), JSON.stringify({ errors, prompts: report }, null, 1));
 
 // Schedule: keep every day already published, append new days at the end.
 const schedPath = join(ROOT, 'data/schedule.json');
 const existing = existsSync(schedPath) ? JSON.parse(readFileSync(schedPath, 'utf8')) : null;
-const schedule = buildSchedule(out, existing, 730);
+// Older schedules used readable ids; published days keep their prompts under the new keys.
+const toKeyId = (x) => { const p = out.find((q) => q.id === x); return p ? p.key : x; };
+if (existing) {
+  for (const d of existing.days) d.prompts = d.prompts.map(toKeyId);
+  existing.queue = existing.queue.map(toKeyId);
+}
+const schedule = buildSchedule(index, existing, 730);
 writeFileSync(schedPath, JSON.stringify(schedule));
 
 const total = out.reduce((s, p) => s + p.size, 0);

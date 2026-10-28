@@ -86,7 +86,7 @@ function renderPrompt(p) {
       n ? el('span', { className: 'qa-tag qa-tag-flag', textContent: `${n} to check` }) : null),
     el('div', { className: 'qa-body' },
       meta,
-      el('p', {}, el('a', { href: `index.html#test-${p.id}`, textContent: 'Play this prompt' }), ' ',
+      el('p', {}, el('a', { href: `index.html#test-${p.key}`, textContent: 'Play this prompt' }), ' ',
         el('button', { type: 'button', textContent: 'Another 15', onclick: reroll })),
       el('h4', { textContent: '15 random answers' }), randomList,
       listBlock('Shared aliases (the next unfound answer is given)', f.collisions.map((c) => `"${c.alias}": ${c.answers.join(', ')}`), 'qa-warn'),
