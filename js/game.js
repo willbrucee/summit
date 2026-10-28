@@ -8,6 +8,8 @@ import { recordGame, currentStreak, getStats } from './stats.js';
 import { shareText } from './share.js';
 import { createScene } from './scene.js';
 import { renderBoard, renderRounds } from './board.js';
+import { celebrate } from './celebrate.js';
+import { cardBlob } from './card.js';
 import { classifyGuess, diffMarks, nextCombo, bestBurst, unmatchedWorthReporting, outsideLine, WRONG_LINES, COMBO_MAX } from './feedback.js';
 
 const $ = (id) => document.getElementById(id);
@@ -499,6 +501,9 @@ function finish() {
     : reached.height === 0 ? 'Still at sea level.' : `Higher than ${reached.name} (${formatMetres(reached.height)}).`;
   $('finish-next').textContent = upNext && total + 0.5 < EVEREST ? `${formatMetres(upNext.height - total)} short of ${upNext.name}.` : '';
   $('finish-title').textContent = titleFor(total);
+  const summited = total + 0.5 >= EVEREST;
+  $('finish').classList.toggle('is-gold', summited);
+  $('finish-k2').hidden = summited || total + 0.5 < 8611;
   const highlights = FACTS.filter((f) => f.past && total + 0.5 >= f.altitude).sort((a, b) => b.altitude - a.altitude).slice(0, 3);
   $('finish-highlights').replaceChildren(...highlights.map((f) => Object.assign(document.createElement('li'), { textContent: `You climbed past ${f.past}.` })));
   $('finish-highlights').hidden = !highlights.length;
@@ -526,7 +531,28 @@ function finish() {
   show('finish');
   emit('finish', { altitude: total, rounds: prompts.map((_, i) => metresFor(i)) });
   startNextCountdown();
+  // The celebration plays once per day, the first time this finish is seen.
+  const seenKey = `celebrated:${MODE}`;
+  if (summited && load(seenKey) !== game.date) {
+    save(seenKey, game.date);
+    celebrate(total, { reducedMotion: reducedMotion(), announce });
+  }
 }
+
+async function saveCard() {
+  const total = altitude();
+  const blob = await cardBlob({ day: game.day, altitude: total, rounds: prompts.map((_, i) => ({ metres: metresFor(i) })), title: titleFor(total) });
+  if (!blob) { $('share-status').textContent = 'Could not draw the image.'; return; }
+  const file = new File([blob], `summit-${game.day}.png`, { type: 'image/png' });
+  if (navigator.canShare && navigator.canShare({ files: [file] })) {
+    try { await navigator.share({ files: [file] }); return; } catch { /* closed, fall back to a download */ }
+  }
+  const a = Object.assign(document.createElement('a'), { href: URL.createObjectURL(blob), download: file.name });
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 5000);
+  $('share-status').textContent = 'Image saved.';
+}
+
 
 function startNextCountdown() {
   const el = $('next-puzzle');
@@ -563,7 +589,7 @@ $('guess-send').addEventListener('pointerdown', (e) => e.preventDefault());
 $('next').addEventListener('click', next);
 $('copy-share').addEventListener('click', copyShare);
 $('share').addEventListener('click', copyShare);
-$('save-card').hidden = true;
+$('save-card').addEventListener('click', saveCard);
 // Keep the box focused while playing, so the phone keyboard stays up.
 $('play').addEventListener('pointerup', () => { if (!$('guess').disabled) $('guess').focus(); });
 document.addEventListener('visibilitychange', () => {

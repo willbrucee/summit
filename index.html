@@ -78,6 +78,7 @@
           <h1 class="finish-alt" id="finish-altitude"></h1>
           <p class="finish-title" id="finish-title"></p>
           <p id="finish-mountain"></p>
+          <p class="k2-banner" id="finish-k2" hidden><svg viewBox="0 0 40 28" aria-hidden="true"><path d="M2 26 L16 6 L22 14 L27 8 L38 26 Z" fill="var(--m-snow)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/></svg><span>You passed K2, the savage mountain. Only Everest stands higher.</span></p>
           <p class="note"><span id="finish-next"></span> <span id="finish-temp"></span></p>
           <ul class="recap" id="finish-highlights"></ul>
           <table class="rounds-table"><tbody id="finish-rows"></tbody></table>
@@ -114,6 +115,65 @@
         </form>
       </div>
     </section>
+  </div>
+
+  <div class="celebrate" id="celebrate" role="dialog" aria-modal="true" aria-labelledby="celebrate-title" hidden>
+    <svg class="celebrate-scene" viewBox="0 0 400 300" preserveAspectRatio="xMidYMax meet" aria-hidden="true">
+      <defs>
+        <radialGradient id="cel-sun" gradientUnits="userSpaceOnUse" cx="200" cy="300" r="420"><stop offset="0" stop-color="var(--dawn-glow)"/><stop offset=".45" stop-color="var(--dawn)"/><stop offset="1" stop-color="var(--dawn)" stop-opacity="0"/></radialGradient>
+      </defs>
+      <rect x="-1200" y="-1200" width="2800" height="1500" fill="var(--night)"/>
+      <rect class="cel-glow" x="-1200" y="-1200" width="2800" height="1500" fill="url(#cel-sun)"/>
+      <g class="cel-aurora">
+        <path d="M-500 70 q60 -40 120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 t120 0 v26 q-60 -34 -120 0 t-120 0 t-120 0 t-120 0 t-120 0 t-120 0 t-120 0 t-120 0 t-120 0 t-120 0 t-120 0 z" fill="var(--aurora-1)"/>
+        <path d="M-500 108 q70 -34 140 0 t140 0 t140 0 t140 0 t140 0 t140 0 t140 0 t140 0 t140 0 t140 0 v18 q-70 -28 -140 0 t-140 0 t-140 0 t-140 0 t-140 0 t-140 0 t-140 0 t-140 0 t-140 0 t-140 0 z" fill="var(--aurora-2)"/>
+      </g>
+      <path class="cel-range" d="M-1200 300 L-1200 230 L-1100 200 L-1000 232 L-900 196 L-800 228 L-700 192 L-600 226 L-500 198 L-400 230 L-300 190 L-200 224 L-100 200 L-46 230 L0 236 L46 204 L86 230 L132 186 L170 222 L230 220 L262 190 L304 226 L352 196 L400 230 L446 206 L500 232 L600 194 L700 228 L800 198 L900 230 L1000 196 L1100 226 L1200 202 L1600 230 L1600 300 Z" fill="var(--m-rock-shade)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/>
+      <path d="M118 300 L200 140 L282 300 Z" fill="var(--m-snow)" stroke="var(--ink)" stroke-width="4" stroke-linejoin="round"/>
+      <path d="M200 140 L230 199 L212 190 L200 204 L188 186 L172 196 Z" fill="var(--m-snow-shade)"/>
+      <g class="cel-flags">
+        <path d="M120 180 Q160 196 200 168 Q240 196 280 180" fill="none" stroke="var(--ink)" stroke-width="2"/>
+        <path d="M132 186 l6 14 l7 -12 z" fill="var(--rope)" stroke="var(--ink)" stroke-width="1.5"/>
+        <path d="M150 191 l6 14 l7 -12 z" fill="var(--signal)" stroke="var(--ink)" stroke-width="1.5"/>
+        <path d="M168 187 l6 14 l7 -12 z" fill="var(--glacier)" stroke="var(--ink)" stroke-width="1.5"/>
+        <path d="M218 187 l6 14 l7 -12 z" fill="var(--aurora-2)" stroke="var(--ink)" stroke-width="1.5"/>
+        <path d="M236 191 l6 14 l7 -12 z" fill="var(--rope)" stroke="var(--ink)" stroke-width="1.5"/>
+        <path d="M254 186 l6 14 l7 -12 z" fill="var(--signal)" stroke="var(--ink)" stroke-width="1.5"/>
+      </g>
+      <g class="cel-sparkles" fill="var(--signal)" stroke="var(--ink)" stroke-width="1.5" stroke-linejoin="round">
+        <path class="sp" d="M100 120 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z"/>
+        <path class="sp" d="M300 110 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3 z"/>
+        <path class="sp" d="M150 70 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3 z"/>
+        <path class="sp" d="M258 64 l4 9 l9 4 l-9 4 l-4 9 l-4 -9 l-9 -4 l9 -4 z"/>
+        <path class="sp" d="M340 160 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3 z"/>
+        <path class="sp" d="M60 168 l3 7 l7 3 l-7 3 l-3 7 l-3 -7 l-7 -3 l7 -3 z"/>
+      </g>
+      <g class="cel-pole">
+        <line x1="222" y1="146" x2="222" y2="84" stroke="var(--ink)" stroke-width="4" stroke-linecap="round"/>
+        <path class="cel-banner-flag" d="M224 86 q14 -5 28 2 t26 -2 v24 q-12 5 -26 -2 t-28 2 z" fill="var(--signal)" stroke="var(--ink)" stroke-width="3" stroke-linejoin="round"/>
+      </g>
+      <g class="cel-climber" stroke="var(--ink)" stroke-linejoin="round">
+        <rect x="183" y="112" width="11" height="17" rx="3" fill="var(--pack)" stroke-width="2.5"/>
+        <rect x="190" y="110" width="20" height="26" rx="8" fill="var(--rope)" stroke-width="2.5"/>
+        <g class="cel-arms" fill="none" stroke-linecap="round">
+          <path d="M192 116 l-12 -18" stroke-width="7"/><path d="M192 116 l-12 -18" stroke="var(--rope)" stroke-width="3.5"/>
+          <path d="M208 116 l12 -18" stroke-width="7"/><path d="M208 116 l12 -18" stroke="var(--rope)" stroke-width="3.5"/>
+        </g>
+        <circle cx="200" cy="100" r="9" fill="var(--skin)" stroke-width="2.5"/>
+        <path d="M190 97 q10 -12 20 0 z" fill="var(--hat)" stroke-width="2.5"/>
+        <rect x="192" y="134" width="7" height="10" rx="2" fill="var(--ink)" stroke-width="1.5"/>
+        <rect x="201" y="134" width="7" height="10" rx="2" fill="var(--ink)" stroke-width="1.5"/>
+      </g>
+    </svg>
+    <div class="celebrate-copy">
+      <h2 class="celebrate-title" id="celebrate-title">Summit!</h2>
+      <p class="celebrate-alt" id="celebrate-alt">8,849 m</p>
+      <div class="celebrate-badge" aria-hidden="true">
+        <svg viewBox="0 0 120 120"><circle cx="60" cy="60" r="54" fill="var(--gold)" stroke="var(--ink)" stroke-width="5"/><circle cx="60" cy="60" r="42" fill="none" stroke="var(--gold-deep)" stroke-width="3" stroke-dasharray="4 6"/><path d="M30 80 L60 34 L90 80 Z" fill="var(--paper)" stroke="var(--ink)" stroke-width="4" stroke-linejoin="round"/><path d="M60 34 v-12 l14 5 l-14 5" fill="var(--rope)" stroke="var(--ink)" stroke-width="2.5" stroke-linejoin="round"/></svg>
+        <span>Everest</span>
+      </div>
+    </div>
+    <button type="button" class="btn btn-quiet celebrate-skip" id="celebrate-skip">Skip</button>
   </div>
 
   <div id="live" class="visually-hidden" aria-live="polite"></div>

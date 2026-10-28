@@ -426,7 +426,7 @@ for (const k of retiredKeys) {
 rmSync(join(ROOT, 'data/p'), { recursive: true, force: true });
 mkdirSync(join(ROOT, 'data/p'));
 for (const p of [...out, ...retired]) writeFileSync(join(ROOT, 'data/p', p.key + '.json'), JSON.stringify(p));
-const indexEntry = (p, extra = {}) => ({ id: p.key, category: TOPICS.includes(p.category) ? `t${TOPICS.indexOf(p.category)}` : "retired", difficulty: p.difficulty, target: p.target, ...extra });
+const indexEntry = (p, extra = {}) => ({ id: p.key, category: TOPICS.includes(p.category) ? `t${TOPICS.indexOf(p.category)}` : 'retired', difficulty: p.difficulty, target: p.target, ...extra });
 const index = out.map((p) => indexEntry(p));
 writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ prompts: [...index, ...retired.map((p) => indexEntry(p, { retired: true }))] }));
 writeFileSync(join(ROOT, 'data/qa-report.json'), JSON.stringify({ errors, prompts: report, retired: retired.map((p) => p.id) }, null, 1));

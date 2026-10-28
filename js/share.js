@@ -11,9 +11,10 @@ export function roundBar(metres) {
 export function shareText({ day, altitude, rounds, url }) {
   const m = milestoneAt(altitude);
   const where = altitude + 0.5 >= EVEREST ? 'Summited Everest' : m.name === 'K2' ? 'Past K2, the savage mountain' : m.height === 0 ? 'Still on the beach' : `Past ${m.name}`;
+  const gold = altitude + 0.5 >= EVEREST;
   const lines = [
-    `Summit #${day}: ${formatMetres(altitude)}`,
-    where,
+    `Summit #${day}: ${formatMetres(altitude)}${gold ? ' ★ gold' : ''}`,
+    gold ? '★ Summited Everest ★' : where,
     '',
     ...rounds.map((r, i) => `${i + 1} ${roundBar(r.metres)} ${formatMetres(r.metres)}`),
   ];

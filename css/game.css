@@ -56,6 +56,16 @@
   --m-ice: #dbe7f2;      --m-ice-shade: #a5bad4;
   --m-sea: #16b5c1;      --m-sea-deep: #0b8fa6;
 
+  /* Summit celebration */
+  --night: #0b1a38;
+  --dawn: #ff8a4c;
+  --dawn-glow: #ffd27a;
+  --aurora-1: #3ddc97;
+  --aurora-2: #46c3e8;
+  --gold: #f4c430;
+  --gold-deep: #a87900;
+  --gold-ink: #3b2a00;
+
   /* Climber outfits */
   --skin: #c98c63;
   --hat: #ffc83d;
@@ -485,6 +495,72 @@ p { margin: 0; }
   .countdown { font-size: 3.5rem; }
   .prompt-small { font-size: var(--step-1); }
 }
+
+/* ---------- Everest celebration ----------
+   One sequence, about 4.5 seconds: flag planted with arms up, sunrise and aurora, a burst of
+   prayer flags and sparkles, the Summit banner, then the gold badge. Base styles are the
+   final frame, so with reduced motion everything simply shows, still. */
+.celebrate {
+  position: fixed; inset: 0; z-index: 50;
+  display: grid; grid-template-rows: 1fr auto; justify-items: center;
+  background: var(--night); color: var(--paper);
+  overflow: hidden;
+}
+/* The scene sits in the lower part so the banner and badge never cover the climber; its sky
+   and ridges run past the frame to fill wide screens. */
+.celebrate-scene { position: absolute; left: 0; right: 0; bottom: 0; width: 100%; height: 66%; overflow: visible; }
+.celebrate-copy {
+  position: relative; z-index: 1; align-self: start; margin-top: clamp(16px, 5vh, 56px);
+  display: flex; flex-direction: column; align-items: center; gap: var(--space-2); text-align: center; padding: 0 var(--space-4);
+}
+.celebrate-title {
+  margin: 0; font-family: var(--font-display); font-size: clamp(2.75rem, 11vw, 5rem); line-height: 1;
+  background: var(--signal); color: var(--ink); border: var(--line) solid var(--ink); padding: 6px 18px 10px;
+  box-shadow: 5px 5px 0 var(--ink); transform: rotate(-2deg);
+}
+.celebrate-alt { margin: 0; font-family: var(--font-display); font-weight: 800; font-size: var(--step-2); background: var(--ink); color: var(--paper); padding: 2px 12px; border: 2px solid var(--paper); }
+.celebrate-badge { display: flex; flex-direction: column; align-items: center; gap: 2px; margin-top: var(--space-2); }
+.celebrate-badge svg { width: clamp(72px, 18vw, 110px); height: auto; }
+.celebrate-badge span { font-weight: 700; background: var(--gold); color: var(--gold-ink); border: 2px solid var(--ink); padding: 0 10px; }
+.celebrate-skip { position: absolute; right: var(--space-4); bottom: var(--space-4); }
+
+.celebrate.is-playing .cel-pole { transform-box: fill-box; transform-origin: 50% 100%; animation: cel-pole 0.6s cubic-bezier(.2,1.4,.5,1) 0.1s both; }
+.celebrate.is-playing .cel-arms { transform-box: fill-box; transform-origin: 50% 100%; animation: cel-arms 0.5s ease-out 0.5s both; }
+.celebrate.is-playing .cel-banner-flag { transform-box: fill-box; transform-origin: 0 50%; animation: cel-wave 1.2s ease-in-out 0.7s 3 alternate both; }
+.celebrate.is-playing .cel-glow { animation: cel-fade 1.1s ease-out 0.8s both; }
+.celebrate.is-playing .cel-aurora { opacity: .55; animation: cel-aurora 2.4s ease-in-out 1s both; }
+.celebrate.is-playing .cel-flags { animation: cel-pop 0.5s cubic-bezier(.2,1.5,.5,1) 1.9s both; transform-box: fill-box; transform-origin: 50% 50%; }
+.celebrate.is-playing .sp { transform-box: fill-box; transform-origin: 50% 50%; animation: cel-sparkle 0.9s ease-out both; }
+.celebrate.is-playing .sp:nth-child(1) { animation-delay: 1.95s; }
+.celebrate.is-playing .sp:nth-child(2) { animation-delay: 2.05s; }
+.celebrate.is-playing .sp:nth-child(3) { animation-delay: 2.15s; }
+.celebrate.is-playing .sp:nth-child(4) { animation-delay: 2.25s; }
+.celebrate.is-playing .sp:nth-child(5) { animation-delay: 2.35s; }
+.celebrate.is-playing .sp:nth-child(6) { animation-delay: 2.45s; }
+.celebrate.is-playing .celebrate-title { animation: cel-banner 0.5s cubic-bezier(.2,1.4,.5,1) 2.8s both; }
+.celebrate.is-playing .celebrate-alt { animation: cel-up 0.4s ease-out 3.1s both; }
+.celebrate.is-playing .celebrate-badge { animation: cel-badge 0.6s cubic-bezier(.2,1.6,.5,1) 3.6s both; }
+.cel-aurora { opacity: .55; }
+
+@keyframes cel-pole { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes cel-arms { from { transform: rotate(0) scaleY(.2); } to { transform: none; } }
+@keyframes cel-wave { from { transform: skewY(-4deg); } to { transform: skewY(4deg); } }
+@keyframes cel-fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes cel-aurora { 0% { opacity: 0; transform: translateX(-30px); } 60% { opacity: .7; } 100% { opacity: .55; transform: translateX(0); } }
+@keyframes cel-pop { from { opacity: 0; transform: scale(.4); } to { opacity: 1; transform: scale(1); } }
+@keyframes cel-sparkle { 0% { opacity: 0; transform: scale(0) rotate(0); } 50% { opacity: 1; transform: scale(1.4) rotate(30deg); } 100% { opacity: 1; transform: scale(1) rotate(45deg); } }
+@keyframes cel-banner { from { opacity: 0; transform: translateY(-40px) rotate(-8deg); } to { opacity: 1; transform: rotate(-2deg); } }
+@keyframes cel-up { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+@keyframes cel-badge { from { opacity: 0; transform: scale(0) rotate(-40deg); } to { opacity: 1; transform: none; } }
+
+/* Gold finish for an Everest day, and a calm note for passing K2. */
+#finish.is-gold .finish-title { background: var(--gold); color: var(--gold-ink); border: 2px solid var(--ink); }
+#finish.is-gold .finish-alt { text-decoration: underline var(--gold) 0.12em; text-underline-offset: 0.12em; }
+.k2-banner {
+  display: flex; align-items: center; gap: var(--space-3); margin: var(--space-2) 0;
+  background: var(--paper-2); border: 2px solid var(--ink); border-left-width: 8px; padding: var(--space-2) var(--space-3);
+}
+.k2-banner svg { width: 40px; height: 28px; flex: none; }
 
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation: none !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
