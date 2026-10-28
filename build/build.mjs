@@ -419,13 +419,14 @@ const retiredKeys = new Set((existing ? existing.days : []).flatMap((d) => d.pro
 const retired = [];
 for (const k of retiredKeys) {
   const f = join(ROOT, 'data/p', k + '.json');
-  if (existsSync(f)) retired.push(JSON.parse(readFileSync(f, 'utf8')));
+  // Retired prompts keep their answers but use today's scoring, so every day climbs the same mountain.
+  if (existsSync(f)) { const p = JSON.parse(readFileSync(f, 'utf8')); p.target = targetFor(p.size, p.difficulty); retired.push(p); }
   else errors.push(`published day uses retired prompt ${k} and its file is gone`);
 }
 rmSync(join(ROOT, 'data/p'), { recursive: true, force: true });
 mkdirSync(join(ROOT, 'data/p'));
 for (const p of [...out, ...retired]) writeFileSync(join(ROOT, 'data/p', p.key + '.json'), JSON.stringify(p));
-const indexEntry = (p, extra = {}) => ({ id: p.key, category: `t${TOPICS.indexOf(p.category)}`, difficulty: p.difficulty, target: p.target, ...extra });
+const indexEntry = (p, extra = {}) => ({ id: p.key, category: TOPICS.includes(p.category) ? `t${TOPICS.indexOf(p.category)}` : "retired", difficulty: p.difficulty, target: p.target, ...extra });
 const index = out.map((p) => indexEntry(p));
 writeFileSync(join(ROOT, 'data/index.json'), JSON.stringify({ prompts: [...index, ...retired.map((p) => indexEntry(p, { retired: true }))] }));
 writeFileSync(join(ROOT, 'data/qa-report.json'), JSON.stringify({ errors, prompts: report, retired: retired.map((p) => p.id) }, null, 1));
