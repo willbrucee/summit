@@ -66,4 +66,19 @@ for (const [name, curve] of Object.entries(CURVES)) {
     console.log(`| ${pname} | ${m(pct(r, 0.1))} m | ${m(pct(r, 0.5))} m | ${m(pct(r, 0.9))} m | ${top} | ${(100 * k2).toFixed(1)}% | ${(100 * ev).toFixed(1)}% |`);
   }
 }
+// Share of games ending at each mountain (the highest one passed).
+for (const [name, curve] of Object.entries(CURVES)) {
+  console.log(`\n#### Where games end: ${name}\n`);
+  console.log('| Highest mountain passed | ' + Object.keys(PLAYERS).join(' | ') + ' |');
+  console.log('|---|' + Object.keys(PLAYERS).map(() => '---').join('|') + '|');
+  const dist = Object.entries(PLAYERS).map(([pname, player]) => {
+    const counts = {};
+    for (const a of simulate(curve, player, name + pname)) { const n = milestoneAt(a).name; counts[n] = (counts[n] || 0) + 1; }
+    return counts;
+  });
+  for (const ms of MILESTONES) {
+    const cells = dist.map((c) => (c[ms.name] ? `${((100 * c[ms.name]) / GAMES).toFixed(1)}%` : ''));
+    if (cells.some(Boolean)) console.log(`| ${ms.name} (${m(ms.height)} m) | ${cells.join(' | ')} |`);
+  }
+}
 console.log('\nMilestones: ' + MILESTONES.map((x) => `${x.name} ${m(x.height)}`).join(', '));
