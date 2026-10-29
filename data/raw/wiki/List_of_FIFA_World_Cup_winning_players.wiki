@@ -1,0 +1,4690 @@
+{{Short description|None}}
+[[File:Pelé à la Coupe du monde de football 1970, 'Mexico 70 - World Cup Story', Panini figurina n°38.jpg|thumb|[[Pelé]] is the only player to win the World Cup three times, having been part of the Brazilian squad in [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]], and [[1970 FIFA World Cup|1970]].]]
+This page is a list of all players who have won the mens [[FIFA World Cup]] tournament since its inception in 1930.
+
+Participating teams have to register squads for each edition of the World Cup, which consisted of 22 players until 1998, then of 23 players from 2002 to 2018, and then of 26 players from 2022. Since 1978, winners' medals are given to all members of the winning squads. Prior to that, only players who were on the pitch during the [[List of FIFA World Cup finals|final matches]] (or [[Uruguay v Brazil (1950 FIFA World Cup)|the ''de facto'' final in 1950]]) received medals. [[FIFA]] decided in 2007 to retroactively award winners' medals to all members of the winning squads between 1930 and 1974.<ref name="winners">{{Cite news |url=https://www.theguardian.com/football/2007/nov/25/newsstory.sport9 |title=Pele and Greaves to get World Cup winners medals |date=25 November 2007 |work=[[The Guardian]] |access-date=7 December 2019 |archive-url=https://web.archive.org/web/20130928205102/https://www.theguardian.com/football/2007/nov/25/newsstory.sport9 |archive-date=28 September 2013 |url-status=live }}</ref>
+
+World Cup winning players are among a selected few who are officially allowed to touch the [[FIFA World Cup Trophy]] with bare hands; the group also includes [[List of FIFA World Cup winning managers|managers who have won the competition]], [[heads of state]], and FIFA officials.<ref>{{cite web|url=https://www.sportingnews.com/in/soccer/news/who-can-touch-world-cup-trophy-allowed/z2migrds4yqfewgrf7z5apas |title=Who can touch the World Cup trophy? Only a special few are allowed to grab FIFA hardware with their bare hands |last=Miles |first=Toby |date=18 December 2022 |publisher=[[Sporting News]] |access-date=4 January 2023}}</ref>
+
+== Winning players ==
+A total of 497 players have been in the winning team in the World Cup. Brazil's [[Pelé]] is the only one to have won three times, while another 21 have won twice. Only players from Brazil and Italy, and one player from Argentina, have won the World Cup more than once. 
+*No player so far has won two World Cups both as [[captain (association football)|captain]]. Italy's [[Giuseppe Meazza]] (1938), Brazil's [[Hilderaldo Bellini|Bellini]] (1958), [[Mauro Ramos|Mauro]] (1962), and [[Cafu]] (2002), and Argentina's [[Daniel Passarella]] (1978) lifted the trophy once as captain, but were not captain for the other tournament they won. Argentina's [[Diego Maradona]], Brazil's [[Dunga]], and France's [[Hugo Lloris]] captained their sides in two [[List of FIFA World Cup finals|final matches]], and Argentina's [[Lionel Messi]] captained his side in three final matches, but only won on one of their occasions, while West Germany's [[Karl-Heinz Rummenigge]] lost both finals as captain.
+*Brazil's [[Vavá]] (1958, 1962) and [[Pelé]] (1958, 1970) scored in two finals for winning teams; three more players, West Germany's [[Paul Breitner]] and France's [[Zinedine Zidane]] and [[Kylian Mbappé]], have scored in two finals, but only won on the first occasion. England's [[Geoff Hurst]] (1966) scored a [[hat-trick]] for the winning team in the final, while Mbappé achieved a hat-trick in the final he lost.
+*Brazil's [[Cafu]] (1994, 1998, 2002) and Argentina's [[Lionel Messi]] (2014, 2022, 2026) are the only players to play in three finals, with Cafu the only player to play three consecutively. Brazilians [[Carlos Castilho|Castilho]], [[Nílton Santos]], [[Pelé]], and [[Ronaldo (Brazilian footballer)|Ronaldo]], and West Germany's [[Pierre Littbarski]] and [[Lothar Matthäus]], also were three times in a squad that reached the final, but none of them were on the pitch for all three finals.
+*[[Luis Monti]] is the only player to appear in two finals for different national teams. He played in the 1930 final for Argentina, who lost, and the 1934 final for Italy, who won. [[Attilio Demaría]] was also in Argentina's 1930 squad and Italy's 1934 squad, but appeared in neither final.
+*Brazil's [[Mário Zagallo]], having triumphed in 1958 and 1962 as player, went on to [[List of FIFA World Cup winning managers|win as the manager]] in 1970, becoming the first to win both as player and manager. West Germany's [[Franz Beckenbauer]] is the second, winning as captain in 1974 and as manager in 1990. France's [[Didier Deschamps]] is the third: he led his team to victory in 1998 as captain, and then in 2018 as manager.
+*Germany's [[Miroslav Klose]] is the only player to have won four World Cup medals: 2002 (silver), 2006, 2010 (both bronze), and 2014 (gold).
+
+In the below table, years in '''bold''' indicate that the player appeared in the respective final match where his team won, while years in ''italics'' indicate that the player was an unused squad member in the respective tournament. Until 1974 members of squads who had not played in the respective final matches were not eligible for winners' medals, but in 2007 FIFA retroactively awarded 122 of these medals to the players concerned or their families.<ref name="winners"/>
+
+{| class="wikitable plainrowheaders sortable" style="text-align:center"
+|+ Players who have won the World Cup
+|-
+! scope="col" rowspan="2" | Player
+! scope="col" rowspan="2" | Team
+! scope="col" colspan="2" | Titles won
+! scope="col" rowspan="2" | Other appearances
+! scope="col" rowspan="2" class="unsortable" | Profile
+! rowspan="2" |Birth
+! rowspan="2" |Death
+|-
+! scope="col" | Number
+! scope="col" | Years
+|-
+!scope=row data-sort-value="Pele"| [[Pelé]]
+|align=left| {{fb|BRA|1968}}
+| '''3'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', [[1962 FIFA World Cup|1962]], '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63869|PELÉ (Edson Arantes do Nascimento)}}</ref>
+|1940
+|2022
+|-
+!scope=row data-sort-value="Bellini"| [[Hilderaldo Bellini|Bellini]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', ''[[1962 FIFA World Cup|1962]]''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63862|BELLINI}}</ref>
+|1930
+|2014
+|-
+!scope=row data-sort-value="Cafu"| [[Cafu]]
+|align=left| {{fb|BRA}}
+| '''2'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]''', '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|76824|CAFU}}</ref>
+|1970
+|
+|-
+!scope=row data-sort-value="Castilho"| [[Carlos Castilho|Castilho]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| ''[[1958 FIFA World Cup|1958]]'', ''[[1962 FIFA World Cup|1962]]''
+|align=left| ''[[1950 FIFA World Cup|1950]]'', [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|47382|CASTILHO}}</ref>
+|1927
+|1987
+|-
+!scope=row data-sort-value="Didi"| [[Didi (footballer, born 1928)|Didi]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|63855|DIDI}}</ref>
+|1928
+|2001
+|-
+!scope=row data-sort-value="Djalma Santos"| [[Djalma Santos]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| [[1954 FIFA World Cup|1954]], [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|44603|DJALMA SANTOS}}</ref>
+|1929
+|2013
+|-
+!scope=row data-sort-value="Ferrari, Giovanni"| [[Giovanni Ferrari]]
+|align=left| {{fb|ITA|1861}}
+| '''2'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]''', '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174537|Giovanni FERRARI}}</ref>
+|1907
+|1982
+|-
+!scope=row data-sort-value="Garrincha"| [[Garrincha]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63868|GARRINCHA}}</ref>
+|1933
+|1983
+|-
+!scope=row data-sort-value="Gilmar"| [[Gilmar]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63860|GILMAR (Gilmar Dos Santos Neves)}}</ref>
+|1930
+|2013
+|-
+!scope=row data-sort-value="Masetti, Guido"| [[Guido Masetti]]
+|align=left| {{fb|ITA|1861}}
+| '''2'''
+!scope=row| ''[[1934 FIFA World Cup|1934]]'', ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69444|Guido MASETTI}}</ref>
+|1907
+|1993
+|-
+!scope=row data-sort-value="Mauro"| [[Mauro Ramos|Mauro]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| ''[[1958 FIFA World Cup|1958]]'', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| ''[[1954 FIFA World Cup|1954]]''
+| <ref group="fp">{{FIFA player|69900|MAURO RAMOS}}</ref>
+|1930
+|2002
+|-
+!scope=row data-sort-value="Meazza, Giuseppe"| [[Giuseppe Meazza]]
+|align=left| {{fb|ITA|1861}}
+| '''2'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]''', '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174761|Giuseppe MEAZZA}}</ref>
+|1910
+|1979
+|-
+!scope=row data-sort-value="Monzeglio, Eraldo"| [[Eraldo Monzeglio]]
+|align=left| {{fb|ITA|1861}}
+| '''2'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]''', [[1938 FIFA World Cup|1938]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174778|Eraldo MONZEGLIO}}</ref>
+|1906
+|1981
+|-
+!scope=row data-sort-value="Nilton Santos"| [[Nílton Santos]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| ''[[1950 FIFA World Cup|1950]]'', [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|44604|NILTON SANTOS}}</ref>
+|1925
+|2013
+|-
+!scope=row data-sort-value="Passarella, Daniel"| [[Daniel Passarella]]
+|align=left| {{fb|ARG}}
+| '''2'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]''', ''[[1986 FIFA World Cup|1986]]''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|174840|Daniel PASSARELLA}}</ref>
+|1953
+|
+|-
+!scope=row data-sort-value="Pepe"| [[Pepe (footballer, born 1935)|Pepe]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| ''[[1958 FIFA World Cup|1958]]'', ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69902|PEPE}}</ref>
+|1935
+|
+|-
+!scope=row data-sort-value="Ronaldo"| [[Ronaldo (Brazilian footballer)|Ronaldo]]
+|align=left| {{fb|BRA}}
+| '''2'''
+!scope=row| ''[[1994 FIFA World Cup|1994]]'', '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|92699|RONALDO}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Vava"| [[Vavá]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|63866|VAVA}}</ref>
+|1934
+|2002
+|-
+!scope=row data-sort-value="Zagallo, Mario"| [[Mário Zagallo]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|61571|Mario ZAGALLO}}</ref>
+|1931
+|2024
+|-
+!scope=row data-sort-value="Zito"| [[Zito (footballer, born 1932)|Zito]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]''', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| ''[[1966 FIFA World Cup|1966]]''
+| <ref group="fp">{{FIFA player|63867|ZITO}}</ref>
+|1932
+|2015
+|-
+!scope=row data-sort-value="Zozimo"| [[Zózimo]]
+|align=left| {{fb|BRA|1960}}
+| '''2'''
+!scope=row| ''[[1958 FIFA World Cup|1958]]'', '''[[1962 FIFA World Cup|1962]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|63870|ZOZIMO}}</ref>
+|1932
+|1977
+|-
+!scope=row data-sort-value="Acuna, Marcos"| [[Marcos Acuña]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|401204|Marcos ACUNA}}</ref>
+|1991
+|
+|-
+!scope=row data-sort-value="Ado"| [[Ado (footballer)|Ado]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| ''[[1970 FIFA World Cup|1970]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69815|ADO}}</ref>
+|1944
+|
+|-
+!scope=row data-sort-value="Albiol, Raul"| [[Raúl Albiol]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| ''[[2010 FIFA World Cup|2010]]''
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|216820|Raul ALBIOL}}</ref>
+|1985
+|
+|-
+!scope=row data-sort-value="Aldair"| [[Aldair]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| ''[[1990 FIFA World Cup|1990]]'', [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|63545|ALDAIR}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Allemandi, Luigi"| [[Luigi Allemandi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174337|Luigi ALLEMANDI}}</ref>
+|1903
+|1978
+|-
+!scope=row data-sort-value="Almada, Thiago"| [[Thiago Almada]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|2001
+|
+|-
+!scope=row data-sort-value="Almiron, Sergio"| [[Sergio Omar Almirón|Sergio Almirón]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1986 FIFA World Cup|1986]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69347|Sergio ALMIRON}}</ref>
+|1958
+|
+|-
+!scope=row data-sort-value="Alonso, Norberto"| [[Norberto Alonso]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1978 FIFA World Cup|1978]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174340|Norberto ALONSO}}</ref>
+|1953
+|
+|-
+!scope=row data-sort-value="Alonso, Xabi"| [[Xabi Alonso]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|207528|Xabi Alonso}}</ref>
+|1981
+|
+|-
+!scope=row data-sort-value="Altafini, Jose"| [[José Altafini]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| [[1958 FIFA World Cup|1958]]
+|align=left| [[1962 FIFA World Cup|1962]] (for Italy)
+| <ref group="fp">{{FIFA player|174341|Jose ALTAFINI}}</ref>
+|1938
+|
+|-
+!scope=row data-sort-value="Altair"| [[Altair (footballer)|Altair]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63877|ALTAIR}}</ref>
+|1938
+|2019
+|-
+!scope=row data-sort-value="Altobelli, Alessandro"| [[Alessandro Altobelli]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|174342|Alessandro ALTOBELLI}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Alvarez, Julian"| [[Julián Alvarez]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|2000
+|
+|-
+!scope=row data-sort-value="Amarildo"| [[Amarildo (footballer, born 1939)|Amarildo]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|63873|AMARILDO}}</ref>
+|1939
+|
+|-
+!scope=row data-sort-value="Amelia, Marco"| [[Marco Amelia]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| ''[[2006 FIFA World Cup|2006]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|210179|Marco AMELIA}}</ref>
+|1982
+|
+|-
+!scope=row data-sort-value="Anderson Polga"| [[Ânderson Polga]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| 
+| <ref group="fp">{{FIFA player|188391|ANDERSON POLGA}}</ref>
+|1979
+|
+|-
+!scope=row data-sort-value="Andrade, Jose"| [[José Leandro Andrade|José Andrade]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|45617|Jose ANDRADE}}</ref>
+|1901
+|1957
+|-
+!scope=row data-sort-value="Andreolo, Michele"| [[Michele Andreolo]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174349|Michele ANDREOLO}}</ref>
+|1912
+|1981
+|-
+!scope=row data-sort-value="Anselmo, Peregrino"| [[Peregrino Anselmo]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1930 FIFA World Cup|1930]]
+|align=left| 
+| <ref group="fp">{{FIFA player|45675|Juan ANSELMO}}</ref>
+|1902
+|1975
+|-
+!scope=row data-sort-value="Antognoni, Giancarlo"| [[Giancarlo Antognoni]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| [[1982 FIFA World Cup|1982]]
+|align=left| [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|174352|Giancarlo ANTOGNONI}}</ref>
+|1954
+|
+|-
+!scope=row data-sort-value="Arbeloa, Alvaro"| [[Álvaro Arbeloa]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| [[2010 FIFA World Cup|2010]]
+|align=left| 
+| <ref group="fp">{{FIFA player|297330|Álvaro Arbeloa}}</ref>
+|1983
+|
+|-
+!scope=row data-sort-value="Arcari, Pietro"| [[Pietro Arcari]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1934 FIFA World Cup|1934]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|181794|Pietro ARCARI}}</ref>
+|1909
+|1988
+|-
+!scope=row data-sort-value="Ardiles, Osvaldo"| [[Osvaldo Ardiles]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|174354|Osvaldo ARDILES}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Areola, Alphonse"| [[Alphonse Areola]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| ''[[2018 FIFA World Cup|2018]]''
+|align=left| ''[[2022 FIFA World Cup|2022]]''
+| <ref group="fp">{{FIFA player|368840|Alphonse AREOLA}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Armani, Franco"| [[Franco Armani]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[2022 FIFA World Cup|2022]]''
+|align=left| [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|398422|Franco ARMANI}}</ref>
+|1986
+|
+|-
+!scope=row data-sort-value="Armfield, Jimmy"| [[Jimmy Armfield]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|45791|Jimmy ARMFIELD}}</ref>
+|1935
+|2018
+|-
+!scope=row data-sort-value="Augenthaler, Klaus"| [[Klaus Augenthaler]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|174359|Klaus AUGENTHALER}}</ref>
+|1957
+|
+|-
+!scope=row data-sort-value="Aumann, Raimond"| [[Raimond Aumann]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1990 FIFA World Cup|1990]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|174361|Raimond AUMANN}}</ref>
+|1963
+|
+|-
+!scope=row data-sort-value="Baena, Alex"| [[Álex Baena]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|2001
+|
+|-
+!scope=row data-sort-value="Baldocchi"| [[Baldocchi]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| ''[[1970 FIFA World Cup|1970]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69816|BALDOCHI}}</ref>
+|1946
+|
+|-
+!scope=row data-sort-value="Baley, Hector"| [[Héctor Baley]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1978 FIFA World Cup|1978]]''
+|align=left| ''[[1982 FIFA World Cup|1982]]''
+| <ref group="fp">{{FIFA player|69415|Hector BALEY}}</ref>
+|1950
+|
+|-
+!scope=row data-sort-value="Ball, Alan"| [[Alan Ball Jr.|Alan Ball]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174369|Alan BALL}}</ref>
+|1945
+|2007
+|-
+!scope=row data-sort-value="Ballestrero, Enrique"| [[Enrique Ballestrero]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|46133|Enrique BALLESTRERO}}</ref>
+|1905
+|1969
+|-
+!scope=row data-sort-value="Banks, Gordon"| [[Gordon Banks]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| ''[[1962 FIFA World Cup|1962]]'',{{refn|group=n|As per FIFA's website.<ref>{{cite news |title=1962 FIFA World Cup Chile™ - England |url=https://www.fifa.com/tournaments/mens/worldcup/1962chile/teams/43942 |archive-url=https://web.archive.org/web/20230406023116/https://www.fifa.com/tournaments/mens/worldcup/1962chile/teams/43942 |archive-date=6 April 2023 |publisher=FIFA.com}}</ref> Another source<ref>{{cite news |title=England in the World Cup – 1962 Final Squad |url=http://www.englandfootballonline.com/CmpWC/CmpWC1962Squad.html |publisher=England Football Online |date=13 October 2013 |access-date=5 June 2018 |archive-url=https://web.archive.org/web/20020601185847/http://www.englandfootballonline.com/CmpWC/CmpWC1962Squad.html |archive-date=1 June 2002 |url-status=live }}</ref> states that Banks was omitted from the 1962 squad.}} [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174372|Gordon BANKS}}</ref>
+|1937
+|2019
+|-
+!scope=row data-sort-value="Baresi, Franco"| [[Franco Baresi]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|174375|Franco BARESI}}</ref>
+|1960
+|2026
+|-
+!scope=row data-sort-value="Barone, Simone"| [[Simone Barone]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| 
+| <ref group="fp">{{FIFA player|215624|Simone BARONE}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Barthez, Fabien"| [[Fabien Barthez]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|96075|Fabien BARTHEZ}}</ref>
+|1971
+|
+|-
+!scope=row data-sort-value="Barzagli, Andrea"| [[Andrea Barzagli]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|214377|Andrea BARZAGLI}}</ref>
+|1981
+|
+|-
+!scope=row data-sort-value="Batista, Sergio"| [[Sergio Batista]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|174382|Sergio BATISTA}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Bauer, Hans"| [[Hans Bauer (footballer)|Hans Bauer]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| 
+| <ref group="fp">{{FIFA player|46315|Hans BAUER}}</ref>
+|1927
+|1997
+|-
+!scope=row data-sort-value="Bebeto"| [[Bebeto]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|96461|BEBETO}}</ref>
+|1964
+|
+|-
+!scope=row data-sort-value="Beckenbauer, Franz"| [[Franz Beckenbauer]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1966 FIFA World Cup|1966]], [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|25113|Franz BECKENBAUER}}</ref>
+|1945
+|2024
+|-
+!scope=row data-sort-value="Bein, Uwe"| [[Uwe Bein]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1990 FIFA World Cup|1990]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174385|Uwe BEIN}}</ref>
+|1960
+|
+|-
+!scope=row data-sort-value="Belletti, Juliano"| [[Juliano Belletti]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| 
+| <ref group="fp">{{FIFA player|178786|BELLETTI}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Bergomi, Giuseppe"| [[Giuseppe Bergomi]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|174391|Giuseppe BERGOMI}}</ref>
+|1963
+|
+|-
+!scope=row data-sort-value="Berthold, Thomas"| [[Thomas Berthold]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1986 FIFA World Cup|1986]], [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|174392|Thomas BERTHOLD}}</ref>
+|1964
+|
+|-
+!scope=row data-sort-value="Bertolini, Luigi"| [[Luigi Bertolini]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174394|Luigi BERTOLINI}}</ref>
+|1904
+|1977
+|-
+!scope=row data-sort-value="Bertoni, Daniel"| [[Daniel Bertoni]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|174395|Daniel BERTONI}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Bertoni, Sergio"| [[Sergio Bertoni]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69676|Sergio BERTONI}}</ref>
+|1915
+|1995
+|-
+!scope=row data-sort-value="Biavati, Amedeo"| [[Amedeo Biavati]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174399|Amedeo BIAVATI}}</ref>
+|1915
+|1979
+|-
+!scope=row data-sort-value="Biesinger, Ulrich"| [[Ulrich Biesinger]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1954 FIFA World Cup|1954]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|70007|Uli BIESINGER}}</ref>
+|1933
+|2011
+|-
+!scope=row data-sort-value="Blanc, Laurent"| [[Laurent Blanc]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[1998 FIFA World Cup|1998]]
+|align=left| 
+| <ref group="fp">{{FIFA player|46662|Laurent BLANC}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Boateng, Jerome"| [[Jérôme Boateng]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|299442|Jerome BOATENG}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Bochini, Ricardo"| [[Ricardo Bochini]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1986 FIFA World Cup|1986]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174411|Ricardo BOCHINI}}</ref>
+|1954
+|
+|-
+!scope=row data-sort-value="Boghossian, Alain"| [[Alain Boghossian]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| ''[[2002 FIFA World Cup|2002]]''
+| <ref group="fp">{{FIFA player|170704|Alain BOGHOSSIAN}}</ref>
+|1970
+|
+|-
+!scope=row data-sort-value="Bonetti, Peter"| [[Peter Bonetti]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174413|Peter BONETTI}}</ref>
+|1941
+|2020
+|-
+!scope=row data-sort-value="Bonhof, Rainer"| [[Rainer Bonhof]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|174415|Rainer BONHOF}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Bordon, Ivano"| [[Ivano Bordon]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| ''[[1978 FIFA World Cup|1978]]''
+| <ref group="fp">{{FIFA player|174419|Ivano BORDON}}</ref>
+|1951
+|
+|-
+!scope=row data-sort-value="Borel, Felice"| [[Felice Borel]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1934 FIFA World Cup|1934]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174420|Felice BOREL}}</ref>
+|1914
+|1993
+|-
+!scope=row data-sort-value="Borghi, Claudio"| [[Claudio Borghi (footballer)|Claudio Borghi]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1986 FIFA World Cup|1986]]
+|align=left| 
+| <ref group="fp">{{FIFA player|46792|Claudio BORGHI}}</ref>
+|1964
+|
+|-
+!scope=row data-sort-value="Branco"| [[Branco (footballer)|Branco]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|63517|BRANCO}}</ref>
+|1964
+|
+|-
+!scope=row data-sort-value="Brehme, Andreas"| [[Andreas Brehme]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1986 FIFA World Cup|1986]], [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|174427|Andreas BREHME}}</ref>
+|1960
+|2024
+|-
+!scope=row data-sort-value="Breitner, Paul"| [[Paul Breitner]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|174428|Paul BREITNER}}</ref>
+|1951
+|
+|-
+!scope=row data-sort-value="Brito"| [[Brito (footballer, born 1939)|Brito]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63884|BRITO}}</ref>
+|1939
+|2026
+|-
+!scope=row data-sort-value="Britos, Julio Cesar"| [[Julio César Britos]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69722|Julio Cesar BRITOS}}</ref>
+|1926
+|1998
+|-
+!scope=row data-sort-value="Brown, Jose Luis"| [[José Luis Brown]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174434|Jose BROWN}}</ref>
+|1956
+|2019
+|-
+!scope=row data-sort-value="Buchwald, Guido"| [[Guido Buchwald]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|174435|Guido BUCHWALD}}</ref>
+|1961
+|
+|-
+!scope=row data-sort-value="Buffon, Gianluigi"| [[Gianluigi Buffon]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| ''[[1998 FIFA World Cup|1998]]'', [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|159304|Gianluigi BUFFON}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Burgueno, Juan"| [[Juan Burgueño]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69723|Juan BURGUENO}}</ref>
+|1923
+|1997
+|-
+!scope=row data-sort-value="Burruchaga, Jorge"| [[Jorge Burruchaga]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|174440|Jorge BURRUCHAGA}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Busquets, Sergio"| [[Sergio Busquets]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|303034|Sergio BUSQUETS}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Byrne, Gerry"| [[Gerry Byrne (footballer, born 1938)|Gerry Byrne]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|47117|Gerry BYRNE}}</ref>
+|1938
+|2015
+|-
+!scope=row data-sort-value="Cabrini, Antonio"| [[Antonio Cabrini]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|174446|Antonio CABRINI}}</ref>
+|1957
+|
+|-
+!scope=row data-sort-value="Caju"| [[Caju (footballer, born 1949)|Caju]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| [[1970 FIFA World Cup|1970]]
+|align=left| [[1974 FIFA World Cup|1974]]
+| <ref group="fp">{{FIFA player|63894|PAULO CESAR}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Caligaris, Umberto"| [[Umberto Caligaris]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1934 FIFA World Cup|1934]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|181793|Umberto CALIGARIS}}</ref>
+|1901
+|1940
+|-
+!scope=row data-sort-value="Callaghan, Ian"| [[Ian Callaghan]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| [[1966 FIFA World Cup|1966]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174450|Ian CALLAGHAN}}</ref>
+|1942
+|
+|-
+!scope=row data-sort-value="Calvo, Juan Carlos"| [[Juan Carlos Calvo]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69408|Juan Carlos CALVO}}</ref>
+|1906
+|1977
+|-
+!scope=row data-sort-value="Camoranesi, Mauro"| [[Mauro Camoranesi]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|214022|Mauro CAMORANESI}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Candela, Vincent"| [[Vincent Candela]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[1998 FIFA World Cup|1998]]
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|170703|Vincent CANDELA}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Cannavaro, Fabio"| [[Fabio Cannavaro]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|155957|Fabio CANNAVARO}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Capdevila, Joan"| [[Joan Capdevila]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|177907|Joan CAPDEVILA}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Capuccini, Miguel"| [[Miguel Capuccini]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69409|Miguel CAPPUCCINI}}</ref>
+|1904
+|1980
+|-
+!scope=row data-sort-value="Carlos Alberto"| [[Carlos Alberto Torres|Carlos Alberto]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|63891|CARLOS ALBERTO}}</ref>
+|1944
+|2016
+|-
+!scope=row data-sort-value="Casillas, Iker"| [[Iker Casillas]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|176644|Iker CASILLAS}}</ref>
+|1981
+|
+|-
+!scope=row data-sort-value="Castellazzi, Armando"| [[Armando Castellazzi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1934 FIFA World Cup|1934]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174460|Armando CASTELLAZZI}}</ref>
+|1904
+|1968
+|-
+!scope=row data-sort-value="Castro, Hector"| [[Héctor Castro]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|47398|Hector CASTRO}}</ref>
+|1904
+|1960
+|-
+!scope=row data-sort-value="Causio, Franco"| [[Franco Causio]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|174462|Franco CAUSIO}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Cavanna, Giuseppe"| [[Giuseppe Cavanna]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1934 FIFA World Cup|1934]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69443|Giuseppe CAVANNA}}</ref>
+|1905
+|1976
+|-
+!scope=row data-sort-value="Cea, Pedro"| [[Pedro Cea]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|47419|Pedro CEA}}</ref>
+|1900
+|1970
+|-
+!scope=row data-sort-value="Ceresoli, Carlo"| [[Carlo Ceresoli]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|43986|Carlo CERESOLI}}</ref>
+|1910
+|1995
+|-
+!scope=row data-sort-value="Charbonnier, Lionel"| [[Lionel Charbonnier]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| ''[[1998 FIFA World Cup|1998]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|170700|Lionel CHARBONNIER}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Charlton, Bobby"| [[Bobby Charlton]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| ''[[1958 FIFA World Cup|1958]]'', [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|43993|Bobby CHARLTON}}</ref>
+|1937
+|2023
+|-
+!scope=row data-sort-value="Charlton, Jack"| [[Jack Charlton]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|43992|Jack CHARLTON}}</ref>
+|1935
+|2020
+|-
+!scope=row data-sort-value="Chizzo, Bruno"| [[Bruno Chizzo]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69678|Bruno CHIZZO}}</ref>
+|1916
+|1969
+|-
+!scope=row data-sort-value="Clausen, Nestor"| [[Néstor Clausen]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1986 FIFA World Cup|1986]]
+|align=left| 
+| <ref group="fp">{{FIFA player|47827|Nestor CLAUSEN}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Clodoaldo"| [[Clodoaldo]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|47842|CLODOALDO}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Cohen, George"| [[George Cohen]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|44008|George COHEN}}</ref>
+|1939
+|2022
+|-
+!scope=row data-sort-value="Colaussi, Gino"| [[Gino Colaussi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174474|Gino COLAUSSI}}</ref>
+|1914
+|1991
+|-
+!scope=row data-sort-value="Collovati, Fulvio"| [[Fulvio Collovati]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|174475|Fulvio COLLOVATI}}</ref>
+|1957
+|
+|-
+!scope=row data-sort-value="Combi, Gianpiero"| [[Gianpiero Combi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|44013|Giampiero COMBI}}</ref>
+|1902
+|1956
+|-
+!scope=row data-sort-value="Connelly, John"| [[John Connelly (footballer, born 1938)|John Connelly]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| [[1966 FIFA World Cup|1966]]
+|align=left| ''[[1962 FIFA World Cup|1962]]''
+| <ref group="fp">{{FIFA player|174476|John CONNELLY}}</ref>
+|1938
+|2012
+|-
+!scope=row data-sort-value="Conti, Bruno"| [[Bruno Conti]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|174477|Bruno CONTI}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Coutinho"| [[Coutinho (footballer, born 1943)|Coutinho]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69901|COUTINHO}}</ref>
+|1943
+|2019
+|-
+!scope=row data-sort-value="Correa, Angel"| [[Ángel Correa]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left|
+| <ref group="fp">{{FIFA player|385343|Angel CORREA}}</ref>
+|1995
+|
+|-
+!scope=row data-sort-value="Cubarsi, Pau"| [[Pau Cubarsí]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|2007
+|
+|-
+!scope=row data-sort-value="Cuciuffo, Jose Luis"| [[José Luis Cuciuffo]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174484|Jose CUCIUFFO}}</ref>
+|1961
+|2004
+|-
+!scope=row data-sort-value="Cucurella, Marc"| [[Marc Cucurella]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|1998
+|
+|-
+!scope=row data-sort-value="Cullmann, Bernhard"| [[Bernhard Cullmann]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| ''[[1978 FIFA World Cup|1978]]''
+| <ref group="fp">{{FIFA player|48110|Bernd CULLMANN}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Dario"| [[Dadá Maravilha|Dario]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| ''[[1970 FIFA World Cup|1970]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|28473|DARIO}}</ref>
+|1946
+|
+|-
+!scope=row data-sort-value="De Rossi, Daniele"| [[Daniele De Rossi]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|209119|Daniele DE ROSSI}}</ref>
+|1983
+|
+|-
+!scope=row data-sort-value="De Sordi, Nilton"| [[Nílton de Sordi|De Sordi]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| [[1958 FIFA World Cup|1958]]
+|align=left| 
+| <ref group="fp">{{FIFA player|63861|DE SORDI}}</ref>
+|1931
+|2013
+|-
+!scope=row data-sort-value="Del Piero, Alessando"| [[Alessandro Del Piero]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|155963|Alessandro DEL PIERO}}</ref>
+|1974
+|
+|-
+!scope=row data-sort-value="Demaria, Attilio"| [[Attilio Demaría]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1934 FIFA World Cup|1934]]
+|align=left| [[1930 FIFA World Cup|1930]] (for Argentina)
+| <ref group="fp">{{FIFA player|44040|Atilio DEMARIA}}</ref>
+|1909
+|1990
+|-
+!scope=row data-sort-value="Dembele, Ousmane"| [[Ousmane Dembélé]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| [[2022 FIFA World Cup|2022]], [[2026 FIFA World Cup|2026]]
+| <ref group="fp">{{FIFA player|398680|Ousmane DEMBELE}}</ref>
+|1997
+|
+|-
+!scope=row data-sort-value="Denilson"| [[Denílson (footballer, born 1977)|Denílson]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|63876|DENILSON}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="De Paul, Rodrigo"| [[Rodrigo De Paul]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1994
+|
+|-
+!scope=row data-sort-value="Desailly, Marcel"| [[Marcel Desailly]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|95650|Marcel DESAILLY}}</ref>
+|1968
+|
+|-
+!scope=row data-sort-value="Deschamps, Didier"| [[Didier Deschamps]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|48455|Didier DESCHAMPS}}</ref>
+|1968
+|
+|-
+!scope=row data-sort-value="Dida"| [[Dida (footballer, born 1934)|Dida]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| [[1958 FIFA World Cup|1958]]
+|align=left| 
+| <ref group="fp">{{FIFA player|190051|DIDA}}</ref>
+|1934
+|2002
+|-
+!scope=row data-sort-value="Dida"| [[Dida (footballer, born 1973)|Dida]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| ''[[2002 FIFA World Cup|2002]]''
+|align=left| ''[[1998 FIFA World Cup|1998]]'', [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|48549|DIDA}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Di Maria, Angel"| [[Ángel Di María]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|266800|Angel DI MARIA}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Dino Sani"| [[Dino Sani]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| [[1958 FIFA World Cup|1958]]
+|align=left| 
+| <ref group="fp">{{FIFA player|63863|DINO SANI}}</ref>
+|1932
+|
+|-
+!scope=row data-sort-value="Diomede, Bernard"| [[Bernard Diomède]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[1998 FIFA World Cup|1998]]
+|align=left| 
+| <ref group="fp">{{FIFA player|160998|Bernard DIOMEDE}}</ref>
+|1974
+|
+|-
+!scope=row data-sort-value="Djorkaeff, Youri"| [[Youri Djorkaeff]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|95664|Youri DJORKAEFF}}</ref>
+|1968
+|
+|-
+!scope=row data-sort-value="Donati, Aldo"| [[Aldo Donati (footballer)|Aldo Donati]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69674|Aldo DONATI}}</ref>
+|1910
+|1984
+|-
+!scope=row data-sort-value="Dorado, Pablo"| [[Pablo Dorado]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|48687|Pablo DORADO}}</ref>
+|1908
+|1978
+|-
+!scope=row data-sort-value="Dossena, Giuseppe"| [[Giuseppe Dossena]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|174508|Giuseppe DOSSENA}}</ref>
+|1958
+|
+|-
+!scope=row data-sort-value="Draxler, Julian"| [[Julian Draxler]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| [[2014 FIFA World Cup|2014]]
+|align=left| [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|358692|Julian DRAXLER}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Dugarry, Christophe"| [[Christophe Dugarry]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|160559|Christophe DUGARRY}}</ref>
+|1972
+|
+|-
+!scope=row data-sort-value="Dunga"| [[Dunga]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|170690|DUNGA}}</ref>
+|1963
+|
+|-
+!scope=row data-sort-value="Durm, Erik"| [[Erik Durm]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| ''[[2014 FIFA World Cup|2014]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|379952|Erik DURM}}</ref>
+|1992
+|
+|-
+!scope=row data-sort-value="Dybala, Paulo"| [[Paulo Dybala]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|395419|Paulo DYBALA}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Eastham, George"| [[George Eastham]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| ''[[1962 FIFA World Cup|1962]]''
+| <ref group="fp">{{FIFA player|69835|George EASTHAM}}</ref>
+|1936
+|2024
+|-
+!scope=row data-sort-value="Eckel, Horst"| [[Horst Eckel]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| [[1958 FIFA World Cup|1958]]
+| <ref group="fp">{{FIFA player|48845|Horst ECKEL}}</ref>
+|1932
+|2021
+|-
+!scope=row data-sort-value="Edilson"| [[Edílson]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| 
+| <ref group="fp">{{FIFA player|3246|EDILSON}}</ref>
+|1971
+|
+|-
+!scope=row data-sort-value="Edmilson"| [[Edmílson]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|178116|EDMILSON}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Edu"| [[Edu (footballer, born 1949)|Edu]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| [[1970 FIFA World Cup|1970]]
+|align=left| ''[[1966 FIFA World Cup|1966]]'', [[1974 FIFA World Cup|1974]]
+| <ref group="fp">{{FIFA player|63893|EDU}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Enrique, Hector"| [[Héctor Enrique]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174524|Hector ENRIQUE}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Erhardt, Herbert"| [[Herbert Erhardt]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1954 FIFA World Cup|1954]]''
+|align=left| [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|49087|Herbert ERHARDT}}</ref>
+|1930
+|2010
+|-
+!scope=row data-sort-value="Everaldo"| [[Everaldo (footballer, born 1944)|Everaldo]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|63895|EVERALDO}}</ref>
+|1944
+|1974
+|-
+!scope=row data-sort-value="Fabregas, Cesc"| [[Cesc Fàbregas]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|200179|Cesc FABREGAS}}</ref>
+|1987
+|
+|-
+!scope=row data-sort-value="Fekir, Nabil"| [[Nabil Fekir]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|401458|Nabil FEKIR}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Felix"| [[Félix (footballer)|Félix]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|63890|FELIX}}</ref>
+|1937
+|2012
+|-
+!scope=row data-sort-value="Fernandez, Enzo"| [[Enzo Fernández]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|2001
+|
+|-
+!scope=row data-sort-value="Fernandez, Lorenzo"| [[Lorenzo Fernández]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|49351|Lorenzo FERNANDEZ}}</ref>
+|1900
+|1973
+|-
+!scope=row data-sort-value="Ferraris, Attilio"| [[Attilio Ferraris]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174538|Attilio FERRARIS}}</ref>
+|1904
+|1947
+|-
+!scope=row data-sort-value="Ferraris, Pietro"| [[Pietro Ferraris]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1938 FIFA World Cup|1938]]
+|align=left| 
+| <ref group="fp">{{FIFA player|44100|Pietro FERRARIS}}</ref>
+|1912
+|1991
+|-
+!scope=row data-sort-value="Fillol, Ubaldo"| [[Ubaldo Fillol]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1974 FIFA World Cup|1974]], [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|44105|Ubaldo FILLOL}}</ref>
+|1950
+|
+|-
+!scope=row data-sort-value="Flohe, Heinz"| [[Heinz Flohe]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|49470|Heinz FLOHE}}</ref>
+|1948
+|2013
+|-
+!scope=row data-sort-value="Flowers, Ron"| [[Ron Flowers]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|49497|Ron FLOWERS}}</ref>
+|1934
+|2021
+|-
+!scope=row data-sort-value="Foni, Alfredo"| [[Alfredo Foni]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|32354|Alfredo FONI}}</ref>
+|1911
+|1985
+|-
+!scope=row data-sort-value="Fontana"| [[Fontana (footballer)|Fontana]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| [[1970 FIFA World Cup|1970]]
+|align=left| 
+| <ref group="fp">{{FIFA player|63899|FONTANA}}</ref>
+|1940
+|1980
+|-
+!scope=row data-sort-value="Foyth, Juan"| [[Juan Foyth]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left|
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1998
+|
+|-
+!scope=row data-sort-value="Gallego, Americo"| [[Américo Gallego]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|44124|Americo GALLEGO}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Galli, Giovanni"| [[Giovanni Galli]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|44125|Giovanni GALLI}}</ref>
+|1958
+|
+|-
+!scope=row data-sort-value="Galvan, Luis"| [[Luis Galván]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|44126|Luis GALVAN}}</ref>
+|1948
+|2025
+|-
+!scope=row data-sort-value="Galvan, Ruben"| [[Rubén Galván (footballer)|Rubén Galván]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1978 FIFA World Cup|1978]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|49723|Ruben GALVAN}}</ref>
+|1952
+|2018
+|-
+!scope=row data-sort-value="Gambetta, Schubert"| [[Schubert Gambetta]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|49736|Schubert GAMBETTA}}</ref>
+|1920
+|1991
+|-
+!scope=row data-sort-value="Garcia, Eric"| [[Eric Garcia (footballer, born 2001)|Eric Garcia]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" | ''[[2022 FIFA World Cup|2022]]''
+|
+|2001
+|
+|-
+!scope=row data-sort-value="Garcia, Joan"| [[Joan Garcia]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| ''[[2026 FIFA World Cup|2026]]''
+| align="left" |
+|
+|2001
+|
+|-
+!scope=row data-sort-value="Garre, Oscar"| [[Oscar Garré]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1986 FIFA World Cup|1986]]
+|align=left| 
+| <ref group="fp">{{FIFA player|49800|Oscar GARRE}}</ref>
+|1956
+|
+|-
+!scope=row data-sort-value="Gattuso, Gennaro"| [[Gennaro Gattuso]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|177845|Gennaro GATTUSO}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Gavi"| [[Gavi (footballer)|Gavi]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| [[2026 FIFA World Cup|2026]]
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|2004
+|
+|-
+!scope=row data-sort-value="Genta, Mario"| [[Mario Genta]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69675|Mario GENTA}}</ref>
+|1912
+|1993
+|-
+!scope=row data-sort-value="Gentile, Claudio"| [[Claudio Gentile]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|174555|Claudio GENTILE}}</ref>
+|1953
+|
+|-
+!scope=row data-sort-value="Gerson"| [[Gérson]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63880|GERSON}}</ref>
+|1941
+|
+|-
+!scope=row data-sort-value="Gestido, Alvaro"| [[Álvaro Gestido]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|49893|Alvaro GESTIDO}}</ref>
+|1907
+|1957
+|-
+!scope=row data-sort-value="Ghiggia, Alcides"| [[Alcides Ghiggia]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174559|Alcides GHIGGIA}}</ref>
+|1926
+|2015
+|-
+!scope=row data-sort-value="Gilardino, Alberto"| [[Alberto Gilardino]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|210205|Alberto GILARDINO}}</ref>
+|1982
+|
+|-
+!scope=row data-sort-value="Gilberto Silva"| [[Gilberto Silva]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|187267|GILBERTO SILVA}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Gilmar Rinaldi"| [[Gilmar Rinaldi]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| ''[[1994 FIFA World Cup|1994]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|171227|GILMAR RINALDI}}</ref>
+|1959
+|
+|-
+!scope=row data-sort-value="Ginter, Matthias"| [[Matthias Ginter]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| ''[[2014 FIFA World Cup|2014]]''
+|align=left| ''[[2018 FIFA World Cup|2018]]'', [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|379736|Matthias GINTER}}</ref>
+|1994
+|
+|-
+!scope=row data-sort-value="Giroud, Oliver"| [[Olivier Giroud]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|358015|Olivier GIROUD}}</ref>
+|1986
+|
+|-
+!scope=row data-sort-value="Giusti, Ricardo"| [[Ricardo Giusti]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|174564|Ricardo GIUSTI}}</ref>
+|1956
+|
+|-
+!scope=row data-sort-value="Gomez, Papu"| [[Papu Gómez]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left|
+| <ref group="fp">{{FIFA player|228537|Alejandro GOMEZ}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Gonzalez, Juan Carlos"| [[Juan Carlos González]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1950 FIFA World Cup|1950]]
+|align=left| 
+| <ref group="fp">{{FIFA player|50089|Juan Carlos GONZALEZ}}</ref>
+|1924
+|2010
+|-
+!scope=row data-sort-value="Gonzalez, Matias"| [[Matías González (footballer, born 1925)|Matías González]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|50094|Matias GONZALEZ}}</ref>
+|1925
+|1984
+|-
+!scope=row data-sort-value="Gotze, Mario"| [[Mario Götze]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|309316|Mario GOETZE}}</ref>
+|1992
+|
+|-
+!scope=row data-sort-value="Grabowski, Jurgen"| [[Jürgen Grabowski]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| ''[[1966 FIFA World Cup|1966]]'', [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174573|Juergen GRABOWSKI}}</ref>
+|1944
+|2022
+|-
+!scope=row data-sort-value="Graziani, Francesco"| [[Francesco Graziani]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|174574|Francesco GRAZIANI}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Greaves, Jimmy"| [[Jimmy Greaves]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| [[1966 FIFA World Cup|1966]]
+|align=left| [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|174575|Jimmy GREAVES}}</ref>
+|1940
+|2021
+|-
+!scope=row data-sort-value="Griezmann, Antoine"| [[Antoine Griezmann]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|336435|Antoine GRIEZMANN}}</ref>
+|1991
+|
+|-
+!scope=row data-sort-value="Grimaldo, Alex"| [[Álex Grimaldo]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| ''[[2026 FIFA World Cup|2026]]''
+| align="left" |
+|
+|1995
+|
+|-
+!scope=row data-sort-value="Grosskreutz, Kevin"| [[Kevin Großkreutz]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| ''[[2014 FIFA World Cup|2014]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|358694|Kevin GROßKREUTZ}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Grosso, Fabio"| [[Fabio Grosso]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|230756|Fabio GROSSO}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="Guaita, Enrique"| [[Enrique Guaita]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174579|Enrique GUAITA}}</ref>
+|1910
+|1959
+|-
+!scope=row data-sort-value="Guarisi, Anfilogino"| [[Anfilogino Guarisi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1934 FIFA World Cup|1934]]
+|align=left| 
+| <ref group="fp">{{FIFA player|50277|Anfilogino GUARISI}}</ref>
+|1905
+|1974
+|-
+!scope=row data-sort-value="Guivarch, Stephane"| [[Stéphane Guivarc'h]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|170708|Stephane GUIVARCH}}</ref>
+|1970
+|
+|-
+!scope=row data-sort-value="Hassler, Thomas"| [[Thomas Häßler]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|174588|Thomas HAESSLER}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Henry, Thierry"| [[Thierry Henry]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[1998 FIFA World Cup|1998]]
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|170711|Thierry HENRY}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="Hermann, Gunter"| [[Günter Hermann]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1990 FIFA World Cup|1990]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|174599|Guenther HERMANN}}</ref>
+|1960
+|
+|-
+!scope=row data-sort-value="Hernandez, Lucas"| [[Lucas Hernandez]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2022 FIFA World Cup|2022]], ''[[2026 FIFA World Cup|2026]]''
+| <ref group="fp">{{FIFA player|411470|Lucas HERNANDEZ}}</ref>
+|1996
+|
+|-
+!scope=row data-sort-value="Herrmann, Richard"| [[Richard Herrmann]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| 
+| <ref group="fp">{{FIFA player|50849|Richard HERRMANN}}</ref>
+|1923
+|1962
+|-
+!scope=row data-sort-value="Herzog, Dieter"| [[Dieter Herzog]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| 
+| <ref group="fp">{{FIFA player|50853|Dieter HERZOG}}</ref>
+|1946
+|2025
+|-
+!scope=row data-sort-value="Heynckes, Jupp"| [[Jupp Heynckes]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| 
+| <ref group="fp">{{FIFA player|50865|Jupp HEYNCKES}}</ref>
+|1945
+|
+|-
+!scope=row data-sort-value="Hoeness, Uli"| [[Uli Hoeneß]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174612|Uli HOENESS}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Holzenbein, Bernd"| [[Bernd Hölzenbein]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|174610|Bernd HOELZENBEIN}}</ref>
+|1946
+|2024
+|-
+!scope=row data-sort-value="Hottges, Horst Dieter"| [[Horst-Dieter Höttges]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| [[1966 FIFA World Cup|1966]], [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174614|Horst-Dieter HOETTGES}}</ref>
+|1943
+|2023
+|-
+!scope=row data-sort-value="Houseman, Rene"| [[René Houseman]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1974 FIFA World Cup|1974]]
+| <ref group="fp">{{FIFA player|174617|Rene HOUSEMAN}}</ref>
+|1953
+|2018
+|-
+!scope=row data-sort-value="Howedes, Benedikt"| [[Benedikt Höwedes]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|311148|Benedikt HOEWEDES}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Hummels, Mats"| [[Mats Hummels]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|311150|Mats HUMMELS}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Hunt, Roger"| [[Roger Hunt]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| ''[[1962 FIFA World Cup|1962]]''
+| <ref group="fp">{{FIFA player|174622|Roger HUNT}}</ref>
+|1938
+|2021
+|-
+!scope=row data-sort-value="Hunter, Norman"| [[Norman Hunter (footballer)|Norman Hunter]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|51110|Norman HUNTER}}</ref>
+|1943
+|2020
+|-
+!scope=row data-sort-value="Hurst, Geoff"| [[Geoff Hurst]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174623|Geoff HURST}}</ref>
+|1941
+|
+|-
+!scope=row data-sort-value="Iaquinta, Vicenzo"| [[Vincenzo Iaquinta]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|234927|Vincenzo IAQUINTA}}</ref>
+|1979
+|
+|-
+!scope=row data-sort-value="Iglesias, Borja"| [[Borja Iglesias]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| [[2026 FIFA World Cup|2026]]
+| align="left" |
+|
+|1993
+|
+|-
+!scope=row data-sort-value="Illgner, Bodo"| [[Bodo Illgner]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|174631|Bodo ILLGNER}}</ref>
+|1967
+|
+|-
+!scope=row data-sort-value="Iniesta, Andres"| [[Andrés Iniesta]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|183857|Andres INIESTA}}</ref>
+|1984
+|
+|-
+!scope=row data-sort-value="Inzaghi, Filippo"| [[Filippo Inzaghi]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|155969|Filippo INZAGHI}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Iriarte, Santos"| [[Santos Iriarte]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|51279|Victoriano IRIARTE}}</ref>
+|1902
+|1968
+|-
+!scope=row data-sort-value="Islas, Luis"| [[Luis Islas]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1986 FIFA World Cup|1986]]''
+|align=left| [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|51311|Luis ISLAS}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Jair"| [[Jair da Costa|Jair]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|246272|JAIR DA COSTA}}</ref>
+|1940
+|2025
+|-
+!scope=row data-sort-value="Jair Marinho"| [[Jair Marinho]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69903|JAIR MARINHO}}</ref>
+|1936
+|2020
+|-
+!scope=row data-sort-value="Jairzinho"| [[Jairzinho]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1966 FIFA World Cup|1966]], [[1974 FIFA World Cup|1974]]
+| <ref group="fp">{{FIFA player|63879|JAIRZINHO}}</ref>
+|1944
+|
+|-
+!scope=row data-sort-value="Joel"| [[Joel (footballer, born 1931)|Joel]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| [[1958 FIFA World Cup|1958]]
+|align=left| 
+| <ref group="fp">{{FIFA player|63865|JOEL}}</ref>
+|1931
+|2003
+|-
+!scope=row data-sort-value="Joel Camargo"| [[Joel Camargo]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| ''[[1970 FIFA World Cup|1970]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|250938|JOEL CAMARGO}}</ref>
+|1946
+|2014
+|-
+!scope=row data-sort-value="Jorginho"| [[Jorginho (footballer, born 1964)|Jorginho]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|63515|JORGINHO}}</ref>
+|1964
+|
+|-
+!scope=row data-sort-value="Juninho Paulista"| [[Juninho Paulista]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|179305|JUNINHO PAULISTA}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Junior"| [[Júnior (footballer, born 1973)|Júnior]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| 
+| <ref group="fp">{{FIFA player|178112|JUNIOR}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Jurandir"| [[Jurandir (footballer, born 1940)|Jurandir]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69904|JURANDIR}}</ref>
+|1940
+|1996
+|-
+!scope=row data-sort-value="Kaka"| [[Kaká]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|184312|KAKA}}</ref>
+|1982
+|
+|-
+!scope=row data-sort-value="Kante, Ngolo"| [[N'Golo Kanté]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| ''[[2026 FIFA World Cup|2026]]''
+| <ref group="fp">{{FIFA player|398681|Ngolo KANTE}}</ref>
+|1991
+|
+|-
+!scope=row data-sort-value="Kapellmann, Jupp"| [[Jupp Kapellmann]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1974 FIFA World Cup|1974]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69572|Jupp KAPPELLMANN}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Karembeu, Christian"| [[Christian Karembeu]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|96074|Christian KAREMBEU}}</ref>
+|1970
+|
+|-
+!scope=row data-sort-value="Kempes, Mario"| [[Mario Kempes]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1974 FIFA World Cup|1974]], [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|174658|Mario KEMPES}}</ref>
+|1954
+|
+|-
+!scope=row data-sort-value="Khedira, Sami"| [[Sami Khedira]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| [[2014 FIFA World Cup|2014]]
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|196900|Sami KHEDIRA}}</ref>
+|1987
+|
+|-
+!scope=row data-sort-value="Killer, Daniel"| [[Daniel Killer]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1978 FIFA World Cup|1978]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69692|Daniel KILLER}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Kimpembe, Presnel"| [[Presnel Kimpembe]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| 
+| <ref group="fp">{{FIFA player|401459|Presnel KIMPEMBE}}</ref>
+|1995
+|
+|-
+!scope=row data-sort-value="Kleberson"| [[José Kléberson|Kléberson]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|188394|KLEBERSON}}</ref>
+|1979
+|
+|-
+!scope=row data-sort-value="Kleff, Wolfgang"| [[Wolfgang Kleff]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1974 FIFA World Cup|1974]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69575|Wolfgang KLEFF}}</ref>
+|1946
+|
+|-
+!scope=row data-sort-value="Klinsmann, Jurgen"| [[Jürgen Klinsmann]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|174666|Juergen KLINSMANN}}</ref>
+|1964
+|
+|-
+!scope=row data-sort-value="Klodt, Bernhard"| [[Bernhard Klodt]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| [[1958 FIFA World Cup|1958]]
+| <ref group="fp">{{FIFA player|52280|Berni KLODT}}</ref>
+|1926
+|1996
+|-
+!scope=row data-sort-value="Klose, Miroslav"| [[Miroslav Klose]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|182206|Miroslav KLOSE}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Kohler, Jurgen"| [[Jürgen Kohler]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|174673|Juergen KOHLER}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Kohlmeyer, Werner"| [[Werner Kohlmeyer]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|52323|Werner KOHLMEYER}}</ref>
+|1924
+|1974
+|-
+!scope=row data-sort-value="Kopke, Andreas"| [[Andreas Köpke]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1990 FIFA World Cup|1990]]''
+|align=left| ''[[1994 FIFA World Cup|1994]]'', [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|174672|Andreas KOEPKE}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Kramer, Christoph"| [[Christoph Kramer]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|380069|Christoph KRAMER}}</ref>
+|1991
+|
+|-
+!scope=row data-sort-value="Kremers, Helmut"| [[Helmut Kremers]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1974 FIFA World Cup|1974]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69573|Helmut KREMERS}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Kroos, Toni"| [[Toni Kroos]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|275162|Toni KROOS}}</ref>
+|1990
+|
+|-
+!scope=row data-sort-value="Kubsch, Heinz"| [[Heinz Kubsch]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1954 FIFA World Cup|1954]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|70008|Heinz KUBSCH}}</ref>
+|1930
+|1993
+|-
+!scope=row data-sort-value="Kwiatkowski, Heinz"| [[Heinz Kwiatkowski]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| [[1958 FIFA World Cup|1958]]
+| <ref group="fp">{{FIFA player|52614|Heinz KWIATKOWSKI}}</ref>
+|1926
+|2008
+|-
+!scope=row data-sort-value="La Volpe, Ricardo"| [[Ricardo La Volpe]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1978 FIFA World Cup|1978]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69693|Ricardo LA VOLPE}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Laband, Fritz"| [[Fritz Laband]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| 
+| <ref group="fp">{{FIFA player|52640|Fritz LABAND}}</ref>
+|1925
+|1982
+|-
+!scope=row data-sort-value="Lahm, Philipp"| [[Philipp Lahm]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|196748|Philipp LAHM}}</ref>
+|1983
+|
+|-
+!scope=row data-sort-value="Lama, Bernard"| [[Bernard Lama]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| ''[[1998 FIFA World Cup|1998]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|95456|Bernard LAMA}}</ref>
+|1963
+|
+|-
+!scope=row data-sort-value="Lamine Yamal"| [[Lamine Yamal]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+| 2007
+|
+|-
+!scope=row data-sort-value="Laporte, Aymeric"| [[Aymeric Laporte]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|1994
+|
+|-
+!scope=row data-sort-value="Larrosa, Omar"| [[Omar Larrosa]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174691|Omar LARROSA}}</ref>
+|1947
+|
+|-
+!scope=row data-sort-value="Leao"| [[Émerson Leão|Leão]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| ''[[1970 FIFA World Cup|1970]]''
+|align=left| [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]], ''[[1986 FIFA World Cup|1986]]''
+| <ref group="fp">{{FIFA player|63902|LEAO}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Leboeuf, Frank"| [[Frank Leboeuf]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|170702|Frank LEBOEUF}}</ref>
+|1968
+|
+|-
+!scope=row data-sort-value="Lemar, Thomas"| [[Thomas Lemar]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| 
+| <ref group="fp">{{FIFA player|402049|Thomas LEMAR}}</ref>
+|1995
+|
+|-
+!scope=row data-sort-value="Leonardo"| [[Leonardo Araújo|Leonardo]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[1994 FIFA World Cup|1994]]
+|align=left| [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|95008|LEONARDO}}</ref>
+|1969
+|
+|-
+!scope=row data-sort-value="Liebrich, Werner"| [[Werner Liebrich]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174704|Werner LIEBRICH}}</ref>
+|1927
+|1995
+|-
+!scope=row data-sort-value="Littbarski, Pierre"| [[Pierre Littbarski]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|174711|Pierre LITTBARSKI}}</ref>
+|1960
+|
+|-
+!scope=row data-sort-value="Lizarazu, Bixente"| [[Bixente Lizarazu]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|166722|Bixente LIZARAZU}}</ref>
+|1969
+|
+|-
+!scope=row data-sort-value="Llorente, Fernando"| [[Fernando Llorente]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| [[2010 FIFA World Cup|2010]]
+|align=left| 
+| <ref group="fp">{{FIFA player|233029|Fernando LLORENTE}}</ref>
+|1985
+|
+|-
+!scope=row data-sort-value="Llorente, Marcus"| [[Marcos Llorente]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| [[2026 FIFA World Cup|2026]]
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|1995
+|
+|-
+!scope=row data-sort-value="Lloris, Hugo"| [[Hugo Lloris]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|297105|Hugo LLORIS}}</ref>
+|1986
+|
+|-
+!scope=row data-sort-value="Locatelli, Ugo"| [[Ugo Locatelli]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174713|Ugo LOCATELLI}}</ref>
+|1916
+|1993
+|-
+!scope=row data-sort-value="Lucio"| [[Lúcio]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|178520|LUCIO}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Luizao"| [[Luizão (footballer, born 1975)|Luizão]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| 
+| <ref group="fp">{{FIFA player|176597|LUIZAO}}</ref>
+|1975
+|
+|-
+!scope=row data-sort-value="Luque, Leopoldo"| [[Leopoldo Luque]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174722|Leopoldo LUQUE}}</ref>
+|1949
+|2021
+|-
+!scope=row data-sort-value="Mac Allister, Alexis"| [[Alexis Mac Allister]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1998
+|
+|-
+!scope=row data-sort-value="Mai, Karl"| [[Karl Mai]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174726|Karl MAI}}</ref>
+|1928
+|1993
+|-
+!scope=row data-sort-value="Maier, Sepp"| [[Sepp Maier]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| ''[[1966 FIFA World Cup|1966]]'', [[1970 FIFA World Cup|1970]], [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|37989|Sepp MAIER}}</ref>
+|1944
+|
+|-
+!scope=row data-sort-value="Mandanda, Steve"| [[Steve Mandanda]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| ''[[2010 FIFA World Cup|2010]]'', [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|254133|Steve MANDANDA}}</ref>
+|1985
+|
+|-
+!scope=row data-sort-value="Maradona, Diego"| [[Diego Maradona]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| [[1982 FIFA World Cup|1982]], [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|174732|Diego MARADONA}}</ref>
+|1960
+|2020
+|-
+!scope=row data-sort-value="Marchena, Carlos"| [[Carlos Marchena]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| [[2010 FIFA World Cup|2010]]
+|align=left| [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|177846|Carlos MARCHENA}}</ref>
+|1979
+|
+|-
+!scope=row data-sort-value="Marcio Santos"| [[Márcio Santos]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|92624|MARCIO SANTOS}}</ref>
+|1969
+|
+|-
+!scope=row data-sort-value="Marco Antonio"| [[Marco Antônio (footballer, born 1951)|Marco Antônio]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| [[1970 FIFA World Cup|1970]]
+|align=left| ''[[1974 FIFA World Cup|1974]]''
+| <ref group="fp">{{FIFA player|49315|MARCO ANTONIO}}</ref>
+|1951
+|
+|-
+!scope=row data-sort-value="Marcos"| [[Marcos (footballer, born 1973)|Marcos]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|183588|MARCOS}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Marini"| [[Gianpiero Marini]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| [[1982 FIFA World Cup|1982]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174734|Giampiero MARINI}}</ref>
+|1951
+|
+|-
+!scope=row data-sort-value="Martinez, Emiliano"| [[Emiliano Martínez]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1992
+|
+|-
+!scope=row data-sort-value="Martinez, Javi"| [[Javi Martínez]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| [[2010 FIFA World Cup|2010]]
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|270714|Javi MARTINEZ}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Martinez, Lautaro"| [[Lautaro Martínez]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1997
+|
+|-
+!scope=row data-sort-value="Martinez, Lisandro"| [[Lisandro Martínez]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1998
+|
+|-
+!scope=row data-sort-value="Martinez, William"| [[William Martínez (footballer)|William Martínez]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| [[1954 FIFA World Cup|1954]], ''[[1962 FIFA World Cup|1962]]''
+| <ref group="fp">{{FIFA player|53737|William MARTINEZ}}</ref>
+|1928
+|1997
+|-
+!scope=row data-sort-value="Mascheroni, Ernesto"| [[Ernesto Mascheroni]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|53764|Ernesto MASCHERONI}}</ref>
+|1907
+|1984
+|-
+!scope=row data-sort-value="Maspoli, Roque"| [[Roque Máspoli]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|174739|Roque MASPOLI}}</ref>
+|1917
+|2004
+|-
+!scope=row data-sort-value="Massaro, Daniele"| [[Daniele Massaro]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|106610|Daniele MASSARO}}</ref>
+|1961
+|
+|-
+!scope=row data-sort-value="Mata, Juan"| [[Juan Mata]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| [[2010 FIFA World Cup|2010]]
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|267811|Juan MATA}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Materazzi, Marco"| [[Marco Materazzi]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|184451|Marco MATERAZZI}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Matthaus, Lothar"| [[Lothar Matthäus]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1982 FIFA World Cup|1982]], [[1986 FIFA World Cup|1986]], [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|174742|Lothar MATTHAEUS}}</ref>
+|1961
+|
+|-
+!scope=row data-sort-value="Matuidi, Blaise"| [[Blaise Matuidi]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|358014|Blaise MATUIDI}}</ref>
+|1987
+|
+|-
+!scope=row data-sort-value="Mauro Silva"| [[Mauro Silva]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|92629|MAURO SILVA}}</ref>
+|1968
+|
+|-
+!scope=row data-sort-value="Mazinho"| [[Mazinho]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| ''[[1990 FIFA World Cup|1990]]''
+| <ref group="fp">{{FIFA player|63529|MAZINHO}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Mbappe, Kylian"| [[Kylian Mbappé]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2022 FIFA World Cup|2022]], [[2026 FIFA World Cup|2026]]
+| <ref group="fp">{{FIFA player|389867|Kylian MBAPPE}}</ref>
+|1998
+|
+|-
+!scope=row data-sort-value="Mebus, Paul"| [[Paul Mebus]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| 
+| <ref group="fp">{{FIFA player|54003|Paul MEBUS}}</ref>
+|1920
+|1993
+|-
+!scope=row data-sort-value="Melogno, Angel"| [[Ángel Melogno]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69411|Angel MELOGNO}}</ref>
+|1905
+|1945
+|-
+!scope=row data-sort-value="Mendy, Benjamin"| [[Benjamin Mendy]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| 
+| <ref group="fp">{{FIFA player|335995|Benjamin MENDY}}</ref>
+|1994
+|
+|-
+!scope=row data-sort-value="Mengalvio"| [[Mengálvio]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69906|MENGALVIO}}</ref>
+|1939
+|
+|-
+!scope=row data-sort-value="Merino, Mikel"| [[Mikel Merino]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|1996
+|
+|-
+!scope=row data-sort-value="Mertesacker, Per"| [[Per Mertesacker]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|207888|Per MERTESACKER}}</ref>
+|1984
+|
+|-
+!scope=row data-sort-value="Messi, Lionel"| [[Lionel Messi]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]], [[2026 FIFA World Cup|2026]]
+| <ref group="fp">{{FIFA player|229397|Lionel MESSI}}</ref>
+|1987
+|
+|-
+!scope=row data-sort-value="Metzner, Karl Heinz"| [[Karl-Heinz Metzner]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1954 FIFA World Cup|1954]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|53502|Karl-Heinz METZNER}}</ref>
+|1923
+|1994
+|-
+!scope=row data-sort-value="Miguez, Oscar"| [[Óscar Míguez]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|54212|Oscar MIGUEZ}}</ref>
+|1927
+|2006
+|-
+!scope=row data-sort-value="Mill, Frank"| [[Frank Mill]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1990 FIFA World Cup|1990]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|174769|Frank MILL}}</ref>
+|1958
+|2025
+|-
+!scope=row data-sort-value="Moacir"| [[Moacir (footballer, born 1936)|Moacir]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| ''[[1958 FIFA World Cup|1958]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|182098|MOACIR}}</ref>
+|1936
+|
+|-
+!scope=row data-sort-value="Molina, Nahuel"| [[Nahuel Molina]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1998
+|
+|-
+!scope=row data-sort-value="Moller, Andreas"| [[Andreas Möller]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1990 FIFA World Cup|1990]]
+|align=left| [[1994 FIFA World Cup|1994]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|155355|Andreas MOELLER}}</ref>
+|1967
+|
+|-
+!scope=row data-sort-value="Monti, Luis"| [[Luis Monti]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| [[1930 FIFA World Cup|1930]] (for Argentina)
+| <ref group="fp">{{FIFA player|174777|Luis MONTI}}</ref>
+|1901
+|1983
+|-
+!scope=row data-sort-value="Montiel, Gonzalo"| [[Gonzalo Montiel]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1997
+|
+|-
+!scope=row data-sort-value="Moore, Bobby"| [[Bobby Moore]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| [[1962 FIFA World Cup|1962]], [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174780|Bobby MOORE}}</ref>
+|1941
+|1993
+|-
+!scope=row data-sort-value="Moran, Ruben"| [[Rubén Morán]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|54497|Ruben MORAN}}</ref>
+|1930
+|1978
+|-
+!scope=row data-sort-value="Morlock, Max"| [[Max Morlock]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174784|Max MORLOCK}}</ref>
+|1925
+|1994
+|-
+!scope=row data-sort-value="Muller"| [[Müller (footballer, born 1966)|Müller]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[1994 FIFA World Cup|1994]]
+|align=left| [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|63524|MULLER}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Muller, Gerd"| [[Gerd Müller]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174790|Gerd MUELLER}}</ref>
+|1945
+|2021
+|-
+!scope=row data-sort-value="Muller, Thomas"| [[Thomas Müller]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|321722|Thomas MUELLER}}</ref>
+|1989
+|
+|-
+!scope=row data-sort-value="Munoz, Victor"| [[Víctor Muñoz (footballer, born 2003)|Víctor Muñoz]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+! scope=row| ''[[2026 FIFA World Cup|2026]]''
+| align="left" |
+|
+|2003
+|
+|-
+!scope=row data-sort-value="Mustafi, Shkodran"| [[Shkodran Mustafi]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| [[2014 FIFA World Cup|2014]]
+|align=left| 
+| <ref group="fp">{{FIFA player|309308|Shkodran MUSTAFI}}</ref>
+|1992
+|
+|-
+!scope=row data-sort-value="Nasazzi, Jose"| [[José Nasazzi]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174795|Jose NASAZZI}}</ref>
+|1901
+|1968
+|-
+!scope=row data-sort-value="Navas, Jesus"| [[Jesús Navas]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|232978|Jesús NAVAS}}</ref>
+|1985
+|
+|-
+!scope=row data-sort-value="Nesta, Alessandro"| [[Alessandro Nesta]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| [[1998 FIFA World Cup|1998]], [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|155971|Alessandro NESTA}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Netzer, Gunter"| [[Günter Netzer]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174802|Guenter NETZER}}</ref>
+|1944
+|
+|-
+!scope=row data-sort-value="Neuer, Manuel"| [[Manuel Neuer]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], [[2022 FIFA World Cup|2022]], [[2026 FIFA World Cup|2026]]
+| <ref group="fp">{{FIFA player|228912|Manuel NEUER}}</ref>
+|1986
+|
+|-
+!scope=row data-sort-value="Nigbur, Norbert"| [[Norbert Nigbur]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1974 FIFA World Cup|1974]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69574|Norbert NIGBUR}}</ref>
+|1948
+|
+|-
+!scope=row data-sort-value="Nzonzi, Steven"| [[Steven Nzonzi]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|319327|Steven NZONZI}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Oddo, Massimo"| [[Massimo Oddo]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| 
+| <ref group="fp">{{FIFA player|214021|Massimo ODDO}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Olarticoechea, Julio"| [[Julio Olarticoechea]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| ''[[1982 FIFA World Cup|1982]]'', [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|174816|Julio OLARTICOECHEA}}</ref>
+|1958
+|
+|-
+!scope=row data-sort-value="Olguin, Jorge"| [[Jorge Olguín]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|174817|Jorge OLGUIN}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Olivieri, Aldo"| [[Aldo Olivieri]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174818|Aldo OLIVIERI}}</ref>
+|1910
+|2001
+|-
+!scope=row data-sort-value="Olmi, Renato"| [[Renato Olmi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69673|Renato OLMI}}</ref>
+|1914
+|1985
+|-
+!scope=row data-sort-value="Olmo, Dani"| [[Dani Olmo]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|1998
+|
+|-
+!scope=row data-sort-value="Oreco"| [[Oreco]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| ''[[1958 FIFA World Cup|1958]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69972|ORECO}}</ref>
+|1932
+|1985
+|-
+!scope=row data-sort-value="Oriali, Gabriele"| [[Gabriele Oriali]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174824|Gabriele ORIALI}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Orlando"| [[Orlando Peçanha|Orlando]]
+|align=left| {{fb|BRA|1889}}
+| '''1'''
+!scope=row| '''[[1958 FIFA World Cup|1958]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63864|ORLANDO}}</ref>
+|1935
+|2010
+|-
+!scope=row data-sort-value="Orsi, Raimundo"| [[Raimundo Orsi]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174825|Raimundo ORSI}}</ref>
+|1901
+|1986
+|-
+!scope=row data-sort-value="Ortiz, Oscar Albero"| [[Oscar Ortiz (footballer)|Oscar Ortiz]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174826|Oscar ORTIZ}}</ref>
+|1953
+|
+|-
+!scope=row data-sort-value="Ortuno, Washington"| [[Washington Ortuño]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69725|Washington ORTUNO}}</ref>
+|1928
+|1973
+|-
+!scope=row data-sort-value="Otamendi, Nicolas"| [[Nicolás Otamendi]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]], [[2026 FIFA World Cup|2026]]
+| <ref group="fp">{{FIFA player|310116|Nicolas OTAMENDI}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Overath, Wolfgang"| [[Wolfgang Overath]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1966 FIFA World Cup|1966]], [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174828|Wolfgang OVERATH}}</ref>
+|1943
+|
+|-
+!scope=row data-sort-value="Oviedo, Miguel"| [[Miguel Oviedo]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1978 FIFA World Cup|1978]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174829|Miguel OVIEDO}}</ref>
+|1950
+|
+|-
+!scope=row data-sort-value="Oyarzabal, Mikel"| [[Mikel Oyarzabal]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|1997
+|
+|-
+!scope=row data-sort-value="Ozil, Mesut"| [[Mesut Özil]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|305036|Mesut OEZIL}}</ref>
+|1988
+|
+|-
+!scope=row data-sort-value="Pagnanini, Ruben"| [[Rubén Pagnanini]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1978 FIFA World Cup|1978]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69694|Ruben PAGNANINI}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Palacios, Exequiel"| [[Exequiel Palacios]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1998
+|
+|-
+!scope=row data-sort-value="Paine, Terry"| [[Terry Paine]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| [[1966 FIFA World Cup|1966]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174831|Terry PAINE}}</ref>
+|1939
+|
+|-
+!scope=row data-sort-value="Paredes, Leandro"| [[Leandro Paredes]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1994
+|
+|-
+!scope=row data-sort-value="Pasculli, Pedro"| [[Pedro Pasculli]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1986 FIFA World Cup|1986]]
+|align=left| 
+| <ref group="fp">{{FIFA player|55975|Pedro PASCULLI}}</ref>
+|1960
+|
+|-
+!scope=row data-sort-value="Pasinati, Piero"| [[Piero Pasinati]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1938 FIFA World Cup|1938]]
+|align=left| 
+| <ref group="fp">{{FIFA player|55982|Piero PASINATI}}</ref>
+|1910
+|2000
+|-
+!scope=row data-sort-value="Paulo Sergio"| [[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[1994 FIFA World Cup|1994]]
+|align=left| 
+| <ref group="fp">{{FIFA player|115522|PAULO SERGIO}}</ref>
+|1969
+|
+|-
+!scope=row data-sort-value="Pavard, Benjamin"| [[Benjamin Pavard]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|411471|Benjamin PAVARD}}</ref>
+|1996
+|
+|-
+!scope=row data-sort-value="Paz, Anibal"| [[Aníbal Paz]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1950 FIFA World Cup|1950]]
+|align=left| 
+| <ref group="fp">{{FIFA player|56025|Anibal PAZ}}</ref>
+|1917
+|2013
+|-
+!scope=row data-sort-value="Pedri"| [[Pedri]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|2002
+|
+|-
+!scope=row data-sort-value="Pedro"| [[Pedro (footballer, born 1987)|Pedro]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|318601|PEDRO}}</ref>
+|1987
+|
+|-
+!scope=row data-sort-value="Perazzolo, Mario"| [[Mario Perazzolo]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1938 FIFA World Cup|1938]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69677|Mario PERAZZOLO}}</ref>
+|1911
+|2001
+|-
+!scope=row data-sort-value="Perez, Julio"| [[Julio Pérez (footballer, born 1926)|Julio Pérez]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| ''[[1954 FIFA World Cup|1954]]''
+| <ref group="fp">{{FIFA player|56123|Julio PEREZ}}</ref>
+|1926
+|2002
+|-
+!scope=row data-sort-value="Perrotta, Simone"| [[Simone Perrotta]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|177877|Simone PERROTTA}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="Peruzzi, Angelo"| [[Angelo Peruzzi]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| ''[[2006 FIFA World Cup|2006]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|155974|Angelo PERUZZI}}</ref>
+|1970
+|
+|-
+!scope=row data-sort-value="Peters, Martin"| [[Martin Peters]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| [[1970 FIFA World Cup|1970]]
+| <ref group="fp">{{FIFA player|174852|Martin PETERS}}</ref>
+|1943
+|2019
+|-
+!scope=row data-sort-value="Petit, Emmanuel"| [[Emmanuel Petit]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|95448|Emmanuel PETIT}}</ref>
+|1970
+|
+|-
+!scope=row data-sort-value="Petrone, Pedro"| [[Pedro Petrone]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1930 FIFA World Cup|1930]]
+|align=left| 
+| <ref group="fp">{{FIFA player|56200|Pedro PETRONE}}</ref>
+|1905
+|1964
+|-
+!scope=row data-sort-value="Pezzella, German"| [[Germán Pezzella]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left|
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1991
+|
+|-
+!scope=row data-sort-value="Pfaff, Alfred"| [[Alfred Pfaff]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1954 FIFA World Cup|1954]]
+|align=left| 
+| <ref group="fp">{{FIFA player|56221|Alfred PFAFF}}</ref>
+|1926
+|2008
+|-
+!scope=row data-sort-value="Pflugler, Hans"| [[Hans Pflügler]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1990 FIFA World Cup|1990]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174860|Hans PFLUEGLER}}</ref>
+|1960
+|
+|-
+!scope=row data-sort-value="Piazza, Wilson"| [[Wilson Piazza|Piazza]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1974 FIFA World Cup|1974]]
+| <ref group="fp">{{FIFA player|181326|WILSON PIAZZA}}</ref>
+|1943
+|
+|-
+!scope=row data-sort-value="Pini, Rodolfo"| [[Rodolfo Pini]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69724|Rodolfo PINI}}</ref>
+|1926
+|2000
+|-
+!scope=row data-sort-value="Pino, Yeremy"| [[Yéremy Pino]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| [[2026 FIFA World Cup|2026]]
+| align="left" | ''[[2022 FIFA World Cup|2022]]''
+|
+|2002
+|
+|-
+!scope=row data-sort-value="Piola, Silvio"| [[Silvio Piola]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|174862|Silvio PIOLA}}</ref>
+|1913
+|1996
+|-
+!scope=row data-sort-value="Pique, Gerard"| [[Gerard Piqué]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|216973|Gerard PIQUE}}</ref>
+|1987
+|
+|-
+!scope=row data-sort-value="Pires, Roberto"| [[Robert Pires]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[1998 FIFA World Cup|1998]]
+|align=left| 
+| <ref group="fp">{{FIFA player|170705|Robert PIRES}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Piriz, Conduelo"| [[Conduelo Píriz]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69410|Conduelo PIRIZ}}</ref>
+|1905
+|1976
+|-
+!scope=row data-sort-value="Pirlo, Andrea"| [[Andrea Pirlo]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2010 FIFA World Cup|2010]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|177876|Andrea PIRLO}}</ref>
+|1979
+|
+|-
+!scope=row data-sort-value="Pizziolo, Mario"| [[Mario Pizziolo]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1934 FIFA World Cup|1934]]
+|align=left| 
+| <ref group="fp">{{FIFA player|174864|Mario PIZZIOLO}}</ref>
+|1909
+|1990
+|-
+!scope=row data-sort-value="Podolski, Lukas"| [[Lukas Podolski]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| [[2014 FIFA World Cup|2014]]
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|196789|Lukas PODOLSKI}}</ref>
+|1985
+|
+|-
+!scope=row data-sort-value="Pogba, Paul"| [[Paul Pogba]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|367388|Paul POGBA}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Porro, Pedro"| [[Pedro Porro]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|1999
+|
+|-
+!scope=row data-sort-value="Posipal, Josef"| [[Josef Posipal]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|56409|Jupp POSIPAL}}</ref>
+|1927
+|1997
+|-
+!scope=row data-sort-value="Pubill, Marc"| [[Marc Pubill]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| [[2026 FIFA World Cup|2026]]
+| align="left" |
+|
+|2003
+|
+|-
+!scope=row data-sort-value="Pumpido, Nery"| [[Nery Pumpido]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| ''[[1982 FIFA World Cup|1982]]'', [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|174885|Nery PUMPIDO}}</ref>
+|1957
+|
+|-
+!scope=row data-sort-value="Puyol, Carles"| [[Carles Puyol]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|177914|Carles PUYOL}}</ref>
+|1978
+|
+|-
+!scope=row data-sort-value="Rahn, Helmut"| [[Helmut Rahn]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| [[1958 FIFA World Cup|1958]]
+| <ref group="fp">{{FIFA player|44545|Helmut RAHN}}</ref>
+|1929
+|2003
+|-
+!scope=row data-sort-value="Rai"| [[Raí]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[1994 FIFA World Cup|1994]]
+|align=left| 
+| <ref group="fp">{{FIFA player|76828|RAI}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Rami, Adil"| [[Adil Rami]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| ''[[2018 FIFA World Cup|2018]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|299876|Adil RAMI}}</ref>
+|1985
+|
+|-
+!scope=row data-sort-value="Ramos, Sergio"| [[Sergio Ramos]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|216814|Sergio RAMOS}}</ref>
+|1986
+|
+|-
+!scope=row data-sort-value="Rava, Pietro"| [[Pietro Rava]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|44553|Pietro RAVA}}</ref>
+|1916
+|2006
+|-
+!scope=row data-sort-value="Raya, David"| [[David Raya]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| ''[[2026 FIFA World Cup|2026]]''
+| align="left" |  ''[[2022 FIFA World Cup|2022]]''
+|
+|1995
+|
+|-
+!scope=row data-sort-value="Recoba, Emilio"| [[Emilio Recoba]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69412|Emilio RECOBA}}</ref>
+|1904
+|1992
+|-
+!scope=row data-sort-value="Reina, Pepe"| [[Pepe Reina]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| ''[[2010 FIFA World Cup|2010]]''
+|align=left| ''[[2006 FIFA World Cup|2006]]'', [[2014 FIFA World Cup|2014]], ''[[2018 FIFA World Cup|2018]]''
+| <ref group="fp">{{FIFA player|175413|Pepe REINA}}</ref>
+|1982
+|
+|-
+!scope=row data-sort-value="Reuter, Stefan"| [[Stefan Reuter]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|44561|Stefan REUTER}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Ricardinho"| [[Ricardinho (footballer, born May 1976)|Ricardinho]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|3251|RICARDINHO}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Ricardo Rocha"| [[Ricardo Rocha (footballer, born 1962)|Ricardo Rocha]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[1994 FIFA World Cup|1994]]
+|align=left| [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|63518|RICARDO ROCHA}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Riedle, Karl Heinz"| [[Karl-Heinz Riedle]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1990 FIFA World Cup|1990]]
+|align=left| [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|44565|Karlheinz RIEDLE}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Rijo, Luis"| [[Luis Rijo]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69726|Luis RIJO}}</ref>
+|1927
+|2001
+|-
+!scope=row data-sort-value="Riolfo, Carlos"| [[Carlos Riolfo]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69413|Carlos RIOLFO}}</ref>
+|1905
+|1978
+|-
+!scope=row data-sort-value="Rivaldo"| [[Rivaldo]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|170691|RIVALDO}}</ref>
+|1972
+|
+|-
+!scope=row data-sort-value="Rivellino"| [[Rivellino]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|63896|RIVELINO}}</ref>
+|1946
+|
+|-
+!scope=row data-sort-value="Roberto"| [[Roberto Miranda|Roberto]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| [[1970 FIFA World Cup|1970]]
+|align=left| 
+| <ref group="fp">{{FIFA player|56957|ROBERTO}}</ref>
+|1943
+|
+|-
+!scope=row data-sort-value="Roberto Carlos"| [[Roberto Carlos]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[1998 FIFA World Cup|1998]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|170688|ROBERTO CARLOS}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Rodri"| [[Rodri]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|1996
+|
+|-
+!scope=row data-sort-value="Rodriguez, Guido"| [[Guido Rodríguez]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[2022 FIFA World Cup|2022]]
+|align=left|
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1994
+|
+|-
+!scope=row data-sort-value="Rodriguez Andrade, Victor"| [[Víctor Rodríguez Andrade]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|45619|Victor RODRIGUEZ ANDRADE}}</ref>
+|1927
+|1985
+|-
+!scope=row data-sort-value="Rogerio Ceni"| [[Rogério Ceni]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| ''[[2002 FIFA World Cup|2002]]''
+|align=left| [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|178788|ROGERIO CENI}}</ref>
+|1973
+|
+|-
+!scope=row data-sort-value="Romario"| [[Romário]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|63547|ROMÁRIO (Romário de Souza Faria)}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Romero, Carlos"| [[Carlos Romero (footballer, born 1927)|Carlos Romero]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69727|Carlos ROMERO}}</ref>
+|1927
+|1999
+|-
+!scope=row data-sort-value="Romero, Cristian"| [[Cristian Romero]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2026 FIFA World Cup|2026]]
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1998
+|
+|-
+!scope=row data-sort-value="Ronaldao"| [[Ronaldão (footballer)|Ronaldão]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| ''[[1994 FIFA World Cup|1994]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|144449|RONALDAO}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Ronaldinho"| [[Ronaldinho]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|3243|RONALDINHO}}</ref>
+|1980
+|
+|-
+!scope=row data-sort-value="Roque Junior"| [[Roque Júnior]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[2002 FIFA World Cup|2002]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|178105|ROQUE JUNIOR}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Rosetta, Virginio"| [[Virginio Rosetta]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| [[1934 FIFA World Cup|1934]]
+|align=left| 
+| <ref group="fp">{{FIFA player|44581|Virginio ROSETTA}}</ref>
+|1902
+|1975
+|-
+!scope=row data-sort-value="Rossi, Paolo"| [[Paolo Rossi]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1978 FIFA World Cup|1978]], ''[[1986 FIFA World Cup|1986]]''
+| <ref group="fp">{{FIFA player|44582|Paolo ROSSI}}</ref>
+|1956
+|2020
+|-
+!scope=row data-sort-value="Ruggeri, Oscar"| [[Oscar Ruggeri]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| [[1990 FIFA World Cup|1990]], [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|44585|Oscar RUGGERI}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Ruiz, Fabian"| [[Fabián Ruiz]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|1996
+|
+|-
+!scope=row data-sort-value="Rulli, Geronimo"| [[Gerónimo Rulli]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[2022 FIFA World Cup|2022]]''
+|align=left| ''[[2026 FIFA World Cup|2026]]''
+| <!-- <ref group="fp">{{FIFA player||}}</ref> -->
+|1992
+|
+|-
+!scope=row data-sort-value="Saldombide, Zoilo"| [[Zoilo Saldombide]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1930 FIFA World Cup|1930]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69414|Zoilo SALDOMBIDE}}</ref>
+|1903
+|1981
+|-
+!scope=row data-sort-value="Scarone, Hector"| [[Héctor Scarone]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1930 FIFA World Cup|1930]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|57652|Hector SCARONE}}</ref>
+|1898
+|1967
+|-
+!scope=row data-sort-value="Schafer, Hans"| [[Hans Schäfer]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| [[1958 FIFA World Cup|1958]], [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|57659|Hans SCHAEFER}}</ref>
+|1927
+|2017
+|-
+!scope=row data-sort-value="Schiaffino, Juan Alberto"| [[Juan Alberto Schiaffino]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|44609|Juan SCHIAFFINO}}</ref>
+|1925
+|2002
+|-
+!scope=row data-sort-value="Schiavio, Angelo"| [[Angelo Schiavio]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1934 FIFA World Cup|1934]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|44610|Angelo SCHIAVIO}}</ref>
+|1905
+|1990
+|-
+!scope=row data-sort-value="Schurrle, Andre"| [[André Schürrle]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|306548|Andre SCHUERRLE}}</ref>
+|1990
+|
+|-
+!scope=row data-sort-value="Schwarzenbeck, Hans Georg"| [[Hans-Georg Schwarzenbeck]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| ''[[1978 FIFA World Cup|1978]]''
+| <ref group="fp">{{FIFA player|44618|Hans Georg SCHWARZENBECK}}</ref>
+|1948
+|
+|-
+!scope=row data-sort-value="Schweinsteiger, Bastian"| [[Bastian Schweinsteiger]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| '''[[2014 FIFA World Cup|2014]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|196752|Bastian SCHWEINSTEIGER}}</ref>
+|1984
+|
+|-
+!scope=row data-sort-value="Scirea, Gaetano"| [[Gaetano Scirea]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1978 FIFA World Cup|1978]], [[1986 FIFA World Cup|1986]]
+| <ref group="fp">{{FIFA player|44620|Gaetano SCIREA}}</ref>
+|1953
+|1989
+|-
+!scope=row data-sort-value="Selvaggi, Franco"| [[Franco Selvaggi]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|44625|Franco SELVAGGI}}</ref>
+|1953
+|
+|-
+!scope=row data-sort-value="Serantoni, Pietro"| [[Pietro Serantoni]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| '''[[1938 FIFA World Cup|1938]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|44628|Pietro SERANTONI}}</ref>
+|1906
+|1964
+|-
+!scope=row data-sort-value="Sidibe, Djibril"| [[Djibril Sidibé (footballer, born 1992)|Djibril Sidibé]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| 
+| <ref group="fp">{{FIFA player|398682|Djibril SIDIBE}}</ref>
+|1992
+|
+|-
+!scope=row data-sort-value="Silva, David"| [[David Silva]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| [[2010 FIFA World Cup|2010]]
+|align=left| [[2014 FIFA World Cup|2014]], [[2018 FIFA World Cup|2018]]
+| <ref group="fp">{{FIFA player|200176|David SILVA}}</ref>
+|1986
+|
+|-
+!scope=row data-sort-value="Simon, Unai"| [[Unai Simón]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|1997
+|
+|-
+!scope=row data-sort-value="Springett, Rob"| [[Ron Springett]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| ''[[1966 FIFA World Cup|1966]]''
+|align=left| [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|58351|Ron SPRINGETT}}</ref>
+|1935
+|2015
+|-
+!scope=row data-sort-value="Steiner, Paul"| [[Paul Steiner]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| ''[[1990 FIFA World Cup|1990]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|44659|Paul STEINER}}</ref>
+|1957
+|
+|-
+!scope=row data-sort-value="Stiles, Nobby"| [[Nobby Stiles]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| ''[[1970 FIFA World Cup|1970]]''
+| <ref group="fp">{{FIFA player|44665|Nobby STILES}}</ref>
+|1942
+|2020
+|-
+!scope=row data-sort-value="Taffarel, Claudio"| [[Cláudio Taffarel]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| [[1990 FIFA World Cup|1990]], [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|63514|TAFFAREL}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Tagliafico, Nicolas"| [[Nicolás Tagliafico]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[2022 FIFA World Cup|2022]]'''
+|align=left| [[2018 FIFA World Cup|2018]], [[2026 FIFA World Cup|2026]]
+| <ref group="fp">{{FIFA player|308322|Nicolas TAGLIAFICO}}</ref>
+|1992
+|
+|-
+!scope=row data-sort-value="Tapia, Carlos"| [[Carlos Daniel Tapia|Carlos Tapia]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1986 FIFA World Cup|1986]]
+|align=left| 
+| <ref group="fp">{{FIFA player|58761|Carlos TAPIA}}</ref>
+|1962
+|
+|-
+!scope=row data-sort-value="Tarantini, Alberto"| [[Alberto Tarantini]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1978 FIFA World Cup|1978]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|44683|Alberto TARANTINI}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Tardelli, Marco"| [[Marco Tardelli]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| [[1978 FIFA World Cup|1978]], ''[[1986 FIFA World Cup|1986]]''
+| <ref group="fp">{{FIFA player|44684|Marco TARDELLI}}</ref>
+|1954
+|
+|-
+!scope=row data-sort-value="Tejera, Domingo"| [[Domingo Tejera]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1930 FIFA World Cup|1930]]
+|align=left| 
+| <ref group="fp">{{FIFA player|58837|Domingo TEJERA}}</ref>
+|1899
+|1969
+|-
+!scope=row data-sort-value="Tejera, Eusebio"| [[Eusebio Tejera]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| ''[[1954 FIFA World Cup|1954]]''
+| <ref group="fp">{{FIFA player|58838|Eusebio TEJERA}}</ref>
+|1922
+|2002
+|-
+!scope=row data-sort-value="Thauvin, Florian"| [[Florian Thauvin]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[2018 FIFA World Cup|2018]]
+|align=left| 
+| <ref group="fp">{{FIFA player|368965|Florian THAUVIN}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Thon, Olaf"| [[Olaf Thon]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1990 FIFA World Cup|1990]]
+|align=left| ''[[1986 FIFA World Cup|1986]]'', [[1998 FIFA World Cup|1998]]
+| <ref group="fp">{{FIFA player|44688|Olaf THON}}</ref>
+|1966
+|
+|-
+!scope=row data-sort-value="Thuram, Lilian"| [[Lilian Thuram]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|163666|Lilian THURAM}}</ref>
+|1972
+|
+|-
+!scope=row data-sort-value="Tolisso, Corentin"| [[Corentin Tolisso]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|404566|Corentin TOLISSO}}</ref>
+|1994
+|
+|-
+!scope=row data-sort-value="Toni, Luca"| [[Luca Toni]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|217882|Luca Toni}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="Torres, Fernando"| [[Fernando Torres]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|183864|Fernando TORRES}}</ref>
+|1984
+|
+|-
+!scope=row data-sort-value="Torres, Ferran"| [[Ferran Torres]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|2000
+|
+|-
+!scope=row data-sort-value="Tostao"| [[Tostão]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| '''[[1970 FIFA World Cup|1970]]'''
+|align=left| [[1966 FIFA World Cup|1966]]
+| <ref group="fp">{{FIFA player|63881|TOSTAO}}</ref>
+|1947
+|
+|-
+!scope=row data-sort-value="Totti, Francesco"| [[Francesco Totti]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2002 FIFA World Cup|2002]]
+| <ref group="fp">{{FIFA player|165247|Francesco TOTTI}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Trezeguet, David"| [[David Trezeguet]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| [[1998 FIFA World Cup|1998]]
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|170709|David TREZEGUET}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="Trobbiani, Marcelo"| [[Marcelo Trobbiani]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|44703|Marcelo TROBBIANI}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Turek, Toni"| [[Toni Turek]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|59218|Toni TUREK}}</ref>
+|1919
+|1984
+|-
+!scope=row data-sort-value="Umtiti, Samuel"| [[Samuel Umtiti]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|368846|Samuel UMTITI}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Urdinaran, Santos"| [[Santos Urdinarán]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1930 FIFA World Cup|1930]]
+|align=left| 
+| <ref group="fp">{{FIFA player|59283|Santos URDINARAN}}</ref>
+|1900
+|1979
+|-
+!scope=row data-sort-value="Valdano, Jorge"| [[Jorge Valdano]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| '''[[1986 FIFA World Cup|1986]]'''
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|44707|Jorge VALDANO}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Valdes, Victor"| [[Víctor Valdés]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| ''[[2010 FIFA World Cup|2010]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|217839|Víctor VALDÉS}}</ref>
+|1982
+|
+|-
+!scope=row data-sort-value="Valencia, Jose Daniel"| [[José Daniel Valencia]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1978 FIFA World Cup|1978]]
+|align=left| [[1982 FIFA World Cup|1982]]
+| <ref group="fp">{{FIFA player|44710|Jose VALENCIA}}</ref>
+|1955
+|
+|-
+!scope=row data-sort-value="Vampeta"| [[Vampeta]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| [[2002 FIFA World Cup|2002]]
+|align=left| 
+| <ref group="fp">{{FIFA player|3240|VAMPETA}}</ref>
+|1974
+|
+|-
+!scope=row data-sort-value="Varane, Raphael"| [[Raphaël Varane]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[2018 FIFA World Cup|2018]]'''
+|align=left| [[2014 FIFA World Cup|2014]], [[2022 FIFA World Cup|2022]]
+| <ref group="fp">{{FIFA player|359440|Raphael VARANE}}</ref>
+|1993
+|
+|-
+!scope=row data-sort-value="Varela, Obdulio"| [[Obdulio Varela]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| '''[[1950 FIFA World Cup|1950]]'''
+|align=left| [[1954 FIFA World Cup|1954]]
+| <ref group="fp">{{FIFA player|44727|Obdulio VARELA}}</ref>
+|1917
+|1996
+|-
+!scope=row data-sort-value="Varglien, Mario"| [[Mario Varglien]]
+|align=left| {{fb|ITA|1861}}
+| '''1'''
+!scope=row| ''[[1934 FIFA World Cup|1934]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69445|Mario VARGLIEN}}</ref>
+|1905
+|1978
+|-
+!scope=row data-sort-value="Vidal, Ernesto"| [[Ernesto Vidal]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| [[1950 FIFA World Cup|1950]]
+|align=left| 
+| <ref group="fp">{{FIFA player|44733|Ernesto VIDAL}}</ref>
+|1921
+|1974
+|-
+!scope=row data-sort-value="Vieira, Patrick"| [[Patrick Vieira]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|170707|Patrick VIEIRA}}</ref>
+|1976
+|
+|-
+!scope=row data-sort-value="Vierchowod, Pietro"| [[Pietro Vierchowod]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| ''[[1982 FIFA World Cup|1982]]''
+|align=left| [[1986 FIFA World Cup|1986]], [[1990 FIFA World Cup|1990]]
+| <ref group="fp">{{FIFA player|44734|Pietro VIERCHOWOD}}</ref>
+|1959
+|
+|-
+!scope=row data-sort-value="Vilches, Hector"| [[Héctor Vilches]]
+|align=left| {{fb|URU}}
+| '''1'''
+!scope=row| ''[[1950 FIFA World Cup|1950]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69728|Hector VILCHES}}</ref>
+|1926
+|1998
+|-
+!scope=row data-sort-value="Villa, David"| [[David Villa]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|229884|David Villa}}</ref>
+|1981
+|
+|-
+!scope=row data-sort-value="Villa, Ricardo"| [[Ricardo Villa]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| [[1978 FIFA World Cup|1978]]
+|align=left| 
+| <ref group="fp">{{FIFA player|44736|Ricardo VILLA}}</ref>
+|1952
+|
+|-
+!scope=row data-sort-value="Viola"| [[Viola (footballer)|Viola]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|115523|VIOLA}}</ref>
+|1969
+|
+|-
+!scope=row data-sort-value="Vogts, Berti"| [[Berti Vogts]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1974 FIFA World Cup|1974]]'''
+|align=left| [[1970 FIFA World Cup|1970]], [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|37656|Berti VOGTS}}</ref>
+|1946
+|
+|-
+!scope=row data-sort-value="Voller, Rudi"| [[Rudi Völler]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1990 FIFA World Cup|1990]]'''
+|align=left| [[1986 FIFA World Cup|1986]], [[1994 FIFA World Cup|1994]]
+| <ref group="fp">{{FIFA player|44739|Rudi VOELLER}}</ref>
+|1960
+|
+|-
+!scope=row data-sort-value="Walter, Fritz"| [[Fritz Walter]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| [[1958 FIFA World Cup|1958]]
+| <ref group="fp">{{FIFA player|44747|Fritz WALTER}}</ref>
+|1920
+|2002
+|-
+!scope=row data-sort-value="Walter, Ottmar"| [[Ottmar Walter]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| '''[[1954 FIFA World Cup|1954]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|59793|Ottmar WALTER}}</ref>
+|1924
+|2013
+|-
+!scope=row data-sort-value="Weidenfeller, Roman"| [[Roman Weidenfeller]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| ''[[2014 FIFA World Cup|2014]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|195223|Roman WEIDENFELLER}}</ref>
+|1980
+|
+|-
+!scope=row data-sort-value="Williams, Nico"| [[Nico Williams]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |  [[2022 FIFA World Cup|2022]]
+|
+|2002
+|
+|-
+!scope=row data-sort-value="Wilson, Ray"| [[Ray Wilson (English footballer)|Ray Wilson]]
+|align=left| {{fb|ENG}}
+| '''1'''
+!scope=row| '''[[1966 FIFA World Cup|1966]]'''
+|align=left| [[1962 FIFA World Cup|1962]]
+| <ref group="fp">{{FIFA player|44756|Ray WILSON}}</ref>
+|1934
+|2018
+|-
+!scope=row data-sort-value="Wimmer, Herbert"| [[Herbert Wimmer]]
+|align=left data-sort-value="Germany, West"| {{fb|FRG}}
+| '''1'''
+!scope=row| [[1974 FIFA World Cup|1974]]
+|align=left| 
+| <ref group="fp">{{FIFA player|44757|Herbert WIMMER}}</ref>
+|1944
+|
+|-
+!scope=row data-sort-value="Xavi"| [[Xavi (footballer, born 1980)|Xavi]]
+|align=left| {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2010 FIFA World Cup|2010]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]], [[2014 FIFA World Cup|2014]]
+| <ref group="fp">{{FIFA player|177855|Xavi HERNANDEZ}}</ref>
+|1980
+|
+|-
+!scope=row data-sort-value="Zaccardo, Christian"| [[Cristian Zaccardo]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| [[2006 FIFA World Cup|2006]]
+|align=left| 
+| <ref group="fp">{{FIFA player|210192|Cristian Zaccardo}}</ref>
+|1981
+|
+|-
+!scope=row data-sort-value="Zambrotta, Gianluca"| [[Gianluca Zambrotta]]
+|align=left| {{fb|ITA|2003}}
+| '''1'''
+!scope=row| '''[[2006 FIFA World Cup|2006]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2010 FIFA World Cup|2010]]
+| <ref group="fp">{{FIFA player|177655|Gianluca ZAMBROTTA}}</ref>
+|1977
+|
+|-
+!scope=row data-sort-value="Ze Maria"| [[Zé Maria (footballer, born 1949)|Zé Maria]]
+|align=left| {{fb|BRA|1968}}
+| '''1'''
+!scope=row| ''[[1970 FIFA World Cup|1970]]''
+|align=left| [[1974 FIFA World Cup|1974]]
+| <ref group="fp">{{FIFA player|181327|ZE MARIA}}</ref>
+|1949
+|
+|-
+!scope=row data-sort-value="Zelada, Hector"| [[Héctor Zelada]]
+|align=left| {{fb|ARG}}
+| '''1'''
+!scope=row| ''[[1986 FIFA World Cup|1986]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69325|Hector ZELADA}}</ref>
+|1957
+|
+|-
+!scope=row data-sort-value="Zequinha"| [[Zequinha]]
+|align=left| {{fb|BRA|1960}}
+| '''1'''
+!scope=row| ''[[1962 FIFA World Cup|1962]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|69905|ZEQUINHA}}</ref>
+|1934
+|2009
+|-
+!scope=row data-sort-value="Zetti"| [[Zetti]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| ''[[1994 FIFA World Cup|1994]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|92709|ZETTI}}</ref>
+|1965
+|
+|-
+!scope=row data-sort-value="Zidane, Zinedine"| [[Zinedine Zidane]]
+|align=left| {{fb|FRA}}
+| '''1'''
+!scope=row| '''[[1998 FIFA World Cup|1998]]'''
+|align=left| [[2002 FIFA World Cup|2002]], [[2006 FIFA World Cup|2006]]
+| <ref group="fp">{{FIFA player|163331|Zinedine ZIDANE}}</ref>
+|1972
+|
+|-
+!scope=row data-sort-value="Zieler, Ron Robert"| [[Ron-Robert Zieler]]
+|align=left| {{fb|GER}}
+| '''1'''
+!scope=row| ''[[2014 FIFA World Cup|2014]]''
+|align=left| 
+| <ref group="fp">{{FIFA player|302381|Ron-Robert ZIELER}}</ref>
+|1989
+|
+|-
+!scope=row data-sort-value="Zinho"| [[Zinho]]
+|align=left| {{fb|BRA}}
+| '''1'''
+!scope=row| '''[[1994 FIFA World Cup|1994]]'''
+|align=left| 
+| <ref group="fp">{{FIFA player|92713|ZINHO}}</ref>
+|1967
+|
+|-
+!scope=row data-sort-value="Zoff, Dino"| [[Dino Zoff]]
+|align=left| {{fb|ITA|1946}}
+| '''1'''
+!scope=row| '''[[1982 FIFA World Cup|1982]]'''
+|align=left| ''[[1970 FIFA World Cup|1970]]'', [[1974 FIFA World Cup|1974]], [[1978 FIFA World Cup|1978]]
+| <ref group="fp">{{FIFA player|44786|Dino ZOFF}}</ref>
+|1942
+|
+|-
+!scope=row data-sort-value="Zubimendi, Martin"| [[Martín Zubimendi]]
+| align="left" | {{fb|ESP}}
+| '''1'''
+!scope=row| '''[[2026 FIFA World Cup|2026]]'''
+| align="left" |
+|
+|1999
+|
+|}
+
+;Notes
+{{reflist|group=n}}
+
+== By year ==
+In the below table, players highlighted in '''bold''' appeared in the respective final matches, while players highlighted in ''italics'' were unused squad members in the respective tournaments.
+
+{| class="wikitable plainrowheaders sortable"
+|+Squads of teams that won the World Cup
+|-
+!scope=col| Year
+!scope=col| Team
+!scope=col class="unsortable"| Squad
+!scope=col class="unsortable"| Manager{{refn|group=n|For a detailed list, see ''[[List of FIFA World Cup winning managers]]''.}}
+!scope=col class="unsortable"| Ref.
+|-
+|align="center" | [[1930 FIFA World Cup|1930]]
+| {{fb|URU}} <br> ''([[1930 FIFA World Cup squads#Uruguay|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[José Leandro Andrade|J. Andrade]]'''}}{{•}} {{nowrap|{{small|2}} [[Peregrino Anselmo|P. Anselmo]]}}{{•}} {{nowrap|{{small|3}} '''[[Enrique Ballestrero|E. Ballestrero]]'''}}{{•}} {{nowrap|{{small|4}} ''[[Juan Carlos Calvo|J. Calvo]]''}}{{•}} {{nowrap|{{small|5}} ''[[Miguel Capuccini|M. Capuccini]]''}}{{•}} {{nowrap|{{small|6}} '''[[Héctor Castro|H. Castro]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Pedro Cea|P. Cea]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Pablo Dorado|P. Dorado]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Lorenzo Fernández|L. Fernández]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Álvaro Gestido|Á. Gestido]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Santos Iriarte|S. Iriarte]]'''}}{{•}} {{nowrap|{{small|12}} '''[[Ernesto Mascheroni|E. Mascheroni]]'''}}{{•}} {{nowrap|{{small|13}} ''[[Ángel Melogno|Á. Melogno]]''}}{{•}} {{nowrap|{{small|14}} '''[[José Nasazzi|J. Nasazzi]]'''}}{{•}} {{nowrap|{{small|15}} [[Pedro Petrone|P. Petrone]]}}{{•}} {{nowrap|{{small|16}} ''[[Conduelo Píriz|C. Píriz]]''}}{{•}} {{nowrap|{{small|17}} ''[[Emilio Recoba|E. Recoba]]''}}{{•}} {{nowrap|{{small|18}} ''[[Carlos Riolfo|C. Riolfo]]''}}{{•}} {{nowrap|{{small|19}} ''[[Zoilo Saldombide|Z. Saldombide]]''}}{{•}} {{nowrap|{{small|20}} '''[[Héctor Scarone|H. Scarone]]'''}}{{•}} {{nowrap|{{small|21}} [[Domingo Tejera|D. Tejera]]}}{{•}} {{nowrap|{{small|22}} [[Santos Urdinarán|S. Urdinarán]]}}
+| {{nowrap|{{flagicon|URU}} [[Alberto Suppici|A. Suppici]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1930uruguay/teams/43930 |archive-url=https://web.archive.org/web/20240221013232/https://www.fifa.com/en/tournaments/mens/worldcup/1930uruguay/teams/43930 |archive-date=21 February 2024 |title=1930 FIFA World Cup Uruguay™ - Uruguay}}</ref>
+|-
+|align="center" | [[1934 FIFA World Cup|1934]]
+| {{fb|ITA|1861}} <br> ''([[1934 FIFA World Cup squads#Italy|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Luigi Allemandi|L. Allemandi]]'''}}{{•}} {{nowrap|{{small|2}} ''[[Pietro Arcari|P. Arcari]]''}}{{•}} {{nowrap|{{small|3}} '''[[Luigi Bertolini|L. Bertolini]]'''}}{{•}} {{nowrap|{{small|4}} [[Felice Borel|F. Borel]]}}{{•}} {{nowrap|{{small|5}} ''[[Umberto Caligaris|U. Caligaris]]''}}{{•}} {{nowrap|{{small|6}} [[Armando Castellazzi|A. Castellazzi]]}}{{•}} {{nowrap|{{small|7}} ''[[Giuseppe Cavanna|G. Cavanna]]''}}{{•}} {{nowrap|{{small|8}} '''[[Gianpiero Combi|G. Combi]]'''}}{{•}} {{nowrap|{{small|9}} [[Attilio Demaría|A. Demaría]]}}{{•}} {{nowrap|{{small|10}} '''[[Giovanni Ferrari|G. Ferrari]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Attilio Ferraris|A. Ferraris]]'''}}{{•}} {{nowrap|{{small|12}} '''[[Enrique Guaita|E. Guaita]]'''}}{{•}} {{nowrap|{{small|13}} [[Anfilogino Guarisi|A. Guarisi]]}}{{•}} {{nowrap|{{small|14}} ''[[Guido Masetti|G. Masetti]]''}}{{•}} {{nowrap|{{small|15}} '''[[Giuseppe Meazza|G. Meazza]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Luis Monti|L. Monti]]'''}}{{•}} {{nowrap|{{small|17}} '''[[Eraldo Monzeglio|E. Monzeglio]]'''}}{{•}} {{nowrap|{{small|18}} '''[[Raimundo Orsi|R. Orsi]]'''}}{{•}} {{nowrap|{{small|19}} [[Mario Pizziolo|M. Pizziolo]]}}{{•}} {{nowrap|{{small|20}} [[Virginio Rosetta|V. Rosetta]]}}{{•}} {{nowrap|{{small|21}} '''[[Angelo Schiavio|A. Schiavio]]'''}}{{•}} {{nowrap|{{small|22}} ''[[Mario Varglien|M. Varglien]]''}}
+| {{nowrap|{{flagicon|ITA|1861}} [[Vittorio Pozzo|V. Pozzo]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1934italy/teams/43954 |archive-url=https://web.archive.org/web/20240304044754/https://www.fifa.com/tournaments/mens/worldcup/1934italy/teams/43954 |archive-date=4 March 2024 |title=1934 FIFA World Cup Italy™ - Italy}}</ref>
+|-
+|align="center" | [[1938 FIFA World Cup|1938]]
+| {{fb|ITA|1861}} <br> ''([[1938 FIFA World Cup squads#Italy|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Michele Andreolo|M. Andreolo]]'''}}{{•}} {{nowrap|{{small|2}} ''[[Sergio Bertoni|S. Bertoni]]''}}{{•}} {{nowrap|{{small|3}} '''[[Amedeo Biavati|A. Biavati]]'''}}{{•}} {{nowrap|{{small|4}} ''[[Carlo Ceresoli|C. Ceresoli]]''}}{{•}} {{nowrap|{{small|5}} ''[[Bruno Chizzo|B. Chizzo]]''}}{{•}} {{nowrap|{{small|6}} '''[[Gino Colaussi|G. Colaussi]]'''}}{{•}} {{nowrap|{{small|7}} ''[[Aldo Donati (footballer)|A. Donati]]''}}{{•}} {{nowrap|{{small|8}} '''[[Giovanni Ferrari|G. Ferrari]]'''}}{{•}} {{nowrap|{{small|9}} [[Pietro Ferraris|P. Ferraris]]}}{{•}} {{nowrap|{{small|10}} '''[[Alfredo Foni|A. Foni]]'''}}{{•}} {{nowrap|{{small|11}} ''[[Mario Genta|M. Genta]]''}}{{•}} {{nowrap|{{small|12}} '''[[Ugo Locatelli|U. Locatelli]]'''}}{{•}} {{nowrap|{{small|13}} ''[[Guido Masetti|G. Masetti]]''}}{{•}} {{nowrap|{{small|14}} '''[[Giuseppe Meazza|G. Meazza]]'''}}{{•}} {{nowrap|{{small|15}} [[Eraldo Monzeglio|E. Monzeglio]]}}{{•}} {{nowrap|{{small|16}} '''[[Aldo Olivieri|A. Olivieri]]'''}}{{•}} {{nowrap|{{small|17}} ''[[Renato Olmi|R. Olmi]]''}}{{•}} {{nowrap|{{small|18}} [[Piero Pasinati|P. Pasinati]]}}{{•}} {{nowrap|{{small|19}} ''[[Mario Perazzolo|M. Perazzolo]]''}}{{•}} {{nowrap|{{small|20}} '''[[Silvio Piola|S. Piola]]'''}}{{•}} {{nowrap|{{small|21}} '''[[Pietro Rava|P. Rava]]'''}}{{•}} {{nowrap|{{small|22}} '''[[Pietro Serantoni|P. Serantoni]]'''}}
+| {{nowrap|{{flagicon|ITA|1861}} [[Vittorio Pozzo|V. Pozzo]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1938france/teams/43954 |archive-url=https://web.archive.org/web/20230329221100/https://www.fifa.com/tournaments/mens/worldcup/1938france/teams/43954 |archive-date=29 March 2023 |title=1938 FIFA World Cup France™ - Italy}}</ref>
+|-
+|align="center" | [[1950 FIFA World Cup|1950]]
+| {{fb|URU}} <br> ''([[1950 FIFA World Cup squads#Uruguay|detailed squad]])''
+| {{nowrap|{{small|1}} ''[[Julio César Britos|J. Britos]]''}}{{•}} {{nowrap|{{small|2}} ''[[Juan Burgueño|J. Burgueño]]''}}{{•}} {{nowrap|{{small|3}} '''[[Schubert Gambetta|S. Gambetta]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Alcides Ghiggia|A. Ghiggia]]'''}}{{•}} {{nowrap|{{small|5}} [[Juan Carlos González|J. González]]}}{{•}} {{nowrap|{{small|6}} '''[[Matías González (footballer, born 1925)|M. González]]'''}}{{•}} {{nowrap|{{small|7}} ''[[William Martínez (footballer)|W. Martínez]]''}}{{•}} {{nowrap|{{small|8}} '''[[Roque Máspoli|R. Máspoli]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Óscar Míguez|Ó. Míguez]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Rubén Morán|R. Morán]]'''}}{{•}} {{nowrap|{{small|11}} ''[[Washington Ortuño|W. Ortuño]]''}}{{•}} {{nowrap|{{small|12}} [[Aníbal Paz|A. Paz]]}}{{•}} {{nowrap|{{small|13}} '''[[Julio Pérez (footballer, born 1926)|J. Pérez]]'''}}{{•}} {{nowrap|{{small|14}} ''[[Rodolfo Pini|R. Pini]]''}}{{•}} {{nowrap|{{small|15}} ''[[Luis Rijo|L. Rijo]]''}}{{•}} {{nowrap|{{small|16}} '''[[Víctor Rodríguez Andrade|V. Rodríguez Andrade]]'''}}{{•}} {{nowrap|{{small|17}} ''[[Carlos Romero (footballer, born 1927)|C. Romero]]''}}{{•}} {{nowrap|{{small|18}} '''[[Juan Alberto Schiaffino|J. Schiaffino]]'''}}{{•}} {{nowrap|{{small|19}} '''[[Eusebio Tejera|E. Tejera]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Obdulio Varela|O. Varela]]'''}}{{•}} {{nowrap|{{small|21}} [[Ernesto Vidal|E. Vidal]]}}{{•}} {{nowrap|{{small|22}} ''[[Héctor Vilches|H. Vilches]]''}}
+| {{nowrap|{{flagicon|URU}} [[Juan López (football manager, born 1908)|J. López]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1950brazil/teams/43930 |archive-url=https://web.archive.org/web/20230406030540/https://www.fifa.com/tournaments/mens/worldcup/1950brazil/teams/43930 |archive-date=6 April 2023 |title=1950 FIFA World Cup Brazil™ - Uruguay}}</ref>
+|-
+|align="center" | [[1954 FIFA World Cup|1954]]
+|data-sort-value="Germany"| {{fb|FRG}} <br> ''([[1954 FIFA World Cup squads#West Germany|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Toni Turek|T. Turek]]'''}}{{•}} {{nowrap|{{small|2}} [[Fritz Laband|F. Laband]]}}{{•}} {{nowrap|{{small|3}} '''[[Werner Kohlmeyer|W. Kohlmeyer]]'''}}{{•}} {{nowrap|{{small|4}} [[Hans Bauer (footballer)|H. Bauer]]}}{{•}} {{nowrap|{{small|5}} ''[[Herbert Erhardt|H. Erhardt]]''}}{{•}} {{nowrap|{{small|6}} '''[[Horst Eckel|H. Eckel]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Josef Posipal|J. Posipal]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Karl Mai|K. Mai]]'''}}{{•}} {{nowrap|{{small|9}} [[Paul Mebus|P. Mebus]]}}{{•}} {{nowrap|{{small|10}} '''[[Werner Liebrich|W. Liebrich]]'''}}{{•}} {{nowrap|{{small|11}} ''[[Karl-Heinz Metzner|K.-H. Metzner]]''}}{{•}} {{nowrap|{{small|12}} '''[[Helmut Rahn|H. Rahn]]'''}}{{•}} {{nowrap|{{small|13}} '''[[Max Morlock|M. Morlock]]'''}}{{•}} {{nowrap|{{small|14}} [[Bernhard Klodt|B. Klodt]]}}{{•}} {{nowrap|{{small|15}} '''[[Ottmar Walter|O. Walter]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Fritz Walter|F. Walter]]'''}}{{•}} {{nowrap|{{small|17}} [[Richard Herrmann|R. Herrmann]]}}{{•}} {{nowrap|{{small|18}} ''[[Ulrich Biesinger|U. Biesinger]]''}}{{•}} {{nowrap|{{small|19}} [[Alfred Pfaff|A. Pfaff]]}}{{•}} {{nowrap|{{small|20}} '''[[Hans Schäfer|H. Schäfer]]'''}}{{•}} {{nowrap|{{small|21}} ''[[Heinz Kubsch|H. Kubsch]]''}}{{•}} {{nowrap|{{small|22}} [[Heinz Kwiatkowski|H. Kwiatkowski]]}}
+| {{nowrap|{{flagicon|GER}} [[Sepp Herberger|S. Herberger]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1954switzerland/teams/44023 |archive-url=https://web.archive.org/web/20230406024651/https://www.fifa.com/tournaments/mens/worldcup/1954switzerland/teams/44023 |archive-date=6 April 2023 |title=1954 FIFA World Cup Switzerland™ - Germany FR}}</ref>
+|-
+|align="center" | [[1958 FIFA World Cup|1958]]
+| {{fb|BRA|1889}} <br> ''([[1958 FIFA World Cup squads#Brazil|detailed squad]])''
+| {{nowrap|{{small|1}} ''[[Carlos Castilho|Castilho]]''}}{{•}} {{nowrap|{{small|2}} '''[[Hilderaldo Bellini|Bellini]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Gilmar]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Djalma Santos]]'''}}{{•}} {{nowrap|{{small|5}} [[Dino Sani]]}}{{•}} {{nowrap|{{small|6}} '''[[Didi (footballer, born 1928)|Didi]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Mário Zagallo|M. Zagallo]]'''}}{{•}} {{nowrap|{{small|8}} ''[[Oreco]]''}}{{•}} {{nowrap|{{small|9}} ''[[Zózimo]]''}}{{•}} {{nowrap|{{small|10}} '''[[Pelé]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Garrincha]]'''}}{{•}} {{nowrap|{{small|12}} '''[[Nílton Santos]] '''}}{{•}} {{nowrap|{{small|13}} ''[[Moacir (footballer, born 1936)|Moacir]]''}}{{•}} {{nowrap|{{small|14}} [[Nílton de Sordi|De Sordi]]}}{{•}} {{nowrap|{{small|15}} '''[[Orlando Peçanha|Orlando]]'''}}{{•}} {{nowrap|{{small|16}} ''[[Mauro Ramos|Mauro]]''}}{{•}} {{nowrap|{{small|17}} [[Joel (footballer, born 1931)|Joel]]}}{{•}} {{nowrap|{{small|18}} [[José Altafini|J. Altafini]]}}{{•}} {{nowrap|{{small|19}} '''[[Zito (footballer, born 1932)|Zito]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Vavá]]'''}}{{•}} {{nowrap|{{small|21}} [[Dida (footballer, born 1934)|Dida]]}}{{•}} {{nowrap|{{small|22}} ''[[Pepe (footballer, born 1935)|Pepe]]''}}
+| {{nowrap|{{flagicon|BRA}} [[Vicente Feola|V. Feola]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1958sweden/teams/43924 |archive-url=https://web.archive.org/web/20230406023114/https://www.fifa.com/tournaments/mens/worldcup/1958sweden/teams/43924 |archive-date=6 April 2023 |title=1958 FIFA World Cup Sweden™ - Brazil}}</ref>
+|-
+|align="center" | [[1962 FIFA World Cup|1962]]
+| {{fb|BRA|1960}} <br> ''([[1962 FIFA World Cup squads#Brazil|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Gilmar]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Djalma Santos]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Mauro Ramos|Mauro]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Zito (footballer, born 1932)|Zito]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Zózimo]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Nílton Santos]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Garrincha]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Didi (footballer, born 1928)|Didi]]'''}}{{•}} {{nowrap|{{small|9}} ''[[Coutinho (footballer, born 1943)|Coutinho]]''}}{{•}} {{nowrap|{{small|10}} [[Pelé]]}}{{•}} {{nowrap|{{small|11}} ''[[Pepe (footballer, born 1935)|Pepe]]''}}{{•}} {{nowrap|{{small|12}} ''[[Jair Marinho]]''}}{{•}} {{nowrap|{{small|13}} ''[[Hilderaldo Bellini|Bellini]]''}}{{•}} {{nowrap|{{small|14}} ''[[Jurandir (footballer, born 1940)|Jurandir]]''}}{{•}} {{nowrap|{{small|15}} ''[[Altair (footballer)|Altair]]''}}{{•}} {{nowrap|{{small|16}} ''[[Zequinha]]''}}{{•}} {{nowrap|{{small|17}} ''[[Mengálvio]]''}}{{•}} {{nowrap|{{small|18}} ''[[Jair da Costa|Jair]]''}}{{•}} {{nowrap|{{small|19}} '''[[Vavá]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Amarildo (footballer, born 1939)|Amarildo]]'''}}{{•}} {{nowrap|{{small|21}} '''[[Mário Zagallo|M. Zagallo]]'''}}{{•}} {{nowrap|{{small|22}} ''[[Carlos Castilho|Castilho]]''}}
+| {{nowrap|{{flagicon|BRA}} [[Aymoré Moreira|A. Moreira]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1962chile/teams/43924 |archive-url=https://web.archive.org/web/20230406033558/https://www.fifa.com/tournaments/mens/worldcup/1962chile/teams/43924 |archive-date=6 April 2023 |title=1962 FIFA World Cup Chile™ - Brazil}}</ref>
+|-
+|align="center" | [[1966 FIFA World Cup|1966]]
+| {{fb|ENG}} <br> ''([[1966 FIFA World Cup squads#England|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Gordon Banks|G. Banks]]'''}}{{•}} {{nowrap|{{small|2}} '''[[George Cohen|G. Cohen]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Ray Wilson (English footballer)|R. Wilson]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Nobby Stiles|N. Stiles]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Jack Charlton|J. Charlton]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Bobby Moore|B. Moore]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Alan Ball Jr.|A. Ball]]'''}}{{•}} {{nowrap|{{small|8}} [[Jimmy Greaves|J. Greaves]]}}{{•}} {{nowrap|{{small|9}} '''[[Bobby Charlton|B. Charlton]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Geoff Hurst|G. Hurst]]'''}}{{•}} {{nowrap|{{small|11}} [[John Connelly (footballer, born 1938)|J. Connelly]]}}{{•}} {{nowrap|{{small|12}} ''[[Ron Springett|R. Springett]]''}}{{•}} {{nowrap|{{small|13}} ''[[Peter Bonetti|P. Bonetti]]''}}{{•}} {{nowrap|{{small|14}} ''[[Jimmy Armfield|J. Armfield]]''}}{{•}} {{nowrap|{{small|15}} ''[[Gerry Byrne (footballer, born 1938)|G. Byrne]]''}}{{•}} {{nowrap|{{small|16}} '''[[Martin Peters|M. Peters]]'''}}{{•}} {{nowrap|{{small|17}} ''[[Ron Flowers|R. Flowers]]''}}{{•}} {{nowrap|{{small|18}} ''[[Norman Hunter (footballer)|N. Hunter]]''}}{{•}} {{nowrap|{{small|19}} [[Terry Paine|T. Paine]]}}{{•}} {{nowrap|{{small|20}} [[Ian Callaghan|I. Callaghan]]}}{{•}} {{nowrap|{{small|21}} '''[[Roger Hunt|R. Hunt]]'''}}{{•}} {{nowrap|{{small|22}} ''[[George Eastham|G. Eastham]]''}}
+| {{nowrap|{{flagicon|ENG}} [[Alf Ramsey|A. Ramsey]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1966england/teams/43942 |archive-url=https://web.archive.org/web/20230406023119/https://www.fifa.com/tournaments/mens/worldcup/1966england/teams/43942 |archive-date=6 April 2023 |title=1966 FIFA World Cup England™ - England}}</ref>
+|-
+|align="center" | [[1970 FIFA World Cup|1970]]
+| {{fb|BRA|1968}} <br> ''([[1970 FIFA World Cup squads#Brazil|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Félix (footballer)|Félix]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Brito (footballer, born 1939)|Brito]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Wilson Piazza|Piazza]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Carlos Alberto Torres|Carlos Alberto]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Clodoaldo]]'''}}{{•}} {{nowrap|{{small|6}} [[Marco Antônio (footballer, born 1951)|Marco Antônio]]}}{{•}} {{nowrap|{{small|7}} '''[[Jairzinho]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Gérson]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Tostão]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Pelé]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Rivellino]]'''}}{{•}} {{nowrap|{{small|12}} ''[[Ado (footballer)|Ado]]''}}{{•}} {{nowrap|{{small|13}} [[Roberto Miranda|Roberto]]}}{{•}} {{nowrap|{{small|14}} ''[[Baldocchi]]''}}{{•}} {{nowrap|{{small|15}} [[Fontana (footballer)|Fontana]]}}{{•}} {{nowrap|{{small|16}} '''[[Everaldo (footballer, born 1944)|Everaldo]]'''}}{{•}} {{nowrap|{{small|17}} ''[[Joel Camargo|Joel]]''}}{{•}} {{nowrap|{{small|18}} [[Caju (footballer, born 1949)|Caju]]}}{{•}} {{nowrap|{{small|19}} [[Edu (footballer, born 1949)|Edu]]}}{{•}} {{nowrap|{{small|20}} ''[[Dadá Maravilha|Dario]]''}}{{•}} {{nowrap|{{small|21}} ''[[Zé Maria (footballer, born 1949)|Zé Maria]]''}}{{•}} {{nowrap|{{small|22}} ''[[Émerson Leão|Leão]]''}}
+| {{nowrap|{{flagicon|BRA}}[[Mário Zagallo|M. Zagallo]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1970mexico/teams/43924 |archive-url=https://web.archive.org/web/20240229103445/https://www.fifa.com/tournaments/mens/worldcup/1970mexico/teams/43924 |archive-date=29 February 2024 |title=1970 FIFA World Cup Mexico™ - Brazil}}</ref>
+|-
+|align="center" | [[1974 FIFA World Cup|1974]]
+|data-sort-value="Germany"| {{fb|FRG}}<br> ''([[1974 FIFA World Cup squads#West Germany|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Sepp Maier|S. Maier]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Berti Vogts|B. Vogts]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Paul Breitner|P. Breitner]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Hans-Georg Schwarzenbeck|H.-G. Schwarzenbeck]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Franz Beckenbauer|F. Beckenbauer]]'''}}{{•}} {{nowrap|{{small|6}} [[Horst-Dieter Höttges|H.-D. Höttges]]}}{{•}} {{nowrap|{{small|7}} [[Herbert Wimmer|H. Wimmer]]}}{{•}} {{nowrap|{{small|8}} [[Bernhard Cullmann|B. Cullmann]]}}{{•}} {{nowrap|{{small|9}} '''[[Jürgen Grabowski|J. Grabowski]]'''}}{{•}} {{nowrap|{{small|10}} [[Günter Netzer|G. Netzer]]}}{{•}} {{nowrap|{{small|11}} [[Jupp Heynckes|J. Heynckes]]}}{{•}} {{nowrap|{{small|12}} '''[[Wolfgang Overath|W. Overath]]'''}}{{•}} {{nowrap|{{small|13}} '''[[Gerd Müller|G. Müller]]'''}}{{•}} {{nowrap|{{small|14}} '''[[Uli Hoeneß|U. Hoeneß]]'''}}{{•}} {{nowrap|{{small|15}} [[Heinz Flohe|H. Flohe]]}}{{•}} {{nowrap|{{small|16}} '''[[Rainer Bonhof|R. Bonhof]]'''}}{{•}} {{nowrap|{{small|17}} '''[[Bernd Hölzenbein|B. Hölzenbein]]'''}}{{•}} {{nowrap|{{small|18}} [[Dieter Herzog|D. Herzog]]}}{{•}} {{nowrap|{{small|19}} ''[[Jupp Kapellmann|J. Kapellmann]]''}}{{•}} {{nowrap|{{small|20}} ''[[Helmut Kremers|H. Kremers]]''}}{{•}} {{nowrap|{{small|21}} ''[[Norbert Nigbur|N. Nigbur]]''}}{{•}} {{nowrap|{{small|22}} ''[[Wolfgang Kleff|W. Kleff]]''}}
+| {{nowrap|{{flagicon|GER}} [[Helmut Schön|H. Schön]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1974germany/teams/44023 |archive-url=https://web.archive.org/web/20240225222810/https://www.fifa.com/tournaments/mens/worldcup/1974germany/teams/44023 |archive-date=25 February 2024 |title=1974 FIFA World Cup Germany™ - Germany FR}}</ref>
+|-
+|align="center" | [[1978 FIFA World Cup|1978]]
+| {{fb|ARG}} <br> ''([[1978 FIFA World Cup squads#Argentina|detailed squad]])''
+| {{nowrap|{{small|1}} [[Norberto Alonso|N. Alonso]]}}{{•}} {{nowrap|{{small|2}} '''[[Osvaldo Ardiles|O. Ardiles]]'''}}{{•}} {{nowrap|{{small|3}} ''[[Héctor Baley|H. Baley]]''}}{{•}} {{nowrap|{{small|4}} '''[[Daniel Bertoni|D. Bertoni]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Ubaldo Fillol|U. Fillol]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Américo Gallego|A. Gallego]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Luis Galván|L. Galván]]'''}}{{•}} {{nowrap|{{small|8}} ''[[Rubén Galván (footballer)|R. Galván]]''}}{{•}} {{nowrap|{{small|9}} '''[[René Houseman|R. Houseman]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Mario Kempes|M. Kempes]]'''}}{{•}} {{nowrap|{{small|11}} ''[[Daniel Killer|D. Killer]]''}}{{•}} {{nowrap|{{small|12}} '''[[Omar Larrosa|O. Larrosa]]'''}}{{•}} {{nowrap|{{small|13}} ''[[Ricardo La Volpe|R. La Volpe]]''}}{{•}} {{nowrap|{{small|14}} '''[[Leopoldo Luque|L. Luque]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Jorge Olguín|J. Olguín]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Oscar Ortiz (footballer)|O. Ortiz]]'''}}{{•}} {{nowrap|{{small|17}} [[Miguel Oviedo|M. Oviedo]]}}{{•}} {{nowrap|{{small|18}} ''[[Rubén Pagnanini|R. Pagnanini]]''}}{{•}} {{nowrap|{{small|19}} '''[[Daniel Passarella|D. Passarella]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Alberto Tarantini|A. Tarantini]]'''}}{{•}} {{nowrap|{{small|21}} [[José Daniel Valencia|J. Valencia]]}}{{•}} {{nowrap|{{small|22}} [[Ricardo Villa|R. Villa]]}}
+| {{nowrap|{{flagicon|ARG}} [[César Luis Menotti|C. Menotti]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1978argentina/teams/43922 |archive-url=https://web.archive.org/web/20230406032051/https://www.fifa.com/tournaments/mens/worldcup/1978argentina/teams/43922 |archive-date=6 April 2023 |title=1978 FIFA World Cup Argentina™ - Argentina}}</ref>
+|-
+|align="center" | [[1982 FIFA World Cup|1982]]
+| {{fb|ITA|1946}} <br> ''([[1982 FIFA World Cup squads#Italy|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Dino Zoff|D. Zoff]]'''}}{{•}} {{nowrap|{{small|2}} ''[[Franco Baresi|F. Baresi]]''}}{{•}} {{nowrap|{{small|3}} '''[[Giuseppe Bergomi|G. Bergomi]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Antonio Cabrini|A. Cabrini]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Fulvio Collovati|F. Collovati]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Claudio Gentile|C. Gentile]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Gaetano Scirea|G. Scirea]]'''}}{{•}} {{nowrap|{{small|8}} ''[[Pietro Vierchowod|P. Vierchowod]]''}}{{•}} {{nowrap|{{small|9}} [[Giancarlo Antognoni|G. Antognoni]]}}{{•}} {{nowrap|{{small|10}} ''[[Giuseppe Dossena|G. Dossena]]''}}{{•}} {{nowrap|{{small|11}} [[Gianpiero Marini|G. Marini]]}}{{•}} {{nowrap|{{small|12}} ''[[Ivano Bordon|I. Bordon]]''}}{{•}} {{nowrap|{{small|13}} '''[[Gabriele Oriali|G. Oriali]]'''}}{{•}} {{nowrap|{{small|14}} '''[[Marco Tardelli|M. Tardelli]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Franco Causio|F. Causio]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Bruno Conti|B. Conti]]'''}}{{•}} {{nowrap|{{small|17}} ''[[Daniele Massaro|D. Massaro]]''}}{{•}} {{nowrap|{{small|18}} '''[[Alessandro Altobelli|A. Altobelli]]'''}}{{•}} {{nowrap|{{small|19}} '''[[Francesco Graziani|F. Graziani]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Paolo Rossi|P. Rossi]]'''}}{{•}} {{nowrap|{{small|21}} ''[[Franco Selvaggi|F. Selvaggi]]''}}{{•}} {{nowrap|{{small|22}} ''[[Giovanni Galli|G. Galli]]''}}
+| {{nowrap|{{flagicon|ITA}} [[Enzo Bearzot|E. Bearzot]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1982spain/teams/43954 |archive-url=https://web.archive.org/web/20230406030541/https://www.fifa.com/tournaments/mens/worldcup/1982spain/teams/43954 |archive-date=6 April 2023 |title=1982 FIFA World Cup Spain™ - Italy}}</ref>
+|-
+|align="center" | [[1986 FIFA World Cup|1986]]
+| {{fb|ARG}} <br> ''([[1986 FIFA World Cup squads#Argentina|detailed squad]])''
+| {{nowrap|{{small|1}} ''[[Sergio Omar Almirón|S. Almirón]]''}}{{•}} {{nowrap|{{small|2}} '''[[Sergio Batista|S. Batista]]'''}}{{•}} {{nowrap|{{small|3}} [[Ricardo Bochini|R. Bochini]]}}{{•}} {{nowrap|{{small|4}} [[Claudio Borghi (footballer)|C. Borghi]]}}{{•}} {{nowrap|{{small|5}} '''[[José Luis Brown|J. Brown]]'''}}{{•}} {{nowrap|{{small|6}} ''[[Daniel Passarella|D. Passarella]]''}}{{•}} {{nowrap|{{small|7}} '''[[Jorge Burruchaga|J. Burruchaga]]'''}}{{•}} {{nowrap|{{small|8}} [[Néstor Clausen|N. Clausen]]}}{{•}} {{nowrap|{{small|9}} '''[[José Luis Cuciuffo|J. Cuciuffo]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Diego Maradona|D. Maradona]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Jorge Valdano|J. Valdano]]'''}}{{•}} {{nowrap|{{small|12}} '''[[Héctor Enrique|H. Enrique]]'''}}{{•}} {{nowrap|{{small|13}} [[Oscar Garré|O. Garré]]}}{{•}} {{nowrap|{{small|14}} '''[[Ricardo Giusti|R. Giusti]]'''}}{{•}} {{nowrap|{{small|15}} ''[[Luis Islas|L. Islas]]''}}{{•}} {{nowrap|{{small|16}} '''[[Julio Olarticoechea|J. Olarticoechea]]'''}}{{•}} {{nowrap|{{small|17}} [[Pedro Pasculli|P. Pasculli]]}}{{•}} {{nowrap|{{small|18}} '''[[Nery Pumpido|N. Pumpido]]'''}}{{•}} {{nowrap|{{small|19}} '''[[Oscar Ruggeri|O. Ruggeri]]'''}}{{•}} {{nowrap|{{small|20}} [[Carlos Daniel Tapia|C. Tapia]]}}{{•}} {{nowrap|{{small|21}} '''[[Marcelo Trobbiani|M. Trobbiani]]'''}}{{•}} {{nowrap|{{small|22}} ''[[Héctor Zelada|H. Zelada]]''}}
+| {{nowrap|{{flagicon|ARG}} [[Carlos Bilardo|C. Bilardo]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1986mexico/teams/43922 |archive-url=https://web.archive.org/web/20230406032049/https://www.fifa.com/tournaments/mens/worldcup/1986mexico/teams/43922 |archive-date=6 April 2023 |title=1986 FIFA World Cup Mexico™ - Argentina}}</ref>
+|-
+|align="center" | [[1990 FIFA World Cup|1990]]
+|data-sort-value="Germany"| {{fb|FRG}} <br> ''([[1990 FIFA World Cup squads#West Germany|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Bodo Illgner|B. Illgner]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Stefan Reuter|S. Reuter]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Andreas Brehme|A. Brehme]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Jürgen Kohler|J. Kohler]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Klaus Augenthaler|K. Augenthaler]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Guido Buchwald|G. Buchwald]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Pierre Littbarski|P. Littbarski]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Thomas Häßler|T. Häßler]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Rudi Völler|R. Völler]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Lothar Matthäus|L. Matthäus]]'''}}{{•}} {{nowrap|{{small|11}} ''[[Frank Mill|F. Mill]]''}}{{•}} {{nowrap|{{small|12}} ''[[Raimond Aumann|R. Aumann]]''}}{{•}} {{nowrap|{{small|13}} [[Karl-Heinz Riedle|K.-H. Riedle]]}}{{•}} {{nowrap|{{small|14}} '''[[Thomas Berthold|T. Berthold]]'''}}{{•}} {{nowrap|{{small|15}} [[Uwe Bein|U. Bein]]}}{{•}} {{nowrap|{{small|16}} ''[[Paul Steiner|P. Steiner]]''}}{{•}} {{nowrap|{{small|17}} [[Andreas Möller|A. Möller]]}}{{•}} {{nowrap|{{small|18}} '''[[Jürgen Klinsmann|J. Klinsmann]]'''}}{{•}} {{nowrap|{{small|19}} [[Hans Pflügler|H. Pflügler]]}}{{•}} {{nowrap|{{small|20}} [[Olaf Thon|O. Thon]]}}{{•}} {{nowrap|{{small|21}} ''[[Günter Hermann|G. Hermann]]''}}{{•}} {{nowrap|{{small|22}} ''[[Andreas Köpke|A. Köpke]]''}}
+| {{nowrap|{{flagicon|GER}} [[Franz Beckenbauer|F. Beckenbauer]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1990italy/teams/44023 |archive-url=https://web.archive.org/web/20230406033555/https://www.fifa.com/tournaments/mens/worldcup/1990italy/teams/44023 |archive-date=6 April 2023 |title=1990 FIFA World Cup Italy™ - Germany FR}}</ref>
+|-
+|align="center" | [[1994 FIFA World Cup|1994]]
+| {{fb|BRA}} <br> ''([[1994 FIFA World Cup squads#Brazil|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Cláudio Taffarel|Taffarel]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Jorginho (footballer, born 1964)|Jorginho]]'''}}{{•}} {{nowrap|{{small|3}} [[Ricardo Rocha (footballer, born 1962)|Ricardo Rocha]]}}{{•}} {{nowrap|{{small|4}} ''[[Ronaldão (footballer)|Ronaldão]]''}}{{•}} {{nowrap|{{small|5}} '''[[Mauro Silva]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Branco (footballer)|Branco]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Bebeto]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Dunga]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Zinho]]'''}}{{•}} {{nowrap|{{small|10}} [[Raí]]}}{{•}} {{nowrap|{{small|11}} '''[[Romário]]'''}}{{•}} {{nowrap|{{small|12}} ''[[Zetti]]''}}{{•}} {{nowrap|{{small|13}} '''[[Aldair]]'''}}{{•}} {{nowrap|{{small|14}} '''[[Cafu]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Márcio Santos]]'''}}{{•}} {{nowrap|{{small|16}} [[Leonardo Araújo|Leonardo]]}}{{•}} {{nowrap|{{small|17}} '''[[Mazinho]]'''}}{{•}} {{nowrap|{{small|18}} [[Paulo Sérgio (footballer, born June 1969)|Paulo Sérgio]]}}{{•}} {{nowrap|{{small|19}} [[Müller (footballer, born 1966)|Müller]]}}{{•}} {{nowrap|{{small|20}} ''[[Ronaldo (Brazilian footballer)|Ronaldo]]''}}{{•}} {{nowrap|{{small|21}} '''[[Viola (footballer)|Viola]]'''}}{{•}} {{nowrap|{{small|22}} ''[[Gilmar Rinaldi|Gilmar]]''}}
+| {{nowrap|{{flagicon|BRA}} [[Carlos Alberto Parreira|C. Parreira]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1994usa/teams/43924 |archive-url=https://web.archive.org/web/20230406023115/https://www.fifa.com/tournaments/mens/worldcup/1994usa/teams/43924 |archive-date=6 April 2023 |title=1994 FIFA World Cup USA™ - Brazil}}</ref>
+|-
+|align="center" | [[1998 FIFA World Cup|1998]]
+| {{fb|FRA|1974}} <br> ''([[1998 FIFA World Cup squads#France|detailed squad]])''
+| {{nowrap|{{small|1}} ''[[Bernard Lama|B. Lama]]''}}{{•}} {{nowrap|{{small|2}} [[Vincent Candela|V. Candela]]}}{{•}} {{nowrap|{{small|3}} '''[[Bixente Lizarazu|B. Lizarazu]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Patrick Vieira|P. Vieira]]'''}}{{•}} {{nowrap|{{small|5}} [[Laurent Blanc|L. Blanc]]}}{{•}} {{nowrap|{{small|6}} '''[[Youri Djorkaeff|Y. Djorkaeff]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Didier Deschamps|D. Deschamps]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Marcel Desailly|M. Desailly]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Stéphane Guivarc'h|S. Guivarc'h]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Zinedine Zidane|Z. Zidane]]'''}}{{•}} {{nowrap|{{small|11}} [[Robert Pires|R. Pires]]}}{{•}} {{nowrap|{{small|12}} [[Thierry Henry|T. Henry]]}}{{•}} {{nowrap|{{small|13}} [[Bernard Diomède|B. Diomède]]}}{{•}} {{nowrap|{{small|14}} '''[[Alain Boghossian|A. Boghossian]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Lilian Thuram|L. Thuram]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Fabien Barthez|F. Barthez]]'''}}{{•}} {{nowrap|{{small|17}} '''[[Emmanuel Petit|E. Petit]]'''}}{{•}} {{nowrap|{{small|18}} '''[[Frank Leboeuf|F. Leboeuf]]'''}}{{•}} {{nowrap|{{small|19}} '''[[Christian Karembeu|C. Karembeu]]'''}}{{•}} {{nowrap|{{small|20}} [[David Trezeguet|D. Trezeguet]]}}{{•}} {{nowrap|{{small|21}} '''[[Christophe Dugarry|C. Dugarry]]'''}}{{•}} {{nowrap|{{small|22}} ''[[Lionel Charbonnier|L. Charbonnier]]''}}
+| {{nowrap|{{flagicon|FRA}} [[Aimé Jacquet|A. Jacquet]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/1998france/teams/43946 |archive-url=https://web.archive.org/web/20240216171337/https://www.fifa.com/tournaments/mens/worldcup/1998france/teams/43946 |archive-date=16 February 2024 |title=1998 FIFA World Cup France™ - France}}</ref>
+|-
+|align="center" | [[2002 FIFA World Cup|2002]]
+| {{fb|BRA}} <br> ''([[2002 FIFA World Cup squads#Brazil|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Marcos (footballer, born 1973)|Marcos]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Cafu]]'''}}{{•}} {{nowrap|{{small|3}} '''[[Lúcio]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Roque Júnior]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Edmílson]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Roberto Carlos]]'''}}{{•}} {{nowrap|{{small|7}} [[Ricardinho (footballer, born May 1976)|Ricardinho]]}}{{•}} {{nowrap|{{small|8}} '''[[Gilberto Silva]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Ronaldo (Brazilian footballer)|Ronaldo]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Rivaldo]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Ronaldinho]]'''}}{{•}} {{nowrap|{{small|12}} ''[[Dida (footballer, born 1973)|Dida]]''}}{{•}} {{nowrap|{{small|13}} [[Juliano Belletti|Belletti]]}}{{•}} {{nowrap|{{small|14}} [[Ânderson Polga]]}}{{•}} {{nowrap|{{small|15}} '''[[José Kléberson|Kléberson]]'''}}{{•}} {{nowrap|{{small|16}} [[Júnior (footballer, born 1973)|Júnior]]}}{{•}} {{nowrap|{{small|17}} '''[[Denílson (footballer, born 1977)|Denílson]]'''}}{{•}} {{nowrap|{{small|18}} [[Vampeta]]}}{{•}} {{nowrap|{{small|19}} '''[[Juninho Paulista]]'''}}{{•}} {{nowrap|{{small|20}} [[Edílson]]}}{{•}} {{nowrap|{{small|21}} [[Luizão (footballer, born 1975)|Luizão]]}}{{•}} {{nowrap|{{small|22}} ''[[Rogério Ceni]]''}}{{•}} {{nowrap|{{small|23}} [[Kaká]]}}
+| {{nowrap|{{flagicon|BRA}} [[Luiz Felipe Scolari|L. Scolari]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2002korea-japan/teams/43924 |archive-url=https://web.archive.org/web/20231203204416/https://www.fifa.com/tournaments/mens/worldcup/2002korea-japan/teams/43924 |archive-date=3 December 2023 |title=2002 FIFA World Cup Korea/Japan™ - Brazil}}</ref>
+|-
+|align="center" | [[2006 FIFA World Cup|2006]]
+| {{fb|ITA|2003}} <br> ''([[2006 FIFA World Cup squads#Italy|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Gianluigi Buffon|G. Buffon]]'''}}{{•}} {{nowrap|{{small|2}} [[Cristian Zaccardo|C. Zaccardo]]}}{{•}} {{nowrap|{{small|3}} '''[[Fabio Grosso|F. Grosso]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Daniele De Rossi|D. De Rossi]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Fabio Cannavaro|F. Cannavaro]]'''}}{{•}} {{nowrap|{{small|6}} [[Andrea Barzagli|A. Barzagli]]}}{{•}} {{nowrap|{{small|7}} '''[[Alessandro Del Piero|A. Del Piero]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Gennaro Gattuso|G. Gattuso]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Luca Toni|L. Toni]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Francesco Totti|F. Totti]]'''}}{{•}} {{nowrap|{{small|11}} [[Alberto Gilardino|A. Gilardino]]}}{{•}} {{nowrap|{{small|12}} ''[[Angelo Peruzzi|A. Peruzzi]]''}}{{•}} {{nowrap|{{small|13}} [[Alessandro Nesta|A. Nesta]]}}{{•}} {{nowrap|{{small|14}} ''[[Marco Amelia|M. Amelia]]''}}{{•}} {{nowrap|{{small|15}} '''[[Vincenzo Iaquinta|V. Iaquinta]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Mauro Camoranesi|M. Camoranesi]]'''}}{{•}} {{nowrap|{{small|17}} [[Simone Barone|S. Barone]]}}{{•}} {{nowrap|{{small|18}} [[Filippo Inzaghi|F. Inzaghi]]}}{{•}} {{nowrap|{{small|19}} '''[[Gianluca Zambrotta|G. Zambrotta]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Simone Perrotta|S. Perrotta]]'''}}{{•}} {{nowrap|{{small|21}} '''[[Andrea Pirlo|A. Pirlo]]'''}}{{•}} {{nowrap|{{small|22}} [[Massimo Oddo|M. Oddo]]}}{{•}} {{nowrap|{{small|23}} '''[[Marco Materazzi|M. Materazzi]]'''}}
+| {{nowrap|{{flagicon|ITA}} [[Marcello Lippi|M. Lippi]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2006germany/teams/43954 |archive-url=https://web.archive.org/web/20231209214941/https://www.fifa.com/tournaments/mens/worldcup/2006germany/teams/43954 |archive-date=9 December 2023 |title=2006 FIFA World Cup Germany™ - Italy}}</ref>
+|-
+|align="center" | [[2010 FIFA World Cup|2010]]
+| {{fb|ESP}} <br> ''([[2010 FIFA World Cup squads#Spain|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Iker Casillas|I. Casillas]]'''}}{{•}} {{nowrap|{{small|2}} ''[[Raúl Albiol|R. Albiol]]''}}{{•}} {{nowrap|{{small|3}} '''[[Gerard Piqué|G. Piqué]]'''}}{{•}} {{nowrap|{{small|4}} [[Carlos Marchena|C. Marchena]]}}{{•}} {{nowrap|{{small|5}} '''[[Carles Puyol|C. Puyol]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Andrés Iniesta|A. Iniesta]]'''}}{{•}} {{nowrap|{{small|7}} '''[[David Villa|D. Villa]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Xavi (footballer, born 1980)|Xavi]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Fernando Torres|F. Torres]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Cesc Fàbregas|C. Fàbregas]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Joan Capdevila|J. Capdevila]]'''}}{{•}} {{nowrap|{{small|12}} ''[[Víctor Valdés|V. Valdés]]''}}{{•}} {{nowrap|{{small|13}} [[Juan Mata|J. Mata]]}}{{•}} {{nowrap|{{small|14}} '''[[Xabi Alonso|X. Alonso]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Sergio Ramos|S. Ramos]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Sergio Busquets|S. Busquets]]'''}}{{•}} {{nowrap|{{small|17}} [[Álvaro Arbeloa|Á. Arbeloa]]}}{{•}} {{nowrap|{{small|18}} '''[[Pedro (footballer, born 1987)|Pedro]]'''}}{{•}} {{nowrap|{{small|19}} [[Fernando Llorente|F. Llorente]]}}{{•}} {{nowrap|{{small|20}} [[Javi Martínez|J. Martínez]]}}{{•}} {{nowrap|{{small|21}} [[David Silva|D. Silva]]}}{{•}} {{nowrap|{{small|22}} '''[[Jesús Navas|J. Navas]]'''}}{{•}} {{nowrap|{{small|23}} ''[[Pepe Reina|P. Reina]]''}}
+| {{nowrap|{{flagicon|ESP}} [[Vicente del Bosque|V. del Bosque]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2010south-africa/teams/43969 |archive-url=https://web.archive.org/web/20231129025505/https://www.fifa.com/tournaments/mens/worldcup/2010south-africa/teams/43969 |archive-date=29 November 2023 |title=2010 FIFA World Cup South Africa™ - Spain}}</ref>
+|-
+|align="center" | [[2014 FIFA World Cup|2014]]
+| {{fb|GER}} <br> ''([[2014 FIFA World Cup squads#Germany|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Manuel Neuer|M. Neuer]]'''}}{{•}} {{nowrap|{{small|2}} ''[[Kevin Großkreutz|K. Großkreutz]]''}}{{•}} {{nowrap|{{small|3}} ''[[Matthias Ginter|M. Ginter]]''}}{{•}} {{nowrap|{{small|4}} '''[[Benedikt Höwedes|B. Höwedes]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Mats Hummels|M. Hummels]]'''}}{{•}} {{nowrap|{{small|6}} [[Sami Khedira|S. Khedira]]}}{{•}} {{nowrap|{{small|7}} '''[[Bastian Schweinsteiger|B. Schweinsteiger]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Mesut Özil|M. Özil]]'''}}{{•}} {{nowrap|{{small|9}} '''[[André Schürrle|A. Schürrle]]'''}}{{•}} {{nowrap|{{small|10}} [[Lukas Podolski|L. Podolski]]}}{{•}} {{nowrap|{{small|11}} '''[[Miroslav Klose|M. Klose]]'''}}{{•}} {{nowrap|{{small|12}} ''[[Ron-Robert Zieler|R.-R. Zieler]]''}}{{•}} {{nowrap|{{small|13}} '''[[Thomas Müller|T. Müller]]'''}}{{•}} {{nowrap|{{small|14}} [[Julian Draxler|J. Draxler]]}}{{•}} {{nowrap|{{small|15}} ''[[Erik Durm|E. Durm]]''}}{{•}} {{nowrap|{{small|16}} '''[[Philipp Lahm|P. Lahm]]'''}}{{•}} {{nowrap|{{small|17}} '''[[Per Mertesacker|P. Mertesacker]]'''}}{{•}} {{nowrap|{{small|18}} '''[[Toni Kroos|T. Kroos]]'''}}{{•}} {{nowrap|{{small|19}} '''[[Mario Götze|M. Götze]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Jérôme Boateng|J. Boateng]]'''}}{{•}} {{nowrap|{{small|21}} [[Shkodran Mustafi|S. Mustafi]]}}{{•}} {{nowrap|{{small|22}} ''[[Roman Weidenfeller|R. Weidenfeller]]''}}{{•}} {{nowrap|{{small|23}} '''[[Christoph Kramer|C. Kramer]]'''}}
+| {{nowrap|{{flagicon|GER}} [[Joachim Löw|J. Löw]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2014brazil/teams/43948 |archive-url=https://web.archive.org/web/20230411013216/https://www.fifa.com/tournaments/mens/worldcup/2014brazil/teams/43948 |archive-date=11 April 2023 |title=2014 FIFA World Cup Brazil™ - Germany}}</ref>
+|-
+|align="center" | [[2018 FIFA World Cup|2018]]
+| {{fb|FRA|1974}} <br> ''([[2018 FIFA World Cup squads#France|detailed squad]])''
+| {{nowrap|{{small|1}} '''[[Hugo Lloris|H. Lloris]]'''}}{{•}} {{nowrap|{{small|2}} '''[[Benjamin Pavard|B. Pavard]]'''}}{{•}} {{nowrap|{{small|3}} [[Presnel Kimpembe|P. Kimpembe]]}}{{•}} {{nowrap|{{small|4}} '''[[Raphaël Varane|R. Varane]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Samuel Umtiti|S. Umtiti]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Paul Pogba|P. Pogba]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Antoine Griezmann|A. Griezmann]]'''}}{{•}} {{nowrap|{{small|8}} [[Thomas Lemar|T. Lemar]]}}{{•}} {{nowrap|{{small|9}} '''[[Olivier Giroud|O. Giroud]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Kylian Mbappé|K. Mbappé]]'''}}{{•}} {{nowrap|{{small|11}} [[Ousmane Dembélé|O. Dembélé]]}}{{•}} {{nowrap|{{small|12}} '''[[Corentin Tolisso|C. Tolisso]]'''}}{{•}} {{nowrap|{{small|13}} '''[[N'Golo Kanté|N. Kanté]]'''}}{{•}} {{nowrap|{{small|14}} '''[[Blaise Matuidi|B. Matuidi]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Steven Nzonzi|S. Nzonzi]]'''}}{{•}} {{nowrap|{{small|16}} [[Steve Mandanda|S. Mandanda]]}}{{•}} {{nowrap|{{small|17}} ''[[Adil Rami|A. Rami]]''}}{{•}} {{nowrap|{{small|18}} '''[[Nabil Fekir|N. Fekir]]'''}}{{•}} {{nowrap|{{small|19}} [[Djibril Sidibé (footballer, born 1992)|D. Sidibé]]}}{{•}} {{nowrap|{{small|20}} [[Florian Thauvin|F. Thauvin]]}}{{•}} {{nowrap|{{small|21}} '''[[Lucas Hernandez|L. Hernandez]]'''}}{{•}} {{nowrap|{{small|22}} [[Benjamin Mendy|B. Mendy]]}}{{•}} {{nowrap|{{small|23}} ''[[Alphonse Areola|A. Areola]]''}}
+| {{nowrap|{{flagicon|FRA}} [[Didier Deschamps|D. Deschamps]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/tournaments/mens/worldcup/2018russia/teams/43946 |archive-url=https://web.archive.org/web/20240124125130/https://www.fifa.com/tournaments/mens/worldcup/2018russia/teams/43946 |archive-date=24 January 2024 |title=2018 FIFA World Cup Russia™ - France}}</ref>
+|-
+|align="center" | [[2022 FIFA World Cup|2022]]
+|{{fb|ARG}} <br> ''([[2022 FIFA World Cup squads#Argentina|detailed squad]])''
+|{{nowrap|{{small|1}} ''[[Franco Armani|F. Armani]]''}}{{•}} {{nowrap|{{small|2}} [[Juan Foyth|J. Foyth]]}}{{•}} {{nowrap|{{small|3}} '''[[Nicolás Tagliafico|N. Tagliafico]]'''}}{{•}} {{nowrap|{{small|4}} '''[[Gonzalo Montiel|G. Montiel]]'''}}{{•}} {{nowrap|{{small|5}} '''[[Leandro Paredes|L. Paredes]]'''}}{{•}} {{nowrap|{{small|6}} '''[[Germán Pezzella|G. Pezzella]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Rodrigo De Paul|R. De Paul]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Marcos Acuña|M. Acuña]]'''}}{{•}} {{nowrap|{{small|9}} '''[[Julián Álvarez (footballer)|J. Álvarez]]'''}}{{•}} {{nowrap|{{small|10}} '''[[Lionel Messi|L. Messi]]'''}}{{•}} {{nowrap|{{small|11}} '''[[Ángel Di María|Á. Di María]]'''}}{{•}} {{nowrap|{{small|12}} ''[[Gerónimo Rulli|G. Rulli]]''}}{{•}} {{nowrap|{{small|13}} '''[[Cristian Romero (footballer, born 1998)|C. Romero]]'''}}{{•}} {{nowrap|{{small|14}} [[Exequiel Palacios|E. Palacios]]}}{{•}} {{nowrap|{{small|15}} [[Ángel Correa|Á. Correa]]}}{{•}} {{nowrap|{{small|16}} [[Thiago Almada|T. Almada]]}}{{•}} {{nowrap|{{small|17}} [[Papu Gómez|P. Gómez]]}}{{•}} {{nowrap|{{small|18}} [[Guido Rodríguez|G. Rodríguez]]}}{{•}} {{nowrap|{{small|19}} '''[[Nicolás Otamendi|N. Otamendi]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Alexis Mac Allister|A. Mac Allister]]'''}}{{•}} {{nowrap|{{small|21}} '''[[Paulo Dybala|P. Dybala]]'''}}{{•}} {{nowrap|{{small|22}} '''[[Lautaro Martínez|La. Martínez]]'''}}{{•}} {{nowrap|{{small|23}} '''[[Emiliano Martínez|E. Martínez]]'''}}{{•}} {{nowrap|{{small|24}} '''[[Enzo Fernández|E. Fernández]]'''}}{{•}} {{nowrap|{{small|25}} [[Lisandro Martínez|Li. Martínez]]}}{{•}} {{nowrap|{{small|26}} '''[[Nahuel Molina|N. Molina]]'''}}
+|{{nowrap|{{flagicon|ARG}} [[Lionel Scaloni|L. Scaloni]]}}
+| <ref group="fs">{{cite web|url=https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/qatar2022/teams/argentina/squad|title=Argentina}}</ref>
+|-
+| align="center" |[[2026 FIFA World Cup|2026]]
+|{{fb|ESP}} <br> ''([[2026 FIFA World Cup squads#Spain|detailed squad]])''
+|{{nowrap|{{small|1}} ''[[David Raya|D. Raya]]''}}{{•}} {{nowrap|{{small|2}} [[Marc Pubill|M. Pubill]]}}{{•}} {{nowrap|{{small|3}} ''[[Álex Grimaldo|Á. Grimaldo]]''}}{{•}} {{nowrap|{{small|4}} '''[[Eric García (footballer, born 2001)|E. García]]'''}}{{•}} {{nowrap|{{small|5}} [[Marcos Llorente|M. Llorente]]}}{{•}} {{nowrap|{{small|6}} '''[[Mikel Merino|M. Merino]]'''}}{{•}} {{nowrap|{{small|7}} '''[[Ferran Torres|F. Torres]]'''}}{{•}} {{nowrap|{{small|8}} '''[[Fabián Ruiz|F. Ruiz]]'''}}{{•}} {{nowrap|{{small|9}} [[Gavi (footballer)|Gavi]]}}{{•}} {{nowrap|{{small|10}} '''[[Dani Olmo|D. Olmo]]'''}}{{•}} {{nowrap|{{small|11}} [[Yéremy Pino|Y. Pino]]}}{{•}} {{nowrap|{{small|12}} '''[[Pedro Porro|P. Porro]]'''}}{{•}} {{nowrap|{{small|13}} ''[[Joan Garcia|J. Garcia]]''}}{{•}} {{nowrap|{{small|14}} '''[[Aymeric Laporte|A. Laporte]]'''}}{{•}} {{nowrap|{{small|15}} '''[[Álex Baena|Á. Baena]]'''}}{{•}} {{nowrap|{{small|16}} '''[[Rodri (footballer, born 1996)|Rodri]]'''}}{{•}} {{nowrap|{{small|17}} '''[[Nico Williams|N. Williams]]'''}}{{•}} {{nowrap|{{small|18}} '''[[Martín Zubimendi|M. Zubimendi]]'''}}{{•}} {{nowrap|{{small|19}} '''[[Lamine Yamal]]'''}}{{•}} {{nowrap|{{small|20}} '''[[Pedri]]'''}}{{•}} {{nowrap|{{small|21}} '''[[Mikel Oyarzabal|M. Oyarzabal]]'''}}{{•}} {{nowrap|{{small|22}} '''[[Pau Cubarsí|P. Cubarsí]]'''}}{{•}} {{nowrap|{{small|23}} '''[[Unai Simón|U. Simón]]'''}}{{•}} {{nowrap|{{small|24}} '''[[Marc Cucurella|M. Cucurella]]'''}}{{•}} {{nowrap|{{small|25}} ''[[Víctor Muñoz (footballer, born 2003)|V. Muñoz]]''}}{{•}} {{nowrap|{{small|26}} [[Borja Iglesias|B. Iglesias]]}}
+|{{nowrap|{{flagicon|ESP}} [[Luis de la Fuente (footballer, born 1961)|L. de la Fuente]]}}
+| <ref group="fs">{{cite web |title=Spain {{!}} Squad, Fixtures & News {{!}} FIFA World Cup 2026™ |url=https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/spain/squad |website=www.fifa.com |access-date=20 July 2026 |archive-url=https://web.archive.org/web/20260720184710/https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/teams/spain/squad |archive-date=20 July 2026 |date=20 July 2026 |url-status=live}}</ref>
+|}
+
+;Notes
+{{reflist|group=n}}
+
+== See also ==
+* [[List of players who have appeared in the most FIFA World Cups]]
+* [[List of FIFA World Cup winning managers]]
+* [[List of FIFA World Cup finals]]
+
+== References ==
+{{reflist}}
+;FIFA squad lists:
+{{reflist|group="fs"|40em}}
+;FIFA player profiles:
+{{scrollable-top}}
+{{reflist|group="fp"|25em}}
+{{scrollable-bottom}}
+
+== External links ==
+{{Portal bar|Association football|Lists}}
+* [https://www.fifa.com/tournaments/mens/worldcup FIFA World Cup], FIFA.com
+* [https://www.rsssf.org/miscellaneous/wcwinners.html World Cup Champions Squads 1930–2018], RSSSF.com
+
+{{FIFA World Cup}}
+
+[[Category:FIFA World Cup-related lists|winning players]]
+[[Category:Lists of international association football players by competition|FIFA World Cup winning players]]
+[[Category:Association football player non-biographical articles]]
+[[Category:Lists of champion association football players]]
+[[Category:Lists of sports world champions]]

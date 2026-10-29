@@ -1,0 +1,881 @@
+{{Short description|Best selling fiction authors to date in any language}}
+{{Use mdy dates|date=May 2020}}
+This is a '''list of best-selling fiction authors''' to date, in any language. While finding precise sales numbers for any given author is nearly impossible, the list is based on approximate numbers provided or repeated by reliable sources. Numbers given are estimated copies sold of all fiction books written or co-written by an author. To keep the list manageable, only authors with estimated sales of at least 100 million are included. Authors of comic books are not included unless they have been published in book format (for example, [[Franco-Belgian comics#Formats|comic albums]], [[manga]] [[tankōbon]] volumes, [[Trade paperback (comics)|trade paperbacks]], or [[graphic novel]]s).
+
+Some authors, including [[Jane Austen]], [[Miguel de Cervantes]], [[Alexandre Dumas]], [[Charles Dickens]], [[Arthur Conan Doyle]], [[Victor Hugo]], [[Jules Verne]], [[Ernest Hemingway]], [[Jack Higgins]], [[Isaac Asimov]] and [[Leon Uris]] have not been included in the table because no exact figures could be found, although it is possible that they too have more than 100 million copies of their work in print.
+
+==List==
+{{dynamic list}}
+Estimates come from different years and are therefore not directly comparable.
+{{static row numbers}}{{sort under}}
+{| class="sortable wikitable static-row-numbers" style="width:100%;"
+|- style="background:#CCCC;"
+! Author !! data-sort-type="number" | Min. estimated sales  !! data-sort-type="number" | Max. estimated sales !! Original language !! Genre and/or major works !! data-sort-type="number" | Number of books !! Nationality
+|-
+|{{sortname|William|Shakespeare}}
+| data-sort-value="2,000 million" |2 billion
+| data-sort-value="4,000 million" |4 billion<ref name="Shakespeare">{{cite news|url=https://www.thetimes.com/culture/books/article/agatha-christies-secret-tapes-discovered-3pbh3w7ld85|title='Agatha Christie's secret tapes discovered|date=September 15, 2008|work=[[The Times]]|issn=0140-0460|quote=Christie wrote 80 detective novels mostly featuring Poirot or Marple and it has been suggested that only the Bible and Shakespeare's canon have outsold an estimated 4 billion copies of her books.|access-date=June 13, 2019|archive-url=https://web.archive.org/web/20191215085527/https://www.thetimes.co.uk/article/agatha-christies-secret-tapes-discovered-3pbh3w7ld85|archive-date=December 15, 2019|url-status=live}}</ref>
+|[[English language|English]]
+|[[Shakespeare's plays|Plays]] and [[Shakespeare's sonnets|poetry]], e.g. ''[[Romeo and Juliet]]'', ''[[Macbeth]]'', and ''[[Hamlet]]''
+|42
+|[[Kingdom of England|English]]
+|-
+|{{sortname|Agatha|Christie}}
+| data-sort-value="2,000 million" |2 billion<ref>{{cite news|url=http://www.news.com.au/couriermail/story/0,23739,23175208-5003422,00.html|title=With more than two billion copies of her 80 crime masterpieces sold there is a ready-made audience for television adaptations.|date=February 8, 2008|access-date=October 8, 2008|archive-url=https://web.archive.org/web/20080213201839/http://www.news.com.au/couriermail/story/0,23739,23175208-5003422,00.html|archive-date=February 13, 2008|url-status=dead}}</ref>
+| data-sort-value="4,000 million" |4 billion<ref name="Shakespeare" />
+|English
+|[[Whodunit]]s, including the [[Miss Marple]] and [[Hercule Poirot]] series
+|86
+|British
+|-
+|{{sortname|Barbara|Cartland}}
+|500 million<ref>[https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2007/02/25/bolists.xml ''The Telegraph''] {{Webarchive|url=https://web.archive.org/web/20080616171017/http://www.telegraph.co.uk/arts/main.jhtml?xml=%2Farts%2F2007%2F02%2F25%2Fbolists.xml |date=June 16, 2008 }} on Barbara Cartland: "Barbara Cartland, who, we are informed (on condor-sj.com), 'is the most widely read author in the world with more than 500 million books in print'?" (February 25, 2007)</ref>
+| data-sort-value="1,000 million" |1 billion<ref>[https://www.cbsnews.com/stories/2000/12/20/2000/main258620.shtml?source=RSS&attr=_258620 CBS News] {{Webarchive|url=https://web.archive.org/web/20080413091946/http://www.cbsnews.com/stories/2000/12/20/2000/main258620.shtml?source=RSS&attr=_258620 |date=April 13, 2008 }} on Barbara Cartland: "Dame Barbara Cartland, 98. Considered the world's most prolific author and Britain's queen of romantic fiction, with total sales of 1 billion books." (December 20, 2000)</ref>
+|English
+|[[Romance novel|Romance]]
+|723
+|British
+|-
+|{{sortname|Danielle|Steel}}
+|500 million<ref>[https://www.cbc.ca/news/entertainment/danielle-steel-s-ex-assistant-gets-jail-sentence-1.940168 CBC]  on Danielle Steel: "The reclusive Steel,  who lives in San Francisco and Paris, has published more than 70 bestselling romance novels, which have sold more than 500 million copies worldwide." (April 21, 2010)</ref>
+|800 million<ref>[https://www.forbes.com/sites/avrildavid/2011/06/06/the-10-most-powerful-women-authors/2/ ''Forbes''] {{Webarchive|url=https://web.archive.org/web/20170907081823/https://www.forbes.com/sites/avrildavid/2011/06/06/the-10-most-powerful-women-authors/2/ |date=September 7, 2017 }} on Danielle Steel: "Yes, you read that right, 800 MILLION copies sold. Best known for romance and drama, Danielle Steel's novels have spent over 390 consecutive weeks on ''The New York Times'' Best Seller list and 22 have been adapted for television." (June 6, 2011)</ref>
+|English
+|General fiction, romance
+|179
+|[[United States|American]]
+|-
+|{{sortname|Harold|Robbins}}
+|50 million<ref>{{Cite news |last=Severo |first=By Richard |date=1997-10-15 |title=Harold Robbins, 81, Dies; Wrote Best Sellers Brimming With Sex, Money and Power |url=https://www.nytimes.com/1997/10/15/books/harold-robbins-81-dies-wrote-best-sellers-brimming-with-sex-money-and-power.html |access-date=2026-09-28 |work=The New York Times |language=en-US |issn=0362-4331}}</ref>
+|750 million<ref>[https://www.usatoday.com/printedition/life/20071009/d_robbinsrev.art.htm ''USA Today''] {{Webarchive|url=https://web.archive.org/web/20101031173528/http://www.usatoday.com/printedition/life/20071009/d_robbinsrev.art.htm |date=October 31, 2010 }} on Harold Robbins: "Starting in 1948, he sold 750 million books, including megasellers such as ''The Carpetbaggers'', ''A Stone for Danny Fisher'' and ''The Betsy''." (October 9, 2007)</ref>
+|English
+|[[Adventure novel|Adventure]]
+|23
+|American
+|-
+|{{sortname|Georges|Simenon}}
+|500 million<ref>[http://www.theage.com.au/articles/2003/09/12/1063341759443.html ''The Age''] {{Webarchive|url=https://web.archive.org/web/20090207215215/http://www.theage.com.au/articles/2003/09/12/1063341759443.html |date=February 7, 2009 }} on Georges Simenon: "With worldwide sales of 500 million, he was the most widely read living writer of his era." (September 14, 2003)</ref>
+|700 million<ref>[https://www.wsj.com/articles/SB104916057186893100?mod=googlewsj ''The Wall Street Journal''] {{Webarchive|url=https://web.archive.org/web/20170907081121/https://www.wsj.com/articles/SB104916057186893100?mod=googlewsj |date=September 7, 2017 }} on Georges Simenon: "In his lifetime Simenon published some 570 books, using 17 pen names, which have sold more than 700 million copies in 40 countries and were translated into 57 languages." (April 1, 2003)</ref>
+|[[French language|French]]
+|Detectives, ''[[Maigret]]'', romans durs
+|570
+|[[Belgium|Belgian]]
+|-
+|{{sortname|J. K.|Rowling}}
+|600 million<ref>{{Cite web |last= |first= |date=December 11, 2023 |title=Bargain bin Harry Potter book sells for £55,000 |url=https://www.bbc.com/news/articles/ce9p8v85l0po |website=[[BBC]]}}</ref>
+|600 million<ref name="Harry Potter copies">{{cite press release |author=<!--Not stated--> |title=Scholastic Marks 25 Year Anniversary of The Publication of ECHIRO ODA Harry Potter and the Sorcerer's Stone |url=http://mediaroom.scholastic.com/press-release/scholastic-marks-25-year-anniversary-publication-jk-rowling-s-harry-potter-and-sorcere |location=New York, New York |publisher=Scholastic |agency= |date=2023-02-06 |access-date=2023-02-15 |archive-date=February 6, 2023 |archive-url=https://web.archive.org/web/20230206161736/http://mediaroom.scholastic.com/press-release/scholastic-marks-25-year-anniversary-publication-jk-rowling-s-harry-potter-and-sorcere |url-status=live}}</ref>
+|English
+|Young adult fiction, ''[[Harry Potter]]'' among other works 
+|22 
+|British
+|-
+|[[Eiichiro Oda]]
+|600 million<ref name="Oda-1">{{cite web|last=Harding|first=Daryl|title=ONE PIECE Manga Surpasses 600 Million Copies in Print|url=https://www.crunchyroll.com/news/latest/2026/3/3/one-piece-manga-surpasses-600-million-copies-in-print|website=[[Crunchyroll News]]|access-date=March 3, 2026|date=March 3, 2026|quote=Today, the official social media accounts announced that history has been made once again for the series, with the manga surpassing 600 million copies printed and sold.}}</ref><ref name="Oda-2">{{cite web|last=Mateo|first=Alex|title=One Piece Manga Commemorates Over 600 Million Copies Worldwide With Video of Creator Eiichiro Oda Hiding Series' Secret in Ocean|url=https://www.animenewsnetwork.com/news/2026-03-03/one-piece-manga-commemorates-over-600-million-copies-worldwide-with-video-of-creator-eiichiro-oda-/.234869|website=[[Anime News Network]]|access-date=March 3, 2026|archive-url=https://web.archive.org/web/20260303192502/https://www.animenewsnetwork.com/news/2026-03-03/one-piece-manga-commemorates-over-600-million-copies-worldwide-with-video-of-creator-eiichiro-oda-/.234869|archive-date=March 3, 2026|date=March 3, 2026|url-status=live}}</ref>
+|600 million<ref name="Oda-1"/><ref name="Oda-2"/>
+|[[Japanese language|Japanese]]
+|[[Manga]], ''[[One Piece]]''
+|115
+|[[Japan]]ese
+|-
+|{{sortname|Enid|Blyton}}
+|400 million<ref>{{Cite web |title=Enid Blyton |url=https://www.britannica.com/biography/Enid-Blyton |website=[[Encyclopædia Britannica]]}}</ref>
+|600 million<ref>[http://www.examiner.co.uk/leisure-and-entertainment/whats-on-west-yorkshire/2008/08/25/denis-enid-s-seven-were-my-guilty-secret-86081-21599773/ ''The Huddersfield DailyExaminer''] {{Webarchive|url=https://web.archive.org/web/20120212224305/http://www.examiner.co.uk/leisure-and-entertainment/whats-on-west-yorkshire/2008/08/25/denis-enid-s-seven-were-my-guilty-secret-86081-21599773/ |date=February 12, 2012 }} on Enid Blyton: "She has been translated into 90 languages, is the sixth most popular writer worldwide according to UNESCO and almost equal to Shakespeare, and has sold 600 million copies." (August 25, 2008)</ref>
+|English
+|[[Children's literature]], ''[[Noddy (character)|Noddy]]'', ''[[The Famous Five (novel series)|The Famous Five]]'', ''[[The Secret Seven]]''
+|800
+|British
+|-
+|{{sortname|Jackie|Collins}}
+|400 million<ref>[https://www.theguardian.com/books/2004/jun/27/fiction.healthandwellbeing ''The Guardian'']  on Jackie Collins: "One of the world's bestselling writers with more than 400 million books sold in over 40 countries. " (June 27, 2004)</ref>
+|500 million<ref>{{Cite news |last=Thorpe |first=Vanessa |date=2021-06-13 |title=Jackie Collins: the reality of life in Joan’s shadow |url=https://www.theguardian.com/books/2021/jun/13/jackie-collins-the-reality-of-life-in-joans-shadow |access-date=2024-09-13 |work=The Observer |language=en-GB |issn=0029-7712}}</ref>
+|English
+|[[Romance novel|Romance]]
+|32
+|British
+|-
+|{{sortname|Sidney|Sheldon}}
+|300 million<ref>[https://variety.com/1995/voices/columns/wma-inks-o-j-prosecutor-clark-1117862789/ ''Variety'']  on Sidney Sheldon: "A NEW MILESTONE FOR Sidney Sheldon, who has sold more than 370 million books" (October 6, 1995)</ref>
+|500 million<ref>[https://www.theguardian.com/news/2007/feb/01/guardianobituaries.booksobituaries Sidney Sheldon | The Guardian] [https://www.biblio.com/authors/sidney-sheldon/274?srsltid=AfmBOorZAjWHzsLZD4lFlPBACklAo8o2Ze_v75NycplehlIOJDTRMNJT Biblio Books by Sydney] In addition to being a famous television writer, Sidney Sheldon is one of the best-selling fiction writers of all time.</ref>
+|English
+|[[Suspense fiction|Suspense]]
+|21
+|American
+|-
+|[[Rick Riordan]]
+| colspan="2" |190 million<ref>{{Cite web |date=2016-04-01 |title=About Rick Riordan {{!}} Rick Riordan |url=https://rickriordan.com/about/ |access-date=2025-08-25 |language=en-US}}</ref>
+|English
+|[[Fantasy literature|Fantasy]]
+|30+<ref>{{Cite web |last=ThriftBooks |title=Rick Riordan Books {{!}} List of books by author Rick Riordan |url=https://www.thriftbooks.com/a/rick-riordan/196802/ |access-date=2025-08-25 |website=ThriftBooks |language=en}}</ref>
+|American
+|-
+|{{sortname|Gilbert|Patten}}
+|125 million<ref>[https://books.google.com/books?id=dVSElxOM3K8C&dq=125-million-copies&pg=PA53 Susan Edgerton e.a. in ''Imagining the Academy: Higher Education and Popular Culture''] {{Webarchive|url=https://web.archive.org/web/20170215161755/https://books.google.com/books?id=dVSElxOM3K8C&pg=PA53&dq=125-million-copies&lr=&ei=x4LzR9zABYKWzATf_fHJCw&sig=8KN8zuhqePX8USPJ5SCwaip4i2s |date=February 15, 2017 }} page 53, on Gilbert Patten: "It is estimated that at least 125 million copies of the Frank Merriwell series (which
+itself ran to at least 209 books) were sold." (2004)</ref>
+|500 million<ref>[https://archive.org/details/withamusementfor00ashb/page/145 <!-- quote="500 million copies". --> LeRoy Ashby in ''With Amusement For All: A History of American Popular Culture Since 1830''] {{Webarchive|url=https://web.archive.org/web/20140915031047/http://books.google.com/books?id=qY0MDlK4_gsC&pg=PA145&dq=%22500+million+copies%22&lr=&as_brr=3&ei=aaH0R_3TGYLgywTP0-iABA&sig=cyFGAvvOa0_QgCZViGJYnY8ypDc |date=September 15, 2014 }} page 145, on Gilbert Patten: "[...] the Merriwell brothers, the heroes of almost 250
+children's books, whose total sales of 500 million copies surpassed those of the Bible between 1896 and 1918." (2006)</ref>
+|English
+|Adolescent adventures
+|209
+|American
+|-
+|{{sortname|Dr.|Seuss}}
+|100 million<ref>[http://media.www.dailyutahchronicle.com/media/storage/paper244/news/2001/03/05/News/Reading.Day.Features.Dr.Seuss.Extravaganza-52287.shtml ''The Daily Utah Chronicle''] {{webarchive|url=https://web.archive.org/web/20080415075014/http://media.www.dailyutahchronicle.com/media/storage/paper244/news/2001/03/05/News/Reading.Day.Features.Dr.Seuss.Extravaganza-52287.shtml |date=April 15, 2008 }} on Joshua Kagebein List of best-selling fiction authors: "The Pulitzer Prize-winning Seuss wrote and illustrated 47 books and sold more than 100 million copies in 18 languages." (March 5, 2001)</ref>
+|500 million<ref>[https://query.nytimes.com/gst/fullpage.html?res=9A0DE5DD173FF931A35750C0A9629C8B63 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20080419005950/http://query.nytimes.com/gst/fullpage.html?res=9A0DE5DD173FF931A35750C0A9629C8B63 |date=April 19, 2008 }} on Dr. Seuss: "Today Dr. Seuss's 44 books have been translated into 21 languages, selling more than 500 million copies." (March 2, 2004)</ref>
+|English
+|Children's literature
+|44
+|American
+|-
+|{{sortname|Akira|Toriyama}}
+|{{nowrap|298 million}}{{efn|name=Toriyama|[[Tankōbon]] book sales of [[Akira Toriyama]]'s manga:
+*''[[Dr. Slump]]'' {{ndash}} 35{{nbsp}}million copies (Japan)<ref>{{cite web|title=Top Manga Properties in 2008 - Rankings and Circulation Data|url=http://comipress.com/article/2008/12/31/3733|publisher=Comipress|date=December 31, 2008|access-date=November 28, 2013|archive-url=https://archive.today/20120629000255/http://comipress.com/article/2008/12/31/3733|archive-date=June 29, 2012|url-status=live}}</ref>
+*''[[Dragon Ball (manga)|Dragon Ball]]'' {{ndash}} {{nowrap|260 million}}+ official copies (worldwide),<ref name="Toei">{{cite web|url=https://corp.toei-anim.co.jp/ja/press/press1756269914992343745.html|work=[[Toei Animation]]|script-title=ja:『ドラゴンボール超』劇場版最新作、2022年に公開決定|date=May 9, 2021|access-date=May 18, 2021|language=ja|archive-date=October 25, 2021|archive-url=https://web.archive.org/web/20211025185940/https://corp.toei-anim.co.jp/ja/press/press1756269914992343745.html|url-status=live}}</ref> to {{nowrap|400 million}}+ official and unofficial copies.{{efn|See ''{{Section link|Dragon Ball (manga)|Reception}}''}}
+*''[[Dragon Ball Super]]'' {{ndash}} 3,289,401 copies (Japan){{efn|See ''{{Section link|Dragon Ball Super|Manga reception}}''}}
+}}
+|{{nowrap|438 million}}{{efn|name=Toriyama}}
+|Japanese
+|[[Manga]], ''[[Dr. Slump]]'', ''[[Dragon Ball (manga)|Dragon Ball]]'', ''[[Dragon Ball Super]]''
+|66
+|Japanese
+|-
+|{{sortname|Leo|Tolstoy}}
+|413 million<ref name="NYTIMES1987" />
+|413 million<ref name="NYTIMES1987">{{Cite web |last=Barringer |first=Felicity |date=February 15, 1987 |title=Soviet Vigils Held Widely For Pushkin |url=https://www.nytimes.com/1987/02/15/world/soviet-vigils-held-widely-for-pushkin.html |url-status=unfit |archive-url=https://web.archive.org/web/20231015113006/https://www.nytimes.com/1987/02/15/world/soviet-vigils-held-widely-for-pushkin.html |archive-date=October 15, 2023 |website=[[The New York Times]]}}</ref>
+|[[Russian language|Russian]]
+|''[[War and Peace]]'', ''[[Anna Karenina]]''
+|48
+|[[Russia]]n
+|-
+|{{sortname|Corín|Tellado}}
+|400 million<ref>[https://www.theguardian.com/books/2009/may/04/obituary-corin-tellado ''The Guardian Corin Tellado obituary ''] {{Webarchive|url=https://web.archive.org/web/20180914203737/https://www.theguardian.com/books/2009/may/04/obituary-corin-tellado |date=September 14, 2018 }} on Corin Tellado: "In the course of her life she published more than 4,000 romance novels that sold 400 million copies, which earned her a place in the Guinness Book of Records where she has been a fixture since 1994." (April 11, 2009)</ref>
+|400 million<ref>[[Corín Tellado]] on Corin Tellado: "She published more than 5,000 titles and sold more than 400 million books which have been translated into several languages"</ref>
+|[[Spanish language|Spanish]]
+|[[Romance novel|Romance]]
+|4,000
+|[[Spain|Spanish]]
+|-
+|{{sortname|James|Patterson}}
+|400 million<ref name=":1" />
+|400 million<ref name=":1">[https://www.newyorker.com/magazine/2022/06/20/how-james-patterson-became-the-worlds-best-selling-author ''The New Yorker''] "Patterson's books have sold more than four hundred million copies." (June 13, 2022)</ref>
+|English
+|[[Thriller fiction|Thriller]], ''[[Alex Cross]]'', ''[[Maximum Ride]]''
+|400+
+|American
+|-
+|{{sortname|Dean|Koontz}}
+|500 million<ref>{{cite news |url=https://www.latimes.com/entertainment-arts/books/story/2024-01-03/dean-koontz-bad-weather-friend |title=Dean Koontz's new book, 'The Bad Weather Friend,' is his favorite |author= [Author if listed, e.g., Carolina A. Miranda or staff] |work=Los Angeles Times |date=January 3, 2024 |access-date=February 8, 2026 |quote=He's written more than 140 books that have been translated into 38 languages and sold more than 500 million copies.}}</ref>
+|500 million<ref>{{cite news |url=https://www.washingtonpost.com/books/2023/05/03/dean-koontz |title=What scares master of suspense Dean Koontz? Plenty. |work=The Washington Post |date=May 3, 2023 |access-date=February 8, 2026}}</ref>
+|English
+|[[Horror fiction|Horror]], [[Thriller fiction|thriller]], [[science fiction]], [[Fantasy novel|fantasy]]
+|91
+|American
+|-
+|{{sortname|Stephen|King}}
+|300 million<ref>[https://www.newyorker.com/magazine/1998/09/07/what-are-you-afraid-of ''The New Yorker''] {{Webarchive|url=https://web.archive.org/web/20180713204736/https://www.newyorker.com/magazine/1998/09/07/what-are-you-afraid-of |date=July 13, 2018 }} on Stephen King: "He is the world's best-selling novelist, with 300 million books sold [...]" (September 7, 1998)</ref>
+|400 million<ref>{{cite web | url=https://www.dw.com/en/bestselling-author-stephen-king-turns-75/a-40621337 | title=Bestselling author Stephen King turns 75 – DW – 09/21/2022 | website=[[Deutsche Welle]] }}</ref>
+|English
+|[[Horror fiction|Horror]], [[science fiction]], [[Fantasy literature|fantasy]], ''[[It (novel)|It]]'', ''[[The Shining (novel)|The Shining]]'', ''[[The Stand]]'', ''[[Pet Sematary]]'', ''[[Salem's Lot]]'', ''[[The Green Mile (novel)|The Green Mile]]''
+|77
+|American
+|-
+|{{sortname|Horatio|Alger}}
+|200 million<ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=CKOR&p_multi=CKOB&p_theme=ckor&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=11620D6224F9DDB8&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM ''The Chinook Observer''] {{Webarchive|url=https://web.archive.org/web/20121008120605/http://nl.newsbank.com/nl-search/we/Archives?p_product=CKOR&p_multi=CKOB&p_theme=ckor&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=11620D6224F9DDB8&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |date=October 8, 2012 }} on Horatio Alger, Jr.: "Americans bought 200 million copies of his dime novels -- with intriguing titles like Raggedy Dick and Sink or Swim. " (March 30, 2005)</ref>
+|400 million<ref>[http://www.time.com/time/magazine/article/0,9171,903859,00.html ''Time'' magazine] {{Webarchive|url=https://web.archive.org/web/20080413090320/http://www.time.com/time/magazine/article/0,9171,903859,00.html |date=April 13, 2008 }} on Horatio Alger: "[...] that have sold from 100 million to 400 million copies, depending on which literary historian you believe." (February 12, 1973)</ref>
+|English
+|[[Dime novel]]s
+|135
+|American
+|-
+|{{sortname|Nora|Roberts}}
+|145 million<ref>[https://news.bbc.co.uk/2/hi/programmes/breakfast/2028387.stm BBC]  on Nora Roberts: "Nora Roberts currently has 145 million books in print." (June 6, 2002)</ref>
+|400 million<ref>[https://www.washingtonpost.com/lifestyle/style/nora-robertss-three-decades-of-writing-have-led-to-200-books/2012/04/16/gIQAxjsWMT_story.html ''The Washington Post''] {{Webarchive|url=https://web.archive.org/web/20170907080727/https://www.washingtonpost.com/lifestyle/style/nora-robertss-three-decades-of-writing-have-led-to-200-books/2012/04/16/gIQAxjsWMT_story.html |date=September 7, 2017 }} on Nora Roberts: "Today, Roberts, 61, has published her 200th novel, "The Witness," and is at the helm of a cottage industry: about 400 million copies of her books in print..." (April 16, 2012)</ref>
+|English
+|Romance
+|200+
+|American
+|-
+|{{sortname|R. L.|Stine}}
+|100 million<ref>[http://www.hindu.com/lr/2003/09/07/stories/2003090700040100.htm ''The Hindu''] {{Webarchive|url=https://web.archive.org/web/20080412231536/http://www.hindu.com/lr/2003/09/07/stories/2003090700040100.htm |date=April 12, 2008 }} on R. L. Stine: "As R.L. Stine points out (and he should know, having sold over 100 million copies of over 160 different spooky stories)" (September 7, 2003)</ref>
+|400 million<ref>[http://www.post-gazette.com/pg/08099/871281-42.stm Pittsburgh Post-Gazette] {{Webarchive|url=https://web.archive.org/web/20080413184615/http://www.post-gazette.com/pg/08099/871281-42.stm |date=April 13, 2008 }} on R. L. Stine: "Altogether, Stine has sold more than 400 million books." (April 8, 2007)</ref>
+|English
+|''[[Goosebumps]]'' series, ''[[Fear Street]]'' series, horror, comedy
+|430+
+|American
+|-
+|{{sortname|Alexander|Pushkin}}
+|357 million<ref name="NYTIMES1987" />
+|357 million<ref name="NYTIMES1987" />
+|Russian
+|Plays, poetry, prose, ''[[Eugene Onegin]]''
+|17
+|Russian
+|-
+|{{sortname|Paulo|Coelho}}
+|225 million<ref>[https://www.penguinrandomhouse.com/authors/5234/paulo-coelho ''Penguin Random House''] {{Webarchive|url=https://web.archive.org/web/20180915001831/https://www.penguinrandomhouse.com/authors/5234/paulo-coelho |date=September 15, 2018 }} on Paulo Coelho: "his books have sold more than 225 million copies in more than 170 countries (...)" (September 14, 2018)</ref>
+|350 million<ref>[https://www.washingtonpost.com/lifestyle/style/meet-the-elite-group-of-authors-who-sell-100-million-books-or-350-million/2016/12/20/db3c6a66-bb0f-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-cards_hp-card-lifestyle%3Ahomepage%2Fcard ''The Washington Post''] {{Webarchive|url=https://web.archive.org/web/20170907121823/https://www.washingtonpost.com/lifestyle/style/meet-the-elite-group-of-authors-who-sell-100-million-books-or-350-million/2016/12/20/db3c6a66-bb0f-11e6-94ac-3d324840106c_story.html?hpid=hp_hp-cards_hp-card-lifestyle%3Ahomepage%2Fcard |date=September 7, 2017 }} on Paulo Coelho: "the writer has sold an estimated 350 million books." (December 20, 2016)</ref>
+|[[Portuguese language|Portuguese]]
+|''[[The Alchemist (novel)|The Alchemist]]''
+|28
+|[[Brazil]]ian
+|-
+|{{sortname|Jirō|Akagawa}}
+|300 million<ref>[http://www.nishinippon.co.jp/nnp/book/kyushu100/2007/02/post_57.shtml Nishi-Nippon Shinbun] {{webarchive|url=https://web.archive.org/web/20080330114628/http://www.nishinippon.co.jp/nnp/book/kyushu100/2007/02/post_57.shtml |date=March 30, 2008 }} (Japanese Language, February 25, 2007)</ref>
+|330 million<ref>[https://xtrend.nikkei.com/atcl/contents/watch/00008/00066/ Nikkei Cross Trend] {{Webarchive|url=https://web.archive.org/web/20200301054358/https://xtrend.nikkei.com/atcl/contents/watch/00008/00066/ |date=March 1, 2020 }} (Japanese, December 23, 2019)</ref>
+|Japanese
+|Mystery
+|500+
+|Japanese
+|-
+|{{sortname|Jeffrey|Archer}}
+|250 million<ref>[https://www.curtisbrown.co.uk/client/jeffrey-archer ''Curtis Brown''] {{Webarchive|url=https://web.archive.org/web/20190714104955/https://www.curtisbrown.co.uk/client/jeffrey-archer |date=July 14, 2019 }} "Novelist, short story writer and author of non-fiction" (2014)</ref>
+|330 million<ref>[https://www.telegraph.co.uk/culture/8497940/Jeffrey-Archer-interview-the-saga-continues.html ''The Daily Telegraph''] {{Webarchive|url=https://web.archive.org/web/20160221013018/http://www.telegraph.co.uk/culture/8497940/Jeffrey-Archer-interview-the-saga-continues.html |date=February 21, 2016 }} "Jeffrey Archer interview: the saga continues." (May 7, 2011)</ref>
+|English 
+|[[Saga]], [[thriller fiction|thriller]], [[short stories]], ''[[Kane and Abel (novel)|Kane and Abel]]'', ''[[The Clifton Chronicles]]''
+|33
+|British
+|-
+|{{sortname|Louis|L'Amour}}
+|230 million<ref>[https://books.google.com/books?id=U3rJxPYT32MC&dq=%22230+million+copies%22&pg=PA473 Ray Broadmus Browne and Pat Browne in ''The Guide to United States Popular Culture''] {{Webarchive|url=https://web.archive.org/web/20161224210735/https://books.google.com/books?id=U3rJxPYT32MC&pg=PA473&dq=%22230+million+copies%22&lr=&ei=N5v0R5LVCIWyyQSq8eCTCQ&sig=V936EWzpWNM8lEIQuzMXxSa2fbU |date=December 24, 2016 }} page 473, on Louis L'Amour: "His books have sold over 230 million copies, making him one of the best- selling
+authors in modern literary history. " (2001)</ref>
+|330 million<ref>[https://secure.forumcomm.com/jamestown/articles/index.cfm?page=purchase&id=2031&CFID=21680836&CFTOKEN=67407524&jsessionid=88307890842632686240 ''The Jamestown Sun''] on Louis L'Amour: "More than 330 million copies of his books have been sold, translated into 27 languages." (October 29, 2001)</ref>
+|English
+|[[Western fiction|Western]]
+|101
+|American
+|-
+|{{sortname|René|Goscinny}}
+|325 million<ref name="Volumes-sold" />
+|325{{nbsp}}million<ref name="Volumes-sold">{{cite news | title = Asterix the Gaul rises sky high | url = http://in.reuters.com/article/entertainmentNews/idINIndia-43015020091008 | work = [[Reuters]] | date = October 8, 2009 | access-date = September 14, 2018 | archive-url = https://web.archive.org/web/20091010020156/http://in.reuters.com/article/entertainmentNews/idINIndia-43015020091008 | archive-date = October 10, 2009 | url-status = dead }}</ref>
+|French
+|[[Franco-Belgian comics]], ''[[Asterix]]'', ''[[Lucky Luke]]'', ''[[Iznogoud]]''
+|108
+|[[France|French]]
+|-
+|{{sortname|Erle Stanley|Gardner}}
+|100 million<ref>[http://www.nysun.com/article/17278 ''The New York Sun''] {{Webarchive|url=https://web.archive.org/web/20080413053811/http://www2.nysun.com/article/17278 |date=April 13, 2008 }} on Erle Stanley Gardner: "Erle Stanley Gardner (whose Perry Mason stories sold more than a 100 million books)" (July 20, 2005)</ref>
+|325 million<ref>[https://query.nytimes.com/gst/fullpage.html?res=9E0CE7DB153FF931A15752C1A964958260 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20080418053402/http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DB153FF931A15752C1A964958260 |date=April 18, 2008 }} on Erle Stanley Gardner: "Gardner's books continue to be reissued regularly both here and abroad. Sales to date exceed 325 million copies." (November 22, 1992)</ref>
+|English
+|[[Mystery (fiction)|Mystery]], ''[[Perry Mason]]''
+|140
+|American
+|-
+|{{sortname|Edgar|Wallace}}
+|300 million<ref name=":2" />
+|300 million<ref name=":2">[https://books.google.com/books?id=rBGohk2hjhUC&dq=%22million+copies%22&pg=PA13 The "American mystery and detective novels: a reference guide"] {{Webarchive|url=https://web.archive.org/web/20161224204848/https://books.google.com/books?id=rBGohk2hjhUC&pg=PA13&dq=%22million+copies%22&lr=&as_drrb_is=b&as_minm_is=0&as_miny_is=1995&as_maxm_is=0&as_maxy_is=2010&as_brr=3&ei=3_dCS-C5N4-OygSB1NHCDg&cd=38#v=onepage&q=%22million%20copies%22&f=false |date=December 24, 2016 }} on Edgar Wallace: "Christie alone has sold 500 million copies; Edgar Wallace, 300 million; Georges Simenon, 300 million; and Mickey Spillane, 150 million." (1999)</ref>
+|English
+|Detective
+|175
+|British
+|-
+|{{sortname|Janet|Dailey}}
+|300 million<ref>[http://www.bbcaudiobooksamerica.com/client/Our_Catalogs/SoundLibrary/SL0907.pdf ''BBC AudioBooks catalogue''] {{webarchive|url=https://web.archive.org/web/20110707215026/http://www.bbcaudiobooksamerica.com/client/Our_Catalogs/SoundLibrary/SL0907.pdf |date=July 7, 2011 }} on Janet Dailey: "Janet Dailey has written more than 100 novels and is one of the world's topselling women writers, with more than 300 million copies of her books sold in nineteen languages in ninety-eight countries" (2007)</ref>
+|300 million<ref>[https://books.google.com/books?id=juPQyVJrsFAC&dq=%22300+million+copies%22&pg=PA159 Pamela Regis in ''A Natural History of the Romance Novel''] page 159 on Janet Dailey: "There are 300 million copies of her books in print, making her the third best-selling
+author of all time" (2007)</ref>
+|English
+|Romance
+|93
+|American
+|-
+|[[Jin Yong]]<!--Not using sortname template because neither part is a first name-->
+|100 million<ref>[http://www.barnesandnoble.com/w/compassionate-light-in-asia-jin-yong/1103465873 I. B.Tauris & Company] {{Webarchive|url=https://web.archive.org/web/20140115150639/http://www.barnesandnoble.com/w/compassionate-light-in-asia-jin-yong/1103465873 |date=January 15, 2014 }} on Jin Yong: "Jin Yong (1924-) is China's bestselling living novelist. His 15 books have sold more than 100 million copies worldwide..."</ref>
+|300 million<ref>[http://stu.hksyu.edu/~newsletter/?p=876&lang=en ''Shue Yan Newsletter''] {{Webarchive|url=https://web.archive.org/web/20120502115052/http://stu.hksyu.edu/~newsletter/?p=876&lang=en |date=May 2, 2012 }} on Jin Yong: "Professor Cha adopted 'Jin Rong' as his pen-name for his 15 martial arts novels of which over 300 million copies have been sold to-date. Although Professor Cha stopped writing martial arts novels almost forty years ago, they remain in print and have been translated into English, Japanese, Korean, Thai, Vietnamese and other languages for his countless readers worldwide."</ref><ref>{{cite web|url=http://publishingperspectives.com/2010/02/the-billion-copy-opportunity/|title=The Billion Copy Opportunity|author=Manalo|publisher=Publishing Perspectives|quote=Without rival, the twentieth century's king of the genre is Louis Cha. Estimates of his book sales reach up to 300 million copies. One editor at the ''Far Eastern Economic Review'' estimated that, if one also counted the pirated copies, over 1 billion of Cha's books have been sold. His fourteen novels have been adapted into countless comic books, television shows, and films.|date=February 16, 2010|access-date=December 18, 2011|archive-url=https://web.archive.org/web/20111101061938/http://publishingperspectives.com/2010/02/the-billion-copy-opportunity/|archive-date=November 1, 2011|url-status=live|first=Lewis}}</ref>
+|[[Chinese language|Chinese]]
+|[[Wuxia]]
+|15
+|[[China|Chinese]]
+|-
+|{{sortname|Robert|Ludlum}}
+|110 million<ref>[https://news.bbc.co.uk/2/hi/entertainment/1217668.stm BBC]  on Robert Ludlum: "He has sold more than 110 million books in 40 countries and 32 languages." (March 13, 2001)</ref>
+|290 million<ref>[https://news.bbc.co.uk/2/hi/entertainment/4142130.stm BBC]  on Robert Ludlum: "The author, who died in 2001, has sold more than 290 million books worldwide." (August 11, 2005)</ref>
+|English
+|[[Thriller (genre)|Espionage]], ''[[Jason Bourne (character)|Jason Bourne]]''
+|40
+|American
+|-
+|[[Takehiko Inoue]]
+|283 million
+|283 million
+|Japanese
+|[[Slam Dunk (manga)|Slam Dunk]],
+[[Vagabond (manga)|Vagabond]], [[Real (manga)|Real]]
+|85
+|Japanese
+|-
+|{{sortname|Osamu|Tezuka}}
+|276 million<ref name=":3" />
+|276{{nbsp}}million<ref name=":3">{{cite book |last1=Davis |first1=Northrop |title=Manga and Anime Go to Hollywood |date=2015 |publisher=[[Bloomsbury Publishing USA]] |isbn=9781623560386 |url=https://books.google.com/books?id=yPDHCgAAQBAJ |quote=''Black Jack'' Osamu Tezuka [...] 176{{nbsp}}million [...] ''Astro Boy'' Osamu Tezuka [...] 100{{nbsp}}million |access-date=September 14, 2018 |archive-url=https://web.archive.org/web/20190210092056/https://books.google.com/books?id=yPDHCgAAQBAJ |archive-date=February 10, 2019 |url-status=live }}</ref>
+|Japanese
+|[[Manga]], ''[[Astro Boy]]'', ''[[Black Jack (manga)|Black Jack]]'', ''[[Buddha (manga)|Buddha]]''
+|62
+|Japanese
+|-
+|{{sortname|Frédéric|Dard}}
+|200 million<ref>[https://query.nytimes.com/gst/fullpage.html?res=9400E2DB103EF936A25755C0A9669C8B63 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20080419005842/http://query.nytimes.com/gst/fullpage.html?res=9400E2DB103EF936A25755C0A9669C8B63 |date=April 19, 2008 }} on Frédéric Dard: "Mr. Dard wrote almost 300 books, of which more than 200 million copies have been sold." (June 15, 2000)</ref>
+|270 million<ref>{{cite news |work=[[The Washington Post]] |date=June 9, 2000 |url=http://www.highbeam.com/doc/1P2-518095.html |archive-url=https://web.archive.org/web/20110517111208/http://www.highbeam.com/doc/1P2-518095.html |archive-date=May 17, 2011 |url-status=usurped |title=Writer Frederic Dard Dies; Known for Detective Series |via=[[HighBeam Research]] |url-access=subscription |quote=Mr. Dard worked as a journalist in Lyon from 1942 to 1950 before dedicating himself to novels, theater and film. He used a number of pseudonyms, among them Frederic Charles, Kaput and L'Ange Noir (The Black Angel), and sold more than 270 million books.}}</ref>
+|French
+|Detective, ''San Antonio''
+|300
+|French
+|-
+|{{sortname|Stan and Jan|Berenstain}}
+|200 million<ref>[https://www.nytimes.com/2012/02/28/arts/jan-berenstain-dies-at-88-created-berenstain-bears.html ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20180914204901/https://www.nytimes.com/2012/02/28/arts/jan-berenstain-dies-at-88-created-berenstain-bears.html |date=September 14, 2018 }} on the Berenstains: ""sold more than 200 million copies (...)" (February 27, 2012)</ref>
+|260 million<ref>[https://variety.com/2002/tv/features/kids-fare-ready-for-play-1117864900/ ''Variety'']  on the Berenstains: "The company also is offering a new animated series based on the Berenstain Bears, the hugely popular children's brand that has sold more than 260 million books worldwide." (April 7, 2002)</ref>
+| English
+| ''[[Berenstain Bears]]''
+|300+
+|American
+|-
+|{{sortname|Roald|Dahl}}
+|200 million<ref>[https://www.bbc.co.uk/news/uk-wales-33408745 BBC] {{Webarchive|url=https://web.archive.org/web/20181223030614/https://www.bbc.co.uk/news/uk-wales-33408745 |date=December 23, 2018 }} on Roald Dahl: "With his stories available in 59 languages and with more than 200 million book sales worldwide." (July 6, 2015)</ref>
+|250 million<ref>{{cite web | url=https://www.bbc.co.uk/programmes/p04521p2 | title=: As popular - and profitable - as ever | publisher=BBC | date=August 18, 2016 | access-date=August 30, 2016 | archive-url=https://web.archive.org/web/20170214021628/http://www.bbc.co.uk/programmes/p04521p2 | archive-date=February 14, 2017 | url-status=live }}</ref>
+|English
+|Children's literature
+|50
+|British
+|-
+|{{sortname|Zane|Grey}}
+|250 million<ref name=":4" />
+|250 million<ref name=":4">[https://www.tripsavvy.com/arizona-best-selling-author-zane-grey-2683776 ''Trip Savvy''] {{Webarchive|url=https://web.archive.org/web/20191011033509/https://www.tripsavvy.com/arizona-best-selling-author-zane-grey-2683776 |date=October 11, 2019 }} on Zane Grey: ""Zane Grey had 250 million books published," Wolfe said." (November 22, 2005)</ref>
+|English
+|Western
+|
+|American
+|-
+|{{sortname|Irving|Wallace}}
+|250 million<ref name=":5" />
+|250 million<ref name=":5">[http://writersalmanac.publicradio.org/index.php?date=2003/03/19 ''The Writer's Almanac''] {{Webarchive|url=https://web.archive.org/web/20170907075846/http://writersalmanac.publicradio.org/index.php?date=2003%2F03%2F19 |date=September 7, 2017 }} on Irving Wallace: "Although often scorned by critics, his 16 novels and 17 works of nonfiction have sold some 250 million copies worldwide." (March 19, 2003)</ref>
+|English
+|[[Suspense]]
+|
+|American
+|-
+|{{sortname|Masashi|Kishimoto}}
+|250{{nbsp}}million<ref name="manga plus 192">{{Cite web|title=MANGA Plus: Interviewing editors|url=https://mangaplus.shueisha.co.jp/web_pages/192/|url-status=live|archive-url=https://web.archive.org/web/20200212005248/https://mangaplus.shueisha.co.jp/web_pages/192/|archive-date=2020-02-12|access-date=2020-09-06|website=[[MANGA Plus]]|publisher=[[Shueisha]]}}</ref>
+|250{{nbsp}}million<ref name="manga plus 192" />
+|Japanese
+|[[Manga]], ''[[Naruto]]''
+|72
+|Japanese
+|-
+|{{sortname|Gosho|Aoyama}}
+|250{{nbsp}}million<ref name="ann 178559">{{Cite web|title=Detective Conan Manga Has 250 Million Copies in Circulation Worldwide|url=https://www.animenewsnetwork.com/news/2021-10-18/detective-conan-manga-has-250-million-copies-in-circulation-worldwide/.178559|access-date=2021-10-18|website=Anime News Network|language=en|archive-date=October 18, 2021|archive-url=https://web.archive.org/web/20211018081507/https://www.animenewsnetwork.com/news/2021-10-18/detective-conan-manga-has-250-million-copies-in-circulation-worldwide/.178559|url-status=live}}</ref>
+|250{{nbsp}}million<ref name="ann 178559" />
+|Japanese
+|[[Manga]], ''[[Detective Conan]]''
+|107
+|Japanese
+|-
+|{{sortname|J. R. R.|Tolkien}}
+|200 million<ref>[https://www.usatoday.com/tech/gaming/2007-04-23-lotr-gameplay_N.htm ''USA Today''] {{Webarchive|url=https://web.archive.org/web/20110602052950/http://www.usatoday.com/tech/gaming/2007-04-23-lotr-gameplay_N.htm |date=June 2, 2011 }} on J. R. R. Tolkien: "Tolkien's franchise has resulted in more than 200 million books sold globally and $3.5 billion in box office revenue — not to mention tens of millions of DVDs sold." (April 23, 2007)</ref>
+|250 million<ref>{{cite news |title=The rise of Tolkien's fallen Arthur |date=October 7, 2012 |work=[[The Australian]] |url=https://www.theaustralian.com.au/news/world/the-rise-of-jrr-tolkiens-fallen-arthur/news-story/fce6445ec705a8cc47ddfcbd58b34e83 |quote=Tolkien's books (...) have together sold more than 250 million copies worldwide.}}</ref>
+|English
+|''[[The Lord of the Rings]]'', ''[[The Hobbit]]'', classical fantasy
+|36
+|British
+|-
+|{{sortname|John|Grisham}}
+|100 million<ref>[https://www.nytimes.com/2005/01/19/dining/19GRIS.html?position=&pagewanted=all&position= ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20230313103601/https://www.nytimes.com/2005/01/19/dining/the-lawyer-enters-a-plea-of-lucky.html |date=March 13, 2023 }} on John Grisham: "Over the last 15 years, more than 100 million copies of Mr. Grisham's books have been published in hardcover and paperback worldwide." (January 19, 2005)</ref>
+|250 million<ref>[https://news.bbc.co.uk/2/hi/entertainment/6503689.stm BBC]  on John Grisham: "While legal thriller writer Grisham - who has sold more that 250 million books in his 20-year career - picked up a lifetime achievement award, Ian Rankin's The Naming of the Dead won best crime thriller." (March 28, 2007)</ref>
+|English
+|[[Legal thriller]]
+|35
+|American
+|-
+|{{sortname|Karl|May}}
+|100 million<ref>[https://www.wsj.com/articles/SB986335525384760860?mod=googlewsj ''The Wall Street Journal''] {{Webarchive|url=https://web.archive.org/web/20170907081255/https://www.wsj.com/articles/SB986335525384760860?mod=googlewsj |date=September 7, 2017 }} on Karl May: "the best-selling German author of all time, with 100 million books" (January 1, 2004)</ref>
+|200 million<ref>[http://www.dw-world.de/dw/article/0,2144,2765598,00.html Deutsche Welle] {{Webarchive|url=https://web.archive.org/web/20080413063351/http://www.dw-world.de/dw/article/0,2144,2765598,00.html |date=April 13, 2008 }} on Karl May: "With sales of over 200 million books, Karl May remains a household name in today's Germany." (April 4, 2001)</ref>
+|[[German language|German]]
+|Western, adventure
+|80
+|[[Germany|German]]
+|-
+|{{sortname|Mickey|Spillane}}
+|100 million<ref>[https://www.cbc.ca/news/entertainment/mickey-spillane-author-of-popular-detective-stories-dies-1.611081 CBC] obituary of Mickey Spillane: "He sold more than 100 million books, and Hammer inspired several TV series and movies." (July 18, 2006)</ref>
+|200 million<ref>[https://www.washingtonpost.com/ac2/wp-dyn?pagename=article&contentId=A43815-2001Aug21&notFound=true ''The Washington Post''] {{Webarchive|url=https://web.archive.org/web/20050719233013/http://www.washingtonpost.com/ac2/wp-dyn?pagename=article |date=July 19, 2005 }} on Mickey Spillane: "According to today's industry estimates, his 26 books have sold more than 200 million copies." (August 22, 2001)</ref>
+|English
+|Detective, ''[[Mike Hammer (character)|Mike Hammer]]''
+|
+|American
+|-
+|{{sortname|C. S.|Lewis}}
+|100 million<ref>[https://www.bbc.co.uk/northernireland/learning/getwritingni/wh_lewis.shtml BBC]  on C. S. Lewis: "favorite Northern Irish author has sold over 100 million books and inspired the Harry Potter and the Lord of the Rings novels." (February 8, 2008)</ref>
+|200 million<ref>{{cite news |title=on C. S. Lewis |work=[[The Daily Herald]] |date=October 20, 2001 |url=https://www.highbeam.com/doc/1G1-79384514.html?jse=0 |archive-url=https://web.archive.org/web/20110809091603/http://www.highbeam.com/doc/1G1-79384514.html?jse=0 |archive-date=August 9, 2011 |via=HighBeam Research |url-access=subscription |url-status=usurped |location=Arlington Heights, IL |quote=C.S. Lewis may not be on the best-seller list, but it is estimated that his 38 books have sold more than 200 million copies worldwide and remain in print 38 years after his death.}}</ref>
+|English
+|''[[The Chronicles of Narnia]]'', fantasy, popular theology
+|38
+|British
+|-
+|{{sortname|Kyotaro|Nishimura}}
+|
+|200 million<ref>[http://www.famitsu.com/game/news/2007/05/11/103,1178894420,71541,0,0.html Famitsu.com] {{Webarchive|url=https://web.archive.org/web/20080413001203/http://www.famitsu.com/game/news/2007/05/11/103,1178894420,71541,0,0.html |date=April 13, 2008 }} (Japanese language, May 11, 2007)</ref>
+|Japanese
+|Mystery
+|400+
+|Japanese
+|-
+|{{sortname|Mitsuru|Adachi}}
+|
+|200 million<ref name="mantan_rumiko">[https://mantan-web.jp/article/20170314dog00m200047000c.html 高橋留美子：コミックスが累計2億部突破　あだち充に続く大記録] {{Webarchive|url=https://web.archive.org/web/20180210181623/https://mantan-web.jp/article/20170314dog00m200047000c.html |date=February 10, 2018 }}, Mantan Web, March 14, 2017. (Japanese language)</ref>
+|Japanese
+|[[Manga]], ''[[Touch (manga)|Touch]]'', ''[[H2 (manga)|H2]]'', ''[[Slow Step]]'', ''[[Miyuki (manga)|Miyuki]]'', ''[[Cross Game]]''
+|
+|Japanese
+|-
+|{{sortname|Rumiko|Takahashi}}
+|
+|200 million<ref name="mantan_rumiko" />
+|Japanese
+|[[Manga]], ''[[Urusei Yatsura]]'', ''[[Ranma ½]]'', ''[[Inuyasha]]'', ''[[Maison Ikkoku]]''
+|
+|Japanese
+|-
+|{{sortname|Dan|Brown}}
+|200 million
+|200 million<ref>^ https://www.independent.co.uk/arts-entertainment/books/news/dan-browns-inferno-publishers-poised-for-biggestsales-since-harry-potter-as-da-vinci-code-authors-latest-robert-langdon-story-hits-shelves-8614082.html {{Webarchive|url=https://web.archive.org/web/20150509001900/http://www.independent.co.uk/arts-entertainment/books/news/dan-browns-inferno-publishers-poised-for-biggestsales-since-harry-potter-as-da-vinci-code-authors-latest-robert-langdon-story-hits-shelves-8614082.html |date=May 9, 2015 }}</ref>
+|English
+|[[Thriller (genre)|Thriller]], ''[[Robert Langdon]]''
+|7<ref>{{Cite web|url=http://danbrown.com/|title=The Official Website of Dan Brown|website=danbrown.com|language=en-US|access-date=January 7, 2018|archive-url=https://web.archive.org/web/20180123160047/http://danbrown.com/|archive-date=January 23, 2018|url-status=live}}</ref>
+|American
+|-
+|{{sortname|Alistair|MacLean}}
+|150 million<ref>[https://books.google.com/books?id=rQINrHtwNU0C&dq=150-million-copies+-mao&pg=PA431 Dominic Head in ''The Cambridge Guide to Literature in English''] {{Webarchive|url=https://web.archive.org/web/20161224203746/https://books.google.com/books?id=rQINrHtwNU0C&pg=PA431&dq=150-million-copies+-mao&lr=&ei=PpDzR6j2HYXEyQTdvYHrBw&sig=vnOck9YaZZAgMJT4DNnlKuCsu0g |date=December 24, 2016 }} page 431 on Alistair MacLean: "Alistair MacLean's works have sold more than 150 million copies worldwide." (2006)</ref>
+|200 million<ref>{{Cite news|url=http://nla.gov.au/nla.news-article51777883|title=THE MAN WITH THE GOLDEN TYPEWRITER says author Alistair MacLean|date=May 10, 1978|work=Australian Women's Weekly (1933 - 1982)|access-date=August 22, 2018|pages=63|archive-date=March 13, 2023|archive-url=https://web.archive.org/web/20230313103606/https://trove.nla.gov.au/newspaper/article/51777883|url-status=live}}</ref>
+|English
+|Adventure, thriller, [[War novel|war stories]]
+|32
+|British
+|-
+|{{sortname|Ann M.|Martin}}
+|172 million<ref>[https://books.google.com/books?id=edrVnwGPUfEC&dq=million-books&pg=PA115 Benjamin M. Compaine and Douglas Gomery] {{Webarchive|url=https://web.archive.org/web/20140426212320/http://books.google.com/books?id=edrVnwGPUfEC&pg=PA115&dq=million-books&lr=&ei=WYriR76UD4HwjAGVp9nWBA&sig=K1mXEngkQ06dgnel3UPb16Eb-fs |date=April 26, 2014 }}, 'Who Owns the Media?: Competition and Concentration in the Mass Media Industry' page 115"</ref>
+|180 million<ref>[https://www.wsj.com/articles/SB109719057015939869?mod=googlewsj ''The Wall Street Journal''] {{Webarchive|url=https://web.archive.org/web/20170907081134/https://www.wsj.com/articles/SB109719057015939869?mod=googlewsj |date=September 7, 2017 }} on Ann M. Martin: "A year earlier, however, the movie version of "The Baby-Sitters Club" -- based on a series of young-adult books that have sold more than 180 million copies -- sold only $10 million in tickets, barely exceeding its $6.5 million budget." (October 8, 2004)</ref>
+|English
+|''[[The Baby-sitters Club]]''
+|335
+|American
+|-
+|{{sortname|Ryōtarō|Shiba}}
+|
+|180 million<ref>[http://www.accessmylibrary.com/coms2/summary_0286-16256264_ITM Japan Inc.] {{Webarchive|url=https://web.archive.org/web/20080413161310/http://www.accessmylibrary.com/coms2/summary_0286-16256264_ITM |date=April 13, 2008 }} on Ryōtarō Shiba: "Altogether, including such genres as dialogues with other authors, more than 180 million copies of his books have been printed" (June 22, 2006)</ref>
+|Japanese
+|[[Historical fiction|Historical]]
+|350
+|Japanese
+|-
+|{{sortname|Arthur|Hailey}}
+|150 million<ref>[http://www.theage.com.au/news/People/Hailed-by-readers-failed-by-critics/2004/11/27/1101495458369.html ''The Age''] {{Webarchive|url=https://web.archive.org/web/20080413144352/http://www.theage.com.au/news/People/Hailed-by-readers-failed-by-critics/2004/11/27/1101495458369.html |date=April 13, 2008 }} on Arthur Hailey: "Arthur Hailey, who has died at his home in the Bahamas aged 84, was one of the most commercially successful authors of all time, producing 11 books which sold more than 150 million copies, were translated into about 40 languages, and brought him tens of millions of dollars" (November 28, 2004)</ref>
+|170 million<ref>{{Deprecated archive|url=https://archive.today/20120919170453/http://www.washingtonpost.com/ac2/wp-dyn/A15704-2004Nov26?language=printer|title=''The Washington Post''}} on Arthur Hailey: "He wrote 11 books, which were published in 40 countries and 38 languages, with about 170 million copies in print." (November 27, 2004)</ref>
+|English
+|[[Thriller fiction|Thriller]]
+|11
+|British/[[Canadians|Canadian]]
+|-
+|{{sortname|Keigo|Higashino}}
+|168 million<ref>[https://toyokeizai.net/articles/-/952997?display=b 【追悼】人間･東野圭吾が吐露した胸の内｢大学で電気工学を学ばず､デンソーでエンジニアをやっていなかったら……｣] Toyo Keizai (July 29, 2026)</ref>
+|168 million<ref>[https://www.bunkanews.jp/article/323542/ 東野圭吾氏の著作　100冊で国内累計発行部数1億部突破] 
+The Bunka News (April 4, 2023)</ref>
+|Japanese
+|Mystery
+|106
+|Japanese
+|-
+|{{sortname|Astrid|Lindgren}}
+|100 million<ref>[https://news.bbc.co.uk/2/hi/entertainment/1786741.stm BBC]  on Astrid Lindgren: "Lindgren's books have sold over 100 million copies in some 80 languages." (January 28, 2002</ref>
+|165 million<ref>[http://www.astridlindgren.se/faq#faq-522 FAQ at Astrid Lindgren official site] {{Webarchive|url=https://web.archive.org/web/20100811001155/http://www.astridlindgren.se/faq#faq-522 |date=August 11, 2010 }} {{in lang|sv}}.</ref>
+|[[Swedish language|Swedish]]
+|Children's literature
+|100
+|[[Sweden|Swedish]]
+|-
+|{{sortname|Koyoharu|Gotouge}}
+|150 million<ref name="nm 416305">{{Cite web |last= |first= |title=「鬼滅の刃」累計1億5000万部を突破！3月には塗絵帳が2冊同時発売 |url=https://natalie.mu/comic/news/416305 |url-status=live |archive-url=https://web.archive.org/web/20210214150050/https://natalie.mu/comic/news/416305 |archive-date=February 14, 2021 |access-date=2021-02-14 |website=コミックナタリー |language=ja}}</ref>
+|150 million<ref name="nm 416305" />
+|[[Japanese language|Japanese]]
+|[[Manga]], ''[[Demon Slayer: Kimetsu no Yaiba]]''
+|23
+||Japanese
+|-
+|{{sortname|Anne|Rice}}
+|150 million
+|150 million+<ref>[https://www.hollywoodreporter.com/live-feed/anne-rices-vampire-chronicles-lands-at-hulu-1127585 ''Hollywood Reporter''] {{Webarchive|url=https://web.archive.org/web/20180917143311/https://www.hollywoodreporter.com/live-feed/anne-rices-vampire-chronicles-lands-at-hulu-1127585 |date=September 17, 2018 }}  on Anne Rice: "More than 100 million copies have been sold worldwide." (July 17, 2018)</ref>
+|English
+|[[Gothic fiction]], [[Vampire literature|vampires]], ''[[Interview with the Vampire]]'' (''[[The Vampire Chronicles]]'') ''[[The Witching Hour (novel)|The Witching Hour]]'' (''[[Lives of the Mayfair Witches]]'')
+|40
+|American
+|-
+|{{sortname|Gérard de|Villiers}}
+|
+|150 million<ref>[http://www.sundayherald.com/international/shinternational/display.var.1724219.0.world_politics_stranger_than_fiction_for_thriller_writer.php ''Sunday Herald''] {{webarchive|url=https://web.archive.org/web/20080413071945/http://www.sundayherald.com/international/shinternational/display.var.1724219.0.world_politics_stranger_than_fiction_for_thriller_writer.php |date=April 13, 2008 }} on Gerard De Villiers: "De Villiers, now 78, claims to have sold an extraordinary 150 million books over his career - with every year a million more added to the total in France alone." (November 19, 2007)</ref>
+|French
+|Detectives, ''SAS''
+|170
+|French
+|-
+|{{sortname|Beatrix|Potter}}
+|100 million<ref>[https://books.google.com/books?id=_5ERya-gJPkC&dq=100-million-copies&pg=PA2 Lucia Marginean in ''Collecting Beatrix Potter Figurines''] page 2, on Beatrix Potter: "Beatrix Potter's books have been translated into more than 35 languages and sold over 100 million copies. " (2008)</ref>
+|250 million<ref>Anna Russell, "[https://www.newyorker.com/news/letter-from-the-uk/the-secret-life-of-beatrix-potter The Secret Life of Bedatrix Potter]", ''The New Yorker'', March 12, 2022 ("Potter, the author of 'The Tale of Peter Rabbit' and 'The Tale of Benjamin Bunny,' whose books have now sold more than two hundred and fifty million copies . . .").</ref>
+|English
+| ''[[Peter Rabbit]]''
+|23
+|British
+|-
+|{{sortname|Michael|Crichton}}
+|150 million<ref>[https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2007/01/07/bocri224.xml ''The Telegraph''] {{Webarchive|url=https://web.archive.org/web/20080616171012/http://www.telegraph.co.uk/arts/main.jhtml?xml=%2Farts%2F2007%2F01%2F07%2Fbocri224.xml |date=June 16, 2008 }} on Michael Crichton: "His books have sold more than 150 million copies." (July 1, 2007)</ref>
+|150 million<ref>[https://www.wsj.com/articles/SB116364860104924771?mod=googlenews_wsj ''The Wall Street Journal''] {{Webarchive|url=https://web.archive.org/web/20170907081041/https://www.wsj.com/articles/SB116364860104924771?mod=googlenews_wsj |date=September 7, 2017 }} on Michael Crichton: "Although it is always difficult to gauge the total sales of any author, Mr. Crichton's Web site states that he has sold more than 150 million books, and that 13 of them have been adapted into movies." (November 16, 2006)</ref>
+|English
+|[[Thriller fiction|Techno thriller]]
+|25
+|American
+|-
+|{{sortname|Richard|Scarry}}
+|100 million<ref>[http://www.britannica.com/EBchecked/topic/526786/Richard-McClure-Scarry ''Encyclopædia Britannica''] {{Webarchive|url=https://web.archive.org/web/20100805031014/http://www.britannica.com/EBchecked/topic/526786/Richard-McClure-Scarry |date=August 5, 2010 }} on Richard Scarry: "His "busy" books and dictionaries sold more than 100 million copies worldwide, and in 1989 eight of his books made the list of the top 50 best-selling children's books of all time" (2008)</ref>
+|150 million<ref>[https://www.famousauthors.org/richard-scarry ''Famous Authors''] {{Webarchive|url=https://web.archive.org/web/20180915001748/https://www.famousauthors.org/richard-scarry |date=September 15, 2018 }} on Richard Scarry: "He has written more than 300 books which have gone on to sell more than 150 million copies globally" (2012)</ref>
+|English
+|Illustrated children's books
+|300+
+|American
+|-
+|{{sortname|Clive|Cussler}}
+|40 million<ref>[http://media.www.collegian.com/media/storage/paper864/news/2007/05/03/News/Dispute.Over.Hollywood.Script.sahara.Sent.To.The.Jury-2893268.shtml ''The Rocky Mountain Collegian''] {{webarchive|url=https://web.archive.org/web/20080415033919/http://media.www.collegian.com/media/storage/paper864/news/2007/05/03/News/Dispute.Over.Hollywood.Script.sahara.Sent.To.The.Jury-2893268.shtml |date=April 15, 2008 }} on Clive Cussler: "An audit later revealed the number of Cussler books sold was around 40 million at the time the contract was negotiated in 2000." (March 5, 2007)</ref>
+|150 million<ref>[https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2004/02/23/ft23.xml&sSheet=/arts/2004/02/23/ixtop.html ''The Telegraph''] {{Webarchive|url=https://web.archive.org/web/20080616171007/http://www.telegraph.co.uk/arts/main.jhtml?xml=%2Farts%2F2004%2F02%2F23%2Fft23.xml&sSheet=%2Farts%2F2004%2F02%2F23%2Fixtop.html |date=June 16, 2008 }} on Clive Cussler: "His widely popular novels - his new one, Golden Buddha, the first in an adventure series called The Oregon Files, is published next month - have sold 150 million copies in 40 languages and have made the author a very wealthy man." (February 23, 2004)</ref>
+|English
+|Adventure, ''[[Dirk Pitt]]''
+|37
+|American
+|-
+|{{sortname|Ken|Follett}}
+|90 million<ref>[https://www.cbsnews.com/stories/2007/10/07/sunday/main3339866.shtml?source=search_story CBS] {{Webarchive|url=https://web.archive.org/web/20080413092027/http://www.cbsnews.com/stories/2007/10/07/sunday/main3339866.shtml?source=search_story |date=April 13, 2008 }} on Ken Follett: "In all, he's sold 90 million books." (October 7, 2007)</ref>
+|150 million<ref>[http://www.bbc.com/culture/story/20151016-the-secret-of-ken-folletts-success ''BBC Culture''] {{Webarchive|url=https://web.archive.org/web/20180918073212/http://www.bbc.com/culture/story/20151016-the-secret-of-ken-folletts-success |date=September 18, 2018 }} on Ken Follett: "Ken Follett explains how he arrived at the winning formula that has brought him more than 150 million sales worldwide" (October 16, 2016)</ref>
+|English
+|[[Thriller fiction|Spy thriller]], [[Historical fiction|historical thriller]]
+|30
+|British
+|-
+|{{sortname|Debbie|Macomber}}
+|60 million<ref>[http://www.publishersweekly.com/article/CA6344654.html ''Publishers Weekly''] {{Webarchive|url=https://web.archive.org/web/20080511181837/http://www.publishersweekly.com/article/CA6344654.html |date=May 11, 2008 }} on Debbie Macomber: "Last year her new books sold 2.8 million copies, bringing her total in print to more than 60 million." (June 19, 2006)</ref>
+|140 million<ref>[https://www.newreleasetoday.com/authordetail.php?aut_id=903 ''New Release Today''] {{Webarchive|url=https://web.archive.org/web/20180914203423/https://www.newreleasetoday.com/authordetail.php?aut_id=903 |date=September 14, 2018 }} on Debbie Macomber: "With more than 140 million copies of her books in print, Debbie Macomber is one of today's most popular authors." (May 31, 2011)</ref>
+|English
+|Romance
+|
+|American
+|-
+|{{sortname|Naoki|Urasawa}}
+|
+|140 million<ref>{{cite web |url=https://natalie.mu/comic/news/459724 |title=浦沢直樹、電子版解禁！「YAWARA!」「20世紀少年」配信、「あさドラ！」新刊も |publisher=[[Natalie (website)|Natalie]] |language=ja |date=2021-12-28 |access-date=2022-01-28 |archive-date=December 28, 2021 |archive-url=https://web.archive.org/web/20211228090901/https://natalie.mu/comic/news/459724 |url-status=live }}</ref>
+|Japanese
+|[[Manga]]
+|
+|Japanese
+|-
+|{{sortname|E.L.|James}}
+|100 million
+|125 million
+|English
+|''[[Fifty Shades of Grey]]''
+|7
+|British
+|-
+|{{sortname|Carter|Brown}}
+|100 million<ref>{{Cite web |url=https://www.booksandpublishing.com.au/articles/2018/05/03/106988/brio-announces-new-unpublished-manuscript-prize-for-mystery-writing/ |title=Brio announces new unpublished manuscript prize for mystery writing  |access-date=September 27, 2019 |archive-url=https://web.archive.org/web/20190927100056/https://www.booksandpublishing.com.au/articles/2018/05/03/106988/brio-announces-new-unpublished-manuscript-prize-for-mystery-writing/ |archive-date=September 27, 2019 |url-status=live }}</ref>
+|120 million<ref>{{Cite web |url=https://www.bookseriesinorder.com/carter-brown/ |title=Reaching a high level of success internationally too, the Carter Brown name would see over 120 million books in print during its time. |date=October 3, 2018 |access-date=September 27, 2019 |archive-url=https://web.archive.org/web/20190927094552/https://www.bookseriesinorder.com/carter-brown/ |archive-date=September 27, 2019 |url-status=live }}</ref>
+|English
+|Detective
+|
+|Australian
+|-
+|{{sortname|Tite|Kubo}}
+|120 million<ref>[https://www.animenewsnetwork.com/daily-briefs/2018-02-05/bleach-manga-has-120-million-copies-in-print-worldwide/.127393 Anime News Network] {{Webarchive|url=https://web.archive.org/web/20180205224244/https://www.animenewsnetwork.com/daily-briefs/2018-02-05/bleach-manga-has-120-million-copies-in-print-worldwide/.127393 |date=February 5, 2018 }} "The official Twitter for the live-action film of Tite Kubo's Bleach manga revealed on Monday that the original Bleach manga has 120 million copies in print worldwide." (February 5, 2018)</ref>
+|
+|Japanese
+|[[Manga]], ''[[Bleach (manga)|Bleach]]''
+|74
+|Japanese
+|-
+|{{sortname|Eiji|Yoshikawa}}
+|
+|120 million<ref>[https://query.nytimes.com/gst/fullpage.html?res=9C04E0D61639F930A2575AC0A967948260 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20080418221615/http://query.nytimes.com/gst/fullpage.html?res=9C04E0D61639F930A2575AC0A967948260 |date=April 18, 2008 }} on Eiji Yoshikawa: "It has remained on the Japanese best-seller list ever since its initial publication as a novel in 1971, and has sold an estimated 120 million copies." (September 13, 1981)</ref>
+|Japanese
+|''[[Musashi (novel)|Musashi]]''
+|7
+|Japanese
+|-
+|{{sortname|Hajime|Isayama}}
+|120 million 
+|120 million<ref>{{Cite web |date=2023-09-12 |title=TVアニメ『進撃の巨人』放送10周年と完結を記念してアニメ史上初！ファン参加型の世界合同打ち上げが開催決定！ |url=https://prtimes.jp/main/html/rd/p/000005446.000001719.html |access-date=2023-10-03 |website=プレスリリース・ニュースリリース配信シェアNo.1｜PR TIMES}}</ref>
+|[[Japanese language|Japanese]]
+|[[Manga]], ''[[Attack on Titan]]''
+|34
+|Japanese
+|-
+|{{sortname|Catherine|Cookson}}
+|100 million<ref>{{cite web|url=http://www.theage.com.au/travel/too-many-cooksons-20081113-64by.html|url-status=dead|archive-url=https://web.archive.org/web/20090207222253/http://www.theage.com.au/travel/too-many-cooksons-20081113-64by.html|archive-date=7 February 2009|work=[[The Age]]|title=Too many Cooksons|first=Kevin|last=Pilley|date=6 October 2008}}</ref>
+|120 million<ref>[https://www.telegraph.co.uk/culture/hay-festival/11637345/Catherine-Cookson-the-missing-link-between-Charles-Dickens-and-Irvine-Welsh.html ''The Telegraph''] {{Webarchive|url=https://web.archive.org/web/20180914203501/https://www.telegraph.co.uk/culture/hay-festival/11637345/Catherine-Cookson-the-missing-link-between-Charles-Dickens-and-Irvine-Welsh.html |date=September 14, 2018 }}  on Catherine Cookson: "Cookson sold 120 million books and for a lengthy period of the 20th century was Britain's most borrowed author." (May 29, 2015)</ref>
+|English
+|Romance
+|103
+|British
+|-
+|{{sortname|Stephenie|Meyer}}
+|100 million<ref>[https://www.hollywoodreporter.com/heat-vision/stephenie-meyer-talks-twilights-10th-833037 ''The Hollywood Reporter''] {{Webarchive|url=https://web.archive.org/web/20180914203314/https://www.hollywoodreporter.com/heat-vision/stephenie-meyer-talks-twilights-10th-833037 |date=September 14, 2018 }} on Stephenie Meyer: "the books have sold more than 100 million copies" (October 19, 2015)</ref>
+|116 million<ref>[http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/44733-little-brown-to-publish-official-twilight-guide.html ''Publishers Weekly''] {{Webarchive|url=https://web.archive.org/web/20120114173800/http://www.publishersweekly.com/pw/by-topic/childrens/childrens-book-news/article/44733-little-brown-to-publish-official-twilight-guide.html |date=January 14, 2012 }} on Stephenie Meyer: "Little, Brown to Publish Official 'Twilight' Guide." (October 6, 2011)</ref>
+|English
+|''[[Twilight (novel series)|The Twilight Saga]]'', ''[[The Host (novel)|The Host]]'', romance
+|6
+|American
+|-
+|{{sortname|Norman|Bridwell}}
+|100 million<ref>[https://www.loc.gov/bookfest/author/norman_bridwell The Library of Congress] {{Webarchive|url=https://web.archive.org/web/20170202061208/http://www.loc.gov/bookfest/author/norman_bridwell |date=February 2, 2017 }} on Norman Bridwell: "Now more than 80 Clifford books have been published, close to 100 million books are in print, and Clifford's adventures are published in several languages worldwide." (2002)</ref>
+|110 million<ref>[http://www.krcb.org/television/pbs_kids.htm KRCB television] {{webarchive|url=https://web.archive.org/web/20080404032232/http://www.krcb.org/television/pbs_kids.htm |date=April 4, 2008 }} on Norman Bridwell: "Scholastic's beloved, best-selling children's books by Norman Bridwell, with more than 160 titles and 110 million books in print." (2008)</ref>
+|English
+|''[[Clifford the Big Red Dog]]''
+|80
+|American
+|-
+|{{sortname|David|Baldacci}}
+|
+|110 million<ref>[https://www.thenationalnews.com/arts-culture/books/the-author-david-baldacci-and-the-formula-of-no-formula-1.428144/ ''The National'']  on David Baldacci: "At last count, David Baldacci had sold 110 million copies of his incredibly popular thrillers." (August 9, 2011)</ref>
+|English
+|Thriller
+|25
+|American
+|-
+|{{sortname|Nicholas|Sparks}}
+|90 million<ref>{{Cite magazine|url=https://www.vanityfair.com/culture/2015/04/nicholas-sparks-moma-longest-ride|title=Touring MoMA with The Longest Road Author Nicholas Sparks|last=Bachko|first=Katia|magazine=Vanity Fair|date=April 9, 2015 |access-date=September 14, 2017|archive-url=https://web.archive.org/web/20170109135119/http://www.vanityfair.com/culture/2015/04/nicholas-sparks-moma-longest-ride|archive-date=January 9, 2017|url-status=live}}</ref>
+|105 million<ref>{{Cite news|url=http://www.kansas.com/entertainment/books/article102948717.html|title='The Notebook' author Nicholas Sparks coming to Wichita|work=kansas|access-date=September 14, 2017|language=en|archive-url=https://web.archive.org/web/20170915023509/http://www.kansas.com/entertainment/books/article102948717.html|archive-date=September 15, 2017|url-status=live}}</ref>
+|English
+|Romance
+|22
+|American 
+|-
+|{{sortname|Hirohiko|Araki}}
+|120 million
+|120 million<ref>[http://www.crunchyroll.com/anime-news/2016/12/15/jojos-bizarre-adventure-manga-has-printed-100-million-copies ''Crunchyroll''] {{Webarchive|url=https://web.archive.org/web/20161218064833/http://www.crunchyroll.com/anime-news/2016/12/15/jojos-bizarre-adventure-manga-has-printed-100-million-copies |date=December 18, 2016 }} reporting on Araki's announcement: "The official website for 56-year-old Japanese manga artist Hirohiko Araki today announced that, as of the release of the 14th volume of the current 8th arc JoJolion next Monday, his long-running Jojo's Bizarre Adventure manga series has printed 100 million copies in Japan." (December 15, 2016)</ref>
+|Japanese
+|[[Manga]], ''[[JoJo's Bizarre Adventure]]''
+|131
+|Japanese
+|-
+|{{sortname|Tom|Clancy}}
+|100 million<ref name=":0">{{Cite news |last=Bosman |first=Julie |date=2013-10-02 |title=Tom Clancy, Best-Selling Master of Military Thrillers, Dies at 66 |language=en-US |work=The New York Times |url=https://www.nytimes.com/2013/10/03/books/tom-clancy-best-selling-novelist-of-military-thrillers-dies-at-66.html |access-date=2023-07-12 |issn=0362-4331}}</ref>
+|100 million<ref name=":0" />
+|English
+|Espionage, Thriller, [[Jack Ryan (character)|Jack Ryan]]
+|19
+|American
+|-
+|{{sortname|Andrew|Neiderman}}
+|100 million<ref>{{usurped|1=[https://web.archive.org/web/20080405030712/http://www.thesunrunner.com/Interviews/V_C_Andrews/v_c_andrews.html ''The Sun Runner'']}} on Andrew Neiderman: "Aside from the fact that "The Devil's Advocate" is a film classic featuring Al Pacino, Keanu Reeves and Charlize Theron, Neiderman has over 100 million books in print and has been published in 95 countries. " (2005)</ref>
+|100 million<ref>[http://www.authorsden.com/visit/viewarticle.asp?AuthorID=21877&id=23547 ''Authors' Den''] {{Webarchive|url=https://archive.today/20120722035954/http://www.authorsden.com/visit/viewarticle.asp?AuthorID=21877&id=23547 |date=July 22, 2012 }} on Andrew Neiderman: "Neiderman has over 100 million books in print and has been published in 95 countries." (August 3, 2006)</ref>
+|English
+|[[V. C. Andrews]], ''The Devil's Advocate''
+|60
+|American
+|-
+|{{sortname|Evan|Hunter}}
+|100 million<ref>[https://www.nytimes.com/2005/07/07/books/07hunter.html?pagewanted=2 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20081211194432/http://www.nytimes.com/2005/07/07/books/07hunter.html?pagewanted=2 |date=December 11, 2008 }} on Ed McBain: "Ms. Gelfman, his agent, estimated that in 50 years of writing, he had sold more than 100 million copies of his work." (July 7, 2005)</ref>
+|100 million<ref>[https://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1001772286 ''The Hollywood Reporter''] {{Webarchive|url=https://web.archive.org/web/20061206092153/http://www.hollywoodreporter.com/hr/search/article_display.jsp?vnu_content_id=1001772286 |date=December 6, 2006 }} on Ed McBain: "Evan Hunter, 78, a best-selling cop novel author who sold more than 100 million books under his own name and the pseudonym Ed McBain." (December 30, 2005)</ref>
+|English
+|Detective (Ed McBain)
+|94
+|American
+|-
+|{{sortname|Roger|Hargreaves}}
+|100 million<ref>[https://www.independent.co.uk/arts-entertainment/books/news/mr-rude-and-mr-cool-join-mr-men-ensemble-602442.html ''The Independent''] {{Webarchive|url=https://web.archive.org/web/20101028074334/http://www.independent.co.uk/arts-entertainment/books/news/mr-rude-and-mr-cool-join-mr-men-ensemble-602442.html |date=October 28, 2010 }} on Roger Hargreaves: "The popularity of the original characters led to a television series, sold 100 million books and created a business worth £130m" (January 22, 2003)</ref>
+|100 million<ref>{{cite news |title=Farting Frenchman Mr Rude joins British Mr Men remake |date=February 11, 2008 |work=The Courier-Mail |url=http://www.news.com.au/couriermail/story/0,23739,23193363-5013016,00.html |archive-url=https://web.archive.org/web/20080214175102/http://www.news.com.au/couriermail/story/0,23739,23193363-5013016,00.html |archive-date=February 14, 2008 |url-status=dead |quote=The popular series featured characters like Mr Strong, Mr Tickle and Mr Muddle, and it has been estimated that more than 100 million books from the Mr Men range had been sold worldwide.}}</ref>
+|English
+|Children's literature, ''[[Mr. Men]]''
+|
+|British
+|-
+|{{sortname|Robin|Cook|Robin Cook (novelist)}}
+|100 million<ref>[https://www.variety.com/review/VE1117906241.html?categoryid=31&cs=1 ''Variety''] {{Webarchive|url=https://web.archive.org/web/20080413155350/http://www.variety.com/review/VE1117906241.html?categoryid=31&cs=1 |date=April 13, 2008 }} on Robin Cook: "Cook, who with more than 100 million books in print virtually owns the medical-thriller genre, appears to be branching out of his element by adding an extraterrestrial component." (May 2, 1997)</ref>
+|100 million<ref>[http://www.wesleyan.edu/rc/2007/program-friday.html Wesleyan University] {{webarchive|url=https://web.archive.org/web/20101120100150/http://www.wesleyan.edu/rc/2007/program-friday.html |date=November 20, 2010 }} on Robin Cook: "He has sold more than 100 million books worldwide, which have been translated into approximately 40 languages." (2007)</ref>
+|English
+|[[Thriller fiction|Medical thriller]] [[Coma (novel)|''Coma'']]
+|27
+|American
+|-
+|{{sortname|Wilbur|Smith}}
+|80 million<ref>[https://www.telegraph.co.uk/arts/main.jhtml?xml=/arts/2007/04/28/smworld28.xml ''The Telegraph'']{{dead link|date=July 2021|bot=medic}}{{cbignore|bot=medic}} on Wilbur Smith: "Translated into 26 languages, they have sold more than 80 million copies worldwide." (April 28, 2007)</ref>
+|100 million<ref>[http://www.theherald.co.za/herald/2002/05/21/news/n16_21052002.htm ''The Herald''] {{Webarchive|url=https://web.archive.org/web/20080413064645/http://www.theherald.co.za/herald/2002/05/21/news/n16_21052002.htm |date=April 13, 2008 }} on Wilbur Smith: "He is the author of 25 best-sellers and claims in court papers to have sold about 100 million books." (May 21, 2002)</ref>
+|English
+|African adventure
+|32
+|[[South Africa|South African]]/British
+|-
+|{{sortname|Erskine|Caldwell}}
+|80 million<ref>[http://chronicle.augusta.com/stories/021107/met_116151.shtml ''Augusta Chronicle''] {{Webarchive|url=https://web.archive.org/web/20090210094155/http://chronicle.augusta.com/stories/021107/met_116151.shtml |date=February 10, 2009 }} on Erskine Caldwell: "Mr. Caldwell's books have sold 80 million copies and have been published in 43 languages. " (February 11, 2007)</ref>
+|100 million<ref>[https://select.nytimes.com/gst/abstract.html?res=FA0A15F93B5D0C728CDDAB0994DA484D81 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20080418054641/http://select.nytimes.com/gst/abstract.html?res=FA0A15F93B5D0C728CDDAB0994DA484D81 |date=April 18, 2008 }} on Erskine Caldwell: "More than 100 million copies of his books have been printed around the world, and his short stories continue to be included in anthologies" (December 1, 1982)</ref>
+|English
+|Literature
+|25
+|American
+|-
+|{{sortname|Judith|Krantz}}
+|80 million <ref>[https://www.nytimes.com/2019/06/23/obituaries/judith-krantz-dead.html ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20190919222512/https://www.nytimes.com/2019/06/23/obituaries/judith-krantz-dead.html |date=September 19, 2019 }} on Judith Krantz: "Judith Krantz, Whose Tales of Sex and Shopping Sold Millions, Dies at 91." (June 23, 2019)</ref>
+|100 million <ref>[https://deadline.com/2019/06/judith-krantz-dies-best-selling-author-91-obituary-1202636830/ ''Deadline''] {{Webarchive|url=https://web.archive.org/web/20190914175848/https://deadline.com/2019/06/judith-krantz-dies-best-selling-author-91-obituary-1202636830/ |date=September 14, 2019 }} on Judith Krantz: "Judith Krantz Dies: Best-Selling Author And Journalist Was 91 Years Old" (June 23, 2019)</ref>
+|English
+|Romance
+|12
+|American
+|-
+|{{sortname|Eleanor|Hibbert}}
+|100 million<ref>[https://www.independent.co.uk/arts-entertainment/books/features/forgotten-authors-no-7-victoria-holt-942323.html ''The Independent''] {{Webarchive|url=https://web.archive.org/web/20170907123401/https://www.independent.co.uk/arts-entertainment/books/features/forgotten-authors-no-7-victoria-holt-942323.html |date=September 7, 2017 }} on Eleanor Hibbert: "She sold staggering amounts, in the region of 100 million copies." (September 28, 2008)</ref>
+|100 million<ref>[https://query.nytimes.com/gst/fullpage.html?res=9F0CE0DA1F39F932A15752C0A965958260 ''The New York Times''] on Eleanor Hibbert: "Eleanor Hibbert, a prolific and popular novelist whose books, written under the pen names Jean Plaidy, Victoria Holt and Philippa Carr, sold more than 100 million copies, died on Monday aboard a Mediterranean cruise ship." (January 21, 1993)</ref>
+|English
+|Romance, historical, suspense
+|200
+|British
+|-
+|{{sortname|Lewis|Carroll}}
+|
+|100 million<ref>[https://select.nytimes.com/gst/abstract.html?res=F50A14FA3A5C0C7B8DDDAD0894DD484D81 ''The New York Times''] {{Webarchive|url=https://web.archive.org/web/20080418040805/http://select.nytimes.com/gst/abstract.html?res=F50A14FA3A5C0C7B8DDDAD0894DD484D81 |date=April 18, 2008 }} on Lewis Carroll: "''Over 100 million copies of Carroll's book have been sold,'' Mr. Allen said." (April 18, 1985)</ref>
+|English
+|''[[Alice's Adventures in Wonderland]]'', [[Literary nonsense|nonsense literature]]
+|5
+|British
+|-
+|{{sortname|Hiroshi|Motomiya}}
+|
+|100 million<ref>{{cite web|url=https://www.oricon.co.jp/news/2449294/full/|script-title=ja:本宮ひろ志の集英社作品、累計1億部突破 『男一匹ガキ大将』『サラリーマン金太郎』など名作執筆 |language=ja|publisher=[[Oricon]]|date=2026-04-17|access-date=2026-04-16}}</ref>
+|Japanese
+|[[Manga]], including ''[[Tenchi wo Kurau]]'' and ''[[Salary Man Kintaro]]''
+|
+|Japanese
+|-
+|{{sortname|Denise|Robins}}
+|
+|100 million<ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=MH&s_site=miami&p_multi=MH&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB3627965F9BBB0&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM ''Miami Herald''] {{Webarchive|url=https://web.archive.org/web/20121008120616/http://nl.newsbank.com/nl-search/we/Archives?p_product=MH&s_site=miami&p_multi=MH&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB3627965F9BBB0&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |date=October 8, 2012 }} on Denise Robins: "Miss Robins' novels, translated into 15 languages, sold more than 100 million copies. " (May 3, 1985)</ref>
+|English
+|Romance
+|200
+|British
+|-
+|{{sortname|Cao|Xueqin}}
+|
+|100 million<ref>[http://www.china.org.cn/english/culture/151884.htm China.org] {{Webarchive|url=https://web.archive.org/web/20080412091145/http://www.china.org.cn/english/culture/151884.htm |date=April 12, 2008 }} on Cao Xueqin: "Sun said that the book has sold over 100 million copies worldwide so far. " (December 14, 2005)</ref>
+|Chinese
+|''[[Dream of the Red Chamber]]''
+|
+|Chinese
+|-
+|{{sortname|Ian|Fleming}}
+|100 million<ref>[http://timesofindia.indiatimes.com/Cities/City_Supplements/Pune_Times/Bond_with_novelty/articleshow/2198813.cms ''The Times of India''] {{Webarchive|url=https://web.archive.org/web/20121020030749/http://timesofindia.indiatimes.com/Cities/City_Supplements/Pune_Times/Bond_with_novelty/articleshow/2198813.cms |date=October 20, 2012 }} on Ian Fleming: "Faulks took up where Fleming left off in 1966 with Octopussy and the Living Daylights, the last of 14 Bond books which have sold 100 million copies since." (July 13, 2007)</ref>
+|100 million<ref>[http://www.nzherald.co.nz/section/6/story.cfm?c_id=6&objectid=10450944 ''The New Zealand Herald''] on Ian Fleming: "Faulks took up where Fleming left off in 1966 with Octopussy and the Living Daylights, the last of 14 Bond books which have sold 100 million copies since." (July 11, 2007-</ref>
+|English
+|''[[James Bond]]''
+|14
+|British
+|-
+|{{sortname|Hermann|Hesse}}
+|100 million<ref>[https://books.google.com/books?id=R4RM-WIC6rEC&dq=100-million-copies&pg=PA101 Eckhard Bernstein in ''Culture and Customs of Germany''] page 101 on Hermann Hesse: "Over 100 million copies of his works have been sold worldwide" (2004)</ref>
+|100 million<ref>[http://www.iht.com/articles/1999/10/28/gbooks.2.t.php ''The International Herald Tribune''] {{Webarchive|url=https://web.archive.org/web/20080412091141/http://www.iht.com/articles/1999/10/28/gbooks.2.t.php |date=April 12, 2008 }} on Hermann Hesse: "Hesse's novels appear in 68 languages and have been sold more than 100 million copies worldwide" (October 28, 1999)</ref>
+|German
+|''[[Steppenwolf (novel)|Steppenwolf]]'', ''[[Siddhartha (novel)|Siddhartha]]'', ''[[The Glass Bead Game]]''
+|45
+|German-Swiss
+|-
+|{{sortname|Rex|Stout}}
+|100 million<ref>[https://www.washingtonpost.com/gdpr-consent/?destination=%2farchive%2fentertainment%2fbooks%2f1977%2f11%2f20%2fwhos-afraid-of-nero-wolfe%2f2a7eb331-8868-4938-b272-0cbb0a3d82c2%2f%3f ''The Washington Post''] {{Webarchive|url=https://web.archive.org/web/20210308204105/https://www.washingtonpost.com/gdpr-consent/?destination=%2farchive%2fentertainment%2fbooks%2f1977%2f11%2f20%2fwhos-afraid-of-nero-wolfe%2f2a7eb331-8868-4938-b272-0cbb0a3d82c2%2f%3f |date=March 8, 2021 }} on Rex Stout: "he substituted pleasure for pain and produced 42 novels and 39 novellas in the Nero Wolfe series with combined sales of more than 100 million copies" (November 20, 1977)</ref>
+|100 million<ref>[http://nl.newsbank.com/nl-search/we/Archives?p_product=PI&s_site=philly&p_multi=PI&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB29BF546BBBFDB&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM ''The Philadelphia Inquirer''] {{Webarchive|url=https://web.archive.org/web/20121008120634/http://nl.newsbank.com/nl-search/we/Archives?p_product=PI&s_site=philly&p_multi=PI&p_theme=realcities&p_action=search&p_maxdocs=200&p_topdoc=1&p_text_direct-0=0EB29BF546BBBFDB&p_field_direct-0=document_id&p_perpage=10&p_sort=YMD_date:D&s_trackval=GooglePM |date=October 8, 2012 }} on Rex Stout: "Readers have snapped up more than 100 million copies of the books." (November 29, 1986)</ref>
+|English
+|''[[Nero Wolfe]]''
+|50
+|American
+|-
+|{{sortname|Anne|Golon}}
+|100 million<ref>[https://books.google.com/books?id=kd8WqdD7qIUC&dq=100-million-copies&pg=PA124 ''Screening Difference: How Hollywood's Blockbuster Films Imagine Race, Ethnicity and Culture''], Dr. [[Jaap van Ginneken]], page 124, on Anne Golon: "All together, they published thirteen titles, translated into forty-five languages and selling more than 100 million copies." (2007)</ref>
+|100 million<ref>[http://www.theage.com.au/articles/2004/11/12/1100227564436.html ''The Age''] {{Webarchive|url=https://web.archive.org/web/20080413143415/http://www.theage.com.au/articles/2004/11/12/1100227564436.html |date=April 13, 2008 }} on Anne Golon: "Somehow, despite her books having sold more than 100 million copies in 45 countries, Golon is living in straitened circumstances" (November 13, 2004)</ref>
+|French
+|''[[Angélique, the Marquise of the Angels|Angélique]]''
+|14
+|French
+|-
+|{{sortname|Frank G.|Slaughter}}
+|
+|100 million<ref>[https://www.imdb.com/name/nm2329727/bio Kevin McCarthy's ''The Book Lover's Guide to Florida''] {{Webarchive|url=https://web.archive.org/web/20160311135257/http://www.imdb.com/name/nm2329727/bio |date=March 11, 2016 }} on Frank G. Slaughter: "Through 1990, Slaughter's books have averaged more than a million sales per title, totaling over 100 million copies." (1992)</ref>
+|English
+|Medical
+|62
+|American
+|-
+|{{sortname|Edgar Rice|Burroughs}}
+|100 million<ref>[https://books.google.com/books?id=LyJqIfNPSgcC&q=%22million+copies%22&pg=PA421 Steven R. Serafin in ''The Continuum Encyclopedia of American Literature''] {{Webarchive|url=https://web.archive.org/web/20170401192125/https://books.google.com/books?id=LyJqIfNPSgcC&pg=PA421&dq=%22perry+mason%22+%22million+copies%22&as_brr=3&ei=Ve9CS-LFBYGGzgTx__WxBQ&cd=8#v=onepage&q=%22million%20copies%22&f=false |date=April 1, 2017 }}, p. 145, on Edgar Rice Burroughs: "[...] sales of his novels exceed 100 million copies." (2005)</ref>
+|100 million<ref>[https://books.google.com/books?id=E0R9lLtv8i8C&dq=100-million-copies&pg=PA449 Bret E. Carroll in ''American Masculinities: A Historical Encyclopedia''], page 449, on Edgar Rice Burroughs: "The twenty-five novels that followed between 1912 and 1947 were a huge commercial
+success, with over 100 million copies sold" (2003)</ref>
+|English
+|''[[Tarzan]]'', ''[[Barsoom]]'' and ''[[Pellucidar]]'' series, [[science fantasy]]
+|
+|American
+|-
+|{{sortname|John|Creasey}}
+|
+|100 million<ref>[https://books.google.com/books?id=uG6Ei0Ix00EC&dq=100-million-copies&pg=PA225 Neil Shulman e.a. in ''Get Between the Covers: Leave a Legacy by Writing a Book''], page 225, on John Creasey: "Over his lifetime, he managed to write over 600 novels and to sell approximately
+100 million copies of his books worldwide." (2006)</ref>
+|English
+|Crime thriller
+|600
+|British
+|-
+|{{sortname|James A.|Michener}}
+|
+|100 million<ref>[https://books.google.com/books?id=gtytTEbrf6QC&dq=%22james+michener%22+%22100+million%22&pg=PA208 Thomas D. Hamm in ''The Quakers in America''] page 208, on James Michener: "Michener produced a steady stream of books for the rest of his life, with total sales of over 100 million." (2003)</ref>
+|English
+|Historical
+|47
+|American
+|-
+|{{sortname|Yasuo|Uchida}}
+|100 million<ref name=shoten>[http://www.booksfromjapan.jp/authors/cjw/item/138-yasuo-uchida ''Books from Japan''] {{Webarchive|url=https://web.archive.org/web/20180917143224/http://www.booksfromjapan.jp/authors/cjw/item/138-yasuo-uchida |date=September 17, 2018 }} on Yasuo Uchida: "Yasuo Uchida (1934–)  is a popular author whose works have sold more than 100 million copies in Japan" (Japanese language, March 21, 2008)</ref>
+|
+|Japanese
+|Mystery
+|130+
+|Japanese
+|-
+|{{sortname|Seiichi|Morimura}}
+|
+|100 million<ref name=shoten />
+|Japanese
+|Mystery
+|350+
+|Japanese
+|-
+|{{sortname|Mary|Higgins Clark}}
+|100 million<ref>[http://www.deseretnews.com/article/1,5143,705293354,00.html ''Deseret News''] {{Webarchive|url=https://web.archive.org/web/20100703182455/http://www.deseretnews.com/article/1,5143,705293354,00.html |date=July 3, 2010 }} on Mary Higgins Clark: "Mary Higgins Clark has been on ''The New York Times'' Best Seller list 27 times and has more than 100 million copies in print in the United States" (March 29, 2009)</ref>
+|100 million<ref>[https://www.forbes.com/sites/avrildavid/2011/06/06/the-10-most-powerful-women-authors/2/ ''Forbes''] {{Webarchive|url=https://web.archive.org/web/20170907081823/https://www.forbes.com/sites/avrildavid/2011/06/06/the-10-most-powerful-women-authors/2/ |date=September 7, 2017 }} on Mary Higgins Clark: "Sales:100 million books sold" (June 6, 2011)</ref>
+|English
+|Thriller
+|
+|American
+|-
+|{{sortname|Penny|Jordan}}
+|90 million<ref>[https://www.telegraph.co.uk/news/obituaries/9026164/Penny-Jordan.html ''The Telegraph''] {{Webarchive|url=https://web.archive.org/web/20181214132400/https://www.telegraph.co.uk/news/obituaries/9026164/Penny-Jordan.html |date=December 14, 2018 }} on Penny Jordan: "selling more than 90 million copies of nearly 190 titles" (January 19, 2012)</ref>
+|100 million<ref>[https://www.washingtonpost.com/local/obituaries/penny-jordan-author-of-200-romance-novels-dies-at-65/2012/01/20/gIQAfcJuGQ_story.html ''The Washington Post''] {{Webarchive|url=https://web.archive.org/web/20170907121759/https://www.washingtonpost.com/local/obituaries/penny-jordan-author-of-200-romance-novels-dies-at-65/2012/01/20/gIQAfcJuGQ_story.html |date=September 7, 2017 }} on Penny Jordan: "sold more than 100 million copies worldwide" (January 21, 2012)</ref>
+|English
+|Romance
+|200+
+|British
+|-
+|{{sortname|Patricia|Cornwell}}
+|
+|100 million<ref>[https://www.csmonitor.com/Books/chapter-and-verse/2013/0221/Patricia-Cornwell-wins-lawsuit-against-financial-firm ''The Christian Science Monitor''] {{Webarchive|url=https://web.archive.org/web/20130227063528/http://www.csmonitor.com/Books/chapter-and-verse/2013/0221/Patricia-Cornwell-wins-lawsuit-against-financial-firm |date=February 27, 2013 }} on Patricia Cornwell: "Cornwell's books have sold more than 100 million copies." (February 21, 2013)</ref>
+|English
+|Thriller, [[Kay Scarpetta]] series
+|34+
+|American
+|}
+
+==See also==
+* [[List of best-selling books]]
+* [[List of best-selling novels in the United States]]
+* [[List of best-selling manga]]
+
+==Notes==
+{{Notelist}}
+
+==References==
+{{Reflist|2}}
+ 
+{{DEFAULTSORT:Best-Selling Fiction Authors}}
+[[Category:Lists of bestsellers|Authors of fiction]]
+[[Category:Lists of writers]]
+[[Category:Literature records]]

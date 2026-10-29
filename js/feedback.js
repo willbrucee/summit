@@ -16,6 +16,11 @@ export function classifyGuess(index, text, found, outsideIndex = null) {
   const r = match(index, text, found);
   if (r.result === 'empty') return { state: 'empty' };
   if (r.result === 'already') return { state: 'duplicate', index: r.index };
+  // A real answer typed exactly but just off the list (Pelé, not Pepe) beats a typo correction.
+  if (r.result === 'correct' && r.corrected && outsideIndex) {
+    const owners = outsideIndex.exact.get(toKey(text));
+    if (owners) return { state: 'outside', label: outsideIndex.answers[owners[0]].label };
+  }
   if (r.result === 'correct') return { state: r.corrected ? 'autocorrected' : 'accepted', index: r.index };
   if (outsideIndex && !r.ambiguous) {
     const o = match(outsideIndex, text, new Set());

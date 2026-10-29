@@ -1,1 +1,7 @@
-{}
+{
+  "best-selling-games": {
+    "remove": [
+      "Pokémon Generation I"
+    ]
+  }
+}

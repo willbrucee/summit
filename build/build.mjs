@@ -17,6 +17,7 @@ import { matchWikidata } from './wikidata-match.mjs';
 import { groupAnswers } from './groups.mjs';
 import { NOUNS } from './nouns.mjs';
 import { LISTS } from './lists.mjs';
+import { namesItsList, OPEN_KINDS } from './lint.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const raw = (name) => JSON.parse(readFileSync(join(ROOT, 'data/raw', name + '.json'), 'utf8')).results.bindings;
@@ -108,7 +109,7 @@ const itemFor = (title) => (title ? WIKI_ITEMS[normTitle(title)] || null : null)
 const bareLabel = (label) => label.replace(/\s*\([^)]*\)\s*$/, '').trim();
 
 // Spelling slips in Wikidata descriptions, fixed so players never see them.
-const fixSpelling = (d) => d.replace(/\bcomapny\b/g, 'company').replace(/\brestaraunts\b/g, 'restaurants');
+const fixSpelling = (d) => d.replace(/\bmanufactuer\b/g, 'manufacturer').replace(/\bcomapny\b/g, 'company').replace(/\brestaraunts\b/g, 'restaurants');
 
 // The item behind a Wikipedia title, with Wikidata's own aliases when the label cache has them.
 function wikiItem(a) {
@@ -124,25 +125,54 @@ function fromWiki(def) {
   const curated = def.aliasList ? parseList(def.aliasList) : [];
   const byKey = new Map();
   for (const c of curated) for (const t of [c.label, ...c.aliases]) byKey.set(toKey(t), c);
-  const answers = list.answers().map((a) => {
+  const raws = list.answers();
+  // An article shared by several entries (Patty and Selma) is not one person's name.
+  const titleCount = new Map();
+  for (const r of raws) if (r.title) titleCount.set(r.title, (titleCount.get(r.title) || 0) + 1);
+  const answers = raws.map((raw) => {
+    const a = { ...raw };
     const aliases = [...(a.aliases || [])];
+    // People are known by their article's name; the list may use an old one (Billie Jean
+    // Moffitt for Billie Jean King), which stays as an alias.
+    if (def.people && def.kind !== 'brands' && a.title && titleCount.get(a.title) === 1 && !a.title.includes('#')) {
+      const name = bareLabel(normTitle(a.title));
+      if (toKey(name) !== toKey(a.label) && !name.includes(',') && !/^List of/.test(name)) { aliases.push(a.label); a.label = name; }
+    }
     if (bareLabel(a.label) !== a.label) aliases.push(bareLabel(a.label));
+    // Paired game releases ("Pokémon Red, Green and Blue", "Pokémon X and Y"): each one counts.
+    const pair = def.kind === 'games' && a.label.match(/^(\S+) (\S+)((?:, \S+)*),? and (\S+)$/);
+    if (pair) for (const part of [pair[2], ...pair[3].split(', ').filter(Boolean), pair[4]]) aliases.push(`${pair[1]} ${part}`);
+    // "Pokémon Red / Blue / Yellow": each release counts.
+    const slash = def.kind === 'games' && a.label.match(/^(\S+) (\S+)((?: \/ \S+)+)$/);
+    if (slash) for (const part of [slash[2], ...slash[3].split(' / ').filter(Boolean)]) aliases.push(`${slash[1]} ${part}`);
     const c = byKey.get(toKey(a.label)) || byKey.get(toKey(bareLabel(a.label)));
     if (c) aliases.push(...[c.label, ...c.aliases].filter((t) => toKey(t) !== toKey(a.label)));
-    return { label: a.label, aliases, from: a.from, item: itemFor(a.title) };
+    return { label: a.label, aliases, from: a.from, title: a.title, item: a.title && !a.title.includes('#') ? itemFor(a.title) : null, total: a.total || 0, sales: a.sales || 0 };
   });
-  // Lists can name one thing twice (a chart's own spelling, a typo that redirects): same item, one answer.
+  // Lists can name one thing twice (a chart's own spelling, a typo that redirects, the same game
+  // on another console): same item, one answer, sales added up across platforms.
   const byItem = new Map();
   const merged = [];
   for (const a of answers) {
-    const prev = a.item ? byItem.get(a.item.q) : null;
-    if (prev) { prev.aliases.push(a.label, ...a.aliases); continue; }
-    if (a.item) byItem.set(a.item.q, a);
+    // Only an article of its own identifies an answer: a section of a shared page, or a page
+    // that several entries link to, would merge different answers into one.
+    const own = a.item && a.title && titleCount.get(a.title) === 1 && !a.title.includes('#');
+    const id = own ? a.item.q : toKey(a.label);
+    const prev = byItem.get(id);
+    if (prev) { prev.aliases.push(a.label, ...a.aliases); prev.total = Math.max(prev.total, a.total); prev.sales += a.sales; continue; }
+    byItem.set(id, a);
     merged.push(a);
+  }
+  let rest = [];
+  // Ranked lists keep the top N by the stated measure; the rest are real but just outside.
+  if (list.rank) {
+    const score = (a) => Math.max(a.total, a.sales);
+    merged.sort((x, y) => score(y) - score(x));
+    rest = merged.splice(list.rank.top);
   }
   answers.length = 0;
   answers.push(...merged);
-  const outside = list.outside ? list.outside().map((a) => ({ label: a.label, aliases: bareLabel(a.label) !== a.label ? [bareLabel(a.label)] : [] })) : [];
+  const outside = [...rest, ...(list.outside ? list.outside() : [])].map((a) => ({ label: a.label, aliases: bareLabel(a.label) !== a.label ? [bareLabel(a.label)] : [] }));
   return { answers, outside, source: `Wikipedia: ${list.pages.slice(0, 3).join('; ')}${list.pages.length > 3 ? ` and ${list.pages.length - 3} more` : ''} (${list.year})` };
 }
 
@@ -357,9 +387,9 @@ for (const def of PROMPTS) {
     id: def.id,
     category: def.category,
     categoryName: CATEGORIES[def.category],
-    text: def.text,
+    text: def.text.replace('{n}', merged.length.toLocaleString('en')),
     note: (def.note || '').replace('{n}', merged.length.toLocaleString('en')),
-    ...(def.outsideLine ? { outsideLine: def.outsideLine } : {}),
+    ...(def.outsideLine ? { outsideLine: def.outsideLine.replace('{n}', merged.length.toLocaleString('en')) } : {}),
     ...(def.people ? { people: true } : {}),
     difficulty: def.difficulty,
     finite: def.finite,
@@ -381,6 +411,10 @@ for (const def of PROMPTS) {
   out.push(prompt);
   report.push({ id: def.id, size: merged.length, known: knownCount, outside: outsidePool.length, topic: def.category, text: def.text, groupBy: grouping.by, groupFallback: grouping.fallback, descriptions: merged.filter((a) => a.wd && a.wd.d).length, aliasCollisions, suggestions: suggestions.slice(0, 80), wikidataMatched: wd.filter(Boolean).length, collisions, near: near.slice(0, 60), nearCount: near.length, suspicious, log, sourceCheck: notes[def.id] || null });
 }
+
+// Headline lint (build/lint.mjs): open-domain prompts must name their list in the headline.
+const lintFails = out.filter((p) => OPEN_KINDS.has(PROMPTS.find((d) => d.id === p.id).kind) && !namesItsList(p.text)).map((p) => p.id);
+for (const id of lintFails) errors.push(`${id}: headline names no list (needs a number, an award, an all-time measure or a year): "${out.find((p) => p.id === id).text}"`);
 
 // Topic rules: enough easy geography for the daily opener, and every other topic able to fill a round.
 const perCat = {};

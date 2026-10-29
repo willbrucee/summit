@@ -1,7 +1,8 @@
 // Answer matching ("autotune"). Shared by the game, the QA page, the build and the tests.
 
 const SPECIAL = { 'ß': 'ss', 'æ': 'ae', 'œ': 'oe', 'ø': 'o', 'ł': 'l', 'đ': 'd', 'ð': 'd', 'þ': 'th', 'ı': 'i' };
-const WORD_SUBS = { st: 'saint', mt: 'mount', ste: 'sainte' };
+// A map with no prototype, so words like "constructor" are never looked up as built-ins.
+const WORD_SUBS = Object.assign(Object.create(null), { st: 'saint', mt: 'mount', ste: 'sainte' });
 
 // Lower case, no accents, no punctuation, single spaces, no leading "the".
 export function normalise(text) {
@@ -22,7 +23,7 @@ const UNITS = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'e
   'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen'];
 const TENS = ['', '', 'twenty', 'thirty', 'forty', 'fifty', 'sixty', 'seventy', 'eighty', 'ninety'];
 const JOINED = new RegExp(`^(${TENS.slice(2).join('|')})(${UNITS.slice(1, 10).join('|')})$`);
-const ROMAN = { ii: 2, iii: 3, iv: 4, vi: 6, vii: 7, viii: 8, ix: 9, xi: 11, xii: 12, xiii: 13, xiv: 14, xv: 15, xvi: 16, xvii: 17, xviii: 18, xix: 19, xx: 20 };
+const ROMAN = Object.assign(Object.create(null), { ii: 2, iii: 3, iv: 4, vi: 6, vii: 7, viii: 8, ix: 9, xi: 11, xii: 12, xiii: 13, xiv: 14, xv: 15, xvi: 16, xvii: 17, xviii: 18, xix: 19, xx: 20 });
 function numbersToDigits(words) {
   const out = [];
   for (let k = 0; k < words.length; k++) {

@@ -12,6 +12,7 @@ indexes.set('nato-alphabet', fixed(['Alfa|Alpha', 'Bravo', 'Charlie', 'Delta', '
 indexes.set('element-symbols', fixed(['H', 'He', 'Fe', 'Au', 'Ag', 'F', 'Pb']));
 // Monarch numbers, with the same number variants the build generates.
 indexes.set('monarchs', fixed(['Henry VII', 'Henry VIII', 'Elizabeth I', 'Elizabeth II', 'George III'].map((l) => [l, ...variants(l)].join('|'))));
+indexes.set('heroes', fixed(['Spider-Man', 'Batman', 'Wonder Woman', 'Iron Man']));
 indexes.set('programming-languages', fixed(['C', 'C#', 'C++', 'F#', 'Python', 'Java', 'JavaScript']));
 const ix = (id) => indexes.get(id);
 
@@ -100,8 +101,8 @@ const cases = [
   ['mammals', 'Buffalo', 'Water buffalo'],
   ['mammals', 'Buffalo', 'African buffalo', ['Water buffalo']],
   // Hyphens, spaces and leading "the"
-  ['superheroes', 'Spider Man', 'Spider-Man'],
-  ['superheroes', 'spiderman', 'Spider-Man'],
+  ['heroes', 'Spider Man', 'Spider-Man'],
+  ['heroes', 'spiderman', 'Spider-Man'],
   ['bands', 'Beatles', 'The Beatles'],
   ['bands', 'the beatles', 'The Beatles'],
   ['mountains', 'Mt Fuji', 'Mount Fuji'],
@@ -190,4 +191,9 @@ test('indexed typo lookup gives the same results as a full scan', () => {
     }
   }
   assert.ok(checked > 500);
+});
+
+test('words that are built-in property names normalise like any other word', () => {
+  assert.equal(toKey('Constructors Championship'), 'constructorschampionship');
+  assert.equal(toKey('constructor toString'), 'constructortostring');
 });

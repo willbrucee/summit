@@ -1,0 +1,1806 @@
+{{Short description|None}}
+{{Use American English|date=May 2025}}
+[[File:Simpsons cast.png|right|upright=1.35|thumb|Some of the many recurring and regular characters in ''[[The Simpsons]]'']]
+Along with the [[Simpson family]], ''[[The Simpsons]]'' includes a large array of characters: co-workers, teachers, family friends, extended relatives, townspeople, as well as local celebrities. The creators originally intended many of these characters as one-time jokesters or for fulfilling needed functions in the town. A number of them have gained expanded roles and subsequently starred in their own episodes. According to creator [[Matt Groening]], the show adopted the concept of a large supporting cast from the Canadian sketch comedy show ''[[Second City Television]]''.<ref name=avclub>{{cite news |url=http://www.avclub.com/content/node/47771/1 |title=Matt Groening: Interview |access-date=29 September 2008 |author=Rabin, Nathan |date=26 April 2006 |newspaper=The A.V. Club |archive-date=16 December 2008 |archive-url=https://web.archive.org/web/20081216141735/http://www.avclub.com/content/node/47771/1 |url-status=dead }}</ref>
+
+The main episode characters, the Simpson family, are listed first; all other characters are listed in alphabetical order. Only main, supporting, and [[recurring character]]s are listed. For other recurring characters, see [[List of recurring The Simpsons characters|List of recurring ''The Simpsons'' characters]]. 
+
+== Characters ==
+{|class="wikitable sortable"
+|-
+! Character !! Voice actor(s) !! Character's role !! Episode debut!! Original air dates
+|-
+|[[Homer Simpson]]
+| [[Dan Castellaneta]]{{sfn|Richmond & Coffman|1997 |p=178}} || Husband of Marge; father of Bart, Lisa, and Maggie. He is lazy, unintelligent and often eats donuts, which are his favorite food. He works in a nuclear power plant. His mother Mona left him and his father Abe when he was younger, and he later gets to reunite with her until her death.
+| "[[Good Night (The Simpsons)|Good Night]]"
+| 1987-04-19
+|-
+|[[Marge Simpson]]
+| [[Julie Kavner]]{{sfn|Richmond & Coffman|1997 |p=178}} || Wife of Homer; mother of Bart, Lisa, and Maggie. She is kind-hearted and stays at home as a housewife. Her father Clancy died when her children Bart and Lisa are 7 and 5 years old and she is of French origin like him.
+| "[[Good Night (The Simpsons)|Good Night]]"
+| 1987-04-19
+|-
+| [[Bart Simpson]]
+| [[Nancy Cartwright]]{{sfn|Richmond & Coffman|1997 |p=178}} || Oldest child and only son of Homer and Marge; brother of Lisa and Maggie. He thinks of himself as a destructive "bad boy" who is rebellious and mischievous to a fault. Enjoys pulling pranks.
+| "[[Good Night (The Simpsons)|Good Night]]"<ref name=goodnight>{{cite episode |title=Good Night |series=The Simpsons shorts |series-link=The Simpsons shorts |credits=Groening, Matt |network=Fox |air-date=19 April 1987 |season=1 |number=1}}</ref>
+| 1987-04-19
+|-
+| [[Lisa Simpson]]
+| [[Yeardley Smith]]{{sfn|Richmond & Coffman|1997 |p=178}} || Middle child and elder daughter of Homer and Marge; sister of Bart and Maggie. She is intelligent and plays with her saxophone, she is two years younger than her older brother Bart.
+| "[[Good Night (The Simpsons)|Good Night]]"<ref name=goodnight/>
+| 1987-04-19
+|-
+| [[Maggie Simpson]]
+| Liz Georges, <br/> [[Gábor Csupó]], <br/> [[Harry Shearer]], <br/> [[Yeardley Smith]],<br/> [[Nancy Cartwright]], <br/> [[Elizabeth Taylor]], <br/> [[James Earl Jones]], <br/> [[Jodie Foster]], <br/> Kevin Michael Richardson, <br/> [[Amy Sedaris]], <br/> [[Lindsay Lohan]] || Youngest child and younger daughter of Homer and Marge; sister of Bart and Lisa. She does not talk.
+| "[[Good Night (The Simpsons)|Good Night]]"<ref name=goodnight/>
+| 1987-04-19
+|-
+|- a
+| [[List of recurring The Simpsons characters#Kumiko Nakamura|Kumiko Albertson]] || [[Tress MacNeille]]{{sfn|Richmond & Coffman|1997 |p=179}} (2014–2020), [[Jenny Yokobori]] (2021–present) || Japanese artist and the wife of Comic Book Guy.
+| "[[Married to the Blob]]"
+| 2014-01-12
+|-
+| {{sort|Albright, Ms.|[[List of recurring The Simpsons characters#Ms. Albright|Ms. Albright]]}} || [[Tress MacNeille]]{{sfn|Richmond & Coffman|1997 |p=179}}, [[Maggie Roswell]]|| Sunday school teacher.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| {{sort|Beardly, Jasper|[[List of recurring The Simpsons characters#Jasper Beardly|Jasper Beardly]]}} || Harry Shearer,{{sfn|Richmond & Coffman|1997 |p=179}} Dan Castellaneta || Grampa's closest neighbor at the Retirement Castle.
+| "[[Homer's Odyssey (The Simpsons)|Homer's Odyssey]]"
+| 1990-02-04
+|-
+| [[List of recurring The Simpsons characters#Benjamin, Doug and Gary|Benjamin, Doug, and Gary]] || Dan Castellaneta,{{sfn|Richmond & Coffman|1997 |p=179}} [[Hank Azaria]],{{sfn|Richmond & Coffman|1997 |p=178}} and Harry Shearer{{sfn|Richmond & Coffman|1997 |p=178}} || Springfield University students.
+| "[[Homer Goes to College]]"
+| 1993-10-14
+|-
+| [[List of recurring The Simpsons characters#Bill and Marty|Bill and Marty]] || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} and Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || [[Media in The Simpsons#KBBL|KBBL]] Radio co-hosts.
+| "[[Bart vs. Thanksgiving]]"
+| 1990-11-22
+|-
+| [[List of recurring The Simpsons characters#Blinky|Blinky]] || ''Unvoiced'' || Three-eyed fish.
+| "[[Two Cars in Every Garage and Three Eyes on Every Fish]]"
+| 1990-11-01
+|-
+| [[List of recurring The Simpsons characters#Blue-Haired Lawyer|Blue-Haired Lawyer]]<ref name=Gimple86>Gimple, p. 86</ref> || Dan Castellaneta<ref name=Gimple86/> || Attorney.
+| "[[Bart Gets Hit by a Car]]"
+| 1991-01-10
+|-
+| [[List of recurring The Simpsons characters#Booberella|Booberella]] || Tress MacNeille || Host of late night TV monster movies.
+| "[[I'm Spelling as Fast as I Can]]"
+| 2003-02-16
+|-
+| {{sort|Borton|[[List of recurring The Simpsons characters#Wendell Borton|Wendell Borton]]}} || [[Russi Taylor]], Tress MacNeille, [[Pamela Hayden]], [[Grey DeLisle-Griffin]]{{sfn|Richmond & Coffman|1997 |p=179}} || Student at [[Springfield Elementary School]].
+| "[[Homer's Odyssey (The Simpsons)|Homer's Odyssey]]"
+| 1990-01-21
+|-
+| [[Simpson family|Clancy Bouvier]]|| Harry Shearer || The chain-smoking husband of Jacqueline; father of Marge, Patty, and Selma, and grandfather of Ling. He was of French origin. He died when his grandchildren Bart and Lisa are 7 and 5 years old and prior to the original series.
+| "[[The Way We Was]]"
+| 1991-01-31
+|-
+| {{sort|Bouvier, Jacqueline|[[Simpson family#Jacqueline Bouvier|Jacqueline Bouvier]]}} || Julie Kavner{{sfn|Richmond & Coffman|1997 |p=178}} || Mother of Selma and Patty and Marge, Grandmother of Bart, Lisa, Maggie and Ling. She is now a widower after her husband Clancy died when her grandchildren Bart and Lisa are 7 and 5 years old.
+| "[[Bart vs. Thanksgiving]]"
+| 1990-11-22
+|-
+| {{sortname|Patty|Bouvier|Patty and Selma}} || Julie Kavner{{sfn|Richmond & Coffman|1997 |p=178}} || Twin sister of Selma and older sister of Marge. Like her twin Selma, she can be seen smoking.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Selma|Bouvier|Patty and Selma}} || Julie Kavner{{sfn|Richmond & Coffman|1997 |p=178}} || Twin sister of Patty and older sister of Marge. Adoptive mother of Ling. Like her twin Patty, she can be seen smoking. She is single, but she adopted a Chinese little girl named Ling.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Kent|Brockman}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Channel 6 News anchor.
+| "[[Krusty Gets Busted]]"
+| 1990-04-29
+|-
+| [[List of recurring The Simpsons characters#Bumblebee Man|Bumblebee Man]] || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} (1992–2020), Eric Lopez (2020–present) || Star of slapstick sketch comedy show on [[Media in The Simpsons#Channel Ocho|Canal Ocho]].
+| "[[Itchy & Scratchy: The Movie]]"
+| 1992-11-03
+|-
+| [[List of recurring The Simpsons characters#Chazz Busby|Chazz Busby]] || Hank Azaria || Owner of Chazz Busby Ballet Academy.
+| "[[Smoke on the Daughter]]"
+| 2008-03-30
+|-
+| {{sortname|Charles Montgomery|Burns|Mr. Burns}} || [[Christopher Collins]] (early season 1), Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Owner of the Springfield Nuclear Power Plant.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| [[List of recurring The Simpsons characters#Capital City Goofball|Capital City Goofball]]|| [[Tom Poston]]{{sfn|Richmond & Coffman|1997 |p=39}} || Mascot of the [[Springfield (The Simpsons)#Capital City|Capital City]] Capitals baseball team.<ref name=dancinghomer>{{cite episode |title=Dancin' Homer |episode-link=Dancin' Homer |series=The Simpsons |credits=Levine, Ken and David Isaacs; Kirkland, Mark |network=Fox |air-date=8 November 1990 |season=2 |number=5}}</ref>
+| "[[Dancin' Homer]]"
+| 1990-11-08
+|-
+| {{sortname|Carl|Carlson}} || Hank Azaria (1990–2020){{sfn|Richmond & Coffman|1997 |p=178}} [[Alex Désert]] (2020–present) || Springfield Nuclear Power Plant employee; one of Homer Simpson's friends.
+| "[[Homer's Night Out]]"
+| 1990-03-25
+|-
+| [[List of recurring The Simpsons characters#Crazy Cat Lady|Crazy Cat Lady]]
+ || Tress MacNeille<ref name=Gimple87>Gimple, p. 87</ref> || Mentally ill owner of many cats. Name revealed as Eleanor Abernathy in "See Homer Run".
+| "[[Girly Edition]]"
+| 1998-04-19
+|-
+| {{sortname|Gary|Chalmers|List of recurring The Simpsons characters#Superintendent Chalmers}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Public schools superintendent.
+| "[[Whacking Day]]"
+| 1993-04-29
+|-
+| [[List of recurring The Simpsons characters#Shauna Chalmers|Shauna Chalmers]] || Tress MacNeille || Daughter of Superintendent Chalmers. Despite being a student, she is working any jobs and in evenings she is working as a babysitter.
+| "[[The Good, the Sad, and the Drugly]]"
+| 2009-04-19
+|-
+| [[List of recurring The Simpsons characters#Charlie|Charlie]] || Dan Castellaneta<ref name=burnsverkaufenderkraftwerkcommentary>{{cite video |people=Castellaneta, Dan; Groening, Matt; Kirkland, Mark; Jean, Al; Reiss, Mike; Silverman, David; Vitti, Jon |title=The Simpsons: The Complete Third Season DVD Video Collector's Edition commentary for the episode "[[Burns Verkaufen der Kraftwerk]]" |medium=DVD |publisher=Twentieth Century Fox}}</ref> || Springfield Nuclear Power Plant employee.
+| "[[Life on the Fast Lane]]"
+| 1990-03-18
+|-
+| [[List of recurring The Simpsons characters#Chase/Pyro|Chase (Pyro)]]|| Hank Azaria<ref name=Gimple86/> || Luann Van Houten's ex-boyfriend; American Gladiator.
+| "[[A Milhouse Divided]]"
+| 1996-12-01
+|-
+| {{sortname|Scott|Christian|List of recurring The Simpsons characters#Scott Christian}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || News co-anchor.
+| "[[Krusty Gets Busted]]"
+| 1990-04-29
+|-
+| {{sortname|Lewis|Clark|List of recurring The Simpsons characters#Lewis Clark}} || Russi Taylor,{{sfn|Richmond & Coffman|1997 |p=179}} Nancy Cartwright, Tress MacNeille, Kevin Michael Richardson, [[Kimberly Brooks]] || Student at Springfield Elementary School.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| [[Comic Book Guy]] || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Proprietor of [[Comic Book Guy#The Android's Dungeon|The Android's Dungeon]] comic book store. Name revealed to be Jeff Albertson in "[[Homer and Ned's Hail Mary Pass]]".
+| "[[Three Men and a Comic Book]]"
+| 1991-05-09
+|-
+| {{sortname|Mr.|Costington|List of recurring The Simpsons characters#Mr. Costington}} || Hank Azaria<ref name=McCann116/> || President of Costington's Department Store.
+| "[[Trash of the Titans]]"
+| 1998-04-26
+|-
+| [[Database (The Simpsons)|Database]] || Nancy Cartwright, Pamela Hayden{{sfn|Richmond & Coffman|1997 |p=178}} || Student at Springfield Elementary School. First name is revealed to be Kyle in "[[Yellow Subterfuge]]"
+| "[[Bart's Comet]]"
+| 1995-02-05
+|-
+| {{Sortname|Declan|Desmond|List of recurring The Simpsons characters#Declan Desmond}} || [[Eric Idle]] || Documentary filmmaker.
+| {{"-}}[['Scuse Me While I Miss the Sky]]"
+| 2003-03-20
+|-
+| [[List of recurring The Simpsons characters#Disco Stu|Disco Stu]] || Hank Azaria<ref name=McCann116/> || Disco aficionado.
+| "[[Two Bad Neighbors]]"
+| 1996-01-14
+|-
+| [[List of recurring The Simpsons characters#Dolph Starbeam|Dolph]] || Tress MacNeille{{sfn|Richmond & Coffman|1997 |p=179}} || Springfield Elementary School bully.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| {{sortname|Lunchlady|Dora|List of recurring The Simpsons characters#Lunchlady Dora}} || [[Doris Grau]] (1991–1997)<br/>[[Tress MacNeille]] (2006–present){{sfn|Richmond & Coffman|1997 |p=179}}
+| Springfield Elementary School lunch lady. She's very annoyed and does not seem happy very much.
+| "[[Lisa's Pony]]"
+| 1991-11-07
+|-
+| [[Duffman]] || Hank Azaria<ref name=Gimple86/> || Spokes-mascot for [[Duff Beer]]. His real name is Barry Duffman.
+| "[[The City of New York vs. Homer Simpson]]".
+| 1997-09-21
+|-
+| [[List of recurring The Simpsons characters#Eddie|Eddie and Lou]] || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} (1990–present) and Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} (1990–2020) [[Alex Désert]] (2020–present)|| Springfield police officers.
+| "[[There's No Disgrace Like Home]]"
+| 1990-01-28
+|-
+| [[Fat Tony (The Simpsons)|Fat Tony]] || [[Joe Mantegna]] || Mob Underboss.
+| "[[Bart the Murderer]]"
+| 1991-10-10
+|-
+| {{sortname|Maude|Flanders|List of recurring The Simpsons characters#Maude Flanders}} † || Maggie Roswell{{sfn|Richmond & Coffman|1997 |p=179}} || Ned Flanders's wife (dies in Season 11).
+| "[[Dead Putting Society]]"
+| 1990-11-15
+|-
+| {{sortname|Ned|Flanders}} || [[Harry Shearer]]{{sfn|Richmond & Coffman|1997 |p=179}} || The Simpson family's next door neighbor; owner of [[Springfield (The Simpsons)#The Leftorium|The Leftorium]] (until it closes in Season 29), Bart Simpson's teacher at Springfield Elementary School (Season 29 onwards, substituting the void left by former deceased teacher Edna Krabappel, who was previously married to Flanders from Seasons 23 to 25).<ref>{{cite web|url=https://www.avclub.com/flanders-loses-his-faith-and-an-inconsequential-simpson-1825814494|title=Flanders loses his faith and an inconsequential Simpsons tests ours|first=Dennis|last=Perkins|website=[[The A.V. Club]]|date=7 May 2018|access-date=13 May 2018|archive-date=8 May 2018|archive-url=https://web.archive.org/web/20180508053810/https://tv.avclub.com/flanders-loses-his-faith-and-an-inconsequential-simpson-1825814494|url-status=live}}</ref><ref>{{cite web|url=https://www.denofgeek.com/tv/the-simpsons-season-29-episode-19-review-left-behind/|title=The Simpsons Season 29 Episode 19 Review: Left Behind|date=7 May 2018|website=denofgeek.com|access-date=13 May 2018|archive-date=13 May 2018|archive-url=https://web.archive.org/web/20180513082943/http://www.denofgeek.com/us/tv/the-simpsons/273252/the-simpsons-season-29-episode-19-review-left-behind|url-status=live}}</ref>
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Rod|Flanders|List of recurring The Simpsons characters#Rod Flanders}} || [[Pamela Hayden]] (1990–2024){{sfn|Richmond & Coffman|1997 |p=179}} [[Chris Edgerly]] (2024–present) || Ned and Maude Flanders's older son.
+| "[[The Call of the Simpsons]]"
+| 1990-02-18
+|-
+| {{sortname|Todd|Flanders|List of recurring The Simpsons characters#Todd Flanders}} || Nancy Cartwright{{sfn|Richmond & Coffman|1997 |p=178}} || Ned and Maude Flanders's younger son.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| [[List of recurring The Simpsons characters#Julio Franco|Julio Franco]] || Hank Azaria (2003–2019){{sfn|Richmond & Coffman|1997 |p=178}} Tony Rodriguez (2021–present) || Homer’s great Julio and Grady are best friends.
+| "[[Three Gays of the Condo]]"
+| 2003-04-13
+|-
+| [[List of recurring The Simpsons characters#Frankie the Squealer|Frankie the Squealer]] || Dan Castellaneta<ref name=McCann116/> || Informant for Fat Tony.<ref name=insaneclownpoppy/>
+| "[[Insane Clown Poppy]]"
+| 2000-11-12
+|-
+| {{sortname|Professor Jonathan|Frink|Professor Frink}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Scientist, inventor.
+| "[[Old Money (The Simpsons)|Old Money]]"
+| 1991-03-28
+|-
+| {{sortname|Alice|Glick|List of recurring The Simpsons characters#Mrs. Glick}} || [[Cloris Leachman]],{{sfn|Richmond & Coffman|1997 |p=57}} [[Tress MacNeille]] || Elderly.
+| "[[Three Men and a Comic Book]]"
+| 1991-05-09
+|-
+| [[List of recurring The Simpsons characters#God|God]] || Harry Shearer || Supreme and creative preserves.
+| "[[Bart Gets Hit by a Car]]"
+| 1991-01-10
+|-
+| {{sortname|Barney|Gumble}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Homer's drunken old pal.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Gil|Gunderson|List of recurring The Simpsons characters#Gil Gunderson}} || Dan Castellaneta<ref name=Gimple86/> || Unsuccessful salesman.
+| "[[Realty Bites]]"
+| 1997-12-07
+|-
+| [[List of recurring The Simpsons characters#The Happy Little Elves|The Happy Little Elves]] || Dan Castellaneta,<ref name=McCann116/> Hank Azaria,<ref name=McCann116/> and Harry Shearer<ref name=McCann117/> || Children's cartoon series characters.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Judge Constance|Harm|List of recurring The Simpsons characters#Judge Constance Harm}} || [[Jane Kaczmarek]] || Springfield judge. She is very mean and she enjoys humiliating everyone.
+| "[[The Parent Rap]]"
+| 2001-11-11
+|-
+| [[Herman Hermann]] || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Owner of Herman's Military Antiques shop.<ref name=bartthegeneral>{{cite episode |title=Bart the General |episode-link=Bart the General |series=The Simpsons |credits=Swartzwelder, John; Silverman, David |network=Fox |air-date=4 February 1990 |season=1 |number=5}}</ref>
+| "[[Bart the General]]"
+| 1990-02-04
+|-
+| {{sortname|Bernice|Hibbert|List of recurring The Simpsons characters#Bernice Hibbert}} || Tress MacNeille<ref name="Gimple87"/> (1999–2019) [[Dawnn Lewis]] (2021–present) || Dr. Hibbert's wife.
+| "[[Bart's Dog Gets an "F"]]{{-"}}
+| 1991-03-07
+|-
+| {{sortname|Dr. Julius|Hibbert|Julius Hibbert}} || Harry Shearer (1990–2021); [[Kevin Michael Richardson]] (2021–present){{sfn|Richmond & Coffman|1997 |p=179}} || Medical doctor.
+| "[[Bart the Daredevil]]"
+| 1990-12-06
+|-
+| {{sortname|Elizabeth|Hoover|List of recurring The Simpsons characters#Elizabeth Hoover}} || Maggie Roswell{{sfn|Richmond & Coffman|1997 |p=179}} || Lisa Simpson's teacher at Springfield Elementary School.
+| "[[Brush with Greatness]]"
+| 1991-04-11
+|-
+| {{sortname|Lionel|Hutz}}|| [[Phil Hartman]] †{{sfn|Richmond & Coffman|1997 |p=44}} || Attorney.
+| "[[Bart Gets Hit by a Car]]"
+| 1991-01-10
+|-
+| [[The Itchy & Scratchy Show|Itchy & Scratchy]] || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} and Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Cartoon cat and mouse.
+| "The Bart Simpson Show"<ref name=thebartsimpsonshow>{{cite episode |title=The Bart Simpson Show |series=The Simpsons shorts |series-link=The Simpsons shorts |credits=Groening, Matt |network=Fox |air-date=20 November 1988 |season=3 |number=32}}</ref>
+| 1988-11-20
+|-
+| {{sortname|Snake|Jailbird|List of recurring The Simpsons characters#Snake Jailbird}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Recidivist.
+| "[[The War of the Simpsons]]"
+| 1991-05-02
+|-
+| {{sortname|Jimbo|Jones|List of recurring The Simpsons characters#Jimbo Jones}} || Pamela Hayden (1990–2025), [[Mo Collins]] (2025–present){{sfn|Richmond & Coffman|1997 |p=179}} || Springfield Elementary School bully.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| [[Kang and Kodos]] || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} and Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Extraterrestrials.
+| "[[Treehouse of Horror (The Simpsons episode)|Treehouse of Horror]]"
+| 1990-10-25
+|-
+| {{sortname|Princess|Kashmir|List of recurring The Simpsons characters#Princess Kashmir}} || Maggie Roswell{{sfn|Richmond & Coffman|1997 |p=179}} || Belly dancer.<ref name=homersnightout>{{cite episode |title=Homer's Night Out |episode-link=Homer's Night Out |series=The Simpsons |credits=Vitti, Jon; Moore, Rich |network=Fox |air-date=25 March 1990 |season=1 |number=10}}</ref>
+| "[[Homer's Night Out]]"
+| 1990-03-25
+|-
+| {{sortname|Edna|Krabappel|Edna Krabappel}} †|| [[Marcia Wallace]] †{{sfn|Richmond & Coffman|1997 |p=179}} || Bart Simpson's teacher at Springfield Elementary School (until season 25), and Ned Flanders wife (Seasons 23–25, when the character is revealed to have died).<ref name="avreview">{{cite news |last=Kaiser |first=Rowan |url=https://www.avclub.com/the-simpsons-ned-n-edna-s-blend-1798172795 |title=The Simpsons "Ned 'n Edna's Blend" |work=[[The A.V. Club]] |date=2012-05-14 |access-date=2012-05-21 |archive-date=2012-05-16 |archive-url=https://web.archive.org/web/20120516183653/http://www.avclub.com/articles/ned-n-ednas-blend%2C73726/ |url-status=live }}</ref>
+| "[[Bart the Genius]]"
+| 1990-01-14
+|-
+| [[List of recurring The Simpsons characters#Coach Krupt|Coach Krupt]] || Hank Azaria || Sadistic gym teacher at [[Springfield Elementary School]].
+| "[[My Fair Laddy]]"
+| 2006-02-26
+|-
+| {{sortname|Rabbi Hyman|Krustofsky|List of recurring The Simpsons characters#Rabbi Hyman Krustofsky}} †|| [[Jackie Mason]] and [[Dan Castellaneta]] || Rabbi; father of Krusty the Clown.<ref name=likefatherlikeclown>{{cite episode |title=Like Father, Like Clown |episode-link=Like Father, Like Clown |series=The Simpsons |credits=Kogen, Jay and Wallace Wolodarsky; Lynch, Jeffrey with Brad Bird |network=Fox |air-date=24 October 1991 |season=3 |number=6}}</ref>
+| "[[Like Father, Like Clown]]"
+| 1991-10-24
+|-
+| [[Krusty the Clown]] || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || TV show clown host, original name Herschel Shmoikel Pinchas Yerucham Krustofski.<ref name="TIAC">{{cite episode |title=Today I Am a Clown |episode-link=Today I Am a Clown |series=The Simpsons |series-link=The Simpsons |credits=Cohen, Joel H.; Kruse, Nancy |network=Fox |air-date=2003-12-07 |season=15 |number=6}}</ref>
+| "The Krusty the Clown Show" (short)
+| 1989-01-15
+|-
+| {{sortname|Cookie|Kwan|List of recurring The Simpsons characters#Cookie Kwan}} || Tress MacNeille<ref name="Gimple87"/> || Real estate agent.<ref name=realtybites>{{cite episode |title=Realty Bites |episode-link=Realty Bites |series=The Simpsons |credits=Greaney, Dan; Scott III, Swinton O. |network=Fox |air-date=7 December 1997 |season=9 |number=9}}</ref>
+| "[[Realty Bites]]"
+| 1997-12-07
+|-
+| {{sortname|Dewey|Largo|List of recurring The Simpsons characters#Dewey Largo}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Springfield Elementary School's music teacher.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| [[List of recurring The Simpsons characters#Legs and Louie|Legs and Louie]] || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=178}} and Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Fat Tony's henchmen.
+| "[[Bart the Murderer]]"
+| 1991-10-10
+|-
+| [[List of recurring The Simpsons characters#Leopold|Leopold]] || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=179}} || Superintendent Chalmers' assistant.
+| "[[Sweet Seymour Skinner's Baadasssss Song]]"
+| 1994-04-28
+|-
+| {{sortname|Lenny|Leonard}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Springfield Nuclear Power Plant employee; one of Homer Simpson's friends.
+| "[[Life on the Fast Lane]]"
+| 1990-03-18
+|-
+| [[List of recurring The Simpsons characters#Leprechaun|Leprechaun]] || Dan Castellaneta || Male faerie from Ireland as well as Saint Patrick’s Day.
+| "[[This Little Wiggy]]"
+| 1998-03-22
+|-
+| {{sortname|Helen|Lovejoy|List of recurring The Simpsons characters#Helen Lovejoy}} || Maggie Roswell,{{sfn|Richmond & Coffman|1997 |p=179}} [[Marcia Mitzman Gaven]] || Reverend Lovejoy's wife. She is married to Reverend and have a daughter together, Jessica.
+| "[[Life on the Fast Lane]]"
+| 1990-03-18
+|-
+| {{sortname|Reverend Timothy|Lovejoy|Reverend Lovejoy}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Minister of the First Church of Springfield. He is married to Helen and have a daughter together, Jessica.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| {{sortname|Lurleen|Lumpkin|List of recurring The Simpsons characters#Lurleen Lumpkin}} || [[Beverly D'Angelo]],{{sfn|Richmond & Coffman|1997 |p=85}} Doris Grau{{sfn|Richmond & Coffman|1997 |p=179}} || Country music singer-songwriter.
+| "[[Colonel Homer]]"
+| 1992-03-26
+|-
+| {{sortname|Otto|Mann}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Springfield Elementary School bus driver. He often listens to music.
+| "[[Homer's Odyssey (The Simpsons)|Homer's Odyssey]]"
+| 1990-01-21
+|-
+| {{sortname|Captain Horatio|McCallister|List of recurring The Simpsons characters#Sea Captain}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Sea captain.
+| "[[New Kid on the Block]]"
+| 1992-11-12
+|-
+| {{sortname|Roger|Meyers, Jr.|List of recurring The Simpsons characters#Roger Meyers Jr.}} || [[Alex Rocco]],{{sfn|Richmond & Coffman|1997 |p=43}} Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Chairman of Itchy & Scratchy International.
+| "[[Itchy & Scratchy & Marge]]"
+| 1990-12-20
+|-
+| {{sortname|Troy|McClure}} || [[Phil Hartman]] †{{sfn|Richmond & Coffman|1997 |p=200}} || Actor.
+| "[[Homer vs. Lisa and the 8th Commandment]]"
+| 1991-02-07
+|-
+| {{sortname|Hans|Moleman}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Unfortunate man.
+| "[[Principal Charming]]"
+| 1991-02-14
+|-
+| {{sortname|Dr. Marvin|Monroe|List of recurring The Simpsons characters#Dr. Marvin Monroe}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Psychotherapist.
+| "[[There's No Disgrace Like Home]]"
+| 1990-01-28
+|-
+| [[List of recurring The Simpsons characters#Eddie Muntz|Eddie Muntz]] || [[Phil Hartman]], Harry Shearer, Hank Azaria,{{sfn|Richmond & Coffman|1997 |p=179}} [[Earl Mann (actor)|Earl Mann]] || Nelson's father.
+| "[[Brother from the Same Planet]]"
+| 1993-02-04
+|-
+| [[List of recurring The Simpsons characters#Mrs. Muntz|Mrs. Muntz]] || Tress MacNeille || Nelson Muntz's mother. Although she loves her son, she can be seen alcoholic.
+| "[[Tis the Fifteenth Season]]"
+| 1999-01-17
+|-
+| [[Nelson Muntz]]
+| [[Nancy Cartwright]]
+| Springfield Elementary School bully.
+| "[[Bart the General]]"
+| 1990-02-04
+|-
+| {{sortname|Captain Lance|Murdock|List of recurring The Simpsons characters#Captain Lance Murdock}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Daredevil.
+| "[[Bart the Daredevil]]"
+| 1990-12-06
+|-
+| {{sortname|Bleeding Gums|Murphy|List of recurring The Simpsons characters#Bleeding Gums Murphy}} † || [[Ron Taylor (actor)|Ron Taylor]], [[Harry Shearer]], Kevin Michael Richardson{{sfn|Richmond & Coffman|1997 |p=22}} || Blues musician.<ref name=moaninglisa>{{cite episode |title=Moaning Lisa (The Simpsons) |episode-link=Moaning Lisa (The Simpsons) |series=The Simpsons |credits=Jean, Al and Mike Reiss; Archer, Wesley |network=Fox |air-date=11 February 1990 |season=1 |number=6}}</ref>
+| "[[Moaning Lisa (The Simpsons)|Moaning Lisa]]"
+| 1990-02-11
+|-
+| {{sortname|Lindsey|Naegle|List of recurring The Simpsons characters#Lindsey Naegle}} || Tress MacNeille<ref name="Gimple87"/> || Corporate executive.
+| "[[The Itchy & Scratchy & Poochie Show]]"
+| 1997-02-09
+|-
+| {{sortname|Apu|Nahasapeemapetilon}} || Hank Azaria {{sfn|Richmond & Coffman|1997 |p=178}}(1990–2017), [[Sunil Malhotra]](2026–present)<ref>{{cite news |last1=Deb |first1=Sopan |title= Apu Returns to ‘The Simpsons’ With a New Voice Actor |url=https://www.nytimes.com/2026/10/19/arts/television/apu-the-simpsons-sunil-malhotra.html |access-date=October 19, 2026 |publisher=[[The New York Times]] |date=October 19, 2026}}</ref>|| Operator of the [[Kwik-E-Mart]].
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| {{sortname|Manjula|Nahasapeemapetilon|List of recurring The Simpsons characters#Manjula Nahasapeemapetilon}} || [[Jan Hooks]] (1997–2002), [[Tress MacNeille]](2002–present)<ref name=Gimple64>Gimple, p. 64</ref>, Janina Gavankar(2026–present)
+| Apu Nahasapeemapetilon's wife.
+| "[[Much Apu About Nothing]]"
+| 1997-11-16
+|-
+| {{sortname|Sanjay|Nahasapeemapetilon|List of recurring The Simpsons characters#Sanjay Nahasapeemapetilon}} || Harry Shearer<ref name="Gimple87"/> || Apu Nahasapeemapetilon's younger brother.
+| "[[Homer vs. Lisa and the 8th Commandment]]"
+| 1991-02-07
+|-
+| [[List of recurring The Simpsons characters#Old Barber|Jake]]<ref name=homerdefinedcommentary/> || Dan Castellaneta,<ref name=homerdefinedcommentary/> Harry Shearer<ref name=McCann117>McCann, p. 117</ref> || Barber.
+| "[[Simpson and Delilah]]"
+| 1990-10-18
+|-
+| [[List of recurring The Simpsons characters#Old Jewish Man|Old Jewish Man]] || Hank Azaria<ref name=Gimple86/> || Springfield Retirement Castle resident.
+| "[[Krusty Gets Kancelled]]"
+| 1993-05-13
+|-
+| {{sortname|Rayshelle|Peyton|List of recurring The Simpsons characters#Rayshelle Peyton}} || [[Kerry Washington]] || Bart Simpson's teacher at Springfield Elementary School. Unlike most of the teachers, she is very kind.
+| "[[My Octopus and a Teacher]]”
+| 2022-04-24
+|-
+| {{sortname|Herbert|Powell|Simpson family#Herbert Powell}} || [[Danny DeVito]]{{sfn|Richmond & Coffman|1997 |p=50}} || Homer Simpson's half-brother.<ref name=ohbrotherwhereartthou>{{cite episode |title=Oh Brother, Where Art Thou? |episode-link=Oh Brother, Where Art Thou? |series=The Simpsons |credits=Martin, Jeff; Archer, Wesley |network=Fox |air-date=21 February 1991 |season=2 |number=15}}</ref>
+| "[[Oh Brother, Where Art Thou?]]"
+| 1991-02-21
+|-
+| {{sortname|Janey|Powell|List of recurring The Simpsons characters#Janey Powell}} || Pamela Hayden,{{sfn|Richmond & Coffman|1997 |p=179}} Kimberly Brooks || Student at Springfield Elementary School.
+| "[[Moaning Lisa (The Simpsons)|Moaning Lisa]]"
+| 1990-02-11
+|-
+| {{sortname|Ruth|Powers|List of recurring The Simpsons characters#Ruth Powers}} || [[Pamela Reed]], Maggie Roswell{{Sfn|Richmond & Coffman|1997 |p=126}} || The Simpsons' next door neighbor.<ref name=newkidontheblock>{{cite episode |title=New Kid on the Block |episode-link=New Kid on the Block |series=The Simpsons |credits=O'Brien, Conan; Archer, Wesley |network=Fox |air-date=12 November 1992 |season=4 |number=8}}</ref>
+| "[[New Kid on the Block]]"
+| 1992-11-12
+|-
+| {{sortname|Gareth|Prince|List of recurring The Simpsons characters#Gareth Prince}} || Dan Castellaneta, [[Chris Edgerly]], Hank Azaria || Martin’s father.
+| "[[Bart the Genius]]"
+| 1990-01-14
+|-
+| {{sortname|Gloria|Prince|List of recurring The Simpsons characters#Gloria Prince}} || [[Russi Taylor]] and [[Pamela Hayden]] || Martin Prince’s mother.
+| "[[Bart the Genius]]"
+| 1990-01-14
+|-
+| {{sortname|Martin|Prince}} || Russi Taylor (1990–2019){{sfn|Richmond & Coffman|1997 |p=179}} [[Grey DeLisle]] (2019–present) || Student at Springfield Elementary School.
+| "[[Bart the Genius]]"
+| 1990-01-14
+|-
+| {{sortname|Loren|Pryor|List of recurring The Simpsons characters#Dr. J. Loren Pryor}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Springfield Elementary's school psychologist.
+| "[[Bart the Genius]]"
+| 1990-01-14
+|-
+| {{sortname|Arnie|Pye|List of recurring The Simpsons characters#Arnie Pye}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Channel 6 helicopter reporter.
+| "[[Homer Alone]]"
+| 1992-02-06
+|-
+| {{sortname|Martha|Quimby|List of recurring The Simpsons characters#Martha Quimby}} || Maggie Roswell || Long wife of the Mayor of Springfield Joe Quimby.
+| "[[Bart Gets Famous]]"
+| 1994-02-03
+|-
+| {{sortname|Mayor "Diamond" Joe|Quimby|Mayor Quimby}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Mayor of Springfield.
+| "[[The Call of the Simpsons]]"
+| 1990-10-11
+|-
+| [[List of recurring The Simpsons characters#Radioactive Man|Radioactive Man]] || Harry Shearer || Comic book superhero.
+| "[[Three Men and a Comic Book]]"
+| 1991-05-09
+|-
+| {{sortname|The|Rich Texan|List of recurring The Simpsons characters#Rich Texan}} || Dan Castellaneta<ref name=Gimple86/> || Philanthropist.
+| "[[$pringfield (Or, How I Learned to Stop Worrying and Love Legalized Gambling)]]"
+| 1993-12-16
+|-
+| [[List of recurring The Simpsons characters#Richard|Richard]] || Pamela Hayden,{{sfn|Richmond & Coffman|1997 |p=179}} Nancy Cartwright,{{sfn|Richmond & Coffman|1997 |p=178}} Maggie Roswell || Student at Springfield Elementary School.
+| "[[Bart the Genius]]"
+| 1990-01-14
+|-
+| {{sortname|Luigi|Risotto|List of recurring The Simpsons characters#Luigi Risotto}} || Hank Azaria<ref name=Gimple86/> || Italian restaurant proprietor.
+| "[[Sweet Seymour Skinner's Baadasssss Song]]"
+| 1994-04-28
+|-
+| {{sortname|Mrs.|Risotto|List of recurring The Simpsons characters#Mrs. Risotto}} || Tress MacNeille || Luigi's mother.
+| "[[Much Apu About Something]]"
+| 2016-01-17
+|-
+| [[Dr. Nick (The Simpsons)|Dr. Nick Riviera]] || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Incompetent medical doctor. Injured at the end of the [[The Simpsons Movie|movie]] by a falling chunk of glass, and brought back in nineteenth season.
+| "[[Bart Gets Hit by a Car]]"
+| 1991-01-10
+|-
+| [[Santa's Little Helper]] || Dan Castellaneta,{{sfn|Richmond & Coffman|1997 |p=178}} [[Frank Welker]]<ref name=McCann117/> || The Simpson family's pet dog.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| [[List of recurring The Simpsons characters#Sherri and Terri|Sherri and Terri]] || Russi Taylor (1990–2019){{sfn|Richmond & Coffman|1997 |p=179}} [[Grey DeLisle]] (2019–present) || Identical twins; Students at Springfield Elementary School.
+| "[[Homer's Odyssey (The Simpsons)|Homer's Odyssey]]"
+| 1990-01-21
+|-
+| {{sortname|Dave|Shutton|List of recurring The Simpsons characters#Dave Shutton}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Reporter for ''[[Media in The Simpsons#The Springfield Shopper|The Springfield Shopper]]''.
+| "[[Two Cars in Every Garage and Three Eyes on Every Fish]]"
+| 1990-11-01
+|-
+| [[Sideshow Bob|Robert Terwilliger/Sideshow Bob]] || [[Kelsey Grammer]]{{sfn|Richmond & Coffman|1997 |p=121}} || Criminal mastermind and ''Krusty the Clown Show'' ex-operator and sidekick.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| [[List of recurring The Simpsons characters#Sideshow Mel|Sideshow Mel]] || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || ''[[Media in The Simpsons#Krusty the Clown Show|The Krusty the Clown Show]]'' sidekick.
+| "[[Itchy & Scratchy & Marge]]"
+| 1990-12-20
+|-
+| {{sortname|Grampa|Simpson|Abraham Simpson}} || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Homer Simpson's father; Bart, Lisa, and Maggie Simpson's grandfather.
+| "Grandpa and the Kids" ([[The Simpsons shorts]])<ref name=grampaandthekids>{{cite episode |title=Grampa and the Kids |series=The Simpsons shorts |series-link=The Simpsons shorts |credits=Groening, Matt |network=Fox |air-date=10 January 1988 |season=2 |number=19}}</ref>
+| 1988-01-10
+|-
+| {{sortname|Mona|Simpson|Mona Simpson (The Simpsons)}} || [[Glenn Close]],{{sfn|Richmond & Coffman|1997 |p=189}} Tress MacNeille,<ref name="Gimple87"/> Maggie Roswell<ref name=mothersimpsoncommentary>{{cite video |people=Appel, Richard; Groening, Matt; Oakley, Bill; Silverman, David; Weinstein, Josh |title=The Simpsons: The Complete Seventh Season DVD Video Collector's Edition commentary for the episode "[[Mother Simpson]]" |medium=DVD |publisher=Twentieth Century Fox}}</ref> || Estranged mother of Homer Simpson and wife of Abe Simpson.
+| "[[Oh Brother, Where Art Thou?]]"
+| 1991-02-21
+|-
+| {{sortname|Agnes|Skinner|List of recurring The Simpsons characters#Agnes Skinner}} || Tress MacNeille{{sfn|Richmond & Coffman|1997 |p=179}} || Seymour Skinner's mother. She keeps controlling her son and making him hating her. She is jealous of Edna.
+| "[[The Crepes of Wrath]]"
+| 1990-04-15
+|-
+| {{sortname|Seymour|Skinner|Principal Skinner}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Principal of Springfield Elementary School. Despite saving her from danger, he hates his mother Agnes because she controls him. He often catches Bart when he is doing pranks on him. He was dating Edna before her death.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Waylon|Smithers}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Mr. Burns's personal assistant. He is often scolded by his boss whenever he does something bad.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| [[Snowball (The Simpsons)|Snowball II]] || Frank Welker, Dan Castellaneta || The Simpson family's pet cats. Lisa adores them.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Roy|Snyder|List of recurring The Simpsons characters#Judge Snyder}} || Harry Shearer (1991–2020); Kevin Michael Richardson (2024–present)<ref name="Gimple87"/> || Springfield judge.
+| "[[Krusty Gets Busted]]"
+| 1990-04-29
+|-
+| {{sortname|Jebediah|Springfield|List of recurring The Simpsons characters#Jebediah Springfield}} || Harry Shearer{{sfn|Richmond & Coffman|1997 |p=179}} || Founder of Springfield; local hero.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+| {{sortname|Cletus|Spuckler}} || [[Hank Azaria]]{{sfn|Richmond & Coffman|1997 |p=178}} || Slack-Jawed Yokel.
+| "[[Bart Gets an Elephant]]"
+| 1994-03-31
+|-
+| [[List of recurring The Simpsons characters#Birthday Spuckler|Birthday Spuckler]] || Pamela Hayden || Cletus and Brandine Spuckler’s children.
+| "[[Yokel Chords]]"
+| 2007-03-04
+|-
+| {{sortname|Brandine|Spuckler|List of recurring The Simpsons characters#Brandine Spuckler}} || Tress MacNeille{{sfn|Richmond & Coffman|1997 |p=179}} || Cletus Spuckler's wife and sister.
+| "[[Scenes from the Class Struggle in Springfield]]"
+| 1996-02-04
+|-
+| [[List of recurring The Simpsons characters#Crystal Meth Spuckler|Crystal Meth Spuckler]] || Nancy Cartwright || Cletus Spuckler and Brandine Spuckler’s children.
+| "[[Yokel Chords]]"
+| 2007-03-04
+|-
+| [[List of recurring The Simpsons characters#Dubya Spuckler|Dubya Spuckler]] || Tress MacNeille || Cletus and Brandine’s children.
+| "[[Yokel Chords]]"
+| 2007-03-04
+|-
+| [[List of recurring The Simpsons characters#Incest Spuckler|Incest Spuckler]] || Dan Castellaneta || Cletus and Brandine’s children.
+| "[[Yokel Chords]]"
+| 2007-03-04
+|-
+| [[List of recurring The Simpsons characters#Jitney Spuckler|Jitney Spuckler]] || Pamela Hayden || Cletus and Brandine Spuckler’s children.
+| "[[Yokel Chords]]"
+| 2007-03-04
+|-
+| [[List of recurring The Simpsons characters#Whitney Spuckler|Whitney Spuckler]] || Tress MacNeille || Cletus Spuckler and Brandine Spuckler’s children.
+| "[[Yokel Chords]]"
+| 2007-03-04 
+|-
+| [[List of recurring The Simpsons characters#Squeaky-Voiced Teen|Squeaky-Voiced Teen]] || Dan Castellaneta<ref name=Gimple86/> || Service industry.
+| "[[Dog of Death]]"
+| 1991-02-14
+|-
+| {{sortname|Moe|Szyslak}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Owner of [[Moe's Tavern]].
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Drederick|Tatum|List of recurring The Simpsons characters#Drederick Tatum}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} and [[Jay Pharoah]]|| Professional boxer, a caricature of Mike Tyson.<ref name=thehomertheyfall>{{cite episode |title=Homer vs. Lisa and the 8th Commandment |episode-link=Flaming Moe's |series=The Simpsons |credits=Collier, Jonathan; Kirkland, Mark |network=Fox |air-date=21 November 1991 |season=3 |number=10}}</ref>
+| "[[Homer vs. Lisa and the 8th Commandment]]"
+| 1991-02-07
+|-
+| {{sortname|Allison|Taylor|List of recurring The Simpsons characters#Allison Taylor}} || [[Winona Ryder]], Pamela Hayden, Tress MacNeille || Student at Springfield Elementary School.
+| "[[Lisa's Rival]]"
+| 1994-09-11
+|-
+| {{sortname|Mr.|Teeny|List of recurring The Simpsons characters#Mr. Teeny}} || Dan Castellaneta<ref name=Gimple86/> || ''[[Media in The Simpsons#Krusty the Clown Show|The Krusty the Clown Show]]'' trained monkey.
+|"[[Like Father, Like Clown]]"
+| 1991-10-24
+|-
+| {{sortname|Johnny|Tightlips|Springfield Mafia#Johnny Tightlips}} || Hank Azaria<ref name=McCann116/> || One of Fat Tony's henchmen.<ref name=insaneclownpoppy>{{cite episode |title=Insane Clown Poppy |episode-link=Insane Clown Poppy |series=The Simpsons |credits=Frink, John and Don Payne; Anderson, Bob |network=Fox |air-date=29 April 2000 |season=12 |number=3}}</ref>
+| "[[Insane Clown Poppy]]"
+| 2000-11-12
+|-
+| {{sortname|Kirk|Van Houten|List of recurring The Simpsons characters#Kirk Van Houten}} || Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Milhouse Van Houten's father; factory worker.
+| "[[Bart's Friend Falls in Love]]"
+| 1992-05-07
+|-
+| {{sortname|Luann|Van Houten|List of recurring The Simpsons characters#Luann Van Houten}} || Maggie Roswell{{sfn|Richmond & Coffman|1997 |p=179}} || Kirk Van Houten's wife; Milhouse's mother. She loves hanging out with girls.
+| "[[Homer Defined]]"
+| 1991-10-17
+|-
+| {{sortname|Milhouse|Van Houten}} || Pamela Hayden{{sfn|Richmond & Coffman|1997 |p=179}} (1989–2025), Kelly MacLeod (2025–present) || Bart Simpson's best friend; Student at Springfield Elementary School. He and Bart became best friends when they are in kindergarten. He is very shy and he is often bullied by Nelson.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Police Chief Clancy|Wiggum|Chief Wiggum}} ||Hank Azaria{{sfn|Richmond & Coffman|1997 |p=178}} || Springfield Chief of Police.
+| "[[Homer's Odyssey (The Simpsons)|Homer's Odyssey]]"
+| 1990-01-21
+|-
+| {{sortname|Ralph|Wiggum}} || Nancy Cartwright{{sfn|Richmond & Coffman|1997 |p=178}} || Son of Police Chief Clancy Wiggum. He is shown to be playful and often giggles when he is having fun.
+| "[[Simpsons Roasting on an Open Fire]]"
+| 1989-12-17
+|-
+| {{sortname|Sarah|Wiggum|List of recurring The Simpsons characters#Sarah Wiggum}} || Pamela Hayden<ref name="Gimple87"/> and [[Megan Mullally]]|| Chief Wiggum's wife; Ralph Wiggum's mother.
+| "[[Duffless]]"
+| 1993-02-18
+|-
+| [[Groundskeeper Willie]] || Dan Castellaneta{{sfn|Richmond & Coffman|1997 |p=178}} || Janitor of Springfield Elementary School. He might be irritated, and once he dreams about him getting married.
+| "[[Principal Charming]]"
+| 1991-02-14
+|-
+| [[List of recurring The Simpsons characters#Wiseguy|Raphael]] || Hank Azaria<ref name=McCann116>McCann, p. 116</ref> || Service industry.
+| "[[The Way We Was]]"
+| 1991-01-31
+|-
+| {{sortname|Rainier|Wolfcastle (McBain)|List of recurring The Simpsons characters#Rainier Wolfcastle}} || Harry Shearer,{{sfn|Richmond & Coffman|1997 |p=179}} Hank Azaria || Actor; star of [[List of recurring The Simpsons characters#McBain|''McBain'' films]].
+| "[[The Way We Was]]"
+| 1991-01-31
+|-
+| {{sortname|Hubert|Wong|List of recurring The Simpsons characters#Hubert Wong}} || Tress MacNeille, Simu Liu (adult); Rosalie Chiang (child)  ||  Lisa's classmate and intellectual rival. In the future, he is shown to be married at Lisa.
+| "[[Treehouse of Horror XX]]"
+| 2009-10-18
+|-  |
+| {{sortname|The|Yes Guy|List of recurring The Simpsons characters#Yes Guy}}<ref name=McCann116/> || Dan Castellaneta<ref name=McCann116/> || Service industry.
+| "[[Mayored to the Mob]]"
+| 1998-12-20
+|-
+| {{sortname|Artie|Ziff|List of recurring The Simpsons characters#Artie Ziff}} || Jon Lovitz,{{sfn|Richmond & Coffman|1997 |p=47}} Dan Castellaneta<ref name=homerdefinedcommentary>{{cite video |people=Castellaneta, Dan; Gewirtz, Howard; Groening, Matt; Jean, Al; Kirkland, Mark; Reiss, Mike |title=The Simpsons: The Complete Third Season DVD Video Collector's Edition commentary for the episode "[[Homer Defined]]" |medium=DVD |publisher=Twentieth Century Fox}}</ref> || Former billionaire and Marge's prom date.<ref name=theziffwhocametodinner>{{cite episode |title=The Ziff Who Came to Dinner |episode-link=The Ziff Who Came to Dinner |series=The Simpsons |credits=Castellaneta, Dan and Deb Lacusta; Kruse, Nancy |network=Fox |air-date=14 March 2004 |season=15 |number=14}}</ref>
+| "[[The Way We Was]]"
+| 1991-01-31
+|-
+| {{sortname|Üter|Zörker|List of recurring The Simpsons characters#Üter Zörker}} || Russi Taylor (1993–2016), Grey DeLisle (2025–present){{sfn|Richmond & Coffman|1997 |p=179}} || Student at Springfield Elementary School.
+| "[[Treehouse of Horror IV]]"
+| 1993-10-28
+|-
+| {{sortname|Kearney|Zzyzwicz|List of recurring The Simpsons characters#Kearney Zzyzwicz}} || [[Nancy Cartwright]]{{sfn|Richmond & Coffman|1997 |p=178}} || Springfield Elementary School bully.
+| "[[The Telltale Head]]"
+| 1990-02-25
+|-
+|}
+
+== Appearances ==
+<blockquote class="toccolours" style="text- align:justify; float:center; padding: 5px 5px 5px 5px; display:table;">
+'''{{center|List indicators}}'''
+* {{legend|#ddffdd|A green cell indicates the character has a main role in that season.|text=M}}
+* {{legend|#ffe3e3|A red cell indicates the character has a recurring role in that season.{{Efn|group=upper-alpha|When referring to ''The Simpsons Movie'', a red cell indicates the character was present in the movie.}}|text=R}}
+* {{legend|#DAEBFF|A light blue cell indicates the character has a guest role in that season.{{efn|group=upper-alpha|A blue cell, with a 'V', indicates the character appears via voice only.}}|text=G}}
+* {{legend|#ececec|A light gray cell indicates the character did not appear in that season.}}
+* {{legend|#ececec|A light gray cell, with an 'O', indicates the character appears only in the [[The Simpsons opening sequence|opening sequence]] (including the [[couch gag]] and title screen).|text=O}}
+</blockquote>
+{{Sticky header}}{{Sort under}}
+{|class="wikitable sortable sticky-header-multi sort-under" style="text-align:center; width:auto"
+! scope="col" rowspan="2" | Character
+! colspan="37" scope="col" | Appearances
+|-
+! scope="col" style="width:2em;" | [[The Simpsons season 1|1]]
+! scope="col" style="width:2em;" | [[The Simpsons season 2|2]]
+! scope="col" style="width:2em;" | [[The Simpsons season 3|3]]
+! scope="col" style="width:2em;" | [[The Simpsons season 4|4]]
+! scope="col" style="width:2em;" | [[The Simpsons season 5|5]]
+! scope="col" style="width:2em;" | [[The Simpsons season 6|6]]
+! scope="col" style="width:2em;" | [[The Simpsons season 7|7]]
+! scope="col" style="width:2em;" | [[The Simpsons season 8|8]]
+! scope="col" style="width:2em;" | [[The Simpsons season 9|9]]
+! scope="col" style="width:2em;" | [[The Simpsons season 10|10]]
+! scope="col" style="width:2em;" | [[The Simpsons season 11|11]]
+! scope="col" style="width:2em;" | [[The Simpsons season 12|12]]
+! scope="col" style="width:2em;" | [[The Simpsons season 13|13]]
+! scope="col" style="width:2em;" | [[The Simpsons season 14|14]]
+! scope="col" style="width:2em;" | [[The Simpsons season 15|15]]
+! scope="col" style="width:2em;" | [[The Simpsons season 16|16]]
+! scope="col" style="width:2em;" | [[The Simpsons season 17|17]]
+! scope="col" style="width:2em;" | [[The Simpsons season 18|18]]
+! scope="col" style="width:2em;" | [[The Simpsons Movie|Mo]]
+! scope="col" style="width:2em;" | [[The Simpsons season 19|19]]
+! scope="col" style="width:2em;" | [[The Simpsons season 20|20]]
+! scope="col" style="width:2em;" | [[The Simpsons season 21|21]]
+! scope="col" style="width:2em;" | [[The Simpsons season 22|22]]
+! scope="col" style="width:2em;" | [[The Simpsons season 23|23]]
+! scope="col" style="width:2em;" | [[The Simpsons season 24|24]]
+! scope="col" style="width:2em;" | [[The Simpsons season 25|25]]
+! scope="col" style="width:2em;" | [[The Simpsons season 26|26]]
+! scope="col" style="width:2em;" | [[The Simpsons season 27|27]]
+! scope="col" style="width:2em;" | [[The Simpsons season 28|28]]
+! scope="col" style="width:2em;" | [[The Simpsons season 29|29]]
+! scope="col" style="width:2em;" | [[The Simpsons season 30|30]]
+! scope="col" style="width:2em;" | [[The Simpsons season 31|31]]
+! scope="col" style="width:2em;" | [[The Simpsons season 32|32]]
+! scope="col" style="width:2em;" | [[The Simpsons season 33|33]]
+! scope="col" style="width:2em;" | [[The Simpsons season 34|34]]
+! scope="col" style="width:2em;" | [[The Simpsons season 35|35]]
+! scope="col" style="width:2em;" | [[The Simpsons season 36|36]]
+|-
+! colspan="38" style="background-color:#ccccff;" | Main characters
+|-
+| [[Homer Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Marge Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Bart Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Lisa Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Maggie Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+! colspan="38" style="background-color:#ccccff;" | Major supporting characters
+|-
+| [[Grampa Simpson|Abraham Simpson]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Mr. Burns]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Waylon Smithers]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Ned Flanders]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Moe Szyslak]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Barney Gumble]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Milhouse Van Houten]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Patty and Selma|Patty Bouvier]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Patty and Selma|Selma Bouvier]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Edna Krabappel]]
+| colspan="26" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="6" {{CGuest|G}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Principal Skinner|Principal Seymour Skinner]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Krusty the Clown]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Martin Prince]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Apu Nahasapeemapetilon]]
+| colspan="35" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+|-
+| [[Chief Wiggum|Chief Clancy Wiggum]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Reverend Lovejoy|Reverend Timothy Lovejoy]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Otto Mann]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Lenny Leonard]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Carl Carlson]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Kent Brockman]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Nelson Muntz]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Ralph Wiggum]]
+| colspan="2" {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Dr. Hibbert|Dr. Julius Hibbert]]
+| {{CNone}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Mayor Quimby|Mayor Joe Quimby]]
+| {{CNone}}
+| colspan="9" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="26" {{CRecurring|R}}
+|-
+| [[Lionel Hutz]]
+| {{CNone}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="7" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Groundskeeper Willie]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Professor Frink|Professor Jonathan Frink]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| Snake Jailbird
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Comic Book Guy]]
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Fat Tony (The Simpsons)|Fat Tony]]
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+|-
+| [[Superintendent Gary Chalmers]]
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="32" {{CRecurring|R}}
+|-
+| [[Cletus Spuckler]]
+| colspan="4" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="31" {{CRecurring|R}}
+|-
+! colspan="38" style="background-color:#ccccff;" | Recurring characters
+|-
+| [[Jasper Beardsley]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Lou (The Simpsons)|Lou]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Eddie (The Simpsons)|Eddie]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Dr. Marvin Monroe]]
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="9" {{CNone|O}}
+| {{CGuest|G}}
+| colspan="3" {{CNone|O}}
+| {{CRecurring| }}
+| colspan="2" {{CNone|O}}
+| colspan="5" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Dewey Largo]]
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Sherri and Terri|Sherri & Terri]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Helen Lovejoy]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Jimbo Jones]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Kearney Zzyzwicz]]
+| colspan="2" {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Dolph Starbeam]]
+| colspan="2" {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Rod Flanders]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Todd Flanders]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Agnes Skinner]]
+| colspan="4" {{CGuest|G}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Old Jewish Man]]
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Herman Hermann]]
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+|-
+| [[Jacqueline Bouvier (Simpsons)|Jacqueline Bouvier]]
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="6" {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone|O}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+|-
+| [[Judge Roy Snyder]]
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| colspan="5" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Sideshow Bob]]
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="6" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="6" {{CGuest|G}}
+|-
+| [[Bleeding Gums Murphy]]
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="12" {{CNone|O}}
+| {{CNone}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CNone}}
+|-
+| [[Maude Flanders]]
+| {{CNone}}
+| colspan="10" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="4" {{CNone|O}}
+| {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Sideshow Mel]]
+| {{CNone}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Dr. Nick Riviera]]
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="13" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+|-
+| [[Troy McClure]]
+| {{CNone}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="12" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="4" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Elizabeth Hoover]]
+| {{CNone}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Rainier Wolfcastle]]
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="12" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="14" {{CRecurring|R}}
+|-
+| [[Wiseguy (The Simpsons)|Wise Guy]]
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="24" {{CRecurring|R}}
+|-
+| [[Hans Moleman]]
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Squeaky-Voiced Teen]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="29" {{CRecurring|R}}
+|-
+| [[Blue-Haired Lawyer]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="14" {{CRecurring|R}}
+|-
+| [[Drederick Tatum]]
+| {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| colspan="17" {{CRecurring|R}}
+|-
+| [[Kang & Kodos]]
+| {{CNone}}
+| colspan="9" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="5" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Mona Simpson (The Simpsons)|Mona Simpson]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="7" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Artie Ziff]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[The Itchy & Scratchy Show|Roger Meyers Jr.]]
+| {{CNone}}
+| colspan="8" {{CGuest|G}}
+| colspan="6" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Bernice Hibbert]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Alice Glick]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="11" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| colspan="7" {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[List of recurring The Simpsons characters#Akira Kurosawa|Akira Kurosawa]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CRecurring| }}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+|-
+| [[Luann Van Houten]]
+| colspan="2" {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Kirk Van Houten]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Lunchlady Doris]]
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="17" {{CRecurring|R}}
+|-
+| [[Arnie Pye]]
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Legs and Louie|Louie]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Legs and Louie|Legs]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Hyman Krustofski]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="9" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+|-
+| [[Sea Captain (The Simpsons)|Sea Captain]]
+| colspan="3" {{CNone}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Bumblebee Man]]
+| colspan="3" {{CNone}}
+| colspan="27" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+|-
+| [[Ruth Powers]]
+| colspan="3" {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Miss Springfield]]
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="2" {{CNone|O}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Sarah Wiggum]]
+| colspan="3" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="31" {{CRecurring|R}}
+|-
+| [[Luigi Risotto]]
+| colspan="4" {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="9" {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="10" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Rich Texan|The Rich Texan]]
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="10" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+|-
+| [[Baby Gerald]]
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+|-
+| [[Üter Zörker]]
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="5" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Database (The Simpsons)|Database]]
+| colspan="5" {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="12" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+|-
+| [[Brandine Spuckler]]
+| colspan="6" {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Disco Stu]]
+| colspan="6" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Manjula Nahasapeemapetilon]]
+| colspan="6" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="26" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+|-
+| [[Lindsey Naegle]]
+| colspan="7" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Gil Gunderson]]
+| colspan="8" {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="21" {{CRecurring|R}}
+|-
+| [[Crazy Cat Lady]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Duffman]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+|-
+| [[Cookie Kwan]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="17" {{CRecurring|R}}
+|-
+| [[List of recurring The Simpsons characters#The Vanderbilts|Mrs. Vanderbilt]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="6" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Yes Guy|The Yes Guy]]
+| colspan="9" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| colspan="9" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CRecurring|R}}
+|-
+| [[Mrs. Muntz]]
+| colspan="9" {{CNone}}
+| {{CGuest|V}}
+| colspan="4" {{CNone}}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="16" {{CRecurring|R}}
+|-
+| [[Johnny Tightlips]]
+| colspan="11" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Booberella]]
+| colspan="13" {{CNone}}
+| colspan="5" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Julio (The Simpsons)|Julio Franco]]
+| colspan="13" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+|-
+| [[Shauna Chalmers]]
+| colspan="19" {{CNone}}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="11" {{CRecurring|R}}
+|-
+| [[Kumiko Albertson]]
+| colspan="24" {{CNone}}
+| {{CGuest|G}}
+| colspan="12" {{CRecurring|R}}
+|-
+| [[Rayshelle Peyton]]
+| colspan="33" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+|-
+! colspan="38" style="background-color:#ccccff;" | Animals
+|-
+| [[Santa's Little Helper]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Snowball II]]
+| colspan="14" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="11" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+|-
+| [[Itchy & Scratchy]]
+| colspan="8" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+|-
+| [[Mr. Teeny]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="9" {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="10" {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+|-
+| [[Snowball V]]
+| colspan="14" {{CNone}}
+| colspan="23" {{CRecurring|R}}
+|}
+{{reflist|group=upper-alpha}}
+
+== References ==
+=== Citations ===
+{{reflist}}
+
+=== Bibliography ===
+{{refbegin}}
+*{{cite book |last=Gimple |first=Scott M. |title=[[The Simpsons Forever!: A Complete Guide to Our Favorite Family ...Continued|The Simpsons Forever! A Complete Guide to Our Favorite Family...Continued]] |year=1999 |publisher=Harper Collins Publishers |isbn=0-06-098763-4|ref=none}}
+*{{cite book |last=Groening |first=Matt |author-link=Matt Groening |editor1-first=Ray |editor1-last=Richmond |editor1-link=Ray Richmond |editor2-first=Antonia |editor2-last=Coffman |title=[[The Simpsons episode guides#The Simp us: A Complete Guide to Our Favorite Family|The Simpsons: A Complete Guide to Our Favorite Family]]  |edition=1st |year=1997 |location=New York |publisher=[[HarperPerennial]] |lccn=98141857 |ol=433519M |oclc=37796735 |isbn=978-0-06-095252-5 |ref={{harvid|Richmond & Coffman|1997}}}}
+*{{cite book |last=McCann |first=Jesse L. |title=[[The Simpsons Beyond Forever!: A Complete Guide to Our Favorite Family ...Still Continued|The Simpsons Beyond Forever! A Complete Guide to Our Favorite Family...Still Continued]] |year=2002 |publisher=Harper Collins Publishers |isbn=0-06-050592-3|ref=none}}
+{{refend}}
+
+{{The Simpsons}}
+
+{{Italic title|string=The Simpsons}}
+
+{{DEFAULTSORT:Simpsons Characters, List Of The}}
+[[Category:Lists of characters in American television animation by series]]
+[[Category:The Simpsons characters|*]]
+[[Category:The Simpsons lists]]
+[[Category:Characters created by Matt Groening|*]]
+[[Category:Lists of American sitcom television characters|Simpsons, The]]
+[[Category:Lists of characters in American television adult animation|Simpsons, The]]
+[[Category:Animated characters introduced in 1989]]
+[[Category:Television characters introduced in 1989]]

@@ -60,10 +60,39 @@ const PLATFORM_PAGES = [
   'List of best-selling Game Boy video games', 'List of best-selling PlayStation 3 video games', 'List of best-selling Xbox One video games',
   'List of best-selling PlayStation 5 video games', 'List of best-selling Nintendo 3DS video games', 'List of best-selling Game Boy Advance video games',
 ];
+// Copies sold in a sales cell: "{{nts|29.52}} million", "{{sort|410|41 million}}", "45,900,000",
+// or a plain number under a "(millions)" header.
+function salesOf(raw, millionsHeader) {
+  const text = raw.replace(/\{\{sort\|[^|}]*\|([^}]*)\}\}/gi, '$1').replace(/\{\{nts\|([^}|]*)[^}]*\}\}/gi, '$1')
+    .replace(/\{\{val\|([^}|]*)\|u=million\}\}/gi, '$1 million').replace(/\{\{nbsp\}\}/gi, ' ');
+  const m = plain(text).match(/([\d][\d,]*(?:\.\d+)?)\s*(million)?/i);
+  if (!m) return 0;
+  const n = Number(m[1].replace(/,/g, ''));
+  return m[2] || millionsHeader || n < 1000 ? n * 1e6 : n;
+}
+
 function platformGames(title) {
   const t = tables(title).find((x) => /^(Game|Title)$/.test(x.headers[0] || ''));
   if (!t) return [];
-  return t.rows.map((r) => entry(firstLink((r.find((c) => c.header) || r[0]).raw))).filter(Boolean);
+  // Rows drop cells at either end, so the sales cell is the first one after the title that reads as sales.
+  const looksLikeSales = (raw) => /\{\{(nts|val|sort)\||million|\d{1,3}(,\d{3}){2}/i.test(raw);
+  // Indented rows ({{in5}}) are parts of the game above (the Generation I Pokémon games), not extra sales.
+  return t.rows.filter((r) => !/\{\{in5\}\}/.test(r[0].raw)).map((r) => {
+    const titleAt = Math.max(0, r.findIndex((c) => c.header));
+    const e = entry(firstLink(r[titleAt].raw));
+    const cell = r.slice(titleAt + 1).find((c) => looksLikeSales(c.raw));
+    return e ? { ...e, sales: cell ? salesOf(cell.raw, false) : 0 } : null;
+  }).filter(Boolean);
+}
+
+// The overall chart: the title is the row header, copies sold (millions) the next cell.
+function topSellers() {
+  const t = tables('List of best-selling video games')[0];
+  return t.rows.map((r) => {
+    const h = r.findIndex((c) => c.header);
+    const e = h >= 0 ? entry(firstLink(r[h].raw)) : null;
+    return e ? { ...e, total: salesOf(r[h + 1] ? r[h + 1].raw : '', true) } : null;
+  }).filter(Boolean);
 }
 
 // FIFA codes on the World Cup appearances table. Former teams count for the successor FIFA names.
@@ -97,13 +126,187 @@ function leagueClubs(title) {
 // Ranked by the 2025 estimate, as the table is.
 const usCities = () => tables('List of United States cities by population')[1].rows.filter((r) => !r[0].header).map((r) => entry(firstLink(r[0].raw))).filter(Boolean);
 
+
+// "Black, Sirius" (a list's surname-first text) becomes "Sirius Black".
+const firstLast = (t) => (/^[^,]+, [^,]+$/.test(t) ? t.split(', ').reverse().join(' ') : t);
+// Every person link in a cell, for cells that hold several names.
+function linksIn(raw) {
+  const out = [];
+  const re = /\{\{sortname\|([^|}]+)\|([^|}]+)(?:\|([^|}]+))?[^}]*\}\}|\[\[(?!File:|Image:|Category:)([^\]|#]+)(?:\|([^\]]+))?\]\]/g;
+  let m;
+  while ((m = re.exec(raw))) {
+    // {{sortname|Tenzin|Gyatso (The 14th Dalai Lama)|14th Dalai Lama}}: the name without its note.
+    if (m[1]) out.push({ label: `${m[1]} ${m[2].replace(/\s*\([^)]*\)/, '')}`.trim(), title: (m[3] || `${m[1]} ${m[2]}`).trim() });
+    else out.push({ label: tidy(plain(m[5] || m[4])), title: m[4].trim() });
+  }
+  return out;
+}
+// Every footballer on any football list: real players for the "just not on this list" line.
+const footballers = () => ['caps-100', 'world-cup-winners', 'ballon-dor-podium', 'world-cup-scorers'].flatMap((id) => LISTS[id].answers());
+const notYear = (e) => e && !/^\d{4}( |$)|Award|Prize|Games|Cup|Olympics|^List of/.test(e.title);
+
 export const LISTS = {
+  'caps-100': {
+    pages: ["List of men's footballers with 100 or more international caps"],
+    year: 2026,
+    outside: footballers,
+    answers() {
+      const t = tables("List of men's footballers with 100 or more international caps")[1];
+      const col = colIndex(t, /^Player/);
+      return uniq(t.rows.map((r) => entry(firstLink((cellAt(r, t.headers, col) || r[0]).raw))).filter(notYear));
+    },
+  },
+  'world-cup-winners': {
+    pages: ['List of FIFA World Cup winning players'],
+    year: 2026,
+    outside: footballers,
+    answers() {
+      return uniq(rowHeaders(tables('List of FIFA World Cup winning players')[0]));
+    },
+  },
+  'ballon-dor-podium': {
+    pages: ["Ballon d'Or"],
+    year: 2025,
+    outside: footballers,
+    answers() {
+      // Each year's table rows: rank (1st, 2nd, 3rd), then the player.
+      const out = [];
+      for (const t of tables("Ballon d'Or").slice(0, 3)) {
+        for (const r of t.rows) {
+          const k = r.findIndex((c) => /^(1st|2nd|3rd)\b/.test(plain(c.raw)));
+          if (k >= 0 && r[k + 1]) out.push(entry(firstLink(r[k + 1].raw)));
+        }
+      }
+      return uniq(out.filter(notYear));
+    },
+  },
+  'world-cup-scorers': {
+    pages: ['List of FIFA World Cup top goalscorers'],
+    year: 2026,
+    outside: footballers,
+    answers() {
+      // Tied ranks share a cell, so the player is the first cell with a link that is not a flag.
+      const t = tables('List of FIFA World Cup top goalscorers')[2];
+      return uniq(t.rows.map((r) => {
+        const c = r.find((x) => !/^\{\{fb\|/.test(x.raw) && firstLink(x.raw));
+        return c ? entry(firstLink(c.raw)) : null;
+      }).filter(notYear));
+    },
+    // The smallest goal count on the table, for the rules line.
+    minGoals() {
+      const t = tables('List of FIFA World Cup top goalscorers')[2];
+      // Goals sit in the first header cell of each row ("!22").
+      return Math.min(...t.rows.map((r) => Number(plain((r.find((c) => c.header) || { raw: '' }).raw))).filter((n) => n > 0));
+    },
+  },
+  'nba-all-stars': {
+    pages: ['List of NBA All-Stars'],
+    year: 2026,
+    answers() {
+      return uniq(column(tables('List of NBA All-Stars')[1], 0));
+    },
+  },
+  'rock-hall': {
+    pages: ['List of Rock and Roll Hall of Fame inductees'],
+    year: 2025,
+    answers() {
+      // Performers: the name is the cell after the photo, or the first linked cell that is not a year.
+      const t = tables('List of Rock and Roll Hall of Fame inductees')[0];
+      return uniq(t.rows.map((r) => {
+        const pic = r.findIndex((c) => /^\[\[File:/.test(c.raw));
+        const cell = pic >= 0 ? r[pic + 1] : r.find((c) => !/^\d{4}$/.test(plain(c.raw)) && firstLink(c.raw));
+        return cell ? entry(firstLink(cell.raw)) : null;
+      }).filter(notYear));
+    },
+  },
+  'emmy-series': {
+    pages: ['List of Primetime Emmy Award winners'],
+    year: 2025,
+    answers() {
+      // The comedy and drama series columns; one row per year.
+      const t = tables('List of Primetime Emmy Award winners')[0];
+      const out = [];
+      for (const r of t.rows) {
+        const h = r.findIndex((c) => c.header);
+        for (const c of [r[h + 1], r[h + 2]]) {
+          if (!c) continue;
+          const m = c.raw.match(/''\[\[([^\]|]+)(?:\|([^\]]+))?\]\]''/);
+          if (m) out.push({ label: tidy(plain(m[2] || m[1])), title: m[1] });
+        }
+      }
+      return uniq(out);
+    },
+  },
+  'best-selling-authors': {
+    pages: ['List of best-selling fiction authors'],
+    year: 2026,
+    answers() {
+      return uniq(column(tables('List of best-selling fiction authors')[0], 0));
+    },
+  },
+  nobel: {
+    pages: ['List of Nobel laureates'],
+    year: 2025,
+    answers() {
+      const t = tables('List of Nobel laureates')[0];
+      const out = [];
+      // A full row lines up with the headers, so each name knows its prize.
+      const prize = (k) => (t.headers[k] || '').replace(/Physiologyor Medicine/, 'Physiology or Medicine').replace(/Economic.*/, 'Economics');
+      for (const r of t.rows) r.forEach((c, k) => { if (!c.header) out.push(...linksIn(c.raw).map((e) => ({ ...e, from: r.length === t.headers.length ? prize(k) : undefined }))); });
+      return uniq(out.filter(notYear).filter((e) => !/^(None|Not awarded)/i.test(e.label)));
+    },
+  },
+  'car-brands': {
+    pages: ['List of car brands'],
+    year: 2026,
+    answers() {
+      // Bullets under each country's Active and Former headings.
+      const text = stripRefs(page('List of car brands'));
+      const body = text.slice(0, text.search(/==\s*See also/));
+      let status = '';
+      const out = [];
+      for (const l of body.split('\n')) {
+        const h = l.match(/^===\s*(Active|Former)/);
+        if (h) { status = h[1]; continue; }
+        if (/^==[^=]/.test(l)) status = '';
+        if (status && /^\*\s*\[\[/.test(l)) { const e = entry(firstLink(l)); if (e) out.push({ ...e, from: status }); }
+      }
+      return uniq(out);
+    },
+  },
+  'simpsons-characters': {
+    pages: ['List of The Simpsons characters'],
+    year: 2026,
+    answers() {
+      return uniq(column(tables('List of The Simpsons characters')[0], 0));
+    },
+  },
+  'harry-potter-characters': {
+    pages: ['List of Harry Potter characters'],
+    year: 2026,
+    answers() {
+      // "* {{va|Hannah Abbott|text=Abbott, Hannah}} – ..." or "* [[Sirius Black|Black, Sirius]] – ...".
+      const text = stripRefs(page('List of Harry Potter characters'));
+      const body = text.slice(text.indexOf('==Characters by surname'), text.search(/==\s*See also/));
+      const out = [];
+      for (const l of body.split('\n')) {
+        if (!/^\*\s/.test(l)) continue;
+        const va = l.match(/^\*\s*\{\{va\|([^|}]+)/);
+        if (va) { out.push({ label: va[1].trim(), title: null }); continue; }
+        const link = firstLink(l.split(' – ')[0]);
+        if (link) out.push({ label: firstLast(link.text), title: link.title });
+      }
+      return uniq(out);
+    },
+  },
+
   'best-selling-games': {
     pages: ['List of best-selling video games', ...PLATFORM_PAGES, 'List of video games considered the best'],
     year: 2026,
+    // Every chart entry with its sales; the build adds platforms up per game and keeps the top.
+    rank: { by: 'sales', top: 200 },
     answers() {
-      const top = rowHeaders(tables('List of best-selling video games')[0]);
-      return uniq([...top, ...PLATFORM_PAGES.flatMap(platformGames)]);
+      return [...topSellers(), ...PLATFORM_PAGES.flatMap(platformGames)];
     },
     outside() {
       return LISTS['classic-games'].answers();
@@ -123,13 +326,12 @@ export const LISTS = {
     year: 2026,
     answers() {
       const world = rowHeaders(tables('List of highest-grossing films')[0]);
-      const t = tables('List of highest-grossing films in the United States and Canada')[0];
-      return uniq([...world, ...column(t, colIndex(t, /^Title/))]);
+      const us = tables('List of highest-grossing films in the United States and Canada');
+      return uniq([...world, ...column(us[0], colIndex(us[0], /^Title/)), ...column(us[1], colIndex(us[1], /^Title/))]);
     },
     outside() {
-      const t = tables('List of highest-grossing films in the United States and Canada')[1];
       const yearly = tables('List of highest-grossing films')[2];
-      return [...column(t, colIndex(t, /^Title/)), ...column(yearly, colIndex(yearly, /^Title/))];
+      return [...column(yearly, colIndex(yearly, /^Title/)), ...LISTS['animated-studios'].answers()];
     },
   },
   'animated-studios': {

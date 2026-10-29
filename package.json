@@ -17,7 +17,8 @@
     "cards": "node tools/cards-shots.cjs screenshots",
     "lint": "eslint .",
     "latency": "node tests/e2e-latency.cjs",
-    "false-accepts": "node tools/false-accepts.mjs"
+    "false-accepts": "node tools/false-accepts.mjs",
+    "completeness": "node tools/completeness.mjs"
   },
   "devDependencies": {
     "eslint": "^9.39.1",

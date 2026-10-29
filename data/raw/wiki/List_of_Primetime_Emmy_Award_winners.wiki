@@ -1,0 +1,579 @@
+{{Short description|None}}
+{{one source|date=September 2026}}
+{{Use mdy dates|date=April 2025}}
+This list showcases the '''Primetime Emmy Award winners''' in the comedy program, drama program, variety program, and lead actors categories.
+
+In the early days of the [[Primetime Emmy Awards]], categories awarded by the [[Academy of Television Arts & Sciences]] changed year-to-year, causing irregularities in the continuity of the listed awards.
+
+For several years, in the late 1950s and early 1960s, the Academy did not differentiate between comedy and dramas in the individual performance categories, issuing only a catch-all "Best Continuing Performance" or "Outstanding (Actor/Actress) in a Series".
+
+During the mid-1950s, the Academy split Outstanding Drama into several categories, including "One Hour or More", "Half Hour or Less", and "Western or Adventure Series". Each winner is indicated below.
+
+In 1965, Academy President [[Rod Serling]] initiated "Area Awards" that narrowed the categories to a select few and allowed for multiple winners in an attempt to foster less competition in favor of more programs and individuals receiving credit for their work. The experiment lasted for only one awards season.
+
+{| class="wikitable sortable" style="font-size:1.00em; line-height:1.5em;"
+|-
+! Year
+! [[Primetime Emmy Award for Outstanding Comedy Series|Comedy]]
+! [[Primetime Emmy Award for Outstanding Drama Series|Drama]]
+! [[Primetime Emmy Award for Outstanding Variety Series|Variety]]
+! [[Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series|Lead Comedy Actor]]
+! [[Primetime Emmy Award for Outstanding Lead Actor in a Drama Series|Lead Drama Actor]]
+! [[Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series|Lead Comedy Actress]]
+! [[Primetime Emmy Award for Outstanding Lead Actress in a Drama Series|Lead Drama Actress]]
+|-
+! [[1st Primetime Emmy Awards|1949]]
+| colspan="3" | {{small|''[[Pantomime Quiz]]'' (Most Popular Television Program)<br> (KTLA)<br> ''[[The Necklace]]'' (Best Film Made for Television)<br> (''[[Your Show Time]]'' series)}}
+| colspan="4" | [[Shirley Dinsdale]] {{small|(Most Outstanding Television Personality)}}<br> (KTLA)
+|-
+! [[2nd Primetime Emmy Awards|1950]]
+| colspan="2" | ''[[Texaco Star Theatre]]'' <br> (KNBH)
+| ''[[The Ed Wynn Show]]'' <br> (KTTV)
+| colspan="4" | {{small|[[Milton Berle]] (Most Outstanding Kinescoped Personality)<br> (KNBH)<br> [[Ed Wynn]] (Most Outstanding Live Personality)<br> (KTTV)}}
+|-
+! [[3rd Primetime Emmy Awards|1951]]
+| colspan="2" | ''[[Pulitzer Prize Playhouse]]'' <br> (ABC)
+| ''[[The Alan Young Show]]'' <br> (CBS)
+| colspan="2" | [[Alan Young]] <br> (CBS)
+| colspan="2" | [[Gertrude Berg]] <br> (CBS)
+|-
+! [[4th Primetime Emmy Awards|1952]]
+| ''[[The Red Skelton Show]]'' <br> (CBS)
+| ''[[Westinghouse Studio One|Studio One]]'' <br> (CBS)
+| rowspan="2" | ''[[Your Show of Shows]]'' <br> (NBC)
+| [[Red Skelton]] <br> (NBC)
+| [[Sid Caesar]] <br> (NBC)
+| colspan="2" | [[Imogene Coca]] <br> (NBC)
+|-
+! [[5th Primetime Emmy Awards|1953]]
+| rowspan="2" | ''[[I Love Lucy]]'' <br> (CBS)
+| ''[[Robert Montgomery Presents]]'' <br> (NBC)
+| [[Jimmy Durante]] <br> (NBC)
+| [[Thomas Mitchell (actor)|Thomas Mitchell]]
+| [[Lucille Ball]] <br> (CBS)
+| [[Helen Hayes]]
+|-
+! [[6th Primetime Emmy Awards|1954]]
+| {{small|''[[The United States Steel Hour|The U.S. Steel Hour]]'' <br> (ABC)<br> ''[[Dragnet (franchise)|Dragnet]]'' <br> (NBC)}}
+| ''[[Omnibus (American TV series)|Omnibus]]'' <br> (CBS)
+| colspan="2" | [[Donald O'Connor]] <br> ''[[The Colgate Comedy Hour]]'' <br> (NBC)
+| colspan="2" | [[Eve Arden]] <br> ''[[Our Miss Brooks]]'' <br> (CBS)
+|-
+! [[7th Primetime Emmy Awards|1955]]
+| ''[[The Danny Thomas Show|Make Room for Daddy]]'' <br> (ABC)
+| {{small|''[[The United States Steel Hour|The U.S. Steel Hour]]'' <br> (ABC)<br> ''[[Dragnet (franchise)|Dragnet]]'' <br> (NBC)<br> ''[[Stories of the Century]]'' <br> (Syndicated)}}
+| ''[[Walt Disney anthology television series|Walt Disney's Disneyland]]'' <br> (ABC)
+| colspan="2" | [[Danny Thomas]] <br> ''[[The Danny Thomas Show|Make Room for Daddy]]'' <br> (ABC)
+| colspan="2" | [[Loretta Young]] <br> ''[[Letter to Loretta|The Loretta Young Show]]'' <br> (NBC)
+|-
+! [[8th Primetime Emmy Awards|1956]]
+| rowspan="3" | ''[[The Phil Silvers Show]]'' <br> (CBS)
+| ''[[Producers' Showcase]]'' <br> (NBC)
+| ''[[The Ed Sullivan Show|Toast of the Town]]'' <br> (CBS)
+| colspan="2" | [[Phil Silvers]] <br> ''[[The Phil Silvers Show]]'' <br> (CBS)
+| colspan="2" | [[Lucille Ball]] <br> ''[[I Love Lucy]]'' <br> (CBS)
+|-
+! [[9th Primetime Emmy Awards|1957]]
+| ''[[Playhouse 90]]'' <br> (CBS)
+| {{N/A}}
+| [[Sid Caesar]] <br> ''[[Caesar's Hour]]'' <br> (NBC)
+| [[Robert Young (actor)|Robert Young]] <br> ''[[Father Knows Best]]'' <br> (CBS)
+| [[Nanette Fabray]] <br> ''[[Caesar's Hour]]'' <br> (NBC)
+| [[Loretta Young]] <br> ''[[Letter to Loretta|The Loretta Young Show]]'' <br> (NBC)
+|-
+! [[10th Primetime Emmy Awards|1958]]
+| {{small|''[[Gunsmoke]]'' <br> (CBS)<br> ''[[Playhouse 90]]'' <br> (CBS)}}
+| ''[[The Dinah Shore Chevy Show]]'' <br> (NBC)
+| colspan="2" | [[Robert Young (actor)|Robert Young]] <br> ''[[Father Knows Best]]'' <br> (CBS)
+| colspan="2" | [[Jane Wyatt]] <br> ''[[Father Knows Best]]'' <br> (CBS)
+|-
+! [[11th Primetime Emmy Awards|1959]]
+| ''[[The Jack Benny Program]]'' <br> (CBS)
+| {{small|''[[The Alcoa Hour]]'' / ''[[Goodyear Television Playhouse]]'' <br> (NBC)<br> ''[[Playhouse 90]]'' <br> (CBS)<br> ''[[Maverick (TV series)|Maverick]]'' <br> (ABC)}}
+| ''[[The Dinah Shore Chevy Show]]'' <br> (NBC)
+| [[Jack Benny]] <br> ''[[The Jack Benny Program]]'' <br> (CBS)
+| [[Raymond Burr]] <br> ''[[Perry Mason (1957 TV series)|Perry Mason]]'' <br> (CBS)
+| [[Jane Wyatt]] <br> ''[[Father Knows Best]]'' <br> (CBS)
+| [[Loretta Young]] <br> ''[[Letter to Loretta|The Loretta Young Show]]'' <br> (NBC)
+|-
+! [[12th Primetime Emmy Awards|1960]]
+| ''[[Art Carney Special]]'' <br> (NBC)
+| ''[[Playhouse 90]]'' <br> (CBS)
+| ''[[The Garry Moore Show]]'' <br> (CBS)
+| colspan="2" | [[Robert Stack]] <br> ''[[The Untouchables (1959 TV series)|The Untouchables]]'' <br> (ABC)
+| colspan="2" | [[Jane Wyatt]] <br> ''[[Father Knows Best]]'' <br> (CBS)
+|-
+! [[13th Primetime Emmy Awards|1961]]
+| ''[[The Jack Benny Program]]'' <br> (CBS)
+| ''[[Macbeth (Hallmark Hall of Fame 1960)|Macbeth]]'' <br> (''[[Hallmark Hall of Fame]]'')<br> (NBC)
+| ''Astaire Time'' <br> (NBC)
+| colspan="2" | [[Raymond Burr]] <br> ''[[Perry Mason (1957 TV series)|Perry Mason]]'' <br> (CBS)
+| colspan="2" | [[Barbara Stanwyck]] <br> ''[[The Barbara Stanwyck Show]]'' <br> (NBC)
+|-
+! [[14th Primetime Emmy Awards|1962]]
+| ''[[The Bob Newhart Show (1961 TV series)|The Bob Newhart Show]]'' <br> (NBC)
+| rowspan="3" | ''[[The Defenders (1961 TV series)|The Defenders]]'' <br> (CBS)
+| ''[[The Garry Moore Show]]'' <br> (CBS)
+| colspan="2" rowspan="2" | [[E. G. Marshall]] <br> ''[[The Defenders (1961 TV series)|The Defenders]]'' <br> (CBS)
+| colspan="2" rowspan="2" | [[Shirley Booth]] <br> ''[[Hazel (TV series)|Hazel]]'' <br> (NBC)
+|-
+! [[15th Primetime Emmy Awards|1963]]
+| rowspan="2" | ''[[The Dick Van Dyke Show]]'' <br> (CBS)
+| ''[[The Andy Williams Show]]'' <br> (NBC)
+|-
+! [[16th Primetime Emmy Awards|1964]]
+| ''[[The Danny Kaye Show]]'' <br> (CBS)
+| colspan="2" | [[Dick Van Dyke]] <br> ''[[The Dick Van Dyke Show]]'' <br> (CBS)
+| colspan="2" | [[Mary Tyler Moore]] <br> ''[[The Dick Van Dyke Show]]'' <br> (CBS)
+|-
+! [[17th Primetime Emmy Awards|1965]]
+| colspan="3" | ''four winners''{{efn|''[[The Dick Van Dyke Show]]'' (CBS), ''[[Hallmark Hall of Fame]]'': "[[The Magnificent Yankee (1965 film)|The Magnificent Yankee]]" (NBC), ''[[My Name Is Barbra (TV program)|My Name Is Barbra]]'' (CBS), ''[[Young People's Concerts#Leonard Bernstein on CBS (1958–72)|New York Philharmonic Young People's Concerts]]'': "What Is Sonata Form?" (CBS)}} <br> (Program Achievements in Entertainment)
+| colspan="4" | ''five winners''{{efn|[[Leonard Bernstein]] – ''[[Young People's Concerts#Leonard Bernstein on CBS (1958–72)|New York Philharmonic Young People's Concerts]]'' (CBS), [[Lynn Fontanne]] – ''[[Hallmark Hall of Fame]]'': "[[The Magnificent Yankee (1965 film)|The Magnificent Yankee]]" (NBC), [[Alfred Lunt]] – ''Hallmark Hall of Fame'': "The Magnificent Yankee" (NBC), [[Barbra Streisand]] – ''[[My Name Is Barbra (TV program)|My Name Is Barbra]]'' (CBS), [[Dick Van Dyke]] – ''[[The Dick Van Dyke Show]]'' (CBS)}} <br> (Individual Achievements in Entertainment – Actors and Performers)
+|-
+! [[18th Primetime Emmy Awards|1966]]
+| ''[[The Dick Van Dyke Show]]'' <br> (CBS)
+| ''[[The Fugitive (1963 TV series)|The Fugitive]]'' <br> (ABC)
+| rowspan="2" | ''[[The Andy Williams Show]]'' <br> (NBC)
+| [[Dick Van Dyke]] <br> ''[[The Dick Van Dyke Show]]'' <br> (CBS)
+| rowspan="3" | [[Bill Cosby]] <br> ''[[I Spy (1965 TV series)|I Spy]]'' <br> (NBC)
+| [[Mary Tyler Moore]] <br> ''[[The Dick Van Dyke Show]]'' <br> (CBS)
+| [[Barbara Stanwyck]] <br> ''[[The Big Valley]]'' <br> (ABC)
+|-
+! [[19th Primetime Emmy Awards|1967]]
+| ''[[The Monkees (TV series)|The Monkees]]'' <br> (NBC)
+| rowspan="2" | ''[[Mission: Impossible (1966 TV series)|Mission: Impossible]]'' <br> (CBS)
+| rowspan="3" | [[Don Adams]] <br> ''[[Get Smart]]'' <br> (NBC)
+| rowspan="2" | [[Lucille Ball]] <br> ''[[The Lucy Show]]'' <br> (CBS)
+| rowspan="3" | [[Barbara Bain]] <br> ''[[Mission: Impossible (1966 TV series)|Mission: Impossible]]'' <br> (CBS)
+|-
+! [[20th Primetime Emmy Awards|1968]]
+| rowspan="2" | ''[[Get Smart]]'' <br> (NBC)
+| rowspan="2" | ''[[Rowan & Martin's Laugh-In]]'' <br> (NBC)
+|-
+! [[21st Primetime Emmy Awards|1969]]
+| ''[[NET Playhouse]]'' <br> (NET)
+| [[Carl Betz]] <br> ''[[Judd for the Defense]]'' <br> (ABC)
+| rowspan="2" | [[Hope Lange]] <br> ''[[The Ghost & Mrs. Muir (TV series)|The Ghost & Mrs. Muir]]'' <br> (ABC)
+|-
+! [[22nd Primetime Emmy Awards|1970]]
+| ''[[My World and Welcome to It]]'' <br> (NBC)
+| ''[[Marcus Welby, M.D.]]'' <br> (ABC)
+| ''The [[David Frost]] Show'' <br> (Syndicated)
+| [[William Windom (actor)|William Windom]] <br> ''[[My World and Welcome to It]]'' <br> (NBC)
+| [[Robert Young (actor)|Robert Young]] <br> ''[[Marcus Welby, M.D.]]'' <br> (ABC)
+| [[Susan Hampshire]] <br> ''[[The Forsyte Saga (1967 TV series)|The Forsyte Saga]]'' <br> (NET)
+|-
+! [[23rd Primetime Emmy Awards|1971]]
+| rowspan="3" | ''[[All in the Family]]'' <br> (CBS)
+| ''[[The Bold Ones]]: The Senator'' <br> (NBC)
+| ''Singer Presents Burt Bacharach'' <br> (CBS)
+| [[Jack Klugman]] <br> ''[[The Odd Couple (1970 TV series)|The Odd Couple]]'' <br> (ABC)
+| [[Hal Holbrook]] <br> ''[[The Bold Ones]]: The Senator'' <br> (NBC)
+| rowspan="2" | [[Jean Stapleton]] <br> ''[[All in the Family]]'' <br> (CBS)
+| [[Susan Hampshire]] <br> ''[[The First Churchills]]'' <br> (''[[Masterpiece (TV series)|Masterpiece Theatre]]'')<br> (PBS)
+|-
+! [[24th Primetime Emmy Awards|1972]]
+| ''[[Elizabeth R]]'' <br> (''[[Masterpiece (TV series)|Masterpiece Theatre]]'')<br> (PBS)
+| ''[[The Carol Burnett Show]]'' <br> (CBS)
+| [[Carroll O'Connor]] <br> ''[[All in the Family]]'' <br> (CBS)
+| [[Peter Falk]] <br> ''[[Columbo]]'' <br> (NBC)
+| [[Glenda Jackson]] <br> ''[[Elizabeth R]]'' <br> (''[[Masterpiece (TV series)|Masterpiece Theatre]]'')<br> (PBS)
+|-
+! [[25th Primetime Emmy Awards|1973]]
+| ''[[The Waltons]]'' <br> (CBS)
+| ''[[The Julie Andrews Hour]]'' <br> (ABC)
+| [[Jack Klugman]] <br> ''[[The Odd Couple (1970 TV series)|The Odd Couple]]'' <br> (ABC)
+| [[Richard Thomas (actor)|Richard Thomas]] <br> ''[[The Waltons]]'' <br> (CBS)
+| rowspan="2" | [[Mary Tyler Moore]] <br> ''[[The Mary Tyler Moore Show]]'' <br> (CBS)
+| rowspan="2" | [[Michael Learned]] <br> ''[[The Waltons]]'' <br> (CBS)
+|-
+! [[26th Primetime Emmy Awards|1974]]
+| ''[[M*A*S*H (TV series)|M*A*S*H]]'' <br> (CBS)
+| rowspan="2" | ''[[Upstairs, Downstairs (1971 TV series)|Upstairs, Downstairs]] <br> ([[Masterpiece (TV series)|Masterpiece Theatre]])'' <br> (PBS)
+| rowspan="2" | ''[[The Carol Burnett Show]] <br> (CBS)''
+| [[Alan Alda]] <br> ''[[M*A*S*H (TV series)|M*A*S*H]]'' <br> (CBS)
+| [[Telly Savalas]] <br> ''[[Kojak]]'' <br> (CBS)
+|-
+! [[27th Primetime Emmy Awards|1975]]
+| rowspan="3" | ''[[The Mary Tyler Moore Show]]'' <br> (CBS)
+| [[Tony Randall]] <br> ''[[The Odd Couple (1970 TV series)|The Odd Couple]]'' <br> (ABC)
+| [[Robert Blake (actor)|Robert Blake]] <br> ''[[Baretta]]'' <br> (ABC)
+| [[Valerie Harper]] <br> ''[[Rhoda]]'' <br> (CBS)
+| [[Jean Marsh]] <br> ''[[Upstairs, Downstairs (1971 TV series)|Upstairs, Downstairs]]'' <br> (''[[Masterpiece (TV series)|Masterpiece Theatre]]'')<br> (PBS)
+|-
+! [[28th Primetime Emmy Awards|1976]]
+| ''[[Police Story (1973 TV series)|Police Story]]'' <br> (NBC)
+| ''[[Saturday Night Live]]'' <br> (NBC)
+| [[Jack Albertson]] <br> ''[[Chico and the Man]]'' <br> (NBC)
+| [[Peter Falk]] <br> ''[[Columbo]]'' <br> (NBC)
+| [[Mary Tyler Moore]] <br> ''[[The Mary Tyler Moore Show]]'' <br> (CBS)
+| [[Michael Learned]] <br> ''[[The Waltons]]'' <br> (CBS)
+|-
+! [[29th Primetime Emmy Awards|1977]]
+| ''[[Upstairs, Downstairs (1971 TV series)|Upstairs, Downstairs]]'' <br> (''[[Masterpiece (TV series)|Masterpiece Theatre]]'')<br> (PBS)
+| ''Van Dyke and Company'' <br> (NBC)
+| rowspan="3" | [[Carroll O'Connor]] <br> ''[[All in the Family]]'' <br> (CBS)
+| [[James Garner]] <br> ''[[The Rockford Files]]'' <br> (NBC)
+| [[Bea Arthur]] <br> ''[[Maude (TV series)|Maude]]'' <br> (CBS)
+| [[Lindsay Wagner]] <br> ''[[The Bionic Woman]]'' <br> (ABC)
+|-
+! [[30th Primetime Emmy Awards|1978]]
+| ''[[All in the Family]]'' <br> (CBS)
+| ''[[The Rockford Files]]'' <br> (NBC)
+| ''[[The Muppet Show]]'' <br> (Syndicated)
+| [[Ed Asner]] <br> ''[[Lou Grant (TV series)|Lou Grant]]'' <br> (CBS)
+| [[Jean Stapleton]] <br> ''[[All in the Family]]'' <br> (CBS)
+| [[Sada Thompson]] <br> ''[[Family (1976 TV series)|Family]]'' <br> (ABC)
+|-
+! [[31st Primetime Emmy Awards|1979]]
+| rowspan="3" | ''[[Taxi (TV series)|Taxi]]'' <br> (ABC)
+| rowspan="2" | ''[[Lou Grant (TV series)|Lou Grant]]'' <br> (CBS)
+| ''Steve & Eydie Celebrate Irving Berlin'' <br> (NBC)
+| [[Ron Leibman]] <br> ''[[Kaz (TV series)|Kaz]]'' <br> (CBS)
+| [[Ruth Gordon]] <br> ''[[Taxi (TV series)|Taxi]]'' <br> (ABC)
+| [[Mariette Hartley]] <br> ''[[The Incredible Hulk (1978 TV series)|The Incredible Hulk]]'' <br> (CBS)
+|-
+! [[32nd Primetime Emmy Awards|1980]]
+| ''Baryshnikov on Broadway'' <br> (ABC)
+| [[Richard Mulligan]] <br> ''[[Soap (TV series)|Soap]]'' <br> (ABC)
+| [[Ed Asner]] <br> ''[[Lou Grant (TV series)|Lou Grant]]'' <br> (CBS)
+| [[Cathryn Damon]] <br> ''[[Soap (TV series)|Soap]]'' <br> (ABC)
+| [[Barbara Bel Geddes]] <br> ''[[Dallas (TV series)|Dallas]]'' <br> (CBS)
+|-
+! [[33rd Primetime Emmy Awards|1981]]
+| rowspan="4" | ''[[Hill Street Blues]]'' <br> (NBC)
+| ''Lily: Sold Out'' <br> (CBS)
+| [[Judd Hirsch]] <br> ''[[Taxi (TV series)|Taxi]]'' <br> (ABC)
+| rowspan="2" | [[Daniel J. Travanti]] <br> ''[[Hill Street Blues]]'' <br> (NBC)
+| [[Isabel Sanford]] <br> ''[[The Jeffersons]]'' <br> (CBS)
+| [[Barbara Babcock]] <br> ''[[Hill Street Blues]]'' <br> (NBC)
+|-
+! [[34th Primetime Emmy Awards|1982]]
+| ''[[Barney Miller]]'' <br> (ABC)
+| ''Night of 100 Stars'' <br> (ABC)
+| [[Alan Alda]] <br> ''[[M*A*S*H (TV series)|M*A*S*H]]'' <br> (CBS)
+| [[Carol Kane]] <br> ''[[Taxi (TV series)|Taxi]]'' <br> (ABC)
+| [[Michael Learned]] <br> ''[[Nurse (American TV series)|Nurse]]'' <br> (CBS)
+|-
+! [[35th Primetime Emmy Awards|1983]]
+| rowspan="2" | ''[[Cheers]]'' <br> (NBC)
+| ''[[Motown 25: Yesterday, Today, Forever]]'' <br> (NBC)
+| [[Judd Hirsch]] <br> ''[[Taxi (TV series)|Taxi]]'' <br> (NBC)
+| [[Ed Flanders]] <br> ''[[St. Elsewhere]]'' <br> (NBC)
+| [[Shelley Long]] <br> ''[[Cheers]]'' <br> (NBC)
+| rowspan="3" | [[Tyne Daly]] <br> ''[[Cagney & Lacey]]'' <br> (CBS)
+|-
+! [[36th Primetime Emmy Awards|1984]]
+| ''[[Kennedy Center Honors]]'' <br> (CBS)
+| [[John Ritter]] <br> ''[[Three's Company]]'' <br> (ABC)
+| [[Tom Selleck]] <br> ''[[Magnum, P.I.]]'' <br> (CBS)
+| rowspan="2" | [[Jane Curtin]] <br> ''[[Kate & Allie]]'' <br> (CBS)
+|-
+! [[37th Primetime Emmy Awards|1985]]
+| ''[[The Cosby Show]]'' <br> (NBC)
+| rowspan="2" | ''[[Cagney & Lacey]]'' <br> (CBS)
+| ''Motown Returns to the Apollo'' <br> (NBC)
+| [[Robert Guillaume]] <br> ''[[Benson (TV series)|Benson]]'' <br> (ABC)
+| rowspan="2" | [[William Daniels]] <br> ''[[St. Elsewhere]]'' <br> (NBC)
+|-
+! [[38th Primetime Emmy Awards|1986]]
+| rowspan="2" | ''[[The Golden Girls]]'' <br> (NBC)
+| ''[[Kennedy Center Honors]]'' <br> (CBS)
+| rowspan="3" | [[Michael J. Fox]] <br> ''[[Family Ties]]'' <br> (NBC)
+| [[Betty White]] <br> ''[[The Golden Girls]]'' <br> (NBC)
+| rowspan="2" | [[Sharon Gless]] <br> ''[[Cagney & Lacey]]'' <br> (CBS)
+|-
+! [[39th Primetime Emmy Awards|1987]]
+| ''[[L.A. Law]]'' <br> (NBC)
+| ''[[41st Tony Awards]] <br> (CBS)''
+| [[Bruce Willis]] <br> ''[[Moonlighting (TV series)|Moonlighting]]'' <br> (ABC)
+| [[Rue McClanahan]] <br> ''[[The Golden Girls]]'' <br> (NBC)
+|-
+! [[40th Primetime Emmy Awards|1988]]
+| ''[[The Wonder Years]]'' <br> (ABC)
+| ''[[thirtysomething]]'' <br> (ABC)
+| ''[[Irving Berlin]]'s 100th Birthday Celebration'' <br> (CBS)
+| [[Richard Kiley]] <br> ''[[A Year in the Life]]'' <br> (NBC)
+| [[Bea Arthur]] <br> ''[[The Golden Girls]]'' <br> (NBC)
+| [[Tyne Daly]] <br> ''[[Cagney & Lacey]]'' <br> (CBS)
+|-
+! [[41st Primetime Emmy Awards|1989]]
+| ''[[Cheers]]'' <br> (NBC)
+| rowspan="3" | ''[[L.A. Law]]'' <br> (NBC)
+| ''[[The Tracey Ullman Show]]'' <br> (Fox)
+| [[Richard Mulligan]] <br> ''[[Empty Nest]]'' <br> (NBC)
+| [[Carroll O'Connor]] <br> ''[[In the Heat of the Night (TV series)|In the Heat of the Night]]'' <br> (NBC)
+| rowspan="2" | [[Candice Bergen]] <br> ''[[Murphy Brown]]'' <br> (CBS)
+| [[Dana Delany]] <br> ''[[China Beach]]'' <br> (ABC)
+|-
+! [[42nd Primetime Emmy Awards|1990]]
+| ''[[Murphy Brown]]'' <br> (CBS)
+| ''[[In Living Color]]'' <br> (Fox)
+| [[Ted Danson]] <br> ''[[Cheers]]'' <br> (NBC)
+| [[Peter Falk]] <br> ''[[Columbo]]'' <br> (ABC)
+| rowspan="2" | [[Patricia Wettig]] <br> ''[[thirtysomething]]'' <br> (ABC)
+|-
+! [[43rd Primetime Emmy Awards|1991]]
+| ''[[Cheers]]'' <br> (NBC)
+| ''[[63rd Academy Awards]]'' <br> (ABC)
+| [[Burt Reynolds]] <br> ''[[Evening Shade]]'' <br> (CBS)
+| [[James Earl Jones]] <br> ''[[Gabriel's Fire]]'' <br> (ABC)
+| [[Kirstie Alley]] <br> ''[[Cheers]]'' <br> (NBC)
+|-
+! [[44th Primetime Emmy Awards|1992]]
+| ''[[Murphy Brown]]'' <br> (CBS)
+| ''[[Northern Exposure]]'' <br> (CBS)
+| ''[[The Tonight Show Starring Johnny Carson]]'' <br> (NBC)
+| [[Craig T. Nelson]] <br> ''[[Coach (TV series)|Coach]]'' <br> (ABC)
+| [[Christopher Lloyd]] <br> ''[[Road to Avonlea|Avonlea]]'' <br> (Disney)
+| [[Candice Bergen]] <br> ''[[Murphy Brown]]'' <br> (CBS)
+| [[Dana Delany]] <br> ''[[China Beach]]'' <br> (ABC)
+|-
+! [[45th Primetime Emmy Awards|1993]]
+| ''[[Seinfeld]]'' <br> (NBC)
+| rowspan="2" | ''[[Picket Fences]]'' <br> (CBS)
+| ''[[Saturday Night Live]]'' <br> (NBC)
+| [[Ted Danson]] <br> ''[[Cheers]]'' <br> (NBC)
+| [[Tom Skerritt]] <br> ''[[Picket Fences]]'' <br> (CBS)
+| [[Roseanne Barr]] <br> ''[[Roseanne (TV series)|Roseanne]]'' <br> (ABC)
+| [[Kathy Baker]] <br> ''[[Picket Fences]]'' <br> (CBS)
+|-
+! [[46th Primetime Emmy Awards|1994]]
+| rowspan="5" | ''[[Frasier]]'' <br> (NBC)
+| ''[[Late Show with David Letterman]]'' <br> (CBS)
+| rowspan="2" | [[Kelsey Grammer]] <br> ''[[Frasier]]'' <br> (NBC)
+| [[Dennis Franz]] <br> ''[[NYPD Blue]]'' <br> (ABC)
+| rowspan="2" | [[Candice Bergen]] <br> ''[[Murphy Brown]]'' <br> (CBS)
+| [[Sela Ward]] <br> ''[[Sisters (American TV series)|Sisters]]'' <br> (NBC)
+|-
+! [[47th Primetime Emmy Awards|1995]]
+| ''[[NYPD Blue]]'' <br> (ABC)
+| ''[[The Tonight Show with Jay Leno]]'' <br> (NBC)
+| [[Mandy Patinkin]] <br> ''[[Chicago Hope]]'' <br> (CBS)
+| rowspan="2" | [[Kathy Baker]] <br> ''[[Picket Fences]]'' <br> (CBS)
+|-
+! [[48th Primetime Emmy Awards|1996]]
+| ''[[ER (TV series)|ER]]'' <br> (NBC)
+| ''[[Dennis Miller Live]]'' <br> (HBO)
+| rowspan="2" | [[John Lithgow]] <br> ''[[3rd Rock from the Sun]]'' <br> (NBC)
+| rowspan="2" | [[Dennis Franz]] <br> ''[[NYPD Blue]]'' <br> (ABC)
+| rowspan="4" | [[Helen Hunt]] <br> ''[[Mad About You]]'' <br> (NBC)
+|-
+! [[49th Primetime Emmy Awards|1997]]
+| ''[[Law & Order]]'' <br> (NBC)
+| ''[[Tracey Takes On...]]'' <br> (HBO)
+| [[Gillian Anderson]] <br> ''[[The X-Files]]'' <br> (Fox)
+|-
+! [[50th Primetime Emmy Awards|1998]]
+| rowspan="2" | ''[[The Practice]]'' <br> (ABC)
+| rowspan="5" | ''[[Late Show with David Letterman]]'' <br> (CBS)
+| [[Kelsey Grammer]] <br> ''[[Frasier]]'' <br> (NBC)
+| [[Andre Braugher]] <br> ''[[Homicide: Life on the Street]]'' <br> (NBC)
+| [[Christine Lahti]] <br> ''[[Chicago Hope]]'' <br> (CBS)
+|-
+! [[51st Primetime Emmy Awards|1999]]
+| ''[[Ally McBeal]]'' <br> (Fox)
+| [[John Lithgow]] <br> ''[[3rd Rock from the Sun]]'' <br> (NBC)
+| [[Dennis Franz]] <br> ''[[NYPD Blue]]'' <br> (ABC)
+| [[Edie Falco]] <br> ''[[The Sopranos]]'' <br> (HBO)
+|-
+! [[52nd Primetime Emmy Awards|2000]]
+| ''[[Will & Grace]]'' <br> (NBC)
+| rowspan="4" | ''[[The West Wing]]'' <br> (NBC)
+| [[Michael J. Fox]] <br> ''[[Spin City]]'' <br> (ABC)
+| rowspan="2" | [[James Gandolfini]] <br> ''[[The Sopranos]]'' <br> (HBO)
+| rowspan="2" | [[Patricia Heaton]] <br> ''[[Everybody Loves Raymond]]'' <br> (CBS)
+| [[Sela Ward]] <br> ''[[Once and Again]]'' <br> (ABC)
+|-
+! [[53rd Primetime Emmy Awards|2001]]
+| ''[[Sex and the City]]'' <br> (HBO)
+| [[Eric McCormack]] <br> ''[[Will & Grace]]'' <br> (NBC)
+| [[Edie Falco]] <br> ''[[The Sopranos]]'' <br> (HBO)
+|-
+! [[54th Primetime Emmy Awards|2002]]
+| ''[[Friends]]'' <br> (NBC)
+| [[Ray Romano]] <br> ''[[Everybody Loves Raymond]]'' <br> (CBS)
+| [[Michael Chiklis]] <br> ''[[The Shield]]'' <br> (FX)
+| [[Jennifer Aniston]] <br> ''[[Friends]]'' <br> (NBC)
+| [[Allison Janney]] <br> ''[[The West Wing]]'' <br> (NBC)
+|-
+! [[55th Primetime Emmy Awards|2003]]
+| ''[[Everybody Loves Raymond]]'' <br> (CBS)
+| rowspan="10" | ''[[The Daily Show|The Daily Show with Jon Stewart]]'' <br> (Comedy Central)
+| [[Tony Shalhoub]] <br> ''[[Monk (TV series)|Monk]]'' <br> (USA)
+| [[James Gandolfini]] <br> ''[[The Sopranos]]'' <br> (HBO)
+| [[Debra Messing]] <br> ''[[Will & Grace]]'' <br> (NBC)
+| [[Edie Falco]] <br> ''[[The Sopranos]]'' <br> (HBO)
+|-
+! [[56th Primetime Emmy Awards|2004]]
+| ''[[Arrested Development (TV series)|Arrested Development]]'' <br> (Fox)
+| ''[[The Sopranos]]'' <br> (HBO)
+| [[Kelsey Grammer]] <br> ''[[Frasier]]'' <br> (NBC)
+| [[James Spader]] <br> ''[[The Practice]]'' <br> (ABC)
+| [[Sarah Jessica Parker]] <br> ''[[Sex and the City]]'' <br> (HBO)
+| [[Allison Janney]] <br> ''[[The West Wing]]'' <br> (NBC)
+|-
+! [[57th Primetime Emmy Awards|2005]]
+| ''[[Everybody Loves Raymond]]'' <br> (CBS)
+| ''[[Lost (2004 TV series)|Lost]]'' <br> (ABC)
+| rowspan="2" | [[Tony Shalhoub]] <br> ''[[Monk (TV series)|Monk]]'' <br> (USA)
+| [[James Spader]] <br> ''[[Boston Legal]]'' <br> (ABC)
+| [[Felicity Huffman]] <br> ''[[Desperate Housewives]]'' <br> (ABC)
+| [[Patricia Arquette]] <br> ''[[Medium (TV series)|Medium]]'' <br> (NBC)
+|-
+! [[58th Primetime Emmy Awards|2006]]
+| ''[[The Office (American TV series)|The Office]]'' <br> (NBC)
+| ''[[24 (TV series)|24]]'' <br> (Fox)
+| [[Kiefer Sutherland]] <br> ''[[24 (TV series)|24]]'' <br> (Fox)
+| [[Julia Louis-Dreyfus]] <br> ''[[The New Adventures of Old Christine]]'' <br> (CBS)
+| [[Mariska Hargitay]] <br> ''[[Law & Order: Special Victims Unit]]'' <br> (NBC)
+|-
+! [[59th Primetime Emmy Awards|2007]]
+| rowspan="3" | ''[[30 Rock]]'' <br> (NBC)
+| ''[[The Sopranos]]'' <br> (HBO)
+| [[Ricky Gervais]] <br> ''[[Extras (TV series)|Extras]]'' <br> (BBC / HBO)
+| [[James Spader]] <br> ''[[Boston Legal]]'' <br> (ABC)
+| [[America Ferrera]] <br> ''[[Ugly Betty]]'' <br> (ABC)
+| [[Sally Field]] <br> ''[[Brothers & Sisters (2006 TV series)|Brothers & Sisters]]'' <br> (ABC)
+|-
+! [[60th Primetime Emmy Awards|2008]]
+| rowspan="4" | ''[[Mad Men]]'' <br> (AMC)
+| rowspan="2" | [[Alec Baldwin]] <br> ''[[30 Rock]]'' <br> (NBC)
+| rowspan="3" | [[Bryan Cranston]] <br> ''[[Breaking Bad]]'' <br> (AMC)
+| [[Tina Fey]] <br> ''[[30 Rock]]'' <br> (NBC)
+| rowspan="2" | [[Glenn Close]] <br> ''[[Damages (TV series)|Damages]]'' <br> (FX)
+|-
+! [[61st Primetime Emmy Awards|2009]]
+| [[Toni Collette]] <br> ''[[United States of Tara]]'' <br> (Showtime)
+|-
+! [[62nd Primetime Emmy Awards|2010]]
+| rowspan="5" | ''[[Modern Family]]'' <br> (ABC)
+| rowspan="2" | [[Jim Parsons]] <br> ''[[The Big Bang Theory]]'' <br> (CBS)
+| [[Edie Falco]] <br> ''[[Nurse Jackie]]'' <br> (Showtime)
+| [[Kyra Sedgwick]] <br> ''[[The Closer]]'' <br> (TNT)
+|-
+! [[63rd Primetime Emmy Awards|2011]]
+| [[Kyle Chandler]] <br> ''[[Friday Night Lights (TV series)|Friday Night Lights]]'' <br> (DirecTV/NBC)
+| [[Melissa McCarthy]] <br> ''[[Mike & Molly]]'' <br> (CBS)
+| [[Julianna Margulies]] <br> ''[[The Good Wife]]'' <br> (CBS)
+|-
+! [[64th Primetime Emmy Awards|2012]]
+| ''[[Homeland (TV series)|Homeland]]'' <br> (Showtime)
+| [[Jon Cryer]] <br> ''[[Two and a Half Men]]'' <br> (CBS)
+| [[Damian Lewis]] <br> ''[[Homeland (TV series)|Homeland]]'' <br> (Showtime)
+| rowspan="6" | [[Julia Louis-Dreyfus]] <br> ''[[Veep]]'' <br> (HBO)
+| rowspan="2" | [[Claire Danes]] <br> ''[[Homeland (TV series)|Homeland]]'' <br> (Showtime)
+|-
+! [[65th Primetime Emmy Awards|2013]]
+| rowspan="2" | ''[[Breaking Bad]]'' <br> (AMC)
+| rowspan="2" | ''[[The Colbert Report]]'' <br> (Comedy Central)
+| rowspan="2" | [[Jim Parsons]] <br> ''[[The Big Bang Theory]]'' <br> (CBS)
+| [[Jeff Daniels]] <br> ''[[The Newsroom (American TV series)|The Newsroom]]'' <br> (HBO)
+|-
+! [[66th Primetime Emmy Awards|2014]]
+| [[Bryan Cranston]] <br> ''[[Breaking Bad]]'' <br> (AMC)
+| [[Julianna Margulies]] <br> ''[[The Good Wife]]'' <br> (CBS)
+|-
+! [[67th Primetime Emmy Awards|2015]]
+| rowspan="3" | ''[[Veep]]'' <br> (HBO)
+| rowspan="2" | ''[[Game of Thrones]]'' <br> (HBO)
+| ''[[The Daily Show|The Daily Show with Jon Stewart]]'' <br> (Comedy Central) <small>([[Primetime Emmy Award for Outstanding Talk Series|Variety Talk Series]])</small> <br> ''[[Inside Amy Schumer]]'' <br> (Comedy Central) <small>([[Primetime Emmy Award for Outstanding Scripted Variety Series|Variety Sketch Series]])</small>
+| rowspan="2" | [[Jeffrey Tambor]] <br> ''[[Transparent (TV series)|Transparent]]'' <br> (Amazon)
+| [[Jon Hamm]] <br> ''[[Mad Men]]'' <br> (AMC)
+| [[Viola Davis]] <br> ''[[How to Get Away with Murder]]'' <br> (ABC)
+|-
+! [[68th Primetime Emmy Awards|2016]]
+|  ''[[Last Week Tonight with John Oliver]]'' <br> (HBO) <small>(Variety Talk Series) </small> <br> ''[[Key & Peele]]'' <br> (Comedy Central) <small>(Variety Sketch Series)</small>
+| [[Rami Malek]] <br> ''[[Mr. Robot]]'' <br> (USA)
+| [[Tatiana Maslany]] <br> ''[[Orphan Black]]'' <br> (BBC America)
+|-
+! [[69th Primetime Emmy Awards|2017]]
+| ''[[The Handmaid's Tale (TV series)|The Handmaid's Tale]]'' <br> (Hulu)
+| rowspan="6"| ''[[Last Week Tonight with John Oliver]]'' <br> (HBO) <small>(Variety Talk Series)</small> <br> ''[[Saturday Night Live]]'' <br> (NBC) <small>(Variety Sketch Series)</small>
+| [[Donald Glover]] <br> ''[[Atlanta (TV series)|Atlanta]]'' <br> (FX)
+| [[Sterling K. Brown]] <br> ''[[This Is Us (TV series)|This Is Us]]'' <br> (NBC)
+| [[Elisabeth Moss]] <br> ''[[The Handmaid's Tale (TV series)|The Handmaid's Tale]]'' <br> (Hulu)
+|-
+! [[70th Primetime Emmy Awards|2018]]
+| ''[[The Marvelous Mrs. Maisel]]'' <br> (Amazon)
+| rowspan="2" | ''[[Game of Thrones]]'' <br> (HBO)
+| rowspan="2" | [[Bill Hader]] <br> ''[[Barry (TV series)|Barry]]'' <br> (HBO)
+| [[Matthew Rhys]] <br> ''[[The Americans]]'' <br> (FX)
+| [[Rachel Brosnahan]] <br> ''[[The Marvelous Mrs. Maisel]]'' <br> (Amazon)
+| [[Claire Foy]] <br> ''[[The Crown (TV series)|The Crown]]'' <br> (Netflix)
+|-
+! [[71st Primetime Emmy Awards|2019]]
+| ''[[Fleabag]]'' <br> (Amazon)
+| [[Billy Porter]] <br> ''[[Pose (TV series)|Pose]]'' <br> (FX)
+| [[Phoebe Waller-Bridge]] <br> ''[[Fleabag]]'' <br> (Amazon)
+| [[Jodie Comer]] <br> ''[[Killing Eve]]'' <br> (BBC America)
+|-
+! [[72nd Primetime Emmy Awards|2020]]
+| ''[[Schitt's Creek]]'' <br> ([[Pop (American TV channel)|Pop]])
+| ''[[Succession (TV series)|Succession]]'' <br> (HBO)
+| [[Eugene Levy]] <br> ''[[Schitt's Creek]]'' <br> (Pop)
+| [[Jeremy Strong]] <br> ''[[Succession (TV series)|Succession]]'' <br> (HBO)
+| [[Catherine O'Hara]] <br> ''[[Schitt's Creek]]'' <br> (Pop)
+| [[Zendaya]] <br> ''[[Euphoria (American TV series)|Euphoria]]'' <br> (HBO)
+|-
+![[73rd Primetime Emmy Awards|2021]]
+| rowspan="2" |''[[Ted Lasso]]'' <br> (Apple TV+)
+|''[[The Crown (TV series)|The Crown]]'' <br> (Netflix)
+| rowspan="2" |[[Jason Sudeikis]] <br> ''[[Ted Lasso]]'' <br> (Apple TV+)
+|[[Josh O'Connor]] <br> ''[[The Crown (TV series)|The Crown]]'' <br> (Netflix)
+| rowspan="2" |[[Jean Smart]] <br> ''[[Hacks (TV series)|Hacks]]'' <br> (HBO)
+|[[Olivia Colman]] <br> ''[[The Crown (TV series)|The Crown]]'' <br> (Netflix)
+|-
+![[74th Primetime Emmy Awards|2022]]
+| rowspan="2" |''[[Succession (TV series)|Succession]]'' <br> (HBO)
+|[[Lee Jung-jae]] <br> ''[[Squid Game]]'' <br> (Netflix)
+|[[Zendaya]] <br> ''[[Euphoria (American TV series)|Euphoria]]'' <br> (HBO)
+|-
+![[75th Primetime Emmy Awards|2023]]
+|''[[The Bear (TV series)|The Bear]]'' <br> (FX)
+| rowspan="2" |''[[The Daily Show]]'' <br> (Comedy Central) <small>(Talk Series)</small> <br> ''[[Last Week Tonight with John Oliver]]'' <br> (HBO) <small>(Scripted Variety Series)</small>
+| rowspan="2" |[[Jeremy Allen White]] <br> ''The Bear'' <br> (FX)
+|[[Kieran Culkin]] <br> ''Succession'' <br> (HBO)
+|[[Quinta Brunson]] <br> ''[[Abbott Elementary]]'' <br> (ABC)
+|[[Sarah Snook]] <br> ''Succession'' <br> (HBO)
+|-
+![[76th Primetime Emmy Awards|2024]]
+|''[[Hacks (TV series)|Hacks]]'' <br> ([[HBO Max]])
+|''[[Shōgun (2024 TV series)|Shōgun]]'' <br> (FX)
+|[[Hiroyuki Sanada]] <br> ''[[Shōgun (2024 TV series)|Shōgun]]'' <br> (FX)
+| rowspan="3" |[[Jean Smart]] <br> ''[[Hacks (TV series)|Hacks]]'' <br> (HBO Max)
+|[[Anna Sawai]] <br> ''[[Shōgun (2024 TV series)|Shōgun]]'' <br> (FX)
+|-
+![[77th Primetime Emmy Awards|2025]]
+|''[[The Studio (TV series)|The Studio]]'' <br> (Apple TV+)
+| rowspan="2" |''[[The Pitt]]'' <br> ([[HBO Max]])
+|''[[The Late Show with Stephen Colbert]]'' <br> (CBS) <small>(Talk Series)</small> <br> ''[[Last Week Tonight with John Oliver]]'' <br> (HBO) <small>(Scripted Variety Series)</small>
+|[[Seth Rogen]] <br> ''[[The Studio (TV series)|The Studio]]'' <br> (Apple TV+)
+| rowspan="2" |[[Noah Wyle]] <br> ''[[The Pitt]]'' <br> (HBO Max)
+|[[Britt Lower]]<br> ''[[Severance (TV series)|Severance]]'' <br>(Apple TV+)
+|-
+![[78th Primetime Emmy Awards|2026]]
+|''[[Widow's Bay]]'' <br> (Apple TV+)<ref>{{cite news|url=https://www.indiewire.com/awards/results/widows-bay-wins-emmy-outstanding-comedy-series-1235216400/|title=‘Widow’s Bay’ Wins Emmy for Outstanding Comedy Series|work=[[IndieWire]]|first=Christian|last=Zilko|date=September 14, 2026|access-date=September 19, 2026}}</ref>
+|''[[The Late Show with Stephen Colbert]]'' <br> (CBS)
+|[[Matthew Rhys]] <br> ''[[Widow's Bay]]'' <br> (Apple TV+)
+|[[Rhea Seehorn]]<br> ''[[Pluribus (TV series)|Pluribus]]'' <br>(Apple TV+)
+|-
+|}
+
+==References==
+{{reflist}}
+===Notes===
+{{notelist}}
+
+==See also==
+* [[List of Primetime Emmy Awards received by HBO]]
+* [[List of Primetime Emmy Awards received by Netflix]]
+* [[List of Daytime Emmy Award winners in acting and drama]]
+* [[List of International Emmy Award winners]]
+
+{{Emmy Awards}}
+{{Primetime Emmy Award categories}}
+
+[[Category:Primetime Emmy Awards| ]]
+[[Category:Primetime Emmy Award winners| ]]
+[[Category:American television-related lists|Primetime Emmy Awards]]

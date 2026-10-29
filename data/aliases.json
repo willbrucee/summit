@@ -193,6 +193,14 @@
     ],
     "Napoli": [
       "SSC Napoli"
+    ],
+    "14th Dalai Lama": [
+      "Dalai Lama",
+      "Tenzin Gyatso"
+    ],
+    "Dunkin' Donuts": [
+      "Dunkin",
+      "Dunkin'"
     ]
   },
   "prompts": {}

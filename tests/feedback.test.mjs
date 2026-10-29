@@ -68,3 +68,12 @@ test('outside: a real thing just off the list costs nothing and says why', () =>
   assert.equal(classifyGuess(list, 'Banana', new Set(), outside).state, 'wrong');
   assert.equal(nextCombo(3, 'outside', 1000, 500), 3);
 });
+
+test('a real player off a ranked list gets the helpful line, with no penalty', () => {
+  const caps = prompt('caps-100');
+  const r = classifyGuess(buildIndex(caps.answers, { people: true }), 'Pele', new Set(), buildIndex(caps.outside));
+  assert.equal(r.state, 'outside');
+  assert.equal(caps.outsideLine, 'Real player, just short of 100 caps');
+  const games = prompt('best-selling-games');
+  assert.match(games.outsideLine, /^Real game, just outside the top \d+$/);
+});

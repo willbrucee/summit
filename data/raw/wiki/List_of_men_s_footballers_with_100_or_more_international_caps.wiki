@@ -1,0 +1,4761 @@
+{{Short description|None}}
+{{For|women's footballers|List of women's footballers with 100 or more international caps}}
+{{Use dmy dates|date=June 2026}}
+{{multiple image
+| align             = right
+| direction         = vertical
+| total_width       = 200
+| image1            = Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg
+| caption1          = [[Cristiano Ronaldo]], the current holder of the men's international appearance  record
+| image2            = Billy Wright (1961).jpg
+| caption2          = [[Billy Wright (footballer, born 1924)|Billy Wright]], the first player to reach 100 international caps
+}}
+
+In [[association football]], a [[Cap (sport)|cap]] is traditionally awarded in international football to a player making an official appearance for their national team. This article lists all men's footballers who have played in 100 or more official international matches for a national football team according to association football's world governing body [[FIFA]]. As of 6 October 2026, 699 men's footballers from 122 countries have officially played in 100 or more international matches. The record for the most official men's international appearances is currently held by [[Cristiano Ronaldo]] with 234 caps, surpassing [[Bader Al-Mutawa]] of [[Kuwait national football team|Kuwait]]'s previous record total of 196 caps in March 2023.<ref>{{cite news |url=https://www.goal.com/id/berita/pelatih-tinggalkan-kuwait-bader-al-mutawa-pecahkan-rekor/bltc42306a2a3ae9ee1 |title=Pelatih Tinggalkan Kuwait, Bader Al Mutawa Pecahkan Rekor |trans-title=Coach leaves Kuwait, Bader Al Mutawa breaks record |publisher=[[Goal (website)|Goal]] |website=Goal.com |date=15 June 2022 |access-date=24 March 2023 |url-status=live  |archive-url=https://web.archive.org/web/20220615201844/https://www.goal.com/id/berita/pelatih-tinggalkan-kuwait-bader-al-mutawa-pecahkan-rekor/bltc42306a2a3ae9ee1 |archive-date=15 June 2022 |language=ms}}</ref><ref>{{cite news |url=https://www.bbc.co.uk/sport/football/65059270 |title=Portugal 4–0 Liechtenstein |work=BBC Sport |date=24 March 2023|access-date=24 March 2023|archive-date=24 March 2023|archive-url=https://web.archive.org/web/20230324001139/https://www.bbc.co.uk/sport/football/65059270|url-status=live}}</ref><ref>{{cite news |title=Cristiano Ronaldo bags Guinness World Record, hits 200 country appearances |url=https://soccerbrief.co.uk/cristiano-ronaldo-guinness-world-record-first-footballer-200-country-appearances/ |date=20 June 2023|access-date=20 June 2023 |first=Peter |last=Okereke |website=SoccerBrief.co.uk |language=en-gb|archive-date=20 June 2023|archive-url=https://web.archive.org/web/20230620212331/https://soccerbrief.co.uk/cristiano-ronaldo-guinness-world-record-first-footballer-200-country-appearances/|url-status=dead}}</ref> Al-Mutawa's total number of international matches was later readjusted to 202, making him the first footballer to achieve the 200-match milestone.<ref>{{cite web |url=https://www.goal.com/ar/القوائم/الصراع-مع-كريستيانو-رونالدو-يشتد-قرار-جديد-من-فيفا-يقرب-بدر-المطوع-من-استعادة-لقب-عميد-لاعبي-العالم/blt8f141b65d8391fc9 |title=الصراع مع كريستيانو رونالدو يشتد .. قرار جديد من فيفا يقرب بدر المطوع من استعادة لقب "عميد لاعبي العالم" |publisher=Goal.com |language=ar |date=5 October 2025 }}</ref>
+
+Prior to Bader Al-Mutawa, the record was held by [[Soh Chin Ann]] of [[Malaysia national football team|Malaysia]], with 195 caps. This was only ratified by FIFA in August 2021, despite Soh Chin Ann playing his final match for Malaysia in 1984. In total, Soh Chin Ann has made 219 appearances for Malaysia. This discrepancy is due to FIFA not recognising matches such as those within the [[Football at the Summer Olympics|Olympic Games]] and those not categorised as 'A' matches. All 219 appearances made by Soh Chin Ann are recognised by football statistic organisations [[RSSSF]] and [[IFFHS]]. The first men's footballer to play in 100 official international matches was [[Billy Wright (footballer born 1924)|Billy Wright]] of [[England national football team|England]] in 1959, his 100th match came against Scotland in April 1959. Wright would finish with 105 international caps.<ref>{{cite web |last=Gott |first=Tom |url=https://www.90min.com/posts/billy-wright-record-breaking-100th-england-cap |title=Billy Wright's record-breaking 100th England cap |publisher=90Min |date=11 April 2021 |access-date=13 December 2022 |archive-date=13 December 2022 |archive-url=https://web.archive.org/web/20221213172202/https://www.90min.com/posts/billy-wright-record-breaking-100th-england-cap |url-status=live}}</ref><ref>{{cite web |last=Crist |first=Matthew |url=https://www.thesportsman.com/articles/100-club-how-billy-wright-became-football-s-first-ever-centurion |title=100 Club: How Billy Wright Became Football's First Ever Centurion |work=The Sportsman |date=11 April 2022 |access-date=13 September 2022 |archive-date=13 September 2022 |archive-url=https://web.archive.org/web/20220913151845/https://www.thesportsman.com/articles/100-club-how-billy-wright-became-football-s-first-ever-centurion |url-status=live}}</ref>
+
+== Men's footballers with 100 or more international caps ==
+
+{|class="wikitable"
+|bgcolor=FFD966|
+|Indicates the most-capped player for respective confederation
+|-
+|bgcolor=#9FC|
+|Indicates the most-capped player for respective nation
+|}
+
+: '''Rank''': The order of ranking with regards to international caps is in accordance with FIFA and their records. Records from other sources are not included in the official table, however, those from RSSSF whose cap totals are higher than those of FIFA are mentioned in the footnotes. Players who have achieved 100 or more international caps but are not recognised by FIFA are noted below the table.
+: '''Players''': Players still active in their national teams are highlighted in '''bold'''. Player names are given in preference to their nationalities preference. For example: Icelandic players are sorted by first name, Brazilian, Portuguese, and Spanish players by nickname or first name (if more commonly used), and Chinese and Korean players by family name prefix. Players who have not been used in over two years since their last cap are no longer highlighted in bold. The player however may still be active and eligible for international selection.
+: '''Nation''': Players represent a nation recognised by FIFA. These can be [[UN]] recognised countries, overseas territories or disputed states.
+: '''Confederation''': Players & their nations are represented by 6 separate continental confederations within FIFA:
+:: AFC: [[Asian Football Confederation]]
+:: CAF: [[Confederation of African Football]] (French: Confédération Africaine de Football)
+:: CONCACAF: [[CONCACAF|Confederation of North, Central America and Caribbean Association Football]]
+:: CONMEBOL: [[CONMEBOL|Confederación Sudamericana de Fútbol]] – (English: South American Football Confederation)
+:: OFC: [[Oceania Football Confederation]]
+:: UEFA: [[UEFA|Union of European Football Associations]] – (French: Union des Associations Européennes de Football)
+: '''Debut''': States the date in which the player made his first international appearance for the national team.
+: '''Latest''': States the date in which the player made his last or most recent international appearance for the national team.
+
+{{updated|6 October 2026}}<ref name="FIFA">{{cite web |url=https://digitalhub.fifa.com/m/7a29d8a2cac79416/original/Century-Club-01112021.pdf |title=FIFA Century Club |publisher=FIFA |date=4 August 2026|access-date=16 February 2022|archive-date=4 August 2021|archive-url=https://web.archive.org/web/20210804001601/https://digitalhub.fifa.com/m/453a231298ba04f1/original/FIFA-Century-Club-03082021.pdf|url-status=live}}</ref>
+{{sticky-header}}
+{| class="wikitable sortable sticky-header" style=white-space:nowrap
+|-
+!Rank
+!Player
+!Nation
+!Confederation
+![[Cap (sport)|Caps]]
+!Debut
+!Latest
+|-
+! 1
+|bgcolor=FFD966| '''[[Cristiano Ronaldo]]'''
+| bgcolor="FFD966" | {{fb|POR}}
+| bgcolor="FFD966" | [[UEFA]]
+! 234
+|{{dts|format=dmy|2003|8|20}}
+|{{dts|format=dmy|2026|9|24}}
+|-
+! 2
+|bgcolor=FFD966| [[Lionel Messi]]
+| bgcolor="FFD966" | {{fb|ARG}}
+| bgcolor="FFD966" | [[CONMEBOL]]
+! 208
+| {{dts|format=dmy|2005|8|17}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+! 3
+| bgcolor="#9FC" | '''[[Luka Modrić]]'''
+| bgcolor="#9FC" | {{fb|CRO}}
+| UEFA
+! 206
+| {{dts|format=dmy|2006|3|1}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+! 4
+|bgcolor=FFD966| [[Bader Al-Mutawa]]
+| bgcolor="FFD966" | {{fb|KUW}}
+| bgcolor="FFD966" | [[Asian Football Confederation|AFC]]
+! 202
+|{{dts|format=dmy|2003|9|4}}
+|{{dts|format=dmy|2022|6|14}}
+|-
+! 5
+|bgcolor=#9FC| [[Soh Chin Ann]]{{efn|Excludes 24 unofficial Olympic matches: Japan (1971, 1980, 1984), South Korea (1971, 1980 twice), Taiwan (1971), Philippines (1971, 1980), West Germany, United States, Morocco (1972), Papua New Guinea, Singapore (1976), Indonesia (1976, 1980, 1983), Brunei (1980), Saudi Arabia (twice), India (1983), Qatar, Thailand and Iraq (1984).}}
+| bgcolor="#9FC" | {{fb|MAS}}
+| AFC
+! 195
+| {{dts|format=dmy|1969|11|19}}
+| {{dts|format=dmy|1984|10|18}}
+|-
+!rowspan="2"| 6
+|bgcolor=#9FC| '''[[Hassan Al-Haydos]]'''
+| bgcolor="#9FC" | {{fb|QAT}}
+| AFC
+!rowspan="2"| 193
+| {{dts|format=dmy|2008|8|9}}
+| {{dts|format=dmy|2026|9|27}}
+|-
+|bgcolor=#9FC| [[Ahmed Kano]]
+| bgcolor="#9FC" | {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2003|9|25}}
+| {{dts|format=dmy|2019|12|2}}
+|-
+! 8
+|bgcolor=FFD966| [[Ahmed Hassan (footballer, born 1975)|Ahmed Hassan]]
+| bgcolor="FFD966" | {{fb|EGY}}
+| bgcolor="FFD966" | [[Confederation of African Football|CAF]]
+! 184
+| {{dts|format=dmy|1995|12|29}}
+| {{dts|format=dmy|2012|5|22}}
+|-
+! 9
+|bgcolor=FFD966| [[Andrés Guardado]]
+| bgcolor="FFD966" | {{fb|MEX}}
+| bgcolor="FFD966" | [[CONCACAF]]
+! 182
+| {{dts|format=dmy|2005|12|14}}
+| {{dts|format=dmy|2024|10|15}}
+|-
+! 10
+|bgcolor=#9FC| [[Sergio Ramos]]
+| bgcolor="#9FC" | {{fb|ESP}}
+| UEFA
+! 180
+| {{dts|format=dmy|2005|3|26}}
+| {{dts|format=dmy|2021|3|31}}
+|-
+! 11
+| [[Claudio Suárez]]
+| {{fb|MEX}}
+| CONCACAF
+! 179
+| {{dts|format=dmy|1992|7|26}}
+| {{dts|format=dmy|2006|6|1}}
+|-
+! 12
+|bgcolor="#9FC"| [[Mohamed Al-Deayea]]
+| bgcolor="#9FC" | {{fb|KSA}}
+|AFC
+! 178
+| {{dts|format=dmy|1993|4|9}}
+| {{dts|format=dmy|2006|5|11}}
+|-
+! 13
+| [[Hossam Hassan]]
+| {{fb|EGY}}
+| CAF
+! 177
+| {{dts|format=dmy|1985|9|10}}
+| {{dts|format=dmy|2006|2|7}}
+|-
+! 14
+|bgcolor=#9FC| [[Gianluigi Buffon]]
+| bgcolor="#9FC" | {{fb|ITA}}
+| UEFA
+! 176
+| {{dts|format=dmy|1997|10|29}}
+| {{dts|format=dmy|2018|3|23}}
+|-
+! 15
+|bgcolor=#9FC| [[Maynor Figueroa]]{{efn|6 unofficial FIFA matches: Guadeloupe (2007), French Guiana (2015 twice, 2017) and Martinique (2019 twice)}}
+| bgcolor="#9FC" | {{fb|HON}}
+| CONCACAF
+! 175
+| {{dts|format=dmy|2003|1|31}}
+| {{dts|format=dmy|2022|2|2}}
+|-
+! 16
+|bgcolor="#9FC"| [[Amer Shafi]]
+| bgcolor="#9FC" | {{fb|JOR}}
+| AFC
+! 171
+| {{dts|format=dmy|2002|8|17}}
+| {{dts|format=dmy|2021|2|1}}
+|-
+! 17
+|bgcolor=#9FC| '''[[Robert Lewandowski]]'''
+| bgcolor="#9FC" | {{fb|POL}}
+| UEFA
+! 170
+| {{dts|format=dmy|2008|9|10}}
+| {{dts|format=dmy|2026|10|2}}
+|-
+!rowspan="2"| 18
+|bgcolor=#9FC| [[Iván Hurtado]]
+| bgcolor="#9FC" | {{fb|ECU}}
+| CONMEBOL
+!rowspan="2"| 168
+| {{dts|format=dmy|1992|5|24}}
+| {{dts|format=dmy|2014|10|14}}
+|-
+|bgcolor=#9FC| '''[[Alexis Sánchez]]'''
+| bgcolor="#9FC" | {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2006|4|27}}
+| {{dts|format=dmy|2025|6|10}}
+|-
+! 20
+| [[Iker Casillas]]
+| {{fb|ESP}}
+| UEFA
+! 167
+| {{dts|format=dmy|2000|6|3}}
+| {{dts|format=dmy|2016|6|1}}
+|-
+! 21
+|bgcolor=#9FC| [[Vitālijs Astafjevs]]{{efn|1 unofficial FIFA match: Oman U23 (2005).}}
+| bgcolor="#9FC" | {{fb|LVA}}
+| UEFA
+! 166
+| {{dts|format=dmy|1992|8|26}}
+| {{dts|format=dmy|2010|11|17}}
+|-
+! 22
+|bgcolor=#9FC| [[Cobi Jones]]
+| bgcolor="#9FC" | {{fb|USA}}
+| CONCACAF
+! 164
+| {{dts|format=dmy|1992|9|3}}
+| {{dts|format=dmy|2004|10|9}}
+|-
+!rowspan="3"| 23
+| [[Mohammed Al-Khilaiwi]]
+| {{fb|KSA}}
+| AFC
+!rowspan="3"| 163
+| {{dts|format=dmy|1992|10|20}}
+| {{dts|format=dmy|2001|10|5}}
+|-
+|bgcolor=#9FC| [[Sayed Mohammed Jaffer]]
+| bgcolor="#9FC" | {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|2004|7|5}}
+| {{dts|format=dmy|2024|12|28}}
+|-
+| [[Shukor Salleh]]{{efn|9 unofficial Olympic matches: Papua New Guinea, North Korea, Singapore, Indonesia (1976), South Korea (twice), Brunei, Japan and Philippines (1980).}}
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|1970|11|15}}
+| {{dts|format=dmy|1981|9|12}}
+|-
+!rowspan="2"| 26
+|bgcolor=#9FC| '''[[Celso Borges]]'''{{efn|4 unofficial FIFA matches: Guadeloupe (2009, 2021) and Martinique (2022, 2023).}}
+| bgcolor="#9FC" | {{fb|CRC}}
+| CONCACAF
+!rowspan="2"| 162
+| {{dts|format=dmy|2008|6|21}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+| '''[[Ivan Perišić]]'''
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2011|3|26}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+!rowspan="5"| 28
+|bgcolor=#9FC| [[Adnan Al-Talyani]]
+| bgcolor="#9FC" | {{fb|UAE}}
+| AFC
+!rowspan="5"| 161
+| {{dts|format=dmy|1984|3|10}}
+| {{dts|format=dmy|1997|12|17}}
+|-
+|bgcolor=#9FC| [[Diego Godín]]
+| bgcolor="#9FC" | {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2005|10|26}}
+| {{dts|format=dmy|2022|11|28}}
+|-
+| [[Mohamed Husain]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|1997|3|6}}
+| {{dts|format=dmy|2015|1|15}}
+|-
+| [[Salman Isa]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|2000|3|20}}
+| {{dts|format=dmy|2012|11|29}}
+|-
+| [[Gary Medel]]
+| {{fb|CHL}}
+| CONMEBOL
+| {{dts|format=dmy|2007|4|18}}
+| {{dts|format=dmy|2023|11|16}}
+|-
+! 33
+|bgcolor=#9FC| [[Aníbal Godoy]]
+| bgcolor="#9FC" | {{fb|PAN}}
+| CONCACAF
+! 160
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2026|6|17}}
+|-
+!rowspan="2"| 34
+| [[Essam El-Hadary]]
+| {{fb|EGY}}
+| CAF
+!rowspan="2"| 159
+| {{dts|format=dmy|1996|3|25}}
+| {{dts|format=dmy|2018|6|25}}
+|-
+|bgcolor=#9FC| [[Konstantin Vassiljev]]
+| bgcolor="#9FC" | {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2006|5|31}}
+| {{dts|format=dmy|2025|9|9}}
+|-
+! 36
+|bgcolor=#9FC| '''[[Hariss Harun]]'''
+| bgcolor="#9FC" | {{fb|SIN}}
+|AFC
+! 158
+|{{dts|format=dmy|2007|6|24}}
+|{{dts|format=dmy|2026|10|1}}
+|-
+!rowspan="3"| 37
+|bgcolor=#9FC| [[Sunil Chhetri]]
+| bgcolor="#9FC" | {{fb|IND}}
+| AFC
+!rowspan="3"| 157
+| {{dts|format=dmy|2005|6|12}}
+| {{dts|format=dmy|2025|10|14}}
+|-
+| [[Landon Donovan]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|2000|10|25}}
+| {{dts|format=dmy|2014|10|10}}
+|-
+|bgcolor=#9FC| [[Jan Vertonghen]]
+| bgcolor="#9FC" | {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2007|6|2}}
+| {{dts|format=dmy|2024|7|1}}
+|-
+!rowspan="2"| 40
+| [[Sami Al-Jaber]]
+| {{fb|KSA}}
+| AFC
+!rowspan="2"| 156
+| {{dts|format=dmy|1992|9|11}}
+| {{dts|format=dmy|2006|6|23}}
+|-
+| [[Martin Reim]]{{efn|1 unofficial FIFA match: Belarus U21 (2004).|name="04BLR"}}
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1992|6|3}}
+| {{dts|format=dmy|2009|6|6}}
+|-
+! 42
+| [[Guillermo Ochoa]]
+| {{fb|MEX}}
+| CONCACAF
+! 154
+| {{dts|format=dmy|2005|12|14}}
+| {{dts|format=dmy|2026|6|24}}
+|-
+! 43
+|bgcolor=#9FC| '''[[Son Heung-min]]'''
+| bgcolor="#9FC" | {{fb|KOR}}
+| AFC
+! 153
+| {{dts|format=dmy|2010|12|30}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+!rowspan="4"| 44
+| [[Fawzi Bashir]]
+| {{fb|OMA}}
+| AFC
+!rowspan="4"| 152
+| {{dts|format=dmy|2001|2|18}}
+| {{dts|format=dmy|2013|1|11}}
+|-
+|bgcolor=#9FC| [[Edin Džeko]]
+| bgcolor="#9FC" |{{fb|BIH}}
+| UEFA
+| {{dts|format=dmy|2007|6|2}}
+| {{dts|format=dmy|2026|10|2}}
+|-
+|bgcolor=#9FC| [[Yasuhito Endō]]
+| bgcolor="#9FC" | {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|2002|11|20}}
+| {{dts|format=dmy|2015|1|23}}
+|-
+|bgcolor=#9FC| '''[[Granit Xhaka]]'''
+| bgcolor="#9FC" | {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|2011|6|4}}
+| {{dts|format=dmy|2026|7|11}}
+|-
+!rowspan="2"| 48
+| [[Michael Bradley (soccer)|Michael Bradley]]
+| {{fb|USA}}
+| CONCACAF
+!rowspan="2"| 151
+| {{dts|format=dmy|2006|5|26}}
+| {{dts|format=dmy|2019|10|15}}
+|-
+|bgcolor=#9FC| '''[[Christian Eriksen]]'''
+| bgcolor="#9FC" | {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2026|6|6}}
+|-
+!rowspan="4"| 50
+| [[Claudio Bravo]]
+| {{Fb|CHI}}
+| CONMEBOL
+!rowspan="4"| 150
+| {{dts|format=dmy|2004|7|11}}
+| {{dts|format=dmy|2024|6|25}}
+|-
+|bgcolor="#9FC"| '''[[Ehsan Hajsafi]]'''
+| bgcolor="#9FC" | {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2008|5|25}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+|bgcolor=#9FC| [[Lothar Matthäus]]
+| bgcolor="#9FC" | {{fb|FRG}}<br />{{fb|GER}}
+| UEFA
+| {{dts|format=dmy|1980|6|14}}
+| {{dts|format=dmy|2000|6|20}}
+|-
+|bgcolor="#9FC"| [[Javad Nekounam]]
+| bgcolor="#9FC"| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2000|1|12}}
+| {{dts|format=dmy|2015|3|31}}
+|-
+! 54
+|bgcolor=#9FC| [[Younis Mahmoud]]
+| bgcolor="#9FC" | {{fb|IRQ}}
+| AFC
+! 149
+| {{dts|format=dmy|2002|7|19}}
+| {{dts|format=dmy|2016|3|29}}
+|-
+!rowspan="7"| 55
+| [[Ali Daei]]
+| {{fb|IRN}}
+| AFC
+!rowspan="7"| 148
+| {{dts|format=dmy|1993|6|6}}
+| {{dts|format=dmy|2006|6|21}}
+|-
+|bgcolor=#9FC| [[Paulo da Silva]]
+| bgcolor="#9FC" | {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|2000|4|25}}
+| {{dts|format=dmy|2017|10|10}}
+|-
+| [[Gabriel Gómez (footballer, born 1984)|Gabriel Gómez]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2003|2|9}}
+| {{dts|format=dmy|2018|6|28}}
+|-
+| [[Rafael Márquez]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1997|2|5}}
+| {{dts|format=dmy|2018|7|2}}
+|-
+| [[Pável Pardo]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1996|8|31}}
+| {{dts|format=dmy|2009|6|6}}
+|-
+| '''[[Ricardo Rodriguez (footballer)|Ricardo Rodriguez]]'''
+| {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|2011|10|7}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Mohamed Salmeen]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|1998|9|18}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+!rowspan="4"| 62
+| [[Ali Al-Habsi]]
+| {{fb|OMA}}
+| AFC
+!rowspan="4"| 147
+| {{dts|format=dmy|2001|2|20}}
+| {{dts|format=dmy|2019|11|18}}
+|-
+| [[Daniel Bennett (footballer)|Daniel Bennett]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|2002|12|11}}
+| {{dts|format=dmy|2017|11|14}}
+|-
+| [[Javier Mascherano]]
+| {{fb|ARG}}
+| CONMEBOL
+| {{dts|format=dmy|2003|7|16}}
+| {{dts|format=dmy|2018|6|30}}
+|-
+| '''[[Arturo Vidal]]'''
+| {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2007|2|7}}
+| {{dts|format=dmy|2025|6|5}}
+|-
+! rowspan="5" | 66
+|bgcolor=#9FC| [[Robbie Keane]]
+| bgcolor="#9FC" | {{fb|IRL}}
+| UEFA
+! rowspan="5" | 146
+| {{dts|format=dmy|1998|3|25}}
+| {{dts|format=dmy|2016|8|31}}
+|-
+| [[João Moutinho]]
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|2005|8|17}}
+| {{dts|format=dmy|2022|6|9}}
+|-
+| [[Yūto Nagatomo]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|2008|5|24}}
+| {{dts|format=dmy|2026|6|25}}
+|-
+|bgcolor=#9FC| [[Anders Svensson]]{{efn|2 unofficial FIFA matches: South Africa (2011) and Qatar U23 (2012).}}
+| bgcolor="#9FC" | {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|1999|11|27}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+| [[Gerardo Torrado]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1999|6|9}}
+| {{dts|format=dmy|2013|9|6}}
+|-
+! rowspan="6" | 71
+| '''[[Joel Campbell]]'''{{efn|5 unofficial FIFA matches: Guadeloupe (2021, 2024) and Martinique (2022, 2023 twice).}}
+| {{fb|CRC}}
+| CONCACAF
+! rowspan="6" | 145
+| {{dts|format=dmy|2011|6|5}}
+| {{dts|format=dmy|2025|11|18}}
+|-
+| [[Ángel Di María]]
+| {{fb|ARG}}
+| CONMEBOL
+| {{dts|format=dmy|2008|9|6}}
+| {{dts|format=dmy|2024|7|14}}
+|-
+| [[Shahril Ishak]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|2003|3|4}}
+| {{dts|format=dmy|2018|11|13}}
+|-
+|bgcolor=#9FC| [[Hugo Lloris]]
+| bgcolor="#9FC" | {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|2008|11|19}}
+| {{dts|format=dmy|2022|12|18}}
+|-
+| [[Bryan Ruiz]]{{efn|2 unofficial FIFA matches: French Guiana (2017) and Guadeloupe (2021).}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|2005|6|19}}
+| {{dts|format=dmy|2022|11|23}}
+|-
+| [[Javier Zanetti]]
+| {{fb|ARG}}
+| CONMEBOL
+| {{dts|format=dmy|1994|11|16}}
+| {{dts|format=dmy|2011|7|16}}
+|-
+!rowspan="4"| 77
+| [[Baha' Abdel-Rahman]]
+| {{fb|JOR}}
+| AFC
+!rowspan="4"| 144
+| {{dts|format=dmy|2007|9|7}}
+| {{dts|format=dmy|2022|6|14}}
+|-
+| [[Mauricio Isla]]
+| {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2007|9|7}}
+| {{dts|format=dmy|2024|9|10}}
+|-
+| [[Baihakki Khaizan]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|2003|8|4}}
+| {{dts|format=dmy|2021|6|11}}
+|-
+|bgcolor=#9FC| [[Anatoliy Tymoshchuk]]
+| bgcolor="#9FC" | {{fb|UKR}}
+| UEFA
+| {{dts|format=dmy|2000|4|26}}
+| {{dts|format=dmy|2016|6|21}}
+|-
+!rowspan="5"| 81
+| [[Sergio Busquets]]
+| {{fb|ESP}}
+| UEFA
+!rowspan="5"| 143
+| {{dts|format=dmy|2009|4|1}}
+| {{dts|format=dmy|2022|12|6}}
+|-
+|bgcolor=#9FC| '''[[Idrissa Gueye]]'''
+| bgcolor="#9FC" | {{fb|SEN}}
+| CAF
+| {{dts|format=dmy|2011|11|11}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+| [[Thomas Ravelli]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|1981|3|1}}
+| {{dts|format=dmy|1997|10|11}}
+|-
+|bgcolor=#9FC| [[Tomás Rincón]]
+| bgcolor="#9FC" | {{fb|VEN}}
+| CONMEBOL
+| {{dts|format=dmy|2008|2|3}}
+| {{dts|format=dmy|2025|9|4}}
+|-
+| [[Luis Suárez (Uruguayan footballer)|Luis Suárez]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2007|2|7}}
+| {{dts|format=dmy|2024|9|6}}
+|-
+!rowspan="8"| 86
+| '''[[Akram Afif]]'''
+| {{fb|QAT}}
+| AFC
+!rowspan="8"| 142
+| {{dts|format=dmy|2015|9|3}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+|bgcolor=#9FC| [[Cafu]]
+| bgcolor="#9FC" | {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|1990|9|12}}
+| {{dts|format=dmy|2006|7|1}}
+|-
+| [[Amer Deeb]]
+| {{fb|JOR}}
+| AFC
+| {{dts|format=dmy|2002|2|13}}
+| {{dts|format=dmy|2014|10|13}}
+|-
+| [[Marko Kristal]]{{efn|name="04BLR"}}
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1992|6|3}}
+| {{dts|format=dmy|2005|4|20}}
+|-
+|bgcolor=#9FC| [[Michael Mifsud]]
+| bgcolor="#9FC"| {{fb|MLT}}
+| UEFA
+| {{dts|format=dmy|2000|2|10}}
+| {{dts|format=dmy|2020|11|11}}
+|-
+| [[Alberto Quintero (footballer)|Alberto Quintero]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2007|8|22}}
+| {{dts|format=dmy|2026|6|27}}
+|-
+| [[Lilian Thuram]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|1994|8|17}}
+| {{dts|format=dmy|2008|6|13}}
+|-
+| [[Abdullah Zubromawi]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|1993|4|18}}
+| {{dts|format=dmy|2002|6|11}}
+|-
+!rowspan="2"| 94
+| [[Clint Dempsey]]
+| {{fb|USA}}
+| CONCACAF
+!rowspan="2"| 141
+| {{dts|format=dmy|2004|11|17}}
+| {{dts|format=dmy|2017|10|10}}
+|-
+| [[Pepe (footballer, born February 1983)|Pepe]]
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|2007|11|21}}
+| {{dts|format=dmy|2024|7|5}}
+|- 
+!rowspan="3"| 96
+| '''[[Sayed Dhiya Saeed]]'''
+| {{fb|BHR}}
+| AFC
+!rowspan="3"| 140
+| {{dts|format=dmy|2011|2|14}}
+| {{dts|format=dmy|2026|9|27}}
+|-
+| [[Nicolás Otamendi]]
+| {{fb|ARG}}
+| CONMEBOL
+| {{dts|format=dmy|2009|5|20}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Axel Witsel]]
+| {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2008|3|26}}
+| {{dts|format=dmy|2026|7|10}}
+|-
+!rowspan="3"| 99
+| [[Ismail Abdullatif]]
+| {{fb|BHR}}
+| AFC
+!rowspan="3"| 139
+| {{dts|format=dmy|2005|10|27}}
+| {{dts|format=dmy|2025|3|25}}
+|-
+|bgcolor=#9FC| [[Steven Davis]]
+| bgcolor="#9FC" | {{fb|NIR}}
+| UEFA
+| {{dts|format=dmy|2005|2|9}}
+| {{dts|format=dmy|2022|9|27}}
+|-
+|bgcolor=#9FC| [[Giorgos Karagounis]]
+| bgcolor="#9FC" | {{fb|GRE}}
+| UEFA
+| {{dts|format=dmy|1999|8|20}}
+| {{dts|format=dmy|2014|6|29}}
+|-
+!rowspan="7"| 102
+| [[Hussein Abdulghani]]
+| {{fb|KSA}}
+| AFC
+!rowspan="7"| 138
+| {{dts|format=dmy|1996|9|22}}
+| {{dts|format=dmy|2018|11|20}}
+|-
+| [[Mokhtar Dahari]]{{efn|4 unofficial Olympic matches: Papua New Guinea, North Korea, Singapore and Indonesia (1976).}}
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|1972|6|5}}
+| {{dts|format=dmy|1985|5|19}}
+|-
+|bgcolor=#9FC| [[Marek Hamšík]]
+| bgcolor="#9FC" | {{fb|SVK}}
+| UEFA
+| {{dts|format=dmy|2007|2|7}}
+| {{dts|format=dmy|2023|6|20}}
+|-
+| [[Osama Hawsawi]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|2006|10|11}}
+| {{dts|format=dmy|2018|6|25}}
+|-
+| [[Hong Myung-bo]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1990|2|4}}
+| {{dts|format=dmy|2002|11|20}}
+|-
+|bgcolor=#9FC| [[Peter Pekarík]]
+| bgcolor="#9FC" | {{fb|SVK}}
+| UEFA
+| {{dts|format=dmy|2006|12|10}}
+| {{dts|format=dmy|2026|6|5}}
+|-
+|bgcolor=#9FC| '''[[Yoshimar Yotún]]'''
+| bgcolor="#9FC" | {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|2011|2|8}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+!rowspan="11"| 109
+| [[Hatem Aqel]]
+| {{fb|JOR}}
+| AFC
+!rowspan="11"| 137
+| {{dts|format=dmy|1998|9|26}}
+| {{dts|format=dmy|2014|1|7}}
+|-
+|bgcolor=#9FC| [[Marko Arnautović]]
+| bgcolor="#9FC" | {{fb|AUT}}
+| UEFA
+| {{dts|format=dmy|2008|10|11}}
+| {{dts|format=dmy|2026|7|2}}
+|-
+| [[Olivier Giroud]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|2011|11|11}}
+| {{dts|format=dmy|2024|7|9}}
+|-
+| [[Antoine Griezmann]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|2014|3|5}}
+| {{dts|format=dmy|2024|9|9}}
+|-
+| [[Amado Guevara]]{{efn|1 unofficial FIFA match: Guadeloupe (2007).|name="07GLP"}}
+| {{fb|HON}}
+| CONCACAF
+| {{dts|format=dmy|1994|5|5}}
+| {{dts|format=dmy|2010|6|21}}
+|-
+| [[Miroslav Klose]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2001|3|24}}
+| {{dts|format=dmy|2014|7|13}}
+|-
+|bgcolor=#9FC| [[Ildefons Lima]]
+| bgcolor="#9FC" | {{fb|AND}}
+| UEFA
+| {{dts|format=dmy|1997|6|22}}
+| {{dts|format=dmy|2023|9|12}}
+|-
+|bgcolor=#9FC| [[Jari Litmanen]]
+| bgcolor="#9FC" | {{fb|FIN}}
+| UEFA
+| {{dts|format=dmy|1989|10|22}}
+| {{dts|format=dmy|2010|11|17}}
+|-
+| [[Fernando Muslera]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2009|10|10}}
+| {{dts|format=dmy|2026|6|26}}
+|-
+| [[Jaime Penedo]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2003|6|29}}
+| {{dts|format=dmy|2018|6|28}}
+|-
+|bgcolor=#9FC| [[Rigobert Song]]
+| bgcolor="#9FC" | {{fb|CMR}}
+| CAF
+| {{dts|format=dmy|1993|9|22}}
+| {{dts|format=dmy|2010|6|24}}
+|-
+!rowspan="6"| 120
+| [[Waleed Ali]]
+|{{fb|KUW}}
+| AFC
+!rowspan="6"| 136
+| {{dts|format=dmy|2002|5|9}}
+| {{dts|format=dmy|2014|1|20}}
+|-
+| [[Khairul Amri]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|2004|6|9}}
+| {{dts|format=dmy|2019|6|11}}
+|-
+| [[Fabio Cannavaro]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|1997|1|22}}
+| {{dts|format=dmy|2010|6|24}}
+|-
+| [[Edinson Cavani]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2008|2|6}}
+| {{dts|format=dmy|2022|12|2}}
+|-
+| '''[[Abdelkarim Hassan]]'''
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2010|11|18}}
+| {{dts|format=dmy|2025|3|20}}
+|-
+| [[Ismail Matar]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|2003|9|27}}
+| {{dts|format=dmy|2021|12|6}}
+|-
+!rowspan="5"| 126
+| [[Walter Centeno]]{{efn|2 unofficial FIFA matches: Martinique (2002) and Guadeloupe (2007).|name="02MTQ07GLP"}}
+| {{fb|CRC}}
+| CONCACAF
+!rowspan="5"| 135
+| {{dts|format=dmy|1995|9|27}}
+| {{dts|format=dmy|2009|11|18}}
+|-
+| [[Ahmed Fathy]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|2002|12|16}}
+| {{dts|format=dmy|2021|11|16}}
+|-
+| '''[[Boualem Khoukhi]]'''
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2013|12|21}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| '''[[Romelu Lukaku]]'''
+| {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2026|10|5}}
+|-
+| '''[[Yousef Nasser]]'''
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|2009|5|31}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+!rowspan="14"| 131
+| [[Bashar Abdullah]]
+| {{fb|KUW}}
+| AFC
+!rowspan="14"| 134
+| {{dts|format=dmy|1996|3|16}}
+| {{dts|format=dmy|2018|5|25}}
+|-
+| [[Jeff Agoos]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1988|1|10}}
+| {{dts|format=dmy|2003|5|26}}
+|-
+| [[Taisir Al-Jassim]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|2004|11|17}}
+| {{dts|format=dmy|2018|6|20}}
+|-
+| '''[[Safuwan Baharudin]]'''
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|2010|1|17}}
+| {{dts|format=dmy|2026|10|1}}
+|-
+| '''[[Karim Boudiaf]]'''
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2013|12|21}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| [[Shay Given]]
+| {{fb|IRL}}
+| UEFA
+| {{dts|format=dmy|1996|3|27}}
+| {{dts|format=dmy|2016|5|31}}
+|-
+| '''[[Abdulaziz Hatem]]'''
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2009|12|30}}
+| {{dts|format=dmy|2026|9|30}}
+|-
+| '''[[Sadio Mané]]'''
+| {{fb|SEN}}
+| CAF
+| {{dts|format=dmy|2012|5|25}}
+| {{dts|format=dmy|2026|7|1}}
+|-
+| [[Hassan Mudhafar Al-Gheilani|Hassan Mudhafar]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2003|9|16}}
+| {{dts|format=dmy|2015|3|30}}
+|-
+|bgcolor=#9FC| [[Dorinel Munteanu]]
+| bgcolor="#9FC" | {{fb|ROU}}
+| UEFA
+| {{dts|format=dmy|1991|5|23}}
+| {{dts|format=dmy|2007|9|12}}
+|-
+| [[Andres Oper]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1995|5|19}}
+| {{dts|format=dmy|2014|5|26}}
+|-
+|bgcolor=#9FC| [[Wesley Sneijder]]
+| bgcolor="#9FC" | {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2003|4|30}}
+| {{dts|format=dmy|2018|9|6}}
+|-
+| [[Darijo Srna]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2002|11|20}}
+| {{dts|format=dmy|2016|6|25}}
+|-
+| [[Noel Valladares]]{{efn|1 unofficial FIFA match: French Guiana (2015).}}
+| {{fb|HON}}
+| CONCACAF
+| {{dts|format=dmy|2000|6|3}}
+| {{dts|format=dmy|2016|2|10}}
+|-
+!rowspan="9"| 145
+| '''[[Waleed Al-Hayam]]'''
+| {{fb|BHR}}
+| AFC
+!rowspan="9"| 133
+| {{dts|format=dmy|2010|12|25}}
+| {{dts|format=dmy|2026|9|27}}
+|-
+| [[Amad Al-Hosni]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2003|12|17}}
+| {{dts|format=dmy|2015|11|17}}
+|-
+| [[Andreas Isaksson]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|2002|3|3}}
+| {{dts|format=dmy|2016|6|22}}
+|-
+| [[Saud Kariri]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|2001|7|23}}
+| {{dts|format=dmy|2015|1|18}}
+|-
+| [[Sebastian Larsson]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|2008|2|6}}
+| {{dts|format=dmy|2021|6|29}}
+|-
+| [[Teemu Pukki]]
+| {{fb|FIN}}
+| UEFA
+| {{dts|format=dmy|2009|2|4}}
+| {{dts|format=dmy|2025|11|17}}
+|-
+|bgcolor=#9FC| [[Carlos Ruiz (Guatemalan footballer)|Carlos Ruiz]]
+| bgcolor="#9FC" | {{fb|GUA}}
+| CONCACAF
+| {{dts|format=dmy|1998|11|18}}
+| {{dts|format=dmy|2016|9|6}}
+|-
+| [[Lee Woon-jae]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1994|6|11}}
+| {{dts|format=dmy|2010|8|11}}
+|-
+| [[Xavi (footballer, born 1980)|Xavi]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2000|11|15}}
+| {{dts|format=dmy|2014|6|13}}
+|-
+!rowspan="5"| 154
+| '''[[Almoez Ali]]'''
+| {{fb|QAT}}
+| AFC
+!rowspan="5"| 132
+| {{dts|format=dmy|2013|12|21}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+|bgcolor=#9FC| [[Sargis Hovsepyan]]{{efn|1 unofficial FIFA match: Moldova (1992).}}
+| bgcolor="#9FC" | {{fb|ARM}}
+| UEFA
+| {{dts|format=dmy|1992|10|14}}
+| {{dts|format=dmy|2012|11|14}}
+|-
+|bgcolor=#9FC| [[Peter Jehle]]
+| bgcolor="#9FC" | {{fb|LIE}}
+| UEFA
+| {{dts|format=dmy|1998|10|14}}
+| {{dts|format=dmy|2018|3|25}}
+|-
+| [[Simon Kjær]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|2009|6|6}}
+| {{dts|format=dmy|2024|6|8}}
+|-
+| [[Héctor Moreno]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2007|10|17}}
+| {{dts|format=dmy|2023|3|26}}
+|-
+!rowspan="8"| 159
+| [[Ibrahim Hassan]]
+| {{fb|EGY}}
+| CAF
+!rowspan="8"| 131
+| {{dts|format=dmy|1988|2|3}}
+| {{dts|format=dmy|2002|1|6}}
+|-
+| [[Andrés Iniesta]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2006|5|27}}
+| {{dts|format=dmy|2018|7|1}}
+|-
+| [[Kim Källström]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|2001|2|1}}
+| {{dts|format=dmy|2016|6|22}}
+|-
+| [[Thomas Müller]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2024|7|5}}
+|-
+| [[R. Arumugam|Arumugan Rengasamy]]{{efn|11 unofficial Olympic matches: Papua New Guinea, North Korea (1976), Singapore (1976, 1983), Indonesia (1976, 1980), South Korea (1980 twice), India and Iraq (1983).}}
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|1973|5|17}}
+| {{dts|format=dmy|1986|9|23}}
+|-
+|bgcolor=#9FC| [[James Rodríguez]]
+| bgcolor="#9FC" | {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|2011|10|11}}
+| {{dts|format=dmy|2026|7|7}}
+|-
+|bgcolor=#9FC| [[Kiatisuk Senamuang]]{{efn|3 unofficial FIFA matches: Turkmenistan (1998), North Korea (1999) and 1 unspecified.}}
+| bgcolor="#9FC" | {{fb|THA}}
+| AFC
+| {{dts|format=dmy|1993|4|8}}
+| {{dts|format=dmy|2007|10|3}}
+|-
+| [[Lee Young-pyo]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1999|6|12}}
+| {{dts|format=dmy|2011|1|28}}
+|-
+!rowspan="11"| 167
+| '''[[Luis Advíncula]]'''
+| {{fb|PER}}
+| CONMEBOL
+!rowspan="11"| 130
+| {{dts|format=dmy|2010|9|4}}
+| {{dts|format=dmy|2025|9|9}}
+|-
+| [[Jorge Campos]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1991|11|20}}
+| {{dts|format=dmy|2003|11|19}}
+|-
+| [[Cha Bum-kun]]{{efn|6 unofficial Olympic matches: Taiwan (1975, 1976), Japan (1976 twice) and Israel (1976 twice).|name="OLYKOR"}}
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1972|5|7}}
+| {{dts|format=dmy|1986|6|10}}
+|-
+| '''[[Teerasil Dangda]]'''
+| {{fb|THA}}
+| AFC
+| {{dts|format=dmy|2007|7|7}}
+| {{dts|format=dmy|2026|6|9}}
+|-
+| '''[[Jesús Gallardo]]'''
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2016|10|8}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| '''[[Pedro Gallese]]'''
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|2014|8|6}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| '''[[Raúl Jiménez]]'''
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2013|1|30}}
+| {{dts|format=dmy|2026|7|5}}
+|-
+| [[Neymar]]
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|2010|8|10}}
+| {{dts|format=dmy|2026|7|5}}
+|-
+| [[David Ospina]]
+| {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|2007|2|7}}
+| {{dts|format=dmy|2026|6|1}}
+|-
+| [[Lukas Podolski]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2004|6|6}}
+| {{dts|format=dmy|2017|3|22}}
+|-
+| [[Edwin van der Sar]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|1995|6|7}}
+| {{dts|format=dmy|2008|10|15}}
+|-
+!rowspan="5"| 178
+| '''[[Kamil Al-Aswad]]'''
+| {{fb|BHR}}
+| AFC
+!rowspan="5"| 129
+| {{dts|format=dmy|2015|5|30}}
+| {{dts|format=dmy|2026|9|27}}
+|-
+| [[Boniek García]]{{efn|4 unofficial FIFA matches: Guadeloupe (2007) and French Guiana (2015 twice, 2017).}}
+| {{fb|HON}}
+| CONCACAF
+| {{dts|format=dmy|2005|7|1}}
+| {{dts|format=dmy|2021|10|7}}
+|-
+| [[Paolo Guerrero]]
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|2004|10|9}}
+| {{dts|format=dmy|2025|6|10}}
+|-
+|bgcolor=#9FC| [[Guram Kashia]]
+| bgcolor="#9FC" | {{fb|GEO}}
+| UEFA
+| {{dts|format=dmy|2009|4|1}}
+| {{dts|format=dmy|2026|6|2}}
+|-
+| [[Ragnar Klavan]]{{efn|name="04BLR"}}
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2003|7|3}}
+| {{dts|format=dmy|2024|3|21}}
+|-
+!rowspan="4"| 183
+| [[Juan Arango]]{{efn|1 unofficial FIFA match: Mexico U23 (2011).}}
+| {{fb|VEN}}
+| CONMEBOL
+!rowspan="4"| 128
+| {{dts|format=dmy|1999|1|27}}
+| {{dts|format=dmy|2015|9|8}}
+|-
+| [[Manuel Neuer]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2009|6|2}}
+| {{dts|format=dmy|2026|6|29}}
+|-
+| [[Roberto Palacios]]
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|1992|11|24}}
+| {{dts|format=dmy|2012|5|23}}
+|-
+| [[Márcio Vieira]]
+| {{fb|AND}}
+| UEFA
+| {{dts|format=dmy|2005|10|12}}
+| {{dts|format=dmy|2024|6|11}}
+|-
+!rowspan="12"| 187
+| [[Toby Alderweireld]]
+| {{fb|BEL}}
+| UEFA
+!rowspan="12"| 127
+| {{dts|format=dmy|2009|5|29}}
+| {{dts|format=dmy|2022|12|1}}
+|-
+| [[Mohammed Al-Musalami]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2010|9|21}}
+| {{dts|format=dmy|2025|1|4}}
+|-
+| [[Hassouneh Al-Sheikh]]
+| {{fb|JOR}}
+| AFC
+| {{dts|format=dmy|1997|4|19}}
+| {{dts|format=dmy|2010|9|28}}
+|-
+| [[Marcelo Balboa]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1988|1|10}}
+| {{dts|format=dmy|2000|1|16}}
+|-
+| '''[[Kevin De Bruyne]]'''
+| {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2010|8|11}}
+| {{dts|format=dmy|2026|10|2}}
+|-
+|bgcolor=#9FC| [[Server Djeparov]]{{efn|1 unofficial FIFA match: Bahrain (2005).|name="05BHR"}}
+| bgcolor="#9FC" | {{fb|UZB}}
+| AFC
+| {{dts|format=dmy|2002|5|14}}
+| {{dts|format=dmy|2017|9|5}}
+|-
+| [[Luís Figo]]
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|1991|10|12}}
+| {{dts|format=dmy|2006|7|8}}
+|-
+|bgcolor=#9FC| [[Sergei Ignashevich]]
+| bgcolor="#9FC" | {{fb|RUS}}
+| UEFA
+| {{dts|format=dmy|2002|8|21}}
+| {{dts|format=dmy|2018|7|7}}
+|-
+| [[Ali Karimi]]
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|1998|10|13}}
+| {{dts|format=dmy|2012|11|6}}
+|-
+| [[Dennis Rommedahl]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|2000|8|16}}
+| {{dts|format=dmy|2013|6|11}}
+|-
+| '''[[Andriy Yarmolenko]]'''
+| {{fb|UKR}}
+| UEFA
+| {{dts|format=dmy|2009|9|5}}
+| {{dts|format=dmy|2026|10|2}}
+|-
+| [[Maya Yoshida]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|2010|1|6}}
+| {{dts|format=dmy|2026|5|31}}
+|-
+!rowspan="12"| 199
+| [[Dani Alves]]
+| {{fb|BRA}}
+| CONMEBOL
+!rowspan="12"| 126
+| {{dts|format=dmy|2006|10|10}}
+| {{dts|format=dmy|2022|12|5}}
+|-
+| [[DaMarcus Beasley]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|2001|1|27}}
+| {{dts|format=dmy|2017|9|5}}
+|-
+| [[Eden Hazard]]
+| {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2008|11|16}}
+| {{dts|format=dmy|2022|12|1}}
+|-
+| [[Enar Jääger]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2002|10|12}}
+| {{dts|format=dmy|2017|11|9}}
+|-
+|bgcolor=#9FC| '''[[Laurent Jans]]'''
+| bgcolor="#9FC" | {{fb|LUX}}
+| UEFA
+| {{dts|format=dmy|2012|10|16}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| [[Paolo Maldini]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|1988|3|31}}
+| {{dts|format=dmy|2002|6|18}}
+|-
+| [[Luis Marín (footballer, born 1974)|Luis Marín]]{{efn|2 unofficial FIFA matches: Martinique (1993, 2002).}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|1993|6|23}}
+| {{dts|format=dmy|2009|11|18}}
+|-
+|bgcolor=#9FC| [[Kennedy Mweene]]
+| bgcolor="#9FC" | {{fb|ZAM}}
+| CAF
+| {{dts|format=dmy|2004|5|22}}
+| {{dts|format=dmy|2021|7|14}}
+|-
+| '''[[Keylor Navas]]'''{{efn|1 unofficial FIFA match: Guadeloupe (2009).|name="09GLP"}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|2008|10|11}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+| [[Musaed Neda]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|2002|12|18}}
+| {{dts|format=dmy|2015|10|13}}
+|-
+| [[Sebastián Soria]]
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2006|11|15}}
+| {{dts|format=dmy|2025|10|14}}
+|-
+| [[Andoni Zubizarreta]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|1985|1|23}}
+| {{dts|format=dmy|1998|6|24}}
+|-
+!rowspan="11"| 211
+| [[Alaa Abdul-Zahra]]
+| {{fb|IRQ}}
+| AFC
+!rowspan="11"| 125
+| {{dts|format=dmy|2007|6|8}}
+| {{dts|format=dmy|2021|11|11}}
+|-
+| [[Roberto Carlos]]
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|1992|2|26}}
+| {{dts|format=dmy|2006|7|1}}
+|-
+| [[Mario Frick (footballer)|Mario Frick]]
+| {{fb|LIE}}
+| UEFA
+| {{dts|format=dmy|1993|10|26}}
+| {{dts|format=dmy|2015|10|12}}
+|-
+|bgcolor=#9FC| [[Ian Goodison]]{{efn|3 unofficial FIFA matches: Saint Lucia (1997) and Guadeloupe (1999, 2002).}}
+| bgcolor="#9FC" | {{fb|JAM}}
+| CONCACAF
+| {{dts|format=dmy|1996|3|3}}
+| {{dts|format=dmy|2009|5|23}}
+|-
+|bgcolor=#9FC| '''[[Harry Kane]]'''
+| bgcolor="#9FC"| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|2015|3|27}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Sayed Mahmood Jalal]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|1998|9|13}}
+| {{dts|format=dmy|2010|1|20}}
+|-
+| [[Maxi Pereira]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2005|10|26}}
+| {{dts|format=dmy|2018|6|7}}
+|-
+| '''[[Harib Al-Saadi]]'''
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2016|3|24}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| [[Xherdan Shaqiri]]
+| {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2024|7|6}}
+|-
+|bgcolor=#9FC| [[Peter Shilton]]
+| bgcolor="#9FC" | {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|1970|11|25}}
+| {{dts|format=dmy|1990|7|7}}
+|-
+| [[David Silva]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2006|11|15}}
+| {{dts|format=dmy|2018|7|1}}
+|-
+!rowspan="9"| 222
+| [[Hussain Ali Baba]]
+| {{fb|BHR}}
+| AFC
+!rowspan="9"| 124
+| {{dts|format=dmy|2001|12|13}}
+| {{dts|format=dmy|2016|9|1}}
+|-
+|bgcolor=#9FC| '''[[Jordan Ayew]]'''
+| bgcolor="#9FC" | {{fb|GHA}}
+| CAF
+| {{dts|format=dmy|2010|9|8}}
+| {{dts|format=dmy|2026|7|3}}
+|-
+|bgcolor=#9FC| [[Petr Čech]]
+| bgcolor="#9FC" | {{fb|CZE}}
+| UEFA
+| {{dts|format=dmy|2002|2|12}}
+| {{dts|format=dmy|2016|6|21}}
+|-
+| [[Linval Dixon]]{{efn|3 unofficial FIFA matches: Saint Martin (1993) and Martinique (1993, 2001).}}
+| {{fb|JAM}}
+| CONCACAF
+| {{dts|format=dmy|1993|5|21}}
+| {{dts|format=dmy|2003|4|2}}
+|-
+|bgcolor=#9FC| [[Domingues]]
+| bgcolor="#9FC" | {{fb|MOZ}}
+| CAF
+| {{dts|format=dmy|2004|6|13}}
+| {{dts|format=dmy|2026|1|5}}
+|-
+| [[Gheorghe Hagi]]
+| {{fb|ROU}}
+| UEFA
+| {{dts|format=dmy|1983|8|10}}
+| {{dts|format=dmy|2000|6|24}}
+|-
+| [[Marc Pujol]]
+| {{fb|AND}}
+| UEFA
+| {{dts|format=dmy|2000|2|6}}
+| {{dts|format=dmy|2026|6|4}}
+|-
+| [[Carlos Salcido]]{{efn|name="07GLP"}}
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2004|9|8}}
+| {{dts|format=dmy|2014|6|29}}
+|-
+| [[Yoo Sang-chul]]{{efn|1 unofficial FIFA matches: Japan U21 (1998).}}
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1994|9|11}}
+| {{dts|format=dmy|2005|6|3}}
+|-
+!rowspan="7"| 231
+| [[Saad Al-Mukhaini]]
+| {{fb|OMA}}
+| AFC
+!rowspan="7"| 123
+| {{dts|format=dmy|2006|11|8}}
+| {{dts|format=dmy|2019|12|2}}
+|-
+| [[Armando Cooper]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2006|10|7}}
+| {{dts|format=dmy|2022|2|2}}
+|-
+| [[Thierry Henry]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|1997|10|11}}
+| {{dts|format=dmy|2010|6|22}}
+|-
+|bgcolor=#9FC| [[Hassan Maatouk]]
+| bgcolor="#9FC" | {{fb|LBN}}
+| AFC
+| {{dts|format=dmy|2006|1|27}}
+| {{dts|format=dmy|2024|6|11}}
+|-
+|bgcolor=#9FC| [[Aïssa Mandi]]
+| bgcolor="#9FC" | {{fb|ALG}}
+| CAF
+| {{dts|format=dmy|2014|3|5}}
+| {{dts|format=dmy|2026|7|2}}
+|-
+| [[Blas Pérez]]{{efn|3 unofficial FIFA matches: Guadeloupe (2009, 2011) and Martinique (2013).|name="09GLP13MTQ"}}
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2001|3|14}}
+| {{dts|format=dmy|2018|6|24}}
+|-
+|bgcolor=#9FC| [[Didier Zokora]]
+| bgcolor="#9FC" | {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2000|4|23}}
+| {{dts|format=dmy|2014|6|19}}
+|-
+!rowspan="8"| 238
+| [[Walter Ayoví]]
+| {{fb|ECU}}
+| CONMEBOL
+!rowspan="8"| 122
+| {{dts|format=dmy|2001|6|7}}
+| {{dts|format=dmy|2017|3|28}}
+|-
+| [[Zlatan Ibrahimović]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|2001|1|31}}
+| {{dts|format=dmy|2023|3|24}}
+|-
+| [[Masami Ihara]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|1988|1|27}}
+| {{dts|format=dmy|1999|7|5}}
+|-
+|bgcolor=#9FC| [[Goran Pandev]]
+| bgcolor="#9FC" | {{fb|MKD}}
+| UEFA
+| {{dts|format=dmy|2001|6|6}}
+| {{dts|format=dmy|2021|6|21}}
+|-
+| [[Hany Ramzy]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|1988|11|16}}
+| {{dts|format=dmy|2003|2|12}}
+|-
+| '''[[Salomón Rondón]]'''
+| {{fb|VEN}}
+| CONMEBOL
+| {{dts|format=dmy|2008|2|3}}
+| {{dts|format=dmy|2026|3|30}}
+|-
+| '''[[Mohamed Salah]]'''
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|2011|9|3}}
+| {{dts|format=dmy|2026|9|25}}
+|-
+| [[Kolo Touré]]
+| {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2000|7|2}}
+| {{dts|format=dmy|2015|2|8}}
+|-
+!rowspan="9"| 246
+| [[Mohamed Abd Al-Jawad]]
+| {{fb|KSA}}
+| AFC
+!rowspan="9"| 121
+| {{dts|format=dmy|1981|3|8}}
+| {{dts|format=dmy|1994|7|3}}
+|-
+| [[Bashar Bani Yaseen]]
+| {{fb|JOR}}
+| AFC
+| {{dts|format=dmy|1999|8|25}}
+| {{dts|format=dmy|2012|6|3}}
+|-
+| [[Cuauhtémoc Blanco]]{{efn|name="07GLP"}}
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1995|2|1}}
+| {{dts|format=dmy|2014|5|28}}
+|-
+| [[Leonardo Bonucci]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2023|6|15}}
+|-
+| [[Tim Howard]]{{efn|1 unofficial FIFA match: Guadeloupe (2011).|name="11GLP"}}
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|2002|3|10}}
+| {{dts|format=dmy|2017|10|10}}
+|-
+| [[Aide Iskandar]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|1995|2|21}}
+| {{dts|format=dmy|2007|9|12}}
+|-
+| '''[[Mateo Kovačić]]'''
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2013|3|22}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Peter Schmeichel]]{{efn|8 unofficial Olympic matches: Greece, Poland, West Germany (1987, 1988) and Romania (1987 twice).}}
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|1988|5|10}}
+| {{dts|format=dmy|2001|4|25}}
+|-
+| [[Bastian Schweinsteiger]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2004|6|6}}
+| {{dts|format=dmy|2016|8|31}}
+|-
+!rowspan="12"| 255
+| [[Gilbert Agius]]
+| {{fb|MLT}}
+| UEFA
+!rowspan="12"| 120
+| {{dts|format=dmy|1993|11|7}}
+| {{dts|format=dmy|2009|11|18}}
+|-
+| [[André Ayew]]
+| {{fb|GHA}}
+| CAF
+| {{dts|format=dmy|2007|8|21}}
+| {{dts|format=dmy|2024|1|26}}
+|-
+| [[Subait Khater]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|1999|8|20}}
+| {{dts|format=dmy|2011|11|15}}
+|-
+| [[Riyad Mahrez]]
+| {{fb|ALG}}
+| CAF
+| {{dts|format=dmy|2014|5|31}}
+| {{dts|format=dmy|2026|7|2}}
+|-
+| [[Mart Poom]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1992|6|3}}
+| {{dts|format=dmy|2009|6|10}}
+|-
+| [[Ramón Ramírez (footballer)|Ramón Ramírez]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1991|12|4}}
+| {{dts|format=dmy|2000|11|15}}
+|-
+|bgcolor=#9FC| [[Rüştü Reçber]]
+| bgcolor="#9FC" | {{fb|TUR}}
+| UEFA
+| {{dts|format=dmy|1994|10|12}}
+| {{dts|format=dmy|2012|5|26}}
+|-
+| [[Wayne Rooney]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|2003|2|12}}
+| {{dts|format=dmy|2018|11|15}}
+|-
+| [[Kasper Schmeichel]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|2013|2|6}}
+| {{dts|format=dmy|2025|11|18}}
+|-
+| [[Román Torres]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2005|7|17}}
+| {{dts|format=dmy|2019|11|15}}
+|-
+| '''[[Eduardo Vargas]]'''
+| {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2009|11|4}}
+| {{dts|format=dmy|2025|3|25}}
+|-
+| [[Justo Villar]]
+| {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|1999|3|3}}
+| {{dts|format=dmy|2018|6|12}}
+|-
+! rowspan="8" | 267
+| [[Odai Al-Saify]]
+| {{fb|JOR}}
+| AFC
+! rowspan="8" | 119
+| {{dts|format=dmy|2007|6|18}}
+| {{dts|format=dmy|2023|3|28}}
+|-
+| [[David Carabott]]{{efn|1 unofficial FIFA matches: Libya (1988).|name="88LBY"}}
+| {{fb|MLT}}
+| UEFA
+| {{dts|format=dmy|1987|11|15}}
+| {{dts|format=dmy|2005|2|9}}
+|-
+| [[Pat Jennings]]
+| {{fb|NIR}}
+| UEFA
+| {{dts|format=dmy|1964|4|15}}
+| {{dts|format=dmy|1986|6|12}}
+|-
+| [[Timur Kapadze]]{{efn|name="05BHR"}}
+| {{fb|UZB}}
+| AFC
+| {{dts|format=dmy|2002|5|14}}
+| {{dts|format=dmy|2015|1|22}}
+|-
+| '''[[Andrej Kramarić]]'''
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2014|9|4}}
+| {{dts|format=dmy|2026|7|2}}
+|-
+| [[Shinji Okazaki]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|2008|10|9}}
+| {{dts|format=dmy|2019|6|24}}
+|-
+| [[Talal Yousef]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|1996|6|3}}
+| {{dts|format=dmy|2009|1|7}}
+|-
+| [[Theodoros Zagorakis]]{{efn|1 unofficial FIFA match: Romania (2002).}}
+| {{fb|GRE}}
+| UEFA
+| {{dts|format=dmy|1994|9|7}}
+| {{dts|format=dmy|2007|8|22}}
+|-
+!rowspan="10"| 275
+| [[Mohammad Al-Shalhoub]]
+| {{fb|KSA}}
+| AFC
+!rowspan="10"| 118
+| {{dts|format=dmy|2000|5|21}}
+| {{dts|format=dmy|2018|2|28}}
+|-
+|bgcolor=#9FC| [[Bruno Ecuele Manga]]
+| bgcolor="#9FC" | {{fb|GAB}}
+| CAF
+| {{dts|format=dmy|2006|10|7}}
+| {{dts|format=dmy|2025|12|28}}
+|-
+| [[Samuel Eto'o]]
+| {{fb|CMR}}
+| CAF
+| {{dts|format=dmy|1997|3|9}}
+| {{dts|format=dmy|2014|6|13}}
+|-
+| [[Geremi]]
+| {{fb|CMR}}
+| CAF
+| {{dts|format=dmy|1996|10|6}}
+| {{dts|format=dmy|2010|6|24}}
+|-
+| [[Heinz Hermann]]
+| {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|1978|9|6}}
+| {{dts|format=dmy|1991|11|13}}
+|-
+| [[Ahmed Ibrahim Khalaf]]
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2010|11|11}}
+| {{dts|format=dmy|2022|9|26}}
+|-
+|bgcolor=#9FC| [[Ri Myong-guk]]
+| bgcolor="#9FC" | {{fb|PRK}}
+| AFC
+| {{dts|format=dmy|2007|6|24}}
+| {{dts|format=dmy|2019|1|17}}
+|-
+| [[John O'Shea]]
+| {{fb|IRL}}
+| UEFA
+| {{dts|format=dmy|2001|8|15}}
+| {{dts|format=dmy|2018|6|2}}
+|-
+| '''[[Pedro Miguel (footballer)|Pedro Miguel]]'''
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2016|3|29}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| [[Karel Poborský]]
+| {{fb|CZE}}
+| UEFA
+| {{dts|format=dmy|1994|2|23}}
+| {{dts|format=dmy|2006|6|22}}
+|-
+! rowspan="12" | 285
+| '''[[Vincent Aboubakar]]'''
+| {{fb|CMR}}
+| CAF
+! rowspan="12" | 117
+| {{dts|format=dmy|2010|5|29}}
+| {{dts|format=dmy|2025|11|13}}
+|-
+| '''[[David Alaba]]'''
+| {{fb|AUT}}
+| UEFA
+| {{dts|format=dmy|2009|10|14}}
+| {{dts|format=dmy|2026|7|2}}
+|-
+| [[Husain Ali]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|1998|10|3}}
+| {{dts|format=dmy|2013|11|9}}
+|-
+| [[Hamza Al-Dardour]]
+| {{fb|JOR}}
+| AFC
+| {{dts|format=dmy|2011|1|2}}
+| {{dts|format=dmy|2024|1|25}}
+|-
+| [[Giorgio Chiellini]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|2004|11|17}}
+| {{dts|format=dmy|2022|6|1}}
+|-
+| [[Daniele De Rossi]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|2004|9|4}}
+| {{dts|format=dmy|2017|11|10}}
+|-
+| [[Kim Ho-kon]]{{efn|7 unofficial Olympic matches: Taiwan (1971, 1975, 1976), Japan (1976 twice) and Israel (1976 twice).}}
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1971|11|14}}
+| {{dts|format=dmy|1979|3|4}}
+|-
+| [[Ahmed Jamil]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|1986|2|25}}
+| {{dts|format=dmy|1998|5|4}}
+|-
+| [[Olof Mellberg]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|2000|2|23}}
+| {{dts|format=dmy|2012|6|19}}
+|-
+|bgcolor=#9FC| [[Noureddine Naybet]]
+| bgcolor="#9FC" | {{fb|MAR}}
+| CAF
+| {{dts|format=dmy|1990|8|9}}
+| {{dts|format=dmy|2006|1|28}}
+|-
+| [[S. Subramani|Shunmugham Subramani]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|1996|6|27}}
+| {{dts|format=dmy|2007|2|4}}
+|-
+| [[Hassan Sunny]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|2004|2|18}}
+| {{dts|format=dmy|2024|6|11}}
+|-
+!rowspan="17"| 297
+| [[Majed Abdullah]]{{efn|1 unofficial FIFA match: Iraq (1985).}}
+| {{fb|KSA}}
+| AFC
+!rowspan="17"| 116
+| {{dts|format=dmy|1978|12|9}}
+| {{dts|format=dmy|1994|6|29}}
+|-
+| [[Zainal Abidin Hassan]]{{efn|13 unofficial Olympic matches: Indonesia, Singapore, India (1983 twice), Saudi Arabia (1983), Qatar, Japan, Iraq (1984) and Thailand (1984, 1987 twice).}}
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|1980|11|11}}
+| {{dts|format=dmy|1997|10|14}}
+|-
+| [[Nawaf Al-Khaldi]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|2000|2|18}}
+| {{dts|format=dmy|2014|11|20}}
+|-
+| [[Khaled Al-Muwallid]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|1988|2|17}}
+| {{dts|format=dmy|1998|6|18}}
+|-
+| [[Martín Cáceres]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2007|9|12}}
+| {{dts|format=dmy|2022|11|24}}
+|-
+| [[Juan Cuadrado]]
+| {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|2010|9|3}}
+| {{dts|format=dmy|2023|9|7}}
+|-
+| [[Abdallah Deeb]]
+| {{fb|JOR}}
+| AFC
+| {{dts|format=dmy|2007|9|7}}
+| {{dts|format=dmy|2016|11|15}}
+|-
+| [[Marcel Desailly]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|1993|8|22}}
+| {{dts|format=dmy|2004|6|17}}
+|-
+| [[Kostas Katsouranis]]
+| {{fb|GRE}}
+| UEFA
+| {{dts|format=dmy|2003|8|20}}
+| {{dts|format=dmy|2015|6|16}}
+|-
+| [[Yoshikatsu Kawaguchi]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|1997|3|15}}
+| {{dts|format=dmy|2008|11|19}}
+|-
+| '''[[Joshua Kimmich]]'''
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2016|5|29}}
+| {{dts|format=dmy|2026|9|27}}
+|-
+| '''[[Ali Madan]]'''
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|2016|2|5}}
+| {{dts|format=dmy|2026|9|30}}
+|-
+|bgcolor=#9FC| '''[[Chancel Mbemba]]''' 
+| bgcolor="#9FC" | {{fb|COD}}
+| CAF
+| {{dts|format=dmy|2012|6|17}}
+| {{dts|format=dmy|2026|10|5}}
+|-
+| [[Roland Nilsson]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|1986|5|1}}
+| {{dts|format=dmy|2000|10|11}}
+|-
+| [[Andrea Pirlo]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|2002|9|7}}
+| {{dts|format=dmy|2015|9|3}}
+|-
+| [[Wesam Rizik]]
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2001|10|18}}
+| {{dts|format=dmy|2014|11|13}}
+|-
+| [[Theodore Whitmore]]{{efn|4 unofficial FIFA matches: Guadeloupe (1999), Martinique (2001, 2003) and 1 unspecified.}}
+| {{fb|JAM}}
+| CONCACAF
+| {{dts|format=dmy|1993|11|7}}
+| {{dts|format=dmy|2004|11|17}}
+|-
+!rowspan="16"| 314
+| [[Rashid Al-Dosari]]
+| {{fb|BHR}}
+| AFC
+!rowspan="16"| 115
+| {{dts|format=dmy|1998|9|13}}
+| {{dts|format=dmy|2008|12|23}}
+|-
+| [[Ismail Al-Hammadi]]{{efn|1 unofficial FIFA match: Unspecified.|name="1unspec"}}
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|2007|9|23}}
+| {{dts|format=dmy|2019|12|2}}
+|-
+| [[Jozy Altidore]]{{efn|name="11GLP"}}
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|2007|11|17}}
+| {{dts|format=dmy|2019|7|7}}
+|-
+| [[Roberto Ayala]]
+| {{fb|ARG}}
+| CONMEBOL
+| {{dts|format=dmy|1994|11|16}}
+| {{dts|format=dmy|2007|7|15}}
+|-
+| [[David Beckham]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|1996|9|1}}
+| {{dts|format=dmy|2009|10|14}}
+|-
+|'''[[Thibaut Courtois]]'''
+| {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2011|11|15}}
+| {{dts|format=dmy|2026|7|10}}
+|-
+| [[Gonzalo Jara (footballer, born 1985)|Gonzalo Jara]]
+| {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2006|4|25}}
+| {{dts|format=dmy|2019|7|6}}
+|-
+| [[Abdulrahim Jumaa]]{{efn|1 unofficial FIFA Match: Japan U21 (1998).|name="98JPN"}}
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|1998|11|25}}
+| {{dts|format=dmy|2009|4|1}}
+|-
+| [[Ali Mabkhout]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|2009|11|15}}
+| {{dts|format=dmy|2024|1|6}}
+|-
+| [[Bilal Mohammed]]
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2003|9|4}}
+| {{dts|format=dmy|2014|12|31}}
+|-
+| [[M. Chandran (Malaysian footballer)|Chandran Mutveeran]]{{efn|7 unofficial Olympic matches: Japan, South Korea, Taiwan, Philippines (1971), West Germany, United States and Morocco (1972).}}
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|1965|8|14}}
+| {{dts|format=dmy|1974|9|15}}
+|-
+| [[Miralem Pjanić]]
+| {{fb|BIH}}
+| UEFA
+| {{dts|format=dmy|2008|8|20}}
+| {{dts|format=dmy|2024|3|21}}
+|-
+| [[Gheorghe Popescu (footballer, born 1967)|Gheorghe Popescu]]
+| {{fb|ROU}}
+| UEFA
+| {{dts|format=dmy|1988|9|20}}
+| {{dts|format=dmy|2003|3|29}}
+|-
+| [[Andrejs Rubins]]{{efn|2 unofficial FIFA matches: Oman U23 (2005) and Bolivia (2011).}}
+| {{fb|LVA}}
+| UEFA
+| {{dts|format=dmy|1998|11|10}}
+| {{dts|format=dmy|2011|10|11}}
+|-
+| '''[[Bernardo Silva]]'''
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|2015|3|31}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+|bgcolor=#9FC| '''[[Dušan Tadić]]'''
+| bgcolor="#9FC" | {{fb|SRB}}
+| UEFA
+| {{dts|format=dmy|2008|12|14}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+!rowspan="19"| 330
+| [[Xabi Alonso]]
+| {{fb|ESP}}
+| UEFA
+!rowspan="19"| 114
+| {{dts|format=dmy|2003|4|30}}
+| {{dts|format=dmy|2014|6|23}}
+|-
+|'''[[Salem Al-Dawsari]]'''
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|2012|2|29}}
+| {{dts|format=dmy|2026|6|26}}
+|-
+|bgcolor=#9FC| [[Angus Eve]]{{efn|4 unofficial FIFA matches: Martinique (1994, 1997, 2002) and Guadeloupe (1999).}}
+| bgcolor="#9FC" | {{fb|TRI}}
+| CONCACAF
+| {{dts|format=dmy|1994|4|12}}
+| {{dts|format=dmy|2005|7|12}}
+|-
+| [[Steven Gerrard]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|2000|5|31}}
+| {{dts|format=dmy|2014|6|24}}
+|-
+| [[Wael Gomaa]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|2001|4|26}}
+| {{dts|format=dmy|2013|10|15}}
+|-
+| [[Makoto Hasebe]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|2006|2|10}}
+| {{dts|format=dmy|2018|7|2}}
+|-
+| '''[[Nicolas Hasler]]'''
+| {{fb|LIE}}
+| UEFA
+| {{dts|format=dmy|2010|8|11}}
+| {{dts|format=dmy|2026|10|1}}
+|-
+| [[Jalal Hosseini]]
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2007|2|7}}
+| {{dts|format=dmy|2018|5|18}}
+|-
+| [[Toni Kroos]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2010|3|3}}
+| {{dts|format=dmy|2024|7|5}}
+|-
+| [[Dmitri Kruglov]]{{efn|name="1unspec"}}
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2004|10|13}}
+| {{dts|format=dmy|2019|3|26}}
+|-
+|bgcolor=#9FC| [[Gao Lin]]
+| bgcolor="#9FC" | {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|2005|7|31}}
+| {{dts|format=dmy|2019|1|24}}
+|-
+| [[Björn Nordqvist]]{{efn|1 unofficial Olympic match: Hungary (1963).}}
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|1963|5|4}}
+| {{dts|format=dmy|1978|10|4}}
+|-
+| [[Didier Ovono]]
+| {{fb|GAB}}
+| CAF
+| {{dts|format=dmy|2003|3|29}}
+| {{dts|format=dmy|2019|3|23}}
+|-
+| [[Raio Piiroja]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1998|11|21}}
+| {{dts|format=dmy|2015|3|31}}
+|-
+| [[Stipe Pletikosa]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|1999|2|10}}
+| {{dts|format=dmy|2014|6|23}}
+|-
+| [[Ali Rehema]]
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2005|6|8}}
+| {{dts|format=dmy|2016|3|29}}
+|-
+| [[Indra Sahdan Daud]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|1997|4|26}}
+| {{dts|format=dmy|2013|9|10}}
+|-
+| [[Kristen Viikmäe]]{{efn|name="04BLR"}}
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1997|1|26}}
+| {{dts|format=dmy|2013|6|3}}
+|-
+| [[Sergei Zenjov]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2008|8|20}}
+| {{dts|format=dmy|2024|10|11}}
+|-
+!rowspan="13"| 349
+| [[Nashat Akram]]
+| {{fb|IRQ}}
+| AFC
+!rowspan="13"| 113
+| {{dts|format=dmy|2001|10|5}}
+| {{dts|format=dmy|2013|6|4}}
+|-
+| [[Ahmed Al-Dokhi]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|1997|3|2}}
+| {{dts|format=dmy|2006|11|15}}
+|-
+|bgcolor=#9FC| [[Birkir Bjarnason]]
+| bgcolor="#9FC" | {{fb|ISL}}
+| UEFA
+| {{dts|format=dmy|2010|10|29}}
+| {{dts|format=dmy|2022|11|16}}
+|-
+| '''[[Francisco Calvo]]'''{{efn|6 unofficial FIFA matches: French Guiana (2017), Guadeloupe (2021, 2024) and Martinique (2022, 2023 twice).}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|2011|7|2}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+|bgcolor=#9FC| '''[[Kiran Chemjong]]'''{{efn|1 unrecognised FIFA match: Northern Mariana Islands (2013).}}
+| bgcolor="#9FC" | {{fb|NEP}}
+| AFC
+| {{dts|format=dmy|2008|5|24}}
+| {{dts|format=dmy|2026|3|31}}
+|-
+| [[Max Gradel]]
+| {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2011|6|5}}
+| {{dts|format=dmy|2024|3|23}}
+|-
+| [[Philipp Lahm]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2004|2|18}}
+| {{dts|format=dmy|2014|7|13}}
+|-
+| [[Hawar Mulla Mohammed]]
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2001|8|31}}
+| {{dts|format=dmy|2012|6|12}}
+|-
+| [[Viktor Onopko]]
+| {{fb|CIS|1992}}<br />{{fb|RUS}}
+| UEFA
+| {{dts|format=dmy|1992|4|29}}
+| {{dts|format=dmy|2004|8|18}}
+|-
+| [[Răzvan Raț]]
+| {{fb|ROU}}
+| UEFA
+| {{dts|format=dmy|2002|2|13}}
+| {{dts|format=dmy|2016|6|15}}
+|-
+| [[Thiago Silva]]
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|2008|10|12}}
+| {{dts|format=dmy|2022|12|9}}
+|-
+| [[Martin Stocklasa]]
+| {{fb|LIE}}
+| UEFA
+| {{dts|format=dmy|1996|8|31}}
+| {{dts|format=dmy|2014|3|5}}
+|-
+| '''[[Piotr Zieliński]]'''
+| {{fb|POL}}
+| UEFA
+| {{dts|format=dmy|2013|6|4}}
+| {{dts|format=dmy|2026|10|5}}
+|-
+!rowspan="25"| 362
+| [[Jarah Al Ateeqi]]
+| {{fb|KUW}}
+| AFC
+!rowspan="25"| 112
+| {{dts|format=dmy|2001|8|3}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+| [[Abdulla Al-Marzooqi]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|2001|2|3}}
+| {{dts|format=dmy|2013|1|15}}
+|-
+| [[Yasser Al-Qahtani]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|2002|12|17}}
+| {{dts|format=dmy|2013|1|12}}
+|-
+| [[Zuhair Bakheet]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|1988|1|23}}
+| {{dts|format=dmy|2002|12|16}}
+|-
+| [[Franz Burgmeier]]
+| {{fb|LIE}}
+| UEFA
+| {{dts|format=dmy|2001|9|5}}
+| {{dts|format=dmy|2018|3|25}}
+|-
+| [[Frank de Boer]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|1990|9|26}}
+| {{dts|format=dmy|2004|6|26}}
+|-
+| '''[[Memphis Depay]]'''
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2013|10|15}}
+| {{dts|format=dmy|2026|6|25}}
+|-
+| [[Abdel-Zaher El-Saqqa]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|1997|6|8}}
+| {{dts|format=dmy|2010|1|20}}
+|-
+| [[Diego Forlán]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2002|3|27}}
+| {{dts|format=dmy|2014|6|28}}
+|-
+| [[Alain Geiger]]
+| {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|1980|11|19}}
+| {{dts|format=dmy|1996|6|8}}
+|-
+| [[Aaron Hughes]]
+| {{fb|NIR}}
+| UEFA
+| {{dts|format=dmy|1998|3|24}}
+| {{dts|format=dmy|2018|6|3}}
+|-
+|bgcolor=#9FC| '''[[Yapp Hung Fai]]'''
+| bgcolor="#9FC" | {{fb|HKG}}
+| AFC
+| {{dts|format=dmy|2010|2|11}}
+| {{dts|format=dmy|2025|10|9}}
+|-
+| [[Juraj Kucka]]
+| {{fb|SVK}}
+| UEFA
+| {{dts|format=dmy|2008|11|19}}
+| {{dts|format=dmy|2024|9|8}}
+|-
+| [[Juris Laizāns]]
+| {{fb|LAT}}
+| UEFA
+| {{dts|format=dmy|1998|2|6}}
+| {{dts|format=dmy|2013|11|15}}
+|-
+|bgcolor=#9FC| [[Yénier Márquez]]{{efn|14 unofficial FIFA matches: Saint Martin (2001), Martinique (2001, 2002, 2004 twice, 2006, 2010), Guadeloupe (2003, 2007 twice, 2008 twice, 2010) and French Guiana (2014).}}
+| bgcolor="#9FC" | {{fb|CUB}}
+| CONCACAF
+| {{dts|format=dmy|2000|5|7}}
+| {{dts|format=dmy|2015|7|15}}
+|-
+| '''[[Marquinhos]]'''
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|2013|11|16}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| [[Nani (footballer)|Nani]]
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|2006|9|1}}
+| {{dts|format=dmy|2017|7|2}}
+|-
+| [[Claudio Reyna]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1994|1|15}}
+| {{dts|format=dmy|2006|6|22}}
+|-
+| [[Roque Santa Cruz]]
+| {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|1999|4|28}}
+| {{dts|format=dmy|2016|11|10}}
+|-
+| [[Hakan Şükür]]
+| {{fb|TUR}}
+| UEFA
+| {{dts|format=dmy|1992|3|25}}
+| {{dts|format=dmy|2007|10|17}}
+|-
+| [[Ki Sung-yueng]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|2008|9|5}}
+| {{dts|format=dmy|2019|1|7}}
+|-
+| [[Jon Dahl Tomasson]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|1997|3|29}}
+| {{dts|format=dmy|2010|6|24}}
+|-
+| [[Li Weifeng]]
+| {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|1998|11|22}}
+| {{dts|format=dmy|2011|11|15}}
+|-
+| [[Kim Young-gwon]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|2010|8|11}}
+| {{dts|format=dmy|2024|9|5}}
+|-
+| [[Dino Zoff]]
+| {{fb|ITA}}
+| UEFA
+| {{dts|format=dmy|1968|4|20}}
+| {{dts|format=dmy|1983|5|29}}
+|-
+!rowspan="15"| 387
+| [[Igor Akinfeev]]
+| {{fb|RUS}}
+| UEFA
+!rowspan="15"| 111
+| {{dts|format=dmy|2004|4|27}}
+| {{dts|format=dmy|2018|7|7}}
+|-
+|bgcolor=#9FC| '''[[Mahmoud Al-Mawas]]'''
+| bgcolor="#9FC" | {{fb|SYR}}
+| AFC
+| {{dts|format=dmy|2012|11|17}}
+| {{dts|format=dmy|2026|10|1}}
+|-
+|bgcolor=#9FC| [[Gareth Bale]]
+| bgcolor="#9FC" | {{fb|WAL}}
+| UEFA
+| {{dts|format=dmy|2006|5|27}}
+| {{dts|format=dmy|2022|11|29}}
+|-
+| [[Rolando Fonseca]]{{efn|name="02MTQ07GLP"}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|1992|5|27}}
+| {{dts|format=dmy|2011|3|26}}
+|-
+| '''[[Aron Gunnarsson]]'''
+| {{fb|ISL}}
+| UEFA
+| {{dts|format=dmy|2008|2|2}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| [[Abdulsalam Jumaa]]{{efn|name="98JPN"}}
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|1997|3|18}}
+| {{dts|format=dmy|2010|1|6}}
+|-
+| [[Mahdi Karim]]
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2001|10|12}}
+| {{dts|format=dmy|2018|2|28}}
+|-
+| [[Zhang Linpeng]]
+| {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|2009|12|30}}
+| {{dts|format=dmy|2024|3|21}}
+|-
+| [[Édison Méndez]]
+| {{fb|ECU}}
+| CONMEBOL
+| {{dts|format=dmy|2000|3|8}}
+| {{dts|format=dmy|2014|6|20}}
+|-
+| [[Odelín Molina]]{{efn|11 unofficial FIFA matches: Martinique (2001, 2002, 2004, 2006, 2010, 2012), Guadeloupe (2007, 2008 twice, 2010) and French Guiana (2012).}}
+| {{fb|CUB}}
+| CONCACAF
+| {{dts|format=dmy|1996|5|12}}
+| {{dts|format=dmy|2013|7|20}}
+|-
+| [[José Manuel Rey]]{{efn|4 unofficial FIFA matches: Mexico U20 (2000), Cameroon U21, Morocco Olympic (2002) and Mexico U23 (2011).}}
+| {{fb|VEN}}
+| CONMEBOL
+| {{dts|format=dmy|1997|6|8}}
+| {{dts|format=dmy|2011|10|7}}
+|-
+| [[Andriy Shevchenko]]
+| {{fb|UKR}}
+| UEFA
+| {{dts|format=dmy|1995|3|25}}
+| {{dts|format=dmy|2012|6|19}}
+|-
+| '''[[Mehdi Taremi]]'''
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2015|6|11}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| [[Carlos Valderrama]]
+| {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|1985|10|27}}
+| {{dts|format=dmy|1998|6|26}}
+|-
+| [[Zheng Zhi]]
+| {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|2002|12|7}}
+| {{dts|format=dmy|2019|11|14}}
+|-
+!rowspan="22"| 402
+| '''[[Ali Al-Busaidi]]'''
+| {{fb|OMA}}
+| AFC
+!rowspan="22"| 110
+| {{dts|format=dmy|2013|10|9}}
+| {{dts|format=dmy|2025|12|8}}
+|-
+| [[François Amégasse]]
+| {{fb|GAB}}
+| CAF
+| {{dts|format=dmy|1984|11|13}}
+| {{dts|format=dmy|2000|1|29}}
+|-
+| [[Carlos Bocanegra]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|2001|12|9}}
+| {{dts|format=dmy|2012|11|14}}
+|-
+| [[Carmel Busuttil]]{{efn|name="88LBY"}}
+| {{fb|MLT}}
+| UEFA
+| {{dts|format=dmy|1982|6|5}}
+| {{dts|format=dmy|2001|4|25}}
+|-
+| [[Paul Caligiuri]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1984|10|9}}
+| {{dts|format=dmy|1997|11|16}}
+|-
+| [[Fernando Couto]]
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|1990|12|19}}
+| {{dts|format=dmy|2004|6|30}}
+|-
+| [[Ahmed El-Kass]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|1987|4|4}}
+| {{dts|format=dmy|1997|4|6}}
+|-
+| [[Cesc Fàbregas]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2006|3|1}}
+| {{dts|format=dmy|2016|6|27}}
+|-
+| [[Carlos Gamarra]]
+| {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|1993|3|3}}
+| {{dts|format=dmy|2006|10|7}}
+|-
+| [[Mohamad Haidar]]
+| {{fb|LBN}}
+| AFC
+| {{dts|format=dmy|2011|8|17}}
+| {{dts|format=dmy|2026|6|4}}
+|-
+| '''[[Lee Jae-sung]]'''
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|2015|3|17}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| '''[[Franck Kessié]]'''
+| {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2014|9|6}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| [[Kevin Kilbane]]
+| {{fb|IRL}}
+| UEFA
+| {{dts|format=dmy|1997|9|6}}
+| {{dts|format=dmy|2011|6|4}}
+|-
+| [[Mehdi Mahdavikia]]
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|1996|12|7}}
+| {{dts|format=dmy|2009|6|17}}
+|-
+|bgcolor=#9FC| [[Imran Mohamed]]
+| bgcolor="#9FC" | {{fb|MDV}}
+| AFC
+| {{dts|format=dmy|2000|2|15}}
+| {{dts|format=dmy|2016|10|11}}
+|-
+|bgcolor=#9FC| [[Ahmed Musa]]
+| bgcolor="#9FC" | {{fb|NGA}}
+| CAF
+| {{dts|format=dmy|2010|9|5}}
+| {{dts|format=dmy|2025|5|28}}
+|-
+| [[Yuji Nakazawa]]
+| {{fb|JPN}}
+| AFC
+| {{dts|format=dmy|1999|9|8}}
+| {{dts|format=dmy|2010|9|4}}
+|-
+|bgcolor=#9FC| [[John Arne Riise]]
+| bgcolor="#9FC" | {{fb|NOR}}
+| UEFA
+| {{dts|format=dmy|2000|1|31}}
+| {{dts|format=dmy|2013|3|22}}
+|-
+| [[Cristian Rodríguez]]
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2003|10|14}}
+| {{dts|format=dmy|2018|7|6}}
+|-
+| [[Álvaro Saborío]]{{efn|2 unofficial FIFA matches: Guadeloupe (2007, 2009).|name="0709GLP"}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|2002|10|1}}
+| {{dts|format=dmy|2021|10|13}}
+|-
+| [[Totchtawan Sripan]]
+| {{fb|THA}}
+| AFC
+| {{dts|format=dmy|1993|2|16}}
+| {{dts|format=dmy|2009|3|28}}
+|-
+| [[Fernando Torres]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2003|9|6}}
+| {{dts|format=dmy|2014|6|23}}
+|-
+!rowspan="19"| 424
+| [[Hassan Abdel-Fattah]]
+| {{fb|JOR}}
+| AFC
+!rowspan="19"| 109
+| {{dts|format=dmy|2002|12|7}}
+| {{dts|format=dmy|2015|10|13}}
+|-
+| [[Niclas Alexandersson]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|1993|11|10}}
+| {{dts|format=dmy|2008|6|10}}
+|-
+| [[Nohair Al-Shammari]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|1996|3|16}}
+| {{dts|format=dmy|2009|1|14}}
+|-
+| [[Jean Beausejour]]
+| {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2004|2|19}}
+| {{dts|format=dmy|2020|11|17}}
+|-
+| [[Jakub Błaszczykowski]]
+| {{fb|POL}}
+| UEFA
+| {{dts|format=dmy|2006|3|28}}
+| {{dts|format=dmy|2023|6|16}}
+|-
+| '''[[André Carrillo]]'''
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|2011|7|12}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Eric Davis (Panamanian footballer)|Eric Davis]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2010|8|11}}
+| {{dts|format=dmy|2026|6|27}}
+|-
+|bgcolor=#9FC| [[Balázs Dzsudzsák]]
+| bgcolor="#9FC" | {{fb|HUN}}
+| UEFA
+| {{dts|format=dmy|2007|6|2}}
+| {{dts|format=dmy|2022|11|20}}
+|-
+| [[Alberto García Aspe]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|1988|4|26}}
+| {{dts|format=dmy|2002|6|17}}
+|-
+| [[Chris Gunter]]
+| {{fb|WAL}}
+| UEFA
+| {{dts|format=dmy|2007|5|26}}
+| {{dts|format=dmy|2022|6|14}}
+|-
+| [[Asamoah Gyan]]
+| {{fb|GHA}}
+| CAF
+| {{dts|format=dmy|2003|11|16}}
+| {{dts|format=dmy|2019|7|8}}
+|-
+| [[Wayne Hennessey]]
+| {{fb|WAL}}
+| UEFA
+| {{dts|format=dmy|2007|5|26}}
+| {{dts|format=dmy|2023|10|11}}
+|-
+| [[Javier Hernández]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2009|9|30}}
+| {{dts|format=dmy|2019|9|6}}
+|-
+| [[Dries Mertens]]
+| {{fb|BEL}}
+| UEFA
+| {{dts|format=dmy|2011|2|9}}
+| {{dts|format=dmy|2022|12|1}}
+|-
+|bgcolor=#9FC| [[Mark Schwarzer]]
+| bgcolor="#9FC" | {{fb|AUS}}
+| [[Oceania Football Confederation|OFC]] / AFC{{ref label|id1|1|1}}
+| {{dts|format=dmy|1993|7|31}}
+| {{dts|format=dmy|2013|9|7}}
+|-
+| [[Mauricio Solís]]{{efn|1 unofficial FIFA match: Martinique (2002).}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|1993|9|23}}
+| {{dts|format=dmy|2006|6|20}}
+|-
+| [[Wael Sulaiman]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|1986|10|1}}
+| {{dts|format=dmy|1998|12|27}}
+|-
+| [[Enner Valencia]]
+| {{fb|ECU}}
+| CONMEBOL
+| {{dts|format=dmy|2012|2|12}}
+| {{dts|format=dmy|2026|6|30}}
+|-
+| [[Rafael van der Vaart]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2001|10|6}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+!rowspan="21"| 443
+| [[Álex Aguinaga]]{{efn|1 unofficial FIFA match: Peru (1987).}}
+| {{fb|ECU}}
+| CONMEBOL
+!rowspan="21"| 108
+| {{dts|format=dmy|1987|3|5}}
+| {{dts|format=dmy|2004|7|13}}
+|-
+| [[Odil Ahmedov]]
+| {{fb|UZB}}
+| AFC
+| {{dts|format=dmy|2007|10|13}}
+| {{dts|format=dmy|2021|6|15}}
+|-
+| [[Maher Al-Sayed]]{{efn|name="1unspec"}}
+| {{fb|SYR}}
+| AFC
+| {{dts|format=dmy|1998|10|17}}
+| {{dts|format=dmy|2013|3|26}}
+|-
+| [[Anas Bani Yaseen]]
+| {{fb|JOR}}
+| AFC
+| {{dts|format=dmy|2008|8|13}}
+| {{dts|format=dmy|2024|1|25}}
+|-
+| [[Daley Blind]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2013|2|6}}
+| {{dts|format=dmy|2024|7|2}}
+|-
+| [[Tim Cahill]]
+| {{fb|AUS}}
+| OFC / AFC{{ref label|id1|1|1}}
+| {{dts|format=dmy|2004|3|30}}
+| {{dts|format=dmy|2018|11|20}}
+|-
+|'''[[Hakan Çalhanoğlu]]'''
+| {{fb|TUR}}
+| UEFA
+| {{dts|format=dmy|2013|9|6}}
+| {{dts|format=dmy|2026|6|19}}
+|-
+| [[Ricardo Gardner]]{{efn|3 unofficial FIFA matches: Guadeloupe (1999), French Guinea and Martinique (2012).}}
+| {{fb|JAM}}
+| CONCACAF
+| {{dts|format=dmy|1997|2|12}}
+| {{dts|format=dmy|2012|12|12}}
+|-
+| [[Thomas Helveg]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|1994|4|20}}
+| {{dts|format=dmy|2007|10|17}}
+|-
+| '''[[Lukas Hradecky]]'''
+| {{fb|FIN}}
+| UEFA
+| {{dts|format=dmy|2010|5|21}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Stern John]]{{efn|7 unofficial FIFA matches: Martinique (1996, 1997, 1998, 2002) and Guadeloupe (1999, 2003, 2008).}}
+| {{fb|TRI}}
+| CONCACAF
+| {{dts|format=dmy|1995|2|15}}
+| {{dts|format=dmy|2011|11|11}}
+|-
+| [[Jürgen Klinsmann]]
+| {{fb|FRG}}<br />{{fb|GER}}
+| UEFA
+| {{dts|format=dmy|1987|12|12}}
+| {{dts|format=dmy|1998|7|4}}
+|-
+| [[Stephan Lichtsteiner]]
+| {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|2006|11|15}}
+| {{dts|format=dmy|2019|11|15}}
+|-
+| [[Bobby Moore]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|1962|5|20}}
+| {{dts|format=dmy|1973|11|14}}
+|-
+| [[Joseph Musonda]]{{efn|1 unofficial FIFA match: Zanzibar (2006).|name="06ZAN"}}
+| {{fb|ZAM}}
+| CAF
+| {{dts|format=dmy|2002|7|6}}
+| {{dts|format=dmy|2014|6|6}}
+|-
+| [[Francisco Javier Rodríguez|Francisco Rodríguez]]{{efn|name="07GLP"}}
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2004|2|18}}
+| {{dts|format=dmy|2015|7|26}}
+|-
+| [[Rui Patrício]]
+| {{fb|POR}}
+| UEFA
+| {{dts|format=dmy|2010|11|17}}
+| {{dts|format=dmy|2024|3|21}}
+|-
+|bgcolor=#9FC| [[Rashad Sadygov]]{{efn|3 unofficial FIFA matches: Bulgaria, Iran U23 (2002) and Palestine (2012).}}
+| bgcolor="#9FC" | {{fb|AZE}}
+| UEFA
+| {{dts|format=dmy|2001|10|7}}
+| {{dts|format=dmy|2017|10|5}}
+|-
+| [[Luis Tejada]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2001|8|5}}
+| {{dts|format=dmy|2018|6|28}}
+|-
+| [[Fan Zhiyi]]
+| {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|1992|8|22}}
+| {{dts|format=dmy|2002|6|4}}
+|-
+| [[Zinedine Zidane]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|1994|8|17}}
+| {{dts|format=dmy|2006|7|9}}
+|-
+!rowspan="21"| 464
+| '''[[Fahad Al-Hajeri]]'''
+| {{fb|KUW}}
+| AFC
+!rowspan="21"| 107
+| {{dts|format=dmy|2012|10|16}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| '''[[Yoel Bárcenas]]'''
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2014|8|6}}
+| {{dts|format=dmy|2026|6|27}}
+|-
+| [[Ashley Cole]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|2001|3|28}}
+| {{dts|format=dmy|2014|3|5}}
+|-
+| [[Lee Dong-gook]]{{efn|name="98JPN"}}
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1998|5|15}}
+| {{dts|format=dmy|2017|9|5}}
+|-
+| [[Giovani dos Santos]]{{efn|name="09GLP"}}
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2007|9|9}}
+| {{dts|format=dmy|2018|6|23}}
+|-
+| [[Jonny Evans]]
+| {{fb|NIR}}
+| UEFA
+| {{dts|format=dmy|2006|9|6}}
+| {{dts|format=dmy|2024|6|8}}
+|-
+| [[Ahmed Hadid Al-Mukhaini|Ahmed Hadid]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2003|1|28}}
+| {{dts|format=dmy|2013|1|5}}
+|-
+| [[Miroslav Karhan]]
+| {{fb|SVK}}
+| UEFA
+| {{dts|format=dmy|1995|9|6}}
+| {{dts|format=dmy|2011|10|7}}
+|-
+| [[Gábor Király]]{{efn|1 unofficial FIFA match: Bulgaria (2003).}}
+| {{fb|HUN}}
+| UEFA
+| {{dts|format=dmy|1998|3|25}}
+| {{dts|format=dmy|2016|11|15}}
+|-
+| '''[[Kalidou Koulibaly]]'''
+| {{fb|SEN}}
+| CAF
+| {{dts|format=dmy|2015|9|5}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+|'''[[Kylian Mbappé]]'''
+| {{fb|FRA}}
+| UEFA 
+| {{dts|format=dmy|2017|3|25}}
+| {{dts|format=dmy|2026|9|25}}
+|-
+| '''[[Karol Mets]]'''
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2013|11|19}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+|bgcolor=#9FC| [[Aaron Mokoena]]
+| bgcolor="#9FC" | {{fb|RSA}}
+| CAF
+| {{dts|format=dmy|1999|2|20}}
+| {{dts|format=dmy|2010|10|10}}
+|-
+|bgcolor=#9FC| [[Marcelo Moreno]]{{efn|1 unofficial FIFA match: Latvia (2011).|name="11LAT"}}
+| bgcolor="#9FC" | {{fb|BOL}}
+| CONMEBOL
+| {{dts|format=dmy|2007|9|12}}
+| {{dts|format=dmy|2023|11|21}}
+|-
+| [[Jamal Mubarak]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|1994|11|13}}
+| {{dts|format=dmy|2006|10|11}}
+|-
+| [[Muhsin Musabah]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|1985|4|12}}
+| {{dts|format=dmy|1999|8|27}}
+|-
+|bgcolor=#9FC| [[Haruna Niyonzima]]{{efn|4 unofficial FIFA matches: Zanzibar (2007, 2010, 2011, 2012).}}
+| bgcolor="#9FC" | {{fb|RWA}}
+| CAF
+| {{dts|format=dmy|2006|11|27}}
+| {{dts|format=dmy|2022|9|3}}
+|-
+|bgcolor=#9FC| '''[[Josué Quijano]]'''{{efn|5 unofficial FIFA matches: Martinique (2017), French Guiana (2024 twice) and Guadeloupe (2025 twice).}}
+| bgcolor="#9FC" | {{fb|NCA}}
+| CONCACAF
+| {{dts|format=dmy|2011|1|14}}
+| {{dts|format=dmy|2026|3|27}}
+|-
+| '''[[Marc Vales]]'''
+| {{fb|AND}}
+| UEFA
+| {{dts|format=dmy|2008|3|26}}
+| {{dts|format=dmy|2026|6|7}}
+|-
+| [[Patrick Vieira]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|1997|2|26}}
+| {{dts|format=dmy|2009|6|2}}
+|-
+|bgcolor=#9FC| [[Phil Younghusband]]
+| bgcolor="#9FC" | {{fb|PHI}}
+| AFC
+| {{dts|format=dmy|2006|11|12}}
+| {{dts|format=dmy|2019|1|16}}
+|-
+!rowspan="21"| 485
+| [[Walid Abbas]]
+| {{fb|UAE}}
+| AFC
+!rowspan="21"| 106
+| {{dts|format=dmy|2008|12|27}}
+| {{dts|format=dmy|2023|1|13}}
+|-
+| [[Imants Bleidelis]]
+| {{fb|LVA}}
+| UEFA
+| {{dts|format=dmy|1995|5|19}}
+| {{dts|format=dmy|2007|11|21}}
+|-
+| '''[[Theerathon Bunmathan]]'''
+| {{fb|THA}}
+| AFC
+| {{dts|format=dmy|2010|8|11}}
+| {{dts|format=dmy|2026|3|31}}
+|-
+|bgcolor=#9FC| '''[[Darwin Cerén]]'''{{efn|2 unofficial FIFA matches: Bonaire (2024 twice).}}
+| bgcolor="#9FC" | {{fb|SLV}}
+| CONCACAF
+| {{dts|format=dmy|2012|5|24}}
+| {{dts|format=dmy|2025|11|18}}
+|-
+| [[Bobby Charlton]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|1958|4|19}}
+| {{dts|format=dmy|1970|6|14}}
+|-
+| [[Aleksandr Dmitrijev]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2004|2|18}}
+| {{dts|format=dmy|2018|3|27}}
+|-
+| [[Mohamed Elneny]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|2011|9|3}}
+| {{dts|format=dmy|2025|12|9}}
+|-
+| [[Hao Haidong]]
+| {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|1992|8|22}}
+| {{dts|format=dmy|2004|11|17}}
+|-
+| '''[[Jalal Hassan]]'''
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2011|7|16}}
+| {{dts|format=dmy|2026|6|26}}
+|-
+| [[Emilio Izaguirre]]{{efn|5 unofficial FIFA matches: Guadeloupe (2007), French Guiana (2015 twice) and Martinique (2019 twice).}}
+| {{fb|HON}}
+| CONCACAF
+| {{dts|format=dmy|2007|1|26}}
+| {{dts|format=dmy|2020|10|11}}
+|-
+| [[Frank Lampard]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|1999|10|10}}
+| {{dts|format=dmy|2014|6|24}}
+|-
+| [[Henrik Larsson]]
+| {{fb|SWE}}
+| UEFA
+| {{dts|format=dmy|1993|10|13}}
+| {{dts|format=dmy|2009|10|10}}
+|-
+| [[Joel Lindpere]]{{efn|name="04BLR"}}
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1999|11|1}}
+| {{dts|format=dmy|2016|6|1}}
+|-
+| '''[[Aleksandar Mitrović]]'''
+| {{fb|SRB}}
+| UEFA
+| {{dts|format=dmy|2013|6|7}}
+| {{dts|format=dmy|2026|3|31}}
+|-
+| [[Mubarak Mustafa]]
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|1992|5|14}}
+| {{dts|format=dmy|2004|12|16}}
+|-
+| [[Ivan Rakitić]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2007|9|8}}
+| {{dts|format=dmy|2019|10|13}}
+|-
+| [[Guillermo Ramírez]]
+| {{fb|GUA}}
+| CONCACAF
+| {{dts|format=dmy|1997|4|16}}
+| {{dts|format=dmy|2012|5|25}}
+|-
+| [[Diego Simeone]]
+| {{fb|ARG}}
+| CONMEBOL
+| {{dts|format=dmy|1988|7|14}}
+| {{dts|format=dmy|2002|6|7}}
+|-
+| [[Óscar Sonejee]]
+| {{fb|AND}}
+| UEFA
+| {{dts|format=dmy|1997|6|22}}
+| {{dts|format=dmy|2015|11|12}}
+|-
+| [[Giovanni van Bronckhorst]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|1996|8|31}}
+| {{dts|format=dmy|2010|7|11}}
+|-
+| [[Eric Wynalda]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1990|2|2}}
+| {{dts|format=dmy|2000|2|19}}
+|-
+!rowspan="25"| 506
+| [[Khamis Al-Dosari]]
+| {{fb|KSA}}
+| AFC
+!rowspan="25"| 105
+| {{dts|format=dmy|1994|10|1}}
+| {{dts|format=dmy|2004|12|17}}
+|-
+| [[Didier Drogba]]
+| {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2002|9|8}}
+| {{dts|format=dmy|2014|6|24}}
+|-
+| [[Héctor Herrera]]
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2012|10|16}}
+| {{dts|format=dmy|2023|9|9}}
+|-
+|bgcolor=#9FC| [[Atiba Hutchinson]]
+| bgcolor="#9FC" | {{fb|CAN}}
+| CONCACAF
+| {{dts|format=dmy|2003|1|18}}
+| {{dts|format=dmy|2023|6|15}}
+|-
+| [[Sami Hyypiä]]
+| {{fb|FIN}}
+| UEFA
+| {{dts|format=dmy|1992|11|7}}
+| {{dts|format=dmy|2010|10|12}}
+|-
+| [[Branislav Ivanović]]
+| {{fb|SCG}}<br />{{fb|SRB}}
+| UEFA
+| {{dts|format=dmy|2005|6|8}}
+| {{dts|format=dmy|2018|6|22}}
+|-
+|bgcolor=#9FC| [[Radhi Jaïdi]]
+| bgcolor="#9FC" | {{fb|TUN}}
+| CAF
+| {{dts|format=dmy|1996|6|2}}
+| {{dts|format=dmy|2009|6|6}}
+|-
+| [[Jonatan Johansson (footballer)|Jonatan Johansson]]
+| {{fb|FIN}}
+| UEFA
+| {{dts|format=dmy|1996|3|16}}
+| {{dts|format=dmy|2010|9|7}}
+|-
+|bgcolor=#9FC| [[Abdul Kadir (footballer)|Abdul Kadir]]{{efn|6 unofficial FIFA matches: Thailand, India, Israel and Burma (1972) and 2 unspecified.}}
+| bgcolor="#9FC" | {{fb|IDN}}
+| AFC
+| {{dts|format=dmy|1967|8|11}}
+| {{dts|format=dmy|1979|5|7}}
+|-
+| [[Jürgen Kohler]]
+| {{fb|FRG}}<br />{{fb|GER}}
+| UEFA
+| {{dts|format=dmy|1986|9|24}}
+| {{dts|format=dmy|1998|7|4}}
+|-
+| [[Lúcio]]
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|2000|11|15}}
+| {{dts|format=dmy|2011|9|5}}
+|-
+| [[Ignatiy Nesterov]]
+| {{fb|UZB}}
+| AFC
+| {{dts|format=dmy|2002|8|21}}
+| {{dts|format=dmy|2019|1|21}}
+|-
+|bgcolor=#9FC| [[Stiliyan Petrov]]
+| bgcolor="#9FC" | {{fb|BUL}}
+| UEFA
+| {{dts|format=dmy|1998|12|23}}
+| {{dts|format=dmy|2011|10|11}}
+|-
+| [[Tomáš Rosický]]
+| {{fb|CZE}}
+| UEFA
+| {{dts|format=dmy|2000|2|23}}
+| {{dts|format=dmy|2016|6|17}}
+|-
+|'''[[Mathew Ryan]]'''
+| {{fb|AUS}}
+| AFC
+| {{dts|format=dmy|2012|12|5}}
+| {{dts|format=dmy|2026|7|3}}
+|-
+|'''[[Moisés San Nicolás]]'''
+| {{fb|AND}}
+| UEFA
+| {{dts|format=dmy|2012|10|12}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+| [[Ahmed Shobair]]{{efn|2 unofficial FIFA matches: Tunisia Olympic (1987 twice).}}
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|1984|12|17}}
+| {{dts|format=dmy|1996|11|8}}
+|-
+| [[Josip Šimunić]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2001|11|10}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+| [[Islam Slimani]]
+| {{fb|ALG}}
+| CAF
+| {{dts|format=dmy|2012|5|26}}
+| {{dts|format=dmy|2025|12|9}}
+|-
+| [[Kim Tae-young (footballer, born 1970)|Kim Tae-young]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1992|10|21}}
+| {{dts|format=dmy|2004|7|19}}
+|-
+| [[Gabriel Torres]]
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2005|10|8}}
+| {{dts|format=dmy|2022|6|2}}
+|-
+| [[Domagoj Vida]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2010|5|23}}
+| {{dts|format=dmy|2024|6|3}}
+|-
+| [[Billy Wright (footballer born 1924)|Billy Wright]]
+| {{fb|ENG}}
+| UEFA
+| {{dts|format=dmy|1946|9|28}}
+| {{dts|format=dmy|1959|5|28}}
+|-
+| [[Mihails Zemļinskis]]
+| {{fb|LVA}}
+| UEFA
+| {{dts|format=dmy|1992|4|8}}
+| {{dts|format=dmy|2005|10|8}}
+|-
+| [[Yuri Zhirkov]]
+| {{fb|RUS}}
+| UEFA
+| {{dts|format=dmy|2005|2|9}}
+| {{dts|format=dmy|2021|6|12}}
+|-
+!rowspan="26"| 531
+| [[Fahad Al Ansari]]
+| {{fb|KUW}}
+| AFC
+!rowspan="26"| 104
+| {{dts|format=dmy|2009|1|20}}
+| {{dts|format=dmy|2022|6|6}}
+|-
+| [[Mohammed Al-Jahani]]
+| {{fb|KSA}}
+| AFC
+| {{dts|format=dmy|1994|10|1}}
+| {{dts|format=dmy|2002|6|11}}
+|-
+| '''[[Jameel Al-Yahmadi]]'''
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2016|3|16}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| '''[[Henri Anier]]'''
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2011|6|19}}
+| {{dts|format=dmy|2025|9|9}}
+|-
+| [[Karim Ansarifard]]
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2009|7|5}}
+| {{dts|format=dmy|2024|2|3}}
+|-
+| [[Gustavo Cabrera (footballer)|Gustavo Cabrera]]
+| {{fb|GUA}}
+| CONCACAF
+| {{dts|format=dmy|2000|5|19}}
+| {{dts|format=dmy|2012|4|25}}
+|-
+| [[Héctor Chumpitaz]]{{efn|name="1unspec"}}
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|1965|4|3}}
+| {{dts|format=dmy|1981|9|6}}
+|-
+|'''[[Ben Davies (footballer, born 1993)|Ben Davies]]'''
+| {{fb|WAL}}
+| UEFA
+| {{dts|format=dmy|2012|10|12}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+| [[Nader El-Sayed]]
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|1992|11|20}}
+| {{dts|format=dmy|2005|6|19}}
+|-
+| [[Radamel Falcao]]
+| {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|2007|2|7}}
+| {{dts|format=dmy|2023|3|28}}
+|-
+| [[Ahmed Khalil (footballer, born 1991)|Ahmed Khalil]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|2008|2|6}}
+| {{dts|format=dmy|2019|11|29}}
+|-
+| [[Adel Khamis]]
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|1985|3|15}}
+| {{dts|format=dmy|2000|3|10}}
+|-
+| [[Dirk Kuyt]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2004|9|3}}
+| {{dts|format=dmy|2014|9|4}}
+|-
+| '''[[Wu Lei]]'''
+| {{fb|CHN}}
+| AFC
+| {{dts|format=dmy|2010|2|14}}
+| {{dts|format=dmy|2026|6|9}}
+|-
+| [[Per Mertesacker]]
+| {{fb|GER}}
+| UEFA
+| {{dts|format=dmy|2004|10|9}}
+| {{dts|format=dmy|2014|7|13}}
+|-
+| [[Sayed Mohamed Adnan]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|2004|3|21}}
+| {{dts|format=dmy|2016|11|15}}
+|-
+| [[Youssef Msakni]]
+| {{fb|TUN}}
+| CAF
+| {{dts|format=dmy|2010|1|9}}
+| {{dts|format=dmy|2024|10|14}}
+|-
+|bgcolor=#9FC| '''[[Simon Msuva]]''' 
+| bgcolor=#9FC| {{fb|TAN}} 
+| CAF 
+| {{dts|format=dmy|2012|8|15}} 
+| {{dts|format=dmy|2026|9|29}}
+|-
+|bgcolor=#9FC| [[Erasto Nyoni]]{{efn|2 unofficial FIFA matches: Zanzibar (2012, 2017).}}
+| bgcolor="#9FC" | {{fb|TAN}}
+| CAF
+| {{dts|format=dmy|2006|11|25}}
+| {{dts|format=dmy|2021|11|14}}
+|-
+|bgcolor=#9FC| [[Ioannis Okkas]]
+| bgcolor="#9FC" | {{fb|CYP}}
+| UEFA
+| {{dts|format=dmy|1997|2|15}}
+| {{dts|format=dmy|2011|10|11}}
+|-
+| [[Ivica Olić]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2002|2|13}}
+| {{dts|format=dmy|2015|10|13}}
+|-
+| '''[[Tarek Salman]]'''
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2017|8|23}}
+| {{dts|format=dmy|2026|10|3}}
+|-
+| [[Martin Škrtel]]
+| {{fb|SVK}}
+| UEFA
+| {{dts|format=dmy|2004|7|9}}
+| {{dts|format=dmy|2019|10|13}}
+|-
+| [[Hwang Sun-hong]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1988|12|6}}
+| {{dts|format=dmy|2002|11|20}}
+|-
+| [[Thorbjørn Svenssen]]
+| {{fb|NOR}}
+| UEFA
+| {{dts|format=dmy|1947|6|11}}
+| {{dts|format=dmy|1962|5|16}}
+|-
+| [[Aidil Zafuan]]
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|2007|6|18}}
+| {{dts|format=dmy|2022|3|26}}
+|-
+!rowspan="26"| 557
+| [[Faouzi Aaish]]
+| {{fb|BHR}}
+| AFC
+!rowspan="26"| 103
+| {{dts|format=dmy|2004|12|23}}
+| {{dts|format=dmy|2016|10|11}}
+|-
+| [[Andrei Agius]]
+| {{fb|MLT}}
+| UEFA
+| {{dts|format=dmy|2006|2|25}}
+| {{dts|format=dmy|2022|3|25}}
+|-
+| '''[[Edson Álvarez]]'''
+| {{fb|MEX}}
+| CONCACAF
+| {{dts|format=dmy|2017|2|8}}
+| {{dts|format=dmy|2026|7|5}}
+|-
+| [[Charles Aránguiz]]
+| {{fb|CHI}}
+| CONMEBOL
+| {{dts|format=dmy|2009|11|4}}
+| {{dts|format=dmy|2025|3|25}}
+|-
+| [[Felipe Baloy]]{{efn|2 unofficial FIFA matches: Guadeloupe (2009, 2011).|name="0911GLP"}}
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2001|5|23}}
+| {{dts|format=dmy|2018|6|24}}
+|-
+| [[Franz Beckenbauer]]
+| {{fb|FRG}}
+| UEFA
+| {{dts|format=dmy|1965|9|26}}
+| {{dts|format=dmy|1977|2|23}}
+|-
+|bgcolor=#9FC| '''[[Fedor Černych]]'''
+| bgcolor="#9FC" | {{fb|LTU}}
+| UEFA
+| {{dts|format=dmy|2012|11|14}}
+| {{dts|format=dmy|2025|11|17}}
+|-
+| [[Stéphane Chapuisat]]
+| {{fb|SUI}}
+| UEFA
+| {{dts|format=dmy|1989|6|21}}
+| {{dts|format=dmy|2004|6|17}}
+|-
+| [[Vedran Ćorluka]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|2006|8|16}}
+| {{dts|format=dmy|2018|7|11}}
+|-
+| [[Didier Deschamps]]
+| {{fb|FRA}}
+| UEFA
+| {{dts|format=dmy|1989|4|29}}
+| {{dts|format=dmy|2000|9|2}}
+|-
+| [[Kamil Glik]]
+| {{fb|POL}}
+| UEFA
+| {{dts|format=dmy|2010|1|20}}
+| {{dts|format=dmy|2022|12|4}}
+|-
+| '''[[Achraf Hakimi]]'''
+| {{fb|MAR}}
+| CAF
+| {{dts|format=dmy|2016|10|11}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| [[Andi Herzog]]
+| {{fb|AUT}}
+| UEFA
+| {{dts|format=dmy|1988|4|6}}
+| {{dts|format=dmy|2003|4|30}}
+|-
+|bgcolor=#9FC| '''[[Elseid Hysaj]]'''
+| bgcolor="#9FC" | {{fb|ALB}}
+| UEFA
+| {{dts|format=dmy|2013|2|6}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Anzur Ismailov]]
+| {{fb|UZB}}
+| AFC
+| {{dts|format=dmy|2007|7|14}}
+| {{dts|format=dmy|2019|9|5}}
+|-
+| [[Michael Laudrup]]{{efn|1 unofficial Olympic match: Finland (1983).}}
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|1982|6|15}}
+| {{dts|format=dmy|1998|7|3}}
+|-
+| [[Ibrahim Majid]]
+| {{fb|QAT}}
+| AFC
+| {{dts|format=dmy|2007|6|25}}
+| {{dts|format=dmy|2017|6|13}}
+|-
+| [[James McClean]]
+| {{fb|IRL}}
+| UEFA
+| {{dts|format=dmy|2012|2|29}}
+| {{dts|format=dmy|2023|11|21}}
+|-
+|bgcolor=#9FC| '''[[Ryan Mendes]]'''{{efn|1 unofficial FIFA match: Guadeloupe (2022).}}
+| bgcolor="#9FC" | {{fb|CPV}}
+| CAF
+| {{dts|format=dmy|2010|8|11}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| [[Emad Mohammed]]
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2001|1|31}}
+| {{dts|format=dmy|2012|5|28}}
+|-
+| [[Jaroslav Plašil]]
+| {{fb|CZE}}
+| UEFA
+| {{dts|format=dmy|2004|3|31}}
+| {{dts|format=dmy|2016|6|21}}
+|-
+| '''[[Ferjani Sassi]]'''
+| {{fb|TUN}}
+| CAF
+| {{dts|format=dmy|2013|6|8}}
+| {{dts|format=dmy|2026|9|28}}
+|-
+| [[Dejan Stanković]]
+| {{fb|SCG}}<br />{{fb|SRB}}
+| UEFA
+| {{dts|format=dmy|1998|4|22}}
+| {{dts|format=dmy|2013|10|11}}
+|-
+| [[Elijah Tana]]
+| {{fb|ZAM}}
+| CAF
+| {{dts|format=dmy|1995|6|10}}
+| {{dts|format=dmy|2009|1|27}}
+|-
+| [[Māris Verpakovskis]]{{efn|1 unofficial FIFA match: Bolivia (2011).|name="11BOL"}}
+| {{fb|LVA}}
+| UEFA
+| {{dts|format=dmy|1999|6|9}}
+| {{dts|format=dmy|2014|5|29}}
+|-
+| [[Indrek Zelinski]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|1994|5|7}}
+| {{dts|format=dmy|2010|5|21}}
+|-
+!rowspan="34"| 583
+| [[Hosny Abd Rabo]]
+| {{fb|EGY}}
+| CAF
+!rowspan="34"| 102
+| {{dts|format=dmy|2004|3|31}}
+| {{dts|format=dmy|2014|9|10}}
+|-
+| [[Ismail Al-Ajmi]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2003|1|28}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+| [[Abdulwahab Al-Safi]]
+| {{fb|BHR}}
+| AFC
+| {{dts|format=dmy|2009|3|23}}
+| {{dts|format=dmy|2019|1|22}}
+|-
+| [[Fahad Awadh]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|2005|5|27}}
+| {{dts|format=dmy|2015|10|13}}
+|-
+| [[Warren Barrett]]{{efn|6 unofficial FIFA matches: Guadeloupe (1992), Martinique (1992, 1993), Sint Maarten (1993, 1994) and Saint Lucia (1997).}}
+| {{fb|JAM}}
+| CONCACAF
+| {{dts|format=dmy|1990|3|18}}
+| {{dts|format=dmy|2000|2|14}}
+|-
+| [[Dusit Chalermsan]]
+| {{fb|THA}}
+| AFC
+| {{dts|format=dmy|1994|10|3}}
+| {{dts|format=dmy|2004|6|9}}
+|-
+|bgcolor=#9FC| [[Kenny Dalglish]]
+| bgcolor="#9FC" | {{fb|SCO}}
+| UEFA
+| {{dts|format=dmy|1971|11|10}}
+| {{dts|format=dmy|1986|11|12}}
+|-
+| [[Jefferson Farfán]]
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|2003|2|23}}
+| {{dts|format=dmy|2021|11|16}}
+|-
+| [[Jóhann Berg Guðmundsson]]
+| {{fb|ISL}}
+| UEFA
+| {{dts|format=dmy|2008|8|20}}
+| {{dts|format=dmy|2026|2|25}}
+|-
+| [[Park Ji-sung]]
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|2000|4|5}}
+| {{dts|format=dmy|2011|1|25}}
+|-
+| [[Martin Jørgensen]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|1998|3|25}}
+| {{dts|format=dmy|2011|11|15}}
+|-
+|bgcolor=#9FC| [[Charles Kaboré]]
+| bgcolor="#9FC" | {{fb|BFA}}
+| CAF
+| {{dts|format=dmy|2006|10|7}}
+| {{dts|format=dmy|2021|6|5}}
+|-
+| [[Rainford Kalaba]]{{efn|name="06ZAN"}}
+| {{fb|ZAM}}
+| CAF
+| {{dts|format=dmy|2005|6|11}}
+| {{dts|format=dmy|2018|11|18}}
+|-
+|bgcolor=#9FC| [[Joseph Kamwendo]]{{efn|2 unofficial FIFA matches: Zanzibar (2012) and Tanzania (2014).}}
+| bgcolor="#9FC" | {{fb|MWI}}
+| CAF
+| {{dts|format=dmy|2003|8|16}}
+| {{dts|format=dmy|2017|4|29}}
+|-
+| [[Christopher Katongo]]{{efn|name="1unspec"}}
+| {{fb|ZAM}}
+| CAF
+| {{dts|format=dmy|2003|6|7}}
+| {{dts|format=dmy|2016|6|4}}
+|-
+| [[Kasey Keller]]{{efn|1 unofficial FIFA match: Martinique (2003).|name="03MTQ"}}
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1990|2|4}}
+| {{dts|format=dmy|2007|7|2}}
+|-
+| [[Bülent Korkmaz]]
+| {{fb|TUR}}
+| UEFA
+| {{dts|format=dmy|1990|10|17}}
+| {{dts|format=dmy|2005|8|17}}
+|-
+| [[Savo Milošević]]
+| {{fb|SCG}}<br />{{fb|SRB}}
+| UEFA
+| {{dts|format=dmy|1994|12|23}}
+| {{dts|format=dmy|2008|11|19}}
+|-
+| [[Mario Mutsch]]
+| {{fb|LUX}}
+| UEFA
+| {{dts|format=dmy|2005|10|8}}
+| {{dts|format=dmy|2019|6|2}}
+|-
+| [[Mohammad Omar (footballer, born 1976)|Mohamed Omar]]
+| {{fb|UAE}}
+| AFC
+| {{dts|format=dmy|1996|8|14}}
+| {{dts|format=dmy|2009|1|28}}
+|-
+| [[Gerard Piqué]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2009|2|11}}
+| {{dts|format=dmy|2018|7|1}}
+|-
+| [[Andriy Pyatov]]
+| {{fb|UKR}}
+| UEFA
+| {{dts|format=dmy|2007|8|22}}
+| {{dts|format=dmy|2022|6|11}}
+|-
+| [[Raúl (footballer)|Raúl]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|1996|10|9}}
+| {{dts|format=dmy|2006|9|6}}
+|-
+| '''[[Marcel Sabitzer]]'''
+| {{fb|AUT}}
+| UEFA
+| {{dts|format=dmy|2012|6|5}}
+| {{dts|format=dmy|2026|7|2}}
+|-
+| [[Birkir Már Sævarsson]]
+| {{fb|ISL}}
+| UEFA
+| {{dts|format=dmy|2007|6|2}}
+| {{dts|format=dmy|2021|11|14}}
+|-
+| '''[[Moses Simon]]'''
+| {{fb|NGA}}
+| CAF
+| {{dts|format=dmy|2015|3|25}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Steve Staunton]]
+| {{fb|IRL}}
+| UEFA
+| {{dts|format=dmy|1988|10|19}}
+| {{dts|format=dmy|2002|6|16}}
+|-
+| [[Datsakorn Thonglao]]
+| {{fb|THA}}
+| AFC
+| {{dts|format=dmy|2003|2|14}}
+| {{dts|format=dmy|2017|10|8}}
+|-
+| [[Yaya Touré]]
+| {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2004|4|28}}
+| {{dts|format=dmy|2015|3|29}}
+|-
+| [[Michael Umaña]]{{efn|1 unofficial FIFA match: French Guiana (2017).}}
+| {{fb|CRC}}
+| CONCACAF
+| {{dts|format=dmy|2004|6|4}}
+| {{dts|format=dmy|2017|10|10}}
+|-
+| [[Robin van Persie]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2005|6|4}}
+| {{dts|format=dmy|2017|8|31}}
+|-
+| [[Mario Yepes]]
+| {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|1999|2|9}}
+| {{dts|format=dmy|2014|7|4}}
+|-
+| [[Cho Young-jeung]]{{efn|11 unofficial Olympic matches: Taiwan (1975, 1976), Japan (1976 twice, 1980), Israel (1976), Malaysia (twice), Philippines, Brunei and Indonesia (1980).}}
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1975|3|19}}
+| {{dts|format=dmy|1986|10|5}}
+|-
+| |[[Michał Żewłakow]]
+| {{fb|POL}}
+| UEFA
+| {{dts|format=dmy|1999|6|19}}
+| {{dts|format=dmy|2011|3|29}}
+|-
+!rowspan="38"| 617
+| [[Sergio Agüero]]
+| {{fb|ARG}}
+| CONMEBOL
+!rowspan="38"| 101
+| {{dts|format=dmy|2006|9|3}}
+| {{dts|format=dmy|2021|7|3}}
+|-
+| [[Leonel Álvarez (footballer, born 1965)|Leonel Álvarez]]
+| {{fb|COL}}
+| CONMEBOL
+| {{dts|format=dmy|1985|2|14}}
+| {{dts|format=dmy|1997|9|7}}
+|-
+| '''[[Ali Ashfaq]]'''
+| {{fb|MDV}}
+| AFC
+| {{dts|format=dmy|2003|3|25}}
+| {{dts|format=dmy|2026|6|4}}
+|-
+| [[Emre Belözoğlu]]
+| {{fb|TUR}}
+| UEFA
+| {{dts|format=dmy|2000|2|23}}
+| {{dts|format=dmy|2019|10|11}}
+|-
+|bgcolor=#9FC| [[Yossi Benayoun]]
+| bgcolor="#9FC" | {{fb|ISR}}
+| UEFA
+| {{dts|format=dmy|1998|11|18}}
+| {{dts|format=dmy|2017|10|9}}
+|-
+| [[Vasiliy Berezutskiy]]
+| {{fb|RUS}}
+| UEFA
+| {{dts|format=dmy|2003|6|7}}
+| {{dts|format=dmy|2016|10|9}}
+|-
+|bgcolor=#9FC| [[Oleg Blokhin]]{{efn|11 unofficial Olympic matches: Burma, Mexico, Morocco, Poland, Denmark (1972), East Germany (1972 & 1976), Canada, North Korea, Iran and Brazil (1976).}}
+| bgcolor="#9FC" | {{fb|URS}}
+| UEFA
+| {{dts|format=dmy|1972|7|16}}
+| {{dts|format=dmy|1988|9|21}}
+|-
+| [[László Bölöni]]{{efn|1 unofficial FIFA match: Czechoslovakia (1977).}}
+| {{fb|ROU}}
+| UEFA
+| {{dts|format=dmy|1975|9|24}}
+| {{dts|format=dmy|1988|6|1}}
+|-
+| [[Joe Brincat (footballer)|Joe Brincat]]
+| {{fb|MLT}}
+| UEFA
+| {{dts|format=dmy|1987|10|14}}
+| {{dts|format=dmy|2004|2|14}}
+|-
+|bgcolor=#9FC| [[Boštjan Cesar]]
+| bgcolor="#9FC" | {{fb|SVN}}
+| UEFA
+| {{dts|format=dmy|2003|2|12}}
+| {{dts|format=dmy|2018|3|27}}
+|-
+| [[Phillip Cocu]]
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|1996|4|24}}
+| {{dts|format=dmy|2006|6|25}}
+|-
+| [[Daniel da Mota]]
+| {{fb|LUX}}
+| UEFA
+| {{dts|format=dmy|2007|6|2}}
+| {{dts|format=dmy|2021|6|6}}
+|-
+| [[Ulises de la Cruz]]
+| {{fb|ECU}}
+| CONMEBOL
+| {{dts|format=dmy|1995|5|28}}
+| {{dts|format=dmy|2010|5|16}}
+|-
+| [[Vincent Enyeama]]
+| {{fb|NGA}}
+| CAF
+| {{dts|format=dmy|2002|5|4}}
+| {{dts|format=dmy|2015|6|13}}
+|-
+|'''[[José María Giménez]]'''
+| {{fb|URU}}
+| CONMEBOL
+| {{dts|format=dmy|2013|9|10}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+|[[Kamil Grosicki]]
+| {{fb|POL}}
+| UEFA
+| {{dts|format=dmy|2008|2|2}}
+| {{dts|format=dmy|2026|3|31}}
+|-
+| [[Thomas Häßler]]
+| {{fb|FRG}}<br />{{fb|GER}}
+| UEFA
+| {{dts|format=dmy|1988|8|31}}
+| {{dts|format=dmy|2000|6|20}}
+|-
+|'''[[Pierre-Emile Højbjerg]]'''
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|2014|5|28}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+| '''[[Alex Iwobi]]'''
+| {{fb|NGA}}
+| CAF
+| {{dts|format=dmy|2015|10|8}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| '''[[Alireza Jahanbakhsh]]'''
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2013|10|5}}
+| {{dts|format=dmy|2026|6|26}}
+|-
+| [[Mahboub Juma'a]]
+| {{fb|KUW}}
+| AFC
+| {{dts|format=dmy|1976|3|28}}
+| {{dts|format=dmy|1990|3|9}}
+|-
+| [[Jaba Kankava]]
+| {{fb|GEO}}
+| UEFA
+| {{dts|format=dmy|2004|9|4}}
+| {{dts|format=dmy|2024|3|21}}
+|-
+|bgcolor=#9FC| [[Seydou Keita]]{{efn|1 unofficial FIFA match: South Africa (2000).}}
+| bgcolor="#9FC" | {{fb|MLI}}
+| CAF
+| {{dts|format=dmy|1998|10|4}}
+| {{dts|format=dmy|2015|1|28}}
+|-
+| [[Levan Kobiashvili]]
+| {{fb|GEO}}
+| UEFA
+| {{dts|format=dmy|1996|9|1}}
+| {{dts|format=dmy|2011|10|11}}
+|-
+|bgcolor=#9FC| [[Alyaksandr Kulchy]]{{efn|1 unofficial FIFA match: Romania (2004).}}
+| bgcolor="#9FC" | {{fb|BLR}}
+| UEFA
+| {{dts|format=dmy|1996|2|14}}
+| {{dts|format=dmy|2012|9|11}}
+|-
+| [[Saulius Mikoliūnas]]
+| {{fb|LTU}}
+| UEFA
+| {{dts|format=dmy|2004|6|5}}
+| {{dts|format=dmy|2022|11|16}}
+|-
+| [[Mohammed Rabia]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|1998|10|31}}
+| {{dts|format=dmy|2011|7|9}}
+|-
+| [[Ronald Raldes]]{{efn|name="11LAT"}}
+| {{fb|BOL}}
+| CONMEBOL
+| {{dts|format=dmy|2001|6|3}}
+| {{dts|format=dmy|2018|6|9}}
+|-
+| [[Cristian Riveros]]
+| {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|2005|5|4}}
+| {{dts|format=dmy|2018|3|27}}
+|-
+|'''[[Andy Robertson]]'''
+| {{fb|SCO}}
+| UEFA
+| {{dts|format=dmy|2014|3|5}}
+| {{dts|format=dmy|2026|10|6}}
+|-
+| [[Thomas Sørensen]]
+| {{fb|DEN}}
+| UEFA
+| {{dts|format=dmy|1999|11|17}}
+| {{dts|format=dmy|2012|5|26}}
+|-
+| [[Earnie Stewart]]{{efn|name="03MTQ"}}
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1990|12|19}}
+| {{dts|format=dmy|2004|8|18}}
+|-
+| [[Park Sung-hwa]]{{efn|name="OLYKOR"}}
+| {{fb|KOR}}
+| AFC
+| {{dts|format=dmy|1975|7|29}}
+| {{dts|format=dmy|1984|12|10}}
+|-
+| [[Cláudio Taffarel]]
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|1988|7|7}}
+| {{dts|format=dmy|1998|7|12}}
+|-
+| [[Andranik Teymourian]]
+| {{fb|IRN}}
+| AFC
+| {{dts|format=dmy|2005|8|24}}
+| {{dts|format=dmy|2016|10|11}}
+|-
+|bgcolor=#9FC| '''[[Jane Thabantso]]'''
+| bgcolor="#9FC" | {{fb|LES}}
+| CAF
+| {{dts|format=dmy|2014|11|19}}
+| {{dts|format=dmy|2026|3|29}}
+|-
+| [[Vasilis Torosidis]]
+| {{fb|GRE}}
+| UEFA
+| {{dts|format=dmy|2007|3|24}}
+| {{dts|format=dmy|2019|9|5}}
+|-
+| [[Joseph Yobo]]
+| {{fb|NGA}}
+| CAF
+| {{dts|format=dmy|2001|3|24}}
+| {{dts|format=dmy|2014|6|30}}
+|-
+!rowspan="45"| 655
+| [[Mohamed Aboutrika]]
+| {{fb|EGY}}
+| CAF
+!rowspan="45"| 100
+| {{dts|format=dmy|2001|3|19}}
+| {{dts|format=dmy|2013|11|19}}
+|-
+| [[Roberto Acuña]]
+| {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|1993|3|3}}
+| {{dts|format=dmy|2011|6|11}}
+|-
+| [[Hani Al-Dhabit]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|1997|3|25}}
+| {{dts|format=dmy|2014|11|14}}
+|-
+| [[Abdulaziz Al-Muqbali]]
+| {{fb|OMA}}
+| AFC
+| {{dts|format=dmy|2011|10|11}}
+| {{dts|format=dmy|2021|10|12}}
+|-
+| '''[[Juan Barrera]]'''{{efn|5 unofficial FIFA matches: Guadeloupe (2009, 2025 twice) and French Guinea (2024 twice).}}
+| {{fb|NCA}}
+| CONCACAF
+| {{dts|format=dmy|2009|1|22}}
+| {{dts|format=dmy|2026|3|27}}
+|-
+| [[Angelos Basinas]]
+| {{fb|GRE}}
+| UEFA
+| {{dts|format=dmy|1999|8|18}}
+| {{dts|format=dmy|2009|4|1}}
+|-
+| [[Henning Berg]]
+| {{fb|NOR}}
+| UEFA
+| {{dts|format=dmy|1992|5|13}}
+| {{dts|format=dmy|2004|5|27}}
+|-
+| [[Roderick Briffa]]
+| {{fb|MLT}}
+| UEFA
+| {{dts|format=dmy|2003|12|11}}
+| {{dts|format=dmy|2018|11|17}}
+|-
+| [[Denis Caniza]]
+| {{fb|PAR}}
+| CONMEBOL
+| {{dts|format=dmy|1996|11|10}}
+| {{dts|format=dmy|2010|9|7}}
+|-
+| [[Luis Capurro]]
+| {{fb|ECU}}
+| CONMEBOL
+| {{dts|format=dmy|1985|2|6}}
+| {{dts|format=dmy|2003|2|9}}
+|-
+|'''[[Rohit Chand]]'''{{efn|2 unrecognised FIFA matches: India Olympic (2009) and Northern Mariana Islands (2013).}}
+| {{fb|NEP}}
+| AFC
+| {{dts|format=dmy|2009|3|26}}
+| {{dts|format=dmy|2026|3|31}}
+|-
+| [[Christian Cueva]]
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|2011|6|1}}
+| {{dts|format=dmy|2024|6|29}}
+|-
+| [[Aleksandar Dragović]]
+| {{fb|AUT}}
+| UEFA
+| {{dts|format=dmy|2009|6|6}}
+| {{dts|format=dmy|2022|3|29}}
+|-
+| [[Damien Duff]]
+| {{fb|IRL}}
+| UEFA
+| {{dts|format=dmy|1998|3|15}}
+| {{dts|format=dmy|2012|6|18}}
+|-
+|bgcolor=#9FC| '''[[Jóan Símun Edmundsson]]'''
+| bgcolor="#9FC" | {{fb|FRO}}
+| UEFA
+| {{dts|format=dmy|2009|8|12}}
+| {{dts|format=dmy|2025|11|18}}
+|-
+|bgcolor=#9FC| [[Alexandru Epureanu]]
+| bgcolor="#9FC" | {{fb|MDA}}
+| UEFA
+| {{dts|format=dmy|2006|9|6}}
+| {{dts|format=dmy|2021|3|31}}
+|-
+| '''[[Fidel Escobar]]'''{{efn|name="0911GLP"}}
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2015|2|8}}
+| {{dts|format=dmy|2026|6|27}}
+|-
+| '''[[Lars Gerson]]'''
+| {{fb|LUX}}
+| UEFA
+| {{dts|format=dmy|2008|3|26}}
+| {{dts|format=dmy|2025|6|10}}
+|-
+|'''[[Aymen Hussein]]'''
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2015|8|26}}
+| {{dts|format=dmy|2026|9|29}}
+|-
+| [[Bojan Jokić]]
+| {{fb|SVN}}
+| UEFA
+| {{dts|format=dmy|2006|2|28}}
+| {{dts|format=dmy|2019|11|16}}
+|-
+| [[Ulf Kirsten]]
+| {{fb|GDR}}<br />{{fb|GER}}
+| UEFA
+| {{dts|format=dmy|1985|5|8}}
+| {{dts|format=dmy|2000|6|20}}
+|-
+| [[Rúnar Kristinsson]]{{efn|4 unofficial Olympic matches: Netherlands, East Germany, Portugal (1988) and England (1991).}}
+| {{fb|ISL}}
+| UEFA
+| {{dts|format=dmy|1987|10|28}}
+| {{dts|format=dmy|2004|8|18}}
+|-
+| [[Grzegorz Krychowiak]]
+| {{fb|POL}}
+| UEFA
+| {{dts|format=dmy|2008|12|14}}
+| {{dts|format=dmy|2023|9|10}}
+|-
+| [[Tony Meola]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1988|6|10}}
+| {{dts|format=dmy|2006|4|11}}
+|-
+| [[Joe-Max Moore]]
+| {{fb|USA}}
+| CONCACAF
+| {{dts|format=dmy|1992|9|3}}
+| {{dts|format=dmy|2002|6|14}}
+|-
+| [[Peter Mponda]]{{efn|2 unofficial FIFA matches: Kenya (2000) and Guinea (2001).}}
+| {{fb|MWI}}
+| CAF
+| {{dts|format=dmy|1998|1|3}}
+| {{dts|format=dmy|2011|10|8}}
+|-
+|'''[[Michael Amir Murillo]]'''
+| {{fb|PAN}}
+| CONCACAF
+| {{dts|format=dmy|2016|3|15}}
+| {{dts|format=dmy|2026|10|5}}
+|-
+|bgcolor=#9FC| [[Haitham Mustafa]]
+| bgcolor="#9FC" | {{fb|SDN}}
+| CAF
+| {{dts|format=dmy|1998|10|19}}
+| {{dts|format=dmy|2012|10|14}}
+|-
+| [[Nazri Nasir]]
+| {{fb|SIN}}
+| AFC
+| {{dts|format=dmy|1990|9|13}}
+| {{dts|format=dmy|2004|7|12}}
+|-
+| [[Carlos Pavón]]{{efn|name="07GLP"}}
+| {{fb|HON}}
+| CONCACAF
+| {{dts|format=dmy|1993|7|17}}
+| {{dts|format=dmy|2010|6|16}}
+|-
+| [[Carles Puyol]]
+| {{fb|ESP}}
+| UEFA
+| {{dts|format=dmy|2000|11|15}}
+| {{dts|format=dmy|2013|2|6}}
+|-
+| [[Robinho]]
+| {{fb|BRA}}
+| CONMEBOL
+| {{dts|format=dmy|2003|7|13}}
+| {{dts|format=dmy|2017|1|26}}
+|-
+| [[Ruslan Rotan]]
+| {{fb|UKR}}
+| UEFA
+| {{dts|format=dmy|2003|2|12}}
+| {{dts|format=dmy|2018|3|27}}
+|-
+| [[Noor Sabri]]
+| {{fb|IRQ}}
+| AFC
+| {{dts|format=dmy|2002|7|22}}
+| {{dts|format=dmy|2018|3|27}}
+|-
+| [[Goce Sedloski]]
+| {{fb|MKD}}
+| UEFA
+| {{dts|format=dmy|1996|3|27}}
+| {{dts|format=dmy|2010|5|29}}
+|-
+| [[Dario Šimić]]
+| {{fb|CRO}}
+| UEFA
+| {{dts|format=dmy|1996|3|13}}
+| {{dts|format=dmy|2008|8|20}}
+|-
+| [[Santokh Singh]]{{efn|19 unofficial FIFA matches; 15 Olympic matches: Papua New Guinea, North Korea (1976), Singapore (1976, 1983), Indonesia (1976, 1983 twice), South Korea (twice), Brunei, Japan, Philippines (1980), India (twice), Saudi Arabia (1983), and 4 unspecified.}}
+| {{fb|MAS}}
+| AFC
+| {{dts|format=dmy|1973|5|19}}
+| {{dts|format=dmy|1984|4|8}}
+|-
+| [[Jorge Soto (footballer)|Jorge Soto]]{{efn|1 unofficial FIFA match: Slovakia (1995).}}
+| {{fb|PER}}
+| CONMEBOL
+| {{dts|format=dmy|1992|11|25}}
+| {{dts|format=dmy|2005|10|12}}
+|-
+| [[Igors Stepanovs (footballer, born 1976)|Igors Stepanovs]]
+| {{fb|LAT}}
+| UEFA
+| {{dts|format=dmy|1995|4|26}}
+| {{dts|format=dmy|2011|8|10}}
+|-
+| [[Taijo Teniste]]
+| {{fb|EST}}
+| UEFA
+| {{dts|format=dmy|2007|11|9}}
+| {{dts|format=dmy|2025|9|9}}
+|-
+| [[Siaka Tiéné]]
+| {{fb|CIV}}
+| CAF
+| {{dts|format=dmy|2000|4|9}}
+| {{dts|format=dmy|2015|6|14}}
+|-
+|'''[[Trézéguet (Egyptian footballer)|Trézéguet]]'''
+| {{fb|EGY}}
+| CAF
+| {{dts|format=dmy|2014|8|30}}
+| {{dts|format=dmy|2026|7|7}}
+|-
+| [[Arda Turan]]
+| {{fb|TUR}}
+| UEFA
+| {{dts|format=dmy|2006|8|16}}
+| {{dts|format=dmy|2017|10|6}}
+|-
+| '''[[Virgil van Dijk]]'''
+| {{fb|NED}}
+| UEFA
+| {{dts|format=dmy|2015|10|10}}
+| {{dts|format=dmy|2026|10|4}}
+|-
+|bgcolor=#9FC|'''[[Matteo Vitaioli]]'''
+|bgcolor=#9FC| {{fb|SMR}}
+| UEFA
+| {{dts|format=dmy|2007|10|17}}
+| {{dts|format=dmy|2025|11|18}}
+|}
+
+;Notes
+:{{note label|id1||1}} Australia joined the AFC from the OFC on 1 January 2006 when Mark Schwarzer had 36 caps and Tim Cahill had 14 caps. The most capped men's footballer from the OFC is '''[[Chris Wood (footballer, born 1991)|Chris Wood]]''' of [[New Zealand men's national football team|New Zealand]] with 95 caps.<ref>{{cite web |title=Chris Wood |url=https://www.rsssf.org/miscellaneous/nz-wood-intlg.html |work=RSSSF|access-date=14 October 2025|archive-date=11 October 2025|archive-url=https://web.archive.org/web/20251011020803/https://www.rsssf.org/miscellaneous/nz-wood-intlg.html |url-status=live}}</ref>
+
+:[[Fandi Ahmad]], [[Marvin Andrews]], [[Lakhdar Belloumi]], [[Jonathan Billie]], [[József Bozsik]], [[Durrant Brown]], [[David Chabala]], [[Jack Chamangwana]], [[Young Chimodzi]], [[Gilbert Chirwa]], [[Godfrey Chitalu]], [[Alex Chola]], [[Hans-Jürgen Dörner]], [[Falah Hassan]], [[Ari Hjelm]], '''[[Joevin Jones]]''', [[Emmanuel Kundé]], [[Grzegorz Lato]], [[Borislav Mihaylov]], '''[[Akhtam Nazarov]]''', [[Mrisho Ngasa]], [[Felix Nyirongo]], [[Morten Olsen]], [[Marvin Phillip]], [[Kinnah Phiri]], [[Piyapong Pue-on]], [[Ahmed Radhi]], [[Donovan Ricketts]], [[Hussein Saeed]], [[Choi Soon-ho]], [[Joachim Streich]], [[Jermaine Taylor (footballer)|Jermaine Taylor]], [[Andris Vaņins]], [[Harold Wallace]], [[Godfrey Walusimbi]], [[Harry Waya]], [[Lawrence Waya]], [[Andy Williams (Jamaican footballer)|Andy Williams]] and [[Rabie Yassin]] have all appeared in 100 or more matches for their nation, however some of these caps are not recognised as official by FIFA, and do not reach the 100 FIFA-recgonized caps' threshold required to be included in this table.<ref name="RSSSF">{{cite web |url=https://www.rsssf.org/miscellaneous/century.html#caps |title=Players with a Century of Caps |website=[[RSSSF]] |date=1 October 2025|access-date=31 July 2022|archive-date=28 June 2011|archive-url=https://web.archive.org/web/20110628192800/http://www.rsssf.com/miscellaneous/century.html#caps|url-status=live}}</ref>
+
+== Players by nations ==
+{{updated|6 October 2026}}
+{{col-begin}}
+{{col-2}}
+{{sticky-header}}
+{| class="wikitable sortable sticky-header"
+|-
+!Players
+!width=245|Nation
+!Confederation
+|-
+! 19
+| {{fb|MEX}} || [[CONCACAF]]
+|-
+!rowspan="2"| 18
+| {{fb|BHR}} || [[Asian Football Confederation|AFC]]
+|-
+| {{fb|KSA}} || AFC
+|-
+!rowspan="3"| 17
+| {{fb|EGY}} || [[Confederation of African Football|CAF]]
+|-
+| {{fb|EST}} || [[UEFA]]
+|-
+| {{fb|USA}} || CONCACAF
+|-
+! 16
+| {{fb|KOR}} || AFC
+|-
+!rowspan="3"| 15
+| {{fb|GER}} / {{fb|FRG}} || UEFA
+|-
+| {{fb|OMA}} || AFC
+|-
+| {{fb|QAT}} || AFC
+|-
+!rowspan="2"| 14
+| {{fb|KUW}} || AFC
+|-
+| {{fb|PAN}} || CONCACAF
+|-
+! 13
+| {{fb|ESP}} || UEFA
+|-
+!rowspan="2"| 12
+| {{fb|CRO}} || UEFA
+|-
+| {{fb|UAE}} || AFC
+|-
+!rowspan="7"| 11
+| {{fb|DEN}} || UEFA
+|-
+| {{fb|CRC}} || CONCACAF
+|-
+| {{fb|IRQ}} || AFC
+|-
+| {{fb|JOR}} || AFC
+|-
+| {{fb|NED}} || UEFA
+|-
+| {{fb|SIN}} || AFC
+|-
+| {{fb|SWE}} || UEFA
+|-
+!rowspan="4"| 10
+| {{fb|ENG}} || UEFA
+|-
+| {{fb|FRA}} || UEFA
+|-
+| {{fb|IRN}} || AFC
+|-
+| {{fb|PER}} || [[CONMEBOL]]
+|-
+!rowspan="3"| 9
+| {{fb|BRA}} || CONMEBOL
+|-
+| {{fb|CHI}} || CONMEBOL
+|-
+| {{fb|URU}} || CONMEBOL
+|-
+!rowspan="6"| 8
+| {{fb|ARG}} || CONMEBOL
+|-
+| {{fb|BEL}} || UEFA
+|-
+| {{fb|ITA}} || UEFA
+|-
+| {{fb|JPN}} || AFC
+|-
+| {{fb|MAS}} || AFC
+|-
+| {{fb|POR}} || UEFA
+|-
+!rowspan="10"| 7
+| {{fb|CHN}} || AFC
+|-
+| {{fb|COL}} || CONMEBOL
+|-
+| {{fb|ECU}} || CONMEBOL
+|-
+| {{fb|CIV}} || CAF
+|-
+| {{fb|LVA}} || UEFA
+|-
+| {{fb|MLT}} || UEFA
+|-
+| {{fb|PAR}} || CONMEBOL
+|-
+| {{fb|POL}} || UEFA
+|-
+| {{fb|IRL}} || UEFA
+|-
+| {{fb|SUI}} || UEFA
+|-
+!rowspan="4"| 6
+| {{fb|AND}} || UEFA
+|-
+| {{fb|HON}} || CONCACAF
+|-
+| {{fb|THA}} || AFC
+|-
+| {{fb|TUR}} || UEFA
+|-
+!rowspan="14"| 5
+| {{fb|AUT}} || UEFA
+|-
+| {{fb|FIN}} || UEFA
+|-
+| {{fb|GRE}} || UEFA
+|-
+| {{fb|ISL}} || UEFA
+|-
+| {{fb|JAM}} || CONCACAF
+|-
+| {{fb|LIE}} || UEFA
+|-
+| {{fb|NGA}} || CAF
+|-
+| {{fb|ROU}} || UEFA
+|-
+| {{fb|RUS}} / {{fb|CIS}} || UEFA
+|-
+| {{fb|SRB}} / {{fb|SCG}} || UEFA
+|-
+| {{fb|SVK}} || UEFA
+|-
+| {{fb|UKR}} || UEFA
+|-
+| {{fb|UZB}} || AFC
+|-
+| {{fb|ZAM}} || CAF
+|}
+{{col-2}}
+{{sticky-header}}
+{| class="wikitable sortable sticky-header"
+|-
+!Players
+!width=245|Nation
+!Confederation
+|-
+!rowspan="6"| 4
+| {{fb|CMR}} || CAF
+|-
+| {{fb|CZE}} || UEFA
+|-
+| {{fb|LUX}} || UEFA
+|-
+| {{fb|NIR}} || UEFA
+|-
+| {{fb|VEN}} || CONMEBOL
+|-
+| {{fb|WAL}} || UEFA
+|-
+!rowspan="9"| 3
+| {{fb|ALG}} || CAF
+|-
+| {{fb|AUS}} || [[Oceania Football Confederation|OFC]] / AFC
+|-
+| {{fb|GAB}} || CAF
+|-
+| {{fb|GEO}} || UEFA
+|-
+| {{fb|GHA}} || CAF
+|-
+| {{fb|GUA}} || CONCACAF
+|-
+| {{fb|NOR}} || UEFA
+|-
+| {{fb|SEN}} || CAF
+|-
+| {{fb|TUN}} || CAF
+|-
+!rowspan="17"| 2
+| {{fb|BOL}} || CONMEBOL
+|-
+| {{fb|BIH}} || UEFA
+|-
+| {{fb|CUB}} || CONCACAF
+|-
+| {{fb|HUN}} || UEFA
+|-
+| {{fb|LBN}} || AFC
+|-
+| {{fb|LTU}} || UEFA
+|-
+| {{fb|MAR}} || CAF
+|-
+| {{fb|MDV}} || AFC
+|-
+| {{fb|MKD}} || UEFA
+|-
+| {{fb|MWI}} || CAF
+|-
+| {{fb|NEP}} || AFC
+|-
+| {{fb|NCA}} || CONCACAF
+|-
+| {{fb|SCO}} || UEFA
+|-
+| {{fb|SVN}} || UEFA
+|-
+| {{fb|SYR}} || AFC
+|-
+| {{fb|TAN}} || CAF
+|-
+| {{fb|TRI}} || CONCACAF
+|-
+!rowspan="27"| 1
+| {{fb|ALB}} || UEFA
+|-
+| {{fb|ARM}} || UEFA
+|-
+| {{fb|AZE}} || UEFA
+|-
+| {{fb|BLR}} || UEFA
+|-
+| {{fb|BUL}} || UEFA
+|-
+| {{fb|BFA}} || CAF
+|-
+| {{fb|CAN}} || CONCACAF
+|-
+| {{fb|CPV}} || CAF
+|-
+| {{fb|CYP}} || UEFA
+|-
+| {{fb|DRC}} || CAF
+|-
+| {{fb|SLV}} || CONCACAF
+|-
+| {{fb|FRO}} || UEFA
+|-
+| {{fb|HKG}} || AFC
+|-
+| {{fb|IND}} || AFC
+|-
+| {{fb|IDN}} || AFC
+|-
+| {{fb|ISR}} || UEFA
+|-
+| {{fb|LES}} || CAF
+|-
+| {{fb|MLI}} || CAF
+|-
+| {{fb|MDA}} || UEFA
+|-
+| {{fb|MOZ}} || CAF
+|-
+| {{fb|PRK}} || AFC
+|-
+| {{fb|PHI}} || AFC
+|-
+| {{fb|RWA}} || CAF
+|-
+| {{fb|SMR}} || UEFA
+|-
+| {{fb|RSA}} || CAF
+|-
+| {{fb|URS}} || UEFA
+|-
+| {{fb|SDN}} || CAF
+|-
+! 699 !! 122 !! 5
+|}
+{{col-end}}
+
+== Players by confederations ==
+{{updated|6 October 2026}}
+
+{|class="wikitable sortable" style="text-align: center;"
+|-
+!Players
+!Confederation
+!Nations
+|-
+! 276
+| [[UEFA]]
+! 52
+|-
+! 201
+| [[Asian Football Confederation|AFC]]
+! 26
+|-
+! 83
+| [[CONCACAF]]
+! 12
+|-
+! 72
+| [[CONMEBOL]]
+! 10
+|-
+! 67
+| [[Confederation of African Football|CAF]]
+! 22
+|-
+! 699 !! 5 !! 122
+|}
+
+== See also ==
+* [[List of men's footballers with 1,000 or more official appearances]]
+* [[List of top international women's football goalscorers by country]]
+* [[List of women's footballers with 100 or more international goals]]
+* [[List of women's footballers with 100 or more international caps]]
+* [[List of top international men's football goalscorers by country]]
+* [[List of men's footballers with 50 or more international goals]]
+* [[List of footballers with 500 or more goals|List of men's footballers with 500 or more goals]]
+* [[Progression of association football caps record]]
+
+== Notes ==
+{{notelist}}
+
+== References ==
+{{reflist}}
+
+{{International football statistics}}
+
+[[Category:FIFA Men's Century Club| ]]
+[[Category:Association football player non-biographical articles]]
+[[Category:Lists of association football player superlatives|International]]
+[[Category:National association football team records and statistics|*]]
+[[Category:Lists of international association football players|Men's over 100 caps]]
+[[Category:Career achievements of association football players|International caps]]
+[[Category:Men's association football records and statistics]]

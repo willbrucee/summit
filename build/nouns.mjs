@@ -62,3 +62,12 @@ Object.assign(NOUNS, {
   'world-cup-nations': 'A men\'s World Cup nation', 'grand-slam-champions': 'A Grand Slam singles champion', 'f1-winners': 'A Formula One Grand Prix winner',
   'fast-food': 'A fast food chain', 'chocolate-bars': 'A chocolate bar', leaders: 'A US president or British prime minister',
 });
+
+// Prompts with named lists, October 2026.
+Object.assign(NOUNS, {
+  'caps-100': 'A man with 100 or more international caps', 'world-cup-winners': 'A World Cup winner',
+  'ballon-dor-podium': "A Ballon d'Or top three finisher", 'world-cup-scorers': 'A World Cup goalscorer',
+  'nba-all-stars': 'An NBA All-Star', nobel: 'A Nobel Prize winner', authors: 'A best-selling fiction author',
+  bands: 'A Rock and Roll Hall of Fame inductee', musicals: 'A Tony-nominated musical', sitcoms: 'An Emmy-winning series',
+  simpsons: 'A character from The Simpsons', 'harry-potter': 'A Harry Potter character', 'car-brands': 'A car brand',
+});
